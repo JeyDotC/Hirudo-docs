@@ -2,10 +2,15 @@
 - - -
 
 **Default namespace\TP_yyStackEntry**
-<div class="location">framework\libs\smarty\sysplugins\smarty_internal_templateparser.php at line 76</div>
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_internal_templateparser.php at line 76#L76 class="location">framework\libs\smarty\sysplugins\smarty_internal_templateparser.php at line 76</a>
+
 #Class TP_yyStackEntry#
 
 **TP_yyStackEntry**
+
+
 
 
 - - -
@@ -13,49 +18,27 @@
 <p class="signature">public  class **TP_yyStackEntry**</p>
 
 
+
 - - -
+
+
 
 <table id="summary_field">
 <tr><th colspan="2">Field Summary</th></tr>
 <tr>
-<td class="type"> mixed</td>
-<td class="description"><p class="name"><a href="#major">$major</a></p></td>
+<td><span class='k'></span> <span class='nx'>mixed</span></td>
+<td class="description"><p class="name" ><a href="#major"> $major</a>
+                                </p></td>
 </tr>
 <tr>
-<td class="type"> mixed</td>
-<td class="description"><p class="name"><a href="#minor">$minor</a></p></td>
+<td><span class='k'></span> <span class='nx'>mixed</span></td>
+<td class="description"><p class="name" ><a href="#minor"> $minor</a>
+                                </p></td>
 </tr>
 <tr>
-<td class="type"> mixed</td>
-<td class="description"><p class="name"><a href="#stateno">$stateno</a></p></td>
+<td><span class='k'></span> <span class='nx'>mixed</span></td>
+<td class="description"><p class="name" ><a href="#stateno"> $stateno</a>
+                                </p></td>
 </tr>
 </table>
-
-##Field Detail##
-<div class="location">framework\libs\smarty\sysplugins\smarty_internal_templateparser.php at line 79</div>
-<h3 id="major">major</h3>
-
-public  mixed $major
-<div class="details">
-</div>
-
-- - -
-
-<div class="location">framework\libs\smarty\sysplugins\smarty_internal_templateparser.php at line 81</div>
-<h3 id="minor">minor</h3>
-
-public  mixed $minor
-<div class="details">
-</div>
-
-- - -
-
-<div class="location">framework\libs\smarty\sysplugins\smarty_internal_templateparser.php at line 78</div>
-<h3 id="stateno">stateno</h3>
-
-public  mixed $stateno
-<div class="details">
-</div>
-
-- - -
 

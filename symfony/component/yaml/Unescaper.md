@@ -2,10 +2,15 @@
 - - -
 
 **Symfony\Component\Yaml\Unescaper**
-<div class="location">framework\libs\symfony-components\Symfony\Component\Yaml\Unescaper.php at line 19</div>
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\Yaml\Unescaper.php at line 19#L19 class="location">framework\libs\symfony-components\Symfony\Component\Yaml\Unescaper.php at line 19</a>
+
 #Class Unescaper#
 
 **Unescaper**
+
+
 
 
 - - -
@@ -19,6 +24,7 @@ YAML strings.</p></div>
 <dt>Author:</dt>
 <dd>Matthew Lewinski <matthew@lewinski.org></dd>
 </dl>
+
 
 - - -
 

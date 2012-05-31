@@ -7,14 +7,16 @@
 <table id="summary_function" class="title">
 <tr><th colspan="2" class="title">Function Summary</th></tr>
 <tr>
-<td class="type"> void</td>
+<td class="nx"> void</td>
 <td class="description"><p class="name"><a href="#joomlaAutoloader">joomlaAutoloader</a>(mixed class)</p><p class="description">«Copyright 2012 Jeysson José Guevara Mendivil(JeyDotC)»This file is part of Hirudo.
 </p></td>
 </tr>
 </table>
 
 <h2 id="detail_function">Function Detail</h2>
-<div class="location">framework\hirudo\Hirudo\Impl\Joomla\JoomlaFrontController.php at line 30</div>
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\Joomla\JoomlaFrontController.php at line 30#L30 class="location">framework\hirudo\Hirudo\Impl\Joomla\JoomlaFrontController.php at line 30</a>
+
 <h3 id="joomlaAutoloader()">joomlaAutoloader</h3>
 ```php
 public  void **joomlaAutoloader**(mixed class)```

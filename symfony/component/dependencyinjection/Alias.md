@@ -2,10 +2,15 @@
 - - -
 
 **Symfony\Component\DependencyInjection\Alias**
-<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Alias.php at line 17</div>
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\Alias.php at line 17#L17 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Alias.php at line 17</a>
+
 #Class Alias#
 
 **Alias**
+
+
 
 
 - - -
@@ -18,12 +23,13 @@
 <dt>Api.</dt>
 </dl>
 
+
 - - -
 
 <table id="summary_constructor">
 <tr><th colspan="2">Constructor Summary</th></tr>
 <tr>
-<td class="type"> void</td>
+<td><span class='k'></span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#__construct">__construct</a>(string id, Boolean public)</p><p class="description">Constructor.</p></td>
 </tr>
 </table>
@@ -31,22 +37,22 @@
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type">  Boolean</td>
+<td><span class='k'></span> <span class='nx'>Boolean</span></td>
 <td class="description"><p class="name"><a href="#ispublic">isPublic</a>()</p><p class="description">Checks if this DI Alias should be public or not.</p></td>
 </tr>
 <tr>
-<td class="type">  void</td>
+<td><span class='k'></span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#setpublic">setPublic</a>(Boolean boolean)</p><p class="description">Sets if this Alias is public.</p></td>
 </tr>
 </table>
 
 <h2 id="detail_method">Constructor Detail</h2>
-<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Alias.php at line 30</div>
-<h3 id="__construct()">__construct</h3>
 
-```php
-public  void **__construct**(string id, Boolean public)
-```
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\Alias.php at line 30#L30 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Alias.php at line 30</a>
+
+<h3 id="__construct">__construct</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (string id, Boolean public)
+
 <div class="details">
 <p>Constructor.</p><dl>
 <dt>Parameters:</dt>
@@ -59,10 +65,13 @@ public  void **__construct**(string id, Boolean public)
 - - -
 
 <h2 id="detail_method">Method Detail</h2>
-<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Alias.php at line 43</div>
-<h3 id="isPublic()">isPublic</h3>
 
-public  Boolean **isPublic** ()<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\Alias.php at line 43#L43 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Alias.php at line 43</a>
+
+<h3 id="isPublic()">isPublic</h3>
+<span class='k'></span> <span class='nx'>Boolean</span> <span class='nf'>isPublic</span> ()
+
+<div class="details">
 <p>Checks if this DI Alias should be public or not.</p><dl>
 <dt>Api.</dt>
 </dl>
@@ -70,10 +79,13 @@ public  Boolean **isPublic** ()<div class="details">
 
 - - -
 
-<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Alias.php at line 55</div>
-<h3 id="setPublic()">setPublic</h3>
 
-public  void **setPublic** (Boolean boolean)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\Alias.php at line 55#L55 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Alias.php at line 55</a>
+
+<h3 id="setPublic()">setPublic</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>setPublic</span> (Boolean boolean)
+
+<div class="details">
 <p>Sets if this Alias is public.</p><dl>
 <dt>Parameters:</dt>
 <dd>boolean - If this Alias should be public</dd>

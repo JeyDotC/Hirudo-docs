@@ -2,10 +2,15 @@
 - - -
 
 **Smarty\Smarty_Variable**
-<div class="location">framework\libs\smarty\sysplugins\smarty_internal_data.php at line 467</div>
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_internal_data.php at line 467#L467 class="location">framework\libs\smarty\sysplugins\smarty_internal_data.php at line 467</a>
+
 #Class Smarty_Variable#
 
 **Smarty_Variable**
+
+
 
 
 - - -
@@ -19,67 +24,45 @@
 <dd>Template</dd>
 </dl>
 
+
 - - -
+
+
 
 <table id="summary_field">
 <tr><th colspan="2">Field Summary</th></tr>
 <tr>
-<td class="type"> boolean</td>
-<td class="description"><p class="name"><a href="#nocache">$nocache</a></p><p class="description">if true any output of this variable will be not cached</p></td>
+<td><span class='k'></span> <span class='nx'>boolean</span></td>
+<td class="description"><p class="name" ><a href="#nocache"> $nocache</a>
+                                </p><p class="description">if true any output of this variable will be not cached</p></td>
 </tr>
 <tr>
-<td class="type"> int</td>
-<td class="description"><p class="name"><a href="#scope">$scope</a></p><p class="description">the scope the variable will have  (local,parent or root)</p></td>
+<td><span class='k'></span> <span class='nx'>int</span></td>
+<td class="description"><p class="name" ><a href="#scope"> $scope</a>
+                                </p><p class="description">the scope the variable will have  (local,parent or root)</p></td>
 </tr>
 <tr>
-<td class="type"> mixed</td>
-<td class="description"><p class="name"><a href="#value">$value</a></p><p class="description">template variable</p></td>
+<td><span class='k'></span> <span class='nx'>mixed</span></td>
+<td class="description"><p class="name" ><a href="#value"> $value</a>
+                                </p><p class="description">template variable</p></td>
 </tr>
 </table>
 
 <table id="summary_constructor">
 <tr><th colspan="2">Constructor Summary</th></tr>
 <tr>
-<td class="type"> void</td>
+<td><span class='k'></span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#__construct">__construct</a>(mixed value, boolean nocache, int scope)</p><p class="description">create Smarty variable object</p></td>
 </tr>
 </table>
 
-##Field Detail##
-<div class="location">framework\libs\smarty\sysplugins\smarty_internal_data.php at line 480</div>
-<h3 id="nocache">nocache</h3>
-
-public  boolean $nocache = false
-<div class="details">
-<p>if true any output of this variable will be not cached</p></div>
-
-- - -
-
-<div class="location">framework\libs\smarty\sysplugins\smarty_internal_data.php at line 486</div>
-<h3 id="scope">scope</h3>
-
-public  int $scope = Smarty::SCOPE_LOCAL
-<div class="details">
-<p>the scope the variable will have  (local,parent or root)</p></div>
-
-- - -
-
-<div class="location">framework\libs\smarty\sysplugins\smarty_internal_data.php at line 474</div>
-<h3 id="value">value</h3>
-
-public  mixed $value = null
-<div class="details">
-<p>template variable</p></div>
-
-- - -
-
 <h2 id="detail_method">Constructor Detail</h2>
-<div class="location">framework\libs\smarty\sysplugins\smarty_internal_data.php at line 495</div>
-<h3 id="__construct()">__construct</h3>
 
-```php
-public  void **__construct**(mixed value, boolean nocache, int scope)
-```
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_internal_data.php at line 495#L495 class="location">framework\libs\smarty\sysplugins\smarty_internal_data.php at line 495</a>
+
+<h3 id="__construct">__construct</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (mixed value, boolean nocache, int scope)
+
 <div class="details">
 <p>create Smarty variable object</p><dl>
 <dt>Parameters:</dt>

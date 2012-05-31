@@ -2,10 +2,15 @@
 - - -
 
 **Hirudo\Models\Components\ComponentInterface**
-<div class="location">framework\hirudo\Hirudo\Models\Components\ComponentInterface.php at line 28</div>
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Models\Components\ComponentInterface.php at line 28#L28 class="location">framework\hirudo\Hirudo\Models\Components\ComponentInterface.php at line 28</a>
+
 #Interface ComponentInterface#
 
 **ComponentInterface**
+
+
 
 
 - - -
@@ -18,6 +23,7 @@
 <dt>Author:</dt>
 <dd>JeyDotC</dd>
 </dl>
+
 
 - - -
 

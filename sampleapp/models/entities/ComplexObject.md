@@ -2,10 +2,15 @@
 - - -
 
 **SampleApp\Models\Entities\ComplexObject**
-<div class="location">src\SampleApp\Models\Entities\ComplexObject.php at line 10</div>
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/src\SampleApp\Models\Entities\ComplexObject.php at line 10#L10 class="location">src\SampleApp\Models\Entities\ComplexObject.php at line 10</a>
+
 #Class ComplexObject#
 
 **ComplexObject**
+
+
 
 
 - - -
@@ -19,81 +24,100 @@
 <dd>JeyDotC</dd>
 </dl>
 
+
 - - -
 
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type">  void</td>
+<td><span class='k'></span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#getname">getName</a>()</p></td>
 </tr>
 <tr>
-<td class="type">  void</td>
+<td><span class='k'></span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#setname">setName</a>(mixed name)</p></td>
 </tr>
 <tr>
-<td class="type">  void</td>
+<td><span class='k'></span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#getpass">getPass</a>()</p></td>
 </tr>
 <tr>
-<td class="type">  void</td>
+<td><span class='k'></span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#setpass">setPass</a>(mixed pass)</p></td>
 </tr>
 <tr>
-<td class="type">  void</td>
+<td><span class='k'></span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#getsimpleobject">getSimpleObject</a>()</p></td>
 </tr>
 <tr>
-<td class="type">  void</td>
+<td><span class='k'></span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#setsimpleobject">setSimpleObject</a>(mixed simpleObject)</p></td>
 </tr>
 </table>
 
 <h2 id="detail_method">Method Detail</h2>
-<div class="location">src\SampleApp\Models\Entities\ComplexObject.php at line 30</div>
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/src\SampleApp\Models\Entities\ComplexObject.php at line 30#L30 class="location">src\SampleApp\Models\Entities\ComplexObject.php at line 30</a>
+
 <h3 id="getName()">getName</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>getName</span> ()
 
-public  void **getName** ()<div class="details">
+<div class="details">
 </div>
 
 - - -
 
-<div class="location">src\SampleApp\Models\Entities\ComplexObject.php at line 34</div>
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/src\SampleApp\Models\Entities\ComplexObject.php at line 34#L34 class="location">src\SampleApp\Models\Entities\ComplexObject.php at line 34</a>
+
 <h3 id="setName()">setName</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>setName</span> (mixed name)
 
-public  void **setName** (mixed name)<div class="details">
+<div class="details">
 </div>
 
 - - -
 
-<div class="location">src\SampleApp\Models\Entities\ComplexObject.php at line 38</div>
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/src\SampleApp\Models\Entities\ComplexObject.php at line 38#L38 class="location">src\SampleApp\Models\Entities\ComplexObject.php at line 38</a>
+
 <h3 id="getPass()">getPass</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>getPass</span> ()
 
-public  void **getPass** ()<div class="details">
+<div class="details">
 </div>
 
 - - -
 
-<div class="location">src\SampleApp\Models\Entities\ComplexObject.php at line 42</div>
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/src\SampleApp\Models\Entities\ComplexObject.php at line 42#L42 class="location">src\SampleApp\Models\Entities\ComplexObject.php at line 42</a>
+
 <h3 id="setPass()">setPass</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>setPass</span> (mixed pass)
 
-public  void **setPass** (mixed pass)<div class="details">
+<div class="details">
 </div>
 
 - - -
 
-<div class="location">src\SampleApp\Models\Entities\ComplexObject.php at line 46</div>
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/src\SampleApp\Models\Entities\ComplexObject.php at line 46#L46 class="location">src\SampleApp\Models\Entities\ComplexObject.php at line 46</a>
+
 <h3 id="getSimpleObject()">getSimpleObject</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>getSimpleObject</span> ()
 
-public  void **getSimpleObject** ()<div class="details">
+<div class="details">
 </div>
 
 - - -
 
-<div class="location">src\SampleApp\Models\Entities\ComplexObject.php at line 50</div>
-<h3 id="setSimpleObject()">setSimpleObject</h3>
 
-public  void **setSimpleObject** (mixed simpleObject)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/src\SampleApp\Models\Entities\ComplexObject.php at line 50#L50 class="location">src\SampleApp\Models\Entities\ComplexObject.php at line 50</a>
+
+<h3 id="setSimpleObject()">setSimpleObject</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>setSimpleObject</span> (mixed simpleObject)
+
+<div class="details">
 </div>
 
 - - -

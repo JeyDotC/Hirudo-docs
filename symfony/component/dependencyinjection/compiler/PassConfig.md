@@ -2,10 +2,15 @@
 - - -
 
 **Symfony\Component\DependencyInjection\Compiler\PassConfig**
-<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\PassConfig.php at line 23</div>
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\PassConfig.php at line 23#L23 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\PassConfig.php at line 23</a>
+
 #Class PassConfig#
 
 **PassConfig**
+
+
 
 
 - - -
@@ -19,6 +24,7 @@
 <dd>Johannes M. Schmitt <schmittjoh@gmail.com></dd>
 <dt>Api.</dt>
 </dl>
+
 
 - - -
 

@@ -2,10 +2,15 @@
 - - -
 
 **Default namespace\PseudoEnum**
-<div class="location">framework\hirudo\Hirudo\Lang\Enum.php at line 37</div>
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Lang\Enum.php at line 37#L37 class="location">framework\hirudo\Hirudo\Lang\Enum.php at line 37</a>
+
 #Class PseudoEnum#
 
 **PseudoEnum**
+
+
 
 
 - - -
@@ -22,37 +27,41 @@ const AND_OTHER_ENUM_VALUE = 2;
 </code></p></p></div>
 
 
+
 - - -
 
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type"> static  boolean</td>
+<td><span class='k'>static </span> <span class='nx'>boolean</span></td>
 <td class="description"><p class="name"><a href="#valuebelongs">valueBelongs</a>(string|number value)</p><p class="description">Says if the given value belongs to the set of values  of this enum.</p></td>
 </tr>
 <tr>
-<td class="type"> static  boolean</td>
+<td><span class='k'>static </span> <span class='nx'>boolean</span></td>
 <td class="description"><p class="name"><a href="#namebelongs">nameBelongs</a>(string|number value, mixed name)</p><p class="description">Says if there is a constant with the given name for this enum.</p></td>
 </tr>
 <tr>
-<td class="type"> static  string</td>
+<td><span class='k'>static </span> <span class='nx'>string</span></td>
 <td class="description"><p class="name"><a href="#valuetostring">valueToString</a>(string|number value)</p><p class="description">Returns the constant name corresponding to the given value.</p></td>
 </tr>
 <tr>
-<td class="type"> static  string|number</td>
+<td><span class='k'>static </span> <span class='nx'>string|number</span></td>
 <td class="description"><p class="name"><a href="#stringtovalue">stringToValue</a>(string string)</p><p class="description">Returns a value by the corresponding name.</p></td>
 </tr>
 <tr>
-<td class="type"> static  array</td>
+<td><span class='k'>static </span> <span class='nx'>array</span></td>
 <td class="description"><p class="name"><a href="#values">values</a>()</p><p class="description">Gets an array with all the constants of the enum.</p></td>
 </tr>
 </table>
 
 <h2 id="detail_method">Method Detail</h2>
-<div class="location">framework\hirudo\Hirudo\Lang\Enum.php at line 45</div>
-<h3 id="valueBelongs()">valueBelongs</h3>
 
-public static  boolean **valueBelongs** (string|number value)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Lang\Enum.php at line 45#L45 class="location">framework\hirudo\Hirudo\Lang\Enum.php at line 45</a>
+
+<h3 id="valueBelongs()">valueBelongs</h3>
+<span class='k'>static </span> <span class='nx'>boolean</span> <span class='nf'>valueBelongs</span> (string|number value)
+
+<div class="details">
 <p>Says if the given value belongs to the set of values  of this enum.</p><dl>
 <dt>Parameters:</dt>
 <dd>value - The value which we want to know if exists for this enum.</dd>
@@ -63,10 +72,13 @@ public static  boolean **valueBelongs** (string|number value)<div class="details
 
 - - -
 
-<div class="location">framework\hirudo\Hirudo\Lang\Enum.php at line 58</div>
-<h3 id="nameBelongs()">nameBelongs</h3>
 
-public static  boolean **nameBelongs** (string|number value, mixed name)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Lang\Enum.php at line 58#L58 class="location">framework\hirudo\Hirudo\Lang\Enum.php at line 58</a>
+
+<h3 id="nameBelongs()">nameBelongs</h3>
+<span class='k'>static </span> <span class='nx'>boolean</span> <span class='nf'>nameBelongs</span> (string|number value, mixed name)
+
+<div class="details">
 <p>Says if there is a constant with the given name for this enum.</p><dl>
 <dt>Parameters:</dt>
 <dd>value - The name which we want to know if exists for this enum.</dd>
@@ -77,10 +89,13 @@ public static  boolean **nameBelongs** (string|number value, mixed name)<div cla
 
 - - -
 
-<div class="location">framework\hirudo\Hirudo\Lang\Enum.php at line 71</div>
-<h3 id="valueToString()">valueToString</h3>
 
-public static  string **valueToString** (string|number value)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Lang\Enum.php at line 71#L71 class="location">framework\hirudo\Hirudo\Lang\Enum.php at line 71</a>
+
+<h3 id="valueToString()">valueToString</h3>
+<span class='k'>static </span> <span class='nx'>string</span> <span class='nf'>valueToString</span> (string|number value)
+
+<div class="details">
 <p>Returns the constant name corresponding to the given value.</p><dl>
 <dt>Parameters:</dt>
 <dd>value - The value which we want to know name in the enum list.</dd>
@@ -91,10 +106,13 @@ public static  string **valueToString** (string|number value)<div class="details
 
 - - -
 
-<div class="location">framework\hirudo\Hirudo\Lang\Enum.php at line 84</div>
-<h3 id="stringToValue()">stringToValue</h3>
 
-public static  string|number **stringToValue** (string string)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Lang\Enum.php at line 84#L84 class="location">framework\hirudo\Hirudo\Lang\Enum.php at line 84</a>
+
+<h3 id="stringToValue()">stringToValue</h3>
+<span class='k'>static </span> <span class='nx'>string|number</span> <span class='nf'>stringToValue</span> (string string)
+
+<div class="details">
 <p>Returns a value by the corresponding name.</p><dl>
 <dt>Parameters:</dt>
 <dd>string - The name of the constant.</dd>
@@ -105,10 +123,13 @@ public static  string|number **stringToValue** (string string)<div class="detail
 
 - - -
 
-<div class="location">framework\hirudo\Hirudo\Lang\Enum.php at line 96</div>
-<h3 id="values()">values</h3>
 
-public static  array **values** ()<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Lang\Enum.php at line 96#L96 class="location">framework\hirudo\Hirudo\Lang\Enum.php at line 96</a>
+
+<h3 id="values()">values</h3>
+<span class='k'>static </span> <span class='nx'>array</span> <span class='nf'>values</span> ()
+
+<div class="details">
 <p>Gets an array with all the constants of the enum.</p><dl>
 <dt>Returns:</dt>
 <dd>An asociative array which keys are the name and values are the values of all this class's constants.</dd>

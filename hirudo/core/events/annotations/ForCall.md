@@ -2,10 +2,15 @@
 - - -
 
 **Hirudo\Core\Events\Annotations\ForCall**
-<div class="location">framework\hirudo\Hirudo\Core\Events\Annotations\ForCall.php at line 30</div>
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Core\Events\Annotations\ForCall.php at line 30#L30 class="location">framework\hirudo\Hirudo\Core\Events\Annotations\ForCall.php at line 30</a>
+
 #Class ForCall#
 
 **ForCall**
+
+
 
 
 - - -
@@ -28,49 +33,27 @@ the 'aTask' task.</p></p></div>
 <dt>Target("CLASS").</dt>
 </dl>
 
+
 - - -
+
+
 
 <table id="summary_field">
 <tr><th colspan="2">Field Summary</th></tr>
 <tr>
-<td class="type"> string</td>
-<td class="description"><p class="name"><a href="#app">$app</a></p><p class="description"></p></td>
+<td><span class='k'></span> <span class='nx'>string</span></td>
+<td class="description"><p class="name" ><a href="#app"> $app</a>
+                                </p><p class="description"></p></td>
 </tr>
 <tr>
-<td class="type"> string</td>
-<td class="description"><p class="name"><a href="#module">$module</a></p><p class="description"></p></td>
+<td><span class='k'></span> <span class='nx'>string</span></td>
+<td class="description"><p class="name" ><a href="#module"> $module</a>
+                                </p><p class="description"></p></td>
 </tr>
 <tr>
-<td class="type"> string</td>
-<td class="description"><p class="name"><a href="#task">$task</a></p><p class="description"></p></td>
+<td><span class='k'></span> <span class='nx'>string</span></td>
+<td class="description"><p class="name" ><a href="#task"> $task</a>
+                                </p><p class="description"></p></td>
 </tr>
 </table>
-
-##Field Detail##
-<div class="location">framework\hirudo\Hirudo\Core\Events\Annotations\ForCall.php at line 36</div>
-<h3 id="app">app</h3>
-
-public  string $app = &quot;&quot;
-<div class="details">
-<p></p></div>
-
-- - -
-
-<div class="location">framework\hirudo\Hirudo\Core\Events\Annotations\ForCall.php at line 42</div>
-<h3 id="module">module</h3>
-
-public  string $module = &quot;&quot;
-<div class="details">
-<p></p></div>
-
-- - -
-
-<div class="location">framework\hirudo\Hirudo\Core\Events\Annotations\ForCall.php at line 48</div>
-<h3 id="task">task</h3>
-
-public  string $task = &quot;&quot;
-<div class="details">
-<p></p></div>
-
-- - -
 

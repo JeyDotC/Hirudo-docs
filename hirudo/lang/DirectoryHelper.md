@@ -2,10 +2,15 @@
 - - -
 
 **Hirudo\Lang\DirectoryHelper**
-<div class="location">framework\hirudo\Hirudo\Lang\Loader.php at line 193</div>
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Lang\Loader.php at line 193#L193 class="location">framework\hirudo\Hirudo\Lang\Loader.php at line 193</a>
+
 #Class DirectoryHelper#
 
 **DirectoryHelper**
+
+
 
 
 - - -
@@ -15,12 +20,13 @@
 <div class="comment" id="overview_description"><p>A class for directory listing.</p></div>
 
 
+
 - - -
 
 <table id="summary_constructor">
 <tr><th colspan="2">Constructor Summary</th></tr>
 <tr>
-<td class="type"> void</td>
+<td><span class='k'></span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#__construct">__construct</a>(RecursiveDirectoryIterator dir)</p><p class="description">Creates a directory helper.</p></td>
 </tr>
 </table>
@@ -28,19 +34,19 @@
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type">  array</td>
+<td><span class='k'></span> <span class='nx'>array</span></td>
 <td class="description"><p class="name"><a href="#listfiles">listFiles</a>(int depth)</p><p class="description">Lists all files, ignoring the directories, for the actual DirectoryIterator
 at the specified depth.</p></td>
 </tr>
 </table>
 
 <h2 id="detail_method">Constructor Detail</h2>
-<div class="location">framework\hirudo\Hirudo\Lang\Loader.php at line 202</div>
-<h3 id="__construct()">__construct</h3>
 
-```php
-public  void **__construct**(RecursiveDirectoryIterator dir)
-```
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Lang\Loader.php at line 202#L202 class="location">framework\hirudo\Hirudo\Lang\Loader.php at line 202</a>
+
+<h3 id="__construct">__construct</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (RecursiveDirectoryIterator dir)
+
 <div class="details">
 <p>Creates a directory helper.</p><dl>
 <dt>Parameters:</dt>
@@ -51,10 +57,13 @@ public  void **__construct**(RecursiveDirectoryIterator dir)
 - - -
 
 <h2 id="detail_method">Method Detail</h2>
-<div class="location">framework\hirudo\Hirudo\Lang\Loader.php at line 221</div>
-<h3 id="listFiles()">listFiles</h3>
 
-public  array **listFiles** (int depth)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Lang\Loader.php at line 221#L221 class="location">framework\hirudo\Hirudo\Lang\Loader.php at line 221</a>
+
+<h3 id="listFiles()">listFiles</h3>
+<span class='k'></span> <span class='nx'>array</span> <span class='nf'>listFiles</span> (int depth)
+
+<div class="details">
 <p>Lists all files, ignoring the directories, for the actual DirectoryIterator
 at the specified depth.</p><dl>
 <dt>Parameters:</dt>

@@ -2,10 +2,15 @@
 - - -
 
 **Symfony\Component\Yaml\Inline**
-<div class="location">framework\libs\symfony-components\Symfony\Component\Yaml\Inline.php at line 21</div>
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\Yaml\Inline.php at line 21#L21 class="location">framework\libs\symfony-components\Symfony\Component\Yaml\Inline.php at line 21</a>
+
 #Class Inline#
 
 **Inline**
+
+
 
 
 - - -
@@ -18,6 +23,7 @@
 <dt>Author:</dt>
 <dd>Fabien Potencier <fabien@symfony.com></dd>
 </dl>
+
 
 - - -
 

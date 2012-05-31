@@ -2,11 +2,16 @@
 - - -
 
 **Symfony\Component\DependencyInjection\TaggedContainerInterface**
-<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\TaggedContainerInterface.php at line 21</div>
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\TaggedContainerInterface.php at line 21#L21 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\TaggedContainerInterface.php at line 21</a>
+
 #Interface TaggedContainerInterface#
 
 <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/containerinterface.html">ContainerInterface</a>
-    ***TaggedContainerInterface**
+    * **TaggedContainerInterface**
+
+
 
 
 - - -
@@ -24,12 +29,13 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/comp
 <dt>Api.</dt>
 </dl>
 
+
 - - -
 
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type">  array</td>
+<td><span class='k'></span> <span class='nx'>array</span></td>
 <td class="description"><p class="name"><a href="#findtaggedserviceids">findTaggedServiceIds</a>(string name)</p><p class="description">Returns service ids for a given tag.</p></td>
 </tr>
 </table>
@@ -39,10 +45,13 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/comp
 <tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/containerinterface.html#addScope()">addScope</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/containerinterface.html#enterScope()">enterScope</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/containerinterface.html#get()">get</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/containerinterface.html#getParameter()">getParameter</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/containerinterface.html#has()">has</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/containerinterface.html#hasParameter()">hasParameter</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/containerinterface.html#hasScope()">hasScope</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/containerinterface.html#isScopeActive()">isScopeActive</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/containerinterface.html#leaveScope()">leaveScope</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/containerinterface.html#setParameter()">setParameter</a></td></tr></table>
 
 <h2 id="detail_method">Method Detail</h2>
-<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\TaggedContainerInterface.php at line 32</div>
-<h3 id="findTaggedServiceIds()">findTaggedServiceIds</h3>
 
-public  array **findTaggedServiceIds** (string name)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\TaggedContainerInterface.php at line 32#L32 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\TaggedContainerInterface.php at line 32</a>
+
+<h3 id="findTaggedServiceIds()">findTaggedServiceIds</h3>
+<span class='k'></span> <span class='nx'>array</span> <span class='nf'>findTaggedServiceIds</span> (string name)
+
+<div class="details">
 <p>Returns service ids for a given tag.</p><dl>
 <dt>Parameters:</dt>
 <dd>name - The tag name</dd>

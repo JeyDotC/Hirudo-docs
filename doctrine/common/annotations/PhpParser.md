@@ -2,10 +2,15 @@
 - - -
 
 **Doctrine\Common\Annotations\PhpParser**
-<div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\PhpParser.php at line 30</div>
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\doctrine-common\Doctrine\Common\Annotations\PhpParser.php at line 30#L30 class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\PhpParser.php at line 30</a>
+
 #Class PhpParser#
 
 **PhpParser**
+
+
 
 
 - - -
@@ -20,21 +25,25 @@
 <dd>Christian Kaps <christian.kaps@mohiva.com></dd>
 </dl>
 
+
 - - -
 
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type">  array</td>
+<td><span class='k'></span> <span class='nx'>array</span></td>
 <td class="description"><p class="name"><a href="#parseclass">parseClass</a>(\ReflectionClass class)</p><p class="description">Parses a class.</p></td>
 </tr>
 </table>
 
 <h2 id="detail_method">Method Detail</h2>
-<div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\PhpParser.php at line 59</div>
-<h3 id="parseClass()">parseClass</h3>
 
-public  array **parseClass** (\ReflectionClass class)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\doctrine-common\Doctrine\Common\Annotations\PhpParser.php at line 59#L59 class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\PhpParser.php at line 59</a>
+
+<h3 id="parseClass()">parseClass</h3>
+<span class='k'></span> <span class='nx'>array</span> <span class='nf'>parseClass</span> (\ReflectionClass class)
+
+<div class="details">
 <p>Parses a class.</p><dl>
 <dt>Parameters:</dt>
 <dd>class - A <code>ReflectionClass</code> object.</dd>

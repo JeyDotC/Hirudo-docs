@@ -2,10 +2,15 @@
 - - -
 
 **Doctrine\Common\Annotations\Reader**
-<div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\Reader.php at line 27</div>
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\doctrine-common\Doctrine\Common\Annotations\Reader.php at line 27#L27 class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\Reader.php at line 27</a>
+
 #Interface Reader#
 
 **Reader**
+
+
 
 
 - - -
@@ -19,81 +24,100 @@
 <dd>Johannes M. Schmitt <schmittjoh@gmail.com></dd>
 </dl>
 
+
 - - -
 
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type">  void</td>
+<td><span class='k'></span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#getclassannotations">getClassAnnotations</a>(ReflectionClass class)</p></td>
 </tr>
 <tr>
-<td class="type">  void</td>
+<td><span class='k'></span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#getclassannotation">getClassAnnotation</a>(ReflectionClass class, mixed annotationName)</p></td>
 </tr>
 <tr>
-<td class="type">  void</td>
+<td><span class='k'></span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#getmethodannotations">getMethodAnnotations</a>(ReflectionMethod method)</p></td>
 </tr>
 <tr>
-<td class="type">  void</td>
+<td><span class='k'></span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#getmethodannotation">getMethodAnnotation</a>(ReflectionMethod method, mixed annotationName)</p></td>
 </tr>
 <tr>
-<td class="type">  void</td>
+<td><span class='k'></span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#getpropertyannotations">getPropertyAnnotations</a>(ReflectionProperty property)</p></td>
 </tr>
 <tr>
-<td class="type">  void</td>
+<td><span class='k'></span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#getpropertyannotation">getPropertyAnnotation</a>(ReflectionProperty property, mixed annotationName)</p></td>
 </tr>
 </table>
 
 <h2 id="detail_method">Method Detail</h2>
-<div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\Reader.php at line 29</div>
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\doctrine-common\Doctrine\Common\Annotations\Reader.php at line 29#L29 class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\Reader.php at line 29</a>
+
 <h3 id="getClassAnnotations()">getClassAnnotations</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>getClassAnnotations</span> (ReflectionClass class)
 
-public  void **getClassAnnotations** (ReflectionClass class)<div class="details">
+<div class="details">
 </div>
 
 - - -
 
-<div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\Reader.php at line 30</div>
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\doctrine-common\Doctrine\Common\Annotations\Reader.php at line 30#L30 class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\Reader.php at line 30</a>
+
 <h3 id="getClassAnnotation()">getClassAnnotation</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>getClassAnnotation</span> (ReflectionClass class, mixed annotationName)
 
-public  void **getClassAnnotation** (ReflectionClass class, mixed annotationName)<div class="details">
+<div class="details">
 </div>
 
 - - -
 
-<div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\Reader.php at line 31</div>
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\doctrine-common\Doctrine\Common\Annotations\Reader.php at line 31#L31 class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\Reader.php at line 31</a>
+
 <h3 id="getMethodAnnotations()">getMethodAnnotations</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>getMethodAnnotations</span> (ReflectionMethod method)
 
-public  void **getMethodAnnotations** (ReflectionMethod method)<div class="details">
+<div class="details">
 </div>
 
 - - -
 
-<div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\Reader.php at line 32</div>
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\doctrine-common\Doctrine\Common\Annotations\Reader.php at line 32#L32 class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\Reader.php at line 32</a>
+
 <h3 id="getMethodAnnotation()">getMethodAnnotation</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>getMethodAnnotation</span> (ReflectionMethod method, mixed annotationName)
 
-public  void **getMethodAnnotation** (ReflectionMethod method, mixed annotationName)<div class="details">
+<div class="details">
 </div>
 
 - - -
 
-<div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\Reader.php at line 33</div>
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\doctrine-common\Doctrine\Common\Annotations\Reader.php at line 33#L33 class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\Reader.php at line 33</a>
+
 <h3 id="getPropertyAnnotations()">getPropertyAnnotations</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>getPropertyAnnotations</span> (ReflectionProperty property)
 
-public  void **getPropertyAnnotations** (ReflectionProperty property)<div class="details">
+<div class="details">
 </div>
 
 - - -
 
-<div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\Reader.php at line 34</div>
-<h3 id="getPropertyAnnotation()">getPropertyAnnotation</h3>
 
-public  void **getPropertyAnnotation** (ReflectionProperty property, mixed annotationName)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\doctrine-common\Doctrine\Common\Annotations\Reader.php at line 34#L34 class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\Reader.php at line 34</a>
+
+<h3 id="getPropertyAnnotation()">getPropertyAnnotation</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>getPropertyAnnotation</span> (ReflectionProperty property, mixed annotationName)
+
+<div class="details">
 </div>
 
 - - -

@@ -2,11 +2,16 @@
 - - -
 
 **Hirudo\Serialization\Impl\Json\EntitySerializerJSON**
-<div class="location">framework\hirudo\Hirudo\Serialization\Impl\Json\EntitySerializerJSON.php at line 32</div>
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Serialization\Impl\Json\EntitySerializerJSON.php at line 32#L32 class="location">framework\hirudo\Hirudo\Serialization\Impl\Json\EntitySerializerJSON.php at line 32</a>
+
 #Class EntitySerializerJSON#
 
 <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/serialization/entityserializerbase.html">EntitySerializerBase</a>
-    ***EntitySerializerJSON**
+    * **EntitySerializerJSON**
+
+
 
 
 - - -
@@ -24,12 +29,13 @@ into a JSON string.</p></div>
 <dd>JeyDotC</dd>
 </dl>
 
+
 - - -
 
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type"> protected  string</td>
+<td><span class='k'>protected </span> <span class='nx'>string</span></td>
 <td class="description"><p class="name"><a href="#doserialize">doSerialize</a>(array array)</p><p class="description">This is the abstract method to be implemented by any serializer, it receives
 an ssociative array representing the entity making it easier to create the
 string representation.</p></td>
@@ -41,10 +47,13 @@ string representation.</p></td>
 <tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/serialization/entityserializerbase.html#__construct()">__construct</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/serialization/entityserializerbase.html#doSerialize()">doSerialize</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/serialization/entityserializerbase.html#serialize()">serialize</a></td></tr></table>
 
 <h2 id="detail_method">Method Detail</h2>
-<div class="location">framework\hirudo\Hirudo\Serialization\Impl\Json\EntitySerializerJSON.php at line 34</div>
-<h3 id="doSerialize()">doSerialize</h3>
 
-protected  string **doSerialize** (array array)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Serialization\Impl\Json\EntitySerializerJSON.php at line 34#L34 class="location">framework\hirudo\Hirudo\Serialization\Impl\Json\EntitySerializerJSON.php at line 34</a>
+
+<h3 id="doSerialize()">doSerialize</h3>
+<span class='k'>protected </span> <span class='nx'>string</span> <span class='nf'>doSerialize</span> (array array)
+
+<div class="details">
 <p>This is the abstract method to be implemented by any serializer, it receives
 an ssociative array representing the entity making it easier to create the
 string representation.</p><dl>

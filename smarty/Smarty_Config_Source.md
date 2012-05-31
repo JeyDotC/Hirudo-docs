@@ -2,11 +2,16 @@
 - - -
 
 **Smarty\Smarty_Config_Source**
-<div class="location">framework\libs\smarty\sysplugins\smarty_config_source.php at line 22</div>
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_config_source.php at line 22#L22 class="location">framework\libs\smarty\sysplugins\smarty_config_source.php at line 22</a>
+
 #Class Smarty_Config_Source#
 
 <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_template_source.html">Smarty_Template_Source</a>
-    ***Smarty_Config_Source**
+    * **Smarty_Config_Source**
+
+
 
 
 - - -
@@ -29,6 +34,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 <dd>bool $exists</dd>
 </dl>
 
+
 - - -
 
 <table class="inherit">
@@ -38,7 +44,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 <table id="summary_constructor">
 <tr><th colspan="2">Constructor Summary</th></tr>
 <tr>
-<td class="type"> void</td>
+<td><span class='k'></span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#__construct">__construct</a>(<a href="../smarty/smarty_resource.html">Smarty_Resource</a> handler, <a href="../smarty/smarty.html">Smarty</a> smarty, string resource, string type, string name, string unique_resource)</p><p class="description">create Config Object container</p></td>
 </tr>
 </table>
@@ -48,12 +54,12 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 <tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_template_source.html#__construct()">__construct</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_template_source.html#getCompiled()">getCompiled</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_template_source.html#renderUncompiled()">renderUncompiled</a></td></tr></table>
 
 <h2 id="detail_method">Constructor Detail</h2>
-<div class="location">framework\libs\smarty\sysplugins\smarty_config_source.php at line 34</div>
-<h3 id="__construct()">__construct</h3>
 
-```php
-public  void **__construct**(<a href="../smarty/smarty_resource.html">Smarty_Resource</a> handler, <a href="../smarty/smarty.html">Smarty</a> smarty, string resource, string type, string name, string unique_resource)
-```
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_config_source.php at line 34#L34 class="location">framework\libs\smarty\sysplugins\smarty_config_source.php at line 34</a>
+
+<h3 id="__construct">__construct</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (<a href="../smarty/smarty_resource.html">Smarty_Resource</a> handler, <a href="../smarty/smarty.html">Smarty</a> smarty, string resource, string type, string name, string unique_resource)
+
 <div class="details">
 <p>create Config Object container</p><dl>
 <dt>Parameters:</dt>

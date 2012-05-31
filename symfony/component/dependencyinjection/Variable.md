@@ -2,10 +2,15 @@
 - - -
 
 **Symfony\Component\DependencyInjection\Variable**
-<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Variable.php at line 27</div>
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\Variable.php at line 27#L27 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Variable.php at line 27</a>
+
 #Class Variable#
 
 **Variable**
+
+
 
 
 - - -
@@ -19,23 +24,24 @@
 <dd>Johannes M. Schmitt <schmittjoh@gmail.com></dd>
 </dl>
 
+
 - - -
 
 <table id="summary_constructor">
 <tr><th colspan="2">Constructor Summary</th></tr>
 <tr>
-<td class="type"> void</td>
+<td><span class='k'></span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#__construct">__construct</a>(string name)</p><p class="description">Constructor</p></td>
 </tr>
 </table>
 
 <h2 id="detail_method">Constructor Detail</h2>
-<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Variable.php at line 36</div>
-<h3 id="__construct()">__construct</h3>
 
-```php
-public  void **__construct**(string name)
-```
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\Variable.php at line 36#L36 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Variable.php at line 36</a>
+
+<h3 id="__construct">__construct</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (string name)
+
 <div class="details">
 <p>Constructor</p></div>
 

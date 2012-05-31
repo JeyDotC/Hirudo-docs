@@ -2,11 +2,14 @@
 - - -
 
 **Symfony\Component\DependencyInjection\Exception\RuntimeException**
-<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Exception\RuntimeException.php at line 19</div>
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\Exception\RuntimeException.php at line 19#L19 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Exception\RuntimeException.php at line 19</a>
+
 #Class RuntimeException#
 
 \RuntimeException
-***RuntimeException**
+* **RuntimeException**
 
 
 <dl>
@@ -18,6 +21,8 @@
 <dt>All Known Subclasses:</dt>
 <dd><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/exception/inactivescopeexception.html">InactiveScopeException</a> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/exception/parametercircularreferenceexception.html">ParameterCircularReferenceException</a> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/exception/scopecrossinginjectionexception.html">ScopeCrossingInjectionException</a> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/exception/scopewideninginjectionexception.html">ScopeWideningInjectionException</a> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/exception/servicecircularreferenceexception.html">ServiceCircularReferenceException</a> </dd>
 </dl>
+
+
 
 - - -
 
@@ -32,6 +37,7 @@ extends \RuntimeException
 <dt>Author:</dt>
 <dd>Johannes M. Schmitt <schmittjoh@gmail.com></dd>
 </dl>
+
 
 - - -
 

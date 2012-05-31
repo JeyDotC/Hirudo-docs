@@ -2,11 +2,16 @@
 - - -
 
 **Smarty\_smarty_text**
-<div class="location">framework\libs\smarty\sysplugins\smarty_internal_parsetree.php at line 335</div>
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_internal_parsetree.php at line 335#L335 class="location">framework\libs\smarty\sysplugins\smarty_internal_parsetree.php at line 335</a>
+
 #Class _smarty_text#
 
 <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/_smarty_parsetree.html">_smarty_parsetree</a>
-    ***_smarty_text**
+    * **_smarty_text**
+
+
 
 
 - - -
@@ -24,6 +29,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/_smar
 <dt>Ignore.</dt>
 </dl>
 
+
 - - -
 
 <table class="inherit">
@@ -33,7 +39,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/_smar
 <table id="summary_constructor">
 <tr><th colspan="2">Constructor Summary</th></tr>
 <tr>
-<td class="type"> void</td>
+<td><span class='k'></span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#__construct">__construct</a>(object parser, string data)</p><p class="description">Create template text buffer</p></td>
 </tr>
 </table>
@@ -41,7 +47,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/_smar
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type">  strint</td>
+<td><span class='k'></span> <span class='nx'>strint</span></td>
 <td class="description"><p class="name"><a href="#to_smarty_php">to_smarty_php</a>()</p><p class="description">Return buffer content</p></td>
 </tr>
 </table>
@@ -51,12 +57,12 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/_smar
 <tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/_smarty_parsetree.html#to_smarty_php()">to_smarty_php</a></td></tr></table>
 
 <h2 id="detail_method">Constructor Detail</h2>
-<div class="location">framework\libs\smarty\sysplugins\smarty_internal_parsetree.php at line 344</div>
-<h3 id="__construct()">__construct</h3>
 
-```php
-public  void **__construct**(object parser, string data)
-```
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_internal_parsetree.php at line 344#L344 class="location">framework\libs\smarty\sysplugins\smarty_internal_parsetree.php at line 344</a>
+
+<h3 id="__construct">__construct</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (object parser, string data)
+
 <div class="details">
 <p>Create template text buffer</p><dl>
 <dt>Parameters:</dt>
@@ -68,10 +74,13 @@ public  void **__construct**(object parser, string data)
 - - -
 
 <h2 id="detail_method">Method Detail</h2>
-<div class="location">framework\libs\smarty\sysplugins\smarty_internal_parsetree.php at line 355</div>
-<h3 id="to_smarty_php()">to_smarty_php</h3>
 
-public  strint **to_smarty_php** ()<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_internal_parsetree.php at line 355#L355 class="location">framework\libs\smarty\sysplugins\smarty_internal_parsetree.php at line 355</a>
+
+<h3 id="to_smarty_php()">to_smarty_php</h3>
+<span class='k'></span> <span class='nx'>strint</span> <span class='nf'>to_smarty_php</span> ()
+
+<div class="details">
 <p>Return buffer content</p><dl>
 <dt>Returns:</dt>
 <dd>text</dd>

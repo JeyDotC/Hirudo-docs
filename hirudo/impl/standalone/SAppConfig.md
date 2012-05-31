@@ -2,11 +2,16 @@
 - - -
 
 **Hirudo\Impl\StandAlone\SAppConfig**
-<div class="location">framework\hirudo\Hirudo\Impl\StandAlone\SAppConfig.php at line 36</div>
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\StandAlone\SAppConfig.php at line 36#L36 class="location">framework\hirudo\Hirudo\Impl\StandAlone\SAppConfig.php at line 36</a>
+
 #Class SAppConfig#
 
 <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/appconfig.html">AppConfig</a>
-    ***SAppConfig**
+    * **SAppConfig**
+
+
 
 
 - - -
@@ -24,16 +29,17 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/
 <dt>Hirudo\Core\Annotations\Export(id="Config").</dt>
 </dl>
 
+
 - - -
 
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type">  mixed</td>
+<td><span class='k'></span> <span class='nx'>mixed</span></td>
 <td class="description"><p class="name"><a href="#get">get</a>(string key, mixed default)</p><p class="description">Gets a value from the collected configuration data.</p></td>
 </tr>
 <tr>
-<td class="type"> protected  void</td>
+<td><span class='k'>protected </span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#load">load</a>()</p><p class="description">Load the configuration data.</p></td>
 </tr>
 </table>
@@ -43,10 +49,13 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/
 <tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/appconfig.html#__construct()">__construct</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/appconfig.html#get()">get</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/appconfig.html#load()">load</a></td></tr></table>
 
 <h2 id="detail_method">Method Detail</h2>
-<div class="location">framework\hirudo\Hirudo\Impl\StandAlone\SAppConfig.php at line 44</div>
-<h3 id="get()">get</h3>
 
-public  mixed **get** (string key, mixed default)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\StandAlone\SAppConfig.php at line 44#L44 class="location">framework\hirudo\Hirudo\Impl\StandAlone\SAppConfig.php at line 44</a>
+
+<h3 id="get()">get</h3>
+<span class='k'></span> <span class='nx'>mixed</span> <span class='nf'>get</span> (string key, mixed default)
+
+<div class="details">
 <p>Gets a value from the collected configuration data.</p><dl>
 <dt>Parameters:</dt>
 <dd>key - The key that identifies the value in config.</dd>
@@ -58,10 +67,13 @@ public  mixed **get** (string key, mixed default)<div class="details">
 
 - - -
 
-<div class="location">framework\hirudo\Hirudo\Impl\StandAlone\SAppConfig.php at line 52</div>
-<h3 id="load()">load</h3>
 
-protected  void **load** ()<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\StandAlone\SAppConfig.php at line 52#L52 class="location">framework\hirudo\Hirudo\Impl\StandAlone\SAppConfig.php at line 52</a>
+
+<h3 id="load()">load</h3>
+<span class='k'>protected </span> <span class='nx'>void</span> <span class='nf'>load</span> ()
+
+<div class="details">
 <p>Load the configuration data.</p></div>
 
 - - -

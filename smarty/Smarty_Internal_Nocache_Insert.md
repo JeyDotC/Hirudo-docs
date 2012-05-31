@@ -2,10 +2,15 @@
 - - -
 
 **Smarty\Smarty_Internal_Nocache_Insert**
-<div class="location">framework\libs\smarty\sysplugins\smarty_internal_nocache_insert.php at line 18</div>
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_internal_nocache_insert.php at line 18#L18 class="location">framework\libs\smarty\sysplugins\smarty_internal_nocache_insert.php at line 18</a>
+
 #Class Smarty_Internal_Nocache_Insert#
 
 **Smarty_Internal_Nocache_Insert**
+
+
 
 
 - - -
@@ -19,21 +24,25 @@
 <dd>Compiler</dd>
 </dl>
 
+
 - - -
 
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type"> static  string</td>
+<td><span class='k'>static </span> <span class='nx'>string</span></td>
 <td class="description"><p class="name"><a href="#compile">compile</a>(string _function, array _attr, <a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> _template, string _script, string _assign)</p><p class="description">Compiles code for the {insert} tag into cache file</p></td>
 </tr>
 </table>
 
 <h2 id="detail_method">Method Detail</h2>
-<div class="location">framework\libs\smarty\sysplugins\smarty_internal_nocache_insert.php at line 30</div>
-<h3 id="compile()">compile</h3>
 
-public static  string **compile** (string _function, array _attr, <a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> _template, string _script, string _assign)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_internal_nocache_insert.php at line 30#L30 class="location">framework\libs\smarty\sysplugins\smarty_internal_nocache_insert.php at line 30</a>
+
+<h3 id="compile()">compile</h3>
+<span class='k'>static </span> <span class='nx'>string</span> <span class='nf'>compile</span> (string _function, array _attr, <a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> _template, string _script, string _assign)
+
+<div class="details">
 <p>Compiles code for the {insert} tag into cache file</p><dl>
 <dt>Parameters:</dt>
 <dd>_function - insert function name</dd>

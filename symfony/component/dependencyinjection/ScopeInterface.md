@@ -2,10 +2,15 @@
 - - -
 
 **Symfony\Component\DependencyInjection\ScopeInterface**
-<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ScopeInterface.php at line 21</div>
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\ScopeInterface.php at line 21#L21 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ScopeInterface.php at line 21</a>
+
 #Interface ScopeInterface#
 
 **ScopeInterface**
+
+
 
 
 - - -
@@ -20,25 +25,29 @@
 <dt>Api.</dt>
 </dl>
 
+
 - - -
 
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type">  void</td>
+<td><span class='k'></span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#getname">getName</a>()</p><p class="description"></p></td>
 </tr>
 <tr>
-<td class="type">  void</td>
+<td><span class='k'></span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#getparentname">getParentName</a>()</p><p class="description"></p></td>
 </tr>
 </table>
 
 <h2 id="detail_method">Method Detail</h2>
-<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ScopeInterface.php at line 26</div>
-<h3 id="getName()">getName</h3>
 
-public  void **getName** ()<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\ScopeInterface.php at line 26#L26 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ScopeInterface.php at line 26</a>
+
+<h3 id="getName()">getName</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>getName</span> ()
+
+<div class="details">
 <p></p><dl>
 <dt>Api.</dt>
 </dl>
@@ -46,10 +55,13 @@ public  void **getName** ()<div class="details">
 
 - - -
 
-<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ScopeInterface.php at line 31</div>
-<h3 id="getParentName()">getParentName</h3>
 
-public  void **getParentName** ()<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\ScopeInterface.php at line 31#L31 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ScopeInterface.php at line 31</a>
+
+<h3 id="getParentName()">getParentName</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>getParentName</span> ()
+
+<div class="details">
 <p></p><dl>
 <dt>Api.</dt>
 </dl>

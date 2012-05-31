@@ -2,7 +2,10 @@
 - - -
 
 **Hirudo\Serialization\EntitySerializerBase**
-<div class="location">framework\hirudo\Hirudo\Serialization\EntitySerializerBase.php at line 29</div>
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Serialization\EntitySerializerBase.php at line 29#L29 class="location">framework\hirudo\Hirudo\Serialization\EntitySerializerBase.php at line 29</a>
+
 #Class EntitySerializerBase#
 
 **EntitySerializerBase**
@@ -13,6 +16,8 @@
 <dd><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/serialization/impl/json/entityserializerjson.html">Hirudo\Serialization\Impl\Json\EntitySerializerJSON</a> </dd>
 </dl>
 
+
+
 - - -
 
 <p class="signature">public abstract  class **EntitySerializerBase**</p>
@@ -20,12 +25,13 @@
 <div class="comment" id="overview_description"><p>A base class for entity serialization.</p></div>
 
 
+
 - - -
 
 <table id="summary_constructor">
 <tr><th colspan="2">Constructor Summary</th></tr>
 <tr>
-<td class="type"> void</td>
+<td><span class='k'></span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#__construct">__construct</a>()</p><p class="description">Creates a new entity serializer.</p></td>
 </tr>
 </table>
@@ -33,11 +39,11 @@
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type">  string</td>
+<td><span class='k'></span> <span class='nx'>string</span></td>
 <td class="description"><p class="name"><a href="#serialize">serialize</a>(mixed entity)</p><p class="description">Serializes an entity into a string.</p></td>
 </tr>
 <tr>
-<td class="type"> protected abstract  string</td>
+<td><span class='k'>protected abstract </span> <span class='nx'>string</span></td>
 <td class="description"><p class="name"><a href="#doserialize">doSerialize</a>(array array)</p><p class="description">This is the abstract method to be implemented by any serializer, it receives
 an ssociative array representing the entity making it easier to create the
 string representation.</p></td>
@@ -45,22 +51,25 @@ string representation.</p></td>
 </table>
 
 <h2 id="detail_method">Constructor Detail</h2>
-<div class="location">framework\hirudo\Hirudo\Serialization\EntitySerializerBase.php at line 36</div>
-<h3 id="__construct()">__construct</h3>
 
-```php
-public  void **__construct**()
-```
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Serialization\EntitySerializerBase.php at line 36#L36 class="location">framework\hirudo\Hirudo\Serialization\EntitySerializerBase.php at line 36</a>
+
+<h3 id="__construct">__construct</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> ()
+
 <div class="details">
 <p>Creates a new entity serializer.</p></div>
 
 - - -
 
 <h2 id="detail_method">Method Detail</h2>
-<div class="location">framework\hirudo\Hirudo\Serialization\EntitySerializerBase.php at line 46</div>
-<h3 id="serialize()">serialize</h3>
 
-public  string **serialize** (mixed entity)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Serialization\EntitySerializerBase.php at line 46#L46 class="location">framework\hirudo\Hirudo\Serialization\EntitySerializerBase.php at line 46</a>
+
+<h3 id="serialize()">serialize</h3>
+<span class='k'></span> <span class='nx'>string</span> <span class='nf'>serialize</span> (mixed entity)
+
+<div class="details">
 <p>Serializes an entity into a string.</p><dl>
 <dt>Parameters:</dt>
 <dd>entity - The entity to be serialized.</dd>
@@ -71,10 +80,13 @@ public  string **serialize** (mixed entity)<div class="details">
 
 - - -
 
-<div class="location">framework\hirudo\Hirudo\Serialization\EntitySerializerBase.php at line 60</div>
-<h3 id="doSerialize()">doSerialize</h3>
 
-protected abstract  string **doSerialize** (array array)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Serialization\EntitySerializerBase.php at line 60#L60 class="location">framework\hirudo\Hirudo\Serialization\EntitySerializerBase.php at line 60</a>
+
+<h3 id="doSerialize()">doSerialize</h3>
+<span class='k'>protected abstract </span> <span class='nx'>string</span> <span class='nf'>doSerialize</span> (array array)
+
+<div class="details">
 <p>This is the abstract method to be implemented by any serializer, it receives
 an ssociative array representing the entity making it easier to create the
 string representation.</p><dl>

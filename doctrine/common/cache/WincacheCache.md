@@ -2,11 +2,16 @@
 - - -
 
 **Doctrine\Common\Cache\WincacheCache**
-<div class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\WinCacheCache.php at line 35</div>
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\doctrine-common\Doctrine\Common\Cache\WinCacheCache.php at line 35#L35 class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\WinCacheCache.php at line 35</a>
+
 #Class WincacheCache#
 
 <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/cache/cacheprovider.html">CacheProvider</a>
-    ***WincacheCache**
+    * **WincacheCache**
+
+
 
 
 - - -
@@ -33,32 +38,33 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/com
 <dd>David Abdemoulaie <dave@hobodave.com></dd>
 </dl>
 
+
 - - -
 
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type"> protected  string</td>
+<td><span class='k'>protected </span> <span class='nx'>string</span></td>
 <td class="description"><p class="name"><a href="#dofetch">doFetch</a>(string id)</p><p class="description">Fetches an entry from the cache.</p></td>
 </tr>
 <tr>
-<td class="type"> protected  boolean</td>
+<td><span class='k'>protected </span> <span class='nx'>boolean</span></td>
 <td class="description"><p class="name"><a href="#docontains">doContains</a>(string id)</p><p class="description">Test if an entry exists in the cache.</p></td>
 </tr>
 <tr>
-<td class="type"> protected  boolean</td>
+<td><span class='k'>protected </span> <span class='nx'>boolean</span></td>
 <td class="description"><p class="name"><a href="#dosave">doSave</a>(string id, string data, int lifeTime)</p><p class="description">Puts data into the cache.</p></td>
 </tr>
 <tr>
-<td class="type"> protected  boolean</td>
+<td><span class='k'>protected </span> <span class='nx'>boolean</span></td>
 <td class="description"><p class="name"><a href="#dodelete">doDelete</a>(string id)</p><p class="description">Deletes a cache entry.</p></td>
 </tr>
 <tr>
-<td class="type"> protected  boolean</td>
+<td><span class='k'>protected </span> <span class='nx'>boolean</span></td>
 <td class="description"><p class="name"><a href="#doflush">doFlush</a>()</p><p class="description">Deletes all cache entries.</p></td>
 </tr>
 <tr>
-<td class="type"> protected  array</td>
+<td><span class='k'>protected </span> <span class='nx'>array</span></td>
 <td class="description"><p class="name"><a href="#dogetstats">doGetStats</a>()</p><p class="description">Retrieves cached information from data store</p></td>
 </tr>
 </table>
@@ -68,10 +74,13 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/com
 <tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/cache/cacheprovider.html#delete()">delete</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/cache/cacheprovider.html#deleteAll()">deleteAll</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/cache/cacheprovider.html#doContains()">doContains</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/cache/cacheprovider.html#doDelete()">doDelete</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/cache/cacheprovider.html#doFetch()">doFetch</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/cache/cacheprovider.html#doFlush()">doFlush</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/cache/cacheprovider.html#doGetStats()">doGetStats</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/cache/cacheprovider.html#doSave()">doSave</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/cache/cacheprovider.html#flushAll()">flushAll</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/cache/cacheprovider.html#getStats()">getStats</a></td></tr></table>
 
 <h2 id="detail_method">Method Detail</h2>
-<div class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\WinCacheCache.php at line 40</div>
-<h3 id="doFetch()">doFetch</h3>
 
-protected  string **doFetch** (string id)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\doctrine-common\Doctrine\Common\Cache\WinCacheCache.php at line 40#L40 class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\WinCacheCache.php at line 40</a>
+
+<h3 id="doFetch()">doFetch</h3>
+<span class='k'>protected </span> <span class='nx'>string</span> <span class='nf'>doFetch</span> (string id)
+
+<div class="details">
 <p>Fetches an entry from the cache.</p><dl>
 <dt>Parameters:</dt>
 <dd>id - cache id The id of the cache entry to fetch.</dd>
@@ -82,10 +91,13 @@ protected  string **doFetch** (string id)<div class="details">
 
 - - -
 
-<div class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\WinCacheCache.php at line 48</div>
-<h3 id="doContains()">doContains</h3>
 
-protected  boolean **doContains** (string id)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\doctrine-common\Doctrine\Common\Cache\WinCacheCache.php at line 48#L48 class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\WinCacheCache.php at line 48</a>
+
+<h3 id="doContains()">doContains</h3>
+<span class='k'>protected </span> <span class='nx'>boolean</span> <span class='nf'>doContains</span> (string id)
+
+<div class="details">
 <p>Test if an entry exists in the cache.</p><dl>
 <dt>Parameters:</dt>
 <dd>id - cache id The cache id of the entry to check for.</dd>
@@ -96,10 +108,13 @@ protected  boolean **doContains** (string id)<div class="details">
 
 - - -
 
-<div class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\WinCacheCache.php at line 56</div>
-<h3 id="doSave()">doSave</h3>
 
-protected  boolean **doSave** (string id, string data, int lifeTime)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\doctrine-common\Doctrine\Common\Cache\WinCacheCache.php at line 56#L56 class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\WinCacheCache.php at line 56</a>
+
+<h3 id="doSave()">doSave</h3>
+<span class='k'>protected </span> <span class='nx'>boolean</span> <span class='nf'>doSave</span> (string id, string data, int lifeTime)
+
+<div class="details">
 <p>Puts data into the cache.</p><dl>
 <dt>Parameters:</dt>
 <dd>id - The cache id.</dd>
@@ -112,10 +127,13 @@ protected  boolean **doSave** (string id, string data, int lifeTime)<div class="
 
 - - -
 
-<div class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\WinCacheCache.php at line 64</div>
-<h3 id="doDelete()">doDelete</h3>
 
-protected  boolean **doDelete** (string id)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\doctrine-common\Doctrine\Common\Cache\WinCacheCache.php at line 64#L64 class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\WinCacheCache.php at line 64</a>
+
+<h3 id="doDelete()">doDelete</h3>
+<span class='k'>protected </span> <span class='nx'>boolean</span> <span class='nf'>doDelete</span> (string id)
+
+<div class="details">
 <p>Deletes a cache entry.</p><dl>
 <dt>Parameters:</dt>
 <dd>id - cache id</dd>
@@ -126,10 +144,13 @@ protected  boolean **doDelete** (string id)<div class="details">
 
 - - -
 
-<div class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\WinCacheCache.php at line 72</div>
-<h3 id="doFlush()">doFlush</h3>
 
-protected  boolean **doFlush** ()<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\doctrine-common\Doctrine\Common\Cache\WinCacheCache.php at line 72#L72 class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\WinCacheCache.php at line 72</a>
+
+<h3 id="doFlush()">doFlush</h3>
+<span class='k'>protected </span> <span class='nx'>boolean</span> <span class='nf'>doFlush</span> ()
+
+<div class="details">
 <p>Deletes all cache entries.</p><dl>
 <dt>Returns:</dt>
 <dd>TRUE if the cache entry was successfully deleted, FALSE otherwise.</dd>
@@ -138,10 +159,13 @@ protected  boolean **doFlush** ()<div class="details">
 
 - - -
 
-<div class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\WinCacheCache.php at line 80</div>
-<h3 id="doGetStats()">doGetStats</h3>
 
-protected  array **doGetStats** ()<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\doctrine-common\Doctrine\Common\Cache\WinCacheCache.php at line 80#L80 class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\WinCacheCache.php at line 80</a>
+
+<h3 id="doGetStats()">doGetStats</h3>
+<span class='k'>protected </span> <span class='nx'>array</span> <span class='nf'>doGetStats</span> ()
+
+<div class="details">
 <p>Retrieves cached information from data store</p><dl>
 <dt>Since:</dt>
 <dd>2.2</dd>

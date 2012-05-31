@@ -2,7 +2,10 @@
 - - -
 
 **Symfony\Component\Yaml\Dumper**
-<div class="location">framework\libs\symfony-components\Symfony\Component\Yaml\Dumper.php at line 19</div>
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\Yaml\Dumper.php at line 19#L19 class="location">framework\libs\symfony-components\Symfony\Component\Yaml\Dumper.php at line 19</a>
+
 #Class Dumper#
 
 **Dumper**
@@ -12,6 +15,8 @@
 <dt>All Known Subclasses:</dt>
 <dd><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/dumper/graphvizdumper.html">Symfony\Component\DependencyInjection\Dumper\GraphvizDumper</a> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/dumper/phpdumper.html">Symfony\Component\DependencyInjection\Dumper\PhpDumper</a> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/dumper/xmldumper.html">Symfony\Component\DependencyInjection\Dumper\XmlDumper</a> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/dumper/yamldumper.html">Symfony\Component\DependencyInjection\Dumper\YamlDumper</a> </dd>
 </dl>
+
+
 
 - - -
 
@@ -24,21 +29,25 @@
 <dd>Fabien Potencier <fabien@symfony.com></dd>
 </dl>
 
+
 - - -
 
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type">  string</td>
+<td><span class='k'></span> <span class='nx'>string</span></td>
 <td class="description"><p class="name"><a href="#dump">dump</a>(mixed input, integer inline, integer indent)</p><p class="description">Dumps a PHP value to YAML.</p></td>
 </tr>
 </table>
 
 <h2 id="detail_method">Method Detail</h2>
-<div class="location">framework\libs\symfony-components\Symfony\Component\Yaml\Dumper.php at line 30</div>
-<h3 id="dump()">dump</h3>
 
-public  string **dump** (mixed input, integer inline, integer indent)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\Yaml\Dumper.php at line 30#L30 class="location">framework\libs\symfony-components\Symfony\Component\Yaml\Dumper.php at line 30</a>
+
+<h3 id="dump()">dump</h3>
+<span class='k'></span> <span class='nx'>string</span> <span class='nf'>dump</span> (mixed input, integer inline, integer indent)
+
+<div class="details">
 <p>Dumps a PHP value to YAML.</p><dl>
 <dt>Parameters:</dt>
 <dd>input - The PHP value</dd>

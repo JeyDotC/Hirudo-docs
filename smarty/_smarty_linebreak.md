@@ -2,11 +2,16 @@
 - - -
 
 **Smarty\_smarty_linebreak**
-<div class="location">framework\libs\smarty\sysplugins\smarty_internal_parsetree.php at line 369</div>
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_internal_parsetree.php at line 369#L369 class="location">framework\libs\smarty\sysplugins\smarty_internal_parsetree.php at line 369</a>
+
 #Class _smarty_linebreak#
 
 <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/_smarty_parsetree.html">_smarty_parsetree</a>
-    ***_smarty_linebreak**
+    * **_smarty_linebreak**
+
+
 
 
 - - -
@@ -24,6 +29,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/_smar
 <dt>Ignore.</dt>
 </dl>
 
+
 - - -
 
 <table class="inherit">
@@ -33,7 +39,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/_smar
 <table id="summary_constructor">
 <tr><th colspan="2">Constructor Summary</th></tr>
 <tr>
-<td class="type"> void</td>
+<td><span class='k'></span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#__construct">__construct</a>(object parser, string data)</p><p class="description">Create buffer with linebreak content</p></td>
 </tr>
 </table>
@@ -41,7 +47,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/_smar
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type">  string</td>
+<td><span class='k'></span> <span class='nx'>string</span></td>
 <td class="description"><p class="name"><a href="#to_smarty_php">to_smarty_php</a>()</p><p class="description">Return linebrak</p></td>
 </tr>
 </table>
@@ -51,12 +57,12 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/_smar
 <tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/_smarty_parsetree.html#to_smarty_php()">to_smarty_php</a></td></tr></table>
 
 <h2 id="detail_method">Constructor Detail</h2>
-<div class="location">framework\libs\smarty\sysplugins\smarty_internal_parsetree.php at line 377</div>
-<h3 id="__construct()">__construct</h3>
 
-```php
-public  void **__construct**(object parser, string data)
-```
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_internal_parsetree.php at line 377#L377 class="location">framework\libs\smarty\sysplugins\smarty_internal_parsetree.php at line 377</a>
+
+<h3 id="__construct">__construct</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (object parser, string data)
+
 <div class="details">
 <p>Create buffer with linebreak content</p><dl>
 <dt>Parameters:</dt>
@@ -68,10 +74,13 @@ public  void **__construct**(object parser, string data)
 - - -
 
 <h2 id="detail_method">Method Detail</h2>
-<div class="location">framework\libs\smarty\sysplugins\smarty_internal_parsetree.php at line 388</div>
-<h3 id="to_smarty_php()">to_smarty_php</h3>
 
-public  string **to_smarty_php** ()<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_internal_parsetree.php at line 388#L388 class="location">framework\libs\smarty\sysplugins\smarty_internal_parsetree.php at line 388</a>
+
+<h3 id="to_smarty_php()">to_smarty_php</h3>
+<span class='k'></span> <span class='nx'>string</span> <span class='nf'>to_smarty_php</span> ()
+
+<div class="details">
 <p>Return linebrak</p><dl>
 <dt>Returns:</dt>
 <dd>linebreak</dd>

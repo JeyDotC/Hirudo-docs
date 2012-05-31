@@ -2,10 +2,15 @@
 - - -
 
 **Hirudo\Core\Annotations\Export**
-<div class="location">framework\hirudo\Hirudo\Core\Annotations\Export.php at line 34</div>
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Core\Annotations\Export.php at line 34#L34 class="location">framework\hirudo\Hirudo\Core\Annotations\Export.php at line 34</a>
+
 #Class Export#
 
 **Export**
+
+
 
 
 - - -
@@ -22,38 +27,23 @@
 <dd>"METHOD", "PROPERTY"})</dd>
 </dl>
 
+
 - - -
+
+
 
 <table id="summary_field">
 <tr><th colspan="2">Field Summary</th></tr>
 <tr>
-<td class="type"> string</td>
-<td class="description"><p class="name"><a href="#factory">$factory</a></p><p class="description">An optional factory method which is in charge of returning
+<td><span class='k'></span> <span class='nx'>string</span></td>
+<td class="description"><p class="name" ><a href="#factory"> $factory</a>
+                                </p><p class="description">An optional factory method which is in charge of returning
 an instance of the service.</p></td>
 </tr>
 <tr>
-<td class="type"> string</td>
-<td class="description"><p class="name"><a href="#id">$id</a></p><p class="description">The id of the service to be exported.</p></td>
+<td><span class='k'></span> <span class='nx'>string</span></td>
+<td class="description"><p class="name" ><a href="#id"> $id</a>
+                                </p><p class="description">The id of the service to be exported.</p></td>
 </tr>
 </table>
-
-##Field Detail##
-<div class="location">framework\hirudo\Hirudo\Core\Annotations\Export.php at line 49</div>
-<h3 id="factory">factory</h3>
-
-public  string $factory = &quot;&quot;
-<div class="details">
-<p>An optional factory method which is in charge of returning
-an instance of the service.</p></div>
-
-- - -
-
-<div class="location">framework\hirudo\Hirudo\Core\Annotations\Export.php at line 41</div>
-<h3 id="id">id</h3>
-
-public  string $id = &quot;&quot;
-<div class="details">
-<p>The id of the service to be exported.</p></div>
-
-- - -
 

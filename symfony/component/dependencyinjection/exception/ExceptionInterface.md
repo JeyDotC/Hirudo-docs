@@ -2,10 +2,15 @@
 - - -
 
 **Symfony\Component\DependencyInjection\Exception\ExceptionInterface**
-<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Exception\ExceptionInterface.php at line 20</div>
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\Exception\ExceptionInterface.php at line 20#L20 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Exception\ExceptionInterface.php at line 20</a>
+
 #Interface ExceptionInterface#
 
 **ExceptionInterface**
+
+
 
 
 - - -
@@ -19,6 +24,7 @@
 <dd>Fabien Potencier <fabien@symfony.com></dd>
 <dd>Bulat Shakirzyanov <bulat@theopenskyproject.com></dd>
 </dl>
+
 
 - - -
 

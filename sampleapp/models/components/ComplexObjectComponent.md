@@ -2,10 +2,15 @@
 - - -
 
 **SampleApp\Models\Components\ComplexObjectComponent**
-<div class="location">src\SampleApp\Models\Components\ComplexObjectComponent.php at line 13</div>
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/src\SampleApp\Models\Components\ComplexObjectComponent.php at line 13#L13 class="location">src\SampleApp\Models\Components\ComplexObjectComponent.php at line 13</a>
+
 #Class ComplexObjectComponent#
 
 **ComplexObjectComponent**
+
+
 
 
 - - -
@@ -19,33 +24,40 @@
 <dd>JeyDotC</dd>
 </dl>
 
+
 - - -
 
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type">  void</td>
+<td><span class='k'></span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#save">save</a>(<a href="../../../sampleapp/models/entities/complexobject.html">ComplexObject</a> complexObject)</p></td>
 </tr>
 <tr>
-<td class="type">  void</td>
+<td><span class='k'></span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#get">get</a>(mixed name)</p></td>
 </tr>
 </table>
 
 <h2 id="detail_method">Method Detail</h2>
-<div class="location">src\SampleApp\Models\Components\ComplexObjectComponent.php at line 15</div>
-<h3 id="save()">save</h3>
 
-public  void **save** (<a href="../../../sampleapp/models/entities/complexobject.html">ComplexObject</a> complexObject)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/src\SampleApp\Models\Components\ComplexObjectComponent.php at line 15#L15 class="location">src\SampleApp\Models\Components\ComplexObjectComponent.php at line 15</a>
+
+<h3 id="save()">save</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>save</span> (<a href="../../../sampleapp/models/entities/complexobject.html">ComplexObject</a> complexObject)
+
+<div class="details">
 </div>
 
 - - -
 
-<div class="location">src\SampleApp\Models\Components\ComplexObjectComponent.php at line 19</div>
-<h3 id="get()">get</h3>
 
-public  void **get** (mixed name)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/src\SampleApp\Models\Components\ComplexObjectComponent.php at line 19#L19 class="location">src\SampleApp\Models\Components\ComplexObjectComponent.php at line 19</a>
+
+<h3 id="get()">get</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>get</span> (mixed name)
+
+<div class="details">
 </div>
 
 - - -

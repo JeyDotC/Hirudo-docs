@@ -2,11 +2,16 @@
 - - -
 
 **Sample\Plugins\ModuleEnhablePlugin**
-<div class="location">ext\libs\SampleExtension\Sample\Plugins\ModuleEnhablePlugin.php at line 15</div>
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/ext\libs\SampleExtension\Sample\Plugins\ModuleEnhablePlugin.php at line 15#L15 class="location">ext\libs\SampleExtension\Sample\Plugins\ModuleEnhablePlugin.php at line 15</a>
+
 #Class ModuleEnhablePlugin#
 
 <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/events/beforetaskeventlistener.html">BeforeTaskEventListener</a>
-    ***ModuleEnhablePlugin**
+    * **ModuleEnhablePlugin**
+
+
 
 
 - - -
@@ -23,12 +28,13 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/
 <dd>JeyDotC</dd>
 </dl>
 
+
 - - -
 
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type"> protected  void</td>
+<td><span class='k'>protected </span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#beforetask">beforeTask</a>(<a href="../../hirudo/core/events/beforetaskevent.html">BeforeTaskEvent</a> e)</p><p class="description">This is the method that needs to be implemented by the event listener in
 order to work. </p></td>
 </tr>
@@ -39,10 +45,13 @@ order to work. </p></td>
 <tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/events/beforetaskeventlistener.html#beforeTask()">beforeTask</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/events/beforetaskeventlistener.html#getSubscribedEvents()">getSubscribedEvents</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/events/beforetaskeventlistener.html#onBeforeTask()">onBeforeTask</a></td></tr></table>
 
 <h2 id="detail_method">Method Detail</h2>
-<div class="location">ext\libs\SampleExtension\Sample\Plugins\ModuleEnhablePlugin.php at line 17</div>
-<h3 id="beforeTask()">beforeTask</h3>
 
-protected  void **beforeTask** (<a href="../../hirudo/core/events/beforetaskevent.html">BeforeTaskEvent</a> e)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/ext\libs\SampleExtension\Sample\Plugins\ModuleEnhablePlugin.php at line 17#L17 class="location">ext\libs\SampleExtension\Sample\Plugins\ModuleEnhablePlugin.php at line 17</a>
+
+<h3 id="beforeTask()">beforeTask</h3>
+<span class='k'>protected </span> <span class='nx'>void</span> <span class='nf'>beforeTask</span> (<a href="../../hirudo/core/events/beforetaskevent.html">BeforeTaskEvent</a> e)
+
+<div class="details">
 <p>This is the method that needs to be implemented by the event listener in
 order to work. This method is invoked before the current task is executed
 and has the posibility to change the parameters values and to raplace the

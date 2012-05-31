@@ -2,11 +2,16 @@
 - - -
 
 **Hirudo\Core\Events\BeforeTaskEvent**
-<div class="location">framework\hirudo\Hirudo\Core\Events\BeforeTaskEvent.php at line 34</div>
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Core\Events\BeforeTaskEvent.php at line 34#L34 class="location">framework\hirudo\Hirudo\Core\Events\BeforeTaskEvent.php at line 34</a>
+
 #Class BeforeTaskEvent#
 
 <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/eventdispatcher/event.html">Event</a>
-    ***BeforeTaskEvent**
+    * **BeforeTaskEvent**
+
+
 
 
 - - -
@@ -31,29 +36,30 @@ are resolved.</p></div>
 <dt>Api.</dt>
 </dl>
 
+
 - - -
 
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type">  void</td>
+<td><span class='k'></span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#setparam">setParam</a>(string name, mixed value)</p><p class="description">Sets or replaces a task's param value.</p></td>
 </tr>
 <tr>
-<td class="type">  mixed</td>
+<td><span class='k'></span> <span class='nx'>mixed</span></td>
 <td class="description"><p class="name"><a href="#getparam">getParam</a>(string name)</p><p class="description">Gets a task's parameter value.</p></td>
 </tr>
 <tr>
-<td class="type">  void</td>
+<td><span class='k'></span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#replacecall">replaceCall</a>(<a href="../../../hirudo/core/context/modulecall.html">ModuleCall</a> call)</p><p class="description">Replaces the call to be executed thus restarting the module execution
 process to work acordingly to the new ModuleCall.</p></td>
 </tr>
 <tr>
-<td class="type">  <a href="../../../hirudo/core/context/modulecall.html">ModuleCall</a></td>
+<td><span class='k'></span> <span class='nx'><a href="../../../hirudo/core/context/modulecall.html">ModuleCall</a></span></td>
 <td class="description"><p class="name"><a href="#getcall">getCall</a>()</p><p class="description">Gets the current call.</p></td>
 </tr>
 <tr>
-<td class="type">  boolean</td>
+<td><span class='k'></span> <span class='nx'>boolean</span></td>
 <td class="description"><p class="name"><a href="#getcallreplaced">getCallReplaced</a>()</p><p class="description">Says if the call has been replaced. </p></td>
 </tr>
 </table>
@@ -63,10 +69,13 @@ process to work acordingly to the new ModuleCall.</p></td>
 <tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/eventdispatcher/event.html#isPropagationStopped()">isPropagationStopped</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/eventdispatcher/event.html#stopPropagation()">stopPropagation</a></td></tr></table>
 
 <h2 id="detail_method">Method Detail</h2>
-<div class="location">framework\hirudo\Hirudo\Core\Events\BeforeTaskEvent.php at line 47</div>
-<h3 id="setParam()">setParam</h3>
 
-public  void **setParam** (string name, mixed value)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Core\Events\BeforeTaskEvent.php at line 47#L47 class="location">framework\hirudo\Hirudo\Core\Events\BeforeTaskEvent.php at line 47</a>
+
+<h3 id="setParam()">setParam</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>setParam</span> (string name, mixed value)
+
+<div class="details">
 <p>Sets or replaces a task's param value.</p><dl>
 <dt>Parameters:</dt>
 <dd>name - The name of the parameter.</dd>
@@ -76,10 +85,13 @@ public  void **setParam** (string name, mixed value)<div class="details">
 
 - - -
 
-<div class="location">framework\hirudo\Hirudo\Core\Events\BeforeTaskEvent.php at line 58</div>
-<h3 id="getParam()">getParam</h3>
 
-public  mixed **getParam** (string name)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Core\Events\BeforeTaskEvent.php at line 58#L58 class="location">framework\hirudo\Hirudo\Core\Events\BeforeTaskEvent.php at line 58</a>
+
+<h3 id="getParam()">getParam</h3>
+<span class='k'></span> <span class='nx'>mixed</span> <span class='nf'>getParam</span> (string name)
+
+<div class="details">
 <p>Gets a task's parameter value.</p><dl>
 <dt>Parameters:</dt>
 <dd>name - The task's parameter name</dd>
@@ -90,10 +102,13 @@ public  mixed **getParam** (string name)<div class="details">
 
 - - -
 
-<div class="location">framework\hirudo\Hirudo\Core\Events\BeforeTaskEvent.php at line 68</div>
-<h3 id="replaceCall()">replaceCall</h3>
 
-public  void **replaceCall** (<a href="../../../hirudo/core/context/modulecall.html">ModuleCall</a> call)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Core\Events\BeforeTaskEvent.php at line 68#L68 class="location">framework\hirudo\Hirudo\Core\Events\BeforeTaskEvent.php at line 68</a>
+
+<h3 id="replaceCall()">replaceCall</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>replaceCall</span> (<a href="../../../hirudo/core/context/modulecall.html">ModuleCall</a> call)
+
+<div class="details">
 <p>Replaces the call to be executed thus restarting the module execution
 process to work acordingly to the new ModuleCall.</p><dl>
 <dt>Parameters:</dt>
@@ -103,18 +118,24 @@ process to work acordingly to the new ModuleCall.</p><dl>
 
 - - -
 
-<div class="location">framework\hirudo\Hirudo\Core\Events\BeforeTaskEvent.php at line 78</div>
-<h3 id="getCall()">getCall</h3>
 
-public  <a href="../../../hirudo/core/context/modulecall.html">ModuleCall</a> **getCall** ()<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Core\Events\BeforeTaskEvent.php at line 78#L78 class="location">framework\hirudo\Hirudo\Core\Events\BeforeTaskEvent.php at line 78</a>
+
+<h3 id="getCall()">getCall</h3>
+<span class='k'></span> <span class='nx'><a href="../../../hirudo/core/context/modulecall.html">ModuleCall</a></span> <span class='nf'>getCall</span> ()
+
+<div class="details">
 <p>Gets the current call.</p></div>
 
 - - -
 
-<div class="location">framework\hirudo\Hirudo\Core\Events\BeforeTaskEvent.php at line 88</div>
-<h3 id="getCallReplaced()">getCallReplaced</h3>
 
-public  boolean **getCallReplaced** ()<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Core\Events\BeforeTaskEvent.php at line 88#L88 class="location">framework\hirudo\Hirudo\Core\Events\BeforeTaskEvent.php at line 88</a>
+
+<h3 id="getCallReplaced()">getCallReplaced</h3>
+<span class='k'></span> <span class='nx'>boolean</span> <span class='nf'>getCallReplaced</span> ()
+
+<div class="details">
 <p>Says if the call has been replaced. This is true when the
 replaceCall method has been called.</p><dl>
 <dt>Returns:</dt>

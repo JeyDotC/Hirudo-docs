@@ -2,12 +2,17 @@
 - - -
 
 **Symfony\Component\DependencyInjection\Exception\ScopeCrossingInjectionException**
-<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Exception\ScopeCrossingInjectionException.php at line 19</div>
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\Exception\ScopeCrossingInjectionException.php at line 19#L19 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Exception\ScopeCrossingInjectionException.php at line 19</a>
+
 #Class ScopeCrossingInjectionException#
 
 \RuntimeException
-*<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/exception/runtimeexception.html">RuntimeException</a>
-        ***ScopeCrossingInjectionException**
+* <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/exception/runtimeexception.html">RuntimeException</a>
+        * **ScopeCrossingInjectionException**
+
+
 
 
 - - -
@@ -24,12 +29,13 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/comp
 <dd>Johannes M. Schmitt <schmittjoh@gmail.com></dd>
 </dl>
 
+
 - - -
 
 <table id="summary_constructor">
 <tr><th colspan="2">Constructor Summary</th></tr>
 <tr>
-<td class="type"> void</td>
+<td><span class='k'></span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#__construct">__construct</a>(mixed sourceServiceId, mixed sourceScope, mixed destServiceId, mixed destScope)</p></td>
 </tr>
 </table>
@@ -37,64 +43,76 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/comp
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type">  void</td>
+<td><span class='k'></span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#getsourceserviceid">getSourceServiceId</a>()</p></td>
 </tr>
 <tr>
-<td class="type">  void</td>
+<td><span class='k'></span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#getsourcescope">getSourceScope</a>()</p></td>
 </tr>
 <tr>
-<td class="type">  void</td>
+<td><span class='k'></span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#getdestserviceid">getDestServiceId</a>()</p></td>
 </tr>
 <tr>
-<td class="type">  void</td>
+<td><span class='k'></span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#getdestscope">getDestScope</a>()</p></td>
 </tr>
 </table>
 
 <h2 id="detail_method">Constructor Detail</h2>
-<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Exception\ScopeCrossingInjectionException.php at line 26</div>
-<h3 id="__construct()">__construct</h3>
 
-```php
-public  void **__construct**(mixed sourceServiceId, mixed sourceScope, mixed destServiceId, mixed destScope)
-```
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\Exception\ScopeCrossingInjectionException.php at line 26#L26 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Exception\ScopeCrossingInjectionException.php at line 26</a>
+
+<h3 id="__construct">__construct</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (mixed sourceServiceId, mixed sourceScope, mixed destServiceId, mixed destScope)
+
 <div class="details">
 </div>
 
 - - -
 
 <h2 id="detail_method">Method Detail</h2>
-<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Exception\ScopeCrossingInjectionException.php at line 46</div>
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\Exception\ScopeCrossingInjectionException.php at line 46#L46 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Exception\ScopeCrossingInjectionException.php at line 46</a>
+
 <h3 id="getSourceServiceId()">getSourceServiceId</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>getSourceServiceId</span> ()
 
-public  void **getSourceServiceId** ()<div class="details">
+<div class="details">
 </div>
 
 - - -
 
-<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Exception\ScopeCrossingInjectionException.php at line 51</div>
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\Exception\ScopeCrossingInjectionException.php at line 51#L51 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Exception\ScopeCrossingInjectionException.php at line 51</a>
+
 <h3 id="getSourceScope()">getSourceScope</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>getSourceScope</span> ()
 
-public  void **getSourceScope** ()<div class="details">
+<div class="details">
 </div>
 
 - - -
 
-<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Exception\ScopeCrossingInjectionException.php at line 56</div>
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\Exception\ScopeCrossingInjectionException.php at line 56#L56 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Exception\ScopeCrossingInjectionException.php at line 56</a>
+
 <h3 id="getDestServiceId()">getDestServiceId</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>getDestServiceId</span> ()
 
-public  void **getDestServiceId** ()<div class="details">
+<div class="details">
 </div>
 
 - - -
 
-<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Exception\ScopeCrossingInjectionException.php at line 61</div>
-<h3 id="getDestScope()">getDestScope</h3>
 
-public  void **getDestScope** ()<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\Exception\ScopeCrossingInjectionException.php at line 61#L61 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Exception\ScopeCrossingInjectionException.php at line 61</a>
+
+<h3 id="getDestScope()">getDestScope</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>getDestScope</span> ()
+
+<div class="details">
 </div>
 
 - - -

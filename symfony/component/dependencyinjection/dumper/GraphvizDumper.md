@@ -2,11 +2,16 @@
 - - -
 
 **Symfony\Component\DependencyInjection\Dumper\GraphvizDumper**
-<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Dumper\GraphvizDumper.php at line 29</div>
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\Dumper\GraphvizDumper.php at line 29#L29 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Dumper\GraphvizDumper.php at line 29</a>
+
 #Class GraphvizDumper#
 
 <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/dumper/dumper.html">Dumper</a>
-    ***GraphvizDumper**
+    * **GraphvizDumper**
+
+
 
 
 - - -
@@ -24,6 +29,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/comp
 <dt>Api.</dt>
 </dl>
 
+
 - - -
 
 <table class="inherit">
@@ -33,7 +39,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/comp
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type">  string</td>
+<td><span class='k'></span> <span class='nx'>string</span></td>
 <td class="description"><p class="name"><a href="#dump">dump</a>(array options)</p><p class="description">Dumps the service container as a graphviz graph.
 </p></td>
 </tr>
@@ -44,10 +50,13 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/comp
 <tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/dumper/dumper.html#__construct()">__construct</a></td></tr></table>
 
 <h2 id="detail_method">Method Detail</h2>
-<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Dumper\GraphvizDumper.php at line 51</div>
-<h3 id="dump()">dump</h3>
 
-public  string **dump** (array options)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\Dumper\GraphvizDumper.php at line 51#L51 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Dumper\GraphvizDumper.php at line 51</a>
+
+<h3 id="dump()">dump</h3>
+<span class='k'></span> <span class='nx'>string</span> <span class='nf'>dump</span> (array options)
+
+<div class="details">
 <p>Dumps the service container as a graphviz graph.</p><p>Available options:</p><p>* graph: The default options for the whole graph
 * node: The default options for nodes
 * edge: The default options for edges

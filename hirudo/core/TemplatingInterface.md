@@ -2,10 +2,15 @@
 - - -
 
 **Hirudo\Core\TemplatingInterface**
-<div class="location">framework\hirudo\Hirudo\Core\TemplatingInterface.php at line 32</div>
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Core\TemplatingInterface.php at line 32#L32 class="location">framework\hirudo\Hirudo\Core\TemplatingInterface.php at line 32</a>
+
 #Interface TemplatingInterface#
 
 **TemplatingInterface**
+
+
 
 
 - - -
@@ -20,30 +25,34 @@ based on the view name.</p></p></div>
 <dd>JeyDotC</dd>
 </dl>
 
+
 - - -
 
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type">  mixed</td>
+<td><span class='k'></span> <span class='nx'>mixed</span></td>
 <td class="description"><p class="name"><a href="#assign">assign</a>(string name, mixed value)</p><p class="description">Adds a variable to the view so it can be accessed from the template.</p></td>
 </tr>
 <tr>
-<td class="type">  string</td>
+<td><span class='k'></span> <span class='nx'>string</span></td>
 <td class="description"><p class="name"><a href="#display">display</a>(string moduleDir, string view)</p><p class="description">Renders the view and retuns it as a string.</p></td>
 </tr>
 <tr>
-<td class="type">  void</td>
+<td><span class='k'></span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#addextensionspath">addExtensionsPath</a>(string path)</p><p class="description">Tells to the Templating system the location of an extensions folder, allowing
 it to load and use its extensions.</p></td>
 </tr>
 </table>
 
 <h2 id="detail_method">Method Detail</h2>
-<div class="location">framework\hirudo\Hirudo\Core\TemplatingInterface.php at line 41</div>
-<h3 id="assign()">assign</h3>
 
-public  mixed **assign** (string name, mixed value)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Core\TemplatingInterface.php at line 41#L41 class="location">framework\hirudo\Hirudo\Core\TemplatingInterface.php at line 41</a>
+
+<h3 id="assign()">assign</h3>
+<span class='k'></span> <span class='nx'>mixed</span> <span class='nf'>assign</span> (string name, mixed value)
+
+<div class="details">
 <p><p>Adds a variable to the view so it can be accessed from the template.</p></p><dl>
 <dt>Parameters:</dt>
 <dd>name - The name that the variable will adopt.</dd>
@@ -55,10 +64,13 @@ public  mixed **assign** (string name, mixed value)<div class="details">
 
 - - -
 
-<div class="location">framework\hirudo\Hirudo\Core\TemplatingInterface.php at line 51</div>
-<h3 id="display()">display</h3>
 
-public  string **display** (string moduleDir, string view)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Core\TemplatingInterface.php at line 51#L51 class="location">framework\hirudo\Hirudo\Core\TemplatingInterface.php at line 51</a>
+
+<h3 id="display()">display</h3>
+<span class='k'></span> <span class='nx'>string</span> <span class='nf'>display</span> (string moduleDir, string view)
+
+<div class="details">
 <p>Renders the view and retuns it as a string.</p><dl>
 <dt>Parameters:</dt>
 <dd>moduleDir - The absolute path to the module.</dd>
@@ -70,10 +82,13 @@ public  string **display** (string moduleDir, string view)<div class="details">
 
 - - -
 
-<div class="location">framework\hirudo\Hirudo\Core\TemplatingInterface.php at line 60</div>
-<h3 id="addExtensionsPath()">addExtensionsPath</h3>
 
-public  void **addExtensionsPath** (string path)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Core\TemplatingInterface.php at line 60#L60 class="location">framework\hirudo\Hirudo\Core\TemplatingInterface.php at line 60</a>
+
+<h3 id="addExtensionsPath()">addExtensionsPath</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>addExtensionsPath</span> (string path)
+
+<div class="details">
 <p>Tells to the Templating system the location of an extensions folder, allowing
 it to load and use its extensions.</p></div>
 

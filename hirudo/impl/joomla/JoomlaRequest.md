@@ -2,11 +2,16 @@
 - - -
 
 **Hirudo\Impl\Joomla\JoomlaRequest**
-<div class="location">framework\hirudo\Hirudo\Impl\Joomla\JoomlaRequest.php at line 36</div>
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\Joomla\JoomlaRequest.php at line 36#L36 class="location">framework\hirudo\Hirudo\Impl\Joomla\JoomlaRequest.php at line 36</a>
+
 #Class JoomlaRequest#
 
 <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/request.html">Request</a>
-    ***JoomlaRequest**
+    * **JoomlaRequest**
+
+
 
 
 - - -
@@ -25,48 +30,49 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/
 <dd>factory="instance")</dd>
 </dl>
 
+
 - - -
 
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type"> static  </td>
+<td><span class='k'>static </span> <span class='nx'></span></td>
 <td class="description"><p class="name"><a href="#instance">instance</a>()</p><p class="description"></p></td>
 </tr>
 <tr>
-<td class="type">  mixed</td>
+<td><span class='k'></span> <span class='nx'>mixed</span></td>
 <td class="description"><p class="name"><a href="#get">get</a>(string name, mixed default)</p><p class="description">Retrieves a value from the GET parameters.</p></td>
 </tr>
 <tr>
-<td class="type">  mixed</td>
+<td><span class='k'></span> <span class='nx'>mixed</span></td>
 <td class="description"><p class="name"><a href="#post">post</a>(string name, mixed default)</p><p class="description">Retrieves a value from the POST parameters.</p></td>
 </tr>
 <tr>
-<td class="type">  mixed</td>
+<td><span class='k'></span> <span class='nx'>mixed</span></td>
 <td class="description"><p class="name"><a href="#file">file</a>(string name, mixed default)</p><p class="description">Retrieves a value from the FILE parameters.</p></td>
 </tr>
 <tr>
-<td class="type">  mixed</td>
+<td><span class='k'></span> <span class='nx'>mixed</span></td>
 <td class="description"><p class="name"><a href="#cookie">cookie</a>(string name, mixed default)</p><p class="description">Retrieves a value from the COOKIE parameters.</p></td>
 </tr>
 <tr>
-<td class="type">  mixed</td>
+<td><span class='k'></span> <span class='nx'>mixed</span></td>
 <td class="description"><p class="name"><a href="#env">env</a>(string name, mixed default)</p><p class="description">Retrieves a value from the ENV parameters.</p></td>
 </tr>
 <tr>
-<td class="type">  mixed</td>
+<td><span class='k'></span> <span class='nx'>mixed</span></td>
 <td class="description"><p class="name"><a href="#server">server</a>(string name, mixed default)</p><p class="description">Retrieves a value from the SERVER parameters.</p></td>
 </tr>
 <tr>
-<td class="type">  string</td>
+<td><span class='k'></span> <span class='nx'>string</span></td>
 <td class="description"><p class="name"><a href="#geturi">getURI</a>()</p><p class="description">Gets the current URI as a string.</p></td>
 </tr>
 <tr>
-<td class="type">  bool</td>
+<td><span class='k'></span> <span class='nx'>bool</span></td>
 <td class="description"><p class="name"><a href="#submitted">submitted</a>()</p><p class="description">Determines if there is any data in the $_POST array.</p></td>
 </tr>
 <tr>
-<td class="type">  <a href="../../../hirudo/core/context/modulecall.html">ModuleCall</a></td>
+<td><span class='k'></span> <span class='nx'><a href="../../../hirudo/core/context/modulecall.html">ModuleCall</a></span></td>
 <td class="description"><p class="name"><a href="#buildmodulecall">buildModuleCall</a>()</p><p class="description">Creates a ModuleCall from request parameters, generally from the URL,
 the way this done depends on how this class interprets the URLs.</p></td>
 </tr>
@@ -77,18 +83,24 @@ the way this done depends on how this class interprets the URLs.</p></td>
 <tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/request.html#bind()">bind</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/request.html#buildModuleCall()">buildModuleCall</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/request.html#cookie()">cookie</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/request.html#env()">env</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/request.html#file()">file</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/request.html#get()">get</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/request.html#getAttribute()">getAttribute</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/request.html#getSession()">getSession</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/request.html#getURI()">getURI</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/request.html#getVar()">getVar</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/request.html#method()">method</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/request.html#post()">post</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/request.html#removeAttribute()">removeAttribute</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/request.html#server()">server</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/request.html#setAttribute()">setAttribute</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/request.html#setSession()">setSession</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/request.html#submitted()">submitted</a></td></tr></table>
 
 <h2 id="detail_method">Method Detail</h2>
-<div class="location">framework\hirudo\Hirudo\Impl\Joomla\JoomlaRequest.php at line 48</div>
-<h3 id="instance()">instance</h3>
 
-public static   **instance** ()<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\Joomla\JoomlaRequest.php at line 48#L48 class="location">framework\hirudo\Hirudo\Impl\Joomla\JoomlaRequest.php at line 48</a>
+
+<h3 id="instance()">instance</h3>
+<span class='k'>static </span> <span class='nx'></span> <span class='nf'>instance</span> ()
+
+<div class="details">
 <p></p></div>
 
 - - -
 
-<div class="location">framework\hirudo\Hirudo\Impl\Joomla\JoomlaRequest.php at line 56</div>
-<h3 id="get()">get</h3>
 
-public  mixed **get** (string name, mixed default)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\Joomla\JoomlaRequest.php at line 56#L56 class="location">framework\hirudo\Hirudo\Impl\Joomla\JoomlaRequest.php at line 56</a>
+
+<h3 id="get()">get</h3>
+<span class='k'></span> <span class='nx'>mixed</span> <span class='nf'>get</span> (string name, mixed default)
+
+<div class="details">
 <p>Retrieves a value from the GET parameters.</p><dl>
 <dt>Parameters:</dt>
 <dd>name - The GET index.</dd>
@@ -100,10 +112,13 @@ public  mixed **get** (string name, mixed default)<div class="details">
 
 - - -
 
-<div class="location">framework\hirudo\Hirudo\Impl\Joomla\JoomlaRequest.php at line 60</div>
-<h3 id="post()">post</h3>
 
-public  mixed **post** (string name, mixed default)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\Joomla\JoomlaRequest.php at line 60#L60 class="location">framework\hirudo\Hirudo\Impl\Joomla\JoomlaRequest.php at line 60</a>
+
+<h3 id="post()">post</h3>
+<span class='k'></span> <span class='nx'>mixed</span> <span class='nf'>post</span> (string name, mixed default)
+
+<div class="details">
 <p>Retrieves a value from the POST parameters.</p><dl>
 <dt>Parameters:</dt>
 <dd>name - The POST index.</dd>
@@ -115,10 +130,13 @@ public  mixed **post** (string name, mixed default)<div class="details">
 
 - - -
 
-<div class="location">framework\hirudo\Hirudo\Impl\Joomla\JoomlaRequest.php at line 64</div>
-<h3 id="file()">file</h3>
 
-public  mixed **file** (string name, mixed default)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\Joomla\JoomlaRequest.php at line 64#L64 class="location">framework\hirudo\Hirudo\Impl\Joomla\JoomlaRequest.php at line 64</a>
+
+<h3 id="file()">file</h3>
+<span class='k'></span> <span class='nx'>mixed</span> <span class='nf'>file</span> (string name, mixed default)
+
+<div class="details">
 <p>Retrieves a value from the FILE parameters.</p><dl>
 <dt>Parameters:</dt>
 <dd>name - The FILE index.</dd>
@@ -130,10 +148,13 @@ public  mixed **file** (string name, mixed default)<div class="details">
 
 - - -
 
-<div class="location">framework\hirudo\Hirudo\Impl\Joomla\JoomlaRequest.php at line 68</div>
-<h3 id="cookie()">cookie</h3>
 
-public  mixed **cookie** (string name, mixed default)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\Joomla\JoomlaRequest.php at line 68#L68 class="location">framework\hirudo\Hirudo\Impl\Joomla\JoomlaRequest.php at line 68</a>
+
+<h3 id="cookie()">cookie</h3>
+<span class='k'></span> <span class='nx'>mixed</span> <span class='nf'>cookie</span> (string name, mixed default)
+
+<div class="details">
 <p>Retrieves a value from the COOKIE parameters.</p><dl>
 <dt>Parameters:</dt>
 <dd>name - The COOKIE index.</dd>
@@ -145,10 +166,13 @@ public  mixed **cookie** (string name, mixed default)<div class="details">
 
 - - -
 
-<div class="location">framework\hirudo\Hirudo\Impl\Joomla\JoomlaRequest.php at line 72</div>
-<h3 id="env()">env</h3>
 
-public  mixed **env** (string name, mixed default)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\Joomla\JoomlaRequest.php at line 72#L72 class="location">framework\hirudo\Hirudo\Impl\Joomla\JoomlaRequest.php at line 72</a>
+
+<h3 id="env()">env</h3>
+<span class='k'></span> <span class='nx'>mixed</span> <span class='nf'>env</span> (string name, mixed default)
+
+<div class="details">
 <p>Retrieves a value from the ENV parameters.</p><dl>
 <dt>Parameters:</dt>
 <dd>name - The ENV index.</dd>
@@ -160,10 +184,13 @@ public  mixed **env** (string name, mixed default)<div class="details">
 
 - - -
 
-<div class="location">framework\hirudo\Hirudo\Impl\Joomla\JoomlaRequest.php at line 76</div>
-<h3 id="server()">server</h3>
 
-public  mixed **server** (string name, mixed default)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\Joomla\JoomlaRequest.php at line 76#L76 class="location">framework\hirudo\Hirudo\Impl\Joomla\JoomlaRequest.php at line 76</a>
+
+<h3 id="server()">server</h3>
+<span class='k'></span> <span class='nx'>mixed</span> <span class='nf'>server</span> (string name, mixed default)
+
+<div class="details">
 <p>Retrieves a value from the SERVER parameters.</p><dl>
 <dt>Parameters:</dt>
 <dd>name - The SERVER index.</dd>
@@ -175,10 +202,13 @@ public  mixed **server** (string name, mixed default)<div class="details">
 
 - - -
 
-<div class="location">framework\hirudo\Hirudo\Impl\Joomla\JoomlaRequest.php at line 80</div>
-<h3 id="getURI()">getURI</h3>
 
-public  string **getURI** ()<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\Joomla\JoomlaRequest.php at line 80#L80 class="location">framework\hirudo\Hirudo\Impl\Joomla\JoomlaRequest.php at line 80</a>
+
+<h3 id="getURI()">getURI</h3>
+<span class='k'></span> <span class='nx'>string</span> <span class='nf'>getURI</span> ()
+
+<div class="details">
 <p>Gets the current URI as a string.</p><dl>
 <dt>Returns:</dt>
 <dd>the current URI.</dd>
@@ -187,10 +217,13 @@ public  string **getURI** ()<div class="details">
 
 - - -
 
-<div class="location">framework\hirudo\Hirudo\Impl\Joomla\JoomlaRequest.php at line 84</div>
-<h3 id="submitted()">submitted</h3>
 
-public  bool **submitted** ()<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\Joomla\JoomlaRequest.php at line 84#L84 class="location">framework\hirudo\Hirudo\Impl\Joomla\JoomlaRequest.php at line 84</a>
+
+<h3 id="submitted()">submitted</h3>
+<span class='k'></span> <span class='nx'>bool</span> <span class='nf'>submitted</span> ()
+
+<div class="details">
 <p>Determines if there is any data in the $_POST array.</p><dl>
 <dt>Deprecated:</dt>
 <dd>This method looks to be useless</dd>
@@ -201,10 +234,13 @@ public  bool **submitted** ()<div class="details">
 
 - - -
 
-<div class="location">framework\hirudo\Hirudo\Impl\Joomla\JoomlaRequest.php at line 88</div>
-<h3 id="buildModuleCall()">buildModuleCall</h3>
 
-public  <a href="../../../hirudo/core/context/modulecall.html">ModuleCall</a> **buildModuleCall** ()<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\Joomla\JoomlaRequest.php at line 88#L88 class="location">framework\hirudo\Hirudo\Impl\Joomla\JoomlaRequest.php at line 88</a>
+
+<h3 id="buildModuleCall()">buildModuleCall</h3>
+<span class='k'></span> <span class='nx'><a href="../../../hirudo/core/context/modulecall.html">ModuleCall</a></span> <span class='nf'>buildModuleCall</span> ()
+
+<div class="details">
 <p>Creates a ModuleCall from request parameters, generally from the URL,
 the way this done depends on how this class interprets the URLs.</p><dl>
 <dt>Returns:</dt>

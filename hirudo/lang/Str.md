@@ -2,11 +2,16 @@
 - - -
 
 **Hirudo\Lang\Str**
-<div class="location">framework\hirudo\Hirudo\Lang\Str.php at line 10</div>
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Lang\Str.php at line 10#L10 class="location">framework\hirudo\Hirudo\Lang\Str.php at line 10</a>
+
 #Class Str#
 
 <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/lang/string.html">String</a>
-    ***Str**
+    * **Str**
+
+
 
 
 - - -
@@ -22,6 +27,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/lang/
 <dt>Author:</dt>
 <dd>JeyDotC</dd>
 </dl>
+
 
 - - -
 

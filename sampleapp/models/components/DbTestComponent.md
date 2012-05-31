@@ -2,11 +2,16 @@
 - - -
 
 **SampleApp\Models\Components\DbTestComponent**
-<div class="location">src\SampleApp\Models\Components\DbTestComponent.php at line 12</div>
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/src\SampleApp\Models\Components\DbTestComponent.php at line 12#L12 class="location">src\SampleApp\Models\Components\DbTestComponent.php at line 12</a>
+
 #Class DbTestComponent#
 
 <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/models/components/sql/simplesqlcomponent.html">SimpleSqlComponent</a>
-    ***DbTestComponent**
+    * **DbTestComponent**
+
+
 
 
 - - -
@@ -23,16 +28,17 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/model
 <dd>JeyDotC</dd>
 </dl>
 
+
 - - -
 
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type">  void</td>
+<td><span class='k'></span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#getall">getAll</a>()</p></td>
 </tr>
 <tr>
-<td class="type">  void</td>
+<td><span class='k'></span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#add">add</a>(mixed name)</p></td>
 </tr>
 </table>
@@ -42,18 +48,24 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/model
 <tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/models/components/sql/simplesqlcomponent.html#getQuery()">getQuery</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/models/components/sql/simplesqlcomponent.html#setQueryFactory()">setQueryFactory</a></td></tr></table>
 
 <h2 id="detail_method">Method Detail</h2>
-<div class="location">src\SampleApp\Models\Components\DbTestComponent.php at line 14</div>
-<h3 id="getAll()">getAll</h3>
 
-public  void **getAll** ()<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/src\SampleApp\Models\Components\DbTestComponent.php at line 14#L14 class="location">src\SampleApp\Models\Components\DbTestComponent.php at line 14</a>
+
+<h3 id="getAll()">getAll</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>getAll</span> ()
+
+<div class="details">
 </div>
 
 - - -
 
-<div class="location">src\SampleApp\Models\Components\DbTestComponent.php at line 22</div>
-<h3 id="add()">add</h3>
 
-public  void **add** (mixed name)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/src\SampleApp\Models\Components\DbTestComponent.php at line 22#L22 class="location">src\SampleApp\Models\Components\DbTestComponent.php at line 22</a>
+
+<h3 id="add()">add</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>add</span> (mixed name)
+
+<div class="details">
 </div>
 
 - - -

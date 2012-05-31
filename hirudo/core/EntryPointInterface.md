@@ -2,10 +2,15 @@
 - - -
 
 **Hirudo\Core\EntryPointInterface**
-<div class="location">framework\hirudo\Hirudo\Core\EntryPointInterface.php at line 10</div>
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Core\EntryPointInterface.php at line 10#L10 class="location">framework\hirudo\Hirudo\Core\EntryPointInterface.php at line 10</a>
+
 #Class EntryPointInterface#
 
 **EntryPointInterface**
+
+
 
 
 - - -
@@ -20,21 +25,25 @@
 <dd>JeyDotC</dd>
 </dl>
 
+
 - - -
 
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type">  void</td>
+<td><span class='k'></span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#run">run</a>()</p></td>
 </tr>
 </table>
 
 <h2 id="detail_method">Method Detail</h2>
-<div class="location">framework\hirudo\Hirudo\Core\EntryPointInterface.php at line 12</div>
-<h3 id="run()">run</h3>
 
-public  void **run** ()<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Core\EntryPointInterface.php at line 12#L12 class="location">framework\hirudo\Hirudo\Core\EntryPointInterface.php at line 12</a>
+
+<h3 id="run()">run</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>run</span> ()
+
+<div class="details">
 </div>
 
 - - -

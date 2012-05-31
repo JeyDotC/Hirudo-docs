@@ -2,10 +2,15 @@
 - - -
 
 **Doctrine\Common\Annotations\Annotation**
-<div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\Annotation.php at line 30</div>
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\doctrine-common\Doctrine\Common\Annotations\Annotation.php at line 30#L30 class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\Annotation.php at line 30</a>
+
 #Class Annotation#
 
 **Annotation**
+
+
 
 
 - - -
@@ -22,41 +27,35 @@
 <dd>Roman Borschel <roman@code-factory.org></dd>
 </dl>
 
+
 - - -
+
+
 
 <table id="summary_field">
 <tr><th colspan="2">Field Summary</th></tr>
 <tr>
-<td class="type"> string</td>
-<td class="description"><p class="name"><a href="#value">$value</a></p><p class="description">Value property. </p></td>
+<td><span class='k'></span> <span class='nx'>string</span></td>
+<td class="description"><p class="name" ><a href="#value"> $value</a>
+                                </p><p class="description">Value property. </p></td>
 </tr>
 </table>
 
 <table id="summary_constructor">
 <tr><th colspan="2">Constructor Summary</th></tr>
 <tr>
-<td class="type">final  void</td>
+<td><span class='k'>final </span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#__construct">__construct</a>(array data)</p><p class="description">Constructor</p></td>
 </tr>
 </table>
 
-##Field Detail##
-<div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\Annotation.php at line 37</div>
-<h3 id="value">value</h3>
-
-public  string $value = 0
-<div class="details">
-<p>Value property. Common among all derived classes.</p></div>
-
-- - -
-
 <h2 id="detail_method">Constructor Detail</h2>
-<div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\Annotation.php at line 44</div>
-<h3 id="__construct()">__construct</h3>
 
-```php
-public final  void **__construct**(array data)
-```
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\doctrine-common\Doctrine\Common\Annotations\Annotation.php at line 44#L44 class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\Annotation.php at line 44</a>
+
+<h3 id="__construct">__construct</h3>
+<span class='k'>final </span> <span class='nx'>void</span> <span class='nf'>__construct</span> (array data)
+
 <div class="details">
 <p>Constructor</p><dl>
 <dt>Parameters:</dt>

@@ -2,7 +2,10 @@
 - - -
 
 **Symfony\Component\EventDispatcher\Event**
-<div class="location">framework\libs\symfony-components\Symfony\Component\EventDispatcher\Event.php at line 33</div>
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\EventDispatcher\Event.php at line 33#L33 class="location">framework\libs\symfony-components\Symfony\Component\EventDispatcher\Event.php at line 33</a>
+
 #Class Event#
 
 **Event**
@@ -12,6 +15,8 @@
 <dt>All Known Subclasses:</dt>
 <dd><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/events/beforetaskevent.html">Hirudo\Core\Events\BeforeTaskEvent</a> </dd>
 </dl>
+
+
 
 - - -
 
@@ -36,26 +41,30 @@ further listeners in your event listener.</p></div>
 <dt>Api.</dt>
 </dl>
 
+
 - - -
 
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type">  Boolean</td>
+<td><span class='k'></span> <span class='nx'>Boolean</span></td>
 <td class="description"><p class="name"><a href="#ispropagationstopped">isPropagationStopped</a>()</p><p class="description">Returns whether further event listeners should be triggered.</p></td>
 </tr>
 <tr>
-<td class="type">  void</td>
+<td><span class='k'></span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#stoppropagation">stopPropagation</a>()</p><p class="description">Stops the propagation of the event to further event listeners.
 </p></td>
 </tr>
 </table>
 
 <h2 id="detail_method">Method Detail</h2>
-<div class="location">framework\libs\symfony-components\Symfony\Component\EventDispatcher\Event.php at line 48</div>
-<h3 id="isPropagationStopped()">isPropagationStopped</h3>
 
-public  Boolean **isPropagationStopped** ()<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\EventDispatcher\Event.php at line 48#L48 class="location">framework\libs\symfony-components\Symfony\Component\EventDispatcher\Event.php at line 48</a>
+
+<h3 id="isPropagationStopped()">isPropagationStopped</h3>
+<span class='k'></span> <span class='nx'>Boolean</span> <span class='nf'>isPropagationStopped</span> ()
+
+<div class="details">
 <p>Returns whether further event listeners should be triggered.</p><dl>
 <dt>See Also:</dt>
 <dd><a href="../../../symfony/component/eventdispatcher/event.html#stopPropagation()">Event::stopPropagation</a></dd>
@@ -67,10 +76,13 @@ public  Boolean **isPropagationStopped** ()<div class="details">
 
 - - -
 
-<div class="location">framework\libs\symfony-components\Symfony\Component\EventDispatcher\Event.php at line 62</div>
-<h3 id="stopPropagation()">stopPropagation</h3>
 
-public  void **stopPropagation** ()<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\EventDispatcher\Event.php at line 62#L62 class="location">framework\libs\symfony-components\Symfony\Component\EventDispatcher\Event.php at line 62</a>
+
+<h3 id="stopPropagation()">stopPropagation</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>stopPropagation</span> ()
+
+<div class="details">
 <p>Stops the propagation of the event to further event listeners.</p><p>If multiple event listeners are connected to the same event, no
 further event listener will be triggered once any trigger calls
 stopPropagation().</p><dl>

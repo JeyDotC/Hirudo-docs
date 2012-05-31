@@ -2,11 +2,14 @@
 - - -
 
 **Symfony\Component\DependencyInjection\Exception\InvalidArgumentException**
-<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Exception\InvalidArgumentException.php at line 21</div>
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\Exception\InvalidArgumentException.php at line 21#L21 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Exception\InvalidArgumentException.php at line 21</a>
+
 #Class InvalidArgumentException#
 
 BaseInvalidArgumentException
-***InvalidArgumentException**
+* **InvalidArgumentException**
 
 
 <dl>
@@ -18,6 +21,8 @@ BaseInvalidArgumentException
 <dt>All Known Subclasses:</dt>
 <dd><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/exception/parameternotfoundexception.html">ParameterNotFoundException</a> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/exception/servicenotfoundexception.html">ServiceNotFoundException</a> </dd>
 </dl>
+
+
 
 - - -
 
@@ -32,6 +37,7 @@ extends BaseInvalidArgumentException
 <dt>Author:</dt>
 <dd>Bulat Shakirzyanov <bulat@theopenskyproject.com></dd>
 </dl>
+
 
 - - -
 

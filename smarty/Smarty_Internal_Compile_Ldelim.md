@@ -2,11 +2,16 @@
 - - -
 
 **Smarty\Smarty_Internal_Compile_Ldelim**
-<div class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_ldelim.php at line 18</div>
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_internal_compile_ldelim.php at line 18#L18 class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_ldelim.php at line 18</a>
+
 #Class Smarty_Internal_Compile_Ldelim#
 
 <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_compilebase.html">Smarty_Internal_CompileBase</a>
-    ***Smarty_Internal_Compile_Ldelim**
+    * **Smarty_Internal_Compile_Ldelim**
+
+
 
 
 - - -
@@ -23,6 +28,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 <dd>Compiler</dd>
 </dl>
 
+
 - - -
 
 <table class="inherit">
@@ -32,7 +38,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type">  string</td>
+<td><span class='k'></span> <span class='nx'>string</span></td>
 <td class="description"><p class="name"><a href="#compile">compile</a>(array args, object compiler)</p><p class="description">Compiles code for the {ldelim} tagThis tag does output the left delimiter</p></td>
 </tr>
 </table>
@@ -42,10 +48,13 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 <tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_compilebase.html#closeTag()">closeTag</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_compilebase.html#getAttributes()">getAttributes</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_compilebase.html#openTag()">openTag</a></td></tr></table>
 
 <h2 id="detail_method">Method Detail</h2>
-<div class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_ldelim.php at line 28</div>
-<h3 id="compile()">compile</h3>
 
-public  string **compile** (array args, object compiler)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_internal_compile_ldelim.php at line 28#L28 class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_ldelim.php at line 28</a>
+
+<h3 id="compile()">compile</h3>
+<span class='k'></span> <span class='nx'>string</span> <span class='nf'>compile</span> (array args, object compiler)
+
+<div class="details">
 <p>Compiles code for the {ldelim} tag</p><p>This tag does output the left delimiter</p><dl>
 <dt>Parameters:</dt>
 <dd>args - array with attributes from parser</dd>

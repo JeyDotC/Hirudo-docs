@@ -2,10 +2,15 @@
 - - -
 
 **HTTP_Session2\HTTP_Session2**
-<div class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 112</div>
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 112#L112 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 112</a>
+
 #Class HTTP_Session2#
 
 **HTTP_Session2**
+
+
 
 
 - - -
@@ -61,19 +66,20 @@ HTTP_Session2::updateIdle();
 <dd><code><a href="http://pear.php.net/package/HTTP_Session2">http://pear.php.net/package/HTTP_Session2</a></code></dd>
 </dl>
 
+
 - - -
 
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type"> static  void</td>
+<td><span class='k'>static </span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#start">start</a>(string name, string id)</p><p class="description">Initializes session dataCreates a session (or resumes the current one
 based on the session id being passed
 via a GET variable or a cookie).
 </p></td>
 </tr>
 <tr>
-<td class="type"> static  void</td>
+<td><span class='k'>static </span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#pause">pause</a>()</p><p class="description">Writes session data and ends sessionSession data is usually stored after your script
 terminated without the need to call HTTP_Session2::stop(),
 but as session data is locked to prevent concurrent
@@ -81,7 +87,7 @@ writes only one script may operate on a session at any time.
 </p></td>
 </tr>
 <tr>
-<td class="type"> static  void</td>
+<td><span class='k'>static </span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#destroy">destroy</a>()</p><p class="description">Frees all session variables and destroys all data
 registered to a sessionThis method resets the $_SESSION variable and
 destroys all of the data associated
@@ -89,111 +95,111 @@ with the current session in its storage (file or DB).
 </p></td>
 </tr>
 <tr>
-<td class="type"> static  void</td>
+<td><span class='k'>static </span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#clear">clear</a>()</p><p class="description">Free all session variables</p></td>
 </tr>
 <tr>
-<td class="type"> static  string</td>
+<td><span class='k'>static </span> <span class='nx'>string</span></td>
 <td class="description"><p class="name"><a href="#detectid">detectID</a>()</p><p class="description">Tries to find any session id in $_GET, $_POST or $_COOKIE</p></td>
 </tr>
 <tr>
-<td class="type"> static  string</td>
+<td><span class='k'>static </span> <span class='nx'>string</span></td>
 <td class="description"><p class="name"><a href="#name">name</a>(string name)</p><p class="description">Sets new name of a session</p></td>
 </tr>
 <tr>
-<td class="type"> static  string</td>
+<td><span class='k'>static </span> <span class='nx'>string</span></td>
 <td class="description"><p class="name"><a href="#id">id</a>(string id)</p><p class="description">Sets new ID of a session</p></td>
 </tr>
 <tr>
-<td class="type"> static  void</td>
+<td><span class='k'>static </span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#setexpire">setExpire</a>(integer time, bool add)</p><p class="description">Sets the maximum expire time</p></td>
 </tr>
 <tr>
-<td class="type"> static  void</td>
+<td><span class='k'>static </span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#setidle">setIdle</a>(integer time, bool add)</p><p class="description">Sets the maximum idle timeSets the time-out period allowed
 between requests before the session-state
 provider terminates the session.</p></td>
 </tr>
 <tr>
-<td class="type"> static  integer</td>
+<td><span class='k'>static </span> <span class='nx'>integer</span></td>
 <td class="description"><p class="name"><a href="#sessionvalidthru">sessionValidThru</a>()</p><p class="description">Returns the time up to the session is valid</p></td>
 </tr>
 <tr>
-<td class="type"> static  boolean</td>
+<td><span class='k'>static </span> <span class='nx'>boolean</span></td>
 <td class="description"><p class="name"><a href="#isexpired">isExpired</a>()</p><p class="description">Check if session is expired</p></td>
 </tr>
 <tr>
-<td class="type"> static  boolean</td>
+<td><span class='k'>static </span> <span class='nx'>boolean</span></td>
 <td class="description"><p class="name"><a href="#isidle">isIdle</a>()</p><p class="description">Check if session is idle</p></td>
 </tr>
 <tr>
-<td class="type"> static  void</td>
+<td><span class='k'>static </span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#updateidle">updateIdle</a>()</p><p class="description">Updates the idletime</p></td>
 </tr>
 <tr>
-<td class="type"> static  boolean</td>
+<td><span class='k'>static </span> <span class='nx'>boolean</span></td>
 <td class="description"><p class="name"><a href="#usecookies">useCookies</a>(boolean useCookies)</p><p class="description">If optional parameter is specified it indicates whether the module will
 use cookies to store the session id on the client side in a cookie.
 </p></td>
 </tr>
 <tr>
-<td class="type"> static  boolean</td>
+<td><span class='k'>static </span> <span class='nx'>boolean</span></td>
 <td class="description"><p class="name"><a href="#isnew">isNew</a>()</p><p class="description">Gets a value indicating whether the session
 was created with the current requestYou MUST call this method only after you have started
 the session with the HTTP_Session2::start() method.</p></td>
 </tr>
 <tr>
-<td class="type"> static  void</td>
+<td><span class='k'>static </span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#register">register</a>(string name)</p><p class="description">Register variable with the current session</p></td>
 </tr>
 <tr>
-<td class="type"> static  void</td>
+<td><span class='k'>static </span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#unregister">unregister</a>(string name)</p><p class="description">Unregister a variable from the current session</p></td>
 </tr>
 <tr>
-<td class="type"> static  mixed</td>
+<td><span class='k'>static </span> <span class='nx'>mixed</span></td>
 <td class="description"><p class="name"><a href="#get">get</a>(string name, mixed default)</p><p class="description">Returns session variable</p></td>
 </tr>
 <tr>
-<td class="type"> static  mixed</td>
+<td><span class='k'>static </span> <span class='nx'>mixed</span></td>
 <td class="description"><p class="name"><a href="#set">set</a>(string name, mixed value)</p><p class="description">Sets session variable</p></td>
 </tr>
 <tr>
-<td class="type"> static  mixed</td>
+<td><span class='k'>static </span> <span class='nx'>mixed</span></td>
 <td class="description"><p class="name"><a href="#getlocal">getLocal</a>(string name, mixed default)</p><p class="description">Returns local variable of a scriptTwo scripts can have local variables with the same names</p></td>
 </tr>
 <tr>
-<td class="type"> static  mixed</td>
+<td><span class='k'>static </span> <span class='nx'>mixed</span></td>
 <td class="description"><p class="name"><a href="#setlocal">setLocal</a>(string name, mixed value)</p><p class="description">Sets local variable of a script.
 </p></td>
 </tr>
 <tr>
-<td class="type"> static  boolean</td>
+<td><span class='k'>static </span> <span class='nx'>boolean</span></td>
 <td class="description"><p class="name"><a href="#usetranssid">useTransSID</a>(boolean useTransSID)</p><p class="description">set the usage of transparent SID</p></td>
 </tr>
 <tr>
-<td class="type"> static  string</td>
+<td><span class='k'>static </span> <span class='nx'>string</span></td>
 <td class="description"><p class="name"><a href="#localname">localName</a>(string name)</p><p class="description">Sets new local name</p></td>
 </tr>
 <tr>
-<td class="type"> static  void</td>
+<td><span class='k'>static </span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#init">init</a>()</p><p class="description">init</p></td>
 </tr>
 <tr>
-<td class="type"> static  boolean</td>
+<td><span class='k'>static </span> <span class='nx'>boolean</span></td>
 <td class="description"><p class="name"><a href="#regenerateid">regenerateId</a>(boolean deleteOldSessionData)</p><p class="description">Regenrates session idIf session_regenerate_id() is not available emulates its functionality</p></td>
 </tr>
 <tr>
-<td class="type"> static  boolean</td>
+<td><span class='k'>static </span> <span class='nx'>boolean</span></td>
 <td class="description"><p class="name"><a href="#replicate">replicate</a>(string target, string id)</p><p class="description">This function copies session data of specified id to specified table</p></td>
 </tr>
 <tr>
-<td class="type"> static  boolean</td>
+<td><span class='k'>static </span> <span class='nx'>boolean</span></td>
 <td class="description"><p class="name"><a href="#setgcmaxlifetime">setGcMaxLifetime</a>(int gcMaxLifetime)</p><p class="description">If optional parameter is specified it determines the number of seconds
 after which session data will be seen as 'garbage' and cleaned upIt returns the previous value of this property</p></td>
 </tr>
 <tr>
-<td class="type"> static  boolean</td>
+<td><span class='k'>static </span> <span class='nx'>boolean</span></td>
 <td class="description"><p class="name"><a href="#setgcprobability">setGcProbability</a>(int gcProbability)</p><p class="description">If optional parameter is specified it determines the
 probability that the gc (garbage collection) routine is started
 and session data is cleaned upIt returns the previous value of this property</p></td>
@@ -201,10 +207,13 @@ and session data is cleaned upIt returns the previous value of this property</p>
 </table>
 
 <h2 id="detail_method">Method Detail</h2>
-<div class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 151</div>
-<h3 id="start()">start</h3>
 
-public static  void **start** (string name, string id)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 151#L151 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 151</a>
+
+<h3 id="start()">start</h3>
+<span class='k'>static </span> <span class='nx'>void</span> <span class='nf'>start</span> (string name, string id)
+
+<div class="details">
 <p>Initializes session data</p><p>Creates a session (or resumes the current one
 based on the session id being passed
 via a GET variable or a cookie).
@@ -221,10 +230,13 @@ You can provide your own name and/or id for a session.</p><dl>
 
 - - -
 
-<div class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 184</div>
-<h3 id="pause()">pause</h3>
 
-public static  void **pause** ()<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 184#L184 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 184</a>
+
+<h3 id="pause()">pause</h3>
+<span class='k'>static </span> <span class='nx'>void</span> <span class='nf'>pause</span> ()
+
+<div class="details">
 <p>Writes session data and ends session</p><p>Session data is usually stored after your script
 terminated without the need to call HTTP_Session2::stop(),
 but as session data is locked to prevent concurrent
@@ -241,10 +253,13 @@ to session variables are done.</p><dl>
 
 - - -
 
-<div class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 202</div>
-<h3 id="destroy()">destroy</h3>
 
-public static  void **destroy** ()<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 202#L202 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 202</a>
+
+<h3 id="destroy()">destroy</h3>
+<span class='k'>static </span> <span class='nx'>void</span> <span class='nf'>destroy</span> ()
+
+<div class="details">
 <p>Frees all session variables and destroys all data
 registered to a session</p><p>This method resets the $_SESSION variable and
 destroys all of the data associated
@@ -259,10 +274,13 @@ is called. It does not unset the session cookie.</p><dl>
 
 - - -
 
-<div class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 213</div>
-<h3 id="clear()">clear</h3>
 
-public static  void **clear** ()<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 213#L213 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 213</a>
+
+<h3 id="clear()">clear</h3>
+<span class='k'>static </span> <span class='nx'>void</span> <span class='nf'>clear</span> ()
+
+<div class="details">
 <p>Free all session variables</p><dl>
 <dt>Todo:</dt>
 <dd>TODO Save expire and idle timestamps?</dd>
@@ -271,10 +289,13 @@ public static  void **clear** ()<div class="details">
 
 - - -
 
-<div class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 226</div>
-<h3 id="detectID()">detectID</h3>
 
-public static  string **detectID** ()<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 226#L226 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 226</a>
+
+<h3 id="detectID()">detectID</h3>
+<span class='k'>static </span> <span class='nx'>string</span> <span class='nf'>detectID</span> ()
+
+<div class="details">
 <p>Tries to find any session id in $_GET, $_POST or $_COOKIE</p><dl>
 <dt>Returns:</dt>
 <dd>Session ID (if exists) or null</dd>
@@ -283,10 +304,13 @@ public static  string **detectID** ()<div class="details">
 
 - - -
 
-<div class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 250</div>
-<h3 id="name()">name</h3>
 
-public static  string **name** (string name)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 250#L250 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 250</a>
+
+<h3 id="name()">name</h3>
+<span class='k'>static </span> <span class='nx'>string</span> <span class='nf'>name</span> (string name)
+
+<div class="details">
 <p>Sets new name of a session</p><dl>
 <dt>Parameters:</dt>
 <dd>name - New name of a sesion</dd>
@@ -299,10 +323,13 @@ public static  string **name** (string name)<div class="details">
 
 - - -
 
-<div class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 265</div>
-<h3 id="id()">id</h3>
 
-public static  string **id** (string id)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 265#L265 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 265</a>
+
+<h3 id="id()">id</h3>
+<span class='k'>static </span> <span class='nx'>string</span> <span class='nf'>id</span> (string id)
+
+<div class="details">
 <p>Sets new ID of a session</p><dl>
 <dt>Parameters:</dt>
 <dd>id - New ID of a sesion</dd>
@@ -315,10 +342,13 @@ public static  string **id** (string id)<div class="details">
 
 - - -
 
-<div class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 280</div>
-<h3 id="setExpire()">setExpire</h3>
 
-public static  void **setExpire** (integer time, bool add)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 280#L280 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 280</a>
+
+<h3 id="setExpire()">setExpire</h3>
+<span class='k'>static </span> <span class='nx'>void</span> <span class='nf'>setExpire</span> (integer time, bool add)
+
+<div class="details">
 <p>Sets the maximum expire time</p><dl>
 <dt>Parameters:</dt>
 <dd>time - Time in seconds</dd>
@@ -328,10 +358,13 @@ public static  void **setExpire** (integer time, bool add)<div class="details">
 
 - - -
 
-<div class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 303</div>
-<h3 id="setIdle()">setIdle</h3>
 
-public static  void **setIdle** (integer time, bool add)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 303#L303 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 303</a>
+
+<h3 id="setIdle()">setIdle</h3>
+<span class='k'>static </span> <span class='nx'>void</span> <span class='nf'>setIdle</span> (integer time, bool add)
+
+<div class="details">
 <p>Sets the maximum idle time</p><p>Sets the time-out period allowed
 between requests before the session-state
 provider terminates the session.</p><dl>
@@ -343,10 +376,13 @@ provider terminates the session.</p><dl>
 
 - - -
 
-<div class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 319</div>
-<h3 id="sessionValidThru()">sessionValidThru</h3>
 
-public static  integer **sessionValidThru** ()<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 319#L319 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 319</a>
+
+<h3 id="sessionValidThru()">sessionValidThru</h3>
+<span class='k'>static </span> <span class='nx'>integer</span> <span class='nf'>sessionValidThru</span> ()
+
+<div class="details">
 <p>Returns the time up to the session is valid</p><dl>
 <dt>Returns:</dt>
 <dd>Time when the session idles</dd>
@@ -355,18 +391,24 @@ public static  integer **sessionValidThru** ()<div class="details">
 
 - - -
 
-<div class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 334</div>
-<h3 id="isExpired()">isExpired</h3>
 
-public static  boolean **isExpired** ()<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 334#L334 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 334</a>
+
+<h3 id="isExpired()">isExpired</h3>
+<span class='k'>static </span> <span class='nx'>boolean</span> <span class='nf'>isExpired</span> ()
+
+<div class="details">
 <p>Check if session is expired</p></div>
 
 - - -
 
-<div class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 354</div>
-<h3 id="isIdle()">isIdle</h3>
 
-public static  boolean **isIdle** ()<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 354#L354 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 354</a>
+
+<h3 id="isIdle()">isIdle</h3>
+<span class='k'>static </span> <span class='nx'>boolean</span> <span class='nf'>isIdle</span> ()
+
+<div class="details">
 <p>Check if session is idle</p><dl>
 <dt>Returns:</dt>
 <dd>Obvious</dd>
@@ -375,18 +417,24 @@ public static  boolean **isIdle** ()<div class="details">
 
 - - -
 
-<div class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 373</div>
-<h3 id="updateIdle()">updateIdle</h3>
 
-public static  void **updateIdle** ()<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 373#L373 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 373</a>
+
+<h3 id="updateIdle()">updateIdle</h3>
+<span class='k'>static </span> <span class='nx'>void</span> <span class='nf'>updateIdle</span> ()
+
+<div class="details">
 <p>Updates the idletime</p></div>
 
 - - -
 
-<div class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 401</div>
-<h3 id="useCookies()">useCookies</h3>
 
-public static  boolean **useCookies** (boolean useCookies)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 401#L401 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 401</a>
+
+<h3 id="useCookies()">useCookies</h3>
+<span class='k'>static </span> <span class='nx'>boolean</span> <span class='nf'>useCookies</span> (boolean useCookies)
+
+<div class="details">
 <p>If optional parameter is specified it indicates whether the module will
 use cookies to store the session id on the client side in a cookie.</p><p>By default this cookie will be deleted when the browser is closed!</p><p>It will throw an Exception if it's not able to set the session.use_cookie
 property.</p><p>It returns the previous value of this property.</p><dl>
@@ -405,10 +453,13 @@ property.</p><p>It returns the previous value of this property.</p><dl>
 
 - - -
 
-<div class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 435</div>
-<h3 id="isNew()">isNew</h3>
 
-public static  boolean **isNew** ()<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 435#L435 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 435</a>
+
+<h3 id="isNew()">isNew</h3>
+<span class='k'>static </span> <span class='nx'>boolean</span> <span class='nf'>isNew</span> ()
+
+<div class="details">
 <p>Gets a value indicating whether the session
 was created with the current request</p><p>You MUST call this method only after you have started
 the session with the HTTP_Session2::start() method.</p><dl>
@@ -423,10 +474,13 @@ the session with the HTTP_Session2::start() method.</p><dl>
 
 - - -
 
-<div class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 453</div>
-<h3 id="register()">register</h3>
 
-public static  void **register** (string name)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 453#L453 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 453</a>
+
+<h3 id="register()">register</h3>
+<span class='k'>static </span> <span class='nx'>void</span> <span class='nf'>register</span> (string name)
+
+<div class="details">
 <p>Register variable with the current session</p><dl>
 <dt>Parameters:</dt>
 <dd>name - Name of a global variable</dd>
@@ -437,10 +491,13 @@ public static  void **register** (string name)<div class="details">
 
 - - -
 
-<div class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 465</div>
-<h3 id="unregister()">unregister</h3>
 
-public static  void **unregister** (string name)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 465#L465 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 465</a>
+
+<h3 id="unregister()">unregister</h3>
+<span class='k'>static </span> <span class='nx'>void</span> <span class='nf'>unregister</span> (string name)
+
+<div class="details">
 <p>Unregister a variable from the current session</p><dl>
 <dt>Parameters:</dt>
 <dd>name - Name of a global variable</dd>
@@ -451,10 +508,13 @@ public static  void **unregister** (string name)<div class="details">
 
 - - -
 
-<div class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 477</div>
-<h3 id="get()">get</h3>
 
-public static  mixed **get** (string name, mixed default)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 477#L477 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 477</a>
+
+<h3 id="get()">get</h3>
+<span class='k'>static </span> <span class='nx'>mixed</span> <span class='nf'>get</span> (string name, mixed default)
+
+<div class="details">
 <p>Returns session variable</p><dl>
 <dt>Parameters:</dt>
 <dd>name - Name of a variable</dd>
@@ -466,10 +526,13 @@ public static  mixed **get** (string name, mixed default)<div class="details">
 
 - - -
 
-<div class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 492</div>
-<h3 id="set()">set</h3>
 
-public static  mixed **set** (string name, mixed value)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 492#L492 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 492</a>
+
+<h3 id="set()">set</h3>
+<span class='k'>static </span> <span class='nx'>mixed</span> <span class='nf'>set</span> (string name, mixed value)
+
+<div class="details">
 <p>Sets session variable</p><dl>
 <dt>Parameters:</dt>
 <dd>name - Name of a variable</dd>
@@ -481,10 +544,13 @@ public static  mixed **set** (string name, mixed value)<div class="details">
 
 - - -
 
-<div class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 512</div>
-<h3 id="getLocal()">getLocal</h3>
 
-public static  mixed **getLocal** (string name, mixed default)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 512#L512 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 512</a>
+
+<h3 id="getLocal()">getLocal</h3>
+<span class='k'>static </span> <span class='nx'>mixed</span> <span class='nf'>getLocal</span> (string name, mixed default)
+
+<div class="details">
 <p>Returns local variable of a script</p><p>Two scripts can have local variables with the same names</p><dl>
 <dt>Parameters:</dt>
 <dd>name - Name of a variable</dd>
@@ -496,10 +562,13 @@ public static  mixed **getLocal** (string name, mixed default)<div class="detail
 
 - - -
 
-<div class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 532</div>
-<h3 id="setLocal()">setLocal</h3>
 
-public static  mixed **setLocal** (string name, mixed value)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 532#L532 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 532</a>
+
+<h3 id="setLocal()">setLocal</h3>
+<span class='k'>static </span> <span class='nx'>mixed</span> <span class='nf'>setLocal</span> (string name, mixed value)
+
+<div class="details">
 <p>Sets local variable of a script.
 Two scripts can have local variables with the same names.</p><dl>
 <dt>Parameters:</dt>
@@ -512,10 +581,13 @@ Two scripts can have local variables with the same names.</p><dl>
 
 - - -
 
-<div class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 553</div>
-<h3 id="useTransSID()">useTransSID</h3>
 
-public static  boolean **useTransSID** (boolean useTransSID)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 553#L553 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 553</a>
+
+<h3 id="useTransSID()">useTransSID</h3>
+<span class='k'>static </span> <span class='nx'>boolean</span> <span class='nf'>useTransSID</span> (boolean useTransSID)
+
+<div class="details">
 <p>set the usage of transparent SID</p><dl>
 <dt>Parameters:</dt>
 <dd>useTransSID - Flag to use transparent SID</dd>
@@ -524,10 +596,13 @@ public static  boolean **useTransSID** (boolean useTransSID)<div class="details"
 
 - - -
 
-<div class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 568</div>
-<h3 id="localName()">localName</h3>
 
-public static  string **localName** (string name)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 568#L568 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 568</a>
+
+<h3 id="localName()">localName</h3>
+<span class='k'>static </span> <span class='nx'>string</span> <span class='nf'>localName</span> (string name)
+
+<div class="details">
 <p>Sets new local name</p><dl>
 <dt>Parameters:</dt>
 <dd>name - New local name</dd>
@@ -538,18 +613,24 @@ public static  string **localName** (string name)<div class="details">
 
 - - -
 
-<div class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 584</div>
-<h3 id="init()">init</h3>
 
-public static  void **init** ()<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 584#L584 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 584</a>
+
+<h3 id="init()">init</h3>
+<span class='k'>static </span> <span class='nx'>void</span> <span class='nf'>init</span> ()
+
+<div class="details">
 <p>init</p></div>
 
 - - -
 
-<div class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 601</div>
-<h3 id="regenerateId()">regenerateId</h3>
 
-public static  boolean **regenerateId** (boolean deleteOldSessionData)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 601#L601 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 601</a>
+
+<h3 id="regenerateId()">regenerateId</h3>
+<span class='k'>static </span> <span class='nx'>boolean</span> <span class='nf'>regenerateId</span> (boolean deleteOldSessionData)
+
+<div class="details">
 <p>Regenrates session id</p><p>If session_regenerate_id() is not available emulates its functionality</p><dl>
 <dt>Parameters:</dt>
 <dd>deleteOldSessionData - Whether to delete data of old session</dd>
@@ -558,10 +639,13 @@ public static  boolean **regenerateId** (boolean deleteOldSessionData)<div class
 
 - - -
 
-<div class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 630</div>
-<h3 id="replicate()">replicate</h3>
 
-public static  boolean **replicate** (string target, string id)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 630#L630 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 630</a>
+
+<h3 id="replicate()">replicate</h3>
+<span class='k'>static </span> <span class='nx'>boolean</span> <span class='nf'>replicate</span> (string target, string id)
+
+<div class="details">
 <p>This function copies session data of specified id to specified table</p><dl>
 <dt>Parameters:</dt>
 <dd>target - Target to replicate to</dd>
@@ -571,10 +655,13 @@ public static  boolean **replicate** (string target, string id)<div class="detai
 
 - - -
 
-<div class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 645</div>
-<h3 id="setGcMaxLifetime()">setGcMaxLifetime</h3>
 
-public static  boolean **setGcMaxLifetime** (int gcMaxLifetime)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 645#L645 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 645</a>
+
+<h3 id="setGcMaxLifetime()">setGcMaxLifetime</h3>
+<span class='k'>static </span> <span class='nx'>boolean</span> <span class='nf'>setGcMaxLifetime</span> (int gcMaxLifetime)
+
+<div class="details">
 <p>If optional parameter is specified it determines the number of seconds
 after which session data will be seen as 'garbage' and cleaned up</p><p>It returns the previous value of this property</p><dl>
 <dt>Parameters:</dt>
@@ -586,10 +673,13 @@ after which session data will be seen as 'garbage' and cleaned up</p><p>It retur
 
 - - -
 
-<div class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 665</div>
-<h3 id="setGcProbability()">setGcProbability</h3>
 
-public static  boolean **setGcProbability** (int gcProbability)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 665#L665 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 665</a>
+
+<h3 id="setGcProbability()">setGcProbability</h3>
+<span class='k'>static </span> <span class='nx'>boolean</span> <span class='nf'>setGcProbability</span> (int gcProbability)
+
+<div class="details">
 <p>If optional parameter is specified it determines the
 probability that the gc (garbage collection) routine is started
 and session data is cleaned up</p><p>It returns the previous value of this property</p><dl>

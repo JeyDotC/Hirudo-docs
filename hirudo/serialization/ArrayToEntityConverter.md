@@ -2,10 +2,15 @@
 - - -
 
 **Hirudo\Serialization\ArrayToEntityConverter**
-<div class="location">framework\hirudo\Hirudo\Serialization\ArrayToEntityConverter.php at line 29</div>
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Serialization\ArrayToEntityConverter.php at line 29#L29 class="location">framework\hirudo\Hirudo\Serialization\ArrayToEntityConverter.php at line 29</a>
+
 #Class ArrayToEntityConverter#
 
 **ArrayToEntityConverter**
+
+
 
 
 - - -
@@ -15,21 +20,25 @@
 <div class="comment" id="overview_description"><p>Transforms an array into an object of a given class.</p></div>
 
 
+
 - - -
 
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type">  mixed</td>
+<td><span class='k'></span> <span class='nx'>mixed</span></td>
 <td class="description"><p class="name"><a href="#convert">convert</a>(array array, mixed objectOrClassName)</p><p class="description">Converts an array into the given object. </p></td>
 </tr>
 </table>
 
 <h2 id="detail_method">Method Detail</h2>
-<div class="location">framework\hirudo\Hirudo\Serialization\ArrayToEntityConverter.php at line 44</div>
-<h3 id="convert()">convert</h3>
 
-public  mixed **convert** (array array, mixed objectOrClassName)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Serialization\ArrayToEntityConverter.php at line 44#L44 class="location">framework\hirudo\Hirudo\Serialization\ArrayToEntityConverter.php at line 44</a>
+
+<h3 id="convert()">convert</h3>
+<span class='k'></span> <span class='nx'>mixed</span> <span class='nf'>convert</span> (array array, mixed objectOrClassName)
+
+<div class="details">
 <p>Converts an array into the given object.</p><p>The collection must be an associative array which keys will correspond to
 a property in the object.</p><dl>
 <dt>Parameters:</dt>

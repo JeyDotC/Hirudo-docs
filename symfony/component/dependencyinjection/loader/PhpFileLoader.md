@@ -2,12 +2,17 @@
 - - -
 
 **Symfony\Component\DependencyInjection\Loader\PhpFileLoader**
-<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Loader\PhpFileLoader.php at line 24</div>
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\Loader\PhpFileLoader.php at line 24#L24 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Loader\PhpFileLoader.php at line 24</a>
+
 #Class PhpFileLoader#
 
 BaseFileLoader
-*<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/loader/fileloader.html">FileLoader</a>
-        ***PhpFileLoader**
+* <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/loader/fileloader.html">FileLoader</a>
+        * **PhpFileLoader**
+
+
 
 
 - - -
@@ -25,6 +30,7 @@ used form the file to change the container.</p></div>
 <dd>Fabien Potencier <fabien@symfony.com></dd>
 </dl>
 
+
 - - -
 
 <table class="inherit">
@@ -34,11 +40,11 @@ used form the file to change the container.</p></div>
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type">  void</td>
+<td><span class='k'></span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#load">load</a>(mixed file, string type)</p><p class="description">Loads a PHP file.</p></td>
 </tr>
 <tr>
-<td class="type">  Boolean</td>
+<td><span class='k'></span> <span class='nx'>Boolean</span></td>
 <td class="description"><p class="name"><a href="#supports">supports</a>(mixed resource, string type)</p><p class="description">Returns true if this class supports the given resource.</p></td>
 </tr>
 </table>
@@ -48,10 +54,13 @@ used form the file to change the container.</p></div>
 <tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/loader/fileloader.html#__construct()">__construct</a></td></tr></table>
 
 <h2 id="detail_method">Method Detail</h2>
-<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Loader\PhpFileLoader.php at line 32</div>
-<h3 id="load()">load</h3>
 
-public  void **load** (mixed file, string type)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\Loader\PhpFileLoader.php at line 32#L32 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Loader\PhpFileLoader.php at line 32</a>
+
+<h3 id="load()">load</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>load</span> (mixed file, string type)
+
+<div class="details">
 <p>Loads a PHP file.</p><dl>
 <dt>Parameters:</dt>
 <dd>file - The resource</dd>
@@ -61,10 +70,13 @@ public  void **load** (mixed file, string type)<div class="details">
 
 - - -
 
-<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Loader\PhpFileLoader.php at line 53</div>
-<h3 id="supports()">supports</h3>
 
-public  Boolean **supports** (mixed resource, string type)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\Loader\PhpFileLoader.php at line 53#L53 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Loader\PhpFileLoader.php at line 53</a>
+
+<h3 id="supports()">supports</h3>
+<span class='k'></span> <span class='nx'>Boolean</span> <span class='nf'>supports</span> (mixed resource, string type)
+
+<div class="details">
 <p>Returns true if this class supports the given resource.</p><dl>
 <dt>Parameters:</dt>
 <dd>resource - A resource</dd>

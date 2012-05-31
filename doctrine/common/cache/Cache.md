@@ -2,10 +2,15 @@
 - - -
 
 **Doctrine\Common\Cache\Cache**
-<div class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\Cache.php at line 36</div>
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\doctrine-common\Doctrine\Common\Cache\Cache.php at line 36#L36 class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\Cache.php at line 36</a>
+
 #Interface Cache#
 
 **Cache**
+
+
 
 
 - - -
@@ -29,16 +34,17 @@
 <dd>Fabio B. Silva <fabio.bat.silva@gmail.com></dd>
 </dl>
 
+
 - - -
 
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type">  boolean</td>
+<td><span class='k'></span> <span class='nx'>boolean</span></td>
 <td class="description"><p class="name"><a href="#delete">delete</a>(string id)</p><p class="description">Deletes a cache entry.</p></td>
 </tr>
 <tr>
-<td class="type">  void</td>
+<td><span class='k'></span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#getstats">getStats</a>()</p><p class="description">Retrieves cached information from data storeThe server's statistics array has the following values:- <b>hits</b>
 Number of keys that have been requested and found present.
 </p></td>
@@ -46,10 +52,13 @@ Number of keys that have been requested and found present.
 </table>
 
 <h2 id="detail_method">Method Detail</h2>
-<div class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\Cache.php at line 46</div>
-<h3 id="delete()">delete</h3>
 
-public  boolean **delete** (string id)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\doctrine-common\Doctrine\Common\Cache\Cache.php at line 46#L46 class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\Cache.php at line 46</a>
+
+<h3 id="delete()">delete</h3>
+<span class='k'></span> <span class='nx'>boolean</span> <span class='nf'>delete</span> (string id)
+
+<div class="details">
 <p>Deletes a cache entry.</p><dl>
 <dt>Parameters:</dt>
 <dd>id - cache id</dd>
@@ -60,10 +69,13 @@ public  boolean **delete** (string id)<div class="details">
 
 - - -
 
-<div class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\Cache.php at line 71</div>
-<h3 id="getStats()">getStats</h3>
 
-public  void **getStats** ()<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\doctrine-common\Doctrine\Common\Cache\Cache.php at line 71#L71 class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\Cache.php at line 71</a>
+
+<h3 id="getStats()">getStats</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>getStats</span> ()
+
+<div class="details">
 <p>Retrieves cached information from data store</p><p>The server's statistics array has the following values:</p><p>- <b>hits</b>
 Number of keys that have been requested and found present.</p><p>- <b>misses</b>
 Number of items that have been requested and not found.</p><p>- <b>uptime</b>

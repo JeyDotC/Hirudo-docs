@@ -2,10 +2,15 @@
 - - -
 
 **Hirudo\Models\Components\Restful\RequestCodes**
-<div class="location">framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 24</div>
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 24#L24 class="location">framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 24</a>
+
 #Class RequestCodes#
 
 **RequestCodes**
+
+
 
 
 - - -
@@ -22,113 +27,120 @@ GNU General Public License for more details.</p><p>You should have received a co
 along with Hirudo.  If not, see <http://www.gnu.org/licenses/>.</p></div>
 
 
+
 - - -
 
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type">  void</td>
+<td><span class='k'></span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#flush">flush</a>()</p><p class="description"></p></td>
 </tr>
 <tr>
-<td class="type">  void</td>
+<td><span class='k'></span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#execute">execute</a>()</p><p class="description"></p></td>
 </tr>
 <tr>
-<td class="type"> protected  void</td>
+<td><span class='k'>protected </span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#executeget">executeGet</a>(type ch)</p><p class="description"></p></td>
 </tr>
 <tr>
-<td class="type"> protected  void</td>
+<td><span class='k'>protected </span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#executepost">executePost</a>(type ch)</p><p class="description"></p></td>
 </tr>
 <tr>
-<td class="type"> protected  void</td>
+<td><span class='k'>protected </span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#executeput">executePut</a>(type ch)</p><p class="description"></p></td>
 </tr>
 <tr>
-<td class="type"> protected  void</td>
+<td><span class='k'>protected </span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#executedelete">executeDelete</a>(mixed ch)</p></td>
 </tr>
 <tr>
-<td class="type"> protected  void</td>
+<td><span class='k'>protected </span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#doexecute">doExecute</a>(mixed curlHandle)</p></td>
 </tr>
 <tr>
-<td class="type"> protected  void</td>
+<td><span class='k'>protected </span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#setcurlopts">setCurlOpts</a>(mixed curlHandle)</p></td>
 </tr>
 <tr>
-<td class="type"> protected  void</td>
+<td><span class='k'>protected </span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#setauth">setAuth</a>(mixed curlHandle)</p></td>
 </tr>
 <tr>
-<td class="type">  void</td>
+<td><span class='k'></span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#getpassword">getPassword</a>()</p></td>
 </tr>
 <tr>
-<td class="type">  void</td>
+<td><span class='k'></span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#setpassword">setPassword</a>(mixed password)</p></td>
 </tr>
 <tr>
-<td class="type">  void</td>
+<td><span class='k'></span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#getresponsebody">getResponseBody</a>()</p></td>
 </tr>
 <tr>
-<td class="type">  void</td>
+<td><span class='k'></span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#getresponseinfo">getResponseInfo</a>()</p></td>
 </tr>
 <tr>
-<td class="type">  void</td>
+<td><span class='k'></span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#geturl">getUrl</a>()</p></td>
 </tr>
 <tr>
-<td class="type">  void</td>
+<td><span class='k'></span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#seturl">setUrl</a>(mixed url)</p></td>
 </tr>
 <tr>
-<td class="type">  void</td>
+<td><span class='k'></span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#getusername">getUsername</a>()</p></td>
 </tr>
 <tr>
-<td class="type">  void</td>
+<td><span class='k'></span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#setusername">setUsername</a>(mixed username)</p></td>
 </tr>
 <tr>
-<td class="type">  void</td>
+<td><span class='k'></span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#getverb">getVerb</a>()</p></td>
 </tr>
 <tr>
-<td class="type">  void</td>
+<td><span class='k'></span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#setverb">setVerb</a>(mixed verb)</p></td>
 </tr>
 <tr>
-<td class="type">  void</td>
+<td><span class='k'></span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#getrequestbody">getRequestBody</a>()</p></td>
 </tr>
 <tr>
-<td class="type">  void</td>
+<td><span class='k'></span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#setrequestbody">setRequestBody</a>(mixed requestBody)</p></td>
 </tr>
 <tr>
-<td class="type">  void</td>
+<td><span class='k'></span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#addheadervariable">addHeaderVariable</a>(mixed name, mixed value)</p></td>
 </tr>
 </table>
 
 <h2 id="detail_method">Method Detail</h2>
-<div class="location">framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 35</div>
-<h3 id="flush()">flush</h3>
 
-public  void **flush** ()<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 35#L35 class="location">framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 35</a>
+
+<h3 id="flush()">flush</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>flush</span> ()
+
+<div class="details">
 <p></p></div>
 
 - - -
 
-<div class="location">framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 49</div>
-<h3 id="execute()">execute</h3>
 
-public  void **execute** ()<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 49#L49 class="location">framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 49</a>
+
+<h3 id="execute()">execute</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>execute</span> ()
+
+<div class="details">
 <p></p><dl>
 <dt>Throws:</dt>
 <dd><a href="../../../../symfony/component/dependencyinjection/exception/invalidargumentexception.html">InvalidArgumentException</a> - Cuando el protocolo del request no es GET, POST, PUT o DELETE.</dd>
@@ -138,162 +150,222 @@ public  void **execute** ()<div class="details">
 
 - - -
 
-<div class="location">framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 100</div>
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 100#L100 class="location">framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 100</a>
+
 <h3 id="executeGet()">executeGet</h3>
+<span class='k'>protected </span> <span class='nx'>void</span> <span class='nf'>executeGet</span> (type ch)
 
-protected  void **executeGet** (type ch)<div class="details">
+<div class="details">
 <p></p></div>
 
 - - -
 
-<div class="location">framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 108</div>
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 108#L108 class="location">framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 108</a>
+
 <h3 id="executePost()">executePost</h3>
+<span class='k'>protected </span> <span class='nx'>void</span> <span class='nf'>executePost</span> (type ch)
 
-protected  void **executePost** (type ch)<div class="details">
+<div class="details">
 <p></p></div>
 
 - - -
 
-<div class="location">framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 124</div>
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 124#L124 class="location">framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 124</a>
+
 <h3 id="executePut()">executePut</h3>
+<span class='k'>protected </span> <span class='nx'>void</span> <span class='nf'>executePut</span> (type ch)
 
-protected  void **executePut** (type ch)<div class="details">
+<div class="details">
 <p></p></div>
 
 - - -
 
-<div class="location">framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 147</div>
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 147#L147 class="location">framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 147</a>
+
 <h3 id="executeDelete()">executeDelete</h3>
+<span class='k'>protected </span> <span class='nx'>void</span> <span class='nf'>executeDelete</span> (mixed ch)
 
-protected  void **executeDelete** (mixed ch)<div class="details">
+<div class="details">
 </div>
 
 - - -
 
-<div class="location">framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 153</div>
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 153#L153 class="location">framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 153</a>
+
 <h3 id="doExecute()">doExecute</h3>
+<span class='k'>protected </span> <span class='nx'>void</span> <span class='nf'>doExecute</span> (mixed curlHandle)
 
-protected  void **doExecute** (mixed curlHandle)<div class="details">
+<div class="details">
 </div>
 
 - - -
 
-<div class="location">framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 166</div>
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 166#L166 class="location">framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 166</a>
+
 <h3 id="setCurlOpts()">setCurlOpts</h3>
+<span class='k'>protected </span> <span class='nx'>void</span> <span class='nf'>setCurlOpts</span> (mixed curlHandle)
 
-protected  void **setCurlOpts** (mixed curlHandle)<div class="details">
+<div class="details">
 </div>
 
 - - -
 
-<div class="location">framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 173</div>
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 173#L173 class="location">framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 173</a>
+
 <h3 id="setAuth()">setAuth</h3>
+<span class='k'>protected </span> <span class='nx'>void</span> <span class='nf'>setAuth</span> (mixed curlHandle)
 
-protected  void **setAuth** (mixed curlHandle)<div class="details">
+<div class="details">
 </div>
 
 - - -
 
-<div class="location">framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 182</div>
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 182#L182 class="location">framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 182</a>
+
 <h3 id="getPassword()">getPassword</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>getPassword</span> ()
 
-public  void **getPassword** ()<div class="details">
+<div class="details">
 </div>
 
 - - -
 
-<div class="location">framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 186</div>
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 186#L186 class="location">framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 186</a>
+
 <h3 id="setPassword()">setPassword</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>setPassword</span> (mixed password)
 
-public  void **setPassword** (mixed password)<div class="details">
+<div class="details">
 </div>
 
 - - -
 
-<div class="location">framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 190</div>
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 190#L190 class="location">framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 190</a>
+
 <h3 id="getResponseBody()">getResponseBody</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>getResponseBody</span> ()
 
-public  void **getResponseBody** ()<div class="details">
+<div class="details">
 </div>
 
 - - -
 
-<div class="location">framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 194</div>
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 194#L194 class="location">framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 194</a>
+
 <h3 id="getResponseInfo()">getResponseInfo</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>getResponseInfo</span> ()
 
-public  void **getResponseInfo** ()<div class="details">
+<div class="details">
 </div>
 
 - - -
 
-<div class="location">framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 198</div>
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 198#L198 class="location">framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 198</a>
+
 <h3 id="getUrl()">getUrl</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>getUrl</span> ()
 
-public  void **getUrl** ()<div class="details">
+<div class="details">
 </div>
 
 - - -
 
-<div class="location">framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 202</div>
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 202#L202 class="location">framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 202</a>
+
 <h3 id="setUrl()">setUrl</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>setUrl</span> (mixed url)
 
-public  void **setUrl** (mixed url)<div class="details">
+<div class="details">
 </div>
 
 - - -
 
-<div class="location">framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 206</div>
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 206#L206 class="location">framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 206</a>
+
 <h3 id="getUsername()">getUsername</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>getUsername</span> ()
 
-public  void **getUsername** ()<div class="details">
+<div class="details">
 </div>
 
 - - -
 
-<div class="location">framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 210</div>
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 210#L210 class="location">framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 210</a>
+
 <h3 id="setUsername()">setUsername</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>setUsername</span> (mixed username)
 
-public  void **setUsername** (mixed username)<div class="details">
+<div class="details">
 </div>
 
 - - -
 
-<div class="location">framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 214</div>
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 214#L214 class="location">framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 214</a>
+
 <h3 id="getVerb()">getVerb</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>getVerb</span> ()
 
-public  void **getVerb** ()<div class="details">
+<div class="details">
 </div>
 
 - - -
 
-<div class="location">framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 218</div>
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 218#L218 class="location">framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 218</a>
+
 <h3 id="setVerb()">setVerb</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>setVerb</span> (mixed verb)
 
-public  void **setVerb** (mixed verb)<div class="details">
+<div class="details">
 </div>
 
 - - -
 
-<div class="location">framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 222</div>
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 222#L222 class="location">framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 222</a>
+
 <h3 id="getRequestBody()">getRequestBody</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>getRequestBody</span> ()
 
-public  void **getRequestBody** ()<div class="details">
+<div class="details">
 </div>
 
 - - -
 
-<div class="location">framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 226</div>
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 226#L226 class="location">framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 226</a>
+
 <h3 id="setRequestBody()">setRequestBody</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>setRequestBody</span> (mixed requestBody)
 
-public  void **setRequestBody** (mixed requestBody)<div class="details">
+<div class="details">
 </div>
 
 - - -
 
-<div class="location">framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 230</div>
-<h3 id="addHeaderVariable()">addHeaderVariable</h3>
 
-public  void **addHeaderVariable** (mixed name, mixed value)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 230#L230 class="location">framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 230</a>
+
+<h3 id="addHeaderVariable()">addHeaderVariable</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>addHeaderVariable</span> (mixed name, mixed value)
+
+<div class="details">
 </div>
 
 - - -

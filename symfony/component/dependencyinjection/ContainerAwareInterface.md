@@ -2,10 +2,15 @@
 - - -
 
 **Symfony\Component\DependencyInjection\ContainerAwareInterface**
-<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerAwareInterface.php at line 21</div>
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerAwareInterface.php at line 21#L21 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerAwareInterface.php at line 21</a>
+
 #Interface ContainerAwareInterface#
 
 **ContainerAwareInterface**
+
+
 
 
 - - -
@@ -20,21 +25,25 @@
 <dt>Api.</dt>
 </dl>
 
+
 - - -
 
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type">  void</td>
+<td><span class='k'></span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#setcontainer">setContainer</a>(<a href="../../../symfony/component/dependencyinjection/containerinterface.html">ContainerInterface</a> container)</p><p class="description">Sets the Container.</p></td>
 </tr>
 </table>
 
 <h2 id="detail_method">Method Detail</h2>
-<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerAwareInterface.php at line 30</div>
-<h3 id="setContainer()">setContainer</h3>
 
-public  void **setContainer** (<a href="../../../symfony/component/dependencyinjection/containerinterface.html">ContainerInterface</a> container)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerAwareInterface.php at line 30#L30 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerAwareInterface.php at line 30</a>
+
+<h3 id="setContainer()">setContainer</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>setContainer</span> (<a href="../../../symfony/component/dependencyinjection/containerinterface.html">ContainerInterface</a> container)
+
+<div class="details">
 <p>Sets the Container.</p><dl>
 <dt>Parameters:</dt>
 <dd>container - A ContainerInterface instance</dd>

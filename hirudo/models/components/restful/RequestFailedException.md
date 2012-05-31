@@ -2,11 +2,16 @@
 - - -
 
 **Hirudo\Models\Components\Restful\RequestFailedException**
-<div class="location">framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 246</div>
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 246#L246 class="location">framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 246</a>
+
 #Class RequestFailedException#
 
 Exception
-***RequestFailedException**
+* **RequestFailedException**
+
+
 
 
 - - -
@@ -17,12 +22,13 @@ extends Exception
 </p>
 
 
+
 - - -
 
 <table id="summary_constructor">
 <tr><th colspan="2">Constructor Summary</th></tr>
 <tr>
-<td class="type"> void</td>
+<td><span class='k'></span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#__construct">__construct</a>(mixed ch, mixed responseInfo, str url, int code)</p></td>
 </tr>
 </table>
@@ -30,40 +36,46 @@ extends Exception
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type">  void</td>
+<td><span class='k'></span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#geterrorcode">getErrorCode</a>()</p></td>
 </tr>
 <tr>
-<td class="type">  void</td>
+<td><span class='k'></span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#getresponseinfo">getResponseInfo</a>()</p></td>
 </tr>
 </table>
 
 <h2 id="detail_method">Constructor Detail</h2>
-<div class="location">framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 251</div>
-<h3 id="__construct()">__construct</h3>
 
-```php
-public  void **__construct**(mixed ch, mixed responseInfo, str url, int code)
-```
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 251#L251 class="location">framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 251</a>
+
+<h3 id="__construct">__construct</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (mixed ch, mixed responseInfo, str url, int code)
+
 <div class="details">
 </div>
 
 - - -
 
 <h2 id="detail_method">Method Detail</h2>
-<div class="location">framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 257</div>
-<h3 id="getErrorCode()">getErrorCode</h3>
 
-public  void **getErrorCode** ()<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 257#L257 class="location">framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 257</a>
+
+<h3 id="getErrorCode()">getErrorCode</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>getErrorCode</span> ()
+
+<div class="details">
 </div>
 
 - - -
 
-<div class="location">framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 261</div>
-<h3 id="getResponseInfo()">getResponseInfo</h3>
 
-public  void **getResponseInfo** ()<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 261#L261 class="location">framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 261</a>
+
+<h3 id="getResponseInfo()">getResponseInfo</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>getResponseInfo</span> ()
+
+<div class="details">
 </div>
 
 - - -

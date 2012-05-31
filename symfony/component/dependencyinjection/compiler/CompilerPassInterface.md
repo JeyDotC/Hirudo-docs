@@ -2,7 +2,10 @@
 - - -
 
 **Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface**
-<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface.php at line 23</div>
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface.php at line 23#L23 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface.php at line 23</a>
+
 #Interface CompilerPassInterface#
 
 **CompilerPassInterface**
@@ -12,6 +15,8 @@
 <dt>All Known Subclasses:</dt>
 <dd><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/compiler/repeatablepassinterface.html">RepeatablePassInterface</a> </dd>
 </dl>
+
+
 
 - - -
 
@@ -25,21 +30,25 @@
 <dt>Api.</dt>
 </dl>
 
+
 - - -
 
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type">  void</td>
+<td><span class='k'></span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#process">process</a>(<a href="../../../../symfony/component/dependencyinjection/containerbuilder.html">ContainerBuilder</a> container)</p><p class="description">You can modify the container here before it is dumped to PHP code.</p></td>
 </tr>
 </table>
 
 <h2 id="detail_method">Method Detail</h2>
-<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface.php at line 33</div>
-<h3 id="process()">process</h3>
 
-public  void **process** (<a href="../../../../symfony/component/dependencyinjection/containerbuilder.html">ContainerBuilder</a> container)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface.php at line 33#L33 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface.php at line 33</a>
+
+<h3 id="process()">process</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>process</span> (<a href="../../../../symfony/component/dependencyinjection/containerbuilder.html">ContainerBuilder</a> container)
+
+<div class="details">
 <p>You can modify the container here before it is dumped to PHP code.</p><dl>
 <dt>Api.</dt>
 </dl>

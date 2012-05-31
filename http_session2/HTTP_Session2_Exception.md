@@ -2,11 +2,16 @@
 - - -
 
 **HTTP_Session2\HTTP_Session2_Exception**
-<div class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Exception.php at line 58</div>
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Exception.php at line 58#L58 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Exception.php at line 58</a>
+
 #Class HTTP_Session2_Exception#
 
 Exception
-***HTTP_Session2_Exception**
+* **HTTP_Session2_Exception**
+
+
 
 
 - - -
@@ -30,6 +35,7 @@ extends Exception
 <dt>See Also:</dt>
 <dd><code><a href="http://pear.php.net/package/HTTP_Session2">http://pear.php.net/package/HTTP_Session2</a></code></dd>
 </dl>
+
 
 - - -
 

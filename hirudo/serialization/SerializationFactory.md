@@ -2,10 +2,15 @@
 - - -
 
 **Hirudo\Serialization\SerializationFactory**
-<div class="location">framework\hirudo\Hirudo\Serialization\SerializationFactory.php at line 30</div>
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Serialization\SerializationFactory.php at line 30#L30 class="location">framework\hirudo\Hirudo\Serialization\SerializationFactory.php at line 30</a>
+
 #Interface SerializationFactory#
 
 **SerializationFactory**
+
+
 
 
 - - -
@@ -15,33 +20,40 @@
 <div class="comment" id="overview_description"><p>An interface to serialization and deserialization factories.</p></div>
 
 
+
 - - -
 
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type">  <a href="../../hirudo/serialization/entityserializerbase.html">EntitySerializerBase</a></td>
+<td><span class='k'></span> <span class='nx'><a href="../../hirudo/serialization/entityserializerbase.html">EntitySerializerBase</a></span></td>
 <td class="description"><p class="name"><a href="#getserializer">getSerializer</a>(mixed params)</p><p class="description">Gets an Entity serializer based on the given argument.</p></td>
 </tr>
 <tr>
-<td class="type">  <a href="../../hirudo/serialization/entitydeserializerbase.html">EntityDeserializerBase</a></td>
+<td><span class='k'></span> <span class='nx'><a href="../../hirudo/serialization/entitydeserializerbase.html">EntityDeserializerBase</a></span></td>
 <td class="description"><p class="name"><a href="#getdeserializer">getDeserializer</a>(mixed params)</p><p class="description">Gets an entity deserializer based on the given argument</p></td>
 </tr>
 </table>
 
 <h2 id="detail_method">Method Detail</h2>
-<div class="location">framework\hirudo\Hirudo\Serialization\SerializationFactory.php at line 37</div>
-<h3 id="getSerializer()">getSerializer</h3>
 
-public  <a href="../../hirudo/serialization/entityserializerbase.html">EntitySerializerBase</a> **getSerializer** (mixed params)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Serialization\SerializationFactory.php at line 37#L37 class="location">framework\hirudo\Hirudo\Serialization\SerializationFactory.php at line 37</a>
+
+<h3 id="getSerializer()">getSerializer</h3>
+<span class='k'></span> <span class='nx'><a href="../../hirudo/serialization/entityserializerbase.html">EntitySerializerBase</a></span> <span class='nf'>getSerializer</span> (mixed params)
+
+<div class="details">
 <p>Gets an Entity serializer based on the given argument.</p></div>
 
 - - -
 
-<div class="location">framework\hirudo\Hirudo\Serialization\SerializationFactory.php at line 44</div>
-<h3 id="getDeserializer()">getDeserializer</h3>
 
-public  <a href="../../hirudo/serialization/entitydeserializerbase.html">EntityDeserializerBase</a> **getDeserializer** (mixed params)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Serialization\SerializationFactory.php at line 44#L44 class="location">framework\hirudo\Hirudo\Serialization\SerializationFactory.php at line 44</a>
+
+<h3 id="getDeserializer()">getDeserializer</h3>
+<span class='k'></span> <span class='nx'><a href="../../hirudo/serialization/entitydeserializerbase.html">EntityDeserializerBase</a></span> <span class='nf'>getDeserializer</span> (mixed params)
+
+<div class="details">
 <p>Gets an entity deserializer based on the given argument</p></div>
 
 - - -

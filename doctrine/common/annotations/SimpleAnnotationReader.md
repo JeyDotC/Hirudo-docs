@@ -2,7 +2,10 @@
 - - -
 
 **Doctrine\Common\Annotations\SimpleAnnotationReader**
-<div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\SimpleAnnotationReader.php at line 34</div>
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\doctrine-common\Doctrine\Common\Annotations\SimpleAnnotationReader.php at line 34#L34 class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\SimpleAnnotationReader.php at line 34</a>
+
 #Class SimpleAnnotationReader#
 
 **SimpleAnnotationReader**
@@ -12,6 +15,8 @@
 <dt>All Implemented Interfaces:</dt>
 <dd><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/annotations/reader.html">Reader</a> </dd>
 </dl>
+
+
 
 - - -
 
@@ -28,12 +33,13 @@ full-control over all annotations that are available.</p></div>
 <dd>Fabio B. Silva <fabio.bat.silva@gmail.com></dd>
 </dl>
 
+
 - - -
 
 <table id="summary_constructor">
 <tr><th colspan="2">Constructor Summary</th></tr>
 <tr>
-<td class="type"> void</td>
+<td><span class='k'></span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#__construct">__construct</a>()</p><p class="description">Constructor.
 </p></td>
 </tr>
@@ -42,60 +48,66 @@ full-control over all annotations that are available.</p></div>
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type">  void</td>
+<td><span class='k'></span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#addnamespace">addNamespace</a>(string namespace)</p><p class="description">Adds a namespace in which we will look for annotations.</p></td>
 </tr>
 <tr>
-<td class="type">  array</td>
+<td><span class='k'></span> <span class='nx'>array</span></td>
 <td class="description"><p class="name"><a href="#getclassannotations">getClassAnnotations</a>(ReflectionClass class)</p><p class="description">Gets the annotations applied to a class.</p></td>
 </tr>
 <tr>
-<td class="type">  array</td>
+<td><span class='k'></span> <span class='nx'>array</span></td>
 <td class="description"><p class="name"><a href="#getmethodannotations">getMethodAnnotations</a>(ReflectionMethod property, ReflectionMethod method)</p><p class="description">Gets the annotations applied to a method.</p></td>
 </tr>
 <tr>
-<td class="type">  array</td>
+<td><span class='k'></span> <span class='nx'>array</span></td>
 <td class="description"><p class="name"><a href="#getpropertyannotations">getPropertyAnnotations</a>(ReflectionProperty property)</p><p class="description">Gets the annotations applied to a property.</p></td>
 </tr>
 <tr>
-<td class="type">  The</td>
+<td><span class='k'></span> <span class='nx'>The</span></td>
 <td class="description"><p class="name"><a href="#getclassannotation">getClassAnnotation</a>(ReflectionClass class, string annotationName)</p><p class="description">Gets a class annotation.</p></td>
 </tr>
 <tr>
-<td class="type">  The</td>
+<td><span class='k'></span> <span class='nx'>The</span></td>
 <td class="description"><p class="name"><a href="#getmethodannotation">getMethodAnnotation</a>(ReflectionMethod method, string annotationName)</p><p class="description">Gets a method annotation.</p></td>
 </tr>
 <tr>
-<td class="type">  The</td>
+<td><span class='k'></span> <span class='nx'>The</span></td>
 <td class="description"><p class="name"><a href="#getpropertyannotation">getPropertyAnnotation</a>(ReflectionProperty property, string annotationName)</p><p class="description">Gets a property annotation.</p></td>
 </tr>
 </table>
 
 <h2 id="detail_method">Constructor Detail</h2>
-<div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\SimpleAnnotationReader.php at line 46</div>
-<h3 id="__construct()">__construct</h3>
 
-```php
-public  void **__construct**()
-```
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\doctrine-common\Doctrine\Common\Annotations\SimpleAnnotationReader.php at line 46#L46 class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\SimpleAnnotationReader.php at line 46</a>
+
+<h3 id="__construct">__construct</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> ()
+
 <div class="details">
 <p>Constructor.</p><p>Initializes a new SimpleAnnotationReader.</p></div>
 
 - - -
 
 <h2 id="detail_method">Method Detail</h2>
-<div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\SimpleAnnotationReader.php at line 57</div>
-<h3 id="addNamespace()">addNamespace</h3>
 
-public  void **addNamespace** (string namespace)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\doctrine-common\Doctrine\Common\Annotations\SimpleAnnotationReader.php at line 57#L57 class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\SimpleAnnotationReader.php at line 57</a>
+
+<h3 id="addNamespace()">addNamespace</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>addNamespace</span> (string namespace)
+
+<div class="details">
 <p>Adds a namespace in which we will look for annotations.</p></div>
 
 - - -
 
-<div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\SimpleAnnotationReader.php at line 69</div>
-<h3 id="getClassAnnotations()">getClassAnnotations</h3>
 
-public  array **getClassAnnotations** (ReflectionClass class)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\doctrine-common\Doctrine\Common\Annotations\SimpleAnnotationReader.php at line 69#L69 class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\SimpleAnnotationReader.php at line 69</a>
+
+<h3 id="getClassAnnotations()">getClassAnnotations</h3>
+<span class='k'></span> <span class='nx'>array</span> <span class='nf'>getClassAnnotations</span> (ReflectionClass class)
+
+<div class="details">
 <p>Gets the annotations applied to a class.</p><dl>
 <dt>Parameters:</dt>
 <dd>class - The ReflectionClass of the class from which the class annotations should be read.</dd>
@@ -106,10 +118,13 @@ public  array **getClassAnnotations** (ReflectionClass class)<div class="details
 
 - - -
 
-<div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\SimpleAnnotationReader.php at line 81</div>
-<h3 id="getMethodAnnotations()">getMethodAnnotations</h3>
 
-public  array **getMethodAnnotations** (ReflectionMethod property, ReflectionMethod method)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\doctrine-common\Doctrine\Common\Annotations\SimpleAnnotationReader.php at line 81#L81 class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\SimpleAnnotationReader.php at line 81</a>
+
+<h3 id="getMethodAnnotations()">getMethodAnnotations</h3>
+<span class='k'></span> <span class='nx'>array</span> <span class='nf'>getMethodAnnotations</span> (ReflectionMethod property, ReflectionMethod method)
+
+<div class="details">
 <p>Gets the annotations applied to a method.</p><dl>
 <dt>Parameters:</dt>
 <dd>property - The ReflectionMethod of the method from which the annotations should be read.</dd>
@@ -120,10 +135,13 @@ public  array **getMethodAnnotations** (ReflectionMethod property, ReflectionMet
 
 - - -
 
-<div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\SimpleAnnotationReader.php at line 93</div>
-<h3 id="getPropertyAnnotations()">getPropertyAnnotations</h3>
 
-public  array **getPropertyAnnotations** (ReflectionProperty property)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\doctrine-common\Doctrine\Common\Annotations\SimpleAnnotationReader.php at line 93#L93 class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\SimpleAnnotationReader.php at line 93</a>
+
+<h3 id="getPropertyAnnotations()">getPropertyAnnotations</h3>
+<span class='k'></span> <span class='nx'>array</span> <span class='nf'>getPropertyAnnotations</span> (ReflectionProperty property)
+
+<div class="details">
 <p>Gets the annotations applied to a property.</p><dl>
 <dt>Parameters:</dt>
 <dd>property - The ReflectionProperty of the property from which the annotations should be read.</dd>
@@ -134,10 +152,13 @@ public  array **getPropertyAnnotations** (ReflectionProperty property)<div class
 
 - - -
 
-<div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\SimpleAnnotationReader.php at line 106</div>
-<h3 id="getClassAnnotation()">getClassAnnotation</h3>
 
-public  The **getClassAnnotation** (ReflectionClass class, string annotationName)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\doctrine-common\Doctrine\Common\Annotations\SimpleAnnotationReader.php at line 106#L106 class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\SimpleAnnotationReader.php at line 106</a>
+
+<h3 id="getClassAnnotation()">getClassAnnotation</h3>
+<span class='k'></span> <span class='nx'>The</span> <span class='nf'>getClassAnnotation</span> (ReflectionClass class, string annotationName)
+
+<div class="details">
 <p>Gets a class annotation.</p><dl>
 <dt>Parameters:</dt>
 <dd>class - The ReflectionClass of the class from which the class annotations should be read.</dd>
@@ -149,10 +170,13 @@ public  The **getClassAnnotation** (ReflectionClass class, string annotationName
 
 - - -
 
-<div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\SimpleAnnotationReader.php at line 124</div>
-<h3 id="getMethodAnnotation()">getMethodAnnotation</h3>
 
-public  The **getMethodAnnotation** (ReflectionMethod method, string annotationName)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\doctrine-common\Doctrine\Common\Annotations\SimpleAnnotationReader.php at line 124#L124 class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\SimpleAnnotationReader.php at line 124</a>
+
+<h3 id="getMethodAnnotation()">getMethodAnnotation</h3>
+<span class='k'></span> <span class='nx'>The</span> <span class='nf'>getMethodAnnotation</span> (ReflectionMethod method, string annotationName)
+
+<div class="details">
 <p>Gets a method annotation.</p><dl>
 <dt>Parameters:</dt>
 <dd></dd>
@@ -164,10 +188,13 @@ public  The **getMethodAnnotation** (ReflectionMethod method, string annotationN
 
 - - -
 
-<div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\SimpleAnnotationReader.php at line 142</div>
-<h3 id="getPropertyAnnotation()">getPropertyAnnotation</h3>
 
-public  The **getPropertyAnnotation** (ReflectionProperty property, string annotationName)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\doctrine-common\Doctrine\Common\Annotations\SimpleAnnotationReader.php at line 142#L142 class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\SimpleAnnotationReader.php at line 142</a>
+
+<h3 id="getPropertyAnnotation()">getPropertyAnnotation</h3>
+<span class='k'></span> <span class='nx'>The</span> <span class='nf'>getPropertyAnnotation</span> (ReflectionProperty property, string annotationName)
+
+<div class="details">
 <p>Gets a property annotation.</p><dl>
 <dt>Parameters:</dt>
 <dd></dd>

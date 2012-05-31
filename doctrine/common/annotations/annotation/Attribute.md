@@ -2,10 +2,15 @@
 - - -
 
 **Doctrine\Common\Annotations\Annotation\Attribute**
-<div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\Annotation\Attribute.php at line 31</div>
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\doctrine-common\Doctrine\Common\Annotations\Annotation\Attribute.php at line 31#L31 class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\Annotation\Attribute.php at line 31</a>
+
 #Class Attribute#
 
 **Attribute**
+
+
 
 
 - - -
@@ -21,49 +26,27 @@ to check the attribute type during the parsing process.</p></div>
 <dt>Annotation.</dt>
 </dl>
 
+
 - - -
+
+
 
 <table id="summary_field">
 <tr><th colspan="2">Field Summary</th></tr>
 <tr>
-<td class="type"> string</td>
-<td class="description"><p class="name"><a href="#name">$name</a></p><p class="description"></p></td>
+<td><span class='k'></span> <span class='nx'>string</span></td>
+<td class="description"><p class="name" ><a href="#name"> $name</a>
+                                </p><p class="description"></p></td>
 </tr>
 <tr>
-<td class="type"> boolean</td>
-<td class="description"><p class="name"><a href="#required">$required</a></p><p class="description"></p></td>
+<td><span class='k'></span> <span class='nx'>boolean</span></td>
+<td class="description"><p class="name" ><a href="#required"> $required</a>
+                                </p><p class="description"></p></td>
 </tr>
 <tr>
-<td class="type"> string</td>
-<td class="description"><p class="name"><a href="#type">$type</a></p><p class="description"></p></td>
+<td><span class='k'></span> <span class='nx'>string</span></td>
+<td class="description"><p class="name" ><a href="#type"> $type</a>
+                                </p><p class="description"></p></td>
 </tr>
 </table>
-
-##Field Detail##
-<div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\Annotation\Attribute.php at line 36</div>
-<h3 id="name">name</h3>
-
-public  string $name
-<div class="details">
-<p></p></div>
-
-- - -
-
-<div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\Annotation\Attribute.php at line 46</div>
-<h3 id="required">required</h3>
-
-public  boolean $required = false
-<div class="details">
-<p></p></div>
-
-- - -
-
-<div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\Annotation\Attribute.php at line 41</div>
-<h3 id="type">type</h3>
-
-public  string $type
-<div class="details">
-<p></p></div>
-
-- - -
 

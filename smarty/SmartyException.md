@@ -2,17 +2,22 @@
 - - -
 
 **Smarty\SmartyException**
-<div class="location">framework\libs\smarty\Smarty.class.php at line 1087</div>
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\Smarty.class.php at line 1087#L1087 class="location">framework\libs\smarty\Smarty.class.php at line 1087</a>
+
 #Class SmartyException#
 
 Exception
-***SmartyException**
+* **SmartyException**
 
 
 <dl>
 <dt>All Known Subclasses:</dt>
 <dd><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smartycompilerexception.html">SmartyCompilerException</a> </dd>
 </dl>
+
+
 
 - - -
 
@@ -22,6 +27,7 @@ extends Exception
 </p>
 
 <div class="comment" id="overview_description"><p>Smarty exception class</p></div>
+
 
 
 - - -

@@ -2,7 +2,10 @@
 - - -
 
 **Hirudo\Impl\Common\Templating\SmartyTemplating**
-<div class="location">framework\hirudo\Hirudo\Impl\Common\Templating\SmartyTemplating.php at line 35</div>
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\Common\Templating\SmartyTemplating.php at line 35#L35 class="location">framework\hirudo\Hirudo\Impl\Common\Templating\SmartyTemplating.php at line 35</a>
+
 #Class SmartyTemplating#
 
 **SmartyTemplating**
@@ -12,6 +15,8 @@
 <dt>All Implemented Interfaces:</dt>
 <dd><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/templatinginterface.html">Hirudo\Core\TemplatingInterface</a> </dd>
 </dl>
+
+
 
 - - -
 
@@ -24,12 +29,13 @@
 <dd>factory="instance")</dd>
 </dl>
 
+
 - - -
 
 <table id="summary_constructor">
 <tr><th colspan="2">Constructor Summary</th></tr>
 <tr>
-<td class="type"> void</td>
+<td><span class='k'></span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#__construct">__construct</a>()</p><p class="description">Creates a new instance of smarty templating.</p></td>
 </tr>
 </table>
@@ -37,40 +43,43 @@
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type">  mixed</td>
+<td><span class='k'></span> <span class='nx'>mixed</span></td>
 <td class="description"><p class="name"><a href="#assign">assign</a>(string name, mixed value)</p><p class="description">Adds a variable to the view so it can be accessed from the smarty template.</p></td>
 </tr>
 <tr>
-<td class="type">  string</td>
+<td><span class='k'></span> <span class='nx'>string</span></td>
 <td class="description"><p class="name"><a href="#display">display</a>(string moduleDir, string view)</p><p class="description">Renders the view and retuns it as a string.</p></td>
 </tr>
 <tr>
-<td class="type"> static  <a href="../../../../hirudo/impl/common/templating/smartytemplating.html">SmartyTemplating</a></td>
+<td><span class='k'>static </span> <span class='nx'><a href="../../../../hirudo/impl/common/templating/smartytemplating.html">SmartyTemplating</a></span></td>
 <td class="description"><p class="name"><a href="#instance">instance</a>()</p><p class="description"></p></td>
 </tr>
 <tr>
-<td class="type">  void</td>
+<td><span class='k'></span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#addextensionspath">addExtensionsPath</a>(string path)</p><p class="description">Adds a path to smarty extensions so these can be used in the templates.</p></td>
 </tr>
 </table>
 
 <h2 id="detail_method">Constructor Detail</h2>
-<div class="location">framework\hirudo\Hirudo\Impl\Common\Templating\SmartyTemplating.php at line 46</div>
-<h3 id="__construct()">__construct</h3>
 
-```php
-public  void **__construct**()
-```
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\Common\Templating\SmartyTemplating.php at line 46#L46 class="location">framework\hirudo\Hirudo\Impl\Common\Templating\SmartyTemplating.php at line 46</a>
+
+<h3 id="__construct">__construct</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> ()
+
 <div class="details">
 <p>Creates a new instance of smarty templating.</p></div>
 
 - - -
 
 <h2 id="detail_method">Method Detail</h2>
-<div class="location">framework\hirudo\Hirudo\Impl\Common\Templating\SmartyTemplating.php at line 61</div>
-<h3 id="assign()">assign</h3>
 
-public  mixed **assign** (string name, mixed value)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\Common\Templating\SmartyTemplating.php at line 61#L61 class="location">framework\hirudo\Hirudo\Impl\Common\Templating\SmartyTemplating.php at line 61</a>
+
+<h3 id="assign()">assign</h3>
+<span class='k'></span> <span class='nx'>mixed</span> <span class='nf'>assign</span> (string name, mixed value)
+
+<div class="details">
 <p><p>Adds a variable to the view so it can be accessed from the smarty template.</p></p><dl>
 <dt>Parameters:</dt>
 <dd>name - The name that the variable will adopt.</dd>
@@ -82,10 +91,13 @@ public  mixed **assign** (string name, mixed value)<div class="details">
 
 - - -
 
-<div class="location">framework\hirudo\Hirudo\Impl\Common\Templating\SmartyTemplating.php at line 74</div>
-<h3 id="display()">display</h3>
 
-public  string **display** (string moduleDir, string view)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\Common\Templating\SmartyTemplating.php at line 74#L74 class="location">framework\hirudo\Hirudo\Impl\Common\Templating\SmartyTemplating.php at line 74</a>
+
+<h3 id="display()">display</h3>
+<span class='k'></span> <span class='nx'>string</span> <span class='nf'>display</span> (string moduleDir, string view)
+
+<div class="details">
 <p>Renders the view and retuns it as a string.</p><dl>
 <dt>Parameters:</dt>
 <dd>moduleDir - The absolute path to the module.</dd>
@@ -97,18 +109,24 @@ public  string **display** (string moduleDir, string view)<div class="details">
 
 - - -
 
-<div class="location">framework\hirudo\Hirudo\Impl\Common\Templating\SmartyTemplating.php at line 88</div>
-<h3 id="instance()">instance</h3>
 
-public static  <a href="../../../../hirudo/impl/common/templating/smartytemplating.html">SmartyTemplating</a> **instance** ()<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\Common\Templating\SmartyTemplating.php at line 88#L88 class="location">framework\hirudo\Hirudo\Impl\Common\Templating\SmartyTemplating.php at line 88</a>
+
+<h3 id="instance()">instance</h3>
+<span class='k'>static </span> <span class='nx'><a href="../../../../hirudo/impl/common/templating/smartytemplating.html">SmartyTemplating</a></span> <span class='nf'>instance</span> ()
+
+<div class="details">
 <p></p></div>
 
 - - -
 
-<div class="location">framework\hirudo\Hirudo\Impl\Common\Templating\SmartyTemplating.php at line 101</div>
-<h3 id="addExtensionsPath()">addExtensionsPath</h3>
 
-public  void **addExtensionsPath** (string path)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\Common\Templating\SmartyTemplating.php at line 101#L101 class="location">framework\hirudo\Hirudo\Impl\Common\Templating\SmartyTemplating.php at line 101</a>
+
+<h3 id="addExtensionsPath()">addExtensionsPath</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>addExtensionsPath</span> (string path)
+
+<div class="details">
 <p>Adds a path to smarty extensions so these can be used in the templates.</p><dl>
 <dt>Parameters:</dt>
 <dd>path - The absolute path to the smarty extensions.</dd>

@@ -2,11 +2,16 @@
 - - -
 
 **Symfony\Component\DependencyInjection\SimpleXMLElement**
-<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\SimpleXMLElement.php at line 19</div>
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\SimpleXMLElement.php at line 19#L19 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\SimpleXMLElement.php at line 19</a>
+
 #Class SimpleXMLElement#
 
 \SimpleXMLElement
-***SimpleXMLElement**
+* **SimpleXMLElement**
+
+
 
 
 - - -
@@ -23,45 +28,55 @@ extends \SimpleXMLElement
 <dd>Fabien Potencier <fabien@symfony.com></dd>
 </dl>
 
+
 - - -
 
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type">  mixed</td>
+<td><span class='k'></span> <span class='nx'>mixed</span></td>
 <td class="description"><p class="name"><a href="#getattributeasphp">getAttributeAsPhp</a>(string name)</p><p class="description">Converts an attribute as a php type.</p></td>
 </tr>
 <tr>
-<td class="type">  mixed</td>
+<td><span class='k'></span> <span class='nx'>mixed</span></td>
 <td class="description"><p class="name"><a href="#getargumentsasphp">getArgumentsAsPhp</a>(string name, Boolean lowercase)</p><p class="description">Returns arguments as valid php types.</p></td>
 </tr>
 <tr>
-<td class="type"> static  mixed</td>
+<td><span class='k'>static </span> <span class='nx'>mixed</span></td>
 <td class="description"><p class="name"><a href="#phpize">phpize</a>(mixed value)</p><p class="description">Converts an xml value to a php type.</p></td>
 </tr>
 </table>
 
 <h2 id="detail_method">Method Detail</h2>
-<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\SimpleXMLElement.php at line 27</div>
-<h3 id="getAttributeAsPhp()">getAttributeAsPhp</h3>
 
-public  mixed **getAttributeAsPhp** (string name)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\SimpleXMLElement.php at line 27#L27 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\SimpleXMLElement.php at line 27</a>
+
+<h3 id="getAttributeAsPhp()">getAttributeAsPhp</h3>
+<span class='k'></span> <span class='nx'>mixed</span> <span class='nf'>getAttributeAsPhp</span> (string name)
+
+<div class="details">
 <p>Converts an attribute as a php type.</p></div>
 
 - - -
 
-<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\SimpleXMLElement.php at line 40</div>
-<h3 id="getArgumentsAsPhp()">getArgumentsAsPhp</h3>
 
-public  mixed **getArgumentsAsPhp** (string name, Boolean lowercase)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\SimpleXMLElement.php at line 40#L40 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\SimpleXMLElement.php at line 40</a>
+
+<h3 id="getArgumentsAsPhp()">getArgumentsAsPhp</h3>
+<span class='k'></span> <span class='nx'>mixed</span> <span class='nf'>getArgumentsAsPhp</span> (string name, Boolean lowercase)
+
+<div class="details">
 <p>Returns arguments as valid php types.</p></div>
 
 - - -
 
-<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\SimpleXMLElement.php at line 100</div>
-<h3 id="phpize()">phpize</h3>
 
-public static  mixed **phpize** (mixed value)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\SimpleXMLElement.php at line 100#L100 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\SimpleXMLElement.php at line 100</a>
+
+<h3 id="phpize()">phpize</h3>
+<span class='k'>static </span> <span class='nx'>mixed</span> <span class='nf'>phpize</span> (mixed value)
+
+<div class="details">
 <p>Converts an xml value to a php type.</p></div>
 
 - - -

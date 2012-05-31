@@ -2,7 +2,10 @@
 - - -
 
 **Hirudo\Core\Context\Routing**
-<div class="location">framework\hirudo\Hirudo\Core\Context\Routing.php at line 30</div>
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Core\Context\Routing.php at line 30#L30 class="location">framework\hirudo\Hirudo\Core\Context\Routing.php at line 30</a>
+
 #Class Routing#
 
 **Routing**
@@ -12,6 +15,8 @@
 <dt>All Known Subclasses:</dt>
 <dd><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/impl/joomla/joomlarouting.html">Hirudo\Impl\Joomla\JoomlaRouting</a> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/impl/standalone/sarouting.html">Hirudo\Impl\StandAlone\SARouting</a> </dd>
 </dl>
+
+
 
 - - -
 
@@ -25,56 +30,60 @@ to a certain module in a certain appplication.</p></div>
 <dd>Virtualidad</dd>
 </dl>
 
+
 - - -
 
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type">  string</td>
+<td><span class='k'></span> <span class='nx'>string</span></td>
 <td class="description"><p class="name"><a href="#action">action</a>(string task, array params)</p><p class="description">Creates a route to the given task using the current application name
 and the current module name.</p></td>
 </tr>
 <tr>
-<td class="type">  string</td>
+<td><span class='k'></span> <span class='nx'>string</span></td>
 <td class="description"><p class="name"><a href="#moduleaction">moduleAction</a>(string module, string task, array params)</p><p class="description">Creates a route to the given task using the current application name
 and the given module name.</p></td>
 </tr>
 <tr>
-<td class="type"> abstract  string</td>
+<td><span class='k'>abstract </span> <span class='nx'>string</span></td>
 <td class="description"><p class="name"><a href="#appaction">appAction</a>(string app, string module, string task, array params)</p><p class="description">Creates a route to the given task using the given application name
 and the given module name.</p></td>
 </tr>
 <tr>
-<td class="type"> abstract  string</td>
+<td><span class='k'>abstract </span> <span class='nx'>string</span></td>
 <td class="description"><p class="name"><a href="#getbaseurl">getBaseURL</a>()</p><p class="description">Gets the current base URL.</p></td>
 </tr>
 <tr>
-<td class="type"> abstract  void</td>
+<td><span class='k'>abstract </span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#redirect">redirect</a>(string url)</p><p class="description">Makes an HTTP redirect to the given absolute URL.</p></td>
 </tr>
 <tr>
-<td class="type">  string</td>
+<td><span class='k'></span> <span class='nx'>string</span></td>
 <td class="description"><p class="name"><a href="#getmodulename">getModuleName</a>()</p><p class="description">Gets the current module name.</p></td>
 </tr>
 <tr>
-<td class="type">  void</td>
+<td><span class='k'></span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#setmodulename">setModuleName</a>(string moduleName)</p><p class="description">Sets the current module name.</p></td>
 </tr>
 <tr>
-<td class="type">  string</td>
+<td><span class='k'></span> <span class='nx'>string</span></td>
 <td class="description"><p class="name"><a href="#getappname">getAppName</a>()</p><p class="description">Gets the current application name.</p></td>
 </tr>
 <tr>
-<td class="type">  void</td>
+<td><span class='k'></span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#setappname">setAppName</a>(string appName)</p><p class="description">Sets the current application name.</p></td>
 </tr>
 </table>
 
 <h2 id="detail_method">Method Detail</h2>
-<div class="location">framework\hirudo\Hirudo\Core\Context\Routing.php at line 44</div>
-<h3 id="action()">action</h3>
 
-public  string **action** (string task, array params)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Core\Context\Routing.php at line 44#L44 class="location">framework\hirudo\Hirudo\Core\Context\Routing.php at line 44</a>
+
+<h3 id="action()">action</h3>
+<span class='k'></span> <span class='nx'>string</span> <span class='nf'>action</span> (string task, array params)
+
+<div class="details">
 <p>Creates a route to the given task using the current application name
 and the current module name.</p><dl>
 <dt>Parameters:</dt>
@@ -87,10 +96,13 @@ and the current module name.</p><dl>
 
 - - -
 
-<div class="location">framework\hirudo\Hirudo\Core\Context\Routing.php at line 58</div>
-<h3 id="moduleAction()">moduleAction</h3>
 
-public  string **moduleAction** (string module, string task, array params)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Core\Context\Routing.php at line 58#L58 class="location">framework\hirudo\Hirudo\Core\Context\Routing.php at line 58</a>
+
+<h3 id="moduleAction()">moduleAction</h3>
+<span class='k'></span> <span class='nx'>string</span> <span class='nf'>moduleAction</span> (string module, string task, array params)
+
+<div class="details">
 <p>Creates a route to the given task using the current application name
 and the given module name.</p><dl>
 <dt>Parameters:</dt>
@@ -104,10 +116,13 @@ and the given module name.</p><dl>
 
 - - -
 
-<div class="location">framework\hirudo\Hirudo\Core\Context\Routing.php at line 73</div>
-<h3 id="appAction()">appAction</h3>
 
-public abstract  string **appAction** (string app, string module, string task, array params)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Core\Context\Routing.php at line 73#L73 class="location">framework\hirudo\Hirudo\Core\Context\Routing.php at line 73</a>
+
+<h3 id="appAction()">appAction</h3>
+<span class='k'>abstract </span> <span class='nx'>string</span> <span class='nf'>appAction</span> (string app, string module, string task, array params)
+
+<div class="details">
 <p>Creates a route to the given task using the given application name
 and the given module name.</p><dl>
 <dt>Parameters:</dt>
@@ -122,10 +137,13 @@ and the given module name.</p><dl>
 
 - - -
 
-<div class="location">framework\hirudo\Hirudo\Core\Context\Routing.php at line 80</div>
-<h3 id="getBaseURL()">getBaseURL</h3>
 
-public abstract  string **getBaseURL** ()<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Core\Context\Routing.php at line 80#L80 class="location">framework\hirudo\Hirudo\Core\Context\Routing.php at line 80</a>
+
+<h3 id="getBaseURL()">getBaseURL</h3>
+<span class='k'>abstract </span> <span class='nx'>string</span> <span class='nf'>getBaseURL</span> ()
+
+<div class="details">
 <p>Gets the current base URL.</p><dl>
 <dt>Returns:</dt>
 <dd>The current base URL</dd>
@@ -134,10 +152,13 @@ public abstract  string **getBaseURL** ()<div class="details">
 
 - - -
 
-<div class="location">framework\hirudo\Hirudo\Core\Context\Routing.php at line 87</div>
-<h3 id="redirect()">redirect</h3>
 
-public abstract  void **redirect** (string url)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Core\Context\Routing.php at line 87#L87 class="location">framework\hirudo\Hirudo\Core\Context\Routing.php at line 87</a>
+
+<h3 id="redirect()">redirect</h3>
+<span class='k'>abstract </span> <span class='nx'>void</span> <span class='nf'>redirect</span> (string url)
+
+<div class="details">
 <p>Makes an HTTP redirect to the given absolute URL.</p><dl>
 <dt>Parameters:</dt>
 <dd>url - The absolute URL to make the redirection.</dd>
@@ -146,10 +167,13 @@ public abstract  void **redirect** (string url)<div class="details">
 
 - - -
 
-<div class="location">framework\hirudo\Hirudo\Core\Context\Routing.php at line 94</div>
-<h3 id="getModuleName()">getModuleName</h3>
 
-public  string **getModuleName** ()<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Core\Context\Routing.php at line 94#L94 class="location">framework\hirudo\Hirudo\Core\Context\Routing.php at line 94</a>
+
+<h3 id="getModuleName()">getModuleName</h3>
+<span class='k'></span> <span class='nx'>string</span> <span class='nf'>getModuleName</span> ()
+
+<div class="details">
 <p>Gets the current module name.</p><dl>
 <dt>Returns:</dt>
 <dd>The name of the current module.</dd>
@@ -158,10 +182,13 @@ public  string **getModuleName** ()<div class="details">
 
 - - -
 
-<div class="location">framework\hirudo\Hirudo\Core\Context\Routing.php at line 103</div>
-<h3 id="setModuleName()">setModuleName</h3>
 
-public  void **setModuleName** (string moduleName)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Core\Context\Routing.php at line 103#L103 class="location">framework\hirudo\Hirudo\Core\Context\Routing.php at line 103</a>
+
+<h3 id="setModuleName()">setModuleName</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>setModuleName</span> (string moduleName)
+
+<div class="details">
 <p>Sets the current module name.</p><dl>
 <dt>Parameters:</dt>
 <dd>moduleName - The name of the module.</dd>
@@ -170,10 +197,13 @@ public  void **setModuleName** (string moduleName)<div class="details">
 
 - - -
 
-<div class="location">framework\hirudo\Hirudo\Core\Context\Routing.php at line 112</div>
-<h3 id="getAppName()">getAppName</h3>
 
-public  string **getAppName** ()<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Core\Context\Routing.php at line 112#L112 class="location">framework\hirudo\Hirudo\Core\Context\Routing.php at line 112</a>
+
+<h3 id="getAppName()">getAppName</h3>
+<span class='k'></span> <span class='nx'>string</span> <span class='nf'>getAppName</span> ()
+
+<div class="details">
 <p>Gets the current application name.</p><dl>
 <dt>Returns:</dt>
 <dd>The current app name.</dd>
@@ -182,10 +212,13 @@ public  string **getAppName** ()<div class="details">
 
 - - -
 
-<div class="location">framework\hirudo\Hirudo\Core\Context\Routing.php at line 121</div>
-<h3 id="setAppName()">setAppName</h3>
 
-public  void **setAppName** (string appName)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Core\Context\Routing.php at line 121#L121 class="location">framework\hirudo\Hirudo\Core\Context\Routing.php at line 121</a>
+
+<h3 id="setAppName()">setAppName</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>setAppName</span> (string appName)
+
+<div class="details">
 <p>Sets the current application name.</p><dl>
 <dt>Parameters:</dt>
 <dd>appName - The current application name.</dd>

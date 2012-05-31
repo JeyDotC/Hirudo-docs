@@ -2,10 +2,15 @@
 - - -
 
 **Doctrine\Common\Annotations\Annotation\Required**
-<div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\Annotation\Required.php at line 31</div>
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\doctrine-common\Doctrine\Common\Annotations\Annotation\Required.php at line 31#L31 class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\Annotation\Required.php at line 31</a>
+
 #Class Required#
 
 **Required**
+
+
 
 
 - - -
@@ -20,6 +25,7 @@ to check if that attribute is required during the parsing process.</p></div>
 <dd>Fabio B. Silva <fabio.bat.silva@gmail.com></dd>
 <dt>Annotation.</dt>
 </dl>
+
 
 - - -
 

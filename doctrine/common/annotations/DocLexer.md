@@ -2,11 +2,16 @@
 - - -
 
 **Doctrine\Common\Annotations\DocLexer**
-<div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\DocLexer.php at line 33</div>
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\doctrine-common\Doctrine\Common\Annotations\DocLexer.php at line 33#L33 class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\DocLexer.php at line 33</a>
+
 #Class DocLexer#
 
 <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/lexer.html">Lexer</a>
-    ***DocLexer**
+    * **DocLexer**
+
+
 
 
 - - -
@@ -30,6 +35,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/com
 <dt>Todo:</dt>
 <dd>Rename: AbstractLexer</dd>
 </dl>
+
 
 - - -
 

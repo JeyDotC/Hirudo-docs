@@ -2,11 +2,16 @@
 - - -
 
 **Symfony\Component\DependencyInjection\DefinitionDecorator**
-<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\DefinitionDecorator.php at line 21</div>
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\DefinitionDecorator.php at line 21#L21 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\DefinitionDecorator.php at line 21</a>
+
 #Class DefinitionDecorator#
 
 <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/definition.html">Definition</a>
-    ***DefinitionDecorator**
+    * **DefinitionDecorator**
+
+
 
 
 - - -
@@ -24,6 +29,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/comp
 <dt>Api.</dt>
 </dl>
 
+
 - - -
 
 <table class="inherit">
@@ -33,7 +39,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/comp
 <table id="summary_constructor">
 <tr><th colspan="2">Constructor Summary</th></tr>
 <tr>
-<td class="type"> void</td>
+<td><span class='k'></span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#__construct">__construct</a>(<a href="../../../symfony/component/dependencyinjection/definition.html">Definition</a> parent, string class, array arguments)</p><p class="description">Constructor.</p></td>
 </tr>
 </table>
@@ -41,44 +47,44 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/comp
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type">  <a href="../../../symfony/component/dependencyinjection/definition.html">Definition</a></td>
+<td><span class='k'></span> <span class='nx'><a href="../../../symfony/component/dependencyinjection/definition.html">Definition</a></span></td>
 <td class="description"><p class="name"><a href="#getparent">getParent</a>()</p><p class="description">Returns the Definition being decorated.</p></td>
 </tr>
 <tr>
-<td class="type">  array</td>
+<td><span class='k'></span> <span class='nx'>array</span></td>
 <td class="description"><p class="name"><a href="#getchanges">getChanges</a>()</p><p class="description">Returns all changes tracked for the Definition object.</p></td>
 </tr>
 <tr>
-<td class="type">  <a href="../../../symfony/component/dependencyinjection/definition.html">Definition</a></td>
+<td><span class='k'></span> <span class='nx'><a href="../../../symfony/component/dependencyinjection/definition.html">Definition</a></span></td>
 <td class="description"><p class="name"><a href="#setclass">setClass</a>(string class)</p><p class="description">Sets the service class.</p></td>
 </tr>
 <tr>
-<td class="type">  <a href="../../../symfony/component/dependencyinjection/definition.html">Definition</a></td>
+<td><span class='k'></span> <span class='nx'><a href="../../../symfony/component/dependencyinjection/definition.html">Definition</a></span></td>
 <td class="description"><p class="name"><a href="#setfactoryclass">setFactoryClass</a>(mixed class, string factoryClass)</p><p class="description">Sets the name of the class that acts as a factory using the factory method,
 which will be invoked statically.</p></td>
 </tr>
 <tr>
-<td class="type">  <a href="../../../symfony/component/dependencyinjection/definition.html">Definition</a></td>
+<td><span class='k'></span> <span class='nx'><a href="../../../symfony/component/dependencyinjection/definition.html">Definition</a></span></td>
 <td class="description"><p class="name"><a href="#setfactorymethod">setFactoryMethod</a>(mixed method, string factoryMethod)</p><p class="description">Sets the factory method able to create an instance of this class.</p></td>
 </tr>
 <tr>
-<td class="type">  <a href="../../../symfony/component/dependencyinjection/definition.html">Definition</a></td>
+<td><span class='k'></span> <span class='nx'><a href="../../../symfony/component/dependencyinjection/definition.html">Definition</a></span></td>
 <td class="description"><p class="name"><a href="#setfactoryservice">setFactoryService</a>(mixed service, string factoryService)</p><p class="description">Sets the name of the service that acts as a factory using the factory method.</p></td>
 </tr>
 <tr>
-<td class="type">  <a href="../../../symfony/component/dependencyinjection/definition.html">Definition</a></td>
+<td><span class='k'></span> <span class='nx'><a href="../../../symfony/component/dependencyinjection/definition.html">Definition</a></span></td>
 <td class="description"><p class="name"><a href="#setconfigurator">setConfigurator</a>(mixed callable)</p><p class="description">Sets a configurator to call after the service is fully initialized.</p></td>
 </tr>
 <tr>
-<td class="type">  <a href="../../../symfony/component/dependencyinjection/definition.html">Definition</a></td>
+<td><span class='k'></span> <span class='nx'><a href="../../../symfony/component/dependencyinjection/definition.html">Definition</a></span></td>
 <td class="description"><p class="name"><a href="#setfile">setFile</a>(string file)</p><p class="description">Sets a file to require before creating the service.</p></td>
 </tr>
 <tr>
-<td class="type">  <a href="../../../symfony/component/dependencyinjection/definition.html">Definition</a></td>
+<td><span class='k'></span> <span class='nx'><a href="../../../symfony/component/dependencyinjection/definition.html">Definition</a></span></td>
 <td class="description"><p class="name"><a href="#setpublic">setPublic</a>(Boolean boolean)</p><p class="description">Sets the visibility of this service.</p></td>
 </tr>
 <tr>
-<td class="type">  <a href="../../../symfony/component/dependencyinjection/definitiondecorator.html">DefinitionDecorator</a></td>
+<td><span class='k'></span> <span class='nx'><a href="../../../symfony/component/dependencyinjection/definitiondecorator.html">DefinitionDecorator</a></span></td>
 <td class="description"><p class="name"><a href="#replaceargument">replaceArgument</a>(integer index, mixed value, mixed argument)</p><p class="description">You should always use this method when overwriting existing arguments
 of the parent definition.
 </p></td>
@@ -90,12 +96,12 @@ of the parent definition.
 <tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/definition.html#__construct()">__construct</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/definition.html#addArgument()">addArgument</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/definition.html#addMethodCall()">addMethodCall</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/definition.html#addTag()">addTag</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/definition.html#clearTags()">clearTags</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/definition.html#getArgument()">getArgument</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/definition.html#getArguments()">getArguments</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/definition.html#getClass()">getClass</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/definition.html#getConfigurator()">getConfigurator</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/definition.html#getFactoryClass()">getFactoryClass</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/definition.html#getFactoryMethod()">getFactoryMethod</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/definition.html#getFactoryService()">getFactoryService</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/definition.html#getFile()">getFile</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/definition.html#getMethodCalls()">getMethodCalls</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/definition.html#getProperties()">getProperties</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/definition.html#getScope()">getScope</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/definition.html#getTag()">getTag</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/definition.html#getTags()">getTags</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/definition.html#hasMethodCall()">hasMethodCall</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/definition.html#hasTag()">hasTag</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/definition.html#isAbstract()">isAbstract</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/definition.html#isPublic()">isPublic</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/definition.html#isSynthetic()">isSynthetic</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/definition.html#removeMethodCall()">removeMethodCall</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/definition.html#replaceArgument()">replaceArgument</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/definition.html#setAbstract()">setAbstract</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/definition.html#setArguments()">setArguments</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/definition.html#setClass()">setClass</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/definition.html#setConfigurator()">setConfigurator</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/definition.html#setFactoryClass()">setFactoryClass</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/definition.html#setFactoryMethod()">setFactoryMethod</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/definition.html#setFactoryService()">setFactoryService</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/definition.html#setFile()">setFile</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/definition.html#setMethodCalls()">setMethodCalls</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/definition.html#setProperties()">setProperties</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/definition.html#setProperty()">setProperty</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/definition.html#setPublic()">setPublic</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/definition.html#setScope()">setScope</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/definition.html#setSynthetic()">setSynthetic</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/definition.html#setTags()">setTags</a></td></tr></table>
 
 <h2 id="detail_method">Constructor Detail</h2>
-<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\DefinitionDecorator.php at line 33</div>
-<h3 id="__construct()">__construct</h3>
 
-```php
-public  void **__construct**(<a href="../../../symfony/component/dependencyinjection/definition.html">Definition</a> parent, string class, array arguments)
-```
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\DefinitionDecorator.php at line 33#L33 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\DefinitionDecorator.php at line 33</a>
+
+<h3 id="__construct">__construct</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (<a href="../../../symfony/component/dependencyinjection/definition.html">Definition</a> parent, string class, array arguments)
+
 <div class="details">
 <p>Constructor.</p><dl>
 <dt>Parameters:</dt>
@@ -107,10 +113,13 @@ public  void **__construct**(<a href="../../../symfony/component/dependencyinjec
 - - -
 
 <h2 id="detail_method">Method Detail</h2>
-<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\DefinitionDecorator.php at line 47</div>
-<h3 id="getParent()">getParent</h3>
 
-public  <a href="../../../symfony/component/dependencyinjection/definition.html">Definition</a> **getParent** ()<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\DefinitionDecorator.php at line 47#L47 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\DefinitionDecorator.php at line 47</a>
+
+<h3 id="getParent()">getParent</h3>
+<span class='k'></span> <span class='nx'><a href="../../../symfony/component/dependencyinjection/definition.html">Definition</a></span> <span class='nf'>getParent</span> ()
+
+<div class="details">
 <p>Returns the Definition being decorated.</p><dl>
 <dt>Api.</dt>
 </dl>
@@ -118,10 +127,13 @@ public  <a href="../../../symfony/component/dependencyinjection/definition.html"
 
 - - -
 
-<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\DefinitionDecorator.php at line 58</div>
-<h3 id="getChanges()">getChanges</h3>
 
-public  array **getChanges** ()<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\DefinitionDecorator.php at line 58#L58 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\DefinitionDecorator.php at line 58</a>
+
+<h3 id="getChanges()">getChanges</h3>
+<span class='k'></span> <span class='nx'>array</span> <span class='nf'>getChanges</span> ()
+
+<div class="details">
 <p>Returns all changes tracked for the Definition object.</p><dl>
 <dt>Returns:</dt>
 <dd>An array of changes for this Definition</dd>
@@ -131,10 +143,13 @@ public  array **getChanges** ()<div class="details">
 
 - - -
 
-<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\DefinitionDecorator.php at line 67</div>
-<h3 id="setClass()">setClass</h3>
 
-public  <a href="../../../symfony/component/dependencyinjection/definition.html">Definition</a> **setClass** (string class)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\DefinitionDecorator.php at line 67#L67 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\DefinitionDecorator.php at line 67</a>
+
+<h3 id="setClass()">setClass</h3>
+<span class='k'></span> <span class='nx'><a href="../../../symfony/component/dependencyinjection/definition.html">Definition</a></span> <span class='nf'>setClass</span> (string class)
+
+<div class="details">
 <p>Sets the service class.</p><dl>
 <dt>Api.</dt>
 <dt>Parameters:</dt>
@@ -146,10 +161,13 @@ public  <a href="../../../symfony/component/dependencyinjection/definition.html"
 
 - - -
 
-<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\DefinitionDecorator.php at line 78</div>
-<h3 id="setFactoryClass()">setFactoryClass</h3>
 
-public  <a href="../../../symfony/component/dependencyinjection/definition.html">Definition</a> **setFactoryClass** (mixed class, string factoryClass)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\DefinitionDecorator.php at line 78#L78 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\DefinitionDecorator.php at line 78</a>
+
+<h3 id="setFactoryClass()">setFactoryClass</h3>
+<span class='k'></span> <span class='nx'><a href="../../../symfony/component/dependencyinjection/definition.html">Definition</a></span> <span class='nf'>setFactoryClass</span> (mixed class, string factoryClass)
+
+<div class="details">
 <p>Sets the name of the class that acts as a factory using the factory method,
 which will be invoked statically.</p><dl>
 <dt>Api.</dt>
@@ -162,10 +180,13 @@ which will be invoked statically.</p><dl>
 
 - - -
 
-<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\DefinitionDecorator.php at line 89</div>
-<h3 id="setFactoryMethod()">setFactoryMethod</h3>
 
-public  <a href="../../../symfony/component/dependencyinjection/definition.html">Definition</a> **setFactoryMethod** (mixed method, string factoryMethod)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\DefinitionDecorator.php at line 89#L89 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\DefinitionDecorator.php at line 89</a>
+
+<h3 id="setFactoryMethod()">setFactoryMethod</h3>
+<span class='k'></span> <span class='nx'><a href="../../../symfony/component/dependencyinjection/definition.html">Definition</a></span> <span class='nf'>setFactoryMethod</span> (mixed method, string factoryMethod)
+
+<div class="details">
 <p>Sets the factory method able to create an instance of this class.</p><dl>
 <dt>Api.</dt>
 <dt>Parameters:</dt>
@@ -177,10 +198,13 @@ public  <a href="../../../symfony/component/dependencyinjection/definition.html"
 
 - - -
 
-<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\DefinitionDecorator.php at line 100</div>
-<h3 id="setFactoryService()">setFactoryService</h3>
 
-public  <a href="../../../symfony/component/dependencyinjection/definition.html">Definition</a> **setFactoryService** (mixed service, string factoryService)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\DefinitionDecorator.php at line 100#L100 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\DefinitionDecorator.php at line 100</a>
+
+<h3 id="setFactoryService()">setFactoryService</h3>
+<span class='k'></span> <span class='nx'><a href="../../../symfony/component/dependencyinjection/definition.html">Definition</a></span> <span class='nf'>setFactoryService</span> (mixed service, string factoryService)
+
+<div class="details">
 <p>Sets the name of the service that acts as a factory using the factory method.</p><dl>
 <dt>Api.</dt>
 <dt>Parameters:</dt>
@@ -192,10 +216,13 @@ public  <a href="../../../symfony/component/dependencyinjection/definition.html"
 
 - - -
 
-<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\DefinitionDecorator.php at line 111</div>
-<h3 id="setConfigurator()">setConfigurator</h3>
 
-public  <a href="../../../symfony/component/dependencyinjection/definition.html">Definition</a> **setConfigurator** (mixed callable)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\DefinitionDecorator.php at line 111#L111 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\DefinitionDecorator.php at line 111</a>
+
+<h3 id="setConfigurator()">setConfigurator</h3>
+<span class='k'></span> <span class='nx'><a href="../../../symfony/component/dependencyinjection/definition.html">Definition</a></span> <span class='nf'>setConfigurator</span> (mixed callable)
+
+<div class="details">
 <p>Sets a configurator to call after the service is fully initialized.</p><dl>
 <dt>Api.</dt>
 <dt>Parameters:</dt>
@@ -207,10 +234,13 @@ public  <a href="../../../symfony/component/dependencyinjection/definition.html"
 
 - - -
 
-<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\DefinitionDecorator.php at line 122</div>
-<h3 id="setFile()">setFile</h3>
 
-public  <a href="../../../symfony/component/dependencyinjection/definition.html">Definition</a> **setFile** (string file)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\DefinitionDecorator.php at line 122#L122 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\DefinitionDecorator.php at line 122</a>
+
+<h3 id="setFile()">setFile</h3>
+<span class='k'></span> <span class='nx'><a href="../../../symfony/component/dependencyinjection/definition.html">Definition</a></span> <span class='nf'>setFile</span> (string file)
+
+<div class="details">
 <p>Sets a file to require before creating the service.</p><dl>
 <dt>Api.</dt>
 <dt>Parameters:</dt>
@@ -222,10 +252,13 @@ public  <a href="../../../symfony/component/dependencyinjection/definition.html"
 
 - - -
 
-<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\DefinitionDecorator.php at line 133</div>
-<h3 id="setPublic()">setPublic</h3>
 
-public  <a href="../../../symfony/component/dependencyinjection/definition.html">Definition</a> **setPublic** (Boolean boolean)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\DefinitionDecorator.php at line 133#L133 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\DefinitionDecorator.php at line 133</a>
+
+<h3 id="setPublic()">setPublic</h3>
+<span class='k'></span> <span class='nx'><a href="../../../symfony/component/dependencyinjection/definition.html">Definition</a></span> <span class='nf'>setPublic</span> (Boolean boolean)
+
+<div class="details">
 <p>Sets the visibility of this service.</p><dl>
 <dt>Api.</dt>
 <dt>Returns:</dt>
@@ -235,10 +268,13 @@ public  <a href="../../../symfony/component/dependencyinjection/definition.html"
 
 - - -
 
-<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\DefinitionDecorator.php at line 155</div>
-<h3 id="replaceArgument()">replaceArgument</h3>
 
-public  <a href="../../../symfony/component/dependencyinjection/definitiondecorator.html">DefinitionDecorator</a> **replaceArgument** (integer index, mixed value, mixed argument)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\DefinitionDecorator.php at line 155#L155 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\DefinitionDecorator.php at line 155</a>
+
+<h3 id="replaceArgument()">replaceArgument</h3>
+<span class='k'></span> <span class='nx'><a href="../../../symfony/component/dependencyinjection/definitiondecorator.html">DefinitionDecorator</a></span> <span class='nf'>replaceArgument</span> (integer index, mixed value, mixed argument)
+
+<div class="details">
 <p>You should always use this method when overwriting existing arguments
 of the parent definition.</p><p>If you directly call setArguments() keep in mind that you must follow
 certain conventions when you want to overwrite the arguments of the

@@ -2,11 +2,16 @@
 - - -
 
 **Symfony\Component\DependencyInjection\Dumper\XmlDumper**
-<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Dumper\XmlDumper.php at line 27</div>
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\Dumper\XmlDumper.php at line 27#L27 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Dumper\XmlDumper.php at line 27</a>
+
 #Class XmlDumper#
 
 <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/dumper/dumper.html">Dumper</a>
-    ***XmlDumper**
+    * **XmlDumper**
+
+
 
 
 - - -
@@ -25,6 +30,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/comp
 <dt>Api.</dt>
 </dl>
 
+
 - - -
 
 <table class="inherit">
@@ -34,11 +40,11 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/comp
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type">  string</td>
+<td><span class='k'></span> <span class='nx'>string</span></td>
 <td class="description"><p class="name"><a href="#dump">dump</a>(array options)</p><p class="description">Dumps the service container as an XML string.</p></td>
 </tr>
 <tr>
-<td class="type"> static  void</td>
+<td><span class='k'>static </span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#phptoxml">phpToXml</a>(mixed value)</p><p class="description">Converts php types to xml types.</p></td>
 </tr>
 </table>
@@ -48,10 +54,13 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/comp
 <tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/dumper/dumper.html#__construct()">__construct</a></td></tr></table>
 
 <h2 id="detail_method">Method Detail</h2>
-<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Dumper\XmlDumper.php at line 43</div>
-<h3 id="dump()">dump</h3>
 
-public  string **dump** (array options)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\Dumper\XmlDumper.php at line 43#L43 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Dumper\XmlDumper.php at line 43</a>
+
+<h3 id="dump()">dump</h3>
+<span class='k'></span> <span class='nx'>string</span> <span class='nf'>dump</span> (array options)
+
+<div class="details">
 <p>Dumps the service container as an XML string.</p><dl>
 <dt>Parameters:</dt>
 <dd>options - An array of options</dd>
@@ -63,10 +72,13 @@ public  string **dump** (array options)<div class="details">
 
 - - -
 
-<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Dumper\XmlDumper.php at line 288</div>
-<h3 id="phpToXml()">phpToXml</h3>
 
-public static  void **phpToXml** (mixed value)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\Dumper\XmlDumper.php at line 288#L288 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Dumper\XmlDumper.php at line 288</a>
+
+<h3 id="phpToXml()">phpToXml</h3>
+<span class='k'>static </span> <span class='nx'>void</span> <span class='nf'>phpToXml</span> (mixed value)
+
+<div class="details">
 <p>Converts php types to xml types.</p><dl>
 <dt>Parameters:</dt>
 <dd>value - Value to convert</dd>

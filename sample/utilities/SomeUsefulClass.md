@@ -2,10 +2,15 @@
 - - -
 
 **Sample\Utilities\SomeUsefulClass**
-<div class="location">ext\libs\SampleExtension\Sample\Utilities\SomeUsefulClass.php at line 13</div>
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/ext\libs\SampleExtension\Sample\Utilities\SomeUsefulClass.php at line 13#L13 class="location">ext\libs\SampleExtension\Sample\Utilities\SomeUsefulClass.php at line 13</a>
+
 #Class SomeUsefulClass#
 
 **SomeUsefulClass**
+
+
 
 
 - - -
@@ -20,21 +25,25 @@
 <dt>Export(id="service_id1").</dt>
 </dl>
 
+
 - - -
 
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type">  void</td>
+<td><span class='k'></span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#foo">foo</a>()</p></td>
 </tr>
 </table>
 
 <h2 id="detail_method">Method Detail</h2>
-<div class="location">ext\libs\SampleExtension\Sample\Utilities\SomeUsefulClass.php at line 15</div>
-<h3 id="foo()">foo</h3>
 
-public  void **foo** ()<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/ext\libs\SampleExtension\Sample\Utilities\SomeUsefulClass.php at line 15#L15 class="location">ext\libs\SampleExtension\Sample\Utilities\SomeUsefulClass.php at line 15</a>
+
+<h3 id="foo()">foo</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>foo</span> ()
+
+<div class="details">
 </div>
 
 - - -

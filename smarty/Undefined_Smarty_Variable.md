@@ -2,10 +2,15 @@
 - - -
 
 **Smarty\Undefined_Smarty_Variable**
-<div class="location">framework\libs\smarty\sysplugins\smarty_internal_data.php at line 522</div>
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_internal_data.php at line 522#L522 class="location">framework\libs\smarty\sysplugins\smarty_internal_data.php at line 522</a>
+
 #Class Undefined_Smarty_Variable#
 
 **Undefined_Smarty_Variable**
+
+
 
 
 - - -
@@ -18,6 +23,7 @@
 <dt>Subpackage:</dt>
 <dd>Template</dd>
 </dl>
+
 
 - - -
 

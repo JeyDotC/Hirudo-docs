@@ -2,12 +2,17 @@
 - - -
 
 **Smarty\Smarty_Internal_Resource_Stream**
-<div class="location">framework\libs\smarty\sysplugins\smarty_internal_resource_stream.php at line 22</div>
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_internal_resource_stream.php at line 22#L22 class="location">framework\libs\smarty\sysplugins\smarty_internal_resource_stream.php at line 22</a>
+
 #Class Smarty_Internal_Resource_Stream#
 
 <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_resource.html">Smarty_Resource</a>
-    *<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_resource_recompiled.html">Smarty_Resource_Recompiled</a>
-        ***Smarty_Internal_Resource_Stream**
+    * <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_resource_recompiled.html">Smarty_Resource_Recompiled</a>
+        * **Smarty_Internal_Resource_Stream**
+
+
 
 
 - - -
@@ -26,20 +31,21 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 <dd>TemplateResources</dd>
 </dl>
 
+
 - - -
 
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type">  void</td>
+<td><span class='k'></span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#populate">populate</a>(<a href="../smarty/smarty_template_source.html">Smarty_Template_Source</a> source, <a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> _template)</p><p class="description">populate Source Object with meta data from Resource</p></td>
 </tr>
 <tr>
-<td class="type">  string</td>
+<td><span class='k'></span> <span class='nx'>string</span></td>
 <td class="description"><p class="name"><a href="#getcontent">getContent</a>(<a href="../smarty/smarty_template_source.html">Smarty_Template_Source</a> source)</p><p class="description">Load template's source from stream into current template object</p></td>
 </tr>
 <tr>
-<td class="type"> protected  string</td>
+<td><span class='k'>protected </span> <span class='nx'>string</span></td>
 <td class="description"><p class="name"><a href="#builduniqueresourcename">buildUniqueResourceName</a>(<a href="../smarty/smarty.html">Smarty</a> smarty, string resource_name)</p><p class="description">modify resource_name according to resource handlers specifications</p></td>
 </tr>
 </table>
@@ -53,10 +59,13 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 <tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_resource.html#buildFilepath()">buildFilepath</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_resource.html#buildUniqueResourceName()">buildUniqueResourceName</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_resource.html#config()">config</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_resource.html#fileExists()">fileExists</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_resource.html#getBasename()">getBasename</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_resource.html#getContent()">getContent</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_resource.html#getUniqueTemplateName()">getUniqueTemplateName</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_resource.html#load()">load</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_resource.html#parseResourceName()">parseResourceName</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_resource.html#populate()">populate</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_resource.html#populateCompiledFilepath()">populateCompiledFilepath</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_resource.html#populateTimestamp()">populateTimestamp</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_resource.html#source()">source</a></td></tr></table>
 
 <h2 id="detail_method">Method Detail</h2>
-<div class="location">framework\libs\smarty\sysplugins\smarty_internal_resource_stream.php at line 31</div>
-<h3 id="populate()">populate</h3>
 
-public  void **populate** (<a href="../smarty/smarty_template_source.html">Smarty_Template_Source</a> source, <a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> _template)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_internal_resource_stream.php at line 31#L31 class="location">framework\libs\smarty\sysplugins\smarty_internal_resource_stream.php at line 31</a>
+
+<h3 id="populate()">populate</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>populate</span> (<a href="../smarty/smarty_template_source.html">Smarty_Template_Source</a> source, <a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> _template)
+
+<div class="details">
 <p>populate Source Object with meta data from Resource</p><dl>
 <dt>Parameters:</dt>
 <dd>source - source object</dd>
@@ -66,10 +75,13 @@ public  void **populate** (<a href="../smarty/smarty_template_source.html">Smart
 
 - - -
 
-<div class="location">framework\libs\smarty\sysplugins\smarty_internal_resource_stream.php at line 47</div>
-<h3 id="getContent()">getContent</h3>
 
-public  string **getContent** (<a href="../smarty/smarty_template_source.html">Smarty_Template_Source</a> source)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_internal_resource_stream.php at line 47#L47 class="location">framework\libs\smarty\sysplugins\smarty_internal_resource_stream.php at line 47</a>
+
+<h3 id="getContent()">getContent</h3>
+<span class='k'></span> <span class='nx'>string</span> <span class='nf'>getContent</span> (<a href="../smarty/smarty_template_source.html">Smarty_Template_Source</a> source)
+
+<div class="details">
 <p>Load template's source from stream into current template object</p><dl>
 <dt>Parameters:</dt>
 <dd>source - source object</dd>
@@ -82,10 +94,13 @@ public  string **getContent** (<a href="../smarty/smarty_template_source.html">S
 
 - - -
 
-<div class="location">framework\libs\smarty\sysplugins\smarty_internal_resource_stream.php at line 70</div>
-<h3 id="buildUniqueResourceName()">buildUniqueResourceName</h3>
 
-protected  string **buildUniqueResourceName** (<a href="../smarty/smarty.html">Smarty</a> smarty, string resource_name)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_internal_resource_stream.php at line 70#L70 class="location">framework\libs\smarty\sysplugins\smarty_internal_resource_stream.php at line 70</a>
+
+<h3 id="buildUniqueResourceName()">buildUniqueResourceName</h3>
+<span class='k'>protected </span> <span class='nx'>string</span> <span class='nf'>buildUniqueResourceName</span> (<a href="../smarty/smarty.html">Smarty</a> smarty, string resource_name)
+
+<div class="details">
 <p>modify resource_name according to resource handlers specifications</p><dl>
 <dt>Parameters:</dt>
 <dd>smarty - Smarty instance</dd>

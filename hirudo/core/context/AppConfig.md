@@ -2,7 +2,10 @@
 - - -
 
 **Hirudo\Core\Context\AppConfig**
-<div class="location">framework\hirudo\Hirudo\Core\Context\AppConfig.php at line 35</div>
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Core\Context\AppConfig.php at line 35#L35 class="location">framework\hirudo\Hirudo\Core\Context\AppConfig.php at line 35</a>
+
 #Class AppConfig#
 
 **AppConfig**
@@ -12,6 +15,8 @@
 <dt>All Known Subclasses:</dt>
 <dd><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/impl/joomla/joomlaappconfig.html">Hirudo\Impl\Joomla\JoomlaAppConfig</a> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/impl/standalone/sappconfig.html">Hirudo\Impl\StandAlone\SAppConfig</a> </dd>
 </dl>
+
+
 
 - - -
 
@@ -28,12 +33,13 @@ based on the host CMS.</p></p></div>
 <dd>JeyDotC</dd>
 </dl>
 
+
 - - -
 
 <table id="summary_constructor">
 <tr><th colspan="2">Constructor Summary</th></tr>
 <tr>
-<td class="type"> void</td>
+<td><span class='k'></span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#__construct">__construct</a>()</p><p class="description">Creates a new AppConfig and loads the current configuration.</p></td>
 </tr>
 </table>
@@ -41,40 +47,46 @@ based on the host CMS.</p></p></div>
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type"> protected abstract  void</td>
+<td><span class='k'>protected abstract </span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#load">load</a>()</p><p class="description">Load the configuration data.</p></td>
 </tr>
 <tr>
-<td class="type"> abstract  mixed</td>
+<td><span class='k'>abstract </span> <span class='nx'>mixed</span></td>
 <td class="description"><p class="name"><a href="#get">get</a>(string key, mixed default)</p><p class="description">Gets a value from the collected configuration data.</p></td>
 </tr>
 </table>
 
 <h2 id="detail_method">Constructor Detail</h2>
-<div class="location">framework\hirudo\Hirudo\Core\Context\AppConfig.php at line 40</div>
-<h3 id="__construct()">__construct</h3>
 
-```php
-public  void **__construct**()
-```
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Core\Context\AppConfig.php at line 40#L40 class="location">framework\hirudo\Hirudo\Core\Context\AppConfig.php at line 40</a>
+
+<h3 id="__construct">__construct</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> ()
+
 <div class="details">
 <p>Creates a new AppConfig and loads the current configuration.</p></div>
 
 - - -
 
 <h2 id="detail_method">Method Detail</h2>
-<div class="location">framework\hirudo\Hirudo\Core\Context\AppConfig.php at line 47</div>
-<h3 id="load()">load</h3>
 
-protected abstract  void **load** ()<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Core\Context\AppConfig.php at line 47#L47 class="location">framework\hirudo\Hirudo\Core\Context\AppConfig.php at line 47</a>
+
+<h3 id="load()">load</h3>
+<span class='k'>protected abstract </span> <span class='nx'>void</span> <span class='nf'>load</span> ()
+
+<div class="details">
 <p>Load the configuration data.</p></div>
 
 - - -
 
-<div class="location">framework\hirudo\Hirudo\Core\Context\AppConfig.php at line 58</div>
-<h3 id="get()">get</h3>
 
-public abstract  mixed **get** (string key, mixed default)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Core\Context\AppConfig.php at line 58#L58 class="location">framework\hirudo\Hirudo\Core\Context\AppConfig.php at line 58</a>
+
+<h3 id="get()">get</h3>
+<span class='k'>abstract </span> <span class='nx'>mixed</span> <span class='nf'>get</span> (string key, mixed default)
+
+<div class="details">
 <p>Gets a value from the collected configuration data.</p><dl>
 <dt>Parameters:</dt>
 <dd>key - The key that identifies the value in config.</dd>

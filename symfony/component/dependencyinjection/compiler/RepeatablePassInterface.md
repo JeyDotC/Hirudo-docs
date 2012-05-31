@@ -2,11 +2,16 @@
 - - -
 
 **Symfony\Component\DependencyInjection\Compiler\RepeatablePassInterface**
-<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\RepeatablePassInterface.php at line 20</div>
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\RepeatablePassInterface.php at line 20#L20 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\RepeatablePassInterface.php at line 20</a>
+
 #Interface RepeatablePassInterface#
 
 <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/compiler/compilerpassinterface.html">CompilerPassInterface</a>
-    ***RepeatablePassInterface**
+    * **RepeatablePassInterface**
+
+
 
 
 - - -
@@ -25,12 +30,13 @@ RepeatedPass.</p></div>
 <dt>Api.</dt>
 </dl>
 
+
 - - -
 
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type">  void</td>
+<td><span class='k'></span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#setrepeatedpass">setRepeatedPass</a>(<a href="../../../../symfony/component/dependencyinjection/compiler/repeatedpass.html">RepeatedPass</a> repeatedPass)</p><p class="description">Sets the RepeatedPass interface.</p></td>
 </tr>
 </table>
@@ -40,10 +46,13 @@ RepeatedPass.</p></div>
 <tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/compiler/compilerpassinterface.html#process()">process</a></td></tr></table>
 
 <h2 id="detail_method">Method Detail</h2>
-<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\RepeatablePassInterface.php at line 27</div>
-<h3 id="setRepeatedPass()">setRepeatedPass</h3>
 
-public  void **setRepeatedPass** (<a href="../../../../symfony/component/dependencyinjection/compiler/repeatedpass.html">RepeatedPass</a> repeatedPass)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\RepeatablePassInterface.php at line 27#L27 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\RepeatablePassInterface.php at line 27</a>
+
+<h3 id="setRepeatedPass()">setRepeatedPass</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>setRepeatedPass</span> (<a href="../../../../symfony/component/dependencyinjection/compiler/repeatedpass.html">RepeatedPass</a> repeatedPass)
+
+<div class="details">
 <p>Sets the RepeatedPass interface.</p></div>
 
 - - -

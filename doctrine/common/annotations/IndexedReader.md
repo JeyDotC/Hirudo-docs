@@ -2,10 +2,15 @@
 - - -
 
 **Doctrine\Common\Annotations\IndexedReader**
-<div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\IndexedReader.php at line 29</div>
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\doctrine-common\Doctrine\Common\Annotations\IndexedReader.php at line 29#L29 class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\IndexedReader.php at line 29</a>
+
 #Class IndexedReader#
 
 **IndexedReader**
+
+
 
 
 - - -
@@ -19,12 +24,13 @@
 <dd>Johannes M. Schmitt <schmittjoh@gmail.com></dd>
 </dl>
 
+
 - - -
 
 <table id="summary_constructor">
 <tr><th colspan="2">Constructor Summary</th></tr>
 <tr>
-<td class="type"> void</td>
+<td><span class='k'></span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#__construct">__construct</a>(<a href="../../../doctrine/common/annotations/reader.html">Reader</a> reader)</p></td>
 </tr>
 </table>
@@ -32,88 +38,106 @@
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type">  void</td>
+<td><span class='k'></span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#getclassannotations">getClassAnnotations</a>(ReflectionClass class)</p></td>
 </tr>
 <tr>
-<td class="type">  void</td>
+<td><span class='k'></span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#getclassannotation">getClassAnnotation</a>(ReflectionClass class, mixed annotation)</p></td>
 </tr>
 <tr>
-<td class="type">  void</td>
+<td><span class='k'></span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#getmethodannotations">getMethodAnnotations</a>(ReflectionMethod method)</p></td>
 </tr>
 <tr>
-<td class="type">  void</td>
+<td><span class='k'></span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#getmethodannotation">getMethodAnnotation</a>(ReflectionMethod method, mixed annotation)</p></td>
 </tr>
 <tr>
-<td class="type">  void</td>
+<td><span class='k'></span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#getpropertyannotations">getPropertyAnnotations</a>(ReflectionProperty property)</p></td>
 </tr>
 <tr>
-<td class="type">  void</td>
+<td><span class='k'></span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#getpropertyannotation">getPropertyAnnotation</a>(ReflectionProperty property, mixed annotation)</p></td>
 </tr>
 </table>
 
 <h2 id="detail_method">Constructor Detail</h2>
-<div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\IndexedReader.php at line 33</div>
-<h3 id="__construct()">__construct</h3>
 
-```php
-public  void **__construct**(<a href="../../../doctrine/common/annotations/reader.html">Reader</a> reader)
-```
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\doctrine-common\Doctrine\Common\Annotations\IndexedReader.php at line 33#L33 class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\IndexedReader.php at line 33</a>
+
+<h3 id="__construct">__construct</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (<a href="../../../doctrine/common/annotations/reader.html">Reader</a> reader)
+
 <div class="details">
 </div>
 
 - - -
 
 <h2 id="detail_method">Method Detail</h2>
-<div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\IndexedReader.php at line 38</div>
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\doctrine-common\Doctrine\Common\Annotations\IndexedReader.php at line 38#L38 class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\IndexedReader.php at line 38</a>
+
 <h3 id="getClassAnnotations()">getClassAnnotations</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>getClassAnnotations</span> (ReflectionClass class)
 
-public  void **getClassAnnotations** (ReflectionClass class)<div class="details">
+<div class="details">
 </div>
 
 - - -
 
-<div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\IndexedReader.php at line 48</div>
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\doctrine-common\Doctrine\Common\Annotations\IndexedReader.php at line 48#L48 class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\IndexedReader.php at line 48</a>
+
 <h3 id="getClassAnnotation()">getClassAnnotation</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>getClassAnnotation</span> (ReflectionClass class, mixed annotation)
 
-public  void **getClassAnnotation** (ReflectionClass class, mixed annotation)<div class="details">
+<div class="details">
 </div>
 
 - - -
 
-<div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\IndexedReader.php at line 53</div>
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\doctrine-common\Doctrine\Common\Annotations\IndexedReader.php at line 53#L53 class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\IndexedReader.php at line 53</a>
+
 <h3 id="getMethodAnnotations()">getMethodAnnotations</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>getMethodAnnotations</span> (ReflectionMethod method)
 
-public  void **getMethodAnnotations** (ReflectionMethod method)<div class="details">
+<div class="details">
 </div>
 
 - - -
 
-<div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\IndexedReader.php at line 63</div>
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\doctrine-common\Doctrine\Common\Annotations\IndexedReader.php at line 63#L63 class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\IndexedReader.php at line 63</a>
+
 <h3 id="getMethodAnnotation()">getMethodAnnotation</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>getMethodAnnotation</span> (ReflectionMethod method, mixed annotation)
 
-public  void **getMethodAnnotation** (ReflectionMethod method, mixed annotation)<div class="details">
+<div class="details">
 </div>
 
 - - -
 
-<div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\IndexedReader.php at line 68</div>
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\doctrine-common\Doctrine\Common\Annotations\IndexedReader.php at line 68#L68 class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\IndexedReader.php at line 68</a>
+
 <h3 id="getPropertyAnnotations()">getPropertyAnnotations</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>getPropertyAnnotations</span> (ReflectionProperty property)
 
-public  void **getPropertyAnnotations** (ReflectionProperty property)<div class="details">
+<div class="details">
 </div>
 
 - - -
 
-<div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\IndexedReader.php at line 78</div>
-<h3 id="getPropertyAnnotation()">getPropertyAnnotation</h3>
 
-public  void **getPropertyAnnotation** (ReflectionProperty property, mixed annotation)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\doctrine-common\Doctrine\Common\Annotations\IndexedReader.php at line 78#L78 class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\IndexedReader.php at line 78</a>
+
+<h3 id="getPropertyAnnotation()">getPropertyAnnotation</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>getPropertyAnnotation</span> (ReflectionProperty property, mixed annotation)
+
+<div class="details">
 </div>
 
 - - -

@@ -2,10 +2,15 @@
 - - -
 
 **Symfony\Component\DependencyInjection\Compiler\Compiler**
-<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\Compiler.php at line 24</div>
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\Compiler.php at line 24#L24 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\Compiler.php at line 24</a>
+
 #Class Compiler#
 
 **Compiler**
+
+
 
 
 - - -
@@ -20,12 +25,13 @@
 <dt>Api.</dt>
 </dl>
 
+
 - - -
 
 <table id="summary_constructor">
 <tr><th colspan="2">Constructor Summary</th></tr>
 <tr>
-<td class="type"> void</td>
+<td><span class='k'></span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#__construct">__construct</a>()</p><p class="description">Constructor.</p></td>
 </tr>
 </table>
@@ -33,52 +39,55 @@
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type">  <a href="../../../../symfony/component/dependencyinjection/compiler/passconfig.html">PassConfig</a></td>
+<td><span class='k'></span> <span class='nx'><a href="../../../../symfony/component/dependencyinjection/compiler/passconfig.html">PassConfig</a></span></td>
 <td class="description"><p class="name"><a href="#getpassconfig">getPassConfig</a>()</p><p class="description">Returns the PassConfig.</p></td>
 </tr>
 <tr>
-<td class="type">  <a href="../../../../symfony/component/dependencyinjection/compiler/servicereferencegraph.html">ServiceReferenceGraph</a></td>
+<td><span class='k'></span> <span class='nx'><a href="../../../../symfony/component/dependencyinjection/compiler/servicereferencegraph.html">ServiceReferenceGraph</a></span></td>
 <td class="description"><p class="name"><a href="#getservicereferencegraph">getServiceReferenceGraph</a>()</p><p class="description">Returns the ServiceReferenceGraph.</p></td>
 </tr>
 <tr>
-<td class="type">  <a href="../../../../symfony/component/dependencyinjection/compiler/loggingformatter.html">LoggingFormatter</a></td>
+<td><span class='k'></span> <span class='nx'><a href="../../../../symfony/component/dependencyinjection/compiler/loggingformatter.html">LoggingFormatter</a></span></td>
 <td class="description"><p class="name"><a href="#getloggingformatter">getLoggingFormatter</a>()</p><p class="description">Returns the logging formatter which can be used by compilation passes.</p></td>
 </tr>
 <tr>
-<td class="type">  void</td>
+<td><span class='k'></span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#addpass">addPass</a>(<a href="../../../../symfony/component/dependencyinjection/compiler/compilerpassinterface.html">CompilerPassInterface</a> pass, string type)</p><p class="description">Adds a pass to the PassConfig.</p></td>
 </tr>
 <tr>
-<td class="type">  void</td>
+<td><span class='k'></span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#addlogmessage">addLogMessage</a>(string string)</p><p class="description">Adds a log message.</p></td>
 </tr>
 <tr>
-<td class="type">  array</td>
+<td><span class='k'></span> <span class='nx'>array</span></td>
 <td class="description"><p class="name"><a href="#getlog">getLog</a>()</p><p class="description">Returns the log.</p></td>
 </tr>
 <tr>
-<td class="type">  void</td>
+<td><span class='k'></span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#compile">compile</a>(<a href="../../../../symfony/component/dependencyinjection/containerbuilder.html">ContainerBuilder</a> container)</p><p class="description">Run the Compiler and process all Passes.</p></td>
 </tr>
 </table>
 
 <h2 id="detail_method">Constructor Detail</h2>
-<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\Compiler.php at line 34</div>
-<h3 id="__construct()">__construct</h3>
 
-```php
-public  void **__construct**()
-```
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\Compiler.php at line 34#L34 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\Compiler.php at line 34</a>
+
+<h3 id="__construct">__construct</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> ()
+
 <div class="details">
 <p>Constructor.</p></div>
 
 - - -
 
 <h2 id="detail_method">Method Detail</h2>
-<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\Compiler.php at line 49</div>
-<h3 id="getPassConfig()">getPassConfig</h3>
 
-public  <a href="../../../../symfony/component/dependencyinjection/compiler/passconfig.html">PassConfig</a> **getPassConfig** ()<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\Compiler.php at line 49#L49 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\Compiler.php at line 49</a>
+
+<h3 id="getPassConfig()">getPassConfig</h3>
+<span class='k'></span> <span class='nx'><a href="../../../../symfony/component/dependencyinjection/compiler/passconfig.html">PassConfig</a></span> <span class='nf'>getPassConfig</span> ()
+
+<div class="details">
 <p>Returns the PassConfig.</p><dl>
 <dt>Returns:</dt>
 <dd>The PassConfig instance</dd>
@@ -88,10 +97,13 @@ public  <a href="../../../../symfony/component/dependencyinjection/compiler/pass
 
 - - -
 
-<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\Compiler.php at line 61</div>
-<h3 id="getServiceReferenceGraph()">getServiceReferenceGraph</h3>
 
-public  <a href="../../../../symfony/component/dependencyinjection/compiler/servicereferencegraph.html">ServiceReferenceGraph</a> **getServiceReferenceGraph** ()<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\Compiler.php at line 61#L61 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\Compiler.php at line 61</a>
+
+<h3 id="getServiceReferenceGraph()">getServiceReferenceGraph</h3>
+<span class='k'></span> <span class='nx'><a href="../../../../symfony/component/dependencyinjection/compiler/servicereferencegraph.html">ServiceReferenceGraph</a></span> <span class='nf'>getServiceReferenceGraph</span> ()
+
+<div class="details">
 <p>Returns the ServiceReferenceGraph.</p><dl>
 <dt>Returns:</dt>
 <dd>The ServiceReferenceGraph instance</dd>
@@ -101,18 +113,24 @@ public  <a href="../../../../symfony/component/dependencyinjection/compiler/serv
 
 - - -
 
-<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\Compiler.php at line 71</div>
-<h3 id="getLoggingFormatter()">getLoggingFormatter</h3>
 
-public  <a href="../../../../symfony/component/dependencyinjection/compiler/loggingformatter.html">LoggingFormatter</a> **getLoggingFormatter** ()<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\Compiler.php at line 71#L71 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\Compiler.php at line 71</a>
+
+<h3 id="getLoggingFormatter()">getLoggingFormatter</h3>
+<span class='k'></span> <span class='nx'><a href="../../../../symfony/component/dependencyinjection/compiler/loggingformatter.html">LoggingFormatter</a></span> <span class='nf'>getLoggingFormatter</span> ()
+
+<div class="details">
 <p>Returns the logging formatter which can be used by compilation passes.</p></div>
 
 - - -
 
-<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\Compiler.php at line 84</div>
-<h3 id="addPass()">addPass</h3>
 
-public  void **addPass** (<a href="../../../../symfony/component/dependencyinjection/compiler/compilerpassinterface.html">CompilerPassInterface</a> pass, string type)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\Compiler.php at line 84#L84 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\Compiler.php at line 84</a>
+
+<h3 id="addPass()">addPass</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>addPass</span> (<a href="../../../../symfony/component/dependencyinjection/compiler/compilerpassinterface.html">CompilerPassInterface</a> pass, string type)
+
+<div class="details">
 <p>Adds a pass to the PassConfig.</p><dl>
 <dt>Parameters:</dt>
 <dd>pass - A compiler pass</dd>
@@ -123,10 +141,13 @@ public  void **addPass** (<a href="../../../../symfony/component/dependencyinjec
 
 - - -
 
-<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\Compiler.php at line 94</div>
-<h3 id="addLogMessage()">addLogMessage</h3>
 
-public  void **addLogMessage** (string string)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\Compiler.php at line 94#L94 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\Compiler.php at line 94</a>
+
+<h3 id="addLogMessage()">addLogMessage</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>addLogMessage</span> (string string)
+
+<div class="details">
 <p>Adds a log message.</p><dl>
 <dt>Parameters:</dt>
 <dd>string - The log message</dd>
@@ -135,10 +156,13 @@ public  void **addLogMessage** (string string)<div class="details">
 
 - - -
 
-<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\Compiler.php at line 104</div>
-<h3 id="getLog()">getLog</h3>
 
-public  array **getLog** ()<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\Compiler.php at line 104#L104 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\Compiler.php at line 104</a>
+
+<h3 id="getLog()">getLog</h3>
+<span class='k'></span> <span class='nx'>array</span> <span class='nf'>getLog</span> ()
+
+<div class="details">
 <p>Returns the log.</p><dl>
 <dt>Returns:</dt>
 <dd>Log array</dd>
@@ -147,10 +171,13 @@ public  array **getLog** ()<div class="details">
 
 - - -
 
-<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\Compiler.php at line 116</div>
-<h3 id="compile()">compile</h3>
 
-public  void **compile** (<a href="../../../../symfony/component/dependencyinjection/containerbuilder.html">ContainerBuilder</a> container)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\Compiler.php at line 116#L116 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\Compiler.php at line 116</a>
+
+<h3 id="compile()">compile</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>compile</span> (<a href="../../../../symfony/component/dependencyinjection/containerbuilder.html">ContainerBuilder</a> container)
+
+<div class="details">
 <p>Run the Compiler and process all Passes.</p><dl>
 <dt>Api.</dt>
 </dl>

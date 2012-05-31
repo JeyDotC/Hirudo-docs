@@ -2,17 +2,22 @@
 - - -
 
 **Hirudo\Core\Exceptions\HirudoException**
-<div class="location">framework\hirudo\Hirudo\Core\Exceptions\HirudoException.php at line 37</div>
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Core\Exceptions\HirudoException.php at line 37#L37 class="location">framework\hirudo\Hirudo\Core\Exceptions\HirudoException.php at line 37</a>
+
 #Class HirudoException#
 
 \Exception
-***HirudoException**
+* **HirudoException**
 
 
 <dl>
 <dt>All Known Subclasses:</dt>
 <dd><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/exceptions/applicationnotfoundexception.html">ApplicationNotFoundException</a> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/exceptions/modulenotfoundexception.html">ModuleNotFoundException</a> </dd>
 </dl>
+
+
 
 - - -
 
@@ -32,12 +37,13 @@ are wraped into an instance of this class as the 'previous' exception.</p></p></
 <dd>\Exception</dd>
 </dl>
 
+
 - - -
 
 <table id="summary_constructor">
 <tr><th colspan="2">Constructor Summary</th></tr>
 <tr>
-<td class="type"> void</td>
+<td><span class='k'></span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#__construct">__construct</a>(<a href="../../../hirudo/core/context/modulecall.html">ModuleCall</a> call, string message, \Exception previous)</p><p class="description">Creates a HirudoException.</p></td>
 </tr>
 </table>
@@ -45,26 +51,26 @@ are wraped into an instance of this class as the 'previous' exception.</p></p></
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type">  string</td>
+<td><span class='k'></span> <span class='nx'>string</span></td>
 <td class="description"><p class="name"><a href="#getapp">getApp</a>()</p><p class="description">Gets the name of the application in which this exception were thrown.</p></td>
 </tr>
 <tr>
-<td class="type">  string</td>
+<td><span class='k'></span> <span class='nx'>string</span></td>
 <td class="description"><p class="name"><a href="#getmodule">getModule</a>()</p><p class="description">Gets the name of the module in which this exception were thrown.</p></td>
 </tr>
 <tr>
-<td class="type">  string</td>
+<td><span class='k'></span> <span class='nx'>string</span></td>
 <td class="description"><p class="name"><a href="#gettask">getTask</a>()</p><p class="description">Gets the task of the application in which this exception were thrown.</p></td>
 </tr>
 </table>
 
 <h2 id="detail_method">Constructor Detail</h2>
-<div class="location">framework\hirudo\Hirudo\Core\Exceptions\HirudoException.php at line 52</div>
-<h3 id="__construct()">__construct</h3>
 
-```php
-public  void **__construct**(<a href="../../../hirudo/core/context/modulecall.html">ModuleCall</a> call, string message, \Exception previous)
-```
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Core\Exceptions\HirudoException.php at line 52#L52 class="location">framework\hirudo\Hirudo\Core\Exceptions\HirudoException.php at line 52</a>
+
+<h3 id="__construct">__construct</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (<a href="../../../hirudo/core/context/modulecall.html">ModuleCall</a> call, string message, \Exception previous)
+
 <div class="details">
 <p>Creates a HirudoException.</p><dl>
 <dt>Parameters:</dt>
@@ -77,10 +83,13 @@ public  void **__construct**(<a href="../../../hirudo/core/context/modulecall.ht
 - - -
 
 <h2 id="detail_method">Method Detail</h2>
-<div class="location">framework\hirudo\Hirudo\Core\Exceptions\HirudoException.php at line 70</div>
-<h3 id="getApp()">getApp</h3>
 
-public  string **getApp** ()<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Core\Exceptions\HirudoException.php at line 70#L70 class="location">framework\hirudo\Hirudo\Core\Exceptions\HirudoException.php at line 70</a>
+
+<h3 id="getApp()">getApp</h3>
+<span class='k'></span> <span class='nx'>string</span> <span class='nf'>getApp</span> ()
+
+<div class="details">
 <p>Gets the name of the application in which this exception were thrown.</p><dl>
 <dt>Returns:</dt>
 <dd>The application name.</dd>
@@ -89,10 +98,13 @@ public  string **getApp** ()<div class="details">
 
 - - -
 
-<div class="location">framework\hirudo\Hirudo\Core\Exceptions\HirudoException.php at line 79</div>
-<h3 id="getModule()">getModule</h3>
 
-public  string **getModule** ()<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Core\Exceptions\HirudoException.php at line 79#L79 class="location">framework\hirudo\Hirudo\Core\Exceptions\HirudoException.php at line 79</a>
+
+<h3 id="getModule()">getModule</h3>
+<span class='k'></span> <span class='nx'>string</span> <span class='nf'>getModule</span> ()
+
+<div class="details">
 <p>Gets the name of the module in which this exception were thrown.</p><dl>
 <dt>Returns:</dt>
 <dd>The module name.</dd>
@@ -101,10 +113,13 @@ public  string **getModule** ()<div class="details">
 
 - - -
 
-<div class="location">framework\hirudo\Hirudo\Core\Exceptions\HirudoException.php at line 87</div>
-<h3 id="getTask()">getTask</h3>
 
-public  string **getTask** ()<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Core\Exceptions\HirudoException.php at line 87#L87 class="location">framework\hirudo\Hirudo\Core\Exceptions\HirudoException.php at line 87</a>
+
+<h3 id="getTask()">getTask</h3>
+<span class='k'></span> <span class='nx'>string</span> <span class='nf'>getTask</span> ()
+
+<div class="details">
 <p>Gets the task of the application in which this exception were thrown.</p><dl>
 <dt>Returns:</dt>
 <dd>The task name.</dd>

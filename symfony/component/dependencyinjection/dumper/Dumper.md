@@ -2,7 +2,10 @@
 - - -
 
 **Symfony\Component\DependencyInjection\Dumper\Dumper**
-<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Dumper\Dumper.php at line 23</div>
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\Dumper\Dumper.php at line 23#L23 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Dumper\Dumper.php at line 23</a>
+
 #Class Dumper#
 
 **Dumper**
@@ -12,6 +15,8 @@
 <dt>All Known Subclasses:</dt>
 <dd><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/dumper/graphvizdumper.html">GraphvizDumper</a> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/dumper/phpdumper.html">PhpDumper</a> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/dumper/xmldumper.html">XmlDumper</a> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/dumper/yamldumper.html">YamlDumper</a> </dd>
 </dl>
+
+
 
 - - -
 
@@ -25,41 +30,35 @@
 <dt>Api.</dt>
 </dl>
 
+
 - - -
+
+
 
 <table id="summary_field">
 <tr><th colspan="2">Field Summary</th></tr>
 <tr>
-<td class="type">protected  mixed</td>
-<td class="description"><p class="name"><a href="#container">$container</a></p></td>
+<td><span class='k'>protected </span> <span class='nx'>mixed</span></td>
+<td class="description"><p class="name" ><a href="#container"> $container</a>
+                                </p></td>
 </tr>
 </table>
 
 <table id="summary_constructor">
 <tr><th colspan="2">Constructor Summary</th></tr>
 <tr>
-<td class="type"> void</td>
+<td><span class='k'></span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#__construct">__construct</a>(<a href="../../../../symfony/component/dependencyinjection/containerbuilder.html">ContainerBuilder</a> container)</p><p class="description">Constructor.</p></td>
 </tr>
 </table>
 
-##Field Detail##
-<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Dumper\Dumper.php at line 25</div>
-<h3 id="container">container</h3>
-
-protected  mixed $container
-<div class="details">
-</div>
-
-- - -
-
 <h2 id="detail_method">Constructor Detail</h2>
-<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Dumper\Dumper.php at line 34</div>
-<h3 id="__construct()">__construct</h3>
 
-```php
-public  void **__construct**(<a href="../../../../symfony/component/dependencyinjection/containerbuilder.html">ContainerBuilder</a> container)
-```
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\Dumper\Dumper.php at line 34#L34 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Dumper\Dumper.php at line 34</a>
+
+<h3 id="__construct">__construct</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (<a href="../../../../symfony/component/dependencyinjection/containerbuilder.html">ContainerBuilder</a> container)
+
 <div class="details">
 <p>Constructor.</p><dl>
 <dt>Parameters:</dt>

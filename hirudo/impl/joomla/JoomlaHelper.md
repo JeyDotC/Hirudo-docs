@@ -2,10 +2,15 @@
 - - -
 
 **Hirudo\Impl\Joomla\JoomlaHelper**
-<div class="location">framework\hirudo\Hirudo\Impl\Joomla\JoomlaHelper.php at line 29</div>
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\Joomla\JoomlaHelper.php at line 29#L29 class="location">framework\hirudo\Hirudo\Impl\Joomla\JoomlaHelper.php at line 29</a>
+
 #Class JoomlaHelper#
 
 **JoomlaHelper**
+
+
 
 
 - - -
@@ -19,21 +24,25 @@
 <dd>JeyDotC</dd>
 </dl>
 
+
 - - -
 
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type"> static  JApplication</td>
+<td><span class='k'>static </span> <span class='nx'>JApplication</span></td>
 <td class="description"><p class="name"><a href="#getmainframe">getMainframe</a>()</p><p class="description"></p></td>
 </tr>
 </table>
 
 <h2 id="detail_method">Method Detail</h2>
-<div class="location">framework\hirudo\Hirudo\Impl\Joomla\JoomlaHelper.php at line 35</div>
-<h3 id="getMainframe()">getMainframe</h3>
 
-public static  JApplication **getMainframe** ()<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\Joomla\JoomlaHelper.php at line 35#L35 class="location">framework\hirudo\Hirudo\Impl\Joomla\JoomlaHelper.php at line 35</a>
+
+<h3 id="getMainframe()">getMainframe</h3>
+<span class='k'>static </span> <span class='nx'>JApplication</span> <span class='nf'>getMainframe</span> ()
+
+<div class="details">
 <p></p></div>
 
 - - -

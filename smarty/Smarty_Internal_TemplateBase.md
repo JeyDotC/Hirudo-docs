@@ -2,17 +2,22 @@
 - - -
 
 **Smarty\Smarty_Internal_TemplateBase**
-<div class="location">framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 18</div>
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 18#L18 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 18</a>
+
 #Class Smarty_Internal_TemplateBase#
 
 <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_data.html">Smarty_Internal_Data</a>
-    ***Smarty_Internal_TemplateBase**
+    * **Smarty_Internal_TemplateBase**
 
 
 <dl>
 <dt>All Known Subclasses:</dt>
 <dd><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty.html">Smarty</a> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_template.html">Smarty_Internal_Template</a> </dd>
 </dl>
+
+
 
 - - -
 
@@ -28,6 +33,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 <dd>Template</dd>
 </dl>
 
+
 - - -
 
 <table class="inherit">
@@ -37,87 +43,87 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type">  string</td>
+<td><span class='k'></span> <span class='nx'>string</span></td>
 <td class="description"><p class="name"><a href="#fetch">fetch</a>(string template, mixed cache_id, mixed compile_id, object parent, bool display, bool merge_tpl_vars, bool no_output_filter)</p><p class="description">fetches a rendered Smarty template</p></td>
 </tr>
 <tr>
-<td class="type">  void</td>
+<td><span class='k'></span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#display">display</a>(string template, mixed cache_id, mixed compile_id, object parent)</p><p class="description">displays a Smarty template</p></td>
 </tr>
 <tr>
-<td class="type">  boolean</td>
+<td><span class='k'></span> <span class='nx'>boolean</span></td>
 <td class="description"><p class="name"><a href="#iscached">isCached</a>(string|object template, mixed cache_id, mixed compile_id, object parent)</p><p class="description">test if cache is valid</p></td>
 </tr>
 <tr>
-<td class="type">  void</td>
+<td><span class='k'></span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#createdata">createData</a>(object parent)</p><p class="description">creates a data object</p></td>
 </tr>
 <tr>
-<td class="type">  Smarty_Internal_Templatebase</td>
+<td><span class='k'></span> <span class='nx'>Smarty_Internal_Templatebase</span></td>
 <td class="description"><p class="name"><a href="#registerplugin">registerPlugin</a>(string type, string tag, callback callback, boolean cacheable, array cache_attr)</p><p class="description">Registers plugin to be used in templates</p></td>
 </tr>
 <tr>
-<td class="type">  Smarty_Internal_Templatebase</td>
+<td><span class='k'></span> <span class='nx'>Smarty_Internal_Templatebase</span></td>
 <td class="description"><p class="name"><a href="#unregisterplugin">unregisterPlugin</a>(string type, string tag)</p><p class="description">Unregister Plugin</p></td>
 </tr>
 <tr>
-<td class="type">  Smarty_Internal_Templatebase</td>
+<td><span class='k'></span> <span class='nx'>Smarty_Internal_Templatebase</span></td>
 <td class="description"><p class="name"><a href="#registerresource">registerResource</a>(string type, Smarty_Resource|array callback)</p><p class="description">Registers a resource to fetch a template</p></td>
 </tr>
 <tr>
-<td class="type">  Smarty_Internal_Templatebase</td>
+<td><span class='k'></span> <span class='nx'>Smarty_Internal_Templatebase</span></td>
 <td class="description"><p class="name"><a href="#unregisterresource">unregisterResource</a>(string type)</p><p class="description">Unregisters a resource</p></td>
 </tr>
 <tr>
-<td class="type">  Smarty_Internal_Templatebase</td>
+<td><span class='k'></span> <span class='nx'>Smarty_Internal_Templatebase</span></td>
 <td class="description"><p class="name"><a href="#registercacheresource">registerCacheResource</a>(string type, <a href="../smarty/smarty_cacheresource.html">Smarty_CacheResource</a> callback)</p><p class="description">Registers a cache resource to cache a template's output</p></td>
 </tr>
 <tr>
-<td class="type">  Smarty_Internal_Templatebase</td>
+<td><span class='k'></span> <span class='nx'>Smarty_Internal_Templatebase</span></td>
 <td class="description"><p class="name"><a href="#unregistercacheresource">unregisterCacheResource</a>(string type)</p><p class="description">Unregisters a cache resource</p></td>
 </tr>
 <tr>
-<td class="type">  Smarty_Internal_Templatebase</td>
+<td><span class='k'></span> <span class='nx'>Smarty_Internal_Templatebase</span></td>
 <td class="description"><p class="name"><a href="#registerobject">registerObject</a>(string object, object object_impl, array allowed, boolean smarty_args, array block_methods, array block_functs, mixed object_name)</p><p class="description">Registers object to be used in templates</p></td>
 </tr>
 <tr>
-<td class="type">  object</td>
+<td><span class='k'></span> <span class='nx'>object</span></td>
 <td class="description"><p class="name"><a href="#getregisteredobject">getRegisteredObject</a>(string name)</p><p class="description">return a reference to a registered object</p></td>
 </tr>
 <tr>
-<td class="type">  Smarty_Internal_Templatebase</td>
+<td><span class='k'></span> <span class='nx'>Smarty_Internal_Templatebase</span></td>
 <td class="description"><p class="name"><a href="#unregisterobject">unregisterObject</a>(string name)</p><p class="description">unregister an object</p></td>
 </tr>
 <tr>
-<td class="type">  Smarty_Internal_Templatebase</td>
+<td><span class='k'></span> <span class='nx'>Smarty_Internal_Templatebase</span></td>
 <td class="description"><p class="name"><a href="#registerclass">registerClass</a>(string class, string class_impl, mixed class_name)</p><p class="description">Registers static classes to be used in templates</p></td>
 </tr>
 <tr>
-<td class="type">  Smarty_Internal_Templatebase</td>
+<td><span class='k'></span> <span class='nx'>Smarty_Internal_Templatebase</span></td>
 <td class="description"><p class="name"><a href="#registerdefaultpluginhandler">registerDefaultPluginHandler</a>(callable callback)</p><p class="description">Registers a default plugin handler</p></td>
 </tr>
 <tr>
-<td class="type">  Smarty_Internal_Templatebase</td>
+<td><span class='k'></span> <span class='nx'>Smarty_Internal_Templatebase</span></td>
 <td class="description"><p class="name"><a href="#registerdefaulttemplatehandler">registerDefaultTemplateHandler</a>(callable callback)</p><p class="description">Registers a default template handler</p></td>
 </tr>
 <tr>
-<td class="type">  Smarty_Internal_Templatebase</td>
+<td><span class='k'></span> <span class='nx'>Smarty_Internal_Templatebase</span></td>
 <td class="description"><p class="name"><a href="#registerdefaultconfighandler">registerDefaultConfigHandler</a>(callable callback)</p><p class="description">Registers a default template handler</p></td>
 </tr>
 <tr>
-<td class="type">  Smarty_Internal_Templatebase</td>
+<td><span class='k'></span> <span class='nx'>Smarty_Internal_Templatebase</span></td>
 <td class="description"><p class="name"><a href="#registerfilter">registerFilter</a>(string type, callback callback)</p><p class="description">Registers a filter function</p></td>
 </tr>
 <tr>
-<td class="type">  Smarty_Internal_Templatebase</td>
+<td><span class='k'></span> <span class='nx'>Smarty_Internal_Templatebase</span></td>
 <td class="description"><p class="name"><a href="#unregisterfilter">unregisterFilter</a>(string type, callback callback)</p><p class="description">Unregisters a filter function</p></td>
 </tr>
 <tr>
-<td class="type">  void</td>
+<td><span class='k'></span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#loadfilter">loadFilter</a>(string type, string name)</p><p class="description">load a filter of specified type and name</p></td>
 </tr>
 <tr>
-<td class="type">  Smarty_Internal_Templatebase</td>
+<td><span class='k'></span> <span class='nx'>Smarty_Internal_Templatebase</span></td>
 <td class="description"><p class="name"><a href="#unloadfilter">unloadFilter</a>(string type, string name)</p><p class="description">unload a filter of specified type and name</p></td>
 </tr>
 </table>
@@ -127,10 +133,13 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 <tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_data.html#append()">append</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_data.html#appendByRef()">appendByRef</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_data.html#assign()">assign</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_data.html#assignByRef()">assignByRef</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_data.html#assignGlobal()">assignGlobal</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_data.html#clearAllAssign()">clearAllAssign</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_data.html#clearAssign()">clearAssign</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_data.html#clearConfig()">clearConfig</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_data.html#configLoad()">configLoad</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_data.html#getConfigVariable()">getConfigVariable</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_data.html#getConfigVars()">getConfigVars</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_data.html#getStreamVariable()">getStreamVariable</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_data.html#getTemplateVars()">getTemplateVars</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_data.html#getVariable()">getVariable</a></td></tr></table>
 
 <h2 id="detail_method">Method Detail</h2>
-<div class="location">framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 32</div>
-<h3 id="fetch()">fetch</h3>
 
-public  string **fetch** (string template, mixed cache_id, mixed compile_id, object parent, bool display, bool merge_tpl_vars, bool no_output_filter)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 32#L32 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 32</a>
+
+<h3 id="fetch()">fetch</h3>
+<span class='k'></span> <span class='nx'>string</span> <span class='nf'>fetch</span> (string template, mixed cache_id, mixed compile_id, object parent, bool display, bool merge_tpl_vars, bool no_output_filter)
+
+<div class="details">
 <p>fetches a rendered Smarty template</p><dl>
 <dt>Parameters:</dt>
 <dd>template - the resource handle of the template file or template object</dd>
@@ -147,10 +156,13 @@ public  string **fetch** (string template, mixed cache_id, mixed compile_id, obj
 
 - - -
 
-<div class="location">framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 371</div>
-<h3 id="display()">display</h3>
 
-public  void **display** (string template, mixed cache_id, mixed compile_id, object parent)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 371#L371 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 371</a>
+
+<h3 id="display()">display</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>display</span> (string template, mixed cache_id, mixed compile_id, object parent)
+
+<div class="details">
 <p>displays a Smarty template</p><dl>
 <dt>Parameters:</dt>
 <dd>template - the resource handle of the template file or template object</dd>
@@ -162,10 +174,13 @@ public  void **display** (string template, mixed cache_id, mixed compile_id, obj
 
 - - -
 
-<div class="location">framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 386</div>
-<h3 id="isCached()">isCached</h3>
 
-public  boolean **isCached** (string|object template, mixed cache_id, mixed compile_id, object parent)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 386#L386 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 386</a>
+
+<h3 id="isCached()">isCached</h3>
+<span class='k'></span> <span class='nx'>boolean</span> <span class='nf'>isCached</span> (string|object template, mixed cache_id, mixed compile_id, object parent)
+
+<div class="details">
 <p>test if cache is valid</p><dl>
 <dt>Parameters:</dt>
 <dd>template - the resource handle of the template file or template object</dd>
@@ -179,10 +194,13 @@ public  boolean **isCached** (string|object template, mixed cache_id, mixed comp
 
 - - -
 
-<div class="location">framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 407</div>
-<h3 id="createData()">createData</h3>
 
-public  void **createData** (object parent)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 407#L407 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 407</a>
+
+<h3 id="createData()">createData</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>createData</span> (object parent)
+
+<div class="details">
 <p>creates a data object</p><dl>
 <dt>Parameters:</dt>
 <dd>parent - next higher level of Smarty variables</dd>
@@ -193,10 +211,13 @@ public  void **createData** (object parent)<div class="details">
 
 - - -
 
-<div class="location">framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 423</div>
-<h3 id="registerPlugin()">registerPlugin</h3>
 
-public  Smarty_Internal_Templatebase **registerPlugin** (string type, string tag, callback callback, boolean cacheable, array cache_attr)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 423#L423 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 423</a>
+
+<h3 id="registerPlugin()">registerPlugin</h3>
+<span class='k'></span> <span class='nx'>Smarty_Internal_Templatebase</span> <span class='nf'>registerPlugin</span> (string type, string tag, callback callback, boolean cacheable, array cache_attr)
+
+<div class="details">
 <p>Registers plugin to be used in templates</p><dl>
 <dt>Parameters:</dt>
 <dd>type - plugin type</dd>
@@ -213,10 +234,13 @@ public  Smarty_Internal_Templatebase **registerPlugin** (string type, string tag
 
 - - -
 
-<div class="location">framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 443</div>
-<h3 id="unregisterPlugin()">unregisterPlugin</h3>
 
-public  Smarty_Internal_Templatebase **unregisterPlugin** (string type, string tag)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 443#L443 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 443</a>
+
+<h3 id="unregisterPlugin()">unregisterPlugin</h3>
+<span class='k'></span> <span class='nx'>Smarty_Internal_Templatebase</span> <span class='nf'>unregisterPlugin</span> (string type, string tag)
+
+<div class="details">
 <p>Unregister Plugin</p><dl>
 <dt>Parameters:</dt>
 <dd>type - of plugin</dd>
@@ -228,10 +252,13 @@ public  Smarty_Internal_Templatebase **unregisterPlugin** (string type, string t
 
 - - -
 
-<div class="location">framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 459</div>
-<h3 id="registerResource()">registerResource</h3>
 
-public  Smarty_Internal_Templatebase **registerResource** (string type, Smarty_Resource|array callback)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 459#L459 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 459</a>
+
+<h3 id="registerResource()">registerResource</h3>
+<span class='k'></span> <span class='nx'>Smarty_Internal_Templatebase</span> <span class='nf'>registerResource</span> (string type, Smarty_Resource|array callback)
+
+<div class="details">
 <p>Registers a resource to fetch a template</p><dl>
 <dt>Parameters:</dt>
 <dd>type - name of resource type</dd>
@@ -243,10 +270,13 @@ public  Smarty_Internal_Templatebase **registerResource** (string type, Smarty_R
 
 - - -
 
-<div class="location">framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 471</div>
-<h3 id="unregisterResource()">unregisterResource</h3>
 
-public  Smarty_Internal_Templatebase **unregisterResource** (string type)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 471#L471 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 471</a>
+
+<h3 id="unregisterResource()">unregisterResource</h3>
+<span class='k'></span> <span class='nx'>Smarty_Internal_Templatebase</span> <span class='nf'>unregisterResource</span> (string type)
+
+<div class="details">
 <p>Unregisters a resource</p><dl>
 <dt>Parameters:</dt>
 <dd>type - name of resource type</dd>
@@ -257,10 +287,13 @@ public  Smarty_Internal_Templatebase **unregisterResource** (string type)<div cl
 
 - - -
 
-<div class="location">framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 487</div>
-<h3 id="registerCacheResource()">registerCacheResource</h3>
 
-public  Smarty_Internal_Templatebase **registerCacheResource** (string type, <a href="../smarty/smarty_cacheresource.html">Smarty_CacheResource</a> callback)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 487#L487 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 487</a>
+
+<h3 id="registerCacheResource()">registerCacheResource</h3>
+<span class='k'></span> <span class='nx'>Smarty_Internal_Templatebase</span> <span class='nf'>registerCacheResource</span> (string type, <a href="../smarty/smarty_cacheresource.html">Smarty_CacheResource</a> callback)
+
+<div class="details">
 <p>Registers a cache resource to cache a template's output</p><dl>
 <dt>Parameters:</dt>
 <dd>type - name of cache resource type</dd>
@@ -272,10 +305,13 @@ public  Smarty_Internal_Templatebase **registerCacheResource** (string type, <a 
 
 - - -
 
-<div class="location">framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 499</div>
-<h3 id="unregisterCacheResource()">unregisterCacheResource</h3>
 
-public  Smarty_Internal_Templatebase **unregisterCacheResource** (string type)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 499#L499 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 499</a>
+
+<h3 id="unregisterCacheResource()">unregisterCacheResource</h3>
+<span class='k'></span> <span class='nx'>Smarty_Internal_Templatebase</span> <span class='nf'>unregisterCacheResource</span> (string type)
+
+<div class="details">
 <p>Unregisters a cache resource</p><dl>
 <dt>Parameters:</dt>
 <dd>type - name of cache resource type</dd>
@@ -286,10 +322,13 @@ public  Smarty_Internal_Templatebase **unregisterCacheResource** (string type)<d
 
 - - -
 
-<div class="location">framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 520</div>
-<h3 id="registerObject()">registerObject</h3>
 
-public  Smarty_Internal_Templatebase **registerObject** (string object, object object_impl, array allowed, boolean smarty_args, array block_methods, array block_functs, mixed object_name)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 520#L520 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 520</a>
+
+<h3 id="registerObject()">registerObject</h3>
+<span class='k'></span> <span class='nx'>Smarty_Internal_Templatebase</span> <span class='nf'>registerObject</span> (string object, object object_impl, array allowed, boolean smarty_args, array block_methods, array block_functs, mixed object_name)
+
+<div class="details">
 <p>Registers object to be used in templates</p><dl>
 <dt>Parameters:</dt>
 <dd>object - name of template object</dd>
@@ -307,10 +346,13 @@ public  Smarty_Internal_Templatebase **registerObject** (string object, object o
 
 - - -
 
-<div class="location">framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 551</div>
-<h3 id="getRegisteredObject()">getRegisteredObject</h3>
 
-public  object **getRegisteredObject** (string name)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 551#L551 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 551</a>
+
+<h3 id="getRegisteredObject()">getRegisteredObject</h3>
+<span class='k'></span> <span class='nx'>object</span> <span class='nf'>getRegisteredObject</span> (string name)
+
+<div class="details">
 <p>return a reference to a registered object</p><dl>
 <dt>Parameters:</dt>
 <dd>name - object name</dd>
@@ -321,10 +363,13 @@ public  object **getRegisteredObject** (string name)<div class="details">
 
 - - -
 
-<div class="location">framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 568</div>
-<h3 id="unregisterObject()">unregisterObject</h3>
 
-public  Smarty_Internal_Templatebase **unregisterObject** (string name)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 568#L568 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 568</a>
+
+<h3 id="unregisterObject()">unregisterObject</h3>
+<span class='k'></span> <span class='nx'>Smarty_Internal_Templatebase</span> <span class='nf'>unregisterObject</span> (string name)
+
+<div class="details">
 <p>unregister an object</p><dl>
 <dt>Parameters:</dt>
 <dd>name - object name</dd>
@@ -335,10 +380,13 @@ public  Smarty_Internal_Templatebase **unregisterObject** (string name)<div clas
 
 - - -
 
-<div class="location">framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 585</div>
-<h3 id="registerClass()">registerClass</h3>
 
-public  Smarty_Internal_Templatebase **registerClass** (string class, string class_impl, mixed class_name)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 585#L585 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 585</a>
+
+<h3 id="registerClass()">registerClass</h3>
+<span class='k'></span> <span class='nx'>Smarty_Internal_Templatebase</span> <span class='nf'>registerClass</span> (string class, string class_impl, mixed class_name)
+
+<div class="details">
 <p>Registers static classes to be used in templates</p><dl>
 <dt>Parameters:</dt>
 <dd>class - name of template class</dd>
@@ -352,10 +400,13 @@ public  Smarty_Internal_Templatebase **registerClass** (string class, string cla
 
 - - -
 
-<div class="location">framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 603</div>
-<h3 id="registerDefaultPluginHandler()">registerDefaultPluginHandler</h3>
 
-public  Smarty_Internal_Templatebase **registerDefaultPluginHandler** (callable callback)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 603#L603 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 603</a>
+
+<h3 id="registerDefaultPluginHandler()">registerDefaultPluginHandler</h3>
+<span class='k'></span> <span class='nx'>Smarty_Internal_Templatebase</span> <span class='nf'>registerDefaultPluginHandler</span> (callable callback)
+
+<div class="details">
 <p>Registers a default plugin handler</p><dl>
 <dt>Parameters:</dt>
 <dd>callback - class/method name</dd>
@@ -368,10 +419,13 @@ public  Smarty_Internal_Templatebase **registerDefaultPluginHandler** (callable 
 
 - - -
 
-<div class="location">framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 621</div>
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 621#L621 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 621</a>
+
 <h3 id="registerDefaultTemplateHandler()">registerDefaultTemplateHandler</h3>
+<span class='k'></span> <span class='nx'>Smarty_Internal_Templatebase</span> <span class='nf'>registerDefaultTemplateHandler</span> (callable callback)
 
-public  Smarty_Internal_Templatebase **registerDefaultTemplateHandler** (callable callback)<div class="details">
+<div class="details">
 <p>Registers a default template handler</p><dl>
 <dt>Parameters:</dt>
 <dd>callback - class/method name</dd>
@@ -384,10 +438,13 @@ public  Smarty_Internal_Templatebase **registerDefaultTemplateHandler** (callabl
 
 - - -
 
-<div class="location">framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 639</div>
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 639#L639 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 639</a>
+
 <h3 id="registerDefaultConfigHandler()">registerDefaultConfigHandler</h3>
+<span class='k'></span> <span class='nx'>Smarty_Internal_Templatebase</span> <span class='nf'>registerDefaultConfigHandler</span> (callable callback)
 
-public  Smarty_Internal_Templatebase **registerDefaultConfigHandler** (callable callback)<div class="details">
+<div class="details">
 <p>Registers a default template handler</p><dl>
 <dt>Parameters:</dt>
 <dd>callback - class/method name</dd>
@@ -400,10 +457,13 @@ public  Smarty_Internal_Templatebase **registerDefaultConfigHandler** (callable 
 
 - - -
 
-<div class="location">framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 657</div>
-<h3 id="registerFilter()">registerFilter</h3>
 
-public  Smarty_Internal_Templatebase **registerFilter** (string type, callback callback)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 657#L657 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 657</a>
+
+<h3 id="registerFilter()">registerFilter</h3>
+<span class='k'></span> <span class='nx'>Smarty_Internal_Templatebase</span> <span class='nf'>registerFilter</span> (string type, callback callback)
+
+<div class="details">
 <p>Registers a filter function</p><dl>
 <dt>Parameters:</dt>
 <dd>type - filter type</dd>
@@ -415,10 +475,13 @@ public  Smarty_Internal_Templatebase **registerFilter** (string type, callback c
 
 - - -
 
-<div class="location">framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 670</div>
-<h3 id="unregisterFilter()">unregisterFilter</h3>
 
-public  Smarty_Internal_Templatebase **unregisterFilter** (string type, callback callback)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 670#L670 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 670</a>
+
+<h3 id="unregisterFilter()">unregisterFilter</h3>
+<span class='k'></span> <span class='nx'>Smarty_Internal_Templatebase</span> <span class='nf'>unregisterFilter</span> (string type, callback callback)
+
+<div class="details">
 <p>Unregisters a filter function</p><dl>
 <dt>Parameters:</dt>
 <dd>type - filter type</dd>
@@ -430,10 +493,13 @@ public  Smarty_Internal_Templatebase **unregisterFilter** (string type, callback
 
 - - -
 
-<div class="location">framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 704</div>
-<h3 id="loadFilter()">loadFilter</h3>
 
-public  void **loadFilter** (string type, string name)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 704#L704 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 704</a>
+
+<h3 id="loadFilter()">loadFilter</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>loadFilter</span> (string type, string name)
+
+<div class="details">
 <p>load a filter of specified type and name</p><dl>
 <dt>Parameters:</dt>
 <dd>type - filter type</dd>
@@ -445,10 +511,13 @@ public  void **loadFilter** (string type, string name)<div class="details">
 
 - - -
 
-<div class="location">framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 727</div>
-<h3 id="unloadFilter()">unloadFilter</h3>
 
-public  Smarty_Internal_Templatebase **unloadFilter** (string type, string name)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 727#L727 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 727</a>
+
+<h3 id="unloadFilter()">unloadFilter</h3>
+<span class='k'></span> <span class='nx'>Smarty_Internal_Templatebase</span> <span class='nf'>unloadFilter</span> (string type, string name)
+
+<div class="details">
 <p>unload a filter of specified type and name</p><dl>
 <dt>Parameters:</dt>
 <dd>type - filter type</dd>

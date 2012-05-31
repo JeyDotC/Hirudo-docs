@@ -2,11 +2,16 @@
 - - -
 
 **HTTP_Session2\HTTP_Session2_Container_DB**
-<div class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\DB.php at line 87</div>
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\DB.php at line 87#L87 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\DB.php at line 87</a>
+
 #Class HTTP_Session2_Container_DB#
 
 <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/http_session2/http_session2_container.html">HTTP_Session2_Container</a>
-    ***HTTP_Session2_Container_DB**
+    * **HTTP_Session2_Container_DB**
+
+
 
 
 - - -
@@ -41,6 +46,7 @@ PRIMARY KEY (`id`)
 <dd>This driver/container is deprecated from 0.9.0</dd>
 </dl>
 
+
 - - -
 
 <table class="inherit">
@@ -50,7 +56,7 @@ PRIMARY KEY (`id`)
 <table id="summary_constructor">
 <tr><th colspan="2">Constructor Summary</th></tr>
 <tr>
-<td class="type"> void</td>
+<td><span class='k'></span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#__construct">__construct</a>(array options)</p><p class="description">Constrtuctor method$options is an array with the options.
 The options are:
 
@@ -66,39 +72,39 @@ the table on garbage collection, default is 'false'.
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type"> protected  boolean</td>
+<td><span class='k'>protected </span> <span class='nx'>boolean</span></td>
 <td class="description"><p class="name"><a href="#connect">connect</a>(string dsn)</p><p class="description">Connect to database by using the given DSN string</p></td>
 </tr>
 <tr>
-<td class="type"> protected  void</td>
+<td><span class='k'>protected </span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#setdefaults">setDefaults</a>()</p><p class="description">Set some default options</p></td>
 </tr>
 <tr>
-<td class="type">  boolean</td>
+<td><span class='k'></span> <span class='nx'>boolean</span></td>
 <td class="description"><p class="name"><a href="#open">open</a>(string save_path, string session_name)</p><p class="description">Establish connection to a database</p></td>
 </tr>
 <tr>
-<td class="type">  boolean</td>
+<td><span class='k'></span> <span class='nx'>boolean</span></td>
 <td class="description"><p class="name"><a href="#close">close</a>()</p><p class="description">Free resources</p></td>
 </tr>
 <tr>
-<td class="type">  mixed</td>
+<td><span class='k'></span> <span class='nx'>mixed</span></td>
 <td class="description"><p class="name"><a href="#read">read</a>(string id)</p><p class="description">Read session data</p></td>
 </tr>
 <tr>
-<td class="type">  boolean</td>
+<td><span class='k'></span> <span class='nx'>boolean</span></td>
 <td class="description"><p class="name"><a href="#write">write</a>(string id, string data)</p><p class="description">Write session data</p></td>
 </tr>
 <tr>
-<td class="type">  boolean</td>
+<td><span class='k'></span> <span class='nx'>boolean</span></td>
 <td class="description"><p class="name"><a href="#destroy">destroy</a>(string id)</p><p class="description">Destroy session data</p></td>
 </tr>
 <tr>
-<td class="type">  boolean</td>
+<td><span class='k'></span> <span class='nx'>boolean</span></td>
 <td class="description"><p class="name"><a href="#gc">gc</a>(int maxlifetime)</p><p class="description">Garbage collection</p></td>
 </tr>
 <tr>
-<td class="type">  boolean</td>
+<td><span class='k'></span> <span class='nx'>boolean</span></td>
 <td class="description"><p class="name"><a href="#replicate">replicate</a>(string target, string id)</p><p class="description">Replicate session data to specified target</p></td>
 </tr>
 </table>
@@ -108,12 +114,12 @@ the table on garbage collection, default is 'false'.
 <tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/http_session2/http_session2_container.html#__construct()">__construct</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/http_session2/http_session2_container.html#parseOptions()">parseOptions</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/http_session2/http_session2_container.html#set()">set</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/http_session2/http_session2_container.html#setDefaults()">setDefaults</a></td></tr></table>
 
 <h2 id="detail_method">Constructor Detail</h2>
-<div class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\DB.php at line 120</div>
-<h3 id="__construct()">__construct</h3>
 
-```php
-public  void **__construct**(array options)
-```
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\DB.php at line 120#L120 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\DB.php at line 120</a>
+
+<h3 id="__construct">__construct</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (array options)
+
 <div class="details">
 <p>Constrtuctor method</p><p>$options is an array with the options.<br>
 The options are:</p>
@@ -132,10 +138,13 @@ the table on garbage collection, default is 'false'.</li>
 - - -
 
 <h2 id="detail_method">Method Detail</h2>
-<div class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\DB.php at line 133</div>
-<h3 id="connect()">connect</h3>
 
-protected  boolean **connect** (string dsn)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\DB.php at line 133#L133 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\DB.php at line 133</a>
+
+<h3 id="connect()">connect</h3>
+<span class='k'>protected </span> <span class='nx'>boolean</span> <span class='nf'>connect</span> (string dsn)
+
+<div class="details">
 <p>Connect to database by using the given DSN string</p><dl>
 <dt>Parameters:</dt>
 <dd>dsn - DSN string</dd>
@@ -146,18 +155,24 @@ protected  boolean **connect** (string dsn)<div class="details">
 
 - - -
 
-<div class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\DB.php at line 155</div>
-<h3 id="setDefaults()">setDefaults</h3>
 
-protected  void **setDefaults** ()<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\DB.php at line 155#L155 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\DB.php at line 155</a>
+
+<h3 id="setDefaults()">setDefaults</h3>
+<span class='k'>protected </span> <span class='nx'>void</span> <span class='nf'>setDefaults</span> ()
+
+<div class="details">
 <p>Set some default options</p></div>
 
 - - -
 
-<div class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\DB.php at line 172</div>
-<h3 id="open()">open</h3>
 
-public  boolean **open** (string save_path, string session_name)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\DB.php at line 172#L172 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\DB.php at line 172</a>
+
+<h3 id="open()">open</h3>
+<span class='k'></span> <span class='nx'>boolean</span> <span class='nf'>open</span> (string save_path, string session_name)
+
+<div class="details">
 <p>Establish connection to a database</p><dl>
 <dt>Parameters:</dt>
 <dd>save_path - The path to save/write sessions.</dd>
@@ -170,18 +185,24 @@ public  boolean **open** (string save_path, string session_name)<div class="deta
 
 - - -
 
-<div class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\DB.php at line 182</div>
-<h3 id="close()">close</h3>
 
-public  boolean **close** ()<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\DB.php at line 182#L182 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\DB.php at line 182</a>
+
+<h3 id="close()">close</h3>
+<span class='k'></span> <span class='nx'>boolean</span> <span class='nf'>close</span> ()
+
+<div class="details">
 <p>Free resources</p></div>
 
 - - -
 
-<div class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\DB.php at line 195</div>
-<h3 id="read()">read</h3>
 
-public  mixed **read** (string id)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\DB.php at line 195#L195 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\DB.php at line 195</a>
+
+<h3 id="read()">read</h3>
+<span class='k'></span> <span class='nx'>mixed</span> <span class='nf'>read</span> (string id)
+
+<div class="details">
 <p>Read session data</p><dl>
 <dt>Parameters:</dt>
 <dd>id - The Id!</dd>
@@ -192,10 +213,13 @@ public  mixed **read** (string id)<div class="details">
 
 - - -
 
-<div class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\DB.php at line 220</div>
-<h3 id="write()">write</h3>
 
-public  boolean **write** (string id, string data)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\DB.php at line 220#L220 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\DB.php at line 220</a>
+
+<h3 id="write()">write</h3>
+<span class='k'></span> <span class='nx'>boolean</span> <span class='nf'>write</span> (string id, string data)
+
+<div class="details">
 <p>Write session data</p><dl>
 <dt>Parameters:</dt>
 <dd>id - The id.</dd>
@@ -207,10 +231,13 @@ public  boolean **write** (string id, string data)<div class="details">
 
 - - -
 
-<div class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\DB.php at line 277</div>
-<h3 id="destroy()">destroy</h3>
 
-public  boolean **destroy** (string id)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\DB.php at line 277#L277 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\DB.php at line 277</a>
+
+<h3 id="destroy()">destroy</h3>
+<span class='k'></span> <span class='nx'>boolean</span> <span class='nf'>destroy</span> (string id)
+
+<div class="details">
 <p>Destroy session data</p><dl>
 <dt>Parameters:</dt>
 <dd>id - The id.</dd>
@@ -219,10 +246,13 @@ public  boolean **destroy** (string id)<div class="details">
 
 - - -
 
-<div class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\DB.php at line 299</div>
-<h3 id="gc()">gc</h3>
 
-public  boolean **gc** (int maxlifetime)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\DB.php at line 299#L299 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\DB.php at line 299</a>
+
+<h3 id="gc()">gc</h3>
+<span class='k'></span> <span class='nx'>boolean</span> <span class='nf'>gc</span> (int maxlifetime)
+
+<div class="details">
 <p>Garbage collection</p><dl>
 <dt>Parameters:</dt>
 <dd>maxlifetime - The session's maximum lifetime.</dd>
@@ -233,10 +263,13 @@ public  boolean **gc** (int maxlifetime)<div class="details">
 
 - - -
 
-<div class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\DB.php at line 343</div>
-<h3 id="replicate()">replicate</h3>
 
-public  boolean **replicate** (string target, string id)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\DB.php at line 343#L343 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\DB.php at line 343</a>
+
+<h3 id="replicate()">replicate</h3>
+<span class='k'></span> <span class='nx'>boolean</span> <span class='nf'>replicate</span> (string target, string id)
+
+<div class="details">
 <p>Replicate session data to specified target</p><dl>
 <dt>Parameters:</dt>
 <dd>target - Target to replicate to</dd>

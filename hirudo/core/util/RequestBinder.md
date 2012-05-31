@@ -2,10 +2,15 @@
 - - -
 
 **Hirudo\Core\Util\RequestBinder**
-<div class="location">framework\hirudo\Hirudo\Core\Util\RequestBinder.php at line 32</div>
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Core\Util\RequestBinder.php at line 32#L32 class="location">framework\hirudo\Hirudo\Core\Util\RequestBinder.php at line 32</a>
+
 #Class RequestBinder#
 
 **RequestBinder**
+
+
 
 
 - - -
@@ -20,12 +25,13 @@
 <dt>Unused.</dt>
 </dl>
 
+
 - - -
 
 <table id="summary_constructor">
 <tr><th colspan="2">Constructor Summary</th></tr>
 <tr>
-<td class="type"> void</td>
+<td><span class='k'></span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#__construct">__construct</a>()</p></td>
 </tr>
 </table>
@@ -33,28 +39,31 @@
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type">  void</td>
+<td><span class='k'></span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#bind">bind</a>(mixed object, mixed bindings)</p></td>
 </tr>
 </table>
 
 <h2 id="detail_method">Constructor Detail</h2>
-<div class="location">framework\hirudo\Hirudo\Core\Util\RequestBinder.php at line 36</div>
-<h3 id="__construct()">__construct</h3>
 
-```php
-public  void **__construct**()
-```
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Core\Util\RequestBinder.php at line 36#L36 class="location">framework\hirudo\Hirudo\Core\Util\RequestBinder.php at line 36</a>
+
+<h3 id="__construct">__construct</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> ()
+
 <div class="details">
 </div>
 
 - - -
 
 <h2 id="detail_method">Method Detail</h2>
-<div class="location">framework\hirudo\Hirudo\Core\Util\RequestBinder.php at line 40</div>
-<h3 id="bind()">bind</h3>
 
-public  void **bind** (mixed object, mixed bindings)<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Core\Util\RequestBinder.php at line 40#L40 class="location">framework\hirudo\Hirudo\Core\Util\RequestBinder.php at line 40</a>
+
+<h3 id="bind()">bind</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>bind</span> (mixed object, mixed bindings)
+
+<div class="details">
 </div>
 
 - - -

@@ -2,10 +2,15 @@
 - - -
 
 **Symfony\Component\EventDispatcher\EventSubscriberInterface**
-<div class="location">framework\libs\symfony-components\Symfony\Component\EventDispatcher\EventSubscriberInterface.php at line 29</div>
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\EventDispatcher\EventSubscriberInterface.php at line 29#L29 class="location">framework\libs\symfony-components\Symfony\Component\EventDispatcher\EventSubscriberInterface.php at line 29</a>
+
 #Interface EventSubscriberInterface#
 
 **EventSubscriberInterface**
+
+
 
 
 - - -
@@ -30,22 +35,26 @@ returned events.</p></div>
 <dt>Api.</dt>
 </dl>
 
+
 - - -
 
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type"> static  array</td>
+<td><span class='k'>static </span> <span class='nx'>array</span></td>
 <td class="description"><p class="name"><a href="#getsubscribedevents">getSubscribedEvents</a>()</p><p class="description">Returns an array of event names this subscriber wants to listen to.
 </p></td>
 </tr>
 </table>
 
 <h2 id="detail_method">Method Detail</h2>
-<div class="location">framework\libs\symfony-components\Symfony\Component\EventDispatcher\EventSubscriberInterface.php at line 48</div>
-<h3 id="getSubscribedEvents()">getSubscribedEvents</h3>
 
-public static  array **getSubscribedEvents** ()<div class="details">
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\EventDispatcher\EventSubscriberInterface.php at line 48#L48 class="location">framework\libs\symfony-components\Symfony\Component\EventDispatcher\EventSubscriberInterface.php at line 48</a>
+
+<h3 id="getSubscribedEvents()">getSubscribedEvents</h3>
+<span class='k'>static </span> <span class='nx'>array</span> <span class='nf'>getSubscribedEvents</span> ()
+
+<div class="details">
 <p>Returns an array of event names this subscriber wants to listen to.</p><p>The array keys are event names and the value can be:</p><p>* The method name to call (priority defaults to 0)
 * An array composed of the method name to call and the priority</p><p>For instance:</p><p>* array('eventName' => 'methodName')
 * array('eventName' => array('methodName', $priority))</p><dl>

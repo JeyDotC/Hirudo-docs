@@ -7,13 +7,15 @@
 <table id="summary_function" class="title">
 <tr><th colspan="2" class="title">Function Summary</th></tr>
 <tr>
-<td class="type"> void</td>
+<td class="nx"> void</td>
 <td class="description"><p class="name"><a href="#_using">_using</a>(string|array file, string extension)</p><p class="description">Alias for <a href="../../hirudo/lang/loader.html#using()">Loader::using()</a> function.</p></td>
 </tr>
 </table>
 
 <h2 id="detail_function">Function Detail</h2>
-<div class="location">framework\hirudo\Hirudo\Lang\Loader.php at line 186</div>
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Lang\Loader.php at line 186#L186 class="location">framework\hirudo\Hirudo\Lang\Loader.php at line 186</a>
+
 <h3 id="_using()">_using</h3>
 ```php
 public  void **_using**(string|array file, string extension)```
