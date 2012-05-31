@@ -1,0 +1,33 @@
+- - -
+
+**Symfony\Component\DependencyInjection\Exception\InvalidArgumentException**
+<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Exception/InvalidArgumentException.php.md#line21" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Exception\InvalidArgumentException.php at line 21</a>
+
+# Class InvalidArgumentException #
+
+<pre class="tree">BaseInvalidArgumentException\n*** InvalidArgumentException **\n</pre>
+
+<dl>
+<dt>All Implemented Interfaces:</dt>
+<dd><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/exception/exceptioninterface.html">ExceptionInterface</a> </dd>
+</dl>
+
+<dl>
+<dt>All Known Subclasses:</dt>
+<dd><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/exception/parameternotfoundexception.html">ParameterNotFoundException</a> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/exception/servicenotfoundexception.html">ServiceNotFoundException</a> </dd>
+</dl>
+
+- - -
+
+<p class="signature">public  class **InvalidArgumentException**\nextends BaseInvalidArgumentException
+
+</p>
+
+<div class="comment" id="overview_description"><p>InvalidArgumentException</p></div>
+
+<dl>
+<dt>Author:</dt>
+<dd>Bulat Shakirzyanov <bulat@theopenskyproject.com></dd>
+</dl>
+- - -
+

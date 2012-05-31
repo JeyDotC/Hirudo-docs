@@ -1,0 +1,83 @@
+- - -
+
+**Hirudo\Impl\Joomla\JoomlaPrincipal**
+<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Impl/Joomla/JoomlaPrincipal.php.md#line31" class="location">framework\hirudo\Hirudo\Impl\Joomla\JoomlaPrincipal.php at line 31</a>
+
+# Class JoomlaPrincipal #
+
+<pre class="tree"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/principal.html">Principal</a>\n    *** JoomlaPrincipal **\n</pre>
+
+- - -
+
+<p class="signature">public  class **JoomlaPrincipal**\nextends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/principal.html">Principal</a>
+
+</p>
+
+<div class="comment" id="overview_description"><p></p></div>
+
+<dl>
+<dt>Export(id="principal",:</dt>
+<dd>factory="instance")</dd>
+</dl>
+- - -
+
+<table id="summary_constructor">
+<tr><th colspan="2">Constructor Summary</th></tr>
+<tr>
+<td class="type"> void</td>
+<td class="description"><p class="name"><a href="#__construct()">__construct</a>()</p><p class="description">Creates a ne Principal object.</p></td>
+</tr>
+</table>
+
+<table id="summary_method">
+<tr><th colspan="2">Method Summary</th></tr>
+<tr>
+<td class="type">static  JPrincipal</td>
+<td class="description"><p class="name"><a href="#instance()">instance</a>()</p><p class="description"></p></td>
+</tr>
+<tr>
+<td class="type"> boolean</td>
+<td class="description"><p class="name"><a href="#isAnonimous()">isAnonimous</a>()</p><p class="description">Determines if this user is logged in.</p></td>
+</tr>
+</table>
+
+<table class="inherit">
+<tr><th colspan="2">Methods inherited from Hirudo\Core\Context\Principal</th></tr>
+<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/principal.html#__construct()">__construct</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/principal.html#getCredential()">getCredential</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/principal.html#getData()">getData</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/principal.html#getName()">getName</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/principal.html#getPermissions()">getPermissions</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/principal.html#isAnonimous()">isAnonimous</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/principal.html#setCredential()">setCredential</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/principal.html#setName()">setName</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/principal.html#setPermissions()">setPermissions</a></td></tr></table>
+
+<h2 id="detail_method">Constructor Detail</h2>
+<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Impl/Joomla/JoomlaPrincipal.php.md#line56" class="location">framework\hirudo\Hirudo\Impl\Joomla\JoomlaPrincipal.php at line 56</a>
+
+<h3 id="__construct()">__construct</h3>
+```php
+public  void **__construct**()```
+<div class="details">
+<p>Creates a ne Principal object.</p></div>
+
+- - -
+
+<h2 id="detail_method">Method Detail</h2>
+<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Impl/Joomla/JoomlaPrincipal.php.md#line43" class="location">framework\hirudo\Hirudo\Impl\Joomla\JoomlaPrincipal.php at line 43</a>
+
+<h3 id="instance()">instance</h3>
+```php
+public static  JPrincipal **instance**()```
+<div class="details">
+<p></p></div>
+
+- - -
+
+<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Impl/Joomla/JoomlaPrincipal.php.md#line72" class="location">framework\hirudo\Hirudo\Impl\Joomla\JoomlaPrincipal.php at line 72</a>
+
+<h3 id="isAnonimous()">isAnonimous</h3>
+```php
+public  boolean **isAnonimous**()```
+<div class="details">
+<p>Determines if this user is logged in.</p><dl>
+<dt>Returns:</dt>
+<dd>True if this user is logged in, false otherwise.</dd>
+</dl>
+</div>
+
+- - -
+
