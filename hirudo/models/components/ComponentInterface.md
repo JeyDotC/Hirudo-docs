@@ -1,11 +1,11 @@
 - - -
 
 **Hirudo\Models\Components\ComponentInterface**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Models/Components/ComponentInterface.php.md#line28" class="location">framework\hirudo\Hirudo\Models\Components\ComponentInterface.php at line 28</a>
+<div class="location">framework\hirudo\Hirudo\Models\Components\ComponentInterface.php at line 28</div>
+#Interface ComponentInterface#
 
-# Interface ComponentInterface #
+**ComponentInterface**
 
-<pre class="tree">** ComponentInterface **\n</pre>
 
 - - -
 

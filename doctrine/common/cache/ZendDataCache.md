@@ -1,15 +1,17 @@
 - - -
 
 **Doctrine\Common\Cache\ZendDataCache**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/doctrine-common/Doctrine/Common/Cache/ZendDataCache.php.md#line31" class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\ZendDataCache.php at line 31</a>
+<div class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\ZendDataCache.php at line 31</div>
+#Class ZendDataCache#
 
-# Class ZendDataCache #
+<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/cache/cacheprovider.html">CacheProvider</a>
+    ***ZendDataCache**
 
-<pre class="tree"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/cache/cacheprovider.html">CacheProvider</a>\n    *** ZendDataCache **\n</pre>
 
 - - -
 
-<p class="signature">public  class **ZendDataCache**\nextends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/cache/cacheprovider.html">CacheProvider</a>
+<p class="signature">public  class **ZendDataCache**
+extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/cache/cacheprovider.html">CacheProvider</a>
 
 </p>
 
@@ -32,27 +34,27 @@
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td class="type">protected  string</td>
-<td class="description"><p class="name"><a href="#doFetch()">doFetch</a>(string id)</p><p class="description">Fetches an entry from the cache.</p></td>
+<td class="description"><p class="name"><a href="#doFetch">doFetch</a>(string id)</p><p class="description">Fetches an entry from the cache.</p></td>
 </tr>
 <tr>
 <td class="type">protected  boolean</td>
-<td class="description"><p class="name"><a href="#doContains()">doContains</a>(string id)</p><p class="description">Test if an entry exists in the cache.</p></td>
+<td class="description"><p class="name"><a href="#doContains">doContains</a>(string id)</p><p class="description">Test if an entry exists in the cache.</p></td>
 </tr>
 <tr>
 <td class="type">protected  boolean</td>
-<td class="description"><p class="name"><a href="#doSave()">doSave</a>(string id, string data, int lifeTime)</p><p class="description">Puts data into the cache.</p></td>
+<td class="description"><p class="name"><a href="#doSave">doSave</a>(string id, string data, int lifeTime)</p><p class="description">Puts data into the cache.</p></td>
 </tr>
 <tr>
 <td class="type">protected  boolean</td>
-<td class="description"><p class="name"><a href="#doDelete()">doDelete</a>(string id)</p><p class="description">Deletes a cache entry.</p></td>
+<td class="description"><p class="name"><a href="#doDelete">doDelete</a>(string id)</p><p class="description">Deletes a cache entry.</p></td>
 </tr>
 <tr>
 <td class="type">protected  boolean</td>
-<td class="description"><p class="name"><a href="#doFlush()">doFlush</a>()</p><p class="description">Deletes all cache entries.</p></td>
+<td class="description"><p class="name"><a href="#doFlush">doFlush</a>()</p><p class="description">Deletes all cache entries.</p></td>
 </tr>
 <tr>
 <td class="type">protected  array</td>
-<td class="description"><p class="name"><a href="#doGetStats()">doGetStats</a>()</p><p class="description">Retrieves cached information from data store</p></td>
+<td class="description"><p class="name"><a href="#doGetStats">doGetStats</a>()</p><p class="description">Retrieves cached information from data store</p></td>
 </tr>
 </table>
 
@@ -61,8 +63,7 @@
 <tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/cache/cacheprovider.html#delete()">delete</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/cache/cacheprovider.html#deleteAll()">deleteAll</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/cache/cacheprovider.html#doContains()">doContains</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/cache/cacheprovider.html#doDelete()">doDelete</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/cache/cacheprovider.html#doFetch()">doFetch</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/cache/cacheprovider.html#doFlush()">doFlush</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/cache/cacheprovider.html#doGetStats()">doGetStats</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/cache/cacheprovider.html#doSave()">doSave</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/cache/cacheprovider.html#flushAll()">flushAll</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/cache/cacheprovider.html#getStats()">getStats</a></td></tr></table>
 
 <h2 id="detail_method">Method Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/doctrine-common/Doctrine/Common/Cache/ZendDataCache.php.md#line36" class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\ZendDataCache.php at line 36</a>
-
+<div class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\ZendDataCache.php at line 36</div>
 <h3 id="doFetch()">doFetch</h3>
 ```php
 protected  string **doFetch**(string id)```
@@ -77,8 +78,7 @@ protected  string **doFetch**(string id)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/doctrine-common/Doctrine/Common/Cache/ZendDataCache.php.md#line44" class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\ZendDataCache.php at line 44</a>
-
+<div class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\ZendDataCache.php at line 44</div>
 <h3 id="doContains()">doContains</h3>
 ```php
 protected  boolean **doContains**(string id)```
@@ -93,8 +93,7 @@ protected  boolean **doContains**(string id)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/doctrine-common/Doctrine/Common/Cache/ZendDataCache.php.md#line52" class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\ZendDataCache.php at line 52</a>
-
+<div class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\ZendDataCache.php at line 52</div>
 <h3 id="doSave()">doSave</h3>
 ```php
 protected  boolean **doSave**(string id, string data, int lifeTime)```
@@ -111,8 +110,7 @@ protected  boolean **doSave**(string id, string data, int lifeTime)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/doctrine-common/Doctrine/Common/Cache/ZendDataCache.php.md#line60" class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\ZendDataCache.php at line 60</a>
-
+<div class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\ZendDataCache.php at line 60</div>
 <h3 id="doDelete()">doDelete</h3>
 ```php
 protected  boolean **doDelete**(string id)```
@@ -127,8 +125,7 @@ protected  boolean **doDelete**(string id)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/doctrine-common/Doctrine/Common/Cache/ZendDataCache.php.md#line68" class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\ZendDataCache.php at line 68</a>
-
+<div class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\ZendDataCache.php at line 68</div>
 <h3 id="doFlush()">doFlush</h3>
 ```php
 protected  boolean **doFlush**()```
@@ -141,8 +138,7 @@ protected  boolean **doFlush**()```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/doctrine-common/Doctrine/Common/Cache/ZendDataCache.php.md#line80" class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\ZendDataCache.php at line 80</a>
-
+<div class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\ZendDataCache.php at line 80</div>
 <h3 id="doGetStats()">doGetStats</h3>
 ```php
 protected  array **doGetStats**()```

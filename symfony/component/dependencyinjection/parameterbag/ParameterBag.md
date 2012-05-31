@@ -1,11 +1,11 @@
 - - -
 
 **Symfony\Component\DependencyInjection\ParameterBag\ParameterBag**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ParameterBag/ParameterBag.php.md#line24" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ParameterBag\ParameterBag.php at line 24</a>
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ParameterBag\ParameterBag.php at line 24</div>
+#Class ParameterBag#
 
-# Class ParameterBag #
+**ParameterBag**
 
-<pre class="tree">** ParameterBag **\n</pre>
 
 <dl>
 <dt>All Known Subclasses:</dt>
@@ -41,7 +41,7 @@
 <tr><th colspan="2">Constructor Summary</th></tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#__construct()">__construct</a>(array parameters)</p><p class="description">Constructor.</p></td>
+<td class="description"><p class="name"><a href="#__construct">__construct</a>(array parameters)</p><p class="description">Constructor.</p></td>
 </tr>
 </table>
 
@@ -49,49 +49,48 @@
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#clear()">clear</a>()</p><p class="description">Clears all parameters.</p></td>
+<td class="description"><p class="name"><a href="#clear">clear</a>()</p><p class="description">Clears all parameters.</p></td>
 </tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#add()">add</a>(array parameters)</p><p class="description">Adds parameters to the service container parameters.</p></td>
+<td class="description"><p class="name"><a href="#add">add</a>(array parameters)</p><p class="description">Adds parameters to the service container parameters.</p></td>
 </tr>
 <tr>
 <td class="type"> array</td>
-<td class="description"><p class="name"><a href="#all()">all</a>()</p><p class="description">Gets the service container parameters.</p></td>
+<td class="description"><p class="name"><a href="#all">all</a>()</p><p class="description">Gets the service container parameters.</p></td>
 </tr>
 <tr>
 <td class="type"> mixed</td>
-<td class="description"><p class="name"><a href="#get()">get</a>(string name)</p><p class="description">Gets a service container parameter.</p></td>
+<td class="description"><p class="name"><a href="#get">get</a>(string name)</p><p class="description">Gets a service container parameter.</p></td>
 </tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#set()">set</a>(string name, mixed value)</p><p class="description">Sets a service container parameter.</p></td>
+<td class="description"><p class="name"><a href="#set">set</a>(string name, mixed value)</p><p class="description">Sets a service container parameter.</p></td>
 </tr>
 <tr>
 <td class="type"> Boolean</td>
-<td class="description"><p class="name"><a href="#has()">has</a>(string name)</p><p class="description">Returns true if a parameter name is defined.</p></td>
+<td class="description"><p class="name"><a href="#has">has</a>(string name)</p><p class="description">Returns true if a parameter name is defined.</p></td>
 </tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#resolve()">resolve</a>()</p><p class="description">Replaces parameter placeholders (%name%) by their values for all parameters.</p></td>
+<td class="description"><p class="name"><a href="#resolve">resolve</a>()</p><p class="description">Replaces parameter placeholders (%name%) by their values for all parameters.</p></td>
 </tr>
 <tr>
 <td class="type"> mixed</td>
-<td class="description"><p class="name"><a href="#resolveValue()">resolveValue</a>(mixed value, array resolving)</p><p class="description">Replaces parameter placeholders (%name%) by their values.</p></td>
+<td class="description"><p class="name"><a href="#resolveValue">resolveValue</a>(mixed value, array resolving)</p><p class="description">Replaces parameter placeholders (%name%) by their values.</p></td>
 </tr>
 <tr>
 <td class="type"> string</td>
-<td class="description"><p class="name"><a href="#resolveString()">resolveString</a>(string value, array resolving)</p><p class="description">Resolves parameters inside a string</p></td>
+<td class="description"><p class="name"><a href="#resolveString">resolveString</a>(string value, array resolving)</p><p class="description">Resolves parameters inside a string</p></td>
 </tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#isResolved()">isResolved</a>()</p></td>
+<td class="description"><p class="name"><a href="#isResolved">isResolved</a>()</p></td>
 </tr>
 </table>
 
 ##Field Detail##
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ParameterBag/ParameterBag.php.md#line26" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ParameterBag\ParameterBag.php at line 26</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ParameterBag\ParameterBag.php at line 26</div>
 <h3 id="parameters">parameters</h3>
 ```php
 protected  mixed **$parameters** = null```
@@ -100,8 +99,7 @@ protected  mixed **$parameters** = null```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ParameterBag/ParameterBag.php.md#line27" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ParameterBag\ParameterBag.php at line 27</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ParameterBag\ParameterBag.php at line 27</div>
 <h3 id="resolved">resolved</h3>
 ```php
 protected  mixed **$resolved**```
@@ -111,8 +109,7 @@ protected  mixed **$resolved**```
 - - -
 
 <h2 id="detail_method">Constructor Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ParameterBag/ParameterBag.php.md#line36" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ParameterBag\ParameterBag.php at line 36</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ParameterBag\ParameterBag.php at line 36</div>
 <h3 id="__construct()">__construct</h3>
 ```php
 public  void **__construct**(array parameters)```
@@ -127,8 +124,7 @@ public  void **__construct**(array parameters)```
 - - -
 
 <h2 id="detail_method">Method Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ParameterBag/ParameterBag.php.md#line48" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ParameterBag\ParameterBag.php at line 48</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ParameterBag\ParameterBag.php at line 48</div>
 <h3 id="clear()">clear</h3>
 ```php
 public  void **clear**()```
@@ -140,8 +136,7 @@ public  void **clear**()```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ParameterBag/ParameterBag.php.md#line60" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ParameterBag\ParameterBag.php at line 60</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ParameterBag\ParameterBag.php at line 60</div>
 <h3 id="add()">add</h3>
 ```php
 public  void **add**(array parameters)```
@@ -155,8 +150,7 @@ public  void **add**(array parameters)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ParameterBag/ParameterBag.php.md#line74" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ParameterBag\ParameterBag.php at line 74</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ParameterBag\ParameterBag.php at line 74</div>
 <h3 id="all()">all</h3>
 ```php
 public  array **all**()```
@@ -170,8 +164,7 @@ public  array **all**()```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ParameterBag/ParameterBag.php.md#line90" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ParameterBag\ParameterBag.php at line 90</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ParameterBag\ParameterBag.php at line 90</div>
 <h3 id="get()">get</h3>
 ```php
 public  mixed **get**(string name)```
@@ -189,8 +182,7 @@ public  mixed **get**(string name)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ParameterBag/ParameterBag.php.md#line109" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ParameterBag\ParameterBag.php at line 109</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ParameterBag\ParameterBag.php at line 109</div>
 <h3 id="set()">set</h3>
 ```php
 public  void **set**(string name, mixed value)```
@@ -205,8 +197,7 @@ public  void **set**(string name, mixed value)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ParameterBag/ParameterBag.php.md#line123" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ParameterBag\ParameterBag.php at line 123</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ParameterBag\ParameterBag.php at line 123</div>
 <h3 id="has()">has</h3>
 ```php
 public  Boolean **has**(string name)```
@@ -222,8 +213,7 @@ public  Boolean **has**(string name)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ParameterBag/ParameterBag.php.md#line131" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ParameterBag\ParameterBag.php at line 131</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ParameterBag\ParameterBag.php at line 131</div>
 <h3 id="resolve()">resolve</h3>
 ```php
 public  void **resolve**()```
@@ -232,8 +222,7 @@ public  void **resolve**()```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ParameterBag/ParameterBag.php.md#line165" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ParameterBag\ParameterBag.php at line 165</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ParameterBag\ParameterBag.php at line 165</div>
 <h3 id="resolveValue()">resolveValue</h3>
 ```php
 public  mixed **resolveValue**(mixed value, array resolving)```
@@ -253,8 +242,7 @@ public  mixed **resolveValue**(mixed value, array resolving)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ParameterBag/ParameterBag.php.md#line195" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ParameterBag\ParameterBag.php at line 195</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ParameterBag\ParameterBag.php at line 195</div>
 <h3 id="resolveString()">resolveString</h3>
 ```php
 public  string **resolveString**(string value, array resolving)```
@@ -274,8 +262,7 @@ public  string **resolveString**(string value, array resolving)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ParameterBag/ParameterBag.php.md#line233" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ParameterBag\ParameterBag.php at line 233</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ParameterBag\ParameterBag.php at line 233</div>
 <h3 id="isResolved()">isResolved</h3>
 ```php
 public  void **isResolved**()```

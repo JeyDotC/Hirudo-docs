@@ -1,11 +1,11 @@
 - - -
 
 **HTTP_Session2\HTTP_Session2_Container**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container.php.md#line64" class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container.php at line 64</a>
+<div class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container.php at line 64</div>
+#Class HTTP_Session2_Container#
 
-# Class HTTP_Session2_Container #
+**HTTP_Session2_Container**
 
-<pre class="tree">** HTTP_Session2_Container **\n</pre>
 
 <dl>
 <dt>All Known Subclasses:</dt>
@@ -45,7 +45,7 @@
 <tr><th colspan="2">Constructor Summary</th></tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#__construct()">__construct</a>(array options)</p><p class="description">Constrtuctor method</p></td>
+<td class="description"><p class="name"><a href="#__construct">__construct</a>(array options)</p><p class="description">Constrtuctor method</p></td>
 </tr>
 </table>
 
@@ -53,21 +53,20 @@
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td class="type">protected  void</td>
-<td class="description"><p class="name"><a href="#setDefaults()">setDefaults</a>()</p><p class="description">Set some default options</p></td>
+<td class="description"><p class="name"><a href="#setDefaults">setDefaults</a>()</p><p class="description">Set some default options</p></td>
 </tr>
 <tr>
 <td class="type">protected  void</td>
-<td class="description"><p class="name"><a href="#parseOptions()">parseOptions</a>(array options)</p><p class="description">Parse options passed to the container class</p></td>
+<td class="description"><p class="name"><a href="#parseOptions">parseOptions</a>(array options)</p><p class="description">Parse options passed to the container class</p></td>
 </tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#set()">set</a>()</p><p class="description">Set session save handler</p></td>
+<td class="description"><p class="name"><a href="#set">set</a>()</p><p class="description">Set session save handler</p></td>
 </tr>
 </table>
 
 ##Field Detail##
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container.php.md#line71" class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container.php at line 71</a>
-
+<div class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container.php at line 71</div>
 <h3 id="options">options</h3>
 ```php
 protected  array **$options** = array()```
@@ -77,8 +76,7 @@ protected  array **$options** = array()```
 - - -
 
 <h2 id="detail_method">Constructor Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container.php.md#line80" class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container.php at line 80</a>
-
+<div class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container.php at line 80</div>
 <h3 id="__construct()">__construct</h3>
 ```php
 public  void **__construct**(array options)```
@@ -92,8 +90,7 @@ public  void **__construct**(array options)```
 - - -
 
 <h2 id="detail_method">Method Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container.php.md#line103" class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container.php at line 103</a>
-
+<div class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container.php at line 103</div>
 <h3 id="setDefaults()">setDefaults</h3>
 ```php
 protected  void **setDefaults**()```
@@ -102,8 +99,7 @@ protected  void **setDefaults**()```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container.php.md#line114" class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container.php at line 114</a>
-
+<div class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container.php at line 114</div>
 <h3 id="parseOptions()">parseOptions</h3>
 ```php
 protected  void **parseOptions**(array options)```
@@ -116,8 +112,7 @@ protected  void **parseOptions**(array options)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container.php.md#line128" class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container.php at line 128</a>
-
+<div class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container.php at line 128</div>
 <h3 id="set()">set</h3>
 ```php
 public  void **set**()```

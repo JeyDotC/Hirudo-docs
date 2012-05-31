@@ -1,15 +1,18 @@
 - - -
 
 **Symfony\Component\DependencyInjection\Loader\IniFileLoader**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Loader/IniFileLoader.php.md#line22" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Loader\IniFileLoader.php at line 22</a>
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Loader\IniFileLoader.php at line 22</div>
+#Class IniFileLoader#
 
-# Class IniFileLoader #
+BaseFileLoader
+*<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/loader/fileloader.html">FileLoader</a>
+        ***IniFileLoader**
 
-<pre class="tree">BaseFileLoader\n*<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/loader/fileloader.html">FileLoader</a>\n        *** IniFileLoader **\n</pre>
 
 - - -
 
-<p class="signature">public  class **IniFileLoader**\nextends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/loader/fileloader.html">FileLoader</a>
+<p class="signature">public  class **IniFileLoader**
+extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/loader/fileloader.html">FileLoader</a>
 
 </p>
 
@@ -29,11 +32,11 @@
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#load()">load</a>(mixed file, string type)</p><p class="description">Loads a resource.</p></td>
+<td class="description"><p class="name"><a href="#load">load</a>(mixed file, string type)</p><p class="description">Loads a resource.</p></td>
 </tr>
 <tr>
 <td class="type"> Boolean</td>
-<td class="description"><p class="name"><a href="#supports()">supports</a>(mixed resource, string type)</p><p class="description">Returns true if this class supports the given resource.</p></td>
+<td class="description"><p class="name"><a href="#supports">supports</a>(mixed resource, string type)</p><p class="description">Returns true if this class supports the given resource.</p></td>
 </tr>
 </table>
 
@@ -42,8 +45,7 @@
 <tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/loader/fileloader.html#__construct()">__construct</a></td></tr></table>
 
 <h2 id="detail_method">Method Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Loader/IniFileLoader.php.md#line32" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Loader\IniFileLoader.php at line 32</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Loader\IniFileLoader.php at line 32</div>
 <h3 id="load()">load</h3>
 ```php
 public  void **load**(mixed file, string type)```
@@ -59,8 +61,7 @@ public  void **load**(mixed file, string type)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Loader/IniFileLoader.php.md#line58" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Loader\IniFileLoader.php at line 58</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Loader\IniFileLoader.php at line 58</div>
 <h3 id="supports()">supports</h3>
 ```php
 public  Boolean **supports**(mixed resource, string type)```

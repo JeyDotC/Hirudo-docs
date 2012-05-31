@@ -1,11 +1,11 @@
 - - -
 
 **Hirudo\Models\Components\Restful\RESTfulComponent**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Models/Components/Restful/RESTfulComponent.php.md#line43" class="location">framework\hirudo\Hirudo\Models\Components\Restful\RESTfulComponent.php at line 43</a>
+<div class="location">framework\hirudo\Hirudo\Models\Components\Restful\RESTfulComponent.php at line 43</div>
+#Class RESTfulComponent#
 
-# Class RESTfulComponent #
+**RESTfulComponent**
 
-<pre class="tree">** RESTfulComponent **\n</pre>
 
 <dl>
 <dt>All Implemented Interfaces:</dt>
@@ -45,7 +45,7 @@ the construction of a web service consumer.</p></div>
 <tr><th colspan="2">Constructor Summary</th></tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#__construct()">__construct</a>(mixed baseURL, mixed root)</p></td>
+<td class="description"><p class="name"><a href="#__construct">__construct</a>(mixed baseURL, mixed root)</p></td>
 </tr>
 </table>
 
@@ -53,45 +53,44 @@ the construction of a web service consumer.</p></div>
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td class="type">protected  void</td>
-<td class="description"><p class="name"><a href="#call()">call</a>(str url, str verb, str data)</p></td>
+<td class="description"><p class="name"><a href="#call">call</a>(str url, str verb, str data)</p></td>
 </tr>
 <tr>
 <td class="type">protected  <a href="../../../../hirudo/serialization/entityserializerbase.html">EntitySerializerBase</a></td>
-<td class="description"><p class="name"><a href="#getSerializer()">getSerializer</a>()</p><p class="description"></p></td>
+<td class="description"><p class="name"><a href="#getSerializer">getSerializer</a>()</p><p class="description"></p></td>
 </tr>
 <tr>
 <td class="type">protected  <a href="../../../../hirudo/serialization/entitydeserializerbase.html">EntityDeserializerBase</a></td>
-<td class="description"><p class="name"><a href="#getDeserializer()">getDeserializer</a>()</p><p class="description">This is method getDeserializer</p></td>
+<td class="description"><p class="name"><a href="#getDeserializer">getDeserializer</a>()</p><p class="description">This is method getDeserializer</p></td>
 </tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#addHeaderVariable()">addHeaderVariable</a>(mixed key, mixed value)</p></td>
+<td class="description"><p class="name"><a href="#addHeaderVariable">addHeaderVariable</a>(mixed key, mixed value)</p></td>
 </tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#getLastUri()">getLastUri</a>()</p></td>
+<td class="description"><p class="name"><a href="#getLastUri">getLastUri</a>()</p></td>
 </tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#getMessageFormat()">getMessageFormat</a>()</p></td>
+<td class="description"><p class="name"><a href="#getMessageFormat">getMessageFormat</a>()</p></td>
 </tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#setMessageFormat()">setMessageFormat</a>(mixed messageFormat)</p></td>
+<td class="description"><p class="name"><a href="#setMessageFormat">setMessageFormat</a>(mixed messageFormat)</p></td>
 </tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#getResponseFormat()">getResponseFormat</a>()</p></td>
+<td class="description"><p class="name"><a href="#getResponseFormat">getResponseFormat</a>()</p></td>
 </tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#setResponseFormat()">setResponseFormat</a>(mixed responseFormat)</p></td>
+<td class="description"><p class="name"><a href="#setResponseFormat">setResponseFormat</a>(mixed responseFormat)</p></td>
 </tr>
 </table>
 
 ##Field Detail##
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Models/Components/Restful/RESTfulComponent.php.md#line45" class="location">framework\hirudo\Hirudo\Models\Components\Restful\RESTfulComponent.php at line 45</a>
-
+<div class="location">framework\hirudo\Hirudo\Models\Components\Restful\RESTfulComponent.php at line 45</div>
 <h3 id="DefaultRoot">DefaultRoot</h3>
 ```php
 public static  mixed **$DefaultRoot** = &quot;http://&quot;```
@@ -100,8 +99,7 @@ public static  mixed **$DefaultRoot** = &quot;http://&quot;```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Models/Components/Restful/RESTfulComponent.php.md#line51" class="location">framework\hirudo\Hirudo\Models\Components\Restful\RESTfulComponent.php at line 51</a>
-
+<div class="location">framework\hirudo\Hirudo\Models\Components\Restful\RESTfulComponent.php at line 51</div>
 <h3 id="request">request</h3>
 ```php
 protected  RestRequest **$request**```
@@ -110,8 +108,7 @@ protected  RestRequest **$request**```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Models/Components/Restful/RESTfulComponent.php.md#line52" class="location">framework\hirudo\Hirudo\Models\Components\Restful\RESTfulComponent.php at line 52</a>
-
+<div class="location">framework\hirudo\Hirudo\Models\Components\Restful\RESTfulComponent.php at line 52</div>
 <h3 id="serializationFactory">serializationFactory</h3>
 ```php
 protected  mixed **$serializationFactory**```
@@ -121,8 +118,7 @@ protected  mixed **$serializationFactory**```
 - - -
 
 <h2 id="detail_method">Constructor Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Models/Components/Restful/RESTfulComponent.php.md#line58" class="location">framework\hirudo\Hirudo\Models\Components\Restful\RESTfulComponent.php at line 58</a>
-
+<div class="location">framework\hirudo\Hirudo\Models\Components\Restful\RESTfulComponent.php at line 58</div>
 <h3 id="__construct()">__construct</h3>
 ```php
 public  void **__construct**(mixed baseURL, mixed root)```
@@ -132,8 +128,7 @@ public  void **__construct**(mixed baseURL, mixed root)```
 - - -
 
 <h2 id="detail_method">Method Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Models/Components/Restful/RESTfulComponent.php.md#line66" class="location">framework\hirudo\Hirudo\Models\Components\Restful\RESTfulComponent.php at line 66</a>
-
+<div class="location">framework\hirudo\Hirudo\Models\Components\Restful\RESTfulComponent.php at line 66</div>
 <h3 id="call()">call</h3>
 ```php
 protected  void **call**(str url, str verb, str data)```
@@ -142,8 +137,7 @@ protected  void **call**(str url, str verb, str data)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Models/Components/Restful/RESTfulComponent.php.md#line82" class="location">framework\hirudo\Hirudo\Models\Components\Restful\RESTfulComponent.php at line 82</a>
-
+<div class="location">framework\hirudo\Hirudo\Models\Components\Restful\RESTfulComponent.php at line 82</div>
 <h3 id="getSerializer()">getSerializer</h3>
 ```php
 protected  <a href="../../../../hirudo/serialization/entityserializerbase.html">EntitySerializerBase</a> **getSerializer**()```
@@ -152,8 +146,7 @@ protected  <a href="../../../../hirudo/serialization/entityserializerbase.html">
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Models/Components/Restful/RESTfulComponent.php.md#line92" class="location">framework\hirudo\Hirudo\Models\Components\Restful\RESTfulComponent.php at line 92</a>
-
+<div class="location">framework\hirudo\Hirudo\Models\Components\Restful\RESTfulComponent.php at line 92</div>
 <h3 id="getDeserializer()">getDeserializer</h3>
 ```php
 protected  <a href="../../../../hirudo/serialization/entitydeserializerbase.html">EntityDeserializerBase</a> **getDeserializer**()```
@@ -166,8 +159,7 @@ protected  <a href="../../../../hirudo/serialization/entitydeserializerbase.html
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Models/Components/Restful/RESTfulComponent.php.md#line96" class="location">framework\hirudo\Hirudo\Models\Components\Restful\RESTfulComponent.php at line 96</a>
-
+<div class="location">framework\hirudo\Hirudo\Models\Components\Restful\RESTfulComponent.php at line 96</div>
 <h3 id="addHeaderVariable()">addHeaderVariable</h3>
 ```php
 public  void **addHeaderVariable**(mixed key, mixed value)```
@@ -176,8 +168,7 @@ public  void **addHeaderVariable**(mixed key, mixed value)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Models/Components/Restful/RESTfulComponent.php.md#line100" class="location">framework\hirudo\Hirudo\Models\Components\Restful\RESTfulComponent.php at line 100</a>
-
+<div class="location">framework\hirudo\Hirudo\Models\Components\Restful\RESTfulComponent.php at line 100</div>
 <h3 id="getLastUri()">getLastUri</h3>
 ```php
 public  void **getLastUri**()```
@@ -186,8 +177,7 @@ public  void **getLastUri**()```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Models/Components/Restful/RESTfulComponent.php.md#line104" class="location">framework\hirudo\Hirudo\Models\Components\Restful\RESTfulComponent.php at line 104</a>
-
+<div class="location">framework\hirudo\Hirudo\Models\Components\Restful\RESTfulComponent.php at line 104</div>
 <h3 id="getMessageFormat()">getMessageFormat</h3>
 ```php
 public  void **getMessageFormat**()```
@@ -196,8 +186,7 @@ public  void **getMessageFormat**()```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Models/Components/Restful/RESTfulComponent.php.md#line108" class="location">framework\hirudo\Hirudo\Models\Components\Restful\RESTfulComponent.php at line 108</a>
-
+<div class="location">framework\hirudo\Hirudo\Models\Components\Restful\RESTfulComponent.php at line 108</div>
 <h3 id="setMessageFormat()">setMessageFormat</h3>
 ```php
 public  void **setMessageFormat**(mixed messageFormat)```
@@ -206,8 +195,7 @@ public  void **setMessageFormat**(mixed messageFormat)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Models/Components/Restful/RESTfulComponent.php.md#line112" class="location">framework\hirudo\Hirudo\Models\Components\Restful\RESTfulComponent.php at line 112</a>
-
+<div class="location">framework\hirudo\Hirudo\Models\Components\Restful\RESTfulComponent.php at line 112</div>
 <h3 id="getResponseFormat()">getResponseFormat</h3>
 ```php
 public  void **getResponseFormat**()```
@@ -216,8 +204,7 @@ public  void **getResponseFormat**()```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Models/Components/Restful/RESTfulComponent.php.md#line116" class="location">framework\hirudo\Hirudo\Models\Components\Restful\RESTfulComponent.php at line 116</a>
-
+<div class="location">framework\hirudo\Hirudo\Models\Components\Restful\RESTfulComponent.php at line 116</div>
 <h3 id="setResponseFormat()">setResponseFormat</h3>
 ```php
 public  void **setResponseFormat**(mixed responseFormat)```

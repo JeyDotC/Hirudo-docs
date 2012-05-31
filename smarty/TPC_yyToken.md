@@ -1,11 +1,11 @@
 - - -
 
 **Smarty\TPC_yyToken**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_configfileparser.php.md#line12" class="location">framework\libs\smarty\sysplugins\smarty_internal_configfileparser.php at line 12</a>
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_configfileparser.php at line 12</div>
+#Class TPC_yyToken#
 
-# Class TPC_yyToken #
+**TPC_yyToken**
 
-<pre class="tree">** TPC_yyToken **\n</pre>
 
 - - -
 
@@ -38,7 +38,7 @@ It is generated from the internal.configfileparser.y file</p></div>
 <tr><th colspan="2">Constructor Summary</th></tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#__construct()">__construct</a>(mixed s, mixed m)</p></td>
+<td class="description"><p class="name"><a href="#__construct">__construct</a>(mixed s, mixed m)</p></td>
 </tr>
 </table>
 
@@ -46,25 +46,24 @@ It is generated from the internal.configfileparser.y file</p></div>
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#offsetExists()">offsetExists</a>(mixed offset)</p></td>
+<td class="description"><p class="name"><a href="#offsetExists">offsetExists</a>(mixed offset)</p></td>
 </tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#offsetGet()">offsetGet</a>(mixed offset)</p></td>
+<td class="description"><p class="name"><a href="#offsetGet">offsetGet</a>(mixed offset)</p></td>
 </tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#offsetSet()">offsetSet</a>(mixed offset, mixed value)</p></td>
+<td class="description"><p class="name"><a href="#offsetSet">offsetSet</a>(mixed offset, mixed value)</p></td>
 </tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#offsetUnset()">offsetUnset</a>(mixed offset)</p></td>
+<td class="description"><p class="name"><a href="#offsetUnset">offsetUnset</a>(mixed offset)</p></td>
 </tr>
 </table>
 
 ##Field Detail##
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_configfileparser.php.md#line15" class="location">framework\libs\smarty\sysplugins\smarty_internal_configfileparser.php at line 15</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_configfileparser.php at line 15</div>
 <h3 id="metadata">metadata</h3>
 ```php
 public  mixed **$metadata** = array()```
@@ -73,8 +72,7 @@ public  mixed **$metadata** = array()```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_configfileparser.php.md#line14" class="location">framework\libs\smarty\sysplugins\smarty_internal_configfileparser.php at line 14</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_configfileparser.php at line 14</div>
 <h3 id="string">string</h3>
 ```php
 public  mixed **$string** = ''```
@@ -84,8 +82,7 @@ public  mixed **$string** = ''```
 - - -
 
 <h2 id="detail_method">Constructor Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_configfileparser.php.md#line17" class="location">framework\libs\smarty\sysplugins\smarty_internal_configfileparser.php at line 17</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_configfileparser.php at line 17</div>
 <h3 id="__construct()">__construct</h3>
 ```php
 public  void **__construct**(mixed s, mixed m)```
@@ -95,8 +92,7 @@ public  void **__construct**(mixed s, mixed m)```
 - - -
 
 <h2 id="detail_method">Method Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_configfileparser.php.md#line37" class="location">framework\libs\smarty\sysplugins\smarty_internal_configfileparser.php at line 37</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_configfileparser.php at line 37</div>
 <h3 id="offsetExists()">offsetExists</h3>
 ```php
 public  void **offsetExists**(mixed offset)```
@@ -105,8 +101,7 @@ public  void **offsetExists**(mixed offset)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_configfileparser.php.md#line42" class="location">framework\libs\smarty\sysplugins\smarty_internal_configfileparser.php at line 42</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_configfileparser.php at line 42</div>
 <h3 id="offsetGet()">offsetGet</h3>
 ```php
 public  void **offsetGet**(mixed offset)```
@@ -115,8 +110,7 @@ public  void **offsetGet**(mixed offset)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_configfileparser.php.md#line47" class="location">framework\libs\smarty\sysplugins\smarty_internal_configfileparser.php at line 47</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_configfileparser.php at line 47</div>
 <h3 id="offsetSet()">offsetSet</h3>
 ```php
 public  void **offsetSet**(mixed offset, mixed value)```
@@ -125,8 +119,7 @@ public  void **offsetSet**(mixed offset, mixed value)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_configfileparser.php.md#line70" class="location">framework\libs\smarty\sysplugins\smarty_internal_configfileparser.php at line 70</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_configfileparser.php at line 70</div>
 <h3 id="offsetUnset()">offsetUnset</h3>
 ```php
 public  void **offsetUnset**(mixed offset)```

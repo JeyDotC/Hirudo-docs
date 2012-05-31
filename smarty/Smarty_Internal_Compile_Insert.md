@@ -1,15 +1,17 @@
 - - -
 
 **Smarty\Smarty_Internal_Compile_Insert**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_compile_insert.php.md#line19" class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_insert.php at line 19</a>
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_insert.php at line 19</div>
+#Class Smarty_Internal_Compile_Insert#
 
-# Class Smarty_Internal_Compile_Insert #
+<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_compilebase.html">Smarty_Internal_CompileBase</a>
+    ***Smarty_Internal_Compile_Insert**
 
-<pre class="tree"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_compilebase.html">Smarty_Internal_CompileBase</a>\n    *** Smarty_Internal_Compile_Insert **\n</pre>
 
 - - -
 
-<p class="signature">public  class **Smarty_Internal_Compile_Insert**\nextends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_compilebase.html">Smarty_Internal_CompileBase</a>
+<p class="signature">public  class **Smarty_Internal_Compile_Insert**
+extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_compilebase.html">Smarty_Internal_CompileBase</a>
 
 </p>
 
@@ -45,7 +47,7 @@
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td class="type"> string</td>
-<td class="description"><p class="name"><a href="#compile()">compile</a>(array args, object compiler)</p><p class="description">Compiles code for the {insert} tag</p></td>
+<td class="description"><p class="name"><a href="#compile">compile</a>(array args, object compiler)</p><p class="description">Compiles code for the {insert} tag</p></td>
 </tr>
 </table>
 
@@ -54,8 +56,7 @@
 <tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_compilebase.html#closeTag()">closeTag</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_compilebase.html#getAttributes()">getAttributes</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_compilebase.html#openTag()">openTag</a></td></tr></table>
 
 ##Field Detail##
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_compile_insert.php.md#line41" class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_insert.php at line 41</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_insert.php at line 41</div>
 <h3 id="optional_attributes">optional_attributes</h3>
 ```php
 public  array **$optional_attributes** = array('_any')```
@@ -68,8 +69,7 @@ public  array **$optional_attributes** = array('_any')```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_compile_insert.php.md#line27" class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_insert.php at line 27</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_insert.php at line 27</div>
 <h3 id="required_attributes">required_attributes</h3>
 ```php
 public  array **$required_attributes** = array('name')```
@@ -82,8 +82,7 @@ public  array **$required_attributes** = array('name')```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_compile_insert.php.md#line34" class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_insert.php at line 34</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_insert.php at line 34</div>
 <h3 id="shorttag_order">shorttag_order</h3>
 ```php
 public  array **$shorttag_order** = array('name')```
@@ -97,8 +96,7 @@ public  array **$shorttag_order** = array('name')```
 - - -
 
 <h2 id="detail_method">Method Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_compile_insert.php.md#line50" class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_insert.php at line 50</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_insert.php at line 50</div>
 <h3 id="compile()">compile</h3>
 ```php
 public  string **compile**(array args, object compiler)```

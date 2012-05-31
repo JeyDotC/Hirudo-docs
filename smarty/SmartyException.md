@@ -1,11 +1,12 @@
 - - -
 
 **Smarty\SmartyException**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/Smarty.class.php.md#line1087" class="location">framework\libs\smarty\Smarty.class.php at line 1087</a>
+<div class="location">framework\libs\smarty\Smarty.class.php at line 1087</div>
+#Class SmartyException#
 
-# Class SmartyException #
+Exception
+***SmartyException**
 
-<pre class="tree">Exception\n*** SmartyException **\n</pre>
 
 <dl>
 <dt>All Known Subclasses:</dt>
@@ -14,7 +15,8 @@
 
 - - -
 
-<p class="signature">public  class **SmartyException**\nextends Exception
+<p class="signature">public  class **SmartyException**
+extends Exception
 
 </p>
 

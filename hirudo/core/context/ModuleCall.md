@@ -1,11 +1,11 @@
 - - -
 
 **Hirudo\Core\Context\ModuleCall**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Core/Context/ModuleCall.php.md#line32" class="location">framework\hirudo\Hirudo\Core\Context\ModuleCall.php at line 32</a>
+<div class="location">framework\hirudo\Hirudo\Core\Context\ModuleCall.php at line 32</div>
+#Class ModuleCall#
 
-# Class ModuleCall #
+**ModuleCall**
 
-<pre class="tree">** ModuleCall **\n</pre>
 
 - - -
 
@@ -24,7 +24,7 @@ belongs to an application.</p></div>
 <tr><th colspan="2">Constructor Summary</th></tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#__construct()">__construct</a>(string app, string module, string task, UnderscoreException lastUnhandledException)</p><p class="description">Creates a module call.</p></td>
+<td class="description"><p class="name"><a href="#__construct">__construct</a>(string app, string module, string task, UnderscoreException lastUnhandledException)</p><p class="description">Creates a module call.</p></td>
 </tr>
 </table>
 
@@ -32,50 +32,49 @@ belongs to an application.</p></div>
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td class="type">static  <a href="../../../hirudo/core/context/modulecall.html">ModuleCall</a></td>
-<td class="description"><p class="name"><a href="#fromString()">fromString</a>(string string)</p><p class="description">A factory method to create a module call from a string with the "AppName::ModuleName::taskName"
+<td class="description"><p class="name"><a href="#fromString">fromString</a>(string string)</p><p class="description">A factory method to create a module call from a string with the "AppName::ModuleName::taskName"
 format.</p></td>
 </tr>
 <tr>
 <td class="type"> string</td>
-<td class="description"><p class="name"><a href="#getApp()">getApp</a>()</p><p class="description">Gets the name of the requested application.</p></td>
+<td class="description"><p class="name"><a href="#getApp">getApp</a>()</p><p class="description">Gets the name of the requested application.</p></td>
 </tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#setApp()">setApp</a>(string app)</p><p class="description">Sets the name of the requested application.</p></td>
+<td class="description"><p class="name"><a href="#setApp">setApp</a>(string app)</p><p class="description">Sets the name of the requested application.</p></td>
 </tr>
 <tr>
 <td class="type"> string</td>
-<td class="description"><p class="name"><a href="#getModule()">getModule</a>()</p><p class="description">Gets the name of the requested module.</p></td>
+<td class="description"><p class="name"><a href="#getModule">getModule</a>()</p><p class="description">Gets the name of the requested module.</p></td>
 </tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#setModule()">setModule</a>(string module)</p><p class="description">sets the name of the requested module.</p></td>
+<td class="description"><p class="name"><a href="#setModule">setModule</a>(string module)</p><p class="description">sets the name of the requested module.</p></td>
 </tr>
 <tr>
 <td class="type"> string</td>
-<td class="description"><p class="name"><a href="#getTask()">getTask</a>()</p><p class="description">Gets the name of the requested task.</p></td>
+<td class="description"><p class="name"><a href="#getTask">getTask</a>()</p><p class="description">Gets the name of the requested task.</p></td>
 </tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#setTask()">setTask</a>(string task)</p><p class="description">Sets the name of the requested task.</p></td>
+<td class="description"><p class="name"><a href="#setTask">setTask</a>(string task)</p><p class="description">Sets the name of the requested task.</p></td>
 </tr>
 <tr>
 <td class="type"> <a href="../../../hirudo/core/exceptions/hirudoexception.html">HirudoException</a></td>
-<td class="description"><p class="name"><a href="#getLastUnhandledException()">getLastUnhandledException</a>()</p><p class="description">Gets the last Unhandled exception from a previous module execution.</p></td>
+<td class="description"><p class="name"><a href="#getLastUnhandledException">getLastUnhandledException</a>()</p><p class="description">Gets the last Unhandled exception from a previous module execution.</p></td>
 </tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#setLastUnhandledException()">setLastUnhandledException</a>(<a href="../../../hirudo/core/exceptions/hirudoexception.html">HirudoException</a> lastUnhandledException)</p><p class="description">Sets the last Unhandled exception from a previous module execution.</p></td>
+<td class="description"><p class="name"><a href="#setLastUnhandledException">setLastUnhandledException</a>(<a href="../../../hirudo/core/exceptions/hirudoexception.html">HirudoException</a> lastUnhandledException)</p><p class="description">Sets the last Unhandled exception from a previous module execution.</p></td>
 </tr>
 <tr>
 <td class="type"> boolean</td>
-<td class="description"><p class="name"><a href="#hasUnhandledException()">hasUnhandledException</a>()</p><p class="description">Were there an exception from a previous module execution?</p></td>
+<td class="description"><p class="name"><a href="#hasUnhandledException">hasUnhandledException</a>()</p><p class="description">Were there an exception from a previous module execution?</p></td>
 </tr>
 </table>
 
 <h2 id="detail_method">Constructor Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Core/Context/ModuleCall.php.md#line51" class="location">framework\hirudo\Hirudo\Core\Context\ModuleCall.php at line 51</a>
-
+<div class="location">framework\hirudo\Hirudo\Core\Context\ModuleCall.php at line 51</div>
 <h3 id="__construct()">__construct</h3>
 ```php
 public  void **__construct**(string app, string module, string task, UnderscoreException lastUnhandledException)```
@@ -92,8 +91,7 @@ public  void **__construct**(string app, string module, string task, UnderscoreE
 - - -
 
 <h2 id="detail_method">Method Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Core/Context/ModuleCall.php.md#line65" class="location">framework\hirudo\Hirudo\Core\Context\ModuleCall.php at line 65</a>
-
+<div class="location">framework\hirudo\Hirudo\Core\Context\ModuleCall.php at line 65</div>
 <h3 id="fromString()">fromString</h3>
 ```php
 public static  <a href="../../../hirudo/core/context/modulecall.html">ModuleCall</a> **fromString**(string string)```
@@ -109,8 +107,7 @@ format.</p><dl>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Core/Context/ModuleCall.php.md#line75" class="location">framework\hirudo\Hirudo\Core\Context\ModuleCall.php at line 75</a>
-
+<div class="location">framework\hirudo\Hirudo\Core\Context\ModuleCall.php at line 75</div>
 <h3 id="getApp()">getApp</h3>
 ```php
 public  string **getApp**()```
@@ -123,8 +120,7 @@ public  string **getApp**()```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Core/Context/ModuleCall.php.md#line84" class="location">framework\hirudo\Hirudo\Core\Context\ModuleCall.php at line 84</a>
-
+<div class="location">framework\hirudo\Hirudo\Core\Context\ModuleCall.php at line 84</div>
 <h3 id="setApp()">setApp</h3>
 ```php
 public  void **setApp**(string app)```
@@ -137,8 +133,7 @@ public  void **setApp**(string app)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Core/Context/ModuleCall.php.md#line93" class="location">framework\hirudo\Hirudo\Core\Context\ModuleCall.php at line 93</a>
-
+<div class="location">framework\hirudo\Hirudo\Core\Context\ModuleCall.php at line 93</div>
 <h3 id="getModule()">getModule</h3>
 ```php
 public  string **getModule**()```
@@ -151,8 +146,7 @@ public  string **getModule**()```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Core/Context/ModuleCall.php.md#line102" class="location">framework\hirudo\Hirudo\Core\Context\ModuleCall.php at line 102</a>
-
+<div class="location">framework\hirudo\Hirudo\Core\Context\ModuleCall.php at line 102</div>
 <h3 id="setModule()">setModule</h3>
 ```php
 public  void **setModule**(string module)```
@@ -165,8 +159,7 @@ public  void **setModule**(string module)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Core/Context/ModuleCall.php.md#line111" class="location">framework\hirudo\Hirudo\Core\Context\ModuleCall.php at line 111</a>
-
+<div class="location">framework\hirudo\Hirudo\Core\Context\ModuleCall.php at line 111</div>
 <h3 id="getTask()">getTask</h3>
 ```php
 public  string **getTask**()```
@@ -179,8 +172,7 @@ public  string **getTask**()```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Core/Context/ModuleCall.php.md#line120" class="location">framework\hirudo\Hirudo\Core\Context\ModuleCall.php at line 120</a>
-
+<div class="location">framework\hirudo\Hirudo\Core\Context\ModuleCall.php at line 120</div>
 <h3 id="setTask()">setTask</h3>
 ```php
 public  void **setTask**(string task)```
@@ -193,8 +185,7 @@ public  void **setTask**(string task)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Core/Context/ModuleCall.php.md#line129" class="location">framework\hirudo\Hirudo\Core\Context\ModuleCall.php at line 129</a>
-
+<div class="location">framework\hirudo\Hirudo\Core\Context\ModuleCall.php at line 129</div>
 <h3 id="getLastUnhandledException()">getLastUnhandledException</h3>
 ```php
 public  <a href="../../../hirudo/core/exceptions/hirudoexception.html">HirudoException</a> **getLastUnhandledException**()```
@@ -207,8 +198,7 @@ public  <a href="../../../hirudo/core/exceptions/hirudoexception.html">HirudoExc
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Core/Context/ModuleCall.php.md#line138" class="location">framework\hirudo\Hirudo\Core\Context\ModuleCall.php at line 138</a>
-
+<div class="location">framework\hirudo\Hirudo\Core\Context\ModuleCall.php at line 138</div>
 <h3 id="setLastUnhandledException()">setLastUnhandledException</h3>
 ```php
 public  void **setLastUnhandledException**(<a href="../../../hirudo/core/exceptions/hirudoexception.html">HirudoException</a> lastUnhandledException)```
@@ -217,8 +207,7 @@ public  void **setLastUnhandledException**(<a href="../../../hirudo/core/excepti
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Core/Context/ModuleCall.php.md#line147" class="location">framework\hirudo\Hirudo\Core\Context\ModuleCall.php at line 147</a>
-
+<div class="location">framework\hirudo\Hirudo\Core\Context\ModuleCall.php at line 147</div>
 <h3 id="hasUnhandledException()">hasUnhandledException</h3>
 ```php
 public  boolean **hasUnhandledException**()```

@@ -1,15 +1,17 @@
 - - -
 
 **Smarty\Smarty_CacheResource_KeyValueStore**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_cacheresource_keyvaluestore.php.md#line34" class="location">framework\libs\smarty\sysplugins\smarty_cacheresource_keyvaluestore.php at line 34</a>
+<div class="location">framework\libs\smarty\sysplugins\smarty_cacheresource_keyvaluestore.php at line 34</div>
+#Class Smarty_CacheResource_KeyValueStore#
 
-# Class Smarty_CacheResource_KeyValueStore #
+<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_cacheresource.html">Smarty_CacheResource</a>
+    ***Smarty_CacheResource_KeyValueStore**
 
-<pre class="tree"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_cacheresource.html">Smarty_CacheResource</a>\n    *** Smarty_CacheResource_KeyValueStore **\n</pre>
 
 - - -
 
-<p class="signature">public abstract  class **Smarty_CacheResource_KeyValueStore**\nextends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_cacheresource.html">Smarty_CacheResource</a>
+<p class="signature">public abstract  class **Smarty_CacheResource_KeyValueStore**
+extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_cacheresource.html">Smarty_CacheResource</a>
 
 </p>
 
@@ -55,88 +57,88 @@ consider using »a|b|c|$page-$items-$whatever« instead.</p></div>
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#populate()">populate</a>(<a href="../smarty/smarty_template_cached.html">Smarty_Template_Cached</a> cached, <a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> _template)</p><p class="description">populate Cached Object with meta data from Resource</p></td>
+<td class="description"><p class="name"><a href="#populate">populate</a>(<a href="../smarty/smarty_template_cached.html">Smarty_Template_Cached</a> cached, <a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> _template)</p><p class="description">populate Cached Object with meta data from Resource</p></td>
 </tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#populateTimestamp()">populateTimestamp</a>(<a href="../smarty/smarty_template_cached.html">Smarty_Template_Cached</a> cached, <a href="../smarty/smarty_template_cached.html">Smarty_Template_Cached</a> source)</p><p class="description">populate Cached Object with timestamp and exists from Resource</p></td>
+<td class="description"><p class="name"><a href="#populateTimestamp">populateTimestamp</a>(<a href="../smarty/smarty_template_cached.html">Smarty_Template_Cached</a> cached, <a href="../smarty/smarty_template_cached.html">Smarty_Template_Cached</a> source)</p><p class="description">populate Cached Object with timestamp and exists from Resource</p></td>
 </tr>
 <tr>
 <td class="type"> booelan</td>
-<td class="description"><p class="name"><a href="#process()">process</a>(<a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> _template, <a href="../smarty/smarty_template_cached.html">Smarty_Template_Cached</a> cached)</p><p class="description">Read the cached template and process the header</p></td>
+<td class="description"><p class="name"><a href="#process">process</a>(<a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> _template, <a href="../smarty/smarty_template_cached.html">Smarty_Template_Cached</a> cached)</p><p class="description">Read the cached template and process the header</p></td>
 </tr>
 <tr>
 <td class="type"> boolean</td>
-<td class="description"><p class="name"><a href="#writeCachedContent()">writeCachedContent</a>(<a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> _template, string content)</p><p class="description">Write the rendered template output to cache</p></td>
+<td class="description"><p class="name"><a href="#writeCachedContent">writeCachedContent</a>(<a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> _template, string content)</p><p class="description">Write the rendered template output to cache</p></td>
 </tr>
 <tr>
 <td class="type"> integer</td>
-<td class="description"><p class="name"><a href="#clearAll()">clearAll</a>(<a href="../smarty/smarty.html">Smarty</a> smarty, integer exp_time)</p><p class="description">Empty cachethe $exp_time argument is ignored altogether}</p></td>
+<td class="description"><p class="name"><a href="#clearAll">clearAll</a>(<a href="../smarty/smarty.html">Smarty</a> smarty, integer exp_time)</p><p class="description">Empty cachethe $exp_time argument is ignored altogether}</p></td>
 </tr>
 <tr>
 <td class="type"> integer</td>
-<td class="description"><p class="name"><a href="#clear()">clear</a>(<a href="../smarty/smarty.html">Smarty</a> smarty, string resource_name, string cache_id, string compile_id, integer exp_time)</p><p class="description">Empty cache for a specific templatethe $exp_time argument is ignored altogether}</p></td>
+<td class="description"><p class="name"><a href="#clear">clear</a>(<a href="../smarty/smarty.html">Smarty</a> smarty, string resource_name, string cache_id, string compile_id, integer exp_time)</p><p class="description">Empty cache for a specific templatethe $exp_time argument is ignored altogether}</p></td>
 </tr>
 <tr>
 <td class="type">protected  string</td>
-<td class="description"><p class="name"><a href="#getTemplateUid()">getTemplateUid</a>(<a href="../smarty/smarty.html">Smarty</a> smarty, string resource_name, string cache_id, string compile_id)</p><p class="description">Get template's unique ID</p></td>
+<td class="description"><p class="name"><a href="#getTemplateUid">getTemplateUid</a>(<a href="../smarty/smarty.html">Smarty</a> smarty, string resource_name, string cache_id, string compile_id)</p><p class="description">Get template's unique ID</p></td>
 </tr>
 <tr>
 <td class="type">protected  string</td>
-<td class="description"><p class="name"><a href="#sanitize()">sanitize</a>(string string)</p><p class="description">Sanitize CacheID components</p></td>
+<td class="description"><p class="name"><a href="#sanitize">sanitize</a>(string string)</p><p class="description">Sanitize CacheID components</p></td>
 </tr>
 <tr>
 <td class="type">protected  boolean</td>
-<td class="description"><p class="name"><a href="#fetch()">fetch</a>(string cid, string resource_name, string cache_id, string compile_id, string content, integer &$timestamp, string resource_uid, mixed timestamp)</p><p class="description">Fetch and prepare a cache object.</p></td>
+<td class="description"><p class="name"><a href="#fetch">fetch</a>(string cid, string resource_name, string cache_id, string compile_id, string content, integer &$timestamp, string resource_uid, mixed timestamp)</p><p class="description">Fetch and prepare a cache object.</p></td>
 </tr>
 <tr>
 <td class="type">protected  void</td>
-<td class="description"><p class="name"><a href="#addMetaTimestamp()">addMetaTimestamp</a>(string &$content, mixed content)</p><p class="description">Add current microtime to the beginning of $cache_contentthe header uses 8 Bytes, the first 4 Bytes are the seconds, the second 4 Bytes are the microseconds}</p></td>
+<td class="description"><p class="name"><a href="#addMetaTimestamp">addMetaTimestamp</a>(string &$content, mixed content)</p><p class="description">Add current microtime to the beginning of $cache_contentthe header uses 8 Bytes, the first 4 Bytes are the seconds, the second 4 Bytes are the microseconds}</p></td>
 </tr>
 <tr>
 <td class="type">protected  float</td>
-<td class="description"><p class="name"><a href="#getMetaTimestamp()">getMetaTimestamp</a>(string &$content, mixed content)</p><p class="description">Extract the timestamp the $content was cached</p></td>
+<td class="description"><p class="name"><a href="#getMetaTimestamp">getMetaTimestamp</a>(string &$content, mixed content)</p><p class="description">Extract the timestamp the $content was cached</p></td>
 </tr>
 <tr>
 <td class="type">protected  void</td>
-<td class="description"><p class="name"><a href="#invalidate()">invalidate</a>(string cid, string resource_name, string cache_id, string compile_id, string resource_uid)</p><p class="description">Invalidate CacheID</p></td>
+<td class="description"><p class="name"><a href="#invalidate">invalidate</a>(string cid, string resource_name, string cache_id, string compile_id, string resource_uid)</p><p class="description">Invalidate CacheID</p></td>
 </tr>
 <tr>
 <td class="type">protected  float</td>
-<td class="description"><p class="name"><a href="#getLatestInvalidationTimestamp()">getLatestInvalidationTimestamp</a>(string cid, string resource_name, string cache_id, string compile_id, string resource_uid)</p><p class="description">Determine the latest timestamp known to the invalidation chain</p></td>
+<td class="description"><p class="name"><a href="#getLatestInvalidationTimestamp">getLatestInvalidationTimestamp</a>(string cid, string resource_name, string cache_id, string compile_id, string resource_uid)</p><p class="description">Determine the latest timestamp known to the invalidation chain</p></td>
 </tr>
 <tr>
 <td class="type">protected  array</td>
-<td class="description"><p class="name"><a href="#listInvalidationKeys()">listInvalidationKeys</a>(string cid, string resource_name, string cache_id, string compile_id, string resource_uid)</p><p class="description">Translate a CacheID into the list of applicable InvalidationKeys.
+<td class="description"><p class="name"><a href="#listInvalidationKeys">listInvalidationKeys</a>(string cid, string resource_name, string cache_id, string compile_id, string resource_uid)</p><p class="description">Translate a CacheID into the list of applicable InvalidationKeys.
 </p></td>
 </tr>
 <tr>
 <td class="type"> booelan</td>
-<td class="description"><p class="name"><a href="#hasLock()">hasLock</a>(<a href="../smarty/smarty.html">Smarty</a> smarty, <a href="../smarty/smarty_template_cached.html">Smarty_Template_Cached</a> cached)</p><p class="description">Check is cache is locked for this template</p></td>
+<td class="description"><p class="name"><a href="#hasLock">hasLock</a>(<a href="../smarty/smarty.html">Smarty</a> smarty, <a href="../smarty/smarty_template_cached.html">Smarty_Template_Cached</a> cached)</p><p class="description">Check is cache is locked for this template</p></td>
 </tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#acquireLock()">acquireLock</a>(<a href="../smarty/smarty.html">Smarty</a> smarty, <a href="../smarty/smarty_template_cached.html">Smarty_Template_Cached</a> cached)</p><p class="description">Lock cache for this template</p></td>
+<td class="description"><p class="name"><a href="#acquireLock">acquireLock</a>(<a href="../smarty/smarty.html">Smarty</a> smarty, <a href="../smarty/smarty_template_cached.html">Smarty_Template_Cached</a> cached)</p><p class="description">Lock cache for this template</p></td>
 </tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#releaseLock()">releaseLock</a>(<a href="../smarty/smarty.html">Smarty</a> smarty, <a href="../smarty/smarty_template_cached.html">Smarty_Template_Cached</a> cached)</p><p class="description">Unlock cache for this template</p></td>
+<td class="description"><p class="name"><a href="#releaseLock">releaseLock</a>(<a href="../smarty/smarty.html">Smarty</a> smarty, <a href="../smarty/smarty_template_cached.html">Smarty_Template_Cached</a> cached)</p><p class="description">Unlock cache for this template</p></td>
 </tr>
 <tr>
 <td class="type">protected abstract  array</td>
-<td class="description"><p class="name"><a href="#read()">read</a>(array keys)</p><p class="description">Read values for a set of keys from cache</p></td>
+<td class="description"><p class="name"><a href="#read">read</a>(array keys)</p><p class="description">Read values for a set of keys from cache</p></td>
 </tr>
 <tr>
 <td class="type">protected abstract  boolean</td>
-<td class="description"><p class="name"><a href="#write()">write</a>(array keys, int expire)</p><p class="description">Save values for a set of keys to cache</p></td>
+<td class="description"><p class="name"><a href="#write">write</a>(array keys, int expire)</p><p class="description">Save values for a set of keys to cache</p></td>
 </tr>
 <tr>
 <td class="type">protected abstract  boolean</td>
-<td class="description"><p class="name"><a href="#delete()">delete</a>(array keys)</p><p class="description">Remove values from cache</p></td>
+<td class="description"><p class="name"><a href="#delete">delete</a>(array keys)</p><p class="description">Remove values from cache</p></td>
 </tr>
 <tr>
 <td class="type">protected  boolean</td>
-<td class="description"><p class="name"><a href="#purge()">purge</a>()</p><p class="description">Remove *all* values from cache</p></td>
+<td class="description"><p class="name"><a href="#purge">purge</a>()</p><p class="description">Remove *all* values from cache</p></td>
 </tr>
 </table>
 
@@ -145,8 +147,7 @@ consider using »a|b|c|$page-$items-$whatever« instead.</p></div>
 <tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_cacheresource.html#acquireLock()">acquireLock</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_cacheresource.html#clear()">clear</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_cacheresource.html#clearAll()">clearAll</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_cacheresource.html#getCachedContent()">getCachedContent</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_cacheresource.html#hasLock()">hasLock</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_cacheresource.html#invalidLoadedCache()">invalidLoadedCache</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_cacheresource.html#load()">load</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_cacheresource.html#locked()">locked</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_cacheresource.html#populate()">populate</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_cacheresource.html#populateTimestamp()">populateTimestamp</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_cacheresource.html#process()">process</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_cacheresource.html#releaseLock()">releaseLock</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_cacheresource.html#writeCachedContent()">writeCachedContent</a></td></tr></table>
 
 ##Field Detail##
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_cacheresource_keyvaluestore.php.md#line40" class="location">framework\libs\smarty\sysplugins\smarty_cacheresource_keyvaluestore.php at line 40</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_cacheresource_keyvaluestore.php at line 40</div>
 <h3 id="contents">contents</h3>
 ```php
 protected  array **$contents** = array()```
@@ -155,8 +156,7 @@ protected  array **$contents** = array()```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_cacheresource_keyvaluestore.php.md#line45" class="location">framework\libs\smarty\sysplugins\smarty_cacheresource_keyvaluestore.php at line 45</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_cacheresource_keyvaluestore.php at line 45</div>
 <h3 id="timestamps">timestamps</h3>
 ```php
 protected  array **$timestamps** = array()```
@@ -166,8 +166,7 @@ protected  array **$timestamps** = array()```
 - - -
 
 <h2 id="detail_method">Method Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_cacheresource_keyvaluestore.php.md#line54" class="location">framework\libs\smarty\sysplugins\smarty_cacheresource_keyvaluestore.php at line 54</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_cacheresource_keyvaluestore.php at line 54</div>
 <h3 id="populate()">populate</h3>
 ```php
 public  void **populate**(<a href="../smarty/smarty_template_cached.html">Smarty_Template_Cached</a> cached, <a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> _template)```
@@ -181,8 +180,7 @@ public  void **populate**(<a href="../smarty/smarty_template_cached.html">Smarty
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_cacheresource_keyvaluestore.php.md#line70" class="location">framework\libs\smarty\sysplugins\smarty_cacheresource_keyvaluestore.php at line 70</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_cacheresource_keyvaluestore.php at line 70</div>
 <h3 id="populateTimestamp()">populateTimestamp</h3>
 ```php
 public  void **populateTimestamp**(<a href="../smarty/smarty_template_cached.html">Smarty_Template_Cached</a> cached, <a href="../smarty/smarty_template_cached.html">Smarty_Template_Cached</a> source)```
@@ -195,8 +193,7 @@ public  void **populateTimestamp**(<a href="../smarty/smarty_template_cached.htm
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_cacheresource_keyvaluestore.php.md#line87" class="location">framework\libs\smarty\sysplugins\smarty_cacheresource_keyvaluestore.php at line 87</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_cacheresource_keyvaluestore.php at line 87</div>
 <h3 id="process()">process</h3>
 ```php
 public  booelan **process**(<a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> _template, <a href="../smarty/smarty_template_cached.html">Smarty_Template_Cached</a> cached)```
@@ -212,8 +209,7 @@ public  booelan **process**(<a href="../smarty/smarty_internal_template.html">Sm
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_cacheresource_keyvaluestore.php.md#line114" class="location">framework\libs\smarty\sysplugins\smarty_cacheresource_keyvaluestore.php at line 114</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_cacheresource_keyvaluestore.php at line 114</div>
 <h3 id="writeCachedContent()">writeCachedContent</h3>
 ```php
 public  boolean **writeCachedContent**(<a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> _template, string content)```
@@ -229,8 +225,7 @@ public  boolean **writeCachedContent**(<a href="../smarty/smarty_internal_templa
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_cacheresource_keyvaluestore.php.md#line131" class="location">framework\libs\smarty\sysplugins\smarty_cacheresource_keyvaluestore.php at line 131</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_cacheresource_keyvaluestore.php at line 131</div>
 <h3 id="clearAll()">clearAll</h3>
 ```php
 public  integer **clearAll**(<a href="../smarty/smarty.html">Smarty</a> smarty, integer exp_time)```
@@ -249,8 +244,7 @@ public  integer **clearAll**(<a href="../smarty/smarty.html">Smarty</a> smarty, 
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_cacheresource_keyvaluestore.php.md#line154" class="location">framework\libs\smarty\sysplugins\smarty_cacheresource_keyvaluestore.php at line 154</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_cacheresource_keyvaluestore.php at line 154</div>
 <h3 id="clear()">clear</h3>
 ```php
 public  integer **clear**(<a href="../smarty/smarty.html">Smarty</a> smarty, string resource_name, string cache_id, string compile_id, integer exp_time)```
@@ -273,8 +267,7 @@ public  integer **clear**(<a href="../smarty/smarty.html">Smarty</a> smarty, str
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_cacheresource_keyvaluestore.php.md#line171" class="location">framework\libs\smarty\sysplugins\smarty_cacheresource_keyvaluestore.php at line 171</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_cacheresource_keyvaluestore.php at line 171</div>
 <h3 id="getTemplateUid()">getTemplateUid</h3>
 ```php
 protected  string **getTemplateUid**(<a href="../smarty/smarty.html">Smarty</a> smarty, string resource_name, string cache_id, string compile_id)```
@@ -292,8 +285,7 @@ protected  string **getTemplateUid**(<a href="../smarty/smarty.html">Smarty</a> 
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_cacheresource_keyvaluestore.php.md#line200" class="location">framework\libs\smarty\sysplugins\smarty_cacheresource_keyvaluestore.php at line 200</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_cacheresource_keyvaluestore.php at line 200</div>
 <h3 id="sanitize()">sanitize</h3>
 ```php
 protected  string **sanitize**(string string)```
@@ -308,8 +300,7 @@ protected  string **sanitize**(string string)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_cacheresource_keyvaluestore.php.md#line222" class="location">framework\libs\smarty\sysplugins\smarty_cacheresource_keyvaluestore.php at line 222</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_cacheresource_keyvaluestore.php at line 222</div>
 <h3 id="fetch()">fetch</h3>
 ```php
 protected  boolean **fetch**(string cid, string resource_name, string cache_id, string compile_id, string content, integer &$timestamp, string resource_uid, mixed timestamp)```
@@ -330,8 +321,7 @@ protected  boolean **fetch**(string cid, string resource_name, string cache_id, 
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_cacheresource_keyvaluestore.php.md#line246" class="location">framework\libs\smarty\sysplugins\smarty_cacheresource_keyvaluestore.php at line 246</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_cacheresource_keyvaluestore.php at line 246</div>
 <h3 id="addMetaTimestamp()">addMetaTimestamp</h3>
 ```php
 protected  void **addMetaTimestamp**(string &$content, mixed content)```
@@ -344,8 +334,7 @@ protected  void **addMetaTimestamp**(string &$content, mixed content)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_cacheresource_keyvaluestore.php.md#line259" class="location">framework\libs\smarty\sysplugins\smarty_cacheresource_keyvaluestore.php at line 259</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_cacheresource_keyvaluestore.php at line 259</div>
 <h3 id="getMetaTimestamp()">getMetaTimestamp</h3>
 ```php
 protected  float **getMetaTimestamp**(string &$content, mixed content)```
@@ -360,8 +349,7 @@ protected  float **getMetaTimestamp**(string &$content, mixed content)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_cacheresource_keyvaluestore.php.md#line277" class="location">framework\libs\smarty\sysplugins\smarty_cacheresource_keyvaluestore.php at line 277</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_cacheresource_keyvaluestore.php at line 277</div>
 <h3 id="invalidate()">invalidate</h3>
 ```php
 protected  void **invalidate**(string cid, string resource_name, string cache_id, string compile_id, string resource_uid)```
@@ -378,8 +366,7 @@ protected  void **invalidate**(string cid, string resource_name, string cache_id
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_cacheresource_keyvaluestore.php.md#line314" class="location">framework\libs\smarty\sysplugins\smarty_cacheresource_keyvaluestore.php at line 314</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_cacheresource_keyvaluestore.php at line 314</div>
 <h3 id="getLatestInvalidationTimestamp()">getLatestInvalidationTimestamp</h3>
 ```php
 protected  float **getLatestInvalidationTimestamp**(string cid, string resource_name, string cache_id, string compile_id, string resource_uid)```
@@ -398,8 +385,7 @@ protected  float **getLatestInvalidationTimestamp**(string cid, string resource_
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_cacheresource_keyvaluestore.php.md#line347" class="location">framework\libs\smarty\sysplugins\smarty_cacheresource_keyvaluestore.php at line 347</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_cacheresource_keyvaluestore.php at line 347</div>
 <h3 id="listInvalidationKeys()">listInvalidationKeys</h3>
 ```php
 protected  array **listInvalidationKeys**(string cid, string resource_name, string cache_id, string compile_id, string resource_uid)```
@@ -420,8 +406,7 @@ protected  array **listInvalidationKeys**(string cid, string resource_name, stri
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_cacheresource_keyvaluestore.php.md#line393" class="location">framework\libs\smarty\sysplugins\smarty_cacheresource_keyvaluestore.php at line 393</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_cacheresource_keyvaluestore.php at line 393</div>
 <h3 id="hasLock()">hasLock</h3>
 ```php
 public  booelan **hasLock**(<a href="../smarty/smarty.html">Smarty</a> smarty, <a href="../smarty/smarty_template_cached.html">Smarty_Template_Cached</a> cached)```
@@ -437,8 +422,7 @@ public  booelan **hasLock**(<a href="../smarty/smarty.html">Smarty</a> smarty, <
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_cacheresource_keyvaluestore.php.md#line406" class="location">framework\libs\smarty\sysplugins\smarty_cacheresource_keyvaluestore.php at line 406</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_cacheresource_keyvaluestore.php at line 406</div>
 <h3 id="acquireLock()">acquireLock</h3>
 ```php
 public  void **acquireLock**(<a href="../smarty/smarty.html">Smarty</a> smarty, <a href="../smarty/smarty_template_cached.html">Smarty_Template_Cached</a> cached)```
@@ -452,8 +436,7 @@ public  void **acquireLock**(<a href="../smarty/smarty.html">Smarty</a> smarty, 
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_cacheresource_keyvaluestore.php.md#line419" class="location">framework\libs\smarty\sysplugins\smarty_cacheresource_keyvaluestore.php at line 419</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_cacheresource_keyvaluestore.php at line 419</div>
 <h3 id="releaseLock()">releaseLock</h3>
 ```php
 public  void **releaseLock**(<a href="../smarty/smarty.html">Smarty</a> smarty, <a href="../smarty/smarty_template_cached.html">Smarty_Template_Cached</a> cached)```
@@ -467,8 +450,7 @@ public  void **releaseLock**(<a href="../smarty/smarty.html">Smarty</a> smarty, 
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_cacheresource_keyvaluestore.php.md#line432" class="location">framework\libs\smarty\sysplugins\smarty_cacheresource_keyvaluestore.php at line 432</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_cacheresource_keyvaluestore.php at line 432</div>
 <h3 id="read()">read</h3>
 ```php
 protected abstract  array **read**(array keys)```
@@ -483,8 +465,7 @@ protected abstract  array **read**(array keys)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_cacheresource_keyvaluestore.php.md#line441" class="location">framework\libs\smarty\sysplugins\smarty_cacheresource_keyvaluestore.php at line 441</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_cacheresource_keyvaluestore.php at line 441</div>
 <h3 id="write()">write</h3>
 ```php
 protected abstract  boolean **write**(array keys, int expire)```
@@ -500,8 +481,7 @@ protected abstract  boolean **write**(array keys, int expire)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_cacheresource_keyvaluestore.php.md#line449" class="location">framework\libs\smarty\sysplugins\smarty_cacheresource_keyvaluestore.php at line 449</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_cacheresource_keyvaluestore.php at line 449</div>
 <h3 id="delete()">delete</h3>
 ```php
 protected abstract  boolean **delete**(array keys)```
@@ -516,8 +496,7 @@ protected abstract  boolean **delete**(array keys)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_cacheresource_keyvaluestore.php.md#line456" class="location">framework\libs\smarty\sysplugins\smarty_cacheresource_keyvaluestore.php at line 456</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_cacheresource_keyvaluestore.php at line 456</div>
 <h3 id="purge()">purge</h3>
 ```php
 protected  boolean **purge**()```

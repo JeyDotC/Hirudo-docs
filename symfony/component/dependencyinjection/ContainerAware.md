@@ -1,11 +1,11 @@
 - - -
 
 **Symfony\Component\DependencyInjection\ContainerAware**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ContainerAware.php.md#line21" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerAware.php at line 21</a>
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerAware.php at line 21</div>
+#Class ContainerAware#
 
-# Class ContainerAware #
+**ContainerAware**
 
-<pre class="tree">** ContainerAware **\n</pre>
 
 <dl>
 <dt>All Known Subclasses:</dt>
@@ -37,13 +37,12 @@
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#setContainer()">setContainer</a>(<a href="../../../symfony/component/dependencyinjection/containerinterface.html">ContainerInterface</a> container)</p><p class="description">Sets the Container associated with this Controller.</p></td>
+<td class="description"><p class="name"><a href="#setContainer">setContainer</a>(<a href="../../../symfony/component/dependencyinjection/containerinterface.html">ContainerInterface</a> container)</p><p class="description">Sets the Container associated with this Controller.</p></td>
 </tr>
 </table>
 
 ##Field Detail##
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ContainerAware.php.md#line28" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerAware.php at line 28</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerAware.php at line 28</div>
 <h3 id="container">container</h3>
 ```php
 protected  <a href="../../../symfony/component/dependencyinjection/containerinterface.html">ContainerInterface</a> **$container** = EXCEPTION_ON_INVALID_REFERENCE```
@@ -56,8 +55,7 @@ protected  <a href="../../../symfony/component/dependencyinjection/containerinte
 - - -
 
 <h2 id="detail_method">Method Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ContainerAware.php.md#line37" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerAware.php at line 37</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerAware.php at line 37</div>
 <h3 id="setContainer()">setContainer</h3>
 ```php
 public  void **setContainer**(<a href="../../../symfony/component/dependencyinjection/containerinterface.html">ContainerInterface</a> container)```

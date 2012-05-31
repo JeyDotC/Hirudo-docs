@@ -1,11 +1,11 @@
 - - -
 
 **Doctrine\Common\Annotations\AnnotationReader**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/doctrine-common/Doctrine/Common/Annotations/AnnotationReader.php.md#line39" class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\AnnotationReader.php at line 39</a>
+<div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\AnnotationReader.php at line 39</div>
+#Class AnnotationReader#
 
-# Class AnnotationReader #
+**AnnotationReader**
 
-<pre class="tree">** AnnotationReader **\n</pre>
 
 - - -
 
@@ -27,7 +27,7 @@
 <tr><th colspan="2">Constructor Summary</th></tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#__construct()">__construct</a>()</p><p class="description">Constructor.
+<td class="description"><p class="name"><a href="#__construct">__construct</a>()</p><p class="description">Constructor.
 </p></td>
 </tr>
 </table>
@@ -36,37 +36,36 @@
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td class="type">static  void</td>
-<td class="description"><p class="name"><a href="#addGlobalIgnoredName()">addGlobalIgnoredName</a>(string name)</p><p class="description">Add a new annotation to the globally ignored annotation names with regard to exception handling.</p></td>
+<td class="description"><p class="name"><a href="#addGlobalIgnoredName">addGlobalIgnoredName</a>(string name)</p><p class="description">Add a new annotation to the globally ignored annotation names with regard to exception handling.</p></td>
 </tr>
 <tr>
 <td class="type"> array</td>
-<td class="description"><p class="name"><a href="#getClassAnnotations()">getClassAnnotations</a>(ReflectionClass class)</p><p class="description">Gets the annotations applied to a class.</p></td>
+<td class="description"><p class="name"><a href="#getClassAnnotations">getClassAnnotations</a>(ReflectionClass class)</p><p class="description">Gets the annotations applied to a class.</p></td>
 </tr>
 <tr>
 <td class="type"> The</td>
-<td class="description"><p class="name"><a href="#getClassAnnotation()">getClassAnnotation</a>(ReflectionClass class, string annotationName)</p><p class="description">Gets a class annotation.</p></td>
+<td class="description"><p class="name"><a href="#getClassAnnotation">getClassAnnotation</a>(ReflectionClass class, string annotationName)</p><p class="description">Gets a class annotation.</p></td>
 </tr>
 <tr>
 <td class="type"> array</td>
-<td class="description"><p class="name"><a href="#getPropertyAnnotations()">getPropertyAnnotations</a>(ReflectionProperty property)</p><p class="description">Gets the annotations applied to a property.</p></td>
+<td class="description"><p class="name"><a href="#getPropertyAnnotations">getPropertyAnnotations</a>(ReflectionProperty property)</p><p class="description">Gets the annotations applied to a property.</p></td>
 </tr>
 <tr>
 <td class="type"> The</td>
-<td class="description"><p class="name"><a href="#getPropertyAnnotation()">getPropertyAnnotation</a>(ReflectionProperty property, string annotationName)</p><p class="description">Gets a property annotation.</p></td>
+<td class="description"><p class="name"><a href="#getPropertyAnnotation">getPropertyAnnotation</a>(ReflectionProperty property, string annotationName)</p><p class="description">Gets a property annotation.</p></td>
 </tr>
 <tr>
 <td class="type"> array</td>
-<td class="description"><p class="name"><a href="#getMethodAnnotations()">getMethodAnnotations</a>(ReflectionMethod property, ReflectionMethod method)</p><p class="description">Gets the annotations applied to a method.</p></td>
+<td class="description"><p class="name"><a href="#getMethodAnnotations">getMethodAnnotations</a>(ReflectionMethod property, ReflectionMethod method)</p><p class="description">Gets the annotations applied to a method.</p></td>
 </tr>
 <tr>
 <td class="type"> The</td>
-<td class="description"><p class="name"><a href="#getMethodAnnotation()">getMethodAnnotation</a>(ReflectionMethod method, string annotationName)</p><p class="description">Gets a method annotation.</p></td>
+<td class="description"><p class="name"><a href="#getMethodAnnotation">getMethodAnnotation</a>(ReflectionMethod method, string annotationName)</p><p class="description">Gets a method annotation.</p></td>
 </tr>
 </table>
 
 <h2 id="detail_method">Constructor Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/doctrine-common/Doctrine/Common/Annotations/AnnotationReader.php.md#line106" class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\AnnotationReader.php at line 106</a>
-
+<div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\AnnotationReader.php at line 106</div>
 <h3 id="__construct()">__construct</h3>
 ```php
 public  void **__construct**()```
@@ -76,8 +75,7 @@ public  void **__construct**()```
 - - -
 
 <h2 id="detail_method">Method Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/doctrine-common/Doctrine/Common/Annotations/AnnotationReader.php.md#line62" class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\AnnotationReader.php at line 62</a>
-
+<div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\AnnotationReader.php at line 62</div>
 <h3 id="addGlobalIgnoredName()">addGlobalIgnoredName</h3>
 ```php
 public static  void **addGlobalIgnoredName**(string name)```
@@ -86,8 +84,7 @@ public static  void **addGlobalIgnoredName**(string name)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/doctrine-common/Doctrine/Common/Annotations/AnnotationReader.php.md#line125" class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\AnnotationReader.php at line 125</a>
-
+<div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\AnnotationReader.php at line 125</div>
 <h3 id="getClassAnnotations()">getClassAnnotations</h3>
 ```php
 public  array **getClassAnnotations**(ReflectionClass class)```
@@ -102,8 +99,7 @@ public  array **getClassAnnotations**(ReflectionClass class)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/doctrine-common/Doctrine/Common/Annotations/AnnotationReader.php.md#line141" class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\AnnotationReader.php at line 141</a>
-
+<div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\AnnotationReader.php at line 141</div>
 <h3 id="getClassAnnotation()">getClassAnnotation</h3>
 ```php
 public  The **getClassAnnotation**(ReflectionClass class, string annotationName)```
@@ -119,8 +115,7 @@ public  The **getClassAnnotation**(ReflectionClass class, string annotationName)
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/doctrine-common/Doctrine/Common/Annotations/AnnotationReader.php.md#line160" class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\AnnotationReader.php at line 160</a>
-
+<div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\AnnotationReader.php at line 160</div>
 <h3 id="getPropertyAnnotations()">getPropertyAnnotations</h3>
 ```php
 public  array **getPropertyAnnotations**(ReflectionProperty property)```
@@ -135,8 +130,7 @@ public  array **getPropertyAnnotations**(ReflectionProperty property)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/doctrine-common/Doctrine/Common/Annotations/AnnotationReader.php.md#line177" class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\AnnotationReader.php at line 177</a>
-
+<div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\AnnotationReader.php at line 177</div>
 <h3 id="getPropertyAnnotation()">getPropertyAnnotation</h3>
 ```php
 public  The **getPropertyAnnotation**(ReflectionProperty property, string annotationName)```
@@ -152,8 +146,7 @@ public  The **getPropertyAnnotation**(ReflectionProperty property, string annota
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/doctrine-common/Doctrine/Common/Annotations/AnnotationReader.php.md#line196" class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\AnnotationReader.php at line 196</a>
-
+<div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\AnnotationReader.php at line 196</div>
 <h3 id="getMethodAnnotations()">getMethodAnnotations</h3>
 ```php
 public  array **getMethodAnnotations**(ReflectionMethod property, ReflectionMethod method)```
@@ -168,8 +161,7 @@ public  array **getMethodAnnotations**(ReflectionMethod property, ReflectionMeth
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/doctrine-common/Doctrine/Common/Annotations/AnnotationReader.php.md#line213" class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\AnnotationReader.php at line 213</a>
-
+<div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\AnnotationReader.php at line 213</div>
 <h3 id="getMethodAnnotation()">getMethodAnnotation</h3>
 ```php
 public  The **getMethodAnnotation**(ReflectionMethod method, string annotationName)```

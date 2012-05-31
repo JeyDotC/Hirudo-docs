@@ -1,11 +1,11 @@
 - - -
 
 **Doctrine\Common\Annotations\Reader**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/doctrine-common/Doctrine/Common/Annotations/Reader.php.md#line27" class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\Reader.php at line 27</a>
+<div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\Reader.php at line 27</div>
+#Interface Reader#
 
-# Interface Reader #
+**Reader**
 
-<pre class="tree">** Reader **\n</pre>
 
 - - -
 
@@ -23,33 +23,32 @@
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#getClassAnnotations()">getClassAnnotations</a>(ReflectionClass class)</p></td>
+<td class="description"><p class="name"><a href="#getClassAnnotations">getClassAnnotations</a>(ReflectionClass class)</p></td>
 </tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#getClassAnnotation()">getClassAnnotation</a>(ReflectionClass class, mixed annotationName)</p></td>
+<td class="description"><p class="name"><a href="#getClassAnnotation">getClassAnnotation</a>(ReflectionClass class, mixed annotationName)</p></td>
 </tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#getMethodAnnotations()">getMethodAnnotations</a>(ReflectionMethod method)</p></td>
+<td class="description"><p class="name"><a href="#getMethodAnnotations">getMethodAnnotations</a>(ReflectionMethod method)</p></td>
 </tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#getMethodAnnotation()">getMethodAnnotation</a>(ReflectionMethod method, mixed annotationName)</p></td>
+<td class="description"><p class="name"><a href="#getMethodAnnotation">getMethodAnnotation</a>(ReflectionMethod method, mixed annotationName)</p></td>
 </tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#getPropertyAnnotations()">getPropertyAnnotations</a>(ReflectionProperty property)</p></td>
+<td class="description"><p class="name"><a href="#getPropertyAnnotations">getPropertyAnnotations</a>(ReflectionProperty property)</p></td>
 </tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#getPropertyAnnotation()">getPropertyAnnotation</a>(ReflectionProperty property, mixed annotationName)</p></td>
+<td class="description"><p class="name"><a href="#getPropertyAnnotation">getPropertyAnnotation</a>(ReflectionProperty property, mixed annotationName)</p></td>
 </tr>
 </table>
 
 <h2 id="detail_method">Method Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/doctrine-common/Doctrine/Common/Annotations/Reader.php.md#line29" class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\Reader.php at line 29</a>
-
+<div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\Reader.php at line 29</div>
 <h3 id="getClassAnnotations()">getClassAnnotations</h3>
 ```php
 public  void **getClassAnnotations**(ReflectionClass class)```
@@ -58,8 +57,7 @@ public  void **getClassAnnotations**(ReflectionClass class)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/doctrine-common/Doctrine/Common/Annotations/Reader.php.md#line30" class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\Reader.php at line 30</a>
-
+<div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\Reader.php at line 30</div>
 <h3 id="getClassAnnotation()">getClassAnnotation</h3>
 ```php
 public  void **getClassAnnotation**(ReflectionClass class, mixed annotationName)```
@@ -68,8 +66,7 @@ public  void **getClassAnnotation**(ReflectionClass class, mixed annotationName)
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/doctrine-common/Doctrine/Common/Annotations/Reader.php.md#line31" class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\Reader.php at line 31</a>
-
+<div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\Reader.php at line 31</div>
 <h3 id="getMethodAnnotations()">getMethodAnnotations</h3>
 ```php
 public  void **getMethodAnnotations**(ReflectionMethod method)```
@@ -78,8 +75,7 @@ public  void **getMethodAnnotations**(ReflectionMethod method)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/doctrine-common/Doctrine/Common/Annotations/Reader.php.md#line32" class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\Reader.php at line 32</a>
-
+<div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\Reader.php at line 32</div>
 <h3 id="getMethodAnnotation()">getMethodAnnotation</h3>
 ```php
 public  void **getMethodAnnotation**(ReflectionMethod method, mixed annotationName)```
@@ -88,8 +84,7 @@ public  void **getMethodAnnotation**(ReflectionMethod method, mixed annotationNa
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/doctrine-common/Doctrine/Common/Annotations/Reader.php.md#line33" class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\Reader.php at line 33</a>
-
+<div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\Reader.php at line 33</div>
 <h3 id="getPropertyAnnotations()">getPropertyAnnotations</h3>
 ```php
 public  void **getPropertyAnnotations**(ReflectionProperty property)```
@@ -98,8 +93,7 @@ public  void **getPropertyAnnotations**(ReflectionProperty property)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/doctrine-common/Doctrine/Common/Annotations/Reader.php.md#line34" class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\Reader.php at line 34</a>
-
+<div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\Reader.php at line 34</div>
 <h3 id="getPropertyAnnotation()">getPropertyAnnotation</h3>
 ```php
 public  void **getPropertyAnnotation**(ReflectionProperty property, mixed annotationName)```

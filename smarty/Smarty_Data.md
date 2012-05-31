@@ -1,15 +1,17 @@
 - - -
 
 **Smarty\Smarty_Data**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_data.php.md#line426" class="location">framework\libs\smarty\sysplugins\smarty_internal_data.php at line 426</a>
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_data.php at line 426</div>
+#Class Smarty_Data#
 
-# Class Smarty_Data #
+<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_data.html">Smarty_Internal_Data</a>
+    ***Smarty_Data**
 
-<pre class="tree"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_data.html">Smarty_Internal_Data</a>\n    *** Smarty_Data **\n</pre>
 
 - - -
 
-<p class="signature">public  class **Smarty_Data**\nextends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_data.html">Smarty_Internal_Data</a>
+<p class="signature">public  class **Smarty_Data**
+extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_data.html">Smarty_Internal_Data</a>
 
 </p>
 
@@ -37,7 +39,7 @@
 <tr><th colspan="2">Constructor Summary</th></tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#__construct()">__construct</a>(Smarty|array _parent, <a href="../smarty/smarty.html">Smarty</a> smarty)</p><p class="description">create Smarty data object</p></td>
+<td class="description"><p class="name"><a href="#__construct">__construct</a>(Smarty|array _parent, <a href="../smarty/smarty.html">Smarty</a> smarty)</p><p class="description">create Smarty data object</p></td>
 </tr>
 </table>
 
@@ -46,8 +48,7 @@
 <tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_data.html#append()">append</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_data.html#appendByRef()">appendByRef</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_data.html#assign()">assign</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_data.html#assignByRef()">assignByRef</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_data.html#assignGlobal()">assignGlobal</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_data.html#clearAllAssign()">clearAllAssign</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_data.html#clearAssign()">clearAssign</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_data.html#clearConfig()">clearConfig</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_data.html#configLoad()">configLoad</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_data.html#getConfigVariable()">getConfigVariable</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_data.html#getConfigVars()">getConfigVars</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_data.html#getStreamVariable()">getStreamVariable</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_data.html#getTemplateVars()">getTemplateVars</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_data.html#getVariable()">getVariable</a></td></tr></table>
 
 ##Field Detail##
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_data.php.md#line433" class="location">framework\libs\smarty\sysplugins\smarty_internal_data.php at line 433</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_data.php at line 433</div>
 <h3 id="smarty">smarty</h3>
 ```php
 public  <a href="../smarty/smarty.html">Smarty</a> **$smarty** = null```
@@ -57,8 +58,7 @@ public  <a href="../smarty/smarty.html">Smarty</a> **$smarty** = null```
 - - -
 
 <h2 id="detail_method">Constructor Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_data.php.md#line441" class="location">framework\libs\smarty\sysplugins\smarty_internal_data.php at line 441</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_data.php at line 441</div>
 <h3 id="__construct()">__construct</h3>
 ```php
 public  void **__construct**(Smarty|array _parent, <a href="../smarty/smarty.html">Smarty</a> smarty)```

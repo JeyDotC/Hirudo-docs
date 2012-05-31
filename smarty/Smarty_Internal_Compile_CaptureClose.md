@@ -1,15 +1,17 @@
 - - -
 
 **Smarty\Smarty_Internal_Compile_CaptureClose**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_compile_capture.php.md#line67" class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_capture.php at line 67</a>
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_capture.php at line 67</div>
+#Class Smarty_Internal_Compile_CaptureClose#
 
-# Class Smarty_Internal_Compile_CaptureClose #
+<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_compilebase.html">Smarty_Internal_CompileBase</a>
+    ***Smarty_Internal_Compile_CaptureClose**
 
-<pre class="tree"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_compilebase.html">Smarty_Internal_CompileBase</a>\n    *** Smarty_Internal_Compile_CaptureClose **\n</pre>
 
 - - -
 
-<p class="signature">public  class **Smarty_Internal_Compile_CaptureClose**\nextends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_compilebase.html">Smarty_Internal_CompileBase</a>
+<p class="signature">public  class **Smarty_Internal_Compile_CaptureClose**
+extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_compilebase.html">Smarty_Internal_CompileBase</a>
 
 </p>
 
@@ -29,7 +31,7 @@
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td class="type"> string</td>
-<td class="description"><p class="name"><a href="#compile()">compile</a>(array args, object compiler)</p><p class="description">Compiles code for the {/capture} tag</p></td>
+<td class="description"><p class="name"><a href="#compile">compile</a>(array args, object compiler)</p><p class="description">Compiles code for the {/capture} tag</p></td>
 </tr>
 </table>
 
@@ -38,8 +40,7 @@
 <tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_compilebase.html#closeTag()">closeTag</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_compilebase.html#getAttributes()">getAttributes</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_compilebase.html#openTag()">openTag</a></td></tr></table>
 
 <h2 id="detail_method">Method Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_compile_capture.php.md#line76" class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_capture.php at line 76</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_capture.php at line 76</div>
 <h3 id="compile()">compile</h3>
 ```php
 public  string **compile**(array args, object compiler)```

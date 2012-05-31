@@ -1,11 +1,11 @@
 - - -
 
 **Smarty\Smarty_Template_Compiled**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_resource.php.md#line765" class="location">framework\libs\smarty\sysplugins\smarty_resource.php at line 765</a>
+<div class="location">framework\libs\smarty\sysplugins\smarty_resource.php at line 765</div>
+#Class Smarty_Template_Compiled#
 
-# Class Smarty_Template_Compiled #
+**Smarty_Template_Compiled**
 
-<pre class="tree">** Smarty_Template_Compiled **\n</pre>
 
 - - -
 
@@ -59,13 +59,12 @@
 <tr><th colspan="2">Constructor Summary</th></tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#__construct()">__construct</a>(<a href="../smarty/smarty_template_source.html">Smarty_Template_Source</a> source)</p><p class="description">create Compiled Object container</p></td>
+<td class="description"><p class="name"><a href="#__construct">__construct</a>(<a href="../smarty/smarty_template_source.html">Smarty_Template_Source</a> source)</p><p class="description">create Compiled Object container</p></td>
 </tr>
 </table>
 
 ##Field Detail##
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_resource.php.md#line809" class="location">framework\libs\smarty\sysplugins\smarty_resource.php at line 809</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_resource.php at line 809</div>
 <h3 id="_properties">_properties</h3>
 ```php
 public  array **$_properties** = null```
@@ -74,8 +73,7 @@ public  array **$_properties** = null```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_resource.php.md#line783" class="location">framework\libs\smarty\sysplugins\smarty_resource.php at line 783</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_resource.php at line 783</div>
 <h3 id="exists">exists</h3>
 ```php
 public  boolean **$exists** = false```
@@ -84,8 +82,7 @@ public  boolean **$exists** = false```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_resource.php.md#line771" class="location">framework\libs\smarty\sysplugins\smarty_resource.php at line 771</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_resource.php at line 771</div>
 <h3 id="filepath">filepath</h3>
 ```php
 public  string **$filepath** = null```
@@ -94,8 +91,7 @@ public  string **$filepath** = null```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_resource.php.md#line795" class="location">framework\libs\smarty\sysplugins\smarty_resource.php at line 795</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_resource.php at line 795</div>
 <h3 id="isCompiled">isCompiled</h3>
 ```php
 public  boolean **$isCompiled** = false```
@@ -104,8 +100,7 @@ public  boolean **$isCompiled** = false```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_resource.php.md#line789" class="location">framework\libs\smarty\sysplugins\smarty_resource.php at line 789</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_resource.php at line 789</div>
 <h3 id="loaded">loaded</h3>
 ```php
 public  boolean **$loaded** = false```
@@ -114,8 +109,7 @@ public  boolean **$loaded** = false```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_resource.php.md#line801" class="location">framework\libs\smarty\sysplugins\smarty_resource.php at line 801</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_resource.php at line 801</div>
 <h3 id="source">source</h3>
 ```php
 public  <a href="../smarty/smarty_template_source.html">Smarty_Template_Source</a> **$source** = null```
@@ -124,8 +118,7 @@ public  <a href="../smarty/smarty_template_source.html">Smarty_Template_Source</
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_resource.php.md#line777" class="location">framework\libs\smarty\sysplugins\smarty_resource.php at line 777</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_resource.php at line 777</div>
 <h3 id="timestamp">timestamp</h3>
 ```php
 public  integer **$timestamp** = null```
@@ -135,8 +128,7 @@ public  integer **$timestamp** = null```
 - - -
 
 <h2 id="detail_method">Constructor Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_resource.php.md#line816" class="location">framework\libs\smarty\sysplugins\smarty_resource.php at line 816</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_resource.php at line 816</div>
 <h3 id="__construct()">__construct</h3>
 ```php
 public  void **__construct**(<a href="../smarty/smarty_template_source.html">Smarty_Template_Source</a> source)```

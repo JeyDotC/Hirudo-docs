@@ -1,11 +1,11 @@
 - - -
 
 **Symfony\Component\DependencyInjection\Reference**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Reference.php.md#line21" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Reference.php at line 21</a>
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Reference.php at line 21</div>
+#Class Reference#
 
-# Class Reference #
+**Reference**
 
-<pre class="tree">** Reference **\n</pre>
 
 - - -
 
@@ -24,7 +24,7 @@
 <tr><th colspan="2">Constructor Summary</th></tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#__construct()">__construct</a>(string id, int invalidBehavior, Boolean strict)</p><p class="description">Constructor.</p></td>
+<td class="description"><p class="name"><a href="#__construct">__construct</a>(string id, int invalidBehavior, Boolean strict)</p><p class="description">Constructor.</p></td>
 </tr>
 </table>
 
@@ -32,17 +32,16 @@
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td class="type"> int</td>
-<td class="description"><p class="name"><a href="#getInvalidBehavior()">getInvalidBehavior</a>()</p><p class="description">Returns the behavior to be used when the service does not exist.</p></td>
+<td class="description"><p class="name"><a href="#getInvalidBehavior">getInvalidBehavior</a>()</p><p class="description">Returns the behavior to be used when the service does not exist.</p></td>
 </tr>
 <tr>
 <td class="type"> Boolean</td>
-<td class="description"><p class="name"><a href="#isStrict()">isStrict</a>()</p><p class="description">Returns true when this Reference is strict</p></td>
+<td class="description"><p class="name"><a href="#isStrict">isStrict</a>()</p><p class="description">Returns true when this Reference is strict</p></td>
 </tr>
 </table>
 
 <h2 id="detail_method">Constructor Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Reference.php.md#line36" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Reference.php at line 36</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Reference.php at line 36</div>
 <h3 id="__construct()">__construct</h3>
 ```php
 public  void **__construct**(string id, int invalidBehavior, Boolean strict)```
@@ -60,8 +59,7 @@ public  void **__construct**(string id, int invalidBehavior, Boolean strict)```
 - - -
 
 <h2 id="detail_method">Method Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Reference.php.md#line58" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Reference.php at line 58</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Reference.php at line 58</div>
 <h3 id="getInvalidBehavior()">getInvalidBehavior</h3>
 ```php
 public  int **getInvalidBehavior**()```
@@ -70,8 +68,7 @@ public  int **getInvalidBehavior**()```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Reference.php.md#line68" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Reference.php at line 68</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Reference.php at line 68</div>
 <h3 id="isStrict()">isStrict</h3>
 ```php
 public  Boolean **isStrict**()```

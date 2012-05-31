@@ -1,11 +1,11 @@
 - - -
 
 **Symfony\Component\Yaml\Inline**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/Yaml/Inline.php.md#line21" class="location">framework\libs\symfony-components\Symfony\Component\Yaml\Inline.php at line 21</a>
+<div class="location">framework\libs\symfony-components\Symfony\Component\Yaml\Inline.php at line 21</div>
+#Class Inline#
 
-# Class Inline #
+**Inline**
 
-<pre class="tree">** Inline **\n</pre>
 
 - - -
 

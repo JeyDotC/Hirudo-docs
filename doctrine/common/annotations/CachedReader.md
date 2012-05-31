@@ -1,11 +1,11 @@
 - - -
 
 **Doctrine\Common\Annotations\CachedReader**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/doctrine-common/Doctrine/Common/Annotations/CachedReader.php.md#line30" class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\CachedReader.php at line 30</a>
+<div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\CachedReader.php at line 30</div>
+#Class CachedReader#
 
-# Class CachedReader #
+**CachedReader**
 
-<pre class="tree">** CachedReader **\n</pre>
 
 - - -
 
@@ -24,7 +24,7 @@
 <tr><th colspan="2">Constructor Summary</th></tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#__construct()">__construct</a>(<a href="../../../doctrine/common/annotations/reader.html">Reader</a> reader, <a href="../../../doctrine/common/cache/cache.html">Cache</a> cache, bool debug)</p><p class="description"></p></td>
+<td class="description"><p class="name"><a href="#__construct">__construct</a>(<a href="../../../doctrine/common/annotations/reader.html">Reader</a> reader, <a href="../../../doctrine/common/cache/cache.html">Cache</a> cache, bool debug)</p><p class="description"></p></td>
 </tr>
 </table>
 
@@ -32,37 +32,36 @@
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#getClassAnnotations()">getClassAnnotations</a>(ReflectionClass class)</p></td>
+<td class="description"><p class="name"><a href="#getClassAnnotations">getClassAnnotations</a>(ReflectionClass class)</p></td>
 </tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#getClassAnnotation()">getClassAnnotation</a>(ReflectionClass class, mixed annotationName)</p></td>
+<td class="description"><p class="name"><a href="#getClassAnnotation">getClassAnnotation</a>(ReflectionClass class, mixed annotationName)</p></td>
 </tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#getPropertyAnnotations()">getPropertyAnnotations</a>(ReflectionProperty property)</p></td>
+<td class="description"><p class="name"><a href="#getPropertyAnnotations">getPropertyAnnotations</a>(ReflectionProperty property)</p></td>
 </tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#getPropertyAnnotation()">getPropertyAnnotation</a>(ReflectionProperty property, mixed annotationName)</p></td>
+<td class="description"><p class="name"><a href="#getPropertyAnnotation">getPropertyAnnotation</a>(ReflectionProperty property, mixed annotationName)</p></td>
 </tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#getMethodAnnotations()">getMethodAnnotations</a>(ReflectionMethod method)</p></td>
+<td class="description"><p class="name"><a href="#getMethodAnnotations">getMethodAnnotations</a>(ReflectionMethod method)</p></td>
 </tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#getMethodAnnotation()">getMethodAnnotation</a>(ReflectionMethod method, mixed annotationName)</p></td>
+<td class="description"><p class="name"><a href="#getMethodAnnotation">getMethodAnnotation</a>(ReflectionMethod method, mixed annotationName)</p></td>
 </tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#clearLoadedAnnotations()">clearLoadedAnnotations</a>()</p></td>
+<td class="description"><p class="name"><a href="#clearLoadedAnnotations">clearLoadedAnnotations</a>()</p></td>
 </tr>
 </table>
 
 <h2 id="detail_method">Constructor Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/doctrine-common/Doctrine/Common/Annotations/CachedReader.php.md#line58" class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\CachedReader.php at line 58</a>
-
+<div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\CachedReader.php at line 58</div>
 <h3 id="__construct()">__construct</h3>
 ```php
 public  void **__construct**(<a href="../../../doctrine/common/annotations/reader.html">Reader</a> reader, <a href="../../../doctrine/common/cache/cache.html">Cache</a> cache, bool debug)```
@@ -72,8 +71,7 @@ public  void **__construct**(<a href="../../../doctrine/common/annotations/reade
 - - -
 
 <h2 id="detail_method">Method Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/doctrine-common/Doctrine/Common/Annotations/CachedReader.php.md#line65" class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\CachedReader.php at line 65</a>
-
+<div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\CachedReader.php at line 65</div>
 <h3 id="getClassAnnotations()">getClassAnnotations</h3>
 ```php
 public  void **getClassAnnotations**(ReflectionClass class)```
@@ -82,8 +80,7 @@ public  void **getClassAnnotations**(ReflectionClass class)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/doctrine-common/Doctrine/Common/Annotations/CachedReader.php.md#line81" class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\CachedReader.php at line 81</a>
-
+<div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\CachedReader.php at line 81</div>
 <h3 id="getClassAnnotation()">getClassAnnotation</h3>
 ```php
 public  void **getClassAnnotation**(ReflectionClass class, mixed annotationName)```
@@ -92,8 +89,7 @@ public  void **getClassAnnotation**(ReflectionClass class, mixed annotationName)
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/doctrine-common/Doctrine/Common/Annotations/CachedReader.php.md#line92" class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\CachedReader.php at line 92</a>
-
+<div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\CachedReader.php at line 92</div>
 <h3 id="getPropertyAnnotations()">getPropertyAnnotations</h3>
 ```php
 public  void **getPropertyAnnotations**(ReflectionProperty property)```
@@ -102,8 +98,7 @@ public  void **getPropertyAnnotations**(ReflectionProperty property)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/doctrine-common/Doctrine/Common/Annotations/CachedReader.php.md#line109" class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\CachedReader.php at line 109</a>
-
+<div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\CachedReader.php at line 109</div>
 <h3 id="getPropertyAnnotation()">getPropertyAnnotation</h3>
 ```php
 public  void **getPropertyAnnotation**(ReflectionProperty property, mixed annotationName)```
@@ -112,8 +107,7 @@ public  void **getPropertyAnnotation**(ReflectionProperty property, mixed annota
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/doctrine-common/Doctrine/Common/Annotations/CachedReader.php.md#line120" class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\CachedReader.php at line 120</a>
-
+<div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\CachedReader.php at line 120</div>
 <h3 id="getMethodAnnotations()">getMethodAnnotations</h3>
 ```php
 public  void **getMethodAnnotations**(ReflectionMethod method)```
@@ -122,8 +116,7 @@ public  void **getMethodAnnotations**(ReflectionMethod method)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/doctrine-common/Doctrine/Common/Annotations/CachedReader.php.md#line137" class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\CachedReader.php at line 137</a>
-
+<div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\CachedReader.php at line 137</div>
 <h3 id="getMethodAnnotation()">getMethodAnnotation</h3>
 ```php
 public  void **getMethodAnnotation**(ReflectionMethod method, mixed annotationName)```
@@ -132,8 +125,7 @@ public  void **getMethodAnnotation**(ReflectionMethod method, mixed annotationNa
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/doctrine-common/Doctrine/Common/Annotations/CachedReader.php.md#line148" class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\CachedReader.php at line 148</a>
-
+<div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\CachedReader.php at line 148</div>
 <h3 id="clearLoadedAnnotations()">clearLoadedAnnotations</h3>
 ```php
 public  void **clearLoadedAnnotations**()```

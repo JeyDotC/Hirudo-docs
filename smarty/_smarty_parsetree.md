@@ -1,11 +1,11 @@
 - - -
 
 **Smarty\_smarty_parsetree**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_parsetree.php.md#line18" class="location">framework\libs\smarty\sysplugins\smarty_internal_parsetree.php at line 18</a>
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_parsetree.php at line 18</div>
+#Class _smarty_parsetree#
 
-# Class _smarty_parsetree #
+**_smarty_parsetree**
 
-<pre class="tree">** _smarty_parsetree **\n</pre>
 
 <dl>
 <dt>All Known Subclasses:</dt>
@@ -41,13 +41,12 @@
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td class="type">abstract  string</td>
-<td class="description"><p class="name"><a href="#to_smarty_php()">to_smarty_php</a>()</p><p class="description">Return buffer</p></td>
+<td class="description"><p class="name"><a href="#to_smarty_php">to_smarty_php</a>()</p><p class="description">Return buffer</p></td>
 </tr>
 </table>
 
 ##Field Detail##
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_parsetree.php.md#line29" class="location">framework\libs\smarty\sysplugins\smarty_internal_parsetree.php at line 29</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_parsetree.php at line 29</div>
 <h3 id="data">data</h3>
 ```php
 public  mixed **$data**```
@@ -56,8 +55,7 @@ public  mixed **$data**```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_parsetree.php.md#line24" class="location">framework\libs\smarty\sysplugins\smarty_internal_parsetree.php at line 24</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_parsetree.php at line 24</div>
 <h3 id="parser">parser</h3>
 ```php
 public  object **$parser** = null```
@@ -67,8 +65,7 @@ public  object **$parser** = null```
 - - -
 
 <h2 id="detail_method">Method Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_parsetree.php.md#line36" class="location">framework\libs\smarty\sysplugins\smarty_internal_parsetree.php at line 36</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_parsetree.php at line 36</div>
 <h3 id="to_smarty_php()">to_smarty_php</h3>
 ```php
 public abstract  string **to_smarty_php**()```

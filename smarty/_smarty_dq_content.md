@@ -1,15 +1,17 @@
 - - -
 
 **Smarty\_smarty_dq_content**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_parsetree.php.md#line210" class="location">framework\libs\smarty\sysplugins\smarty_internal_parsetree.php at line 210</a>
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_parsetree.php at line 210</div>
+#Class _smarty_dq_content#
 
-# Class _smarty_dq_content #
+<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/_smarty_parsetree.html">_smarty_parsetree</a>
+    ***_smarty_dq_content**
 
-<pre class="tree"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/_smarty_parsetree.html">_smarty_parsetree</a>\n    *** _smarty_dq_content **\n</pre>
 
 - - -
 
-<p class="signature">public  class **_smarty_dq_content**\nextends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/_smarty_parsetree.html">_smarty_parsetree</a>
+<p class="signature">public  class **_smarty_dq_content**
+extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/_smarty_parsetree.html">_smarty_parsetree</a>
 
 </p>
 
@@ -30,7 +32,7 @@
 <tr><th colspan="2">Constructor Summary</th></tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#__construct()">__construct</a>(object parser, string data)</p><p class="description">Create parse tree buffer with string content</p></td>
+<td class="description"><p class="name"><a href="#__construct">__construct</a>(object parser, string data)</p><p class="description">Create parse tree buffer with string content</p></td>
 </tr>
 </table>
 
@@ -38,7 +40,7 @@
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td class="type"> string</td>
-<td class="description"><p class="name"><a href="#to_smarty_php()">to_smarty_php</a>()</p><p class="description">Return content as double quoted string</p></td>
+<td class="description"><p class="name"><a href="#to_smarty_php">to_smarty_php</a>()</p><p class="description">Return content as double quoted string</p></td>
 </tr>
 </table>
 
@@ -47,8 +49,7 @@
 <tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/_smarty_parsetree.html#to_smarty_php()">to_smarty_php</a></td></tr></table>
 
 <h2 id="detail_method">Constructor Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_parsetree.php.md#line219" class="location">framework\libs\smarty\sysplugins\smarty_internal_parsetree.php at line 219</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_parsetree.php at line 219</div>
 <h3 id="__construct()">__construct</h3>
 ```php
 public  void **__construct**(object parser, string data)```
@@ -63,8 +64,7 @@ public  void **__construct**(object parser, string data)```
 - - -
 
 <h2 id="detail_method">Method Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_parsetree.php.md#line230" class="location">framework\libs\smarty\sysplugins\smarty_internal_parsetree.php at line 230</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_parsetree.php at line 230</div>
 <h3 id="to_smarty_php()">to_smarty_php</h3>
 ```php
 public  string **to_smarty_php**()```

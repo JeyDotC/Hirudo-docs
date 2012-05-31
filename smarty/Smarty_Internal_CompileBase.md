@@ -1,11 +1,11 @@
 - - -
 
 **Smarty\Smarty_Internal_CompileBase**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_compilebase.php.md#line16" class="location">framework\libs\smarty\sysplugins\smarty_internal_compilebase.php at line 16</a>
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_compilebase.php at line 16</div>
+#Class Smarty_Internal_CompileBase#
 
-# Class Smarty_Internal_CompileBase #
+**Smarty_Internal_CompileBase**
 
-<pre class="tree">** Smarty_Internal_CompileBase **\n</pre>
 
 <dl>
 <dt>All Known Subclasses:</dt>
@@ -49,22 +49,21 @@ use array('_any') if there is no restriction of attributes names</p></td>
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td class="type"> array</td>
-<td class="description"><p class="name"><a href="#getAttributes()">getAttributes</a>(object compiler, array attributes)</p><p class="description">This function checks if the attributes passed are validThe attributes passed for the tag to compile are checked against the list of required and
+<td class="description"><p class="name"><a href="#getAttributes">getAttributes</a>(object compiler, array attributes)</p><p class="description">This function checks if the attributes passed are validThe attributes passed for the tag to compile are checked against the list of required and
 optional attributes. </p></td>
 </tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#openTag()">openTag</a>(object compiler, string openTag, mixed data)</p><p class="description">Push opening tag name on stackOptionally additional data can be saved on stack</p></td>
+<td class="description"><p class="name"><a href="#openTag">openTag</a>(object compiler, string openTag, mixed data)</p><p class="description">Push opening tag name on stackOptionally additional data can be saved on stack</p></td>
 </tr>
 <tr>
 <td class="type"> mixed</td>
-<td class="description"><p class="name"><a href="#closeTag()">closeTag</a>(object compiler, array|string expectedTag)</p><p class="description">Pop closing tagRaise an error if this stack-top doesn't match with expected opening tags</p></td>
+<td class="description"><p class="name"><a href="#closeTag">closeTag</a>(object compiler, array|string expectedTag)</p><p class="description">Pop closing tagRaise an error if this stack-top doesn't match with expected opening tags</p></td>
 </tr>
 </table>
 
 ##Field Detail##
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_compilebase.php.md#line42" class="location">framework\libs\smarty\sysplugins\smarty_internal_compilebase.php at line 42</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_compilebase.php at line 42</div>
 <h3 id="option_flags">option_flags</h3>
 ```php
 public  array **$option_flags** = array('nocache')```
@@ -73,8 +72,7 @@ public  array **$option_flags** = array('nocache')```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_compilebase.php.md#line30" class="location">framework\libs\smarty\sysplugins\smarty_internal_compilebase.php at line 30</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_compilebase.php at line 30</div>
 <h3 id="optional_attributes">optional_attributes</h3>
 ```php
 public  array **$optional_attributes** = array()```
@@ -84,8 +82,7 @@ use array('_any') if there is no restriction of attributes names</p></div>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_compilebase.php.md#line23" class="location">framework\libs\smarty\sysplugins\smarty_internal_compilebase.php at line 23</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_compilebase.php at line 23</div>
 <h3 id="required_attributes">required_attributes</h3>
 ```php
 public  array **$required_attributes** = array()```
@@ -94,8 +91,7 @@ public  array **$required_attributes** = array()```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_compilebase.php.md#line36" class="location">framework\libs\smarty\sysplugins\smarty_internal_compilebase.php at line 36</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_compilebase.php at line 36</div>
 <h3 id="shorttag_order">shorttag_order</h3>
 ```php
 public  array **$shorttag_order** = array()```
@@ -105,8 +101,7 @@ public  array **$shorttag_order** = array()```
 - - -
 
 <h2 id="detail_method">Method Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_compilebase.php.md#line56" class="location">framework\libs\smarty\sysplugins\smarty_internal_compilebase.php at line 56</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_compilebase.php at line 56</div>
 <h3 id="getAttributes()">getAttributes</h3>
 ```php
 public  array **getAttributes**(object compiler, array attributes)```
@@ -125,8 +120,7 @@ as valid</p><dl>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_compilebase.php.md#line136" class="location">framework\libs\smarty\sysplugins\smarty_internal_compilebase.php at line 136</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_compilebase.php at line 136</div>
 <h3 id="openTag()">openTag</h3>
 ```php
 public  void **openTag**(object compiler, string openTag, mixed data)```
@@ -141,8 +135,7 @@ public  void **openTag**(object compiler, string openTag, mixed data)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_compilebase.php.md#line150" class="location">framework\libs\smarty\sysplugins\smarty_internal_compilebase.php at line 150</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_compilebase.php at line 150</div>
 <h3 id="closeTag()">closeTag</h3>
 ```php
 public  mixed **closeTag**(object compiler, array|string expectedTag)```

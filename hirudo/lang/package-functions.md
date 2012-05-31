@@ -1,6 +1,6 @@
 - - -
 
-# Functions #
+#Functions#
 
 - - -
 
@@ -8,13 +8,12 @@
 <tr><th colspan="2" class="title">Function Summary</th></tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#_using()">_using</a>(string|array file, string extension)</p><p class="description">Alias for <a href="../../hirudo/lang/loader.html#using()">Loader::using()</a> function.</p></td>
+<td class="description"><p class="name"><a href="#_using">_using</a>(string|array file, string extension)</p><p class="description">Alias for <a href="../../hirudo/lang/loader.html#using()">Loader::using()</a> function.</p></td>
 </tr>
 </table>
 
 <h2 id="detail_function">Function Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Lang/Loader.php.md#line186" class="location">framework\hirudo\Hirudo\Lang\Loader.php at line 186</a>
-
+<div class="location">framework\hirudo\Hirudo\Lang\Loader.php at line 186</div>
 <h3 id="_using()">_using</h3>
 ```php
 public  void **_using**(string|array file, string extension)```

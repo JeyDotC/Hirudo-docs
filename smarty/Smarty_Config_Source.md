@@ -1,15 +1,17 @@
 - - -
 
 **Smarty\Smarty_Config_Source**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_config_source.php.md#line22" class="location">framework\libs\smarty\sysplugins\smarty_config_source.php at line 22</a>
+<div class="location">framework\libs\smarty\sysplugins\smarty_config_source.php at line 22</div>
+#Class Smarty_Config_Source#
 
-# Class Smarty_Config_Source #
+<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_template_source.html">Smarty_Template_Source</a>
+    ***Smarty_Config_Source**
 
-<pre class="tree"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_template_source.html">Smarty_Template_Source</a>\n    *** Smarty_Config_Source **\n</pre>
 
 - - -
 
-<p class="signature">public  class **Smarty_Config_Source**\nextends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_template_source.html">Smarty_Template_Source</a>
+<p class="signature">public  class **Smarty_Config_Source**
+extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_template_source.html">Smarty_Template_Source</a>
 
 </p>
 
@@ -35,7 +37,7 @@
 <tr><th colspan="2">Constructor Summary</th></tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#__construct()">__construct</a>(<a href="../smarty/smarty_resource.html">Smarty_Resource</a> handler, <a href="../smarty/smarty.html">Smarty</a> smarty, string resource, string type, string name, string unique_resource)</p><p class="description">create Config Object container</p></td>
+<td class="description"><p class="name"><a href="#__construct">__construct</a>(<a href="../smarty/smarty_resource.html">Smarty_Resource</a> handler, <a href="../smarty/smarty.html">Smarty</a> smarty, string resource, string type, string name, string unique_resource)</p><p class="description">create Config Object container</p></td>
 </tr>
 </table>
 
@@ -44,8 +46,7 @@
 <tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_template_source.html#__construct()">__construct</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_template_source.html#getCompiled()">getCompiled</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_template_source.html#renderUncompiled()">renderUncompiled</a></td></tr></table>
 
 <h2 id="detail_method">Constructor Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_config_source.php.md#line34" class="location">framework\libs\smarty\sysplugins\smarty_config_source.php at line 34</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_config_source.php at line 34</div>
 <h3 id="__construct()">__construct</h3>
 ```php
 public  void **__construct**(<a href="../smarty/smarty_resource.html">Smarty_Resource</a> handler, <a href="../smarty/smarty.html">Smarty</a> smarty, string resource, string type, string name, string unique_resource)```

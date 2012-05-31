@@ -1,15 +1,17 @@
 - - -
 
 **Symfony\Component\DependencyInjection\Loader\ClosureLoader**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Loader/ClosureLoader.php.md#line24" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Loader\ClosureLoader.php at line 24</a>
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Loader\ClosureLoader.php at line 24</div>
+#Class ClosureLoader#
 
-# Class ClosureLoader #
+<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/lang/loader.html">Loader</a>
+    ***ClosureLoader**
 
-<pre class="tree"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/lang/loader.html">Loader</a>\n    *** ClosureLoader **\n</pre>
 
 - - -
 
-<p class="signature">public  class **ClosureLoader**\nextends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/lang/loader.html">Loader</a>
+<p class="signature">public  class **ClosureLoader**
+extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/lang/loader.html">Loader</a>
 
 </p>
 
@@ -27,7 +29,7 @@
 <tr><th colspan="2">Constructor Summary</th></tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#__construct()">__construct</a>(<a href="../../../../symfony/component/dependencyinjection/containerbuilder.html">ContainerBuilder</a> container)</p><p class="description">Constructor.</p></td>
+<td class="description"><p class="name"><a href="#__construct">__construct</a>(<a href="../../../../symfony/component/dependencyinjection/containerbuilder.html">ContainerBuilder</a> container)</p><p class="description">Constructor.</p></td>
 </tr>
 </table>
 
@@ -35,11 +37,11 @@
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#load()">load</a>(\Closure closure, string type)</p><p class="description">Loads a Closure.</p></td>
+<td class="description"><p class="name"><a href="#load">load</a>(\Closure closure, string type)</p><p class="description">Loads a Closure.</p></td>
 </tr>
 <tr>
 <td class="type"> Boolean</td>
-<td class="description"><p class="name"><a href="#supports()">supports</a>(mixed resource, string type)</p><p class="description">Returns true if this class supports the given resource.</p></td>
+<td class="description"><p class="name"><a href="#supports">supports</a>(mixed resource, string type)</p><p class="description">Returns true if this class supports the given resource.</p></td>
 </tr>
 </table>
 
@@ -48,8 +50,7 @@
 <tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/lang/loader.html#arrayToPaths()">arrayToPaths</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/lang/loader.html#isDir()">isDir</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/lang/loader.html#isFile()">isFile</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/lang/loader.html#toPaths()">toPaths</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/lang/loader.html#toSinglePath()">toSinglePath</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/lang/loader.html#using()">using</a></td></tr></table>
 
 <h2 id="detail_method">Constructor Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Loader/ClosureLoader.php.md#line33" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Loader\ClosureLoader.php at line 33</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Loader\ClosureLoader.php at line 33</div>
 <h3 id="__construct()">__construct</h3>
 ```php
 public  void **__construct**(<a href="../../../../symfony/component/dependencyinjection/containerbuilder.html">ContainerBuilder</a> container)```
@@ -63,8 +64,7 @@ public  void **__construct**(<a href="../../../../symfony/component/dependencyin
 - - -
 
 <h2 id="detail_method">Method Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Loader/ClosureLoader.php.md#line44" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Loader\ClosureLoader.php at line 44</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Loader\ClosureLoader.php at line 44</div>
 <h3 id="load()">load</h3>
 ```php
 public  void **load**(\Closure closure, string type)```
@@ -78,8 +78,7 @@ public  void **load**(\Closure closure, string type)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Loader/ClosureLoader.php.md#line57" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Loader\ClosureLoader.php at line 57</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Loader\ClosureLoader.php at line 57</div>
 <h3 id="supports()">supports</h3>
 ```php
 public  Boolean **supports**(mixed resource, string type)```

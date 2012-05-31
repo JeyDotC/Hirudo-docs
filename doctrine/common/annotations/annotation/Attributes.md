@@ -1,11 +1,11 @@
 - - -
 
 **Doctrine\Common\Annotations\Annotation\Attributes**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/doctrine-common/Doctrine/Common/Annotations/Annotation/Attributes.php.md#line31" class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\Annotation\Attributes.php at line 31</a>
+<div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\Annotation\Attributes.php at line 31</div>
+#Class Attributes#
 
-# Class Attributes #
+**Attributes**
 
-<pre class="tree">** Attributes **\n</pre>
 
 - - -
 
@@ -30,8 +30,7 @@ to check the types of all declared attributes during the parsing process.</p></d
 </table>
 
 ##Field Detail##
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/doctrine-common/Doctrine/Common/Annotations/Annotation/Attributes.php.md#line36" class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\Annotation\Attributes.php at line 36</a>
-
+<div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\Annotation\Attributes.php at line 36</div>
 <h3 id="value">value</h3>
 ```php
 public  array<Doctrine\Common\Annotations\Annotation\Attribute> **$value**```

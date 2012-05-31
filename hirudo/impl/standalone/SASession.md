@@ -1,11 +1,11 @@
 - - -
 
 **Hirudo\Impl\StandAlone\SASession**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Impl/StandAlone/SASession.php.md#line32" class="location">framework\hirudo\Hirudo\Impl\StandAlone\SASession.php at line 32</a>
+<div class="location">framework\hirudo\Hirudo\Impl\StandAlone\SASession.php at line 32</div>
+#Class SASession#
 
-# Class SASession #
+**SASession**
 
-<pre class="tree">** SASession **\n</pre>
 
 - - -
 
@@ -22,7 +22,7 @@
 <tr><th colspan="2">Constructor Summary</th></tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#__construct()">__construct</a>()</p></td>
+<td class="description"><p class="name"><a href="#__construct">__construct</a>()</p></td>
 </tr>
 </table>
 
@@ -30,33 +30,32 @@
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#get()">get</a>(mixed key, mixed default)</p></td>
+<td class="description"><p class="name"><a href="#get">get</a>(mixed key, mixed default)</p></td>
 </tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#has()">has</a>(mixed key)</p></td>
+<td class="description"><p class="name"><a href="#has">has</a>(mixed key)</p></td>
 </tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#id()">id</a>()</p></td>
+<td class="description"><p class="name"><a href="#id">id</a>()</p></td>
 </tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#put()">put</a>(mixed key, mixed value)</p></td>
+<td class="description"><p class="name"><a href="#put">put</a>(mixed key, mixed value)</p></td>
 </tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#remove()">remove</a>(mixed key)</p></td>
+<td class="description"><p class="name"><a href="#remove">remove</a>(mixed key)</p></td>
 </tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#state()">state</a>()</p></td>
+<td class="description"><p class="name"><a href="#state">state</a>()</p></td>
 </tr>
 </table>
 
 <h2 id="detail_method">Constructor Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Impl/StandAlone/SASession.php.md#line34" class="location">framework\hirudo\Hirudo\Impl\StandAlone\SASession.php at line 34</a>
-
+<div class="location">framework\hirudo\Hirudo\Impl\StandAlone\SASession.php at line 34</div>
 <h3 id="__construct()">__construct</h3>
 ```php
 public  void **__construct**()```
@@ -66,8 +65,7 @@ public  void **__construct**()```
 - - -
 
 <h2 id="detail_method">Method Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Impl/StandAlone/SASession.php.md#line38" class="location">framework\hirudo\Hirudo\Impl\StandAlone\SASession.php at line 38</a>
-
+<div class="location">framework\hirudo\Hirudo\Impl\StandAlone\SASession.php at line 38</div>
 <h3 id="get()">get</h3>
 ```php
 public  void **get**(mixed key, mixed default)```
@@ -76,8 +74,7 @@ public  void **get**(mixed key, mixed default)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Impl/StandAlone/SASession.php.md#line42" class="location">framework\hirudo\Hirudo\Impl\StandAlone\SASession.php at line 42</a>
-
+<div class="location">framework\hirudo\Hirudo\Impl\StandAlone\SASession.php at line 42</div>
 <h3 id="has()">has</h3>
 ```php
 public  void **has**(mixed key)```
@@ -86,8 +83,7 @@ public  void **has**(mixed key)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Impl/StandAlone/SASession.php.md#line46" class="location">framework\hirudo\Hirudo\Impl\StandAlone\SASession.php at line 46</a>
-
+<div class="location">framework\hirudo\Hirudo\Impl\StandAlone\SASession.php at line 46</div>
 <h3 id="id()">id</h3>
 ```php
 public  void **id**()```
@@ -96,8 +92,7 @@ public  void **id**()```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Impl/StandAlone/SASession.php.md#line50" class="location">framework\hirudo\Hirudo\Impl\StandAlone\SASession.php at line 50</a>
-
+<div class="location">framework\hirudo\Hirudo\Impl\StandAlone\SASession.php at line 50</div>
 <h3 id="put()">put</h3>
 ```php
 public  void **put**(mixed key, mixed value)```
@@ -106,8 +101,7 @@ public  void **put**(mixed key, mixed value)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Impl/StandAlone/SASession.php.md#line54" class="location">framework\hirudo\Hirudo\Impl\StandAlone\SASession.php at line 54</a>
-
+<div class="location">framework\hirudo\Hirudo\Impl\StandAlone\SASession.php at line 54</div>
 <h3 id="remove()">remove</h3>
 ```php
 public  void **remove**(mixed key)```
@@ -116,8 +110,7 @@ public  void **remove**(mixed key)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Impl/StandAlone/SASession.php.md#line60" class="location">framework\hirudo\Hirudo\Impl\StandAlone\SASession.php at line 60</a>
-
+<div class="location">framework\hirudo\Hirudo\Impl\StandAlone\SASession.php at line 60</div>
 <h3 id="state()">state</h3>
 ```php
 public  void **state**()```

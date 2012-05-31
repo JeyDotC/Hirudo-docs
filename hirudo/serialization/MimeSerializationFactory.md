@@ -1,11 +1,11 @@
 - - -
 
 **Hirudo\Serialization\MimeSerializationFactory**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Serialization/MimeSerializationFactory.php.md#line34" class="location">framework\hirudo\Hirudo\Serialization\MimeSerializationFactory.php at line 34</a>
+<div class="location">framework\hirudo\Hirudo\Serialization\MimeSerializationFactory.php at line 34</div>
+#Class MimeSerializationFactory#
 
-# Class MimeSerializationFactory #
+**MimeSerializationFactory**
 
-<pre class="tree">** MimeSerializationFactory **\n</pre>
 
 - - -
 
@@ -22,21 +22,20 @@ the text before it will be ignored, so if $mimeType is "application/json", only 
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#getMime()">getMime</a>(mixed mimeType)</p></td>
+<td class="description"><p class="name"><a href="#getMime">getMime</a>(mixed mimeType)</p></td>
 </tr>
 <tr>
 <td class="type"> <a href="../../hirudo/serialization/entityserializerbase.html">EntitySerializerBase</a></td>
-<td class="description"><p class="name"><a href="#getSerializer()">getSerializer</a>(string mimeType)</p><p class="description">Gets a Serializer based on the given mime type.</p></td>
+<td class="description"><p class="name"><a href="#getSerializer">getSerializer</a>(string mimeType)</p><p class="description">Gets a Serializer based on the given mime type.</p></td>
 </tr>
 <tr>
 <td class="type"> <a href="../../hirudo/serialization/entitydeserializerbase.html">EntityDeserializerBase</a></td>
-<td class="description"><p class="name"><a href="#getDeserializer()">getDeserializer</a>(string mimeType)</p><p class="description">Gets a de-Serializer based on the given mime type.</p></td>
+<td class="description"><p class="name"><a href="#getDeserializer">getDeserializer</a>(string mimeType)</p><p class="description">Gets a de-Serializer based on the given mime type.</p></td>
 </tr>
 </table>
 
 <h2 id="detail_method">Method Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Serialization/MimeSerializationFactory.php.md#line39" class="location">framework\hirudo\Hirudo\Serialization\MimeSerializationFactory.php at line 39</a>
-
+<div class="location">framework\hirudo\Hirudo\Serialization\MimeSerializationFactory.php at line 39</div>
 <h3 id="getMime()">getMime</h3>
 ```php
 public  void **getMime**(mixed mimeType)```
@@ -45,8 +44,7 @@ public  void **getMime**(mixed mimeType)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Serialization/MimeSerializationFactory.php.md#line51" class="location">framework\hirudo\Hirudo\Serialization\MimeSerializationFactory.php at line 51</a>
-
+<div class="location">framework\hirudo\Hirudo\Serialization\MimeSerializationFactory.php at line 51</div>
 <h3 id="getSerializer()">getSerializer</h3>
 ```php
 public  <a href="../../hirudo/serialization/entityserializerbase.html">EntitySerializerBase</a> **getSerializer**(string mimeType)```
@@ -59,8 +57,7 @@ public  <a href="../../hirudo/serialization/entityserializerbase.html">EntitySer
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Serialization/MimeSerializationFactory.php.md#line69" class="location">framework\hirudo\Hirudo\Serialization\MimeSerializationFactory.php at line 69</a>
-
+<div class="location">framework\hirudo\Hirudo\Serialization\MimeSerializationFactory.php at line 69</div>
 <h3 id="getDeserializer()">getDeserializer</h3>
 ```php
 public  <a href="../../hirudo/serialization/entitydeserializerbase.html">EntityDeserializerBase</a> **getDeserializer**(string mimeType)```

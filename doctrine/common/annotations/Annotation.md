@@ -1,11 +1,11 @@
 - - -
 
 **Doctrine\Common\Annotations\Annotation**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/doctrine-common/Doctrine/Common/Annotations/Annotation.php.md#line30" class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\Annotation.php at line 30</a>
+<div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\Annotation.php at line 30</div>
+#Class Annotation#
 
-# Class Annotation #
+**Annotation**
 
-<pre class="tree">** Annotation **\n</pre>
 
 - - -
 
@@ -34,13 +34,12 @@
 <tr><th colspan="2">Constructor Summary</th></tr>
 <tr>
 <td class="type">final  void</td>
-<td class="description"><p class="name"><a href="#__construct()">__construct</a>(array data)</p><p class="description">Constructor</p></td>
+<td class="description"><p class="name"><a href="#__construct">__construct</a>(array data)</p><p class="description">Constructor</p></td>
 </tr>
 </table>
 
 ##Field Detail##
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/doctrine-common/Doctrine/Common/Annotations/Annotation.php.md#line37" class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\Annotation.php at line 37</a>
-
+<div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\Annotation.php at line 37</div>
 <h3 id="value">value</h3>
 ```php
 public  string **$value** = 0```
@@ -50,8 +49,7 @@ public  string **$value** = 0```
 - - -
 
 <h2 id="detail_method">Constructor Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/doctrine-common/Doctrine/Common/Annotations/Annotation.php.md#line44" class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\Annotation.php at line 44</a>
-
+<div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\Annotation.php at line 44</div>
 <h3 id="__construct()">__construct</h3>
 ```php
 public final  void **__construct**(array data)```

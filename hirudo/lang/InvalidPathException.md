@@ -1,15 +1,17 @@
 - - -
 
 **Hirudo\Lang\InvalidPathException**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Lang/Loader.php.md#line27" class="location">framework\hirudo\Hirudo\Lang\Loader.php at line 27</a>
+<div class="location">framework\hirudo\Hirudo\Lang\Loader.php at line 27</div>
+#Class InvalidPathException#
 
-# Class InvalidPathException #
+LogicException
+***InvalidPathException**
 
-<pre class="tree">LogicException\n*** InvalidPathException **\n</pre>
 
 - - -
 
-<p class="signature">public  class **InvalidPathException**\nextends LogicException
+<p class="signature">public  class **InvalidPathException**
+extends LogicException
 
 </p>
 
@@ -28,13 +30,12 @@ along with Hirudo.  If not, see <http://www.gnu.org/licenses/>.</p></div>
 <tr><th colspan="2">Constructor Summary</th></tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#__construct()">__construct</a>(mixed path)</p></td>
+<td class="description"><p class="name"><a href="#__construct">__construct</a>(mixed path)</p></td>
 </tr>
 </table>
 
 <h2 id="detail_method">Constructor Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Lang/Loader.php.md#line29" class="location">framework\hirudo\Hirudo\Lang\Loader.php at line 29</a>
-
+<div class="location">framework\hirudo\Hirudo\Lang\Loader.php at line 29</div>
 <h3 id="__construct()">__construct</h3>
 ```php
 public  void **__construct**(mixed path)```

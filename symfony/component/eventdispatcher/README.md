@@ -1,6 +1,6 @@
 - - -
 
-# Namespace Symfony\Component\EventDispatcher #
+#Namespace Symfony\Component\EventDispatcher#
 
 <table class="title">
 <tr><th colspan="2" class="title">Class Summary</th></tr>

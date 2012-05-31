@@ -1,6 +1,6 @@
 - - -
 
-# Class Hierarchy for Package Hirudo\Core\Context #<ul>
+#Class Hierarchy for Package Hirudo\Core\Context#<ul>
 <li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/appconfig.html">Hirudo\Core\Context\AppConfig</a></li>
 <li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/assets.html">Hirudo\Core\Context\Assets</a></li>
 <li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/modulecall.html">Hirudo\Core\Context\ModuleCall</a></li>

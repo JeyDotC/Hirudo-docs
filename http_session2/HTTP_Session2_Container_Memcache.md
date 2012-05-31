@@ -1,15 +1,17 @@
 - - -
 
 **HTTP_Session2\HTTP_Session2_Container_Memcache**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/Memcache.php.md#line38" class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Memcache.php at line 38</a>
+<div class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Memcache.php at line 38</div>
+#Class HTTP_Session2_Container_Memcache#
 
-# Class HTTP_Session2_Container_Memcache #
+<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/http_session2/http_session2_container.html">HTTP_Session2_Container</a>
+    ***HTTP_Session2_Container_Memcache**
 
-<pre class="tree"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/http_session2/http_session2_container.html">HTTP_Session2_Container</a>\n    *** HTTP_Session2_Container_Memcache **\n</pre>
 
 - - -
 
-<p class="signature">public  class **HTTP_Session2_Container_Memcache**\nextends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/http_session2/http_session2_container.html">HTTP_Session2_Container</a>
+<p class="signature">public  class **HTTP_Session2_Container_Memcache**
+extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/http_session2/http_session2_container.html">HTTP_Session2_Container</a>
 
 </p>
 
@@ -48,7 +50,7 @@
 <tr><th colspan="2">Constructor Summary</th></tr>
 <tr>
 <td class="type"> object</td>
-<td class="description"><p class="name"><a href="#__construct()">__construct</a>(array options)</p><p class="description">Constructor method$options is an array with the options.
+<td class="description"><p class="name"><a href="#__construct">__construct</a>(array options)</p><p class="description">Constructor method$options is an array with the options.
 The options are:
 
 'memcache' - Memcache object
@@ -62,39 +64,39 @@ The options are:
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td class="type">protected  boolean</td>
-<td class="description"><p class="name"><a href="#connect()">connect</a>(Memcache mc)</p><p class="description">Connect using the given Memcache object.</p></td>
+<td class="description"><p class="name"><a href="#connect">connect</a>(Memcache mc)</p><p class="description">Connect using the given Memcache object.</p></td>
 </tr>
 <tr>
 <td class="type">protected  void</td>
-<td class="description"><p class="name"><a href="#setDefaults()">setDefaults</a>()</p><p class="description">Set some default options</p></td>
+<td class="description"><p class="name"><a href="#setDefaults">setDefaults</a>()</p><p class="description">Set some default options</p></td>
 </tr>
 <tr>
 <td class="type"> boolean</td>
-<td class="description"><p class="name"><a href="#open()">open</a>(string save_path, string session_name)</p><p class="description">Establish connection to a database</p></td>
+<td class="description"><p class="name"><a href="#open">open</a>(string save_path, string session_name)</p><p class="description">Establish connection to a database</p></td>
 </tr>
 <tr>
 <td class="type"> boolean</td>
-<td class="description"><p class="name"><a href="#close()">close</a>()</p><p class="description">Free resources</p></td>
+<td class="description"><p class="name"><a href="#close">close</a>()</p><p class="description">Free resources</p></td>
 </tr>
 <tr>
 <td class="type"> mixed</td>
-<td class="description"><p class="name"><a href="#read()">read</a>(string id)</p><p class="description">Read session data</p></td>
+<td class="description"><p class="name"><a href="#read">read</a>(string id)</p><p class="description">Read session data</p></td>
 </tr>
 <tr>
 <td class="type"> boolean</td>
-<td class="description"><p class="name"><a href="#write()">write</a>(string id, mixed data)</p><p class="description">Write session data</p></td>
+<td class="description"><p class="name"><a href="#write">write</a>(string id, mixed data)</p><p class="description">Write session data</p></td>
 </tr>
 <tr>
 <td class="type"> boolean</td>
-<td class="description"><p class="name"><a href="#destroy()">destroy</a>(string id)</p><p class="description">Destroy session data</p></td>
+<td class="description"><p class="name"><a href="#destroy">destroy</a>(string id)</p><p class="description">Destroy session data</p></td>
 </tr>
 <tr>
 <td class="type"> boolean</td>
-<td class="description"><p class="name"><a href="#gc()">gc</a>(int maxlifetime)</p><p class="description">Garbage collection</p></td>
+<td class="description"><p class="name"><a href="#gc">gc</a>(int maxlifetime)</p><p class="description">Garbage collection</p></td>
 </tr>
 <tr>
 <td class="type"> boolean</td>
-<td class="description"><p class="name"><a href="#replicate()">replicate</a>(string target, string id)</p><p class="description">Replicate session data to specified target</p></td>
+<td class="description"><p class="name"><a href="#replicate">replicate</a>(string target, string id)</p><p class="description">Replicate session data to specified target</p></td>
 </tr>
 </table>
 
@@ -103,8 +105,7 @@ The options are:
 <tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/http_session2/http_session2_container.html#__construct()">__construct</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/http_session2/http_session2_container.html#parseOptions()">parseOptions</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/http_session2/http_session2_container.html#set()">set</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/http_session2/http_session2_container.html#setDefaults()">setDefaults</a></td></tr></table>
 
 ##Field Detail##
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/Memcache.php.md#line45" class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Memcache.php at line 45</a>
-
+<div class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Memcache.php at line 45</div>
 <h3 id="mc">mc</h3>
 ```php
 protected  object Memcache **$mc** = null```
@@ -114,8 +115,7 @@ protected  object Memcache **$mc** = null```
 - - -
 
 <h2 id="detail_method">Constructor Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/Memcache.php.md#line61" class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Memcache.php at line 61</a>
-
+<div class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Memcache.php at line 61</div>
 <h3 id="__construct()">__construct</h3>
 ```php
 public  object **__construct**(array options)```
@@ -135,8 +135,7 @@ The options are:</p>
 - - -
 
 <h2 id="detail_method">Method Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/Memcache.php.md#line74" class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Memcache.php at line 74</a>
-
+<div class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Memcache.php at line 74</div>
 <h3 id="connect()">connect</h3>
 ```php
 protected  boolean **connect**(Memcache mc)```
@@ -151,8 +150,7 @@ protected  boolean **connect**(Memcache mc)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/Memcache.php.md#line91" class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Memcache.php at line 91</a>
-
+<div class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Memcache.php at line 91</div>
 <h3 id="setDefaults()">setDefaults</h3>
 ```php
 protected  void **setDefaults**()```
@@ -161,8 +159,7 @@ protected  void **setDefaults**()```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/Memcache.php.md#line105" class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Memcache.php at line 105</a>
-
+<div class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Memcache.php at line 105</div>
 <h3 id="open()">open</h3>
 ```php
 public  boolean **open**(string save_path, string session_name)```
@@ -176,8 +173,7 @@ public  boolean **open**(string save_path, string session_name)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/Memcache.php.md#line115" class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Memcache.php at line 115</a>
-
+<div class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Memcache.php at line 115</div>
 <h3 id="close()">close</h3>
 ```php
 public  boolean **close**()```
@@ -186,8 +182,7 @@ public  boolean **close**()```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/Memcache.php.md#line126" class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Memcache.php at line 126</a>
-
+<div class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Memcache.php at line 126</div>
 <h3 id="read()">read</h3>
 ```php
 public  mixed **read**(string id)```
@@ -200,8 +195,7 @@ public  mixed **read**(string id)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/Memcache.php.md#line139" class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Memcache.php at line 139</a>
-
+<div class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Memcache.php at line 139</div>
 <h3 id="write()">write</h3>
 ```php
 public  boolean **write**(string id, mixed data)```
@@ -215,8 +209,7 @@ public  boolean **write**(string id, mixed data)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/Memcache.php.md#line156" class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Memcache.php at line 156</a>
-
+<div class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Memcache.php at line 156</div>
 <h3 id="destroy()">destroy</h3>
 ```php
 public  boolean **destroy**(string id)```
@@ -229,8 +222,7 @@ public  boolean **destroy**(string id)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/Memcache.php.md#line169" class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Memcache.php at line 169</a>
-
+<div class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Memcache.php at line 169</div>
 <h3 id="gc()">gc</h3>
 ```php
 public  boolean **gc**(int maxlifetime)```
@@ -243,8 +235,7 @@ public  boolean **gc**(int maxlifetime)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/Memcache.php.md#line183" class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Memcache.php at line 183</a>
-
+<div class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Memcache.php at line 183</div>
 <h3 id="replicate()">replicate</h3>
 ```php
 public  boolean **replicate**(string target, string id)```

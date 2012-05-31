@@ -1,15 +1,17 @@
 - - -
 
 **Symfony\Component\DependencyInjection\Dumper\GraphvizDumper**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Dumper/GraphvizDumper.php.md#line29" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Dumper\GraphvizDumper.php at line 29</a>
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Dumper\GraphvizDumper.php at line 29</div>
+#Class GraphvizDumper#
 
-# Class GraphvizDumper #
+<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/dumper/dumper.html">Dumper</a>
+    ***GraphvizDumper**
 
-<pre class="tree"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/dumper/dumper.html">Dumper</a>\n    *** GraphvizDumper **\n</pre>
 
 - - -
 
-<p class="signature">public  class **GraphvizDumper**\nextends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/dumper/dumper.html">Dumper</a>
+<p class="signature">public  class **GraphvizDumper**
+extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/dumper/dumper.html">Dumper</a>
 
 </p>
 
@@ -30,7 +32,7 @@
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td class="type"> string</td>
-<td class="description"><p class="name"><a href="#dump()">dump</a>(array options)</p><p class="description">Dumps the service container as a graphviz graph.
+<td class="description"><p class="name"><a href="#dump">dump</a>(array options)</p><p class="description">Dumps the service container as a graphviz graph.
 </p></td>
 </tr>
 </table>
@@ -40,8 +42,7 @@
 <tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/dumper/dumper.html#__construct()">__construct</a></td></tr></table>
 
 <h2 id="detail_method">Method Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Dumper/GraphvizDumper.php.md#line51" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Dumper\GraphvizDumper.php at line 51</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Dumper\GraphvizDumper.php at line 51</div>
 <h3 id="dump()">dump</h3>
 ```php
 public  string **dump**(array options)```

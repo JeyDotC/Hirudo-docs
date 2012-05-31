@@ -1,15 +1,15 @@
 - - -
 
 **Hirudo\Core\Module**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Core/Module.php.md#line109" class="location">framework\hirudo\Hirudo\Core\Module.php at line 109</a>
+<div class="location">framework\hirudo\Hirudo\Core\Module.php at line 109</div>
+#Class Module#
 
-# Class Module #
+**Module**
 
-<pre class="tree">** Module **\n</pre>
 
 <dl>
 <dt>All Known Subclasses:</dt>
-<dd><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/sampleapp/modules/errorpage.html">SampleApp\Modules\ErrorPage</a> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/sampleapp/modules/frontpage.html">SampleApp\Modules\FrontPage</a> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/sampleapp/modules/httptester.html">SampleApp\Modules\HttpTester</a> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/sampleapp/modules/simplesqltest.html">SampleApp\Modules\SimpleSqlTest</a> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/swissbilling/modules/transactiontest.html">SwissBilling\Modules\TransactionTest</a> </dd>
+<dd><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/sampleapp/modules/errorpage.html">SampleApp\Modules\ErrorPage</a> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/sampleapp/modules/frontpage.html">SampleApp\Modules\FrontPage</a> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/sampleapp/modules/httptester.html">SampleApp\Modules\HttpTester</a> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/sampleapp/modules/simplesqltest.html">SampleApp\Modules\SimpleSqlTest</a> </dd>
 </dl>
 
 - - -
@@ -48,7 +48,7 @@
 <tr><th colspan="2">Constructor Summary</th></tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#__construct()">__construct</a>()</p><p class="description">Creates a module.</p></td>
+<td class="description"><p class="name"><a href="#__construct">__construct</a>()</p><p class="description">Creates a module.</p></td>
 </tr>
 </table>
 
@@ -56,68 +56,67 @@
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td class="type">protected  void</td>
-<td class="description"><p class="name"><a href="#assign()">assign</a>(string name, mixed value)</p><p class="description">Adds a variable to the view so it can access it via the name.</p></td>
+<td class="description"><p class="name"><a href="#assign">assign</a>(string name, mixed value)</p><p class="description">Adds a variable to the view so it can access it via the name.</p></td>
 </tr>
 <tr>
 <td class="type">protected  void</td>
-<td class="description"><p class="name"><a href="#assignMany()">assignMany</a>(array array)</p><p class="description">Batch assign.</p></td>
+<td class="description"><p class="name"><a href="#assignMany">assignMany</a>(array array)</p><p class="description">Batch assign.</p></td>
 </tr>
 <tr>
 <td class="type">protected  mixed</td>
-<td class="description"><p class="name"><a href="#component()">component</a>(string name)</p><p class="description">Retreives a component instance.</p></td>
+<td class="description"><p class="name"><a href="#component">component</a>(string name)</p><p class="description">Retreives a component instance.</p></td>
 </tr>
 <tr>
 <td class="type"> <a href="../../hirudo/core/task.html">Task</a></td>
-<td class="description"><p class="name"><a href="#getTask()">getTask</a>(string taskName)</p><p class="description">Builds a task from it's name. </p></td>
+<td class="description"><p class="name"><a href="#getTask">getTask</a>(string taskName)</p><p class="description">Builds a task from it's name. </p></td>
 </tr>
 <tr>
 <td class="type"> string</td>
-<td class="description"><p class="name"><a href="#getRendered()">getRendered</a>()</p><p class="description">Returns the result of the view rendering as a string.</p></td>
+<td class="description"><p class="name"><a href="#getRendered">getRendered</a>()</p><p class="description">Returns the result of the view rendering as a string.</p></td>
 </tr>
 <tr>
 <td class="type">protected  void</td>
-<td class="description"><p class="name"><a href="#onModuleReady()">onModuleReady</a>()</p><p class="description">This function is called before a task execution, is
+<td class="description"><p class="name"><a href="#onModuleReady">onModuleReady</a>()</p><p class="description">This function is called before a task execution, is
 useful for taking actions prior the execution of any task such as
 initializing objects common to all tasks.</p></td>
 </tr>
 <tr>
 <td class="type">protected  void</td>
-<td class="description"><p class="name"><a href="#display()">display</a>(string view)</p><p class="description">Displays the given view to the browser.</p></td>
+<td class="description"><p class="name"><a href="#display">display</a>(string view)</p><p class="description">Displays the given view to the browser.</p></td>
 </tr>
 <tr>
 <td class="type">protected  string</td>
-<td class="description"><p class="name"><a href="#renderGet()">renderGet</a>(string view)</p><p class="description">Renders the given view and returns it as a string without sending it to
+<td class="description"><p class="name"><a href="#renderGet">renderGet</a>(string view)</p><p class="description">Renders the given view and returns it as a string without sending it to
 the browser.</p></td>
 </tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#addMessage()">addMessage</a>(<a href="../../hirudo/core/util/message.html">Message</a> message)</p><p class="description">Adds a message to the view which normally will be rendered as a notification.</p></td>
+<td class="description"><p class="name"><a href="#addMessage">addMessage</a>(<a href="../../hirudo/core/util/message.html">Message</a> message)</p><p class="description">Adds a message to the view which normally will be rendered as a notification.</p></td>
 </tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#setDefaultTask()">setDefaultTask</a>(string defaultTask)</p><p class="description">Sets the name of the default task. </p></td>
+<td class="description"><p class="name"><a href="#setDefaultTask">setDefaultTask</a>(string defaultTask)</p><p class="description">Sets the name of the default task. </p></td>
 </tr>
 <tr>
 <td class="type"> string</td>
-<td class="description"><p class="name"><a href="#getModuleDir()">getModuleDir</a>(mixed appName, mixed name)</p><p class="description">Gets the directory in which this module is located.</p></td>
+<td class="description"><p class="name"><a href="#getModuleDir">getModuleDir</a>(mixed appName, mixed name)</p><p class="description">Gets the directory in which this module is located.</p></td>
 </tr>
 <tr>
 <td class="type"> string</td>
-<td class="description"><p class="name"><a href="#getName()">getName</a>()</p><p class="description">Gets the module's name.</p></td>
+<td class="description"><p class="name"><a href="#getName">getName</a>()</p><p class="description">Gets the module's name.</p></td>
 </tr>
 <tr>
 <td class="type"> string</td>
-<td class="description"><p class="name"><a href="#getAppName()">getAppName</a>()</p><p class="description">Gets the name of the app this module belongs to.</p></td>
+<td class="description"><p class="name"><a href="#getAppName">getAppName</a>()</p><p class="description">Gets the name of the app this module belongs to.</p></td>
 </tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#setAppName()">setAppName</a>(string appName)</p><p class="description">Sets the name of the app this module belongs to.</p></td>
+<td class="description"><p class="name"><a href="#setAppName">setAppName</a>(string appName)</p><p class="description">Sets the name of the app this module belongs to.</p></td>
 </tr>
 </table>
 
 ##Field Detail##
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Core/Module.php.md#line180" class="location">framework\hirudo\Hirudo\Core\Module.php at line 180</a>
-
+<div class="location">framework\hirudo\Hirudo\Core\Module.php at line 180</div>
 <h3 id="context">context</h3>
 ```php
 protected  <a href="../../hirudo/core/context/modulescontext.html">ModulesContext</a> **$context**```
@@ -126,8 +125,7 @@ protected  <a href="../../hirudo/core/context/modulescontext.html">ModulesContex
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Core/Module.php.md#line159" class="location">framework\hirudo\Hirudo\Core\Module.php at line 159</a>
-
+<div class="location">framework\hirudo\Hirudo\Core\Module.php at line 159</div>
 <h3 id="currentUser">currentUser</h3>
 ```php
 protected  <a href="../../hirudo/core/context/principal.html">Principal</a> **$currentUser**```
@@ -136,8 +134,7 @@ protected  <a href="../../hirudo/core/context/principal.html">Principal</a> **$c
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Core/Module.php.md#line187" class="location">framework\hirudo\Hirudo\Core\Module.php at line 187</a>
-
+<div class="location">framework\hirudo\Hirudo\Core\Module.php at line 187</div>
 <h3 id="headers">headers</h3>
 ```php
 protected  <a href="../../hirudo/core/headerbag.html">HeaderBag</a> **$headers**```
@@ -146,8 +143,7 @@ protected  <a href="../../hirudo/core/headerbag.html">HeaderBag</a> **$headers**
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Core/Module.php.md#line173" class="location">framework\hirudo\Hirudo\Core\Module.php at line 173</a>
-
+<div class="location">framework\hirudo\Hirudo\Core\Module.php at line 173</div>
 <h3 id="request">request</h3>
 ```php
 protected  <a href="../../hirudo/core/context/request.html">Request</a> **$request**```
@@ -156,8 +152,7 @@ protected  <a href="../../hirudo/core/context/request.html">Request</a> **$reque
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Core/Module.php.md#line166" class="location">framework\hirudo\Hirudo\Core\Module.php at line 166</a>
-
+<div class="location">framework\hirudo\Hirudo\Core\Module.php at line 166</div>
 <h3 id="route">route</h3>
 ```php
 protected  <a href="../../hirudo/core/context/routing.html">Routing</a> **$route**```
@@ -167,8 +162,7 @@ protected  <a href="../../hirudo/core/context/routing.html">Routing</a> **$route
 - - -
 
 <h2 id="detail_method">Constructor Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Core/Module.php.md#line367" class="location">framework\hirudo\Hirudo\Core\Module.php at line 367</a>
-
+<div class="location">framework\hirudo\Hirudo\Core\Module.php at line 367</div>
 <h3 id="__construct()">__construct</h3>
 ```php
 public  void **__construct**()```
@@ -178,8 +172,7 @@ public  void **__construct**()```
 - - -
 
 <h2 id="detail_method">Method Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Core/Module.php.md#line204" class="location">framework\hirudo\Hirudo\Core\Module.php at line 204</a>
-
+<div class="location">framework\hirudo\Hirudo\Core\Module.php at line 204</div>
 <h3 id="assign()">assign</h3>
 ```php
 protected  void **assign**(string name, mixed value)```
@@ -195,8 +188,7 @@ protected  void **assign**(string name, mixed value)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Core/Module.php.md#line213" class="location">framework\hirudo\Hirudo\Core\Module.php at line 213</a>
-
+<div class="location">framework\hirudo\Hirudo\Core\Module.php at line 213</div>
 <h3 id="assignMany()">assignMany</h3>
 ```php
 protected  void **assignMany**(array array)```
@@ -209,8 +201,7 @@ protected  void **assignMany**(array array)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Core/Module.php.md#line227" class="location">framework\hirudo\Hirudo\Core\Module.php at line 227</a>
-
+<div class="location">framework\hirudo\Hirudo\Core\Module.php at line 227</div>
 <h3 id="component()">component</h3>
 ```php
 protected  mixed **component**(string name)```
@@ -225,8 +216,7 @@ protected  mixed **component**(string name)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Core/Module.php.md#line257" class="location">framework\hirudo\Hirudo\Core\Module.php at line 257</a>
-
+<div class="location">framework\hirudo\Hirudo\Core\Module.php at line 257</div>
 <h3 id="getTask()">getTask</h3>
 ```php
 public  <a href="../../hirudo/core/task.html">Task</a> **getTask**(string taskName)```
@@ -242,8 +232,7 @@ method, the default task is returned, normally the "index" task.</p><dl>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Core/Module.php.md#line277" class="location">framework\hirudo\Hirudo\Core\Module.php at line 277</a>
-
+<div class="location">framework\hirudo\Hirudo\Core\Module.php at line 277</div>
 <h3 id="getRendered()">getRendered</h3>
 ```php
 public  string **getRendered**()```
@@ -256,8 +245,7 @@ public  string **getRendered**()```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Core/Module.php.md#line286" class="location">framework\hirudo\Hirudo\Core\Module.php at line 286</a>
-
+<div class="location">framework\hirudo\Hirudo\Core\Module.php at line 286</div>
 <h3 id="onModuleReady()">onModuleReady</h3>
 ```php
 protected  void **onModuleReady**()```
@@ -268,8 +256,7 @@ initializing objects common to all tasks.</p></div>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Core/Module.php.md#line318" class="location">framework\hirudo\Hirudo\Core\Module.php at line 318</a>
-
+<div class="location">framework\hirudo\Hirudo\Core\Module.php at line 318</div>
 <h3 id="display()">display</h3>
 ```php
 protected  void **display**(string view)```
@@ -298,8 +285,7 @@ values:</p>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Core/Module.php.md#line330" class="location">framework\hirudo\Hirudo\Core\Module.php at line 330</a>
-
+<div class="location">framework\hirudo\Hirudo\Core\Module.php at line 330</div>
 <h3 id="renderGet()">renderGet</h3>
 ```php
 protected  string **renderGet**(string view)```
@@ -317,8 +303,7 @@ the browser.</p></p><dl>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Core/Module.php.md#line351" class="location">framework\hirudo\Hirudo\Core\Module.php at line 351</a>
-
+<div class="location">framework\hirudo\Hirudo\Core\Module.php at line 351</div>
 <h3 id="addMessage()">addMessage</h3>
 ```php
 public  void **addMessage**(<a href="../../hirudo/core/util/message.html">Message</a> message)```
@@ -331,8 +316,7 @@ public  void **addMessage**(<a href="../../hirudo/core/util/message.html">Messag
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Core/Module.php.md#line360" class="location">framework\hirudo\Hirudo\Core\Module.php at line 360</a>
-
+<div class="location">framework\hirudo\Hirudo\Core\Module.php at line 360</div>
 <h3 id="setDefaultTask()">setDefaultTask</h3>
 ```php
 public  void **setDefaultTask**(string defaultTask)```
@@ -341,8 +325,7 @@ public  void **setDefaultTask**(string defaultTask)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Core/Module.php.md#line405" class="location">framework\hirudo\Hirudo\Core\Module.php at line 405</a>
-
+<div class="location">framework\hirudo\Hirudo\Core\Module.php at line 405</div>
 <h3 id="getModuleDir()">getModuleDir</h3>
 ```php
 public  string **getModuleDir**(mixed appName, mixed name)```
@@ -355,8 +338,7 @@ public  string **getModuleDir**(mixed appName, mixed name)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Core/Module.php.md#line420" class="location">framework\hirudo\Hirudo\Core\Module.php at line 420</a>
-
+<div class="location">framework\hirudo\Hirudo\Core\Module.php at line 420</div>
 <h3 id="getName()">getName</h3>
 ```php
 public  string **getName**()```
@@ -365,8 +347,7 @@ public  string **getName**()```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Core/Module.php.md#line429" class="location">framework\hirudo\Hirudo\Core\Module.php at line 429</a>
-
+<div class="location">framework\hirudo\Hirudo\Core\Module.php at line 429</div>
 <h3 id="getAppName()">getAppName</h3>
 ```php
 public  string **getAppName**()```
@@ -375,8 +356,7 @@ public  string **getAppName**()```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Core/Module.php.md#line438" class="location">framework\hirudo\Hirudo\Core\Module.php at line 438</a>
-
+<div class="location">framework\hirudo\Hirudo\Core\Module.php at line 438</div>
 <h3 id="setAppName()">setAppName</h3>
 ```php
 public  void **setAppName**(string appName)```

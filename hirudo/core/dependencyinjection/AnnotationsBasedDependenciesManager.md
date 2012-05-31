@@ -1,15 +1,17 @@
 - - -
 
 **Hirudo\Core\DependencyInjection\AnnotationsBasedDependenciesManager**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Core/DependencyInjection/AnnotationsBasedDependenciesManager.php.md#line41" class="location">framework\hirudo\Hirudo\Core\DependencyInjection\AnnotationsBasedDependenciesManager.php at line 41</a>
+<div class="location">framework\hirudo\Hirudo\Core\DependencyInjection\AnnotationsBasedDependenciesManager.php at line 41</div>
+#Class AnnotationsBasedDependenciesManager#
 
-# Class AnnotationsBasedDependenciesManager #
+<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/containeraware.html">ContainerAware</a>
+    ***AnnotationsBasedDependenciesManager**
 
-<pre class="tree"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/containeraware.html">ContainerAware</a>\n    *** AnnotationsBasedDependenciesManager **\n</pre>
 
 - - -
 
-<p class="signature">public  class **AnnotationsBasedDependenciesManager**\nextends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/containeraware.html">ContainerAware</a>
+<p class="signature">public  class **AnnotationsBasedDependenciesManager**
+extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/containeraware.html">ContainerAware</a>
 
 </p>
 
@@ -31,7 +33,7 @@ to determine dependencies and load services.</p></div>
 <tr><th colspan="2">Constructor Summary</th></tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#__construct()">__construct</a>()</p></td>
+<td class="description"><p class="name"><a href="#__construct">__construct</a>()</p></td>
 </tr>
 </table>
 
@@ -39,36 +41,36 @@ to determine dependencies and load services.</p></div>
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#addServices()">addServices</a>(array implementationClasses)</p><p class="description">This method takes an array of fully qualified class names and registers them
+<td class="description"><p class="name"><a href="#addServices">addServices</a>(array implementationClasses)</p><p class="description">This method takes an array of fully qualified class names and registers them
 in the container to inject them later. </p></td>
 </tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#resolveDependencies()">resolveDependencies</a>(mixed object)</p><p class="description">Resolves all dependencies in the given object. </p></td>
+<td class="description"><p class="name"><a href="#resolveDependencies">resolveDependencies</a>(mixed object)</p><p class="description">Resolves all dependencies in the given object. </p></td>
 </tr>
 <tr>
 <td class="type"> array<mixed></td>
-<td class="description"><p class="name"><a href="#getClassMetadata()">getClassMetadata</a>(\ReflectionClass object)</p><p class="description">Gets the annotations associated to thie given class.</p></td>
+<td class="description"><p class="name"><a href="#getClassMetadata">getClassMetadata</a>(\ReflectionClass object)</p><p class="description">Gets the annotations associated to thie given class.</p></td>
 </tr>
 <tr>
 <td class="type"> array<mixed></td>
-<td class="description"><p class="name"><a href="#getMethodMetadata()">getMethodMetadata</a>(\ReflectionMethod method)</p><p class="description">Gets the annotations associated to thie given method.</p></td>
+<td class="description"><p class="name"><a href="#getMethodMetadata">getMethodMetadata</a>(\ReflectionMethod method)</p><p class="description">Gets the annotations associated to thie given method.</p></td>
 </tr>
 <tr>
 <td class="type"> array<mixed></td>
-<td class="description"><p class="name"><a href="#getPropertyMetadata()">getPropertyMetadata</a>(\ReflectionProperty property)</p><p class="description">Gets the annotations associated to thie given property.</p></td>
+<td class="description"><p class="name"><a href="#getPropertyMetadata">getPropertyMetadata</a>(\ReflectionProperty property)</p><p class="description">Gets the annotations associated to thie given property.</p></td>
 </tr>
 <tr>
 <td class="type"> mixed</td>
-<td class="description"><p class="name"><a href="#getClassMetadataById()">getClassMetadataById</a>(\ReflectionClass object, string metaDataId)</p><p class="description">Gets an annotation associated to thie given class by it's fully qualified class name.</p></td>
+<td class="description"><p class="name"><a href="#getClassMetadataById">getClassMetadataById</a>(\ReflectionClass object, string metaDataId)</p><p class="description">Gets an annotation associated to thie given class by it's fully qualified class name.</p></td>
 </tr>
 <tr>
 <td class="type"> mixed</td>
-<td class="description"><p class="name"><a href="#getMethodMetadataById()">getMethodMetadataById</a>(\ReflectionMethod method, string metaDataId)</p><p class="description">Gets an annotation associated to thie given method by it's fully qualified class name.</p></td>
+<td class="description"><p class="name"><a href="#getMethodMetadataById">getMethodMetadataById</a>(\ReflectionMethod method, string metaDataId)</p><p class="description">Gets an annotation associated to thie given method by it's fully qualified class name.</p></td>
 </tr>
 <tr>
 <td class="type"> mixed</td>
-<td class="description"><p class="name"><a href="#getPropertyMetadataById()">getPropertyMetadataById</a>(\ReflectionProperty property, string metaDataId)</p><p class="description">Gets an annotation associated to thie given property by it's fully qualified class name.</p></td>
+<td class="description"><p class="name"><a href="#getPropertyMetadataById">getPropertyMetadataById</a>(\ReflectionProperty property, string metaDataId)</p><p class="description">Gets an annotation associated to thie given property by it's fully qualified class name.</p></td>
 </tr>
 </table>
 
@@ -77,8 +79,7 @@ in the container to inject them later. </p></td>
 <tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/containeraware.html#setContainer()">setContainer</a></td></tr></table>
 
 <h2 id="detail_method">Constructor Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Core/DependencyInjection/AnnotationsBasedDependenciesManager.php.md#line49" class="location">framework\hirudo\Hirudo\Core\DependencyInjection\AnnotationsBasedDependenciesManager.php at line 49</a>
-
+<div class="location">framework\hirudo\Hirudo\Core\DependencyInjection\AnnotationsBasedDependenciesManager.php at line 49</div>
 <h3 id="__construct()">__construct</h3>
 ```php
 public  void **__construct**()```
@@ -88,8 +89,7 @@ public  void **__construct**()```
 - - -
 
 <h2 id="detail_method">Method Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Core/DependencyInjection/AnnotationsBasedDependenciesManager.php.md#line63" class="location">framework\hirudo\Hirudo\Core\DependencyInjection\AnnotationsBasedDependenciesManager.php at line 63</a>
-
+<div class="location">framework\hirudo\Hirudo\Core\DependencyInjection\AnnotationsBasedDependenciesManager.php at line 63</div>
 <h3 id="addServices()">addServices</h3>
 ```php
 public  void **addServices**(array implementationClasses)```
@@ -106,8 +106,7 @@ the @Export annotation in order to be injected.</p><dl>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Core/DependencyInjection/AnnotationsBasedDependenciesManager.php.md#line86" class="location">framework\hirudo\Hirudo\Core\DependencyInjection\AnnotationsBasedDependenciesManager.php at line 86</a>
-
+<div class="location">framework\hirudo\Hirudo\Core\DependencyInjection\AnnotationsBasedDependenciesManager.php at line 86</div>
 <h3 id="resolveDependencies()">resolveDependencies</h3>
 ```php
 public  void **resolveDependencies**(mixed object)```
@@ -123,8 +122,7 @@ regardless it's access level.</p><dl>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Core/DependencyInjection/AnnotationsBasedDependenciesManager.php.md#line166" class="location">framework\hirudo\Hirudo\Core\DependencyInjection\AnnotationsBasedDependenciesManager.php at line 166</a>
-
+<div class="location">framework\hirudo\Hirudo\Core\DependencyInjection\AnnotationsBasedDependenciesManager.php at line 166</div>
 <h3 id="getClassMetadata()">getClassMetadata</h3>
 ```php
 public  array<mixed> **getClassMetadata**(\ReflectionClass object)```
@@ -133,8 +131,7 @@ public  array<mixed> **getClassMetadata**(\ReflectionClass object)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Core/DependencyInjection/AnnotationsBasedDependenciesManager.php.md#line176" class="location">framework\hirudo\Hirudo\Core\DependencyInjection\AnnotationsBasedDependenciesManager.php at line 176</a>
-
+<div class="location">framework\hirudo\Hirudo\Core\DependencyInjection\AnnotationsBasedDependenciesManager.php at line 176</div>
 <h3 id="getMethodMetadata()">getMethodMetadata</h3>
 ```php
 public  array<mixed> **getMethodMetadata**(\ReflectionMethod method)```
@@ -143,8 +140,7 @@ public  array<mixed> **getMethodMetadata**(\ReflectionMethod method)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Core/DependencyInjection/AnnotationsBasedDependenciesManager.php.md#line186" class="location">framework\hirudo\Hirudo\Core\DependencyInjection\AnnotationsBasedDependenciesManager.php at line 186</a>
-
+<div class="location">framework\hirudo\Hirudo\Core\DependencyInjection\AnnotationsBasedDependenciesManager.php at line 186</div>
 <h3 id="getPropertyMetadata()">getPropertyMetadata</h3>
 ```php
 public  array<mixed> **getPropertyMetadata**(\ReflectionProperty property)```
@@ -153,8 +149,7 @@ public  array<mixed> **getPropertyMetadata**(\ReflectionProperty property)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Core/DependencyInjection/AnnotationsBasedDependenciesManager.php.md#line197" class="location">framework\hirudo\Hirudo\Core\DependencyInjection\AnnotationsBasedDependenciesManager.php at line 197</a>
-
+<div class="location">framework\hirudo\Hirudo\Core\DependencyInjection\AnnotationsBasedDependenciesManager.php at line 197</div>
 <h3 id="getClassMetadataById()">getClassMetadataById</h3>
 ```php
 public  mixed **getClassMetadataById**(\ReflectionClass object, string metaDataId)```
@@ -170,8 +165,7 @@ public  mixed **getClassMetadataById**(\ReflectionClass object, string metaDataI
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Core/DependencyInjection/AnnotationsBasedDependenciesManager.php.md#line208" class="location">framework\hirudo\Hirudo\Core\DependencyInjection\AnnotationsBasedDependenciesManager.php at line 208</a>
-
+<div class="location">framework\hirudo\Hirudo\Core\DependencyInjection\AnnotationsBasedDependenciesManager.php at line 208</div>
 <h3 id="getMethodMetadataById()">getMethodMetadataById</h3>
 ```php
 public  mixed **getMethodMetadataById**(\ReflectionMethod method, string metaDataId)```
@@ -187,8 +181,7 @@ public  mixed **getMethodMetadataById**(\ReflectionMethod method, string metaDat
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Core/DependencyInjection/AnnotationsBasedDependenciesManager.php.md#line219" class="location">framework\hirudo\Hirudo\Core\DependencyInjection\AnnotationsBasedDependenciesManager.php at line 219</a>
-
+<div class="location">framework\hirudo\Hirudo\Core\DependencyInjection\AnnotationsBasedDependenciesManager.php at line 219</div>
 <h3 id="getPropertyMetadataById()">getPropertyMetadataById</h3>
 ```php
 public  mixed **getPropertyMetadataById**(\ReflectionProperty property, string metaDataId)```

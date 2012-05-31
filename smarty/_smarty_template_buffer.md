@@ -1,15 +1,17 @@
 - - -
 
 **Smarty\_smarty_template_buffer**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_parsetree.php.md#line244" class="location">framework\libs\smarty\sysplugins\smarty_internal_parsetree.php at line 244</a>
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_parsetree.php at line 244</div>
+#Class _smarty_template_buffer#
 
-# Class _smarty_template_buffer #
+<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/_smarty_parsetree.html">_smarty_parsetree</a>
+    ***_smarty_template_buffer**
 
-<pre class="tree"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/_smarty_parsetree.html">_smarty_parsetree</a>\n    *** _smarty_template_buffer **\n</pre>
 
 - - -
 
-<p class="signature">public  class **_smarty_template_buffer**\nextends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/_smarty_parsetree.html">_smarty_parsetree</a>
+<p class="signature">public  class **_smarty_template_buffer**
+extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/_smarty_parsetree.html">_smarty_parsetree</a>
 
 </p>
 
@@ -38,7 +40,7 @@
 <tr><th colspan="2">Constructor Summary</th></tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#__construct()">__construct</a>(object parser)</p><p class="description">Create root of parse tree for template elements</p></td>
+<td class="description"><p class="name"><a href="#__construct">__construct</a>(object parser)</p><p class="description">Create root of parse tree for template elements</p></td>
 </tr>
 </table>
 
@@ -46,11 +48,11 @@
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#append_subtree()">append_subtree</a>(<a href="../smarty/_smarty_parsetree.html">_smarty_parsetree</a> subtree)</p><p class="description">Append buffer to subtree</p></td>
+<td class="description"><p class="name"><a href="#append_subtree">append_subtree</a>(<a href="../smarty/_smarty_parsetree.html">_smarty_parsetree</a> subtree)</p><p class="description">Append buffer to subtree</p></td>
 </tr>
 <tr>
 <td class="type"> string</td>
-<td class="description"><p class="name"><a href="#to_smarty_php()">to_smarty_php</a>()</p><p class="description">Sanitize and merge subtree buffers together</p></td>
+<td class="description"><p class="name"><a href="#to_smarty_php">to_smarty_php</a>()</p><p class="description">Sanitize and merge subtree buffers together</p></td>
 </tr>
 </table>
 
@@ -59,8 +61,7 @@
 <tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/_smarty_parsetree.html#to_smarty_php()">to_smarty_php</a></td></tr></table>
 
 ##Field Detail##
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_parsetree.php.md#line251" class="location">framework\libs\smarty\sysplugins\smarty_internal_parsetree.php at line 251</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_parsetree.php at line 251</div>
 <h3 id="subtrees">subtrees</h3>
 ```php
 public  array **$subtrees** = Array()```
@@ -70,8 +71,7 @@ public  array **$subtrees** = Array()```
 - - -
 
 <h2 id="detail_method">Constructor Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_parsetree.php.md#line258" class="location">framework\libs\smarty\sysplugins\smarty_internal_parsetree.php at line 258</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_parsetree.php at line 258</div>
 <h3 id="__construct()">__construct</h3>
 ```php
 public  void **__construct**(object parser)```
@@ -85,8 +85,7 @@ public  void **__construct**(object parser)```
 - - -
 
 <h2 id="detail_method">Method Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_parsetree.php.md#line268" class="location">framework\libs\smarty\sysplugins\smarty_internal_parsetree.php at line 268</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_parsetree.php at line 268</div>
 <h3 id="append_subtree()">append_subtree</h3>
 ```php
 public  void **append_subtree**(<a href="../smarty/_smarty_parsetree.html">_smarty_parsetree</a> subtree)```
@@ -95,8 +94,7 @@ public  void **append_subtree**(<a href="../smarty/_smarty_parsetree.html">_smar
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_parsetree.php.md#line278" class="location">framework\libs\smarty\sysplugins\smarty_internal_parsetree.php at line 278</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_parsetree.php at line 278</div>
 <h3 id="to_smarty_php()">to_smarty_php</h3>
 ```php
 public  string **to_smarty_php**()```

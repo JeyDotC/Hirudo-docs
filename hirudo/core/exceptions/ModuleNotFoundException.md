@@ -1,15 +1,18 @@
 - - -
 
 **Hirudo\Core\Exceptions\ModuleNotFoundException**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Core/Exceptions/ModuleNotFoundException.php.md#line29" class="location">framework\hirudo\Hirudo\Core\Exceptions\ModuleNotFoundException.php at line 29</a>
+<div class="location">framework\hirudo\Hirudo\Core\Exceptions\ModuleNotFoundException.php at line 29</div>
+#Class ModuleNotFoundException#
 
-# Class ModuleNotFoundException #
+\Exception
+*<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/exceptions/hirudoexception.html">HirudoException</a>
+        ***ModuleNotFoundException**
 
-<pre class="tree">\Exception\n*<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/exceptions/hirudoexception.html">HirudoException</a>\n        *** ModuleNotFoundException **\n</pre>
 
 - - -
 
-<p class="signature">public  class **ModuleNotFoundException**\nextends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/exceptions/hirudoexception.html">HirudoException</a>
+<p class="signature">public  class **ModuleNotFoundException**
+extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/exceptions/hirudoexception.html">HirudoException</a>
 
 </p>
 
@@ -21,7 +24,7 @@
 <tr><th colspan="2">Constructor Summary</th></tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#__construct()">__construct</a>(mixed module, mixed app)</p></td>
+<td class="description"><p class="name"><a href="#__construct">__construct</a>(mixed module, mixed app)</p></td>
 </tr>
 </table>
 
@@ -30,8 +33,7 @@
 <tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/exceptions/hirudoexception.html#__construct()">__construct</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/exceptions/hirudoexception.html#getApp()">getApp</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/exceptions/hirudoexception.html#getModule()">getModule</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/exceptions/hirudoexception.html#getTask()">getTask</a></td></tr></table>
 
 <h2 id="detail_method">Constructor Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Core/Exceptions/ModuleNotFoundException.php.md#line31" class="location">framework\hirudo\Hirudo\Core\Exceptions\ModuleNotFoundException.php at line 31</a>
-
+<div class="location">framework\hirudo\Hirudo\Core\Exceptions\ModuleNotFoundException.php at line 31</div>
 <h3 id="__construct()">__construct</h3>
 ```php
 public  void **__construct**(mixed module, mixed app)```

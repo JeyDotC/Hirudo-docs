@@ -1,6 +1,6 @@
 - - -
 
-# Namespace Hirudo\Core\Events #
+#Namespace Hirudo\Core\Events#
 
 <table class="title">
 <tr><th colspan="2" class="title">Class Summary</th></tr>

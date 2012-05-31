@@ -1,11 +1,11 @@
 - - -
 
 **Doctrine\Common\Cache\CacheProvider**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/doctrine-common/Doctrine/Common/Cache/CacheProvider.php.md#line33" class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\CacheProvider.php at line 33</a>
+<div class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\CacheProvider.php at line 33</div>
+#Class CacheProvider#
 
-# Class CacheProvider #
+**CacheProvider**
 
-<pre class="tree">** CacheProvider **\n</pre>
 
 <dl>
 <dt>All Implemented Interfaces:</dt>
@@ -39,11 +39,11 @@
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#delete()">delete</a>(mixed id)</p><p class="description">Deletes a cache entry.</p></td>
+<td class="description"><p class="name"><a href="#delete">delete</a>(mixed id)</p><p class="description">Deletes a cache entry.</p></td>
 </tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#getStats()">getStats</a>()</p><p class="description">Retrieves cached information from data storeThe server's statistics array has the following values:- <b>hits</b>
+<td class="description"><p class="name"><a href="#getStats">getStats</a>()</p><p class="description">Retrieves cached information from data storeThe server's statistics array has the following values:- <b>hits</b>
 Number of keys that have been requested and found present.- <b>misses</b>
 Number of items that have been requested and not found.- <b>uptime</b>
 Time that the server is running.- <b>memory_usage</b>
@@ -52,41 +52,40 @@ Memory allowed to use for storage.</p></td>
 </tr>
 <tr>
 <td class="type"> boolean</td>
-<td class="description"><p class="name"><a href="#flushAll()">flushAll</a>()</p><p class="description">Deletes all cache entries.</p></td>
+<td class="description"><p class="name"><a href="#flushAll">flushAll</a>()</p><p class="description">Deletes all cache entries.</p></td>
 </tr>
 <tr>
 <td class="type"> boolean</td>
-<td class="description"><p class="name"><a href="#deleteAll()">deleteAll</a>()</p><p class="description">Delete all cache entries.</p></td>
+<td class="description"><p class="name"><a href="#deleteAll">deleteAll</a>()</p><p class="description">Delete all cache entries.</p></td>
 </tr>
 <tr>
 <td class="type">protected abstract  string</td>
-<td class="description"><p class="name"><a href="#doFetch()">doFetch</a>(string id)</p><p class="description">Fetches an entry from the cache.</p></td>
+<td class="description"><p class="name"><a href="#doFetch">doFetch</a>(string id)</p><p class="description">Fetches an entry from the cache.</p></td>
 </tr>
 <tr>
 <td class="type">protected abstract  boolean</td>
-<td class="description"><p class="name"><a href="#doContains()">doContains</a>(string id)</p><p class="description">Test if an entry exists in the cache.</p></td>
+<td class="description"><p class="name"><a href="#doContains">doContains</a>(string id)</p><p class="description">Test if an entry exists in the cache.</p></td>
 </tr>
 <tr>
 <td class="type">protected abstract  boolean</td>
-<td class="description"><p class="name"><a href="#doSave()">doSave</a>(string id, string data, int lifeTime)</p><p class="description">Puts data into the cache.</p></td>
+<td class="description"><p class="name"><a href="#doSave">doSave</a>(string id, string data, int lifeTime)</p><p class="description">Puts data into the cache.</p></td>
 </tr>
 <tr>
 <td class="type">protected abstract  boolean</td>
-<td class="description"><p class="name"><a href="#doDelete()">doDelete</a>(string id)</p><p class="description">Deletes a cache entry.</p></td>
+<td class="description"><p class="name"><a href="#doDelete">doDelete</a>(string id)</p><p class="description">Deletes a cache entry.</p></td>
 </tr>
 <tr>
 <td class="type">protected abstract  boolean</td>
-<td class="description"><p class="name"><a href="#doFlush()">doFlush</a>()</p><p class="description">Deletes all cache entries.</p></td>
+<td class="description"><p class="name"><a href="#doFlush">doFlush</a>()</p><p class="description">Deletes all cache entries.</p></td>
 </tr>
 <tr>
 <td class="type">protected abstract  array</td>
-<td class="description"><p class="name"><a href="#doGetStats()">doGetStats</a>()</p><p class="description">Retrieves cached information from data store</p></td>
+<td class="description"><p class="name"><a href="#doGetStats">doGetStats</a>()</p><p class="description">Retrieves cached information from data store</p></td>
 </tr>
 </table>
 
 <h2 id="detail_method">Method Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/doctrine-common/Doctrine/Common/Cache/CacheProvider.php.md#line43" class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\CacheProvider.php at line 43</a>
-
+<div class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\CacheProvider.php at line 43</div>
 <h3 id="delete()">delete</h3>
 ```php
 public  void **delete**(mixed id)```
@@ -95,8 +94,7 @@ public  void **delete**(mixed id)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/doctrine-common/Doctrine/Common/Cache/CacheProvider.php.md#line51" class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\CacheProvider.php at line 51</a>
-
+<div class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\CacheProvider.php at line 51</div>
 <h3 id="getStats()">getStats</h3>
 ```php
 public  void **getStats**()```
@@ -110,8 +108,7 @@ Memory allowed to use for storage.</p></div>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/doctrine-common/Doctrine/Common/Cache/CacheProvider.php.md#line61" class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\CacheProvider.php at line 61</a>
-
+<div class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\CacheProvider.php at line 61</div>
 <h3 id="flushAll()">flushAll</h3>
 ```php
 public  boolean **flushAll**()```
@@ -124,8 +121,7 @@ public  boolean **flushAll**()```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/doctrine-common/Doctrine/Common/Cache/CacheProvider.php.md#line71" class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\CacheProvider.php at line 71</a>
-
+<div class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\CacheProvider.php at line 71</div>
 <h3 id="deleteAll()">deleteAll</h3>
 ```php
 public  boolean **deleteAll**()```
@@ -138,8 +134,7 @@ public  boolean **deleteAll**()```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/doctrine-common/Doctrine/Common/Cache/CacheProvider.php.md#line99" class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\CacheProvider.php at line 99</a>
-
+<div class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\CacheProvider.php at line 99</div>
 <h3 id="doFetch()">doFetch</h3>
 ```php
 protected abstract  string **doFetch**(string id)```
@@ -154,8 +149,7 @@ protected abstract  string **doFetch**(string id)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/doctrine-common/Doctrine/Common/Cache/CacheProvider.php.md#line107" class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\CacheProvider.php at line 107</a>
-
+<div class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\CacheProvider.php at line 107</div>
 <h3 id="doContains()">doContains</h3>
 ```php
 protected abstract  boolean **doContains**(string id)```
@@ -170,8 +164,7 @@ protected abstract  boolean **doContains**(string id)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/doctrine-common/Doctrine/Common/Cache/CacheProvider.php.md#line117" class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\CacheProvider.php at line 117</a>
-
+<div class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\CacheProvider.php at line 117</div>
 <h3 id="doSave()">doSave</h3>
 ```php
 protected abstract  boolean **doSave**(string id, string data, int lifeTime)```
@@ -188,8 +181,7 @@ protected abstract  boolean **doSave**(string id, string data, int lifeTime)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/doctrine-common/Doctrine/Common/Cache/CacheProvider.php.md#line125" class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\CacheProvider.php at line 125</a>
-
+<div class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\CacheProvider.php at line 125</div>
 <h3 id="doDelete()">doDelete</h3>
 ```php
 protected abstract  boolean **doDelete**(string id)```
@@ -204,8 +196,7 @@ protected abstract  boolean **doDelete**(string id)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/doctrine-common/Doctrine/Common/Cache/CacheProvider.php.md#line132" class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\CacheProvider.php at line 132</a>
-
+<div class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\CacheProvider.php at line 132</div>
 <h3 id="doFlush()">doFlush</h3>
 ```php
 protected abstract  boolean **doFlush**()```
@@ -218,8 +209,7 @@ protected abstract  boolean **doFlush**()```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/doctrine-common/Doctrine/Common/Cache/CacheProvider.php.md#line140" class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\CacheProvider.php at line 140</a>
-
+<div class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\CacheProvider.php at line 140</div>
 <h3 id="doGetStats()">doGetStats</h3>
 ```php
 protected abstract  array **doGetStats**()```

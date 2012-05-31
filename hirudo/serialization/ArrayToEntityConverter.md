@@ -1,11 +1,11 @@
 - - -
 
 **Hirudo\Serialization\ArrayToEntityConverter**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Serialization/ArrayToEntityConverter.php.md#line29" class="location">framework\hirudo\Hirudo\Serialization\ArrayToEntityConverter.php at line 29</a>
+<div class="location">framework\hirudo\Hirudo\Serialization\ArrayToEntityConverter.php at line 29</div>
+#Class ArrayToEntityConverter#
 
-# Class ArrayToEntityConverter #
+**ArrayToEntityConverter**
 
-<pre class="tree">** ArrayToEntityConverter **\n</pre>
 
 - - -
 
@@ -19,13 +19,12 @@
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td class="type"> mixed</td>
-<td class="description"><p class="name"><a href="#convert()">convert</a>(array array, mixed objectOrClassName)</p><p class="description">Converts an array into the given object. </p></td>
+<td class="description"><p class="name"><a href="#convert">convert</a>(array array, mixed objectOrClassName)</p><p class="description">Converts an array into the given object. </p></td>
 </tr>
 </table>
 
 <h2 id="detail_method">Method Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Serialization/ArrayToEntityConverter.php.md#line44" class="location">framework\hirudo\Hirudo\Serialization\ArrayToEntityConverter.php at line 44</a>
-
+<div class="location">framework\hirudo\Hirudo\Serialization\ArrayToEntityConverter.php at line 44</div>
 <h3 id="convert()">convert</h3>
 ```php
 public  mixed **convert**(array array, mixed objectOrClassName)```

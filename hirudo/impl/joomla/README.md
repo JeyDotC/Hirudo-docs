@@ -1,6 +1,6 @@
 - - -
 
-# Namespace Hirudo\Impl\Joomla #
+#Namespace Hirudo\Impl\Joomla#
 
 <table class="title">
 <tr><th colspan="2" class="title">Class Summary</th></tr>

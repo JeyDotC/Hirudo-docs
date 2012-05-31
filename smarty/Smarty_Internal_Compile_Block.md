@@ -1,15 +1,17 @@
 - - -
 
 **Smarty\Smarty_Internal_Compile_Block**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_compile_block.php.md#line18" class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_block.php at line 18</a>
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_block.php at line 18</div>
+#Class Smarty_Internal_Compile_Block#
 
-# Class Smarty_Internal_Compile_Block #
+<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_compilebase.html">Smarty_Internal_CompileBase</a>
+    ***Smarty_Internal_Compile_Block**
 
-<pre class="tree"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_compilebase.html">Smarty_Internal_CompileBase</a>\n    *** Smarty_Internal_Compile_Block **\n</pre>
 
 - - -
 
-<p class="signature">public  class **Smarty_Internal_Compile_Block**\nextends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_compilebase.html">Smarty_Internal_CompileBase</a>
+<p class="signature">public  class **Smarty_Internal_Compile_Block**
+extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_compilebase.html">Smarty_Internal_CompileBase</a>
 
 </p>
 
@@ -45,15 +47,15 @@
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td class="type"> boolean</td>
-<td class="description"><p class="name"><a href="#compile()">compile</a>(array args, object compiler)</p><p class="description">Compiles code for the {block} tag</p></td>
+<td class="description"><p class="name"><a href="#compile">compile</a>(array args, object compiler)</p><p class="description">Compiles code for the {block} tag</p></td>
 </tr>
 <tr>
 <td class="type">static  void</td>
-<td class="description"><p class="name"><a href="#saveBlockData()">saveBlockData</a>(string block_content, string block_tag, object template, string filepath)</p><p class="description">Save or replace child block source by block name during parsing</p></td>
+<td class="description"><p class="name"><a href="#saveBlockData">saveBlockData</a>(string block_content, string block_tag, object template, string filepath)</p><p class="description">Save or replace child block source by block name during parsing</p></td>
 </tr>
 <tr>
 <td class="type">static  string</td>
-<td class="description"><p class="name"><a href="#compileChildBlock()">compileChildBlock</a>(object compiler, string _name)</p><p class="description">Compile saved child block source</p></td>
+<td class="description"><p class="name"><a href="#compileChildBlock">compileChildBlock</a>(object compiler, string _name)</p><p class="description">Compile saved child block source</p></td>
 </tr>
 </table>
 
@@ -62,8 +64,7 @@
 <tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_compilebase.html#closeTag()">closeTag</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_compilebase.html#getAttributes()">getAttributes</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_compilebase.html#openTag()">openTag</a></td></tr></table>
 
 ##Field Detail##
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_compile_block.php.md#line40" class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_block.php at line 40</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_block.php at line 40</div>
 <h3 id="optional_attributes">optional_attributes</h3>
 ```php
 public  array **$optional_attributes** = array('hide')```
@@ -76,8 +77,7 @@ public  array **$optional_attributes** = array('hide')```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_compile_block.php.md#line26" class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_block.php at line 26</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_block.php at line 26</div>
 <h3 id="required_attributes">required_attributes</h3>
 ```php
 public  array **$required_attributes** = array('name')```
@@ -90,8 +90,7 @@ public  array **$required_attributes** = array('name')```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_compile_block.php.md#line33" class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_block.php at line 33</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_block.php at line 33</div>
 <h3 id="shorttag_order">shorttag_order</h3>
 ```php
 public  array **$shorttag_order** = array('name', 'hide')```
@@ -105,8 +104,7 @@ public  array **$shorttag_order** = array('name', 'hide')```
 - - -
 
 <h2 id="detail_method">Method Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_compile_block.php.md#line49" class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_block.php at line 49</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_block.php at line 49</div>
 <h3 id="compile()">compile</h3>
 ```php
 public  boolean **compile**(array args, object compiler)```
@@ -122,8 +120,7 @@ public  boolean **compile**(array args, object compiler)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_compile_block.php.md#line76" class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_block.php at line 76</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_block.php at line 76</div>
 <h3 id="saveBlockData()">saveBlockData</h3>
 ```php
 public static  void **saveBlockData**(string block_content, string block_tag, object template, string filepath)```
@@ -139,8 +136,7 @@ public static  void **saveBlockData**(string block_content, string block_tag, ob
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_compile_block.php.md#line149" class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_block.php at line 149</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_block.php at line 149</div>
 <h3 id="compileChildBlock()">compileChildBlock</h3>
 ```php
 public static  string **compileChildBlock**(object compiler, string _name)```

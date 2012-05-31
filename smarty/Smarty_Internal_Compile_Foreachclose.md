@@ -1,15 +1,17 @@
 - - -
 
 **Smarty\Smarty_Internal_Compile_Foreachclose**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_compile_foreach.php.md#line205" class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_foreach.php at line 205</a>
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_foreach.php at line 205</div>
+#Class Smarty_Internal_Compile_Foreachclose#
 
-# Class Smarty_Internal_Compile_Foreachclose #
+<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_compilebase.html">Smarty_Internal_CompileBase</a>
+    ***Smarty_Internal_Compile_Foreachclose**
 
-<pre class="tree"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_compilebase.html">Smarty_Internal_CompileBase</a>\n    *** Smarty_Internal_Compile_Foreachclose **\n</pre>
 
 - - -
 
-<p class="signature">public  class **Smarty_Internal_Compile_Foreachclose**\nextends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_compilebase.html">Smarty_Internal_CompileBase</a>
+<p class="signature">public  class **Smarty_Internal_Compile_Foreachclose**
+extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_compilebase.html">Smarty_Internal_CompileBase</a>
 
 </p>
 
@@ -29,7 +31,7 @@
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td class="type"> string</td>
-<td class="description"><p class="name"><a href="#compile()">compile</a>(array args, object compiler, array parameter)</p><p class="description">Compiles code for the {/foreach} tag</p></td>
+<td class="description"><p class="name"><a href="#compile">compile</a>(array args, object compiler, array parameter)</p><p class="description">Compiles code for the {/foreach} tag</p></td>
 </tr>
 </table>
 
@@ -38,8 +40,7 @@
 <tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_compilebase.html#closeTag()">closeTag</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_compilebase.html#getAttributes()">getAttributes</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_compilebase.html#openTag()">openTag</a></td></tr></table>
 
 <h2 id="detail_method">Method Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_compile_foreach.php.md#line215" class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_foreach.php at line 215</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_foreach.php at line 215</div>
 <h3 id="compile()">compile</h3>
 ```php
 public  string **compile**(array args, object compiler, array parameter)```

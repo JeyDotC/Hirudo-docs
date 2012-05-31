@@ -1,3 +1,3 @@
 - - -
 
-# Class Hierarchy for Package Symfony\Component\Yaml\Exception #
+#Class Hierarchy for Package Symfony\Component\Yaml\Exception#

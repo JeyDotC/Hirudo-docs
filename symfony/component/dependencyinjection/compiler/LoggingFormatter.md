@@ -1,11 +1,11 @@
 - - -
 
 **Symfony\Component\DependencyInjection\Compiler\LoggingFormatter**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/LoggingFormatter.php.md#line21" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\LoggingFormatter.php at line 21</a>
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\LoggingFormatter.php at line 21</div>
+#Class LoggingFormatter#
 
-# Class LoggingFormatter #
+**LoggingFormatter**
 
-<pre class="tree">** LoggingFormatter **\n</pre>
 
 - - -
 
@@ -23,29 +23,28 @@
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#formatRemoveService()">formatRemoveService</a>(<a href="../../../../symfony/component/dependencyinjection/compiler/compilerpassinterface.html">CompilerPassInterface</a> pass, mixed id, mixed reason)</p></td>
+<td class="description"><p class="name"><a href="#formatRemoveService">formatRemoveService</a>(<a href="../../../../symfony/component/dependencyinjection/compiler/compilerpassinterface.html">CompilerPassInterface</a> pass, mixed id, mixed reason)</p></td>
 </tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#formatInlineService()">formatInlineService</a>(<a href="../../../../symfony/component/dependencyinjection/compiler/compilerpassinterface.html">CompilerPassInterface</a> pass, mixed id, mixed target)</p></td>
+<td class="description"><p class="name"><a href="#formatInlineService">formatInlineService</a>(<a href="../../../../symfony/component/dependencyinjection/compiler/compilerpassinterface.html">CompilerPassInterface</a> pass, mixed id, mixed target)</p></td>
 </tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#formatUpdateReference()">formatUpdateReference</a>(<a href="../../../../symfony/component/dependencyinjection/compiler/compilerpassinterface.html">CompilerPassInterface</a> pass, mixed serviceId, mixed oldDestId, mixed newDestId)</p></td>
+<td class="description"><p class="name"><a href="#formatUpdateReference">formatUpdateReference</a>(<a href="../../../../symfony/component/dependencyinjection/compiler/compilerpassinterface.html">CompilerPassInterface</a> pass, mixed serviceId, mixed oldDestId, mixed newDestId)</p></td>
 </tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#formatResolveInheritance()">formatResolveInheritance</a>(<a href="../../../../symfony/component/dependencyinjection/compiler/compilerpassinterface.html">CompilerPassInterface</a> pass, mixed childId, mixed parentId)</p></td>
+<td class="description"><p class="name"><a href="#formatResolveInheritance">formatResolveInheritance</a>(<a href="../../../../symfony/component/dependencyinjection/compiler/compilerpassinterface.html">CompilerPassInterface</a> pass, mixed childId, mixed parentId)</p></td>
 </tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#format()">format</a>(<a href="../../../../symfony/component/dependencyinjection/compiler/compilerpassinterface.html">CompilerPassInterface</a> pass, mixed message)</p></td>
+<td class="description"><p class="name"><a href="#format">format</a>(<a href="../../../../symfony/component/dependencyinjection/compiler/compilerpassinterface.html">CompilerPassInterface</a> pass, mixed message)</p></td>
 </tr>
 </table>
 
 <h2 id="detail_method">Method Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/LoggingFormatter.php.md#line23" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\LoggingFormatter.php at line 23</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\LoggingFormatter.php at line 23</div>
 <h3 id="formatRemoveService()">formatRemoveService</h3>
 ```php
 public  void **formatRemoveService**(<a href="../../../../symfony/component/dependencyinjection/compiler/compilerpassinterface.html">CompilerPassInterface</a> pass, mixed id, mixed reason)```
@@ -54,8 +53,7 @@ public  void **formatRemoveService**(<a href="../../../../symfony/component/depe
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/LoggingFormatter.php.md#line28" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\LoggingFormatter.php at line 28</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\LoggingFormatter.php at line 28</div>
 <h3 id="formatInlineService()">formatInlineService</h3>
 ```php
 public  void **formatInlineService**(<a href="../../../../symfony/component/dependencyinjection/compiler/compilerpassinterface.html">CompilerPassInterface</a> pass, mixed id, mixed target)```
@@ -64,8 +62,7 @@ public  void **formatInlineService**(<a href="../../../../symfony/component/depe
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/LoggingFormatter.php.md#line33" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\LoggingFormatter.php at line 33</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\LoggingFormatter.php at line 33</div>
 <h3 id="formatUpdateReference()">formatUpdateReference</h3>
 ```php
 public  void **formatUpdateReference**(<a href="../../../../symfony/component/dependencyinjection/compiler/compilerpassinterface.html">CompilerPassInterface</a> pass, mixed serviceId, mixed oldDestId, mixed newDestId)```
@@ -74,8 +71,7 @@ public  void **formatUpdateReference**(<a href="../../../../symfony/component/de
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/LoggingFormatter.php.md#line38" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\LoggingFormatter.php at line 38</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\LoggingFormatter.php at line 38</div>
 <h3 id="formatResolveInheritance()">formatResolveInheritance</h3>
 ```php
 public  void **formatResolveInheritance**(<a href="../../../../symfony/component/dependencyinjection/compiler/compilerpassinterface.html">CompilerPassInterface</a> pass, mixed childId, mixed parentId)```
@@ -84,8 +80,7 @@ public  void **formatResolveInheritance**(<a href="../../../../symfony/component
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/LoggingFormatter.php.md#line43" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\LoggingFormatter.php at line 43</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\LoggingFormatter.php at line 43</div>
 <h3 id="format()">format</h3>
 ```php
 public  void **format**(<a href="../../../../symfony/component/dependencyinjection/compiler/compilerpassinterface.html">CompilerPassInterface</a> pass, mixed message)```

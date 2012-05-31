@@ -1,11 +1,11 @@
 - - -
 
 **Symfony\Component\DependencyInjection\Compiler\CheckCircularReferencesPass**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/CheckCircularReferencesPass.php.md#line27" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\CheckCircularReferencesPass.php at line 27</a>
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\CheckCircularReferencesPass.php at line 27</div>
+#Class CheckCircularReferencesPass#
 
-# Class CheckCircularReferencesPass #
+**CheckCircularReferencesPass**
 
-<pre class="tree">** CheckCircularReferencesPass **\n</pre>
 
 - - -
 
@@ -24,13 +24,12 @@ these references depending on the order in which services are called.</p><p>Circ
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#process()">process</a>(<a href="../../../../symfony/component/dependencyinjection/containerbuilder.html">ContainerBuilder</a> container)</p><p class="description">Checks the ContainerBuilder object for circular references.</p></td>
+<td class="description"><p class="name"><a href="#process">process</a>(<a href="../../../../symfony/component/dependencyinjection/containerbuilder.html">ContainerBuilder</a> container)</p><p class="description">Checks the ContainerBuilder object for circular references.</p></td>
 </tr>
 </table>
 
 <h2 id="detail_method">Method Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/CheckCircularReferencesPass.php.md#line37" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\CheckCircularReferencesPass.php at line 37</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\CheckCircularReferencesPass.php at line 37</div>
 <h3 id="process()">process</h3>
 ```php
 public  void **process**(<a href="../../../../symfony/component/dependencyinjection/containerbuilder.html">ContainerBuilder</a> container)```

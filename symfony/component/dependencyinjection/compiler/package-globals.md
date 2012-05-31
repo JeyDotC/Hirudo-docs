@@ -1,6 +1,6 @@
 - - -
 
-# Globals #
+#Globals#
 
 - - -
 
@@ -13,8 +13,7 @@
 </table>
 
 <h2 id="detail_global">Global Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/PassConfig.php.md#line25" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\PassConfig.php at line 25</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\PassConfig.php at line 25</div>
 <h3 id="TYPE_AFTER_REMOVING">TYPE_AFTER_REMOVING</h3>
 ```php
 public final  mixed **TYPE_AFTER_REMOVING** = new ResolveParameterPlaceHoldersPass(```

@@ -1,11 +1,11 @@
 - - -
 
 **Symfony\Component\DependencyInjection\Dumper\Dumper**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Dumper/Dumper.php.md#line23" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Dumper\Dumper.php at line 23</a>
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Dumper\Dumper.php at line 23</div>
+#Class Dumper#
 
-# Class Dumper #
+**Dumper**
 
-<pre class="tree">** Dumper **\n</pre>
 
 <dl>
 <dt>All Known Subclasses:</dt>
@@ -37,13 +37,12 @@
 <tr><th colspan="2">Constructor Summary</th></tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#__construct()">__construct</a>(<a href="../../../../symfony/component/dependencyinjection/containerbuilder.html">ContainerBuilder</a> container)</p><p class="description">Constructor.</p></td>
+<td class="description"><p class="name"><a href="#__construct">__construct</a>(<a href="../../../../symfony/component/dependencyinjection/containerbuilder.html">ContainerBuilder</a> container)</p><p class="description">Constructor.</p></td>
 </tr>
 </table>
 
 ##Field Detail##
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Dumper/Dumper.php.md#line25" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Dumper\Dumper.php at line 25</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Dumper\Dumper.php at line 25</div>
 <h3 id="container">container</h3>
 ```php
 protected  mixed **$container**```
@@ -53,8 +52,7 @@ protected  mixed **$container**```
 - - -
 
 <h2 id="detail_method">Constructor Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Dumper/Dumper.php.md#line34" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Dumper\Dumper.php at line 34</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Dumper\Dumper.php at line 34</div>
 <h3 id="__construct()">__construct</h3>
 ```php
 public  void **__construct**(<a href="../../../../symfony/component/dependencyinjection/containerbuilder.html">ContainerBuilder</a> container)```

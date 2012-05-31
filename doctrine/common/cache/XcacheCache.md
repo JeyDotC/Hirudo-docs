@@ -1,15 +1,17 @@
 - - -
 
 **Doctrine\Common\Cache\XcacheCache**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/doctrine-common/Doctrine/Common/Cache/XcacheCache.php.md#line35" class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\XcacheCache.php at line 35</a>
+<div class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\XcacheCache.php at line 35</div>
+#Class XcacheCache#
 
-# Class XcacheCache #
+<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/cache/cacheprovider.html">CacheProvider</a>
+    ***XcacheCache**
 
-<pre class="tree"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/cache/cacheprovider.html">CacheProvider</a>\n    *** XcacheCache **\n</pre>
 
 - - -
 
-<p class="signature">public  class **XcacheCache**\nextends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/cache/cacheprovider.html">CacheProvider</a>
+<p class="signature">public  class **XcacheCache**
+extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/cache/cacheprovider.html">CacheProvider</a>
 
 </p>
 
@@ -35,31 +37,31 @@
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td class="type">protected  string</td>
-<td class="description"><p class="name"><a href="#doFetch()">doFetch</a>(string id)</p><p class="description">Fetches an entry from the cache.</p></td>
+<td class="description"><p class="name"><a href="#doFetch">doFetch</a>(string id)</p><p class="description">Fetches an entry from the cache.</p></td>
 </tr>
 <tr>
 <td class="type">protected  boolean</td>
-<td class="description"><p class="name"><a href="#doContains()">doContains</a>(string id)</p><p class="description">Test if an entry exists in the cache.</p></td>
+<td class="description"><p class="name"><a href="#doContains">doContains</a>(string id)</p><p class="description">Test if an entry exists in the cache.</p></td>
 </tr>
 <tr>
 <td class="type">protected  boolean</td>
-<td class="description"><p class="name"><a href="#doSave()">doSave</a>(string id, string data, int lifeTime)</p><p class="description">Puts data into the cache.</p></td>
+<td class="description"><p class="name"><a href="#doSave">doSave</a>(string id, string data, int lifeTime)</p><p class="description">Puts data into the cache.</p></td>
 </tr>
 <tr>
 <td class="type">protected  boolean</td>
-<td class="description"><p class="name"><a href="#doDelete()">doDelete</a>(string id)</p><p class="description">Deletes a cache entry.</p></td>
+<td class="description"><p class="name"><a href="#doDelete">doDelete</a>(string id)</p><p class="description">Deletes a cache entry.</p></td>
 </tr>
 <tr>
 <td class="type">protected  boolean</td>
-<td class="description"><p class="name"><a href="#doFlush()">doFlush</a>()</p><p class="description">Deletes all cache entries.</p></td>
+<td class="description"><p class="name"><a href="#doFlush">doFlush</a>()</p><p class="description">Deletes all cache entries.</p></td>
 </tr>
 <tr>
 <td class="type">protected  void</td>
-<td class="description"><p class="name"><a href="#checkAuthorization()">checkAuthorization</a>()</p><p class="description">Checks that xcache.admin.enable_auth is Off</p></td>
+<td class="description"><p class="name"><a href="#checkAuthorization">checkAuthorization</a>()</p><p class="description">Checks that xcache.admin.enable_auth is Off</p></td>
 </tr>
 <tr>
 <td class="type">protected  array</td>
-<td class="description"><p class="name"><a href="#doGetStats()">doGetStats</a>()</p><p class="description">Retrieves cached information from data store</p></td>
+<td class="description"><p class="name"><a href="#doGetStats">doGetStats</a>()</p><p class="description">Retrieves cached information from data store</p></td>
 </tr>
 </table>
 
@@ -68,8 +70,7 @@
 <tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/cache/cacheprovider.html#delete()">delete</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/cache/cacheprovider.html#deleteAll()">deleteAll</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/cache/cacheprovider.html#doContains()">doContains</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/cache/cacheprovider.html#doDelete()">doDelete</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/cache/cacheprovider.html#doFetch()">doFetch</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/cache/cacheprovider.html#doFlush()">doFlush</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/cache/cacheprovider.html#doGetStats()">doGetStats</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/cache/cacheprovider.html#doSave()">doSave</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/cache/cacheprovider.html#flushAll()">flushAll</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/cache/cacheprovider.html#getStats()">getStats</a></td></tr></table>
 
 <h2 id="detail_method">Method Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/doctrine-common/Doctrine/Common/Cache/XcacheCache.php.md#line40" class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\XcacheCache.php at line 40</a>
-
+<div class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\XcacheCache.php at line 40</div>
 <h3 id="doFetch()">doFetch</h3>
 ```php
 protected  string **doFetch**(string id)```
@@ -84,8 +85,7 @@ protected  string **doFetch**(string id)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/doctrine-common/Doctrine/Common/Cache/XcacheCache.php.md#line48" class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\XcacheCache.php at line 48</a>
-
+<div class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\XcacheCache.php at line 48</div>
 <h3 id="doContains()">doContains</h3>
 ```php
 protected  boolean **doContains**(string id)```
@@ -100,8 +100,7 @@ protected  boolean **doContains**(string id)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/doctrine-common/Doctrine/Common/Cache/XcacheCache.php.md#line56" class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\XcacheCache.php at line 56</a>
-
+<div class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\XcacheCache.php at line 56</div>
 <h3 id="doSave()">doSave</h3>
 ```php
 protected  boolean **doSave**(string id, string data, int lifeTime)```
@@ -118,8 +117,7 @@ protected  boolean **doSave**(string id, string data, int lifeTime)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/doctrine-common/Doctrine/Common/Cache/XcacheCache.php.md#line64" class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\XcacheCache.php at line 64</a>
-
+<div class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\XcacheCache.php at line 64</div>
 <h3 id="doDelete()">doDelete</h3>
 ```php
 protected  boolean **doDelete**(string id)```
@@ -134,8 +132,7 @@ protected  boolean **doDelete**(string id)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/doctrine-common/Doctrine/Common/Cache/XcacheCache.php.md#line72" class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\XcacheCache.php at line 72</a>
-
+<div class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\XcacheCache.php at line 72</div>
 <h3 id="doFlush()">doFlush</h3>
 ```php
 protected  boolean **doFlush**()```
@@ -148,8 +145,7 @@ protected  boolean **doFlush**()```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/doctrine-common/Doctrine/Common/Cache/XcacheCache.php.md#line87" class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\XcacheCache.php at line 87</a>
-
+<div class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\XcacheCache.php at line 87</div>
 <h3 id="checkAuthorization()">checkAuthorization</h3>
 ```php
 protected  void **checkAuthorization**()```
@@ -162,8 +158,7 @@ protected  void **checkAuthorization**()```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/doctrine-common/Doctrine/Common/Cache/XcacheCache.php.md#line97" class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\XcacheCache.php at line 97</a>
-
+<div class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\XcacheCache.php at line 97</div>
 <h3 id="doGetStats()">doGetStats</h3>
 ```php
 protected  array **doGetStats**()```

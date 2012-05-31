@@ -1,11 +1,11 @@
 - - -
 
 **Symfony\Component\DependencyInjection\ContainerAwareInterface**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ContainerAwareInterface.php.md#line21" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerAwareInterface.php at line 21</a>
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerAwareInterface.php at line 21</div>
+#Interface ContainerAwareInterface#
 
-# Interface ContainerAwareInterface #
+**ContainerAwareInterface**
 
-<pre class="tree">** ContainerAwareInterface **\n</pre>
 
 - - -
 
@@ -24,13 +24,12 @@
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#setContainer()">setContainer</a>(<a href="../../../symfony/component/dependencyinjection/containerinterface.html">ContainerInterface</a> container)</p><p class="description">Sets the Container.</p></td>
+<td class="description"><p class="name"><a href="#setContainer">setContainer</a>(<a href="../../../symfony/component/dependencyinjection/containerinterface.html">ContainerInterface</a> container)</p><p class="description">Sets the Container.</p></td>
 </tr>
 </table>
 
 <h2 id="detail_method">Method Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ContainerAwareInterface.php.md#line30" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerAwareInterface.php at line 30</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerAwareInterface.php at line 30</div>
 <h3 id="setContainer()">setContainer</h3>
 ```php
 public  void **setContainer**(<a href="../../../symfony/component/dependencyinjection/containerinterface.html">ContainerInterface</a> container)```

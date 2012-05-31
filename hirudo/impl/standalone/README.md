@@ -1,6 +1,6 @@
 - - -
 
-# Namespace Hirudo\Impl\StandAlone #
+#Namespace Hirudo\Impl\StandAlone#
 
 <table class="title">
 <tr><th colspan="2" class="title">Class Summary</th></tr>

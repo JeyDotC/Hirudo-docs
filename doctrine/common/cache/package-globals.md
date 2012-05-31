@@ -1,6 +1,6 @@
 - - -
 
-# Globals #
+#Globals#
 
 - - -
 
@@ -17,8 +17,7 @@
 </table>
 
 <h2 id="detail_global">Global Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/doctrine-common/Doctrine/Common/Cache/CacheProvider.php.md#line35" class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\CacheProvider.php at line 35</a>
-
+<div class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\CacheProvider.php at line 35</div>
 <h3 id="DOCTRINE_NAMESPACE_CACHEKEY">DOCTRINE_NAMESPACE_CACHEKEY</h3>
 ```php
 public final  mixed **DOCTRINE_NAMESPACE_CACHEKEY** = $data, $lifeTime = 0```
@@ -27,8 +26,7 @@ public final  mixed **DOCTRINE_NAMESPACE_CACHEKEY** = $data, $lifeTime = 0```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/doctrine-common/Doctrine/Common/Cache/Cache.php.md#line38" class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\Cache.php at line 38</a>
-
+<div class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\Cache.php at line 38</div>
 <h3 id="STATS_HITS">STATS_HITS</h3>
 ```php
 public final  mixed **STATS_HITS** = $data, $lifeTime = 0```

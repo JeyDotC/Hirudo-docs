@@ -1,11 +1,11 @@
 - - -
 
 **Symfony\Component\DependencyInjection\Variable**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Variable.php.md#line27" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Variable.php at line 27</a>
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Variable.php at line 27</div>
+#Class Variable#
 
-# Class Variable #
+**Variable**
 
-<pre class="tree">** Variable **\n</pre>
 
 - - -
 
@@ -23,13 +23,12 @@
 <tr><th colspan="2">Constructor Summary</th></tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#__construct()">__construct</a>(string name)</p><p class="description">Constructor</p></td>
+<td class="description"><p class="name"><a href="#__construct">__construct</a>(string name)</p><p class="description">Constructor</p></td>
 </tr>
 </table>
 
 <h2 id="detail_method">Constructor Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Variable.php.md#line36" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Variable.php at line 36</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Variable.php at line 36</div>
 <h3 id="__construct()">__construct</h3>
 ```php
 public  void **__construct**(string name)```

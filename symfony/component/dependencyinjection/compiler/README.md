@@ -1,6 +1,6 @@
 - - -
 
-# Namespace Symfony\Component\DependencyInjection\Compiler #
+#Namespace Symfony\Component\DependencyInjection\Compiler#
 
 <table class="title">
 <tr><th colspan="2" class="title">Class Summary</th></tr>

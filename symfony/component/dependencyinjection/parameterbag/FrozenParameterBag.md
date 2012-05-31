@@ -1,15 +1,17 @@
 - - -
 
 **Symfony\Component\DependencyInjection\ParameterBag\FrozenParameterBag**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ParameterBag/FrozenParameterBag.php.md#line20" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ParameterBag\FrozenParameterBag.php at line 20</a>
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ParameterBag\FrozenParameterBag.php at line 20</div>
+#Class FrozenParameterBag#
 
-# Class FrozenParameterBag #
+<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/parameterbag/parameterbag.html">ParameterBag</a>
+    ***FrozenParameterBag**
 
-<pre class="tree"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/parameterbag/parameterbag.html">ParameterBag</a>\n    *** FrozenParameterBag **\n</pre>
 
 - - -
 
-<p class="signature">public  class **FrozenParameterBag**\nextends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/parameterbag/parameterbag.html">ParameterBag</a>
+<p class="signature">public  class **FrozenParameterBag**
+extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/parameterbag/parameterbag.html">ParameterBag</a>
 
 </p>
 
@@ -30,7 +32,7 @@
 <tr><th colspan="2">Constructor Summary</th></tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#__construct()">__construct</a>(array parameters)</p><p class="description">Constructor.
+<td class="description"><p class="name"><a href="#__construct">__construct</a>(array parameters)</p><p class="description">Constructor.
 </p></td>
 </tr>
 </table>
@@ -39,15 +41,15 @@
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#clear()">clear</a>()</p><p class="description">Clears all parameters.</p></td>
+<td class="description"><p class="name"><a href="#clear">clear</a>()</p><p class="description">Clears all parameters.</p></td>
 </tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#add()">add</a>(array parameters)</p><p class="description">Adds parameters to the service container parameters.</p></td>
+<td class="description"><p class="name"><a href="#add">add</a>(array parameters)</p><p class="description">Adds parameters to the service container parameters.</p></td>
 </tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#set()">set</a>(string name, mixed value)</p><p class="description">Sets a service container parameter.</p></td>
+<td class="description"><p class="name"><a href="#set">set</a>(string name, mixed value)</p><p class="description">Sets a service container parameter.</p></td>
 </tr>
 </table>
 
@@ -56,8 +58,7 @@
 <tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/parameterbag/parameterbag.html#__construct()">__construct</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/parameterbag/parameterbag.html#add()">add</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/parameterbag/parameterbag.html#all()">all</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/parameterbag/parameterbag.html#clear()">clear</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/parameterbag/parameterbag.html#get()">get</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/parameterbag/parameterbag.html#has()">has</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/parameterbag/parameterbag.html#isResolved()">isResolved</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/parameterbag/parameterbag.html#resolve()">resolve</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/parameterbag/parameterbag.html#resolveString()">resolveString</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/parameterbag/parameterbag.html#resolveValue()">resolveValue</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/parameterbag/parameterbag.html#set()">set</a></td></tr></table>
 
 <h2 id="detail_method">Constructor Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ParameterBag/FrozenParameterBag.php.md#line34" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ParameterBag\FrozenParameterBag.php at line 34</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ParameterBag\FrozenParameterBag.php at line 34</div>
 <h3 id="__construct()">__construct</h3>
 ```php
 public  void **__construct**(array parameters)```
@@ -73,8 +74,7 @@ all keys are already lowercased.</p><p>This is always the case when used interna
 - - -
 
 <h2 id="detail_method">Method Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ParameterBag/FrozenParameterBag.php.md#line45" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ParameterBag\FrozenParameterBag.php at line 45</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ParameterBag\FrozenParameterBag.php at line 45</div>
 <h3 id="clear()">clear</h3>
 ```php
 public  void **clear**()```
@@ -86,8 +86,7 @@ public  void **clear**()```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ParameterBag/FrozenParameterBag.php.md#line55" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ParameterBag\FrozenParameterBag.php at line 55</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ParameterBag\FrozenParameterBag.php at line 55</div>
 <h3 id="add()">add</h3>
 ```php
 public  void **add**(array parameters)```
@@ -101,8 +100,7 @@ public  void **add**(array parameters)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ParameterBag/FrozenParameterBag.php.md#line65" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ParameterBag\FrozenParameterBag.php at line 65</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ParameterBag\FrozenParameterBag.php at line 65</div>
 <h3 id="set()">set</h3>
 ```php
 public  void **set**(string name, mixed value)```

@@ -1,11 +1,11 @@
 - - -
 
 **Smarty\Smarty_Internal_Configfilelexer**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_configfilelexer.php.md#line13" class="location">framework\libs\smarty\sysplugins\smarty_internal_configfilelexer.php at line 13</a>
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_configfilelexer.php at line 13</div>
+#Class Smarty_Internal_Configfilelexer#
 
-# Class Smarty_Internal_Configfilelexer #
+**Smarty_Internal_Configfilelexer**
 
-<pre class="tree">** Smarty_Internal_Configfilelexer **\n</pre>
 
 - - -
 
@@ -51,7 +51,7 @@
 <tr><th colspan="2">Constructor Summary</th></tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#__construct()">__construct</a>(mixed data, mixed smarty)</p></td>
+<td class="description"><p class="name"><a href="#__construct">__construct</a>(mixed data, mixed smarty)</p></td>
 </tr>
 </table>
 
@@ -59,33 +59,32 @@
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td class="type">static  void</td>
-<td class="description"><p class="name"><a href="#instance()">instance</a>(mixed new_instance)</p></td>
+<td class="description"><p class="name"><a href="#instance">instance</a>(mixed new_instance)</p></td>
 </tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#yylex()">yylex</a>()</p></td>
+<td class="description"><p class="name"><a href="#yylex">yylex</a>()</p></td>
 </tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#yypushstate()">yypushstate</a>(mixed state)</p></td>
+<td class="description"><p class="name"><a href="#yypushstate">yypushstate</a>(mixed state)</p></td>
 </tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#yypopstate()">yypopstate</a>()</p></td>
+<td class="description"><p class="name"><a href="#yypopstate">yypopstate</a>()</p></td>
 </tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#yybegin()">yybegin</a>(mixed state)</p></td>
+<td class="description"><p class="name"><a href="#yybegin">yybegin</a>(mixed state)</p></td>
 </tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#yylex1()">yylex1</a>()</p></td>
+<td class="description"><p class="name"><a href="#yylex1">yylex1</a>()</p></td>
 </tr>
 </table>
 
 ##Field Detail##
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_configfilelexer.php.md#line17" class="location">framework\libs\smarty\sysplugins\smarty_internal_configfilelexer.php at line 17</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_configfilelexer.php at line 17</div>
 <h3 id="counter">counter</h3>
 ```php
 public  mixed **$counter**```
@@ -94,8 +93,7 @@ public  mixed **$counter**```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_configfilelexer.php.md#line16" class="location">framework\libs\smarty\sysplugins\smarty_internal_configfilelexer.php at line 16</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_configfilelexer.php at line 16</div>
 <h3 id="data">data</h3>
 ```php
 public  mixed **$data** = null```
@@ -104,8 +102,7 @@ public  mixed **$data** = null```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_configfilelexer.php.md#line21" class="location">framework\libs\smarty\sysplugins\smarty_internal_configfilelexer.php at line 21</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_configfilelexer.php at line 21</div>
 <h3 id="line">line</h3>
 ```php
 public  mixed **$line**```
@@ -114,8 +111,7 @@ public  mixed **$line**```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_configfilelexer.php.md#line20" class="location">framework\libs\smarty\sysplugins\smarty_internal_configfilelexer.php at line 20</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_configfilelexer.php at line 20</div>
 <h3 id="node">node</h3>
 ```php
 public  mixed **$node**```
@@ -124,8 +120,7 @@ public  mixed **$node**```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_configfilelexer.php.md#line23" class="location">framework\libs\smarty\sysplugins\smarty_internal_configfilelexer.php at line 23</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_configfilelexer.php at line 23</div>
 <h3 id="smarty_token_names">smarty_token_names</h3>
 ```php
 public  mixed **$smarty_token_names** = array(...)```
@@ -134,8 +129,7 @@ public  mixed **$smarty_token_names** = array(...)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_configfilelexer.php.md#line18" class="location">framework\libs\smarty\sysplugins\smarty_internal_configfilelexer.php at line 18</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_configfilelexer.php at line 18</div>
 <h3 id="token">token</h3>
 ```php
 public  mixed **$token**```
@@ -144,8 +138,7 @@ public  mixed **$token**```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_configfilelexer.php.md#line19" class="location">framework\libs\smarty\sysplugins\smarty_internal_configfilelexer.php at line 19</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_configfilelexer.php at line 19</div>
 <h3 id="value">value</h3>
 ```php
 public  mixed **$value**```
@@ -155,8 +148,7 @@ public  mixed **$value**```
 - - -
 
 <h2 id="detail_method">Constructor Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_configfilelexer.php.md#line26" class="location">framework\libs\smarty\sysplugins\smarty_internal_configfilelexer.php at line 26</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_configfilelexer.php at line 26</div>
 <h3 id="__construct()">__construct</h3>
 ```php
 public  void **__construct**(mixed data, mixed smarty)```
@@ -166,8 +158,7 @@ public  void **__construct**(mixed data, mixed smarty)```
 - - -
 
 <h2 id="detail_method">Method Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_configfilelexer.php.md#line36" class="location">framework\libs\smarty\sysplugins\smarty_internal_configfilelexer.php at line 36</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_configfilelexer.php at line 36</div>
 <h3 id="instance()">instance</h3>
 ```php
 public static  void **instance**(mixed new_instance)```
@@ -176,8 +167,7 @@ public static  void **instance**(mixed new_instance)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_configfilelexer.php.md#line49" class="location">framework\libs\smarty\sysplugins\smarty_internal_configfilelexer.php at line 49</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_configfilelexer.php at line 49</div>
 <h3 id="yylex()">yylex</h3>
 ```php
 public  void **yylex**()```
@@ -186,8 +176,7 @@ public  void **yylex**()```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_configfilelexer.php.md#line54" class="location">framework\libs\smarty\sysplugins\smarty_internal_configfilelexer.php at line 54</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_configfilelexer.php at line 54</div>
 <h3 id="yypushstate()">yypushstate</h3>
 ```php
 public  void **yypushstate**(mixed state)```
@@ -196,8 +185,7 @@ public  void **yypushstate**(mixed state)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_configfilelexer.php.md#line60" class="location">framework\libs\smarty\sysplugins\smarty_internal_configfilelexer.php at line 60</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_configfilelexer.php at line 60</div>
 <h3 id="yypopstate()">yypopstate</h3>
 ```php
 public  void **yypopstate**()```
@@ -206,8 +194,7 @@ public  void **yypopstate**()```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_configfilelexer.php.md#line65" class="location">framework\libs\smarty\sysplugins\smarty_internal_configfilelexer.php at line 65</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_configfilelexer.php at line 65</div>
 <h3 id="yybegin()">yybegin</h3>
 ```php
 public  void **yybegin**(mixed state)```
@@ -216,8 +203,7 @@ public  void **yybegin**(mixed state)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_configfilelexer.php.md#line73" class="location">framework\libs\smarty\sysplugins\smarty_internal_configfilelexer.php at line 73</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_configfilelexer.php at line 73</div>
 <h3 id="yylex1()">yylex1</h3>
 ```php
 public  void **yylex1**()```

@@ -1,11 +1,11 @@
 - - -
 
 **Symfony\Component\ClassLoader\ClassCollectionLoader**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/ClassLoader/ClassCollectionLoader.php.md#line19" class="location">framework\libs\symfony-components\Symfony\Component\ClassLoader\ClassCollectionLoader.php at line 19</a>
+<div class="location">framework\libs\symfony-components\Symfony\Component\ClassLoader\ClassCollectionLoader.php at line 19</div>
+#Class ClassCollectionLoader#
 
-# Class ClassCollectionLoader #
+**ClassCollectionLoader**
 
-<pre class="tree">** ClassCollectionLoader **\n</pre>
 
 - - -
 
@@ -23,17 +23,16 @@
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td class="type">static  void</td>
-<td class="description"><p class="name"><a href="#load()">load</a>(array classes, string cacheDir, string name, Boolean autoReload, Boolean adaptive, string extension)</p><p class="description">Loads a list of classes and caches them in one big file.</p></td>
+<td class="description"><p class="name"><a href="#load">load</a>(array classes, string cacheDir, string name, Boolean autoReload, Boolean adaptive, string extension)</p><p class="description">Loads a list of classes and caches them in one big file.</p></td>
 </tr>
 <tr>
 <td class="type">static  string</td>
-<td class="description"><p class="name"><a href="#fixNamespaceDeclarations()">fixNamespaceDeclarations</a>(string source)</p><p class="description">Adds brackets around each namespace if it's not already the case.</p></td>
+<td class="description"><p class="name"><a href="#fixNamespaceDeclarations">fixNamespaceDeclarations</a>(string source)</p><p class="description">Adds brackets around each namespace if it's not already the case.</p></td>
 </tr>
 </table>
 
 <h2 id="detail_method">Method Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/ClassLoader/ClassCollectionLoader.php.md#line35" class="location">framework\libs\symfony-components\Symfony\Component\ClassLoader\ClassCollectionLoader.php at line 35</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\ClassLoader\ClassCollectionLoader.php at line 35</div>
 <h3 id="load()">load</h3>
 ```php
 public static  void **load**(array classes, string cacheDir, string name, Boolean autoReload, Boolean adaptive, string extension)```
@@ -53,8 +52,7 @@ public static  void **load**(array classes, string cacheDir, string name, Boolea
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/ClassLoader/ClassCollectionLoader.php.md#line126" class="location">framework\libs\symfony-components\Symfony\Component\ClassLoader\ClassCollectionLoader.php at line 126</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\ClassLoader\ClassCollectionLoader.php at line 126</div>
 <h3 id="fixNamespaceDeclarations()">fixNamespaceDeclarations</h3>
 ```php
 public static  string **fixNamespaceDeclarations**(string source)```

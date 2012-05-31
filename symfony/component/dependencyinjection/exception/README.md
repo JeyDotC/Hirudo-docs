@@ -1,6 +1,6 @@
 - - -
 
-# Namespace Symfony\Component\DependencyInjection\Exception #
+#Namespace Symfony\Component\DependencyInjection\Exception#
 
 <table class="title">
 <tr><th colspan="2" class="title">Class Summary</th></tr>

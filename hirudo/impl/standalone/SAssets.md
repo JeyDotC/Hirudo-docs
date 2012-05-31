@@ -1,15 +1,17 @@
 - - -
 
 **Hirudo\Impl\StandAlone\SAssets**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Impl/StandAlone/SAssets.php.md#line14" class="location">framework\hirudo\Hirudo\Impl\StandAlone\SAssets.php at line 14</a>
+<div class="location">framework\hirudo\Hirudo\Impl\StandAlone\SAssets.php at line 14</div>
+#Class SAssets#
 
-# Class SAssets #
+<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/assets.html">Assets</a>
+    ***SAssets**
 
-<pre class="tree"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/assets.html">Assets</a>\n    *** SAssets **\n</pre>
 
 - - -
 
-<p class="signature">public  class **SAssets**\nextends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/assets.html">Assets</a>
+<p class="signature">public  class **SAssets**
+extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/assets.html">Assets</a>
 
 </p>
 
@@ -26,11 +28,11 @@
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td class="type"> string</td>
-<td class="description"><p class="name"><a href="#addCSS()">addCSS</a>(string cssPath)</p><p class="description">Creates a link tag. </p></td>
+<td class="description"><p class="name"><a href="#addCSS">addCSS</a>(string cssPath)</p><p class="description">Creates a link tag. </p></td>
 </tr>
 <tr>
 <td class="type"> string</td>
-<td class="description"><p class="name"><a href="#addJavaScript()">addJavaScript</a>(string jsPath)</p><p class="description">Creates a script tag. </p></td>
+<td class="description"><p class="name"><a href="#addJavaScript">addJavaScript</a>(string jsPath)</p><p class="description">Creates a script tag. </p></td>
 </tr>
 </table>
 
@@ -39,8 +41,7 @@
 <tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/assets.html#addCSS()">addCSS</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/assets.html#addJavaScript()">addJavaScript</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/assets.html#generateCSSTag()">generateCSSTag</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/assets.html#generateScriptTag()">generateScriptTag</a></td></tr></table>
 
 <h2 id="detail_method">Method Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Impl/StandAlone/SAssets.php.md#line16" class="location">framework\hirudo\Hirudo\Impl\StandAlone\SAssets.php at line 16</a>
-
+<div class="location">framework\hirudo\Hirudo\Impl\StandAlone\SAssets.php at line 16</div>
 <h3 id="addCSS()">addCSS</h3>
 ```php
 public  string **addCSS**(string cssPath)```
@@ -57,8 +58,7 @@ the tag.</p></p><dl>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Impl/StandAlone/SAssets.php.md#line20" class="location">framework\hirudo\Hirudo\Impl\StandAlone\SAssets.php at line 20</a>
-
+<div class="location">framework\hirudo\Hirudo\Impl\StandAlone\SAssets.php at line 20</div>
 <h3 id="addJavaScript()">addJavaScript</h3>
 ```php
 public  string **addJavaScript**(string jsPath)```

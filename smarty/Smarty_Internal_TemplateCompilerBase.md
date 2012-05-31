@@ -1,11 +1,11 @@
 - - -
 
 **Smarty\Smarty_Internal_TemplateCompilerBase**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_templatecompilerbase.php.md#line18" class="location">framework\libs\smarty\sysplugins\smarty_internal_templatecompilerbase.php at line 18</a>
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_templatecompilerbase.php at line 18</div>
+#Class Smarty_Internal_TemplateCompilerBase#
 
-# Class Smarty_Internal_TemplateCompilerBase #
+**Smarty_Internal_TemplateCompilerBase**
 
-<pre class="tree">** Smarty_Internal_TemplateCompilerBase **\n</pre>
 
 <dl>
 <dt>All Known Subclasses:</dt>
@@ -96,7 +96,7 @@
 <tr><th colspan="2">Constructor Summary</th></tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#__construct()">__construct</a>()</p><p class="description">Initialize compiler</p></td>
+<td class="description"><p class="name"><a href="#__construct">__construct</a>()</p><p class="description">Initialize compiler</p></td>
 </tr>
 </table>
 
@@ -104,41 +104,40 @@
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td class="type"> bool</td>
-<td class="description"><p class="name"><a href="#compileTemplate()">compileTemplate</a>(<a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> template)</p><p class="description">Method to compile a Smarty template</p></td>
+<td class="description"><p class="name"><a href="#compileTemplate">compileTemplate</a>(<a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> template)</p><p class="description">Method to compile a Smarty template</p></td>
 </tr>
 <tr>
 <td class="type"> string</td>
-<td class="description"><p class="name"><a href="#compileTag()">compileTag</a>(string tag, array args, array parameter)</p><p class="description">Compile TagThis is a call back from the lexer/parser
+<td class="description"><p class="name"><a href="#compileTag">compileTag</a>(string tag, array args, array parameter)</p><p class="description">Compile TagThis is a call back from the lexer/parser
 It executes the required compile plugin for the Smarty tag</p></td>
 </tr>
 <tr>
 <td class="type"> string</td>
-<td class="description"><p class="name"><a href="#callTagCompiler()">callTagCompiler</a>(string tag, array args, mixed param1, mixed param2, mixed param3)</p><p class="description">lazy loads internal compile plugin for tag and calls the compile methodecompile objects cached for reuse.
+<td class="description"><p class="name"><a href="#callTagCompiler">callTagCompiler</a>(string tag, array args, mixed param1, mixed param2, mixed param3)</p><p class="description">lazy loads internal compile plugin for tag and calls the compile methodecompile objects cached for reuse.
 </p></td>
 </tr>
 <tr>
 <td class="type"> string</td>
-<td class="description"><p class="name"><a href="#getPlugin()">getPlugin</a>(string pugin_name, string plugin_type, mixed plugin_name)</p><p class="description">Check for plugins and return function name</p></td>
+<td class="description"><p class="name"><a href="#getPlugin">getPlugin</a>(string pugin_name, string plugin_type, mixed plugin_name)</p><p class="description">Check for plugins and return function name</p></td>
 </tr>
 <tr>
 <td class="type"> boolean</td>
-<td class="description"><p class="name"><a href="#getPluginFromDefaultHandler()">getPluginFromDefaultHandler</a>(string tag, string plugin_type)</p><p class="description">Check for plugins by default plugin handler</p></td>
+<td class="description"><p class="name"><a href="#getPluginFromDefaultHandler">getPluginFromDefaultHandler</a>(string tag, string plugin_type)</p><p class="description">Check for plugins by default plugin handler</p></td>
 </tr>
 <tr>
 <td class="type"> string</td>
-<td class="description"><p class="name"><a href="#processNocacheCode()">processNocacheCode</a>(string content, boolean is_code)</p><p class="description">Inject inline code for nocache template sectionsThis method gets the content of each template element from the parser.
+<td class="description"><p class="name"><a href="#processNocacheCode">processNocacheCode</a>(string content, boolean is_code)</p><p class="description">Inject inline code for nocache template sectionsThis method gets the content of each template element from the parser.
 </p></td>
 </tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#trigger_template_error()">trigger_template_error</a>(string args, string line)</p><p class="description">display compiler error messages without dyingIf parameter $args is empty it is a parser detected syntax error.
+<td class="description"><p class="name"><a href="#trigger_template_error">trigger_template_error</a>(string args, string line)</p><p class="description">display compiler error messages without dyingIf parameter $args is empty it is a parser detected syntax error.
 </p></td>
 </tr>
 </table>
 
 ##Field Detail##
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_templatecompilerbase.php.md#line43" class="location">framework\libs\smarty\sysplugins\smarty_internal_templatecompilerbase.php at line 43</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_templatecompilerbase.php at line 43</div>
 <h3 id="_tag_objects">_tag_objects</h3>
 ```php
 public static  array **$_tag_objects** = array()```
@@ -147,8 +146,7 @@ public static  array **$_tag_objects** = array()```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_templatecompilerbase.php.md#line49" class="location">framework\libs\smarty\sysplugins\smarty_internal_templatecompilerbase.php at line 49</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_templatecompilerbase.php at line 49</div>
 <h3 id="_tag_stack">_tag_stack</h3>
 ```php
 public  array **$_tag_stack** = array()```
@@ -157,8 +155,7 @@ public  array **$_tag_stack** = array()```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_templatecompilerbase.php.md#line109" class="location">framework\libs\smarty\sysplugins\smarty_internal_templatecompilerbase.php at line 109</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_templatecompilerbase.php at line 109</div>
 <h3 id="called_functions">called_functions</h3>
 ```php
 public  array **$called_functions** = array()```
@@ -167,8 +164,7 @@ public  array **$called_functions** = array()```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_templatecompilerbase.php.md#line104" class="location">framework\libs\smarty\sysplugins\smarty_internal_templatecompilerbase.php at line 104</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_templatecompilerbase.php at line 104</div>
 <h3 id="compiles_template_function">compiles_template_function</h3>
 ```php
 public  bool **$compiles_template_function** = false```
@@ -177,8 +173,7 @@ public  bool **$compiles_template_function** = false```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_templatecompilerbase.php.md#line73" class="location">framework\libs\smarty\sysplugins\smarty_internal_templatecompilerbase.php at line 73</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_templatecompilerbase.php at line 73</div>
 <h3 id="default_handler_plugins">default_handler_plugins</h3>
 ```php
 public  array **$default_handler_plugins** = array()```
@@ -187,8 +182,7 @@ public  array **$default_handler_plugins** = array()```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_templatecompilerbase.php.md#line79" class="location">framework\libs\smarty\sysplugins\smarty_internal_templatecompilerbase.php at line 79</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_templatecompilerbase.php at line 79</div>
 <h3 id="default_modifier_list">default_modifier_list</h3>
 ```php
 public  mixed **$default_modifier_list** = null```
@@ -197,8 +191,7 @@ public  mixed **$default_modifier_list** = null```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_templatecompilerbase.php.md#line84" class="location">framework\libs\smarty\sysplugins\smarty_internal_templatecompilerbase.php at line 84</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_templatecompilerbase.php at line 84</div>
 <h3 id="forceNocache">forceNocache</h3>
 ```php
 public  boolean **$forceNocache** = false```
@@ -207,8 +200,7 @@ public  boolean **$forceNocache** = false```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_templatecompilerbase.php.md#line67" class="location">framework\libs\smarty\sysplugins\smarty_internal_templatecompilerbase.php at line 67</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_templatecompilerbase.php at line 67</div>
 <h3 id="inheritance">inheritance</h3>
 ```php
 public  bool **$inheritance** = false```
@@ -217,8 +209,7 @@ public  bool **$inheritance** = false```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_templatecompilerbase.php.md#line61" class="location">framework\libs\smarty\sysplugins\smarty_internal_templatecompilerbase.php at line 61</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_templatecompilerbase.php at line 61</div>
 <h3 id="merged_templates">merged_templates</h3>
 ```php
 public  array **$merged_templates** = array()```
@@ -227,8 +218,7 @@ public  array **$merged_templates** = array()```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_templatecompilerbase.php.md#line114" class="location">framework\libs\smarty\sysplugins\smarty_internal_templatecompilerbase.php at line 114</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_templatecompilerbase.php at line 114</div>
 <h3 id="modifier_plugins">modifier_plugins</h3>
 ```php
 public  array **$modifier_plugins** = array()```
@@ -237,8 +227,7 @@ public  array **$modifier_plugins** = array()```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_templatecompilerbase.php.md#line89" class="location">framework\libs\smarty\sysplugins\smarty_internal_templatecompilerbase.php at line 89</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_templatecompilerbase.php at line 89</div>
 <h3 id="suppressHeader">suppressHeader</h3>
 ```php
 public  bool **$suppressHeader** = false```
@@ -247,8 +236,7 @@ public  bool **$suppressHeader** = false```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_templatecompilerbase.php.md#line37" class="location">framework\libs\smarty\sysplugins\smarty_internal_templatecompilerbase.php at line 37</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_templatecompilerbase.php at line 37</div>
 <h3 id="suppressMergedTemplates">suppressMergedTemplates</h3>
 ```php
 public  bool **$suppressMergedTemplates** = false```
@@ -257,8 +245,7 @@ public  bool **$suppressMergedTemplates** = false```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_templatecompilerbase.php.md#line31" class="location">framework\libs\smarty\sysplugins\smarty_internal_templatecompilerbase.php at line 31</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_templatecompilerbase.php at line 31</div>
 <h3 id="suppressNocacheProcessing">suppressNocacheProcessing</h3>
 ```php
 public  bool **$suppressNocacheProcessing** = false```
@@ -267,8 +254,7 @@ public  bool **$suppressNocacheProcessing** = false```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_templatecompilerbase.php.md#line94" class="location">framework\libs\smarty\sysplugins\smarty_internal_templatecompilerbase.php at line 94</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_templatecompilerbase.php at line 94</div>
 <h3 id="suppressTemplatePropertyHeader">suppressTemplatePropertyHeader</h3>
 ```php
 public  bool **$suppressTemplatePropertyHeader** = false```
@@ -277,8 +263,7 @@ public  bool **$suppressTemplatePropertyHeader** = false```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_templatecompilerbase.php.md#line55" class="location">framework\libs\smarty\sysplugins\smarty_internal_templatecompilerbase.php at line 55</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_templatecompilerbase.php at line 55</div>
 <h3 id="template">template</h3>
 ```php
 public  <a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> **$template** = null```
@@ -287,8 +272,7 @@ public  <a href="../smarty/smarty_internal_template.html">Smarty_Internal_Templa
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_templatecompilerbase.php.md#line99" class="location">framework\libs\smarty\sysplugins\smarty_internal_templatecompilerbase.php at line 99</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_templatecompilerbase.php at line 99</div>
 <h3 id="write_compiled_code">write_compiled_code</h3>
 ```php
 public  bool **$write_compiled_code** = true```
@@ -298,8 +282,7 @@ public  bool **$write_compiled_code** = true```
 - - -
 
 <h2 id="detail_method">Constructor Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_templatecompilerbase.php.md#line119" class="location">framework\libs\smarty\sysplugins\smarty_internal_templatecompilerbase.php at line 119</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_templatecompilerbase.php at line 119</div>
 <h3 id="__construct()">__construct</h3>
 ```php
 public  void **__construct**()```
@@ -309,8 +292,7 @@ public  void **__construct**()```
 - - -
 
 <h2 id="detail_method">Method Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_templatecompilerbase.php.md#line130" class="location">framework\libs\smarty\sysplugins\smarty_internal_templatecompilerbase.php at line 130</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_templatecompilerbase.php at line 130</div>
 <h3 id="compileTemplate()">compileTemplate</h3>
 ```php
 public  bool **compileTemplate**(<a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> template)```
@@ -325,8 +307,7 @@ public  bool **compileTemplate**(<a href="../smarty/smarty_internal_template.htm
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_templatecompilerbase.php.md#line211" class="location">framework\libs\smarty\sysplugins\smarty_internal_templatecompilerbase.php at line 211</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_templatecompilerbase.php at line 211</div>
 <h3 id="compileTag()">compileTag</h3>
 ```php
 public  string **compileTag**(string tag, array args, array parameter)```
@@ -344,8 +325,7 @@ It executes the required compile plugin for the Smarty tag</p><dl>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_templatecompilerbase.php.md#line424" class="location">framework\libs\smarty\sysplugins\smarty_internal_templatecompilerbase.php at line 424</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_templatecompilerbase.php at line 424</div>
 <h3 id="callTagCompiler()">callTagCompiler</h3>
 ```php
 public  string **callTagCompiler**(string tag, array args, mixed param1, mixed param2, mixed param3)```
@@ -366,8 +346,7 @@ plugin filename format: Smarty_Internal_Tagname.php</p><dl>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_templatecompilerbase.php.md#line453" class="location">framework\libs\smarty\sysplugins\smarty_internal_templatecompilerbase.php at line 453</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_templatecompilerbase.php at line 453</div>
 <h3 id="getPlugin()">getPlugin</h3>
 ```php
 public  string **getPlugin**(string pugin_name, string plugin_type, mixed plugin_name)```
@@ -383,8 +362,7 @@ public  string **getPlugin**(string pugin_name, string plugin_type, mixed plugin
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_templatecompilerbase.php.md#line508" class="location">framework\libs\smarty\sysplugins\smarty_internal_templatecompilerbase.php at line 508</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_templatecompilerbase.php at line 508</div>
 <h3 id="getPluginFromDefaultHandler()">getPluginFromDefaultHandler</h3>
 ```php
 public  boolean **getPluginFromDefaultHandler**(string tag, string plugin_type)```
@@ -400,8 +378,7 @@ public  boolean **getPluginFromDefaultHandler**(string tag, string plugin_type)`
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_templatecompilerbase.php.md#line557" class="location">framework\libs\smarty\sysplugins\smarty_internal_templatecompilerbase.php at line 557</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_templatecompilerbase.php at line 557</div>
 <h3 id="processNocacheCode()">processNocacheCode</h3>
 ```php
 public  string **processNocacheCode**(string content, boolean is_code)```
@@ -419,8 +396,7 @@ into the rendered output.</p><dl>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_templatecompilerbase.php.md#line599" class="location">framework\libs\smarty\sysplugins\smarty_internal_templatecompilerbase.php at line 599</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_templatecompilerbase.php at line 599</div>
 <h3 id="trigger_template_error()">trigger_template_error</h3>
 ```php
 public  void **trigger_template_error**(string args, string line)```

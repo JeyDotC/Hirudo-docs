@@ -1,6 +1,6 @@
 - - -
 
-# Globals #
+#Globals#
 
 - - -
 
@@ -13,8 +13,7 @@
 </table>
 
 <h2 id="detail_global">Global Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Core/Util/Message.php.md#line31" class="location">framework\hirudo\Hirudo\Core\Util\Message.php at line 31</a>
-
+<div class="location">framework\hirudo\Hirudo\Core\Util\Message.php at line 31</div>
 <h3 id="INFO">INFO</h3>
 ```php
 public final  mixed **INFO** = $title = &quot;&quot;, $type = self::INFO```

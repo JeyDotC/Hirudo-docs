@@ -1,11 +1,11 @@
 - - -
 
 **Symfony\Component\DependencyInjection\Compiler\ResolveDefinitionTemplatesPass**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/ResolveDefinitionTemplatesPass.php.md#line24" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\ResolveDefinitionTemplatesPass.php at line 24</a>
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\ResolveDefinitionTemplatesPass.php at line 24</div>
+#Class ResolveDefinitionTemplatesPass#
 
-# Class ResolveDefinitionTemplatesPass #
+**ResolveDefinitionTemplatesPass**
 
-<pre class="tree">** ResolveDefinitionTemplatesPass **\n</pre>
 
 <dl>
 <dt>All Implemented Interfaces:</dt>
@@ -29,13 +29,12 @@ merged Definition instance.</p></div>
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#process()">process</a>(<a href="../../../../symfony/component/dependencyinjection/containerbuilder.html">ContainerBuilder</a> container)</p><p class="description">Process the ContainerBuilder to replace DefinitionDecorator instances with their real Definition instances.</p></td>
+<td class="description"><p class="name"><a href="#process">process</a>(<a href="../../../../symfony/component/dependencyinjection/containerbuilder.html">ContainerBuilder</a> container)</p><p class="description">Process the ContainerBuilder to replace DefinitionDecorator instances with their real Definition instances.</p></td>
 </tr>
 </table>
 
 <h2 id="detail_method">Method Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/ResolveDefinitionTemplatesPass.php.md#line35" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\ResolveDefinitionTemplatesPass.php at line 35</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\ResolveDefinitionTemplatesPass.php at line 35</div>
 <h3 id="process()">process</h3>
 ```php
 public  void **process**(<a href="../../../../symfony/component/dependencyinjection/containerbuilder.html">ContainerBuilder</a> container)```

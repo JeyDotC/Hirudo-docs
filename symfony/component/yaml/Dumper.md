@@ -1,11 +1,11 @@
 - - -
 
 **Symfony\Component\Yaml\Dumper**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/Yaml/Dumper.php.md#line19" class="location">framework\libs\symfony-components\Symfony\Component\Yaml\Dumper.php at line 19</a>
+<div class="location">framework\libs\symfony-components\Symfony\Component\Yaml\Dumper.php at line 19</div>
+#Class Dumper#
 
-# Class Dumper #
+**Dumper**
 
-<pre class="tree">** Dumper **\n</pre>
 
 <dl>
 <dt>All Known Subclasses:</dt>
@@ -28,13 +28,12 @@
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td class="type"> string</td>
-<td class="description"><p class="name"><a href="#dump()">dump</a>(mixed input, integer inline, integer indent)</p><p class="description">Dumps a PHP value to YAML.</p></td>
+<td class="description"><p class="name"><a href="#dump">dump</a>(mixed input, integer inline, integer indent)</p><p class="description">Dumps a PHP value to YAML.</p></td>
 </tr>
 </table>
 
 <h2 id="detail_method">Method Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/Yaml/Dumper.php.md#line30" class="location">framework\libs\symfony-components\Symfony\Component\Yaml\Dumper.php at line 30</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\Yaml\Dumper.php at line 30</div>
 <h3 id="dump()">dump</h3>
 ```php
 public  string **dump**(mixed input, integer inline, integer indent)```

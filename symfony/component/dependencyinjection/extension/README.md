@@ -1,6 +1,6 @@
 - - -
 
-# Namespace Symfony\Component\DependencyInjection\Extension #
+#Namespace Symfony\Component\DependencyInjection\Extension#
 
 <table class="title">
 <tr><th colspan="2" class="title">Interface Summary</th></tr>

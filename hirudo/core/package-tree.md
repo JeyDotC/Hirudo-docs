@@ -1,6 +1,6 @@
 - - -
 
-# Class Hierarchy for Package Hirudo\Core #<ul>
+#Class Hierarchy for Package Hirudo\Core#<ul>
 <li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/entrypointinterface.html">Hirudo\Core\EntryPointInterface</a></li>
 <li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/headerbag.html">Hirudo\Core\HeaderBag</a></li>
 <li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/module.html">Hirudo\Core\Module</a></li>

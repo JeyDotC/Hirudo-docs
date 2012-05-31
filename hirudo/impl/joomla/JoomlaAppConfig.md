@@ -1,15 +1,17 @@
 - - -
 
 **Hirudo\Impl\Joomla\JoomlaAppConfig**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Impl/Joomla/JoomlaAppConfig.php.md#line37" class="location">framework\hirudo\Hirudo\Impl\Joomla\JoomlaAppConfig.php at line 37</a>
+<div class="location">framework\hirudo\Hirudo\Impl\Joomla\JoomlaAppConfig.php at line 37</div>
+#Class JoomlaAppConfig#
 
-# Class JoomlaAppConfig #
+<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/appconfig.html">AppConfig</a>
+    ***JoomlaAppConfig**
 
-<pre class="tree"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/appconfig.html">AppConfig</a>\n    *** JoomlaAppConfig **\n</pre>
 
 - - -
 
-<p class="signature">public  class **JoomlaAppConfig**\nextends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/appconfig.html">AppConfig</a>
+<p class="signature">public  class **JoomlaAppConfig**
+extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/appconfig.html">AppConfig</a>
 
 </p>
 
@@ -27,15 +29,15 @@
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td class="type">static  JAppConfig</td>
-<td class="description"><p class="name"><a href="#instance()">instance</a>()</p><p class="description"></p></td>
+<td class="description"><p class="name"><a href="#instance">instance</a>()</p><p class="description"></p></td>
 </tr>
 <tr>
 <td class="type"> mixed</td>
-<td class="description"><p class="name"><a href="#get()">get</a>(string key, mixed default)</p><p class="description">Gets a value from the collected configuration data.</p></td>
+<td class="description"><p class="name"><a href="#get">get</a>(string key, mixed default)</p><p class="description">Gets a value from the collected configuration data.</p></td>
 </tr>
 <tr>
 <td class="type">protected  void</td>
-<td class="description"><p class="name"><a href="#load()">load</a>()</p><p class="description">Load the configuration data.</p></td>
+<td class="description"><p class="name"><a href="#load">load</a>()</p><p class="description">Load the configuration data.</p></td>
 </tr>
 </table>
 
@@ -44,8 +46,7 @@
 <tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/appconfig.html#__construct()">__construct</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/appconfig.html#get()">get</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/appconfig.html#load()">load</a></td></tr></table>
 
 <h2 id="detail_method">Method Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Impl/Joomla/JoomlaAppConfig.php.md#line49" class="location">framework\hirudo\Hirudo\Impl\Joomla\JoomlaAppConfig.php at line 49</a>
-
+<div class="location">framework\hirudo\Hirudo\Impl\Joomla\JoomlaAppConfig.php at line 49</div>
 <h3 id="instance()">instance</h3>
 ```php
 public static  JAppConfig **instance**()```
@@ -54,8 +55,7 @@ public static  JAppConfig **instance**()```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Impl/Joomla/JoomlaAppConfig.php.md#line63" class="location">framework\hirudo\Hirudo\Impl\Joomla\JoomlaAppConfig.php at line 63</a>
-
+<div class="location">framework\hirudo\Hirudo\Impl\Joomla\JoomlaAppConfig.php at line 63</div>
 <h3 id="get()">get</h3>
 ```php
 public  mixed **get**(string key, mixed default)```
@@ -71,8 +71,7 @@ public  mixed **get**(string key, mixed default)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Impl/Joomla/JoomlaAppConfig.php.md#line67" class="location">framework\hirudo\Hirudo\Impl\Joomla\JoomlaAppConfig.php at line 67</a>
-
+<div class="location">framework\hirudo\Hirudo\Impl\Joomla\JoomlaAppConfig.php at line 67</div>
 <h3 id="load()">load</h3>
 ```php
 protected  void **load**()```

@@ -1,11 +1,11 @@
 - - -
 
 **SampleApp\Models\Entities\SimpleObject**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/src/SampleApp/Models/Entities/SimpleObject.php.md#line10" class="location">src\SampleApp\Models\Entities\SimpleObject.php at line 10</a>
+<div class="location">src\SampleApp\Models\Entities\SimpleObject.php at line 10</div>
+#Class SimpleObject#
 
-# Class SimpleObject #
+**SimpleObject**
 
-<pre class="tree">** SimpleObject **\n</pre>
 
 - - -
 
@@ -23,17 +23,16 @@
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#getMessage()">getMessage</a>()</p></td>
+<td class="description"><p class="name"><a href="#getMessage">getMessage</a>()</p></td>
 </tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#setMessage()">setMessage</a>(mixed message)</p></td>
+<td class="description"><p class="name"><a href="#setMessage">setMessage</a>(mixed message)</p></td>
 </tr>
 </table>
 
 <h2 id="detail_method">Method Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/src/SampleApp/Models/Entities/SimpleObject.php.md#line18" class="location">src\SampleApp\Models\Entities\SimpleObject.php at line 18</a>
-
+<div class="location">src\SampleApp\Models\Entities\SimpleObject.php at line 18</div>
 <h3 id="getMessage()">getMessage</h3>
 ```php
 public  void **getMessage**()```
@@ -42,8 +41,7 @@ public  void **getMessage**()```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/src/SampleApp/Models/Entities/SimpleObject.php.md#line22" class="location">src\SampleApp\Models\Entities\SimpleObject.php at line 22</a>
-
+<div class="location">src\SampleApp\Models\Entities\SimpleObject.php at line 22</div>
 <h3 id="setMessage()">setMessage</h3>
 ```php
 public  void **setMessage**(mixed message)```

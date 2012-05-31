@@ -1,10 +1,17 @@
 - - -
 
-# Deprecated API #- - -
+#Deprecated API#
+
+- - -
 
 ##Contents##
 
-* <a href="#deprecated_class">Deprecated Classes</a>* <a href="#deprecated_method">Deprecated Methods</a>* <a href="#deprecated_global">Deprecated Globals</a><table id="deprecated_class" class="detail">
+
+* <a href="#deprecated_class">Deprecated Classes</a>
+* <a href="#deprecated_method">Deprecated Methods</a>
+* <a href="#deprecated_global">Deprecated Globals</a>
+
+<table id="deprecated_class" class="detail">
 <tr><th colspan="2" class="title">Deprecated Classes</th></tr>
 <tr><td class="name"><a href="http_session2/http_session2_container_db.html">HTTP_Session2\HTTP_Session2_Container_DB</a></td><td class="description">Database container for session dataCreate the following table to store session data
 

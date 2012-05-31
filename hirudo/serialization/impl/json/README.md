@@ -1,6 +1,6 @@
 - - -
 
-# Namespace Hirudo\Serialization\Impl\Json #
+#Namespace Hirudo\Serialization\Impl\Json#
 
 <table class="title">
 <tr><th colspan="2" class="title">Class Summary</th></tr>

@@ -1,11 +1,11 @@
 - - -
 
 **Symfony\Component\ClassLoader\MapClassLoader**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/ClassLoader/MapClassLoader.php.md#line19" class="location">framework\libs\symfony-components\Symfony\Component\ClassLoader\MapClassLoader.php at line 19</a>
+<div class="location">framework\libs\symfony-components\Symfony\Component\ClassLoader\MapClassLoader.php at line 19</div>
+#Class MapClassLoader#
 
-# Class MapClassLoader #
+**MapClassLoader**
 
-<pre class="tree">** MapClassLoader **\n</pre>
 
 - - -
 
@@ -23,7 +23,7 @@
 <tr><th colspan="2">Constructor Summary</th></tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#__construct()">__construct</a>(array map)</p><p class="description">Constructor.</p></td>
+<td class="description"><p class="name"><a href="#__construct">__construct</a>(array map)</p><p class="description">Constructor.</p></td>
 </tr>
 </table>
 
@@ -31,21 +31,20 @@
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#register()">register</a>(Boolean prepend)</p><p class="description">Registers this instance as an autoloader.</p></td>
+<td class="description"><p class="name"><a href="#register">register</a>(Boolean prepend)</p><p class="description">Registers this instance as an autoloader.</p></td>
 </tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#loadClass()">loadClass</a>(string class)</p><p class="description">Loads the given class or interface.</p></td>
+<td class="description"><p class="name"><a href="#loadClass">loadClass</a>(string class)</p><p class="description">Loads the given class or interface.</p></td>
 </tr>
 <tr>
 <td class="type"> string|null</td>
-<td class="description"><p class="name"><a href="#findFile()">findFile</a>(string class)</p><p class="description">Finds the path to the file where the class is defined.</p></td>
+<td class="description"><p class="name"><a href="#findFile">findFile</a>(string class)</p><p class="description">Finds the path to the file where the class is defined.</p></td>
 </tr>
 </table>
 
 <h2 id="detail_method">Constructor Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/ClassLoader/MapClassLoader.php.md#line28" class="location">framework\libs\symfony-components\Symfony\Component\ClassLoader\MapClassLoader.php at line 28</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\ClassLoader\MapClassLoader.php at line 28</div>
 <h3 id="__construct()">__construct</h3>
 ```php
 public  void **__construct**(array map)```
@@ -59,8 +58,7 @@ public  void **__construct**(array map)```
 - - -
 
 <h2 id="detail_method">Method Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/ClassLoader/MapClassLoader.php.md#line38" class="location">framework\libs\symfony-components\Symfony\Component\ClassLoader\MapClassLoader.php at line 38</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\ClassLoader\MapClassLoader.php at line 38</div>
 <h3 id="register()">register</h3>
 ```php
 public  void **register**(Boolean prepend)```
@@ -73,8 +71,7 @@ public  void **register**(Boolean prepend)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/ClassLoader/MapClassLoader.php.md#line48" class="location">framework\libs\symfony-components\Symfony\Component\ClassLoader\MapClassLoader.php at line 48</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\ClassLoader\MapClassLoader.php at line 48</div>
 <h3 id="loadClass()">loadClass</h3>
 ```php
 public  void **loadClass**(string class)```
@@ -87,8 +84,7 @@ public  void **loadClass**(string class)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/ClassLoader/MapClassLoader.php.md#line66" class="location">framework\libs\symfony-components\Symfony\Component\ClassLoader\MapClassLoader.php at line 66</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\ClassLoader\MapClassLoader.php at line 66</div>
 <h3 id="findFile()">findFile</h3>
 ```php
 public  string|null **findFile**(string class)```

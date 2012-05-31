@@ -1,15 +1,17 @@
 - - -
 
 **Doctrine\Common\Annotations\DocLexer**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/doctrine-common/Doctrine/Common/Annotations/DocLexer.php.md#line33" class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\DocLexer.php at line 33</a>
+<div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\DocLexer.php at line 33</div>
+#Class DocLexer#
 
-# Class DocLexer #
+<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/lexer.html">Lexer</a>
+    ***DocLexer**
 
-<pre class="tree"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/lexer.html">Lexer</a>\n    *** DocLexer **\n</pre>
 
 - - -
 
-<p class="signature">public final  class **DocLexer**\nextends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/lexer.html">Lexer</a>
+<p class="signature">public final  class **DocLexer**
+extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/lexer.html">Lexer</a>
 
 </p>
 

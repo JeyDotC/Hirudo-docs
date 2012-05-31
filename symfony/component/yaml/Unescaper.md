@@ -1,11 +1,11 @@
 - - -
 
 **Symfony\Component\Yaml\Unescaper**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/Yaml/Unescaper.php.md#line19" class="location">framework\libs\symfony-components\Symfony\Component\Yaml\Unescaper.php at line 19</a>
+<div class="location">framework\libs\symfony-components\Symfony\Component\Yaml\Unescaper.php at line 19</div>
+#Class Unescaper#
 
-# Class Unescaper #
+**Unescaper**
 
-<pre class="tree">** Unescaper **\n</pre>
 
 - - -
 

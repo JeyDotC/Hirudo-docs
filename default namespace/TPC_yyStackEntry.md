@@ -1,11 +1,11 @@
 - - -
 
 **Default namespace\TPC_yyStackEntry**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_configfileparser.php.md#line76" class="location">framework\libs\smarty\sysplugins\smarty_internal_configfileparser.php at line 76</a>
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_configfileparser.php at line 76</div>
+#Class TPC_yyStackEntry#
 
-# Class TPC_yyStackEntry #
+**TPC_yyStackEntry**
 
-<pre class="tree">** TPC_yyStackEntry **\n</pre>
 
 - - -
 
@@ -30,8 +30,7 @@
 </table>
 
 ##Field Detail##
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_configfileparser.php.md#line79" class="location">framework\libs\smarty\sysplugins\smarty_internal_configfileparser.php at line 79</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_configfileparser.php at line 79</div>
 <h3 id="major">major</h3>
 ```php
 public  mixed **$major**```
@@ -40,8 +39,7 @@ public  mixed **$major**```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_configfileparser.php.md#line81" class="location">framework\libs\smarty\sysplugins\smarty_internal_configfileparser.php at line 81</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_configfileparser.php at line 81</div>
 <h3 id="minor">minor</h3>
 ```php
 public  mixed **$minor**```
@@ -50,8 +48,7 @@ public  mixed **$minor**```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_configfileparser.php.md#line78" class="location">framework\libs\smarty\sysplugins\smarty_internal_configfileparser.php at line 78</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_configfileparser.php at line 78</div>
 <h3 id="stateno">stateno</h3>
 ```php
 public  mixed **$stateno**```

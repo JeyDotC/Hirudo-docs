@@ -1,11 +1,11 @@
 - - -
 
 **Hirudo\Serialization\EntityToArrayConverter**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Serialization/EntityToArrayConverter.php.md#line28" class="location">framework\hirudo\Hirudo\Serialization\EntityToArrayConverter.php at line 28</a>
+<div class="location">framework\hirudo\Hirudo\Serialization\EntityToArrayConverter.php at line 28</div>
+#Class EntityToArrayConverter#
 
-# Class EntityToArrayConverter #
+**EntityToArrayConverter**
 
-<pre class="tree">** EntityToArrayConverter **\n</pre>
 
 - - -
 
@@ -20,13 +20,12 @@ serialized into any text format.</p></div>
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td class="type"> array</td>
-<td class="description"><p class="name"><a href="#convert()">convert</a>(mixed entity, bool ignoreUnsetValues)</p><p class="description">Converts the given entity into an array.</p></td>
+<td class="description"><p class="name"><a href="#convert">convert</a>(mixed entity, bool ignoreUnsetValues)</p><p class="description">Converts the given entity into an array.</p></td>
 </tr>
 </table>
 
 <h2 id="detail_method">Method Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Serialization/EntityToArrayConverter.php.md#line36" class="location">framework\hirudo\Hirudo\Serialization\EntityToArrayConverter.php at line 36</a>
-
+<div class="location">framework\hirudo\Hirudo\Serialization\EntityToArrayConverter.php at line 36</div>
 <h3 id="convert()">convert</h3>
 ```php
 public  array **convert**(mixed entity, bool ignoreUnsetValues)```
