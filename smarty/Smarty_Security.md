@@ -4,7 +4,7 @@
 **Smarty\Smarty_Security**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_security.php at line 22#L22 class="location">framework\libs\smarty\sysplugins\smarty_security.php at line 22</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_security.php#L22 class="location">framework\libs\smarty\sysplugins\smarty_security.php at line 22</a>
 
 #Class Smarty_Security#
 
@@ -143,7 +143,7 @@
 <tr><th colspan="2">Constructor Summary</th></tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#__construct">__construct</a>(<a href="../smarty/smarty.html">Smarty</a> smarty)</p><p class="description"></p></td>
+<td class="description"><p class="name"><a href="#__construct">__construct</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty.html">Smarty</a> smarty)</p><p class="description"></p></td>
 </tr>
 </table>
 
@@ -189,10 +189,10 @@
 
 <h2 id="detail_method">Constructor Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_security.php at line 163#L163 class="location">framework\libs\smarty\sysplugins\smarty_security.php at line 163</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_security.php#L163 class="location">framework\libs\smarty\sysplugins\smarty_security.php at line 163</a>
 
 <h3 id="__construct">__construct</h3>
-<span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (<a href="../smarty/smarty.html">Smarty</a> smarty)
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty.html">Smarty</a> smarty)
 
 <div class="details">
 <p></p></div>
@@ -201,7 +201,7 @@
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_security.php at line 176#L176 class="location">framework\libs\smarty\sysplugins\smarty_security.php at line 176</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_security.php#L176 class="location">framework\libs\smarty\sysplugins\smarty_security.php at line 176</a>
 
 <h3 id="isTrustedPhpFunction()">isTrustedPhpFunction</h3>
 <span class='k'></span> <span class='nx'>boolean</span> <span class='nf'>isTrustedPhpFunction</span> (string function_name, object compiler)
@@ -221,7 +221,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_security.php at line 194#L194 class="location">framework\libs\smarty\sysplugins\smarty_security.php at line 194</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_security.php#L194 class="location">framework\libs\smarty\sysplugins\smarty_security.php at line 194</a>
 
 <h3 id="isTrustedStaticClass()">isTrustedStaticClass</h3>
 <span class='k'></span> <span class='nx'>boolean</span> <span class='nf'>isTrustedStaticClass</span> (string class_name, object compiler)
@@ -241,7 +241,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_security.php at line 212#L212 class="location">framework\libs\smarty\sysplugins\smarty_security.php at line 212</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_security.php#L212 class="location">framework\libs\smarty\sysplugins\smarty_security.php at line 212</a>
 
 <h3 id="isTrustedPhpModifier()">isTrustedPhpModifier</h3>
 <span class='k'></span> <span class='nx'>boolean</span> <span class='nf'>isTrustedPhpModifier</span> (string modifier_name, object compiler)
@@ -261,7 +261,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_security.php at line 230#L230 class="location">framework\libs\smarty\sysplugins\smarty_security.php at line 230</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_security.php#L230 class="location">framework\libs\smarty\sysplugins\smarty_security.php at line 230</a>
 
 <h3 id="isTrustedTag()">isTrustedTag</h3>
 <span class='k'></span> <span class='nx'>boolean</span> <span class='nf'>isTrustedTag</span> (string tag_name, object compiler)
@@ -281,7 +281,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_security.php at line 260#L260 class="location">framework\libs\smarty\sysplugins\smarty_security.php at line 260</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_security.php#L260 class="location">framework\libs\smarty\sysplugins\smarty_security.php at line 260</a>
 
 <h3 id="isTrustedModifier()">isTrustedModifier</h3>
 <span class='k'></span> <span class='nx'>boolean</span> <span class='nf'>isTrustedModifier</span> (string modifier_name, object compiler)
@@ -301,7 +301,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_security.php at line 288#L288 class="location">framework\libs\smarty\sysplugins\smarty_security.php at line 288</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_security.php#L288 class="location">framework\libs\smarty\sysplugins\smarty_security.php at line 288</a>
 
 <h3 id="isTrustedStream()">isTrustedStream</h3>
 <span class='k'></span> <span class='nx'>boolean</span> <span class='nf'>isTrustedStream</span> (string stream_name)
@@ -318,7 +318,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_security.php at line 304#L304 class="location">framework\libs\smarty\sysplugins\smarty_security.php at line 304</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_security.php#L304 class="location">framework\libs\smarty\sysplugins\smarty_security.php at line 304</a>
 
 <h3 id="isTrustedResourceDir()">isTrustedResourceDir</h3>
 <span class='k'></span> <span class='nx'>boolean</span> <span class='nf'>isTrustedResourceDir</span> (string filepath)
@@ -335,7 +335,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_security.php at line 386#L386 class="location">framework\libs\smarty\sysplugins\smarty_security.php at line 386</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_security.php#L386 class="location">framework\libs\smarty\sysplugins\smarty_security.php at line 386</a>
 
 <h3 id="isTrustedUri()">isTrustedUri</h3>
 <span class='k'></span> <span class='nx'>boolean</span> <span class='nf'>isTrustedUri</span> (string uri)
@@ -356,7 +356,7 @@ is reduced to "http://hello.world.example.org" prior to applying the patters fro
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_security.php at line 408#L408 class="location">framework\libs\smarty\sysplugins\smarty_security.php at line 408</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_security.php#L408 class="location">framework\libs\smarty\sysplugins\smarty_security.php at line 408</a>
 
 <h3 id="isTrustedPHPDir()">isTrustedPHPDir</h3>
 <span class='k'></span> <span class='nx'>boolean</span> <span class='nf'>isTrustedPHPDir</span> (string filepath)

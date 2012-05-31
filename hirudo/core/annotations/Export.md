@@ -4,7 +4,7 @@
 **Hirudo\Core\Annotations\Export**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Core\Annotations\Export.php at line 34#L34 class="location">framework\hirudo\Hirudo\Core\Annotations\Export.php at line 34</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/core/annotations/export.php#L34 class="location">framework\hirudo\Hirudo\Core\Annotations\Export.php at line 34</a>
 
 #Class Export#
 

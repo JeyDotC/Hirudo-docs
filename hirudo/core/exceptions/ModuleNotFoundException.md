@@ -4,7 +4,7 @@
 **Hirudo\Core\Exceptions\ModuleNotFoundException**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Core\Exceptions\ModuleNotFoundException.php at line 29#L29 class="location">framework\hirudo\Hirudo\Core\Exceptions\ModuleNotFoundException.php at line 29</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/core/exceptions/modulenotfoundexception.php#L29 class="location">framework\hirudo\Hirudo\Core\Exceptions\ModuleNotFoundException.php at line 29</a>
 
 #Class ModuleNotFoundException#
 
@@ -42,7 +42,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/
 
 <h2 id="detail_method">Constructor Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Core\Exceptions\ModuleNotFoundException.php at line 31#L31 class="location">framework\hirudo\Hirudo\Core\Exceptions\ModuleNotFoundException.php at line 31</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/core/exceptions/modulenotfoundexception.php#L31 class="location">framework\hirudo\Hirudo\Core\Exceptions\ModuleNotFoundException.php at line 31</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (mixed module, mixed app)

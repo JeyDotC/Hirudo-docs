@@ -4,7 +4,7 @@
 **Hirudo\Impl\Joomla\JoomlaRouting**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\Joomla\JoomlaRouting.php at line 32#L32 class="location">framework\hirudo\Hirudo\Impl\Joomla\JoomlaRouting.php at line 32</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/joomla/joomlarouting.php#L32 class="location">framework\hirudo\Hirudo\Impl\Joomla\JoomlaRouting.php at line 32</a>
 
 #Class JoomlaRouting#
 
@@ -55,7 +55,7 @@ and the given module name.</p></td>
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\Joomla\JoomlaRouting.php at line 34#L34 class="location">framework\hirudo\Hirudo\Impl\Joomla\JoomlaRouting.php at line 34</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/joomla/joomlarouting.php#L34 class="location">framework\hirudo\Hirudo\Impl\Joomla\JoomlaRouting.php at line 34</a>
 
 <h3 id="appAction()">appAction</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>appAction</span> (string app, string module, str task, array params)
@@ -76,7 +76,7 @@ and the given module name.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\Joomla\JoomlaRouting.php at line 51#L51 class="location">framework\hirudo\Hirudo\Impl\Joomla\JoomlaRouting.php at line 51</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/joomla/joomlarouting.php#L51 class="location">framework\hirudo\Hirudo\Impl\Joomla\JoomlaRouting.php at line 51</a>
 
 <h3 id="redirect()">redirect</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>redirect</span> (string url)
@@ -91,7 +91,7 @@ and the given module name.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\Joomla\JoomlaRouting.php at line 56#L56 class="location">framework\hirudo\Hirudo\Impl\Joomla\JoomlaRouting.php at line 56</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/joomla/joomlarouting.php#L56 class="location">framework\hirudo\Hirudo\Impl\Joomla\JoomlaRouting.php at line 56</a>
 
 <h3 id="getBaseURL()">getBaseURL</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>getBaseURL</span> ()

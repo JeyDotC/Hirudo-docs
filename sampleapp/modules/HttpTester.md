@@ -4,7 +4,7 @@
 **SampleApp\Modules\HttpTester**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/src\SampleApp\Modules\HttpTester\HttpTester.php at line 12#L12 class="location">src\SampleApp\Modules\HttpTester\HttpTester.php at line 12</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/sampleapp/modules/httptester/httptester.php#L12 class="location">src\SampleApp\Modules\HttpTester\HttpTester.php at line 12</a>
 
 #Class HttpTester#
 
@@ -49,7 +49,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/src\SampleApp\Modules\HttpTester\HttpTester.php at line 15#L15 class="location">src\SampleApp\Modules\HttpTester\HttpTester.php at line 15</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/sampleapp/modules/httptester/httptester.php#L15 class="location">src\SampleApp\Modules\HttpTester\HttpTester.php at line 15</a>
 
 <h3 id="index()">index</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>index</span> ()

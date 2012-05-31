@@ -4,7 +4,7 @@
 **Symfony\Component\DependencyInjection\ScopeInterface**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\ScopeInterface.php at line 21#L21 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ScopeInterface.php at line 21</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/scopeinterface.php#L21 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ScopeInterface.php at line 21</a>
 
 #Interface ScopeInterface#
 
@@ -42,7 +42,7 @@
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\ScopeInterface.php at line 26#L26 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ScopeInterface.php at line 26</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/scopeinterface.php#L26 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ScopeInterface.php at line 26</a>
 
 <h3 id="getName()">getName</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>getName</span> ()
@@ -56,7 +56,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\ScopeInterface.php at line 31#L31 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ScopeInterface.php at line 31</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/scopeinterface.php#L31 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ScopeInterface.php at line 31</a>
 
 <h3 id="getParentName()">getParentName</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>getParentName</span> ()

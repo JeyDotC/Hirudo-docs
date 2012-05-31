@@ -4,7 +4,7 @@
 **Hirudo\Core\HeaderBag**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Core\Module.php at line 35#L35 class="location">framework\hirudo\Hirudo\Core\Module.php at line 35</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/core/module.php#L35 class="location">framework\hirudo\Hirudo\Core\Module.php at line 35</a>
 
 #Class HeaderBag#
 
@@ -42,7 +42,7 @@ instead of being rendered in browser.</p></td>
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Core\Module.php at line 44#L44 class="location">framework\hirudo\Hirudo\Core\Module.php at line 44</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/core/module.php#L44 class="location">framework\hirudo\Hirudo\Core\Module.php at line 44</a>
 
 <h3 id="setHeader()">setHeader</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>setHeader</span> (string key, string|array value, boolean replace)
@@ -59,7 +59,7 @@ instead of being rendered in browser.</p></td>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Core\Module.php at line 71#L71 class="location">framework\hirudo\Hirudo\Core\Module.php at line 71</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/core/module.php#L71 class="location">framework\hirudo\Hirudo\Core\Module.php at line 71</a>
 
 <h3 id="setHeaders()">setHeaders</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>setHeaders</span> (array headers)
@@ -82,7 +82,7 @@ array(
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Core\Module.php at line 88#L88 class="location">framework\hirudo\Hirudo\Core\Module.php at line 88</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/core/module.php#L88 class="location">framework\hirudo\Hirudo\Core\Module.php at line 88</a>
 
 <h3 id="setContentsForDownload()">setContentsForDownload</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>setContentsForDownload</span> (string mime, string filename)

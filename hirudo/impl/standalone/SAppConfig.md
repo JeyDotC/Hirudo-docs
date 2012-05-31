@@ -4,7 +4,7 @@
 **Hirudo\Impl\StandAlone\SAppConfig**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\StandAlone\SAppConfig.php at line 36#L36 class="location">framework\hirudo\Hirudo\Impl\StandAlone\SAppConfig.php at line 36</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/standalone/sappconfig.php#L36 class="location">framework\hirudo\Hirudo\Impl\StandAlone\SAppConfig.php at line 36</a>
 
 #Class SAppConfig#
 
@@ -50,7 +50,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\StandAlone\SAppConfig.php at line 44#L44 class="location">framework\hirudo\Hirudo\Impl\StandAlone\SAppConfig.php at line 44</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/standalone/sappconfig.php#L44 class="location">framework\hirudo\Hirudo\Impl\StandAlone\SAppConfig.php at line 44</a>
 
 <h3 id="get()">get</h3>
 <span class='k'></span> <span class='nx'>mixed</span> <span class='nf'>get</span> (string key, mixed default)
@@ -68,7 +68,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\StandAlone\SAppConfig.php at line 52#L52 class="location">framework\hirudo\Hirudo\Impl\StandAlone\SAppConfig.php at line 52</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/standalone/sappconfig.php#L52 class="location">framework\hirudo\Hirudo\Impl\StandAlone\SAppConfig.php at line 52</a>
 
 <h3 id="load()">load</h3>
 <span class='k'>protected </span> <span class='nx'>void</span> <span class='nf'>load</span> ()

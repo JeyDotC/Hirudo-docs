@@ -4,7 +4,7 @@
 **Hirudo\Core\DependencyInjection\DependenciesManager**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Core\DependencyInjection\DependenciesManager.php at line 10#L10 class="location">framework\hirudo\Hirudo\Core\DependencyInjection\DependenciesManager.php at line 10</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/core/dependencyinjection/dependenciesmanager.php#L10 class="location">framework\hirudo\Hirudo\Core\DependencyInjection\DependenciesManager.php at line 10</a>
 
 #Interface DependenciesManager#
 
@@ -69,7 +69,7 @@ a property.</p></td>
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Core\DependencyInjection\DependenciesManager.php at line 18#L18 class="location">framework\hirudo\Hirudo\Core\DependencyInjection\DependenciesManager.php at line 18</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/core/dependencyinjection/dependenciesmanager.php#L18 class="location">framework\hirudo\Hirudo\Core\DependencyInjection\DependenciesManager.php at line 18</a>
 
 <h3 id="addServices()">addServices</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>addServices</span> (array implementationClasses)
@@ -85,7 +85,7 @@ in the container to inject them later.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Core\DependencyInjection\DependenciesManager.php at line 25#L25 class="location">framework\hirudo\Hirudo\Core\DependencyInjection\DependenciesManager.php at line 25</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/core/dependencyinjection/dependenciesmanager.php#L25 class="location">framework\hirudo\Hirudo\Core\DependencyInjection\DependenciesManager.php at line 25</a>
 
 <h3 id="resolveDependencies()">resolveDependencies</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>resolveDependencies</span> (mixed object)
@@ -96,7 +96,7 @@ in the container to inject them later.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Core\DependencyInjection\DependenciesManager.php at line 34#L34 class="location">framework\hirudo\Hirudo\Core\DependencyInjection\DependenciesManager.php at line 34</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/core/dependencyinjection/dependenciesmanager.php#L34 class="location">framework\hirudo\Hirudo\Core\DependencyInjection\DependenciesManager.php at line 34</a>
 
 <h3 id="getClassMetadata()">getClassMetadata</h3>
 <span class='k'></span> <span class='nx'>array<mixed></span> <span class='nf'>getClassMetadata</span> (\ReflectionClass object)
@@ -111,7 +111,7 @@ in the container to inject them later.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Core\DependencyInjection\DependenciesManager.php at line 43#L43 class="location">framework\hirudo\Hirudo\Core\DependencyInjection\DependenciesManager.php at line 43</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/core/dependencyinjection/dependenciesmanager.php#L43 class="location">framework\hirudo\Hirudo\Core\DependencyInjection\DependenciesManager.php at line 43</a>
 
 <h3 id="getMethodMetadata()">getMethodMetadata</h3>
 <span class='k'></span> <span class='nx'>array<mixed></span> <span class='nf'>getMethodMetadata</span> (\ReflectionMethod method)
@@ -126,7 +126,7 @@ in the container to inject them later.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Core\DependencyInjection\DependenciesManager.php at line 52#L52 class="location">framework\hirudo\Hirudo\Core\DependencyInjection\DependenciesManager.php at line 52</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/core/dependencyinjection/dependenciesmanager.php#L52 class="location">framework\hirudo\Hirudo\Core\DependencyInjection\DependenciesManager.php at line 52</a>
 
 <h3 id="getPropertyMetadata()">getPropertyMetadata</h3>
 <span class='k'></span> <span class='nx'>array<mixed></span> <span class='nf'>getPropertyMetadata</span> (\ReflectionProperty property)
@@ -141,7 +141,7 @@ in the container to inject them later.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Core\DependencyInjection\DependenciesManager.php at line 63#L63 class="location">framework\hirudo\Hirudo\Core\DependencyInjection\DependenciesManager.php at line 63</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/core/dependencyinjection/dependenciesmanager.php#L63 class="location">framework\hirudo\Hirudo\Core\DependencyInjection\DependenciesManager.php at line 63</a>
 
 <h3 id="getClassMetadataById()">getClassMetadataById</h3>
 <span class='k'></span> <span class='nx'>mixed</span> <span class='nf'>getClassMetadataById</span> (\ReflectionClass object, string metadataId, mixed metaDataId)
@@ -160,7 +160,7 @@ a class.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Core\DependencyInjection\DependenciesManager.php at line 74#L74 class="location">framework\hirudo\Hirudo\Core\DependencyInjection\DependenciesManager.php at line 74</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/core/dependencyinjection/dependenciesmanager.php#L74 class="location">framework\hirudo\Hirudo\Core\DependencyInjection\DependenciesManager.php at line 74</a>
 
 <h3 id="getMethodMetadataById()">getMethodMetadataById</h3>
 <span class='k'></span> <span class='nx'>mixed</span> <span class='nf'>getMethodMetadataById</span> (\ReflectionMethod method, string metadataId, mixed metaDataId)
@@ -179,7 +179,7 @@ a method.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Core\DependencyInjection\DependenciesManager.php at line 85#L85 class="location">framework\hirudo\Hirudo\Core\DependencyInjection\DependenciesManager.php at line 85</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/core/dependencyinjection/dependenciesmanager.php#L85 class="location">framework\hirudo\Hirudo\Core\DependencyInjection\DependenciesManager.php at line 85</a>
 
 <h3 id="getPropertyMetadataById()">getPropertyMetadataById</h3>
 <span class='k'></span> <span class='nx'>mixed</span> <span class='nf'>getPropertyMetadataById</span> (\ReflectionProperty property, string metadataId, mixed metaDataId)

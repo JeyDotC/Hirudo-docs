@@ -4,7 +4,7 @@
 **Smarty\_smarty_parsetree**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_internal_parsetree.php at line 18#L18 class="location">framework\libs\smarty\sysplugins\smarty_internal_parsetree.php at line 18</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_parsetree.php#L18 class="location">framework\libs\smarty\sysplugins\smarty_internal_parsetree.php at line 18</a>
 
 #Class _smarty_parsetree#
 
@@ -59,7 +59,7 @@
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_internal_parsetree.php at line 36#L36 class="location">framework\libs\smarty\sysplugins\smarty_internal_parsetree.php at line 36</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_parsetree.php#L36 class="location">framework\libs\smarty\sysplugins\smarty_internal_parsetree.php at line 36</a>
 
 <h3 id="to_smarty_php()">to_smarty_php</h3>
 <span class='k'>abstract </span> <span class='nx'>string</span> <span class='nf'>to_smarty_php</span> ()

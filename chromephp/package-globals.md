@@ -7,14 +7,14 @@
 <table id="summary_global" class="title">
 <tr><th colspan="2" class="title">Global Summary</th></tr>
 <tr>
-<td class="nx">final  string</td>
+<td>final  string</td>
 <td class="description"><p class="name"><a href="#VERSION">VERSION</a></p><p class="description"></p></td>
 </tr>
 </table>
 
 <h2 id="detail_global">Global Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/ChromePhp.php at line 30#L30 class="location">ChromePhp.php at line 30</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/chromephp.php#L30 class="location">ChromePhp.php at line 30</a>
 
 <h3 id="VERSION">VERSION</h3>
 ```php

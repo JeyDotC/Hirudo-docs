@@ -4,7 +4,7 @@
 **Default namespace\TPC_yyStackEntry**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_internal_configfileparser.php at line 76#L76 class="location">framework\libs\smarty\sysplugins\smarty_internal_configfileparser.php at line 76</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_configfileparser.php#L76 class="location">framework\libs\smarty\sysplugins\smarty_internal_configfileparser.php at line 76</a>
 
 #Class TPC_yyStackEntry#
 

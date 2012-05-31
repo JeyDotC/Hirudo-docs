@@ -4,7 +4,7 @@
 **Joomla.Framework\JURI**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\StandAlone\lib\JURI.php at line 30#L30 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\JURI.php at line 30</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/standalone/lib/juri.php#L30 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\JURI.php at line 30</a>
 
 #Class JURI#
 
@@ -45,7 +45,7 @@ the current executing script from the server regardless of server.</p></div>
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td><span class='k'>static </span> <span class='nx'><a href="../../joomla/framework/juri.html">JURI</a></span></td>
+<td><span class='k'>static </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/joomla/framework/juri.html>JURI</a></span></td>
 <td class="description"><p class="name"><a href="#getinstance">getInstance</a>(string uri)</p><p class="description">Returns a reference to a global JURI object, only creating it
 if it doesn't already exist.
 </p></td>
@@ -168,7 +168,7 @@ everything after the "#"</p></td>
 
 <h2 id="detail_method">Constructor Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\StandAlone\lib\JURI.php at line 112#L112 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\JURI.php at line 112</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/standalone/lib/juri.php#L112 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\JURI.php at line 112</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (string uri)
@@ -185,10 +185,10 @@ You can pass a URI string to the constructor to initialize a specific URI.</p><d
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\StandAlone\lib\JURI.php at line 130#L130 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\JURI.php at line 130</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/standalone/lib/juri.php#L130 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\JURI.php at line 130</a>
 
 <h3 id="getInstance()">getInstance</h3>
-<span class='k'>static </span> <span class='nx'><a href="../../joomla/framework/juri.html">JURI</a></span> <span class='nf'>getInstance</span> (string uri)
+<span class='k'>static </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/joomla/framework/juri.html>JURI</a></span> <span class='nf'>getInstance</span> (string uri)
 
 <div class="details">
 <p>Returns a reference to a global JURI object, only creating it
@@ -206,7 +206,7 @@ if it doesn't already exist.</p><p>This method must be invoked as:
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\StandAlone\lib\JURI.php at line 197#L197 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\JURI.php at line 197</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/standalone/lib/juri.php#L197 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\JURI.php at line 197</a>
 
 <h3 id="base()">base</h3>
 <span class='k'>static </span> <span class='nx'>string</span> <span class='nf'>base</span> (boolean pathonly)
@@ -225,7 +225,7 @@ if it doesn't already exist.</p><p>This method must be invoked as:
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\StandAlone\lib\JURI.php at line 224#L224 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\JURI.php at line 224</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/standalone/lib/juri.php#L224 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\JURI.php at line 224</a>
 
 <h3 id="root()">root</h3>
 <span class='k'>static </span> <span class='nx'>string</span> <span class='nf'>root</span> (boolean pathonly, mixed path)
@@ -244,7 +244,7 @@ if it doesn't already exist.</p><p>This method must be invoked as:
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\StandAlone\lib\JURI.php at line 247#L247 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\JURI.php at line 247</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/standalone/lib/juri.php#L247 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\JURI.php at line 247</a>
 
 <h3 id="current()">current</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>current</span> ()
@@ -259,7 +259,7 @@ if it doesn't already exist.</p><p>This method must be invoked as:
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\StandAlone\lib\JURI.php at line 267#L267 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\JURI.php at line 267</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/standalone/lib/juri.php#L267 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\JURI.php at line 267</a>
 
 <h3 id="parse()">parse</h3>
 <span class='k'>static </span> <span class='nx'>boolean</span> <span class='nf'>parse</span> (string uri)
@@ -278,7 +278,7 @@ if it doesn't already exist.</p><p>This method must be invoked as:
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\StandAlone\lib\JURI.php at line 311#L311 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\JURI.php at line 311</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/standalone/lib/juri.php#L311 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\JURI.php at line 311</a>
 
 <h3 id="toString()">toString</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>toString</span> (array parts)
@@ -297,7 +297,7 @@ if it doesn't already exist.</p><p>This method must be invoked as:
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\StandAlone\lib\JURI.php at line 337#L337 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\JURI.php at line 337</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/standalone/lib/juri.php#L337 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\JURI.php at line 337</a>
 
 <h3 id="setprivate()">setprivate</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>setprivate</span> (string name, string value)
@@ -318,7 +318,7 @@ already exists and returning the old value.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\StandAlone\lib\JURI.php at line 355#L355 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\JURI.php at line 355</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/standalone/lib/juri.php#L355 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\JURI.php at line 355</a>
 
 <h3 id="getprivate()">getprivate</h3>
 <span class='k'></span> <span class='nx'>array</span> <span class='nf'>getprivate</span> (string name, mixed default)
@@ -337,7 +337,7 @@ already exists and returning the old value.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\StandAlone\lib\JURI.php at line 369#L369 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\JURI.php at line 369</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/standalone/lib/juri.php#L369 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\JURI.php at line 369</a>
 
 <h3 id="delprivate()">delprivate</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>delprivate</span> (string name)
@@ -354,7 +354,7 @@ already exists and returning the old value.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\StandAlone\lib\JURI.php at line 386#L386 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\JURI.php at line 386</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/standalone/lib/juri.php#L386 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\JURI.php at line 386</a>
 
 <h3 id="setQuery()">setQuery</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>setQuery</span> (mixed (array|string), mixed query)
@@ -372,7 +372,7 @@ foo=bar&x=y</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\StandAlone\lib\JURI.php at line 409#L409 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\JURI.php at line 409</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/standalone/lib/juri.php#L409 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\JURI.php at line 409</a>
 
 <h3 id="getQuery()">getQuery</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>getQuery</span> (bool toArray)
@@ -389,7 +389,7 @@ foo=bar&x=y</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\StandAlone\lib\JURI.php at line 430#L430 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\JURI.php at line 430</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/standalone/lib/juri.php#L430 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\JURI.php at line 430</a>
 
 <h3 id="buildQuery()">buildQuery</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>buildQuery</span> (mixed params, mixed akey)
@@ -408,7 +408,7 @@ foo=bar&x=y</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\StandAlone\lib\JURI.php at line 464#L464 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\JURI.php at line 464</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/standalone/lib/juri.php#L464 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\JURI.php at line 464</a>
 
 <h3 id="getScheme()">getScheme</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>getScheme</span> ()
@@ -426,7 +426,7 @@ ie. http, https, ftp, etc...</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\StandAlone\lib\JURI.php at line 476#L476 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\JURI.php at line 476</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/standalone/lib/juri.php#L476 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\JURI.php at line 476</a>
 
 <h3 id="setScheme()">setScheme</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>setScheme</span> (string scheme)
@@ -444,7 +444,7 @@ ie. http, https, ftp, etc...</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\StandAlone\lib\JURI.php at line 488#L488 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\JURI.php at line 488</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/standalone/lib/juri.php#L488 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\JURI.php at line 488</a>
 
 <h3 id="getUser()">getUser</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>getUser</span> ()
@@ -462,7 +462,7 @@ returns the username, or null if no username was specified</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\StandAlone\lib\JURI.php at line 499#L499 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\JURI.php at line 499</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/standalone/lib/juri.php#L499 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\JURI.php at line 499</a>
 
 <h3 id="setUser()">setUser</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>setUser</span> (string user)
@@ -479,7 +479,7 @@ returns the username, or null if no username was specified</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\StandAlone\lib\JURI.php at line 511#L511 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\JURI.php at line 511</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/standalone/lib/juri.php#L511 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\JURI.php at line 511</a>
 
 <h3 id="getPass()">getPass</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>getPass</span> ()
@@ -497,7 +497,7 @@ returns the password, or null if no password was specified</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\StandAlone\lib\JURI.php at line 522#L522 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\JURI.php at line 522</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/standalone/lib/juri.php#L522 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\JURI.php at line 522</a>
 
 <h3 id="setPass()">setPass</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>setPass</span> (string pass)
@@ -514,7 +514,7 @@ returns the password, or null if no password was specified</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\StandAlone\lib\JURI.php at line 534#L534 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\JURI.php at line 534</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/standalone/lib/juri.php#L534 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\JURI.php at line 534</a>
 
 <h3 id="getHost()">getHost</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>getHost</span> ()
@@ -532,7 +532,7 @@ returns the hostname/ip, or null if no hostname/ip was specified</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\StandAlone\lib\JURI.php at line 545#L545 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\JURI.php at line 545</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/standalone/lib/juri.php#L545 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\JURI.php at line 545</a>
 
 <h3 id="setHost()">setHost</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>setHost</span> (string host)
@@ -549,7 +549,7 @@ returns the hostname/ip, or null if no hostname/ip was specified</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\StandAlone\lib\JURI.php at line 556#L556 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\JURI.php at line 556</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/standalone/lib/juri.php#L556 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\JURI.php at line 556</a>
 
 <h3 id="getPort()">getPort</h3>
 <span class='k'></span> <span class='nx'>int</span> <span class='nf'>getPort</span> ()
@@ -565,7 +565,7 @@ returns the port number, or null if no port was specified</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\StandAlone\lib\JURI.php at line 567#L567 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\JURI.php at line 567</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/standalone/lib/juri.php#L567 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\JURI.php at line 567</a>
 
 <h3 id="setPort()">setPort</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>setPort</span> (int port)
@@ -582,7 +582,7 @@ returns the port number, or null if no port was specified</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\StandAlone\lib\JURI.php at line 578#L578 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\JURI.php at line 578</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/standalone/lib/juri.php#L578 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\JURI.php at line 578</a>
 
 <h3 id="getPath()">getPath</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>getPath</span> ()
@@ -599,7 +599,7 @@ returns the port number, or null if no port was specified</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\StandAlone\lib\JURI.php at line 589#L589 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\JURI.php at line 589</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/standalone/lib/juri.php#L589 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\JURI.php at line 589</a>
 
 <h3 id="setPath()">setPath</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>setPath</span> (string path)
@@ -616,7 +616,7 @@ returns the port number, or null if no port was specified</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\StandAlone\lib\JURI.php at line 601#L601 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\JURI.php at line 601</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/standalone/lib/juri.php#L601 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\JURI.php at line 601</a>
 
 <h3 id="getFragment()">getFragment</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>getFragment</span> ()
@@ -634,7 +634,7 @@ everything after the "#"</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\StandAlone\lib\JURI.php at line 613#L613 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\JURI.php at line 613</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/standalone/lib/juri.php#L613 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\JURI.php at line 613</a>
 
 <h3 id="setFragment()">setFragment</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>setFragment</span> (string anchor)
@@ -652,7 +652,7 @@ everything after the "#"</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\StandAlone\lib\JURI.php at line 624#L624 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\JURI.php at line 624</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/standalone/lib/juri.php#L624 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\JURI.php at line 624</a>
 
 <h3 id="isSSL()">isSSL</h3>
 <span class='k'></span> <span class='nx'>boolean</span> <span class='nf'>isSSL</span> ()

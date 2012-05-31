@@ -4,7 +4,7 @@
 **Hirudo\Serialization\EntityToArrayConverter**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Serialization\EntityToArrayConverter.php at line 28#L28 class="location">framework\hirudo\Hirudo\Serialization\EntityToArrayConverter.php at line 28</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/serialization/entitytoarrayconverter.php#L28 class="location">framework\hirudo\Hirudo\Serialization\EntityToArrayConverter.php at line 28</a>
 
 #Class EntityToArrayConverter#
 
@@ -34,7 +34,7 @@ serialized into any text format.</p></div>
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Serialization\EntityToArrayConverter.php at line 36#L36 class="location">framework\hirudo\Hirudo\Serialization\EntityToArrayConverter.php at line 36</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/serialization/entitytoarrayconverter.php#L36 class="location">framework\hirudo\Hirudo\Serialization\EntityToArrayConverter.php at line 36</a>
 
 <h3 id="convert()">convert</h3>
 <span class='k'></span> <span class='nx'>array</span> <span class='nf'>convert</span> (mixed entity, bool ignoreUnsetValues)

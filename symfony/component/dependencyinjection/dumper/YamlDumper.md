@@ -4,7 +4,7 @@
 **Symfony\Component\DependencyInjection\Dumper\YamlDumper**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\Dumper\YamlDumper.php at line 26#L26 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Dumper\YamlDumper.php at line 26</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/dumper/yamldumper.php#L26 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Dumper\YamlDumper.php at line 26</a>
 
 #Class YamlDumper#
 
@@ -50,7 +50,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/comp
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\Dumper\YamlDumper.php at line 37#L37 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Dumper\YamlDumper.php at line 37</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/dumper/yamldumper.php#L37 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Dumper\YamlDumper.php at line 37</a>
 
 <h3 id="dump()">dump</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>dump</span> (array options)

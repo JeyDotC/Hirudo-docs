@@ -4,7 +4,7 @@
 **Symfony\Component\DependencyInjection\Exception\InactiveScopeException**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\Exception\InactiveScopeException.php at line 19#L19 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Exception\InactiveScopeException.php at line 19</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/exception/inactivescopeexception.php#L19 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Exception\InactiveScopeException.php at line 19</a>
 
 #Class InactiveScopeException#
 
@@ -54,7 +54,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/comp
 
 <h2 id="detail_method">Constructor Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\Exception\InactiveScopeException.php at line 24#L24 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Exception\InactiveScopeException.php at line 24</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/exception/inactivescopeexception.php#L24 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Exception\InactiveScopeException.php at line 24</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (mixed serviceId, mixed scope)
@@ -66,7 +66,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/comp
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\Exception\InactiveScopeException.php at line 32#L32 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Exception\InactiveScopeException.php at line 32</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/exception/inactivescopeexception.php#L32 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Exception\InactiveScopeException.php at line 32</a>
 
 <h3 id="getServiceId()">getServiceId</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>getServiceId</span> ()
@@ -77,7 +77,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/comp
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\Exception\InactiveScopeException.php at line 37#L37 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Exception\InactiveScopeException.php at line 37</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/exception/inactivescopeexception.php#L37 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Exception\InactiveScopeException.php at line 37</a>
 
 <h3 id="getScope()">getScope</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>getScope</span> ()

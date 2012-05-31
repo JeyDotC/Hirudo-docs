@@ -4,7 +4,7 @@
 **Smarty\Smarty_Internal_Config**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_internal_config.php at line 22#L22 class="location">framework\libs\smarty\sysplugins\smarty_internal_config.php at line 22</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_config.php#L22 class="location">framework\libs\smarty\sysplugins\smarty_internal_config.php at line 22</a>
 
 #Class Smarty_Internal_Config#
 
@@ -81,7 +81,7 @@
 <tr><th colspan="2">Constructor Summary</th></tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#__construct">__construct</a>(string config_resource, <a href="../smarty/smarty.html">Smarty</a> smarty, object data)</p><p class="description">Constructor of config file object</p></td>
+<td class="description"><p class="name"><a href="#__construct">__construct</a>(string config_resource, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty.html">Smarty</a> smarty, object data)</p><p class="description">Constructor of config file object</p></td>
 </tr>
 </table>
 
@@ -119,10 +119,10 @@
 
 <h2 id="detail_method">Constructor Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_internal_config.php at line 78#L78 class="location">framework\libs\smarty\sysplugins\smarty_internal_config.php at line 78</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_config.php#L78 class="location">framework\libs\smarty\sysplugins\smarty_internal_config.php at line 78</a>
 
 <h3 id="__construct">__construct</h3>
-<span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (string config_resource, <a href="../smarty/smarty.html">Smarty</a> smarty, object data)
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (string config_resource, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty.html">Smarty</a> smarty, object data)
 
 <div class="details">
 <p>Constructor of config file object</p><dl>
@@ -137,7 +137,7 @@
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_internal_config.php at line 90#L90 class="location">framework\libs\smarty\sysplugins\smarty_internal_config.php at line 90</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_config.php#L90 class="location">framework\libs\smarty\sysplugins\smarty_internal_config.php at line 90</a>
 
 <h3 id="getCompiledFilepath()">getCompiledFilepath</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>getCompiledFilepath</span> ()
@@ -152,7 +152,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_internal_config.php at line 102#L102 class="location">framework\libs\smarty\sysplugins\smarty_internal_config.php at line 102</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_config.php#L102 class="location">framework\libs\smarty\sysplugins\smarty_internal_config.php at line 102</a>
 
 <h3 id="buildCompiledFilepath()">buildCompiledFilepath</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>buildCompiledFilepath</span> ()
@@ -163,7 +163,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_internal_config.php at line 128#L128 class="location">framework\libs\smarty\sysplugins\smarty_internal_config.php at line 128</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_config.php#L128 class="location">framework\libs\smarty\sysplugins\smarty_internal_config.php at line 128</a>
 
 <h3 id="getCompiledTimestamp()">getCompiledTimestamp</h3>
 <span class='k'></span> <span class='nx'>integer</span> <span class='nf'>getCompiledTimestamp</span> ()
@@ -178,7 +178,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_internal_config.php at line 142#L142 class="location">framework\libs\smarty\sysplugins\smarty_internal_config.php at line 142</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_config.php#L142 class="location">framework\libs\smarty\sysplugins\smarty_internal_config.php at line 142</a>
 
 <h3 id="mustCompile()">mustCompile</h3>
 <span class='k'></span> <span class='nx'>boolean</span> <span class='nf'>mustCompile</span> ()
@@ -193,7 +193,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_internal_config.php at line 156#L156 class="location">framework\libs\smarty\sysplugins\smarty_internal_config.php at line 156</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_config.php#L156 class="location">framework\libs\smarty\sysplugins\smarty_internal_config.php at line 156</a>
 
 <h3 id="getCompiledConfig()">getCompiledConfig</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>getCompiledConfig</span> ()
@@ -208,7 +208,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_internal_config.php at line 174#L174 class="location">framework\libs\smarty\sysplugins\smarty_internal_config.php at line 174</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_config.php#L174 class="location">framework\libs\smarty\sysplugins\smarty_internal_config.php at line 174</a>
 
 <h3 id="compileConfigSource()">compileConfigSource</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>compileConfigSource</span> ()
@@ -223,7 +223,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_internal_config.php at line 208#L208 class="location">framework\libs\smarty\sysplugins\smarty_internal_config.php at line 208</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_config.php#L208 class="location">framework\libs\smarty\sysplugins\smarty_internal_config.php at line 208</a>
 
 <h3 id="loadConfigVars()">loadConfigVars</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>loadConfigVars</span> (mixed sections, object scope)

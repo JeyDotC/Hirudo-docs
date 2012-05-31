@@ -7,14 +7,14 @@
 <table id="summary_global" class="title">
 <tr><th colspan="2" class="title">Global Summary</th></tr>
 <tr>
-<td class="nx">final  mixed</td>
+<td>final  mixed</td>
 <td class="description"><p class="name"><a href="#NAME">NAME</a></p></td>
 </tr>
 </table>
 
 <h2 id="detail_global">Global Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Core\Events\BeforeTaskEvent.php at line 36#L36 class="location">framework\hirudo\Hirudo\Core\Events\BeforeTaskEvent.php at line 36</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/core/events/beforetaskevent.php#L36 class="location">framework\hirudo\Hirudo\Core\Events\BeforeTaskEvent.php at line 36</a>
 
 <h3 id="NAME">NAME</h3>
 ```php

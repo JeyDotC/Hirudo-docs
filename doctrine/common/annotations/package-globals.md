@@ -7,14 +7,14 @@
 <table id="summary_global" class="title">
 <tr><th colspan="2" class="title">Global Summary</th></tr>
 <tr>
-<td class="nx">final  mixed</td>
+<td>final  mixed</td>
 <td class="description"><p class="name"><a href="#T_NONE">T_NONE</a></p></td>
 </tr>
 </table>
 
 <h2 id="detail_global">Global Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\doctrine-common\Doctrine\Common\Annotations\DocLexer.php at line 35#L35 class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\DocLexer.php at line 35</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/doctrine/common/annotations/doclexer.php#L35 class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\DocLexer.php at line 35</a>
 
 <h3 id="T_NONE">T_NONE</h3>
 ```php

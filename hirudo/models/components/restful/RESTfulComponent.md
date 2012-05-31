@@ -4,7 +4,7 @@
 **Hirudo\Models\Components\Restful\RESTfulComponent**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Models\Components\Restful\RESTfulComponent.php at line 43#L43 class="location">framework\hirudo\Hirudo\Models\Components\Restful\RESTfulComponent.php at line 43</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/models/components/restful/restfulcomponent.php#L43 class="location">framework\hirudo\Hirudo\Models\Components\Restful\RESTfulComponent.php at line 43</a>
 
 #Class RESTfulComponent#
 
@@ -69,11 +69,11 @@ the construction of a web service consumer.</p></div>
 <td class="description"><p class="name"><a href="#call">call</a>(str url, str verb, str data)</p></td>
 </tr>
 <tr>
-<td><span class='k'>protected </span> <span class='nx'><a href="../../../../hirudo/serialization/entityserializerbase.html">EntitySerializerBase</a></span></td>
+<td><span class='k'>protected </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/hirudo/serialization/entityserializerbase.html>EntitySerializerBase</a></span></td>
 <td class="description"><p class="name"><a href="#getserializer">getSerializer</a>()</p><p class="description"></p></td>
 </tr>
 <tr>
-<td><span class='k'>protected </span> <span class='nx'><a href="../../../../hirudo/serialization/entitydeserializerbase.html">EntityDeserializerBase</a></span></td>
+<td><span class='k'>protected </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/hirudo/serialization/entitydeserializerbase.html>EntityDeserializerBase</a></span></td>
 <td class="description"><p class="name"><a href="#getdeserializer">getDeserializer</a>()</p><p class="description">This is method getDeserializer</p></td>
 </tr>
 <tr>
@@ -104,7 +104,7 @@ the construction of a web service consumer.</p></div>
 
 <h2 id="detail_method">Constructor Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Models\Components\Restful\RESTfulComponent.php at line 58#L58 class="location">framework\hirudo\Hirudo\Models\Components\Restful\RESTfulComponent.php at line 58</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/models/components/restful/restfulcomponent.php#L58 class="location">framework\hirudo\Hirudo\Models\Components\Restful\RESTfulComponent.php at line 58</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (mixed baseURL, mixed root)
@@ -116,7 +116,7 @@ the construction of a web service consumer.</p></div>
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Models\Components\Restful\RESTfulComponent.php at line 66#L66 class="location">framework\hirudo\Hirudo\Models\Components\Restful\RESTfulComponent.php at line 66</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/models/components/restful/restfulcomponent.php#L66 class="location">framework\hirudo\Hirudo\Models\Components\Restful\RESTfulComponent.php at line 66</a>
 
 <h3 id="call()">call</h3>
 <span class='k'>protected </span> <span class='nx'>void</span> <span class='nf'>call</span> (str url, str verb, str data)
@@ -127,10 +127,10 @@ the construction of a web service consumer.</p></div>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Models\Components\Restful\RESTfulComponent.php at line 82#L82 class="location">framework\hirudo\Hirudo\Models\Components\Restful\RESTfulComponent.php at line 82</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/models/components/restful/restfulcomponent.php#L82 class="location">framework\hirudo\Hirudo\Models\Components\Restful\RESTfulComponent.php at line 82</a>
 
 <h3 id="getSerializer()">getSerializer</h3>
-<span class='k'>protected </span> <span class='nx'><a href="../../../../hirudo/serialization/entityserializerbase.html">EntitySerializerBase</a></span> <span class='nf'>getSerializer</span> ()
+<span class='k'>protected </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/hirudo/serialization/entityserializerbase.html>EntitySerializerBase</a></span> <span class='nf'>getSerializer</span> ()
 
 <div class="details">
 <p></p></div>
@@ -138,10 +138,10 @@ the construction of a web service consumer.</p></div>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Models\Components\Restful\RESTfulComponent.php at line 92#L92 class="location">framework\hirudo\Hirudo\Models\Components\Restful\RESTfulComponent.php at line 92</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/models/components/restful/restfulcomponent.php#L92 class="location">framework\hirudo\Hirudo\Models\Components\Restful\RESTfulComponent.php at line 92</a>
 
 <h3 id="getDeserializer()">getDeserializer</h3>
-<span class='k'>protected </span> <span class='nx'><a href="../../../../hirudo/serialization/entitydeserializerbase.html">EntityDeserializerBase</a></span> <span class='nf'>getDeserializer</span> ()
+<span class='k'>protected </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/hirudo/serialization/entitydeserializerbase.html>EntityDeserializerBase</a></span> <span class='nf'>getDeserializer</span> ()
 
 <div class="details">
 <p>This is method getDeserializer</p><dl>
@@ -153,7 +153,7 @@ the construction of a web service consumer.</p></div>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Models\Components\Restful\RESTfulComponent.php at line 96#L96 class="location">framework\hirudo\Hirudo\Models\Components\Restful\RESTfulComponent.php at line 96</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/models/components/restful/restfulcomponent.php#L96 class="location">framework\hirudo\Hirudo\Models\Components\Restful\RESTfulComponent.php at line 96</a>
 
 <h3 id="addHeaderVariable()">addHeaderVariable</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>addHeaderVariable</span> (mixed key, mixed value)
@@ -164,7 +164,7 @@ the construction of a web service consumer.</p></div>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Models\Components\Restful\RESTfulComponent.php at line 100#L100 class="location">framework\hirudo\Hirudo\Models\Components\Restful\RESTfulComponent.php at line 100</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/models/components/restful/restfulcomponent.php#L100 class="location">framework\hirudo\Hirudo\Models\Components\Restful\RESTfulComponent.php at line 100</a>
 
 <h3 id="getLastUri()">getLastUri</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>getLastUri</span> ()
@@ -175,7 +175,7 @@ the construction of a web service consumer.</p></div>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Models\Components\Restful\RESTfulComponent.php at line 104#L104 class="location">framework\hirudo\Hirudo\Models\Components\Restful\RESTfulComponent.php at line 104</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/models/components/restful/restfulcomponent.php#L104 class="location">framework\hirudo\Hirudo\Models\Components\Restful\RESTfulComponent.php at line 104</a>
 
 <h3 id="getMessageFormat()">getMessageFormat</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>getMessageFormat</span> ()
@@ -186,7 +186,7 @@ the construction of a web service consumer.</p></div>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Models\Components\Restful\RESTfulComponent.php at line 108#L108 class="location">framework\hirudo\Hirudo\Models\Components\Restful\RESTfulComponent.php at line 108</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/models/components/restful/restfulcomponent.php#L108 class="location">framework\hirudo\Hirudo\Models\Components\Restful\RESTfulComponent.php at line 108</a>
 
 <h3 id="setMessageFormat()">setMessageFormat</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>setMessageFormat</span> (mixed messageFormat)
@@ -197,7 +197,7 @@ the construction of a web service consumer.</p></div>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Models\Components\Restful\RESTfulComponent.php at line 112#L112 class="location">framework\hirudo\Hirudo\Models\Components\Restful\RESTfulComponent.php at line 112</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/models/components/restful/restfulcomponent.php#L112 class="location">framework\hirudo\Hirudo\Models\Components\Restful\RESTfulComponent.php at line 112</a>
 
 <h3 id="getResponseFormat()">getResponseFormat</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>getResponseFormat</span> ()
@@ -208,7 +208,7 @@ the construction of a web service consumer.</p></div>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Models\Components\Restful\RESTfulComponent.php at line 116#L116 class="location">framework\hirudo\Hirudo\Models\Components\Restful\RESTfulComponent.php at line 116</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/models/components/restful/restfulcomponent.php#L116 class="location">framework\hirudo\Hirudo\Models\Components\Restful\RESTfulComponent.php at line 116</a>
 
 <h3 id="setResponseFormat()">setResponseFormat</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>setResponseFormat</span> (mixed responseFormat)

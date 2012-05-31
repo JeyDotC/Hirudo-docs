@@ -4,7 +4,7 @@
 **Symfony\Component\DependencyInjection\Loader\IniFileLoader**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\Loader\IniFileLoader.php at line 22#L22 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Loader\IniFileLoader.php at line 22</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/loader/inifileloader.php#L22 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Loader\IniFileLoader.php at line 22</a>
 
 #Class IniFileLoader#
 
@@ -54,7 +54,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/comp
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\Loader\IniFileLoader.php at line 32#L32 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Loader\IniFileLoader.php at line 32</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/loader/inifileloader.php#L32 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Loader\IniFileLoader.php at line 32</a>
 
 <h3 id="load()">load</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>load</span> (mixed file, string type)
@@ -72,7 +72,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/comp
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\Loader\IniFileLoader.php at line 58#L58 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Loader\IniFileLoader.php at line 58</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/loader/inifileloader.php#L58 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Loader\IniFileLoader.php at line 58</a>
 
 <h3 id="supports()">supports</h3>
 <span class='k'></span> <span class='nx'>Boolean</span> <span class='nf'>supports</span> (mixed resource, string type)

@@ -4,7 +4,7 @@
 **Smarty\Smarty_Internal_Compile_Foreachelse**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_internal_compile_foreach.php at line 176#L176 class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_foreach.php at line 176</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_compile_foreach.php#L176 class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_foreach.php at line 176</a>
 
 #Class Smarty_Internal_Compile_Foreachelse#
 
@@ -49,7 +49,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_internal_compile_foreach.php at line 186#L186 class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_foreach.php at line 186</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_compile_foreach.php#L186 class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_foreach.php at line 186</a>
 
 <h3 id="compile()">compile</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>compile</span> (array args, object compiler, array parameter)

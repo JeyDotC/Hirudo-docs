@@ -4,7 +4,7 @@
 **Symfony\Component\DependencyInjection\Parameter**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\Parameter.php at line 21#L21 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Parameter.php at line 21</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/parameter.php#L21 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Parameter.php at line 21</a>
 
 #Class Parameter#
 
@@ -38,7 +38,7 @@
 
 <h2 id="detail_method">Constructor Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\Parameter.php at line 30#L30 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Parameter.php at line 30</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/parameter.php#L30 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Parameter.php at line 30</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (string id)

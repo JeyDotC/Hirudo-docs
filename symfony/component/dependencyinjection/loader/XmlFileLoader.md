@@ -4,7 +4,7 @@
 **Symfony\Component\DependencyInjection\Loader\XmlFileLoader**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\Loader\XmlFileLoader.php at line 29#L29 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Loader\XmlFileLoader.php at line 29</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/loader/xmlfileloader.php#L29 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Loader\XmlFileLoader.php at line 29</a>
 
 #Class XmlFileLoader#
 
@@ -59,7 +59,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/comp
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\Loader\XmlFileLoader.php at line 37#L37 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Loader\XmlFileLoader.php at line 37</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/loader/xmlfileloader.php#L37 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Loader\XmlFileLoader.php at line 37</a>
 
 <h3 id="load()">load</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>load</span> (mixed file, string type)
@@ -75,7 +75,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/comp
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\Loader\XmlFileLoader.php at line 70#L70 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Loader\XmlFileLoader.php at line 70</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/loader/xmlfileloader.php#L70 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Loader\XmlFileLoader.php at line 70</a>
 
 <h3 id="supports()">supports</h3>
 <span class='k'></span> <span class='nx'>Boolean</span> <span class='nf'>supports</span> (mixed resource, string type)
@@ -93,7 +93,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/comp
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\Loader\XmlFileLoader.php at line 462#L462 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Loader\XmlFileLoader.php at line 462</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/loader/xmlfileloader.php#L462 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Loader\XmlFileLoader.php at line 462</a>
 
 <h3 id="convertDomElementToArray()">convertDomElementToArray</h3>
 <span class='k'>static </span> <span class='nx'>array</span> <span class='nf'>convertDomElementToArray</span> (\DomElement element)

@@ -4,7 +4,7 @@
 **SampleApp\Models\Components\DbTestComponent**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/src\SampleApp\Models\Components\DbTestComponent.php at line 12#L12 class="location">src\SampleApp\Models\Components\DbTestComponent.php at line 12</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/sampleapp/models/components/dbtestcomponent.php#L12 class="location">src\SampleApp\Models\Components\DbTestComponent.php at line 12</a>
 
 #Class DbTestComponent#
 
@@ -49,7 +49,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/model
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/src\SampleApp\Models\Components\DbTestComponent.php at line 14#L14 class="location">src\SampleApp\Models\Components\DbTestComponent.php at line 14</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/sampleapp/models/components/dbtestcomponent.php#L14 class="location">src\SampleApp\Models\Components\DbTestComponent.php at line 14</a>
 
 <h3 id="getAll()">getAll</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>getAll</span> ()
@@ -60,7 +60,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/model
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/src\SampleApp\Models\Components\DbTestComponent.php at line 22#L22 class="location">src\SampleApp\Models\Components\DbTestComponent.php at line 22</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/sampleapp/models/components/dbtestcomponent.php#L22 class="location">src\SampleApp\Models\Components\DbTestComponent.php at line 22</a>
 
 <h3 id="add()">add</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>add</span> (mixed name)

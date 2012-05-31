@@ -4,7 +4,7 @@
 **Hirudo\Core\EntryPointInterface**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Core\EntryPointInterface.php at line 10#L10 class="location">framework\hirudo\Hirudo\Core\EntryPointInterface.php at line 10</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/core/entrypointinterface.php#L10 class="location">framework\hirudo\Hirudo\Core\EntryPointInterface.php at line 10</a>
 
 #Class EntryPointInterface#
 
@@ -38,7 +38,7 @@
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Core\EntryPointInterface.php at line 12#L12 class="location">framework\hirudo\Hirudo\Core\EntryPointInterface.php at line 12</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/core/entrypointinterface.php#L12 class="location">framework\hirudo\Hirudo\Core\EntryPointInterface.php at line 12</a>
 
 <h3 id="run()">run</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>run</span> ()

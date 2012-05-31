@@ -4,7 +4,7 @@
 **Smarty\SmartyException**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\Smarty.class.php at line 1087#L1087 class="location">framework\libs\smarty\Smarty.class.php at line 1087</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/smarty.class.php#L1087 class="location">framework\libs\smarty\Smarty.class.php at line 1087</a>
 
 #Class SmartyException#
 

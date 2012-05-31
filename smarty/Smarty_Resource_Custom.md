@@ -4,7 +4,7 @@
 **Smarty\Smarty_Resource_Custom**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_resource_custom.php at line 18#L18 class="location">framework\libs\smarty\sysplugins\smarty_resource_custom.php at line 18</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_resource_custom.php#L18 class="location">framework\libs\smarty\sysplugins\smarty_resource_custom.php at line 18</a>
 
 #Class Smarty_Resource_Custom#
 
@@ -48,15 +48,15 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#populate">populate</a>(<a href="../smarty/smarty_template_source.html">Smarty_Template_Source</a> source, <a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> _template)</p><p class="description">populate Source Object with meta data from Resource</p></td>
+<td class="description"><p class="name"><a href="#populate">populate</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_template_source.html">Smarty_Template_Source</a> source, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.html">Smarty_Internal_Template</a> _template)</p><p class="description">populate Source Object with meta data from Resource</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name"><a href="#getcontent">getContent</a>(<a href="../smarty/smarty_template_source.html">Smarty_Template_Source</a> source)</p><p class="description">Load template's source into current template object</p></td>
+<td class="description"><p class="name"><a href="#getcontent">getContent</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_template_source.html">Smarty_Template_Source</a> source)</p><p class="description">Load template's source into current template object</p></td>
 </tr>
 <tr>
 <td><span class='k'>protected </span> <span class='nx'>string</span></td>
-<td class="description"><p class="name"><a href="#getbasename">getBasename</a>(<a href="../smarty/smarty_template_source.html">Smarty_Template_Source</a> source)</p><p class="description">Determine basename for compiled filename</p></td>
+<td class="description"><p class="name"><a href="#getbasename">getBasename</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_template_source.html">Smarty_Template_Source</a> source)</p><p class="description">Determine basename for compiled filename</p></td>
 </tr>
 </table>
 
@@ -66,7 +66,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_resource_custom.php at line 27#L27 class="location">framework\libs\smarty\sysplugins\smarty_resource_custom.php at line 27</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_resource_custom.php#L27 class="location">framework\libs\smarty\sysplugins\smarty_resource_custom.php at line 27</a>
 
 <h3 id="fetch()">fetch</h3>
 <span class='k'>protected abstract </span> <span class='nx'>void</span> <span class='nf'>fetch</span> (string name, string &$source, integer &$mtime, mixed source, mixed mtime)
@@ -83,7 +83,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_resource_custom.php at line 38#L38 class="location">framework\libs\smarty\sysplugins\smarty_resource_custom.php at line 38</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_resource_custom.php#L38 class="location">framework\libs\smarty\sysplugins\smarty_resource_custom.php at line 38</a>
 
 <h3 id="fetchTimestamp()">fetchTimestamp</h3>
 <span class='k'>protected </span> <span class='nx'>integer|boolean</span> <span class='nf'>fetchTimestamp</span> (string name)
@@ -101,10 +101,10 @@ Only implement it if modification times can be accessed faster than loading the 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_resource_custom.php at line 49#L49 class="location">framework\libs\smarty\sysplugins\smarty_resource_custom.php at line 49</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_resource_custom.php#L49 class="location">framework\libs\smarty\sysplugins\smarty_resource_custom.php at line 49</a>
 
 <h3 id="populate()">populate</h3>
-<span class='k'></span> <span class='nx'>void</span> <span class='nf'>populate</span> (<a href="../smarty/smarty_template_source.html">Smarty_Template_Source</a> source, <a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> _template)
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>populate</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_template_source.html">Smarty_Template_Source</a> source, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.html">Smarty_Internal_Template</a> _template)
 
 <div class="details">
 <p>populate Source Object with meta data from Resource</p><dl>
@@ -117,10 +117,10 @@ Only implement it if modification times can be accessed faster than loading the 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_resource_custom.php at line 73#L73 class="location">framework\libs\smarty\sysplugins\smarty_resource_custom.php at line 73</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_resource_custom.php#L73 class="location">framework\libs\smarty\sysplugins\smarty_resource_custom.php at line 73</a>
 
 <h3 id="getContent()">getContent</h3>
-<span class='k'></span> <span class='nx'>string</span> <span class='nf'>getContent</span> (<a href="../smarty/smarty_template_source.html">Smarty_Template_Source</a> source)
+<span class='k'></span> <span class='nx'>string</span> <span class='nf'>getContent</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_template_source.html">Smarty_Template_Source</a> source)
 
 <div class="details">
 <p>Load template's source into current template object</p><dl>
@@ -136,10 +136,10 @@ Only implement it if modification times can be accessed faster than loading the 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_resource_custom.php at line 89#L89 class="location">framework\libs\smarty\sysplugins\smarty_resource_custom.php at line 89</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_resource_custom.php#L89 class="location">framework\libs\smarty\sysplugins\smarty_resource_custom.php at line 89</a>
 
 <h3 id="getBasename()">getBasename</h3>
-<span class='k'>protected </span> <span class='nx'>string</span> <span class='nf'>getBasename</span> (<a href="../smarty/smarty_template_source.html">Smarty_Template_Source</a> source)
+<span class='k'>protected </span> <span class='nx'>string</span> <span class='nf'>getBasename</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_template_source.html">Smarty_Template_Source</a> source)
 
 <div class="details">
 <p>Determine basename for compiled filename</p><dl>

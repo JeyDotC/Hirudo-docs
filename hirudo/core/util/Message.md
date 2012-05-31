@@ -4,7 +4,7 @@
 **Hirudo\Core\Util\Message**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Core\Util\Message.php at line 28#L28 class="location">framework\hirudo\Hirudo\Core\Util\Message.php at line 28</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/core/util/message.php#L28 class="location">framework\hirudo\Hirudo\Core\Util\Message.php at line 28</a>
 
 #Class Message#
 
@@ -54,7 +54,7 @@ and a type, being the latter normally used as a CSS class.</p></div>
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Core\Util\Message.php at line 37#L37 class="location">framework\hirudo\Hirudo\Core\Util\Message.php at line 37</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/core/util/message.php#L37 class="location">framework\hirudo\Hirudo\Core\Util\Message.php at line 37</a>
 
 <h3 id="getTitle()">getTitle</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>getTitle</span> ()
@@ -65,7 +65,7 @@ and a type, being the latter normally used as a CSS class.</p></div>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Core\Util\Message.php at line 41#L41 class="location">framework\hirudo\Hirudo\Core\Util\Message.php at line 41</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/core/util/message.php#L41 class="location">framework\hirudo\Hirudo\Core\Util\Message.php at line 41</a>
 
 <h3 id="setTitle()">setTitle</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>setTitle</span> (mixed title)
@@ -76,7 +76,7 @@ and a type, being the latter normally used as a CSS class.</p></div>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Core\Util\Message.php at line 45#L45 class="location">framework\hirudo\Hirudo\Core\Util\Message.php at line 45</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/core/util/message.php#L45 class="location">framework\hirudo\Hirudo\Core\Util\Message.php at line 45</a>
 
 <h3 id="getMessage()">getMessage</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>getMessage</span> ()
@@ -87,7 +87,7 @@ and a type, being the latter normally used as a CSS class.</p></div>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Core\Util\Message.php at line 49#L49 class="location">framework\hirudo\Hirudo\Core\Util\Message.php at line 49</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/core/util/message.php#L49 class="location">framework\hirudo\Hirudo\Core\Util\Message.php at line 49</a>
 
 <h3 id="setMessage()">setMessage</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>setMessage</span> (mixed message)
@@ -98,7 +98,7 @@ and a type, being the latter normally used as a CSS class.</p></div>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Core\Util\Message.php at line 53#L53 class="location">framework\hirudo\Hirudo\Core\Util\Message.php at line 53</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/core/util/message.php#L53 class="location">framework\hirudo\Hirudo\Core\Util\Message.php at line 53</a>
 
 <h3 id="getType()">getType</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>getType</span> ()
@@ -109,7 +109,7 @@ and a type, being the latter normally used as a CSS class.</p></div>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Core\Util\Message.php at line 57#L57 class="location">framework\hirudo\Hirudo\Core\Util\Message.php at line 57</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/core/util/message.php#L57 class="location">framework\hirudo\Hirudo\Core\Util\Message.php at line 57</a>
 
 <h3 id="setType()">setType</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>setType</span> (mixed type)

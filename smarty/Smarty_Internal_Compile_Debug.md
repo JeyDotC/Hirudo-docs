@@ -4,7 +4,7 @@
 **Smarty\Smarty_Internal_Compile_Debug**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_internal_compile_debug.php at line 19#L19 class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_debug.php at line 19</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_compile_debug.php#L19 class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_debug.php at line 19</a>
 
 #Class Smarty_Internal_Compile_Debug#
 
@@ -49,7 +49,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_internal_compile_debug.php at line 28#L28 class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_debug.php at line 28</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_compile_debug.php#L28 class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_debug.php at line 28</a>
 
 <h3 id="compile()">compile</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>compile</span> (array args, object compiler)

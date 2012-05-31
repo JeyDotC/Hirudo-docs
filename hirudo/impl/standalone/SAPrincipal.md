@@ -4,7 +4,7 @@
 **Hirudo\Impl\StandAlone\SAPrincipal**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\StandAlone\SAPrincipal.php at line 32#L32 class="location">framework\hirudo\Hirudo\Impl\StandAlone\SAPrincipal.php at line 32</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/standalone/saprincipal.php#L32 class="location">framework\hirudo\Hirudo\Impl\StandAlone\SAPrincipal.php at line 32</a>
 
 #Class SAPrincipal#
 
@@ -42,7 +42,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td><span class='k'>static </span> <span class='nx'><a href="../../../hirudo/impl/standalone/saprincipal.html">SAPrincipal</a></span></td>
+<td><span class='k'>static </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/hirudo/impl/standalone/saprincipal.html>SAPrincipal</a></span></td>
 <td class="description"><p class="name"><a href="#instance">instance</a>()</p><p class="description"></p></td>
 </tr>
 <tr>
@@ -61,7 +61,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/
 
 <h2 id="detail_method">Constructor Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\StandAlone\SAPrincipal.php at line 60#L60 class="location">framework\hirudo\Hirudo\Impl\StandAlone\SAPrincipal.php at line 60</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/standalone/saprincipal.php#L60 class="location">framework\hirudo\Hirudo\Impl\StandAlone\SAPrincipal.php at line 60</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> ()
@@ -73,10 +73,10 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\StandAlone\SAPrincipal.php at line 52#L52 class="location">framework\hirudo\Hirudo\Impl\StandAlone\SAPrincipal.php at line 52</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/standalone/saprincipal.php#L52 class="location">framework\hirudo\Hirudo\Impl\StandAlone\SAPrincipal.php at line 52</a>
 
 <h3 id="instance()">instance</h3>
-<span class='k'>static </span> <span class='nx'><a href="../../../hirudo/impl/standalone/saprincipal.html">SAPrincipal</a></span> <span class='nf'>instance</span> ()
+<span class='k'>static </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/hirudo/impl/standalone/saprincipal.html>SAPrincipal</a></span> <span class='nf'>instance</span> ()
 
 <div class="details">
 <p></p></div>
@@ -84,7 +84,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\StandAlone\SAPrincipal.php at line 64#L64 class="location">framework\hirudo\Hirudo\Impl\StandAlone\SAPrincipal.php at line 64</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/standalone/saprincipal.php#L64 class="location">framework\hirudo\Hirudo\Impl\StandAlone\SAPrincipal.php at line 64</a>
 
 <h3 id="isAnonimous()">isAnonimous</h3>
 <span class='k'></span> <span class='nx'>boolean</span> <span class='nf'>isAnonimous</span> ()
@@ -99,7 +99,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\StandAlone\SAPrincipal.php at line 74#L74 class="location">framework\hirudo\Hirudo\Impl\StandAlone\SAPrincipal.php at line 74</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/standalone/saprincipal.php#L74 class="location">framework\hirudo\Hirudo\Impl\StandAlone\SAPrincipal.php at line 74</a>
 
 <h3 id="setSession()">setSession</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>setSession</span> (Session session)

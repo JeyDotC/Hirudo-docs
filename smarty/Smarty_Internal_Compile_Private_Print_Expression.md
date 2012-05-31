@@ -4,7 +4,7 @@
 **Smarty\Smarty_Internal_Compile_Private_Print_Expression**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_internal_compile_private_print_expression.php at line 18#L18 class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_private_print_expression.php at line 18</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_compile_private_print_expression.php#L18 class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_private_print_expression.php at line 18</a>
 
 #Class Smarty_Internal_Compile_Private_Print_Expression#
 
@@ -65,7 +65,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_internal_compile_private_print_expression.php at line 43#L43 class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_private_print_expression.php at line 43</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_compile_private_print_expression.php#L43 class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_private_print_expression.php at line 43</a>
 
 <h3 id="compile()">compile</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>compile</span> (array args, object compiler, array parameter)

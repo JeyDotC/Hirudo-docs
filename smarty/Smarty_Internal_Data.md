@@ -4,7 +4,7 @@
 **Smarty\Smarty_Internal_Data**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_internal_data.php at line 18#L18 class="location">framework\libs\smarty\sysplugins\smarty_internal_data.php at line 18</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_data.php#L18 class="location">framework\libs\smarty\sysplugins\smarty_internal_data.php at line 18</a>
 
 #Class Smarty_Internal_Data#
 
@@ -42,7 +42,7 @@
                                 </p><p class="description">configuration settings</p></td>
 </tr>
 <tr>
-<td><span class='k'></span> <span class='nx'><a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a></span></td>
+<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.html'>Smarty_Internal_Template</a></span></td>
 <td class="description"><p class="name" ><a href="#parent"> $parent</a>
                                 </p><p class="description">parent template (if any)</p></td>
 </tr>
@@ -61,23 +61,23 @@
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td><span class='k'></span> <span class='nx'><a href="../smarty/smarty_internal_data.html">Smarty_Internal_Data</a></span></td>
+<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_data.html>Smarty_Internal_Data</a></span></td>
 <td class="description"><p class="name"><a href="#assign">assign</a>(array|string tpl_var, mixed value, boolean nocache, boolean scope)</p><p class="description">assigns a Smarty variable</p></td>
 </tr>
 <tr>
-<td><span class='k'></span> <span class='nx'><a href="../smarty/smarty_internal_data.html">Smarty_Internal_Data</a></span></td>
+<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_data.html>Smarty_Internal_Data</a></span></td>
 <td class="description"><p class="name"><a href="#assignglobal">assignGlobal</a>(string varname, mixed value, boolean nocache)</p><p class="description">assigns a global Smarty variable</p></td>
 </tr>
 <tr>
-<td><span class='k'></span> <span class='nx'><a href="../smarty/smarty_internal_data.html">Smarty_Internal_Data</a></span></td>
+<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_data.html>Smarty_Internal_Data</a></span></td>
 <td class="description"><p class="name"><a href="#assignbyref">assignByRef</a>(string tpl_var, boolean nocache, mixed value)</p><p class="description">assigns values to template variables by reference</p></td>
 </tr>
 <tr>
-<td><span class='k'></span> <span class='nx'><a href="../smarty/smarty_internal_data.html">Smarty_Internal_Data</a></span></td>
+<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_data.html>Smarty_Internal_Data</a></span></td>
 <td class="description"><p class="name"><a href="#append">append</a>(array|string tpl_var, mixed value, boolean merge, boolean nocache)</p><p class="description">appends values to template variables</p></td>
 </tr>
 <tr>
-<td><span class='k'></span> <span class='nx'><a href="../smarty/smarty_internal_data.html">Smarty_Internal_Data</a></span></td>
+<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_data.html>Smarty_Internal_Data</a></span></td>
 <td class="description"><p class="name"><a href="#appendbyref">appendByRef</a>(string tpl_var, mixed &$value, boolean merge, mixed value)</p><p class="description">appends values to template variables by reference</p></td>
 </tr>
 <tr>
@@ -85,15 +85,15 @@
 <td class="description"><p class="name"><a href="#gettemplatevars">getTemplateVars</a>(string varname, string _ptr, boolean search_parents)</p><p class="description">Returns a single or all template variables</p></td>
 </tr>
 <tr>
-<td><span class='k'></span> <span class='nx'><a href="../smarty/smarty_internal_data.html">Smarty_Internal_Data</a></span></td>
+<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_data.html>Smarty_Internal_Data</a></span></td>
 <td class="description"><p class="name"><a href="#clearassign">clearAssign</a>(string|array tpl_var)</p><p class="description">clear the given assigned template variable.</p></td>
 </tr>
 <tr>
-<td><span class='k'></span> <span class='nx'><a href="../smarty/smarty_internal_data.html">Smarty_Internal_Data</a></span></td>
+<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_data.html>Smarty_Internal_Data</a></span></td>
 <td class="description"><p class="name"><a href="#clearallassign">clearAllAssign</a>()</p><p class="description">clear all the assigned template variables.</p></td>
 </tr>
 <tr>
-<td><span class='k'></span> <span class='nx'><a href="../smarty/smarty_internal_data.html">Smarty_Internal_Data</a></span></td>
+<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_data.html>Smarty_Internal_Data</a></span></td>
 <td class="description"><p class="name"><a href="#configload">configLoad</a>(string config_file, mixed sections)</p><p class="description">load a config file, optionally load just selected sections</p></td>
 </tr>
 <tr>
@@ -113,17 +113,17 @@
 <td class="description"><p class="name"><a href="#getconfigvars">getConfigVars</a>(string varname, bool search_parents)</p><p class="description">Returns a single or all config variables</p></td>
 </tr>
 <tr>
-<td><span class='k'></span> <span class='nx'><a href="../smarty/smarty_internal_data.html">Smarty_Internal_Data</a></span></td>
+<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_data.html>Smarty_Internal_Data</a></span></td>
 <td class="description"><p class="name"><a href="#clearconfig">clearConfig</a>(string varname)</p><p class="description">Deassigns a single or all config variables</p></td>
 </tr>
 </table>
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_internal_data.php at line 54#L54 class="location">framework\libs\smarty\sysplugins\smarty_internal_data.php at line 54</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_data.php#L54 class="location">framework\libs\smarty\sysplugins\smarty_internal_data.php at line 54</a>
 
 <h3 id="assign()">assign</h3>
-<span class='k'></span> <span class='nx'><a href="../smarty/smarty_internal_data.html">Smarty_Internal_Data</a></span> <span class='nf'>assign</span> (array|string tpl_var, mixed value, boolean nocache, boolean scope)
+<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_data.html>Smarty_Internal_Data</a></span> <span class='nf'>assign</span> (array|string tpl_var, mixed value, boolean nocache, boolean scope)
 
 <div class="details">
 <p>assigns a Smarty variable</p><dl>
@@ -140,10 +140,10 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_internal_data.php at line 79#L79 class="location">framework\libs\smarty\sysplugins\smarty_internal_data.php at line 79</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_data.php#L79 class="location">framework\libs\smarty\sysplugins\smarty_internal_data.php at line 79</a>
 
 <h3 id="assignGlobal()">assignGlobal</h3>
-<span class='k'></span> <span class='nx'><a href="../smarty/smarty_internal_data.html">Smarty_Internal_Data</a></span> <span class='nf'>assignGlobal</span> (string varname, mixed value, boolean nocache)
+<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_data.html>Smarty_Internal_Data</a></span> <span class='nf'>assignGlobal</span> (string varname, mixed value, boolean nocache)
 
 <div class="details">
 <p>assigns a global Smarty variable</p><dl>
@@ -159,10 +159,10 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_internal_data.php at line 95#L95 class="location">framework\libs\smarty\sysplugins\smarty_internal_data.php at line 95</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_data.php#L95 class="location">framework\libs\smarty\sysplugins\smarty_internal_data.php at line 95</a>
 
 <h3 id="assignByRef()">assignByRef</h3>
-<span class='k'></span> <span class='nx'><a href="../smarty/smarty_internal_data.html">Smarty_Internal_Data</a></span> <span class='nf'>assignByRef</span> (string tpl_var, boolean nocache, mixed value)
+<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_data.html>Smarty_Internal_Data</a></span> <span class='nf'>assignByRef</span> (string tpl_var, boolean nocache, mixed value)
 
 <div class="details">
 <p>assigns values to template variables by reference</p><dl>
@@ -178,10 +178,10 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_internal_data.php at line 114#L114 class="location">framework\libs\smarty\sysplugins\smarty_internal_data.php at line 114</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_data.php#L114 class="location">framework\libs\smarty\sysplugins\smarty_internal_data.php at line 114</a>
 
 <h3 id="append()">append</h3>
-<span class='k'></span> <span class='nx'><a href="../smarty/smarty_internal_data.html">Smarty_Internal_Data</a></span> <span class='nf'>append</span> (array|string tpl_var, mixed value, boolean merge, boolean nocache)
+<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_data.html>Smarty_Internal_Data</a></span> <span class='nf'>append</span> (array|string tpl_var, mixed value, boolean merge, boolean nocache)
 
 <div class="details">
 <p>appends values to template variables</p><dl>
@@ -198,10 +198,10 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_internal_data.php at line 174#L174 class="location">framework\libs\smarty\sysplugins\smarty_internal_data.php at line 174</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_data.php#L174 class="location">framework\libs\smarty\sysplugins\smarty_internal_data.php at line 174</a>
 
 <h3 id="appendByRef()">appendByRef</h3>
-<span class='k'></span> <span class='nx'><a href="../smarty/smarty_internal_data.html">Smarty_Internal_Data</a></span> <span class='nf'>appendByRef</span> (string tpl_var, mixed &$value, boolean merge, mixed value)
+<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_data.html>Smarty_Internal_Data</a></span> <span class='nf'>appendByRef</span> (string tpl_var, mixed &$value, boolean merge, mixed value)
 
 <div class="details">
 <p>appends values to template variables by reference</p><dl>
@@ -217,7 +217,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_internal_data.php at line 203#L203 class="location">framework\libs\smarty\sysplugins\smarty_internal_data.php at line 203</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_data.php#L203 class="location">framework\libs\smarty\sysplugins\smarty_internal_data.php at line 203</a>
 
 <h3 id="getTemplateVars()">getTemplateVars</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>getTemplateVars</span> (string varname, string _ptr, boolean search_parents)
@@ -236,10 +236,10 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_internal_data.php at line 246#L246 class="location">framework\libs\smarty\sysplugins\smarty_internal_data.php at line 246</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_data.php#L246 class="location">framework\libs\smarty\sysplugins\smarty_internal_data.php at line 246</a>
 
 <h3 id="clearAssign()">clearAssign</h3>
-<span class='k'></span> <span class='nx'><a href="../smarty/smarty_internal_data.html">Smarty_Internal_Data</a></span> <span class='nf'>clearAssign</span> (string|array tpl_var)
+<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_data.html>Smarty_Internal_Data</a></span> <span class='nf'>clearAssign</span> (string|array tpl_var)
 
 <div class="details">
 <p>clear the given assigned template variable.</p><dl>
@@ -253,10 +253,10 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_internal_data.php at line 263#L263 class="location">framework\libs\smarty\sysplugins\smarty_internal_data.php at line 263</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_data.php#L263 class="location">framework\libs\smarty\sysplugins\smarty_internal_data.php at line 263</a>
 
 <h3 id="clearAllAssign()">clearAllAssign</h3>
-<span class='k'></span> <span class='nx'><a href="../smarty/smarty_internal_data.html">Smarty_Internal_Data</a></span> <span class='nf'>clearAllAssign</span> ()
+<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_data.html>Smarty_Internal_Data</a></span> <span class='nf'>clearAllAssign</span> ()
 
 <div class="details">
 <p>clear all the assigned template variables.</p><dl>
@@ -268,10 +268,10 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_internal_data.php at line 276#L276 class="location">framework\libs\smarty\sysplugins\smarty_internal_data.php at line 276</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_data.php#L276 class="location">framework\libs\smarty\sysplugins\smarty_internal_data.php at line 276</a>
 
 <h3 id="configLoad()">configLoad</h3>
-<span class='k'></span> <span class='nx'><a href="../smarty/smarty_internal_data.html">Smarty_Internal_Data</a></span> <span class='nf'>configLoad</span> (string config_file, mixed sections)
+<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_data.html>Smarty_Internal_Data</a></span> <span class='nf'>configLoad</span> (string config_file, mixed sections)
 
 <div class="details">
 <p>load a config file, optionally load just selected sections</p><dl>
@@ -286,7 +286,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_internal_data.php at line 292#L292 class="location">framework\libs\smarty\sysplugins\smarty_internal_data.php at line 292</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_data.php#L292 class="location">framework\libs\smarty\sysplugins\smarty_internal_data.php at line 292</a>
 
 <h3 id="getVariable()">getVariable</h3>
 <span class='k'></span> <span class='nx'>object</span> <span class='nf'>getVariable</span> (string variable, object _ptr, boolean search_parents, bool error_enable)
@@ -305,7 +305,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_internal_data.php at line 325#L325 class="location">framework\libs\smarty\sysplugins\smarty_internal_data.php at line 325</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_data.php#L325 class="location">framework\libs\smarty\sysplugins\smarty_internal_data.php at line 325</a>
 
 <h3 id="getConfigVariable()">getConfigVariable</h3>
 <span class='k'></span> <span class='nx'>mixed</span> <span class='nf'>getConfigVariable</span> (string variable, bool error_enable)
@@ -322,7 +322,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_internal_data.php at line 349#L349 class="location">framework\libs\smarty\sysplugins\smarty_internal_data.php at line 349</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_data.php#L349 class="location">framework\libs\smarty\sysplugins\smarty_internal_data.php at line 349</a>
 
 <h3 id="getStreamVariable()">getStreamVariable</h3>
 <span class='k'></span> <span class='nx'>mixed</span> <span class='nf'>getStreamVariable</span> (string variable)
@@ -339,7 +339,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_internal_data.php at line 374#L374 class="location">framework\libs\smarty\sysplugins\smarty_internal_data.php at line 374</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_data.php#L374 class="location">framework\libs\smarty\sysplugins\smarty_internal_data.php at line 374</a>
 
 <h3 id="getConfigVars()">getConfigVars</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>getConfigVars</span> (string varname, bool search_parents)
@@ -356,10 +356,10 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_internal_data.php at line 406#L406 class="location">framework\libs\smarty\sysplugins\smarty_internal_data.php at line 406</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_data.php#L406 class="location">framework\libs\smarty\sysplugins\smarty_internal_data.php at line 406</a>
 
 <h3 id="clearConfig()">clearConfig</h3>
-<span class='k'></span> <span class='nx'><a href="../smarty/smarty_internal_data.html">Smarty_Internal_Data</a></span> <span class='nf'>clearConfig</span> (string varname)
+<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_data.html>Smarty_Internal_Data</a></span> <span class='nf'>clearConfig</span> (string varname)
 
 <div class="details">
 <p>Deassigns a single or all config variables</p><dl>

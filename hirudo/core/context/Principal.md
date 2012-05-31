@@ -4,7 +4,7 @@
 **Hirudo\Core\Context\Principal**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Core\Context\Principal.php at line 53#L53 class="location">framework\hirudo\Hirudo\Core\Context\Principal.php at line 53</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/core/context/principal.php#L53 class="location">framework\hirudo\Hirudo\Core\Context\Principal.php at line 53</a>
 
 #Class Principal#
 
@@ -68,14 +68,14 @@ system implementation.</p></td>
 <td class="description"><p class="name"><a href="#setpermissions">setPermissions</a>(array permissions)</p><p class="description">Sets the array of roles associated to this user.</p></td>
 </tr>
 <tr>
-<td><span class='k'></span> <span class='nx'><a href="../../../hirudo/core/context/userextradata.html">UserExtraData</a></span></td>
+<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/context/userextradata.html>UserExtraData</a></span></td>
 <td class="description"><p class="name"><a href="#getdata">getData</a>()</p><p class="description"></p></td>
 </tr>
 </table>
 
 <h2 id="detail_method">Constructor Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Core\Context\Principal.php at line 63#L63 class="location">framework\hirudo\Hirudo\Core\Context\Principal.php at line 63</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/core/context/principal.php#L63 class="location">framework\hirudo\Hirudo\Core\Context\Principal.php at line 63</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> ()
@@ -87,7 +87,7 @@ system implementation.</p></td>
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Core\Context\Principal.php at line 72#L72 class="location">framework\hirudo\Hirudo\Core\Context\Principal.php at line 72</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/core/context/principal.php#L72 class="location">framework\hirudo\Hirudo\Core\Context\Principal.php at line 72</a>
 
 <h3 id="isAnonimous()">isAnonimous</h3>
 <span class='k'>abstract </span> <span class='nx'>boolean</span> <span class='nf'>isAnonimous</span> ()
@@ -102,7 +102,7 @@ system implementation.</p></td>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Core\Context\Principal.php at line 79#L79 class="location">framework\hirudo\Hirudo\Core\Context\Principal.php at line 79</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/core/context/principal.php#L79 class="location">framework\hirudo\Hirudo\Core\Context\Principal.php at line 79</a>
 
 <h3 id="getName()">getName</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>getName</span> ()
@@ -117,7 +117,7 @@ system implementation.</p></td>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Core\Context\Principal.php at line 88#L88 class="location">framework\hirudo\Hirudo\Core\Context\Principal.php at line 88</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/core/context/principal.php#L88 class="location">framework\hirudo\Hirudo\Core\Context\Principal.php at line 88</a>
 
 <h3 id="setName()">setName</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>setName</span> (string name)
@@ -132,7 +132,7 @@ system implementation.</p></td>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Core\Context\Principal.php at line 98#L98 class="location">framework\hirudo\Hirudo\Core\Context\Principal.php at line 98</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/core/context/principal.php#L98 class="location">framework\hirudo\Hirudo\Core\Context\Principal.php at line 98</a>
 
 <h3 id="getCredential()">getCredential</h3>
 <span class='k'></span> <span class='nx'>type</span> <span class='nf'>getCredential</span> ()
@@ -144,7 +144,7 @@ system implementation.</p></div>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Core\Context\Principal.php at line 107#L107 class="location">framework\hirudo\Hirudo\Core\Context\Principal.php at line 107</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/core/context/principal.php#L107 class="location">framework\hirudo\Hirudo\Core\Context\Principal.php at line 107</a>
 
 <h3 id="setCredential()">setCredential</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>setCredential</span> (string credential)
@@ -159,7 +159,7 @@ system implementation.</p></div>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Core\Context\Principal.php at line 116#L116 class="location">framework\hirudo\Hirudo\Core\Context\Principal.php at line 116</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/core/context/principal.php#L116 class="location">framework\hirudo\Hirudo\Core\Context\Principal.php at line 116</a>
 
 <h3 id="getPermissions()">getPermissions</h3>
 <span class='k'></span> <span class='nx'>array</span> <span class='nf'>getPermissions</span> ()
@@ -174,7 +174,7 @@ system implementation.</p></div>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Core\Context\Principal.php at line 125#L125 class="location">framework\hirudo\Hirudo\Core\Context\Principal.php at line 125</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/core/context/principal.php#L125 class="location">framework\hirudo\Hirudo\Core\Context\Principal.php at line 125</a>
 
 <h3 id="setPermissions()">setPermissions</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>setPermissions</span> (array permissions)
@@ -189,10 +189,10 @@ system implementation.</p></div>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Core\Context\Principal.php at line 133#L133 class="location">framework\hirudo\Hirudo\Core\Context\Principal.php at line 133</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/core/context/principal.php#L133 class="location">framework\hirudo\Hirudo\Core\Context\Principal.php at line 133</a>
 
 <h3 id="getData()">getData</h3>
-<span class='k'></span> <span class='nx'><a href="../../../hirudo/core/context/userextradata.html">UserExtraData</a></span> <span class='nf'>getData</span> ()
+<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/context/userextradata.html>UserExtraData</a></span> <span class='nf'>getData</span> ()
 
 <div class="details">
 <p></p></div>

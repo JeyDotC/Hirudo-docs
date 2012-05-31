@@ -4,7 +4,7 @@
 **SampleApp\Modules\FrontPage**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/src\SampleApp\Modules\FrontPage\FrontPage.php at line 13#L13 class="location">src\SampleApp\Modules\FrontPage\FrontPage.php at line 13</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/sampleapp/modules/frontpage/frontpage.php#L13 class="location">src\SampleApp\Modules\FrontPage\FrontPage.php at line 13</a>
 
 #Class FrontPage#
 
@@ -43,7 +43,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#response">response</a>(<a href="../../sampleapp/models/entities/complexobject.html">ComplexObject</a> myComplexObject)</p><p class="description"></p></td>
+<td class="description"><p class="name"><a href="#response">response</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/sampleapp/models/entities/complexobject.html">ComplexObject</a> myComplexObject)</p><p class="description"></p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
@@ -61,7 +61,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/src\SampleApp\Modules\FrontPage\FrontPage.php at line 24#L24 class="location">src\SampleApp\Modules\FrontPage\FrontPage.php at line 24</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/sampleapp/modules/frontpage/frontpage.php#L24 class="location">src\SampleApp\Modules\FrontPage\FrontPage.php at line 24</a>
 
 <h3 id="index()">index</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>index</span> (string name)
@@ -76,10 +76,10 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/src\SampleApp\Modules\FrontPage\FrontPage.php at line 60#L60 class="location">src\SampleApp\Modules\FrontPage\FrontPage.php at line 60</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/sampleapp/modules/frontpage/frontpage.php#L60 class="location">src\SampleApp\Modules\FrontPage\FrontPage.php at line 60</a>
 
 <h3 id="response()">response</h3>
-<span class='k'></span> <span class='nx'>void</span> <span class='nf'>response</span> (<a href="../../sampleapp/models/entities/complexobject.html">ComplexObject</a> myComplexObject)
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>response</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/sampleapp/models/entities/complexobject.html">ComplexObject</a> myComplexObject)
 
 <div class="details">
 <p></p><dl>
@@ -91,7 +91,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/src\SampleApp\Modules\FrontPage\FrontPage.php at line 79#L79 class="location">src\SampleApp\Modules\FrontPage\FrontPage.php at line 79</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/sampleapp/modules/frontpage/frontpage.php#L79 class="location">src\SampleApp\Modules\FrontPage\FrontPage.php at line 79</a>
 
 <h3 id="seeSomeSessionVars()">seeSomeSessionVars</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>seeSomeSessionVars</span> ()
@@ -102,7 +102,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/src\SampleApp\Modules\FrontPage\FrontPage.php at line 105#L105 class="location">src\SampleApp\Modules\FrontPage\FrontPage.php at line 105</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/sampleapp/modules/frontpage/frontpage.php#L105 class="location">src\SampleApp\Modules\FrontPage\FrontPage.php at line 105</a>
 
 <h3 id="boomPage()">boomPage</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>boomPage</span> ()

@@ -4,7 +4,7 @@
 **Hirudo\Serialization\ArrayToEntityConverter**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Serialization\ArrayToEntityConverter.php at line 29#L29 class="location">framework\hirudo\Hirudo\Serialization\ArrayToEntityConverter.php at line 29</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/serialization/arraytoentityconverter.php#L29 class="location">framework\hirudo\Hirudo\Serialization\ArrayToEntityConverter.php at line 29</a>
 
 #Class ArrayToEntityConverter#
 
@@ -33,7 +33,7 @@
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Serialization\ArrayToEntityConverter.php at line 44#L44 class="location">framework\hirudo\Hirudo\Serialization\ArrayToEntityConverter.php at line 44</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/serialization/arraytoentityconverter.php#L44 class="location">framework\hirudo\Hirudo\Serialization\ArrayToEntityConverter.php at line 44</a>
 
 <h3 id="convert()">convert</h3>
 <span class='k'></span> <span class='nx'>mixed</span> <span class='nf'>convert</span> (array array, mixed objectOrClassName)

@@ -4,7 +4,7 @@
 **Smarty\_smarty_tag**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_internal_parsetree.php at line 47#L47 class="location">framework\libs\smarty\sysplugins\smarty_internal_parsetree.php at line 47</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_parsetree.php#L47 class="location">framework\libs\smarty\sysplugins\smarty_internal_parsetree.php at line 47</a>
 
 #Class _smarty_tag#
 
@@ -73,7 +73,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/_smar
 
 <h2 id="detail_method">Constructor Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_internal_parsetree.php at line 61#L61 class="location">framework\libs\smarty\sysplugins\smarty_internal_parsetree.php at line 61</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_parsetree.php#L61 class="location">framework\libs\smarty\sysplugins\smarty_internal_parsetree.php at line 61</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (object parser, string data)
@@ -90,7 +90,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/_smar
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_internal_parsetree.php at line 73#L73 class="location">framework\libs\smarty\sysplugins\smarty_internal_parsetree.php at line 73</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_parsetree.php#L73 class="location">framework\libs\smarty\sysplugins\smarty_internal_parsetree.php at line 73</a>
 
 <h3 id="to_smarty_php()">to_smarty_php</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>to_smarty_php</span> ()
@@ -105,7 +105,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/_smar
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_internal_parsetree.php at line 83#L83 class="location">framework\libs\smarty\sysplugins\smarty_internal_parsetree.php at line 83</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_parsetree.php#L83 class="location">framework\libs\smarty\sysplugins\smarty_internal_parsetree.php at line 83</a>
 
 <h3 id="assign_to_var()">assign_to_var</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>assign_to_var</span> ()

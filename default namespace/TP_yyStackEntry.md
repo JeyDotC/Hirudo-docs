@@ -4,7 +4,7 @@
 **Default namespace\TP_yyStackEntry**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_internal_templateparser.php at line 76#L76 class="location">framework\libs\smarty\sysplugins\smarty_internal_templateparser.php at line 76</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templateparser.php#L76 class="location">framework\libs\smarty\sysplugins\smarty_internal_templateparser.php at line 76</a>
 
 #Class TP_yyStackEntry#
 

@@ -4,7 +4,7 @@
 **Hirudo\Lang\Loader**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Lang\Loader.php at line 46#L46 class="location">framework\hirudo\Hirudo\Lang\Loader.php at line 46</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/lang/loader.php#L46 class="location">framework\hirudo\Hirudo\Lang\Loader.php at line 46</a>
 
 #Class Loader#
 
@@ -72,7 +72,7 @@ resulting paths.</p></td>
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Lang\Loader.php at line 72#L72 class="location">framework\hirudo\Hirudo\Lang\Loader.php at line 72</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/lang/loader.php#L72 class="location">framework\hirudo\Hirudo\Lang\Loader.php at line 72</a>
 
 <h3 id="using()">using</h3>
 <span class='k'>static </span> <span class='nx'>void</span> <span class='nf'>using</span> (string|array file, string extension)
@@ -95,7 +95,7 @@ directory.</p></p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Lang\Loader.php at line 101#L101 class="location">framework\hirudo\Hirudo\Lang\Loader.php at line 101</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/lang/loader.php#L101 class="location">framework\hirudo\Hirudo\Lang\Loader.php at line 101</a>
 
 <h3 id="arrayToPaths()">arrayToPaths</h3>
 <span class='k'>static </span> <span class='nx'>array</span> <span class='nf'>arrayToPaths</span> (array array, string extension)
@@ -120,7 +120,7 @@ resulting paths.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Lang\Loader.php at line 124#L124 class="location">framework\hirudo\Hirudo\Lang\Loader.php at line 124</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/lang/loader.php#L124 class="location">framework\hirudo\Hirudo\Lang\Loader.php at line 124</a>
 
 <h3 id="toPaths()">toPaths</h3>
 <span class='k'>static </span> <span class='nx'>array</span> <span class='nf'>toPaths</span> (array array, string extension, mixed string)
@@ -144,7 +144,7 @@ resulting paths.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Lang\Loader.php at line 143#L143 class="location">framework\hirudo\Hirudo\Lang\Loader.php at line 143</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/lang/loader.php#L143 class="location">framework\hirudo\Hirudo\Lang\Loader.php at line 143</a>
 
 <h3 id="toSinglePath()">toSinglePath</h3>
 <span class='k'>static </span> <span class='nx'>void</span> <span class='nf'>toSinglePath</span> (mixed string, mixed extension)
@@ -155,7 +155,7 @@ resulting paths.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Lang\Loader.php at line 163#L163 class="location">framework\hirudo\Hirudo\Lang\Loader.php at line 163</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/lang/loader.php#L163 class="location">framework\hirudo\Hirudo\Lang\Loader.php at line 163</a>
 
 <h3 id="isDir()">isDir</h3>
 <span class='k'>static </span> <span class='nx'>void</span> <span class='nf'>isDir</span> (mixed dir)
@@ -166,7 +166,7 @@ resulting paths.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Lang\Loader.php at line 168#L168 class="location">framework\hirudo\Hirudo\Lang\Loader.php at line 168</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/lang/loader.php#L168 class="location">framework\hirudo\Hirudo\Lang\Loader.php at line 168</a>
 
 <h3 id="isFile()">isFile</h3>
 <span class='k'>static </span> <span class='nx'>void</span> <span class='nf'>isFile</span> (mixed file, mixed extension)

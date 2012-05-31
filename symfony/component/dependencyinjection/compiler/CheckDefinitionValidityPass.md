@@ -4,7 +4,7 @@
 **Symfony\Component\DependencyInjection\Compiler\CheckDefinitionValidityPass**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\CheckDefinitionValidityPass.php at line 30#L30 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\CheckDefinitionValidityPass.php at line 30</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/compiler/checkdefinitionvaliditypass.php#L30 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\CheckDefinitionValidityPass.php at line 30</a>
 
 #Class CheckDefinitionValidityPass#
 
@@ -38,16 +38,16 @@ perform these checks themselves:</p>
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#process">process</a>(<a href="../../../../symfony/component/dependencyinjection/containerbuilder.html">ContainerBuilder</a> container)</p><p class="description">Processes the ContainerBuilder to validate the Definition.</p></td>
+<td class="description"><p class="name"><a href="#process">process</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/containerbuilder.html">ContainerBuilder</a> container)</p><p class="description">Processes the ContainerBuilder to validate the Definition.</p></td>
 </tr>
 </table>
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\CheckDefinitionValidityPass.php at line 38#L38 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\CheckDefinitionValidityPass.php at line 38</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/compiler/checkdefinitionvaliditypass.php#L38 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\CheckDefinitionValidityPass.php at line 38</a>
 
 <h3 id="process()">process</h3>
-<span class='k'></span> <span class='nx'>void</span> <span class='nf'>process</span> (<a href="../../../../symfony/component/dependencyinjection/containerbuilder.html">ContainerBuilder</a> container)
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>process</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/containerbuilder.html">ContainerBuilder</a> container)
 
 <div class="details">
 <p>Processes the ContainerBuilder to validate the Definition.</p><dl>

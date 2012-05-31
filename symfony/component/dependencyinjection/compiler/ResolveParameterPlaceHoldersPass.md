@@ -4,7 +4,7 @@
 **Symfony\Component\DependencyInjection\Compiler\ResolveParameterPlaceHoldersPass**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\ResolveParameterPlaceHoldersPass.php at line 22#L22 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\ResolveParameterPlaceHoldersPass.php at line 22</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/compiler/resolveparameterplaceholderspass.php#L22 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\ResolveParameterPlaceHoldersPass.php at line 22</a>
 
 #Class ResolveParameterPlaceHoldersPass#
 
@@ -36,16 +36,16 @@
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#process">process</a>(<a href="../../../../symfony/component/dependencyinjection/containerbuilder.html">ContainerBuilder</a> container)</p><p class="description">Processes the ContainerBuilder to resolve parameter placeholders.</p></td>
+<td class="description"><p class="name"><a href="#process">process</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/containerbuilder.html">ContainerBuilder</a> container)</p><p class="description">Processes the ContainerBuilder to resolve parameter placeholders.</p></td>
 </tr>
 </table>
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\ResolveParameterPlaceHoldersPass.php at line 31#L31 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\ResolveParameterPlaceHoldersPass.php at line 31</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/compiler/resolveparameterplaceholderspass.php#L31 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\ResolveParameterPlaceHoldersPass.php at line 31</a>
 
 <h3 id="process()">process</h3>
-<span class='k'></span> <span class='nx'>void</span> <span class='nf'>process</span> (<a href="../../../../symfony/component/dependencyinjection/containerbuilder.html">ContainerBuilder</a> container)
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>process</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/containerbuilder.html">ContainerBuilder</a> container)
 
 <div class="details">
 <p>Processes the ContainerBuilder to resolve parameter placeholders.</p></div>

@@ -4,7 +4,7 @@
 **Hirudo\Impl\Common\Templating\SmartyTemplating**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\Common\Templating\SmartyTemplating.php at line 35#L35 class="location">framework\hirudo\Hirudo\Impl\Common\Templating\SmartyTemplating.php at line 35</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/common/templating/smartytemplating.php#L35 class="location">framework\hirudo\Hirudo\Impl\Common\Templating\SmartyTemplating.php at line 35</a>
 
 #Class SmartyTemplating#
 
@@ -51,7 +51,7 @@
 <td class="description"><p class="name"><a href="#display">display</a>(string moduleDir, string view)</p><p class="description">Renders the view and retuns it as a string.</p></td>
 </tr>
 <tr>
-<td><span class='k'>static </span> <span class='nx'><a href="../../../../hirudo/impl/common/templating/smartytemplating.html">SmartyTemplating</a></span></td>
+<td><span class='k'>static </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/hirudo/impl/common/templating/smartytemplating.html>SmartyTemplating</a></span></td>
 <td class="description"><p class="name"><a href="#instance">instance</a>()</p><p class="description"></p></td>
 </tr>
 <tr>
@@ -62,7 +62,7 @@
 
 <h2 id="detail_method">Constructor Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\Common\Templating\SmartyTemplating.php at line 46#L46 class="location">framework\hirudo\Hirudo\Impl\Common\Templating\SmartyTemplating.php at line 46</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/common/templating/smartytemplating.php#L46 class="location">framework\hirudo\Hirudo\Impl\Common\Templating\SmartyTemplating.php at line 46</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> ()
@@ -74,7 +74,7 @@
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\Common\Templating\SmartyTemplating.php at line 61#L61 class="location">framework\hirudo\Hirudo\Impl\Common\Templating\SmartyTemplating.php at line 61</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/common/templating/smartytemplating.php#L61 class="location">framework\hirudo\Hirudo\Impl\Common\Templating\SmartyTemplating.php at line 61</a>
 
 <h3 id="assign()">assign</h3>
 <span class='k'></span> <span class='nx'>mixed</span> <span class='nf'>assign</span> (string name, mixed value)
@@ -92,7 +92,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\Common\Templating\SmartyTemplating.php at line 74#L74 class="location">framework\hirudo\Hirudo\Impl\Common\Templating\SmartyTemplating.php at line 74</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/common/templating/smartytemplating.php#L74 class="location">framework\hirudo\Hirudo\Impl\Common\Templating\SmartyTemplating.php at line 74</a>
 
 <h3 id="display()">display</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>display</span> (string moduleDir, string view)
@@ -110,10 +110,10 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\Common\Templating\SmartyTemplating.php at line 88#L88 class="location">framework\hirudo\Hirudo\Impl\Common\Templating\SmartyTemplating.php at line 88</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/common/templating/smartytemplating.php#L88 class="location">framework\hirudo\Hirudo\Impl\Common\Templating\SmartyTemplating.php at line 88</a>
 
 <h3 id="instance()">instance</h3>
-<span class='k'>static </span> <span class='nx'><a href="../../../../hirudo/impl/common/templating/smartytemplating.html">SmartyTemplating</a></span> <span class='nf'>instance</span> ()
+<span class='k'>static </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/hirudo/impl/common/templating/smartytemplating.html>SmartyTemplating</a></span> <span class='nf'>instance</span> ()
 
 <div class="details">
 <p></p></div>
@@ -121,7 +121,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\Common\Templating\SmartyTemplating.php at line 101#L101 class="location">framework\hirudo\Hirudo\Impl\Common\Templating\SmartyTemplating.php at line 101</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/common/templating/smartytemplating.php#L101 class="location">framework\hirudo\Hirudo\Impl\Common\Templating\SmartyTemplating.php at line 101</a>
 
 <h3 id="addExtensionsPath()">addExtensionsPath</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>addExtensionsPath</span> (string path)

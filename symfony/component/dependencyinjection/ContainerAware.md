@@ -4,7 +4,7 @@
 **Symfony\Component\DependencyInjection\ContainerAware**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerAware.php at line 21#L21 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerAware.php at line 21</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/containeraware.php#L21 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerAware.php at line 21</a>
 
 #Class ContainerAware#
 
@@ -38,7 +38,7 @@
 <table id="summary_field">
 <tr><th colspan="2">Field Summary</th></tr>
 <tr>
-<td><span class='k'>protected </span> <span class='nx'><a href="../../../symfony/component/dependencyinjection/containerinterface.html">ContainerInterface</a></span></td>
+<td><span class='k'>protected </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/containerinterface.html'>ContainerInterface</a></span></td>
 <td class="description"><p class="name" ><a href="#container"> $container</a>
                                 </p><p class="description"></p></td>
 </tr>
@@ -48,16 +48,16 @@
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#setcontainer">setContainer</a>(<a href="../../../symfony/component/dependencyinjection/containerinterface.html">ContainerInterface</a> container)</p><p class="description">Sets the Container associated with this Controller.</p></td>
+<td class="description"><p class="name"><a href="#setcontainer">setContainer</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/containerinterface.html">ContainerInterface</a> container)</p><p class="description">Sets the Container associated with this Controller.</p></td>
 </tr>
 </table>
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerAware.php at line 37#L37 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerAware.php at line 37</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/containeraware.php#L37 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerAware.php at line 37</a>
 
 <h3 id="setContainer()">setContainer</h3>
-<span class='k'></span> <span class='nx'>void</span> <span class='nf'>setContainer</span> (<a href="../../../symfony/component/dependencyinjection/containerinterface.html">ContainerInterface</a> container)
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>setContainer</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/containerinterface.html">ContainerInterface</a> container)
 
 <div class="details">
 <p>Sets the Container associated with this Controller.</p><dl>

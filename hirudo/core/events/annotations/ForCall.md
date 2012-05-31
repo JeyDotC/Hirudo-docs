@@ -4,7 +4,7 @@
 **Hirudo\Core\Events\Annotations\ForCall**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Core\Events\Annotations\ForCall.php at line 30#L30 class="location">framework\hirudo\Hirudo\Core\Events\Annotations\ForCall.php at line 30</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/core/events/annotations/forcall.php#L30 class="location">framework\hirudo\Hirudo\Core\Events\Annotations\ForCall.php at line 30</a>
 
 #Class ForCall#
 

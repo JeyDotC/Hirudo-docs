@@ -4,7 +4,7 @@
 **Symfony\Component\ClassLoader\ClassCollectionLoader**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\ClassLoader\ClassCollectionLoader.php at line 19#L19 class="location">framework\libs\symfony-components\Symfony\Component\ClassLoader\ClassCollectionLoader.php at line 19</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/classloader/classcollectionloader.php#L19 class="location">framework\libs\symfony-components\Symfony\Component\ClassLoader\ClassCollectionLoader.php at line 19</a>
 
 #Class ClassCollectionLoader#
 
@@ -41,7 +41,7 @@
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\ClassLoader\ClassCollectionLoader.php at line 35#L35 class="location">framework\libs\symfony-components\Symfony\Component\ClassLoader\ClassCollectionLoader.php at line 35</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/classloader/classcollectionloader.php#L35 class="location">framework\libs\symfony-components\Symfony\Component\ClassLoader\ClassCollectionLoader.php at line 35</a>
 
 <h3 id="load()">load</h3>
 <span class='k'>static </span> <span class='nx'>void</span> <span class='nf'>load</span> (array classes, string cacheDir, string name, Boolean autoReload, Boolean adaptive, string extension)
@@ -63,7 +63,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\ClassLoader\ClassCollectionLoader.php at line 126#L126 class="location">framework\libs\symfony-components\Symfony\Component\ClassLoader\ClassCollectionLoader.php at line 126</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/classloader/classcollectionloader.php#L126 class="location">framework\libs\symfony-components\Symfony\Component\ClassLoader\ClassCollectionLoader.php at line 126</a>
 
 <h3 id="fixNamespaceDeclarations()">fixNamespaceDeclarations</h3>
 <span class='k'>static </span> <span class='nx'>string</span> <span class='nf'>fixNamespaceDeclarations</span> (string source)

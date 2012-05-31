@@ -7,22 +7,22 @@
 <table id="summary_global" class="title">
 <tr><th colspan="2" class="title">Global Summary</th></tr>
 <tr>
-<td class="nx">final  mixed</td>
+<td>final  mixed</td>
 <td class="description"><p class="name"><a href="#ENCODING">ENCODING</a></p></td>
 </tr>
 <tr>
-<td class="nx">final  mixed</td>
+<td>final  mixed</td>
 <td class="description"><p class="name"><a href="#REGEX_CHARACTER_TO_ESCAPE">REGEX_CHARACTER_TO_ESCAPE</a></p></td>
 </tr>
 <tr>
-<td class="nx">final  mixed</td>
+<td>final  mixed</td>
 <td class="description"><p class="name"><a href="#REGEX_QUOTED_STRING">REGEX_QUOTED_STRING</a></p></td>
 </tr>
 </table>
 
 <h2 id="detail_global">Global Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\Yaml\Unescaper.php at line 23#L23 class="location">framework\libs\symfony-components\Symfony\Component\Yaml\Unescaper.php at line 23</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/yaml/unescaper.php#L23 class="location">framework\libs\symfony-components\Symfony\Component\Yaml\Unescaper.php at line 23</a>
 
 <h3 id="ENCODING">ENCODING</h3>
 ```php
@@ -33,7 +33,7 @@ public final  mixed **ENCODING** = '\'', $value```
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\Yaml\Escaper.php at line 22#L22 class="location">framework\libs\symfony-components\Symfony\Component\Yaml\Escaper.php at line 22</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/yaml/escaper.php#L22 class="location">framework\libs\symfony-components\Symfony\Component\Yaml\Escaper.php at line 22</a>
 
 <h3 id="REGEX_CHARACTER_TO_ESCAPE">REGEX_CHARACTER_TO_ESCAPE</h3>
 ```php
@@ -49,7 +49,7 @@ public final  mixed **REGEX_CHARACTER_TO_ESCAPE** = '\\&quot;',
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\Yaml\Inline.php at line 23#L23 class="location">framework\libs\symfony-components\Symfony\Component\Yaml\Inline.php at line 23</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/yaml/inline.php#L23 class="location">framework\libs\symfony-components\Symfony\Component\Yaml\Inline.php at line 23</a>
 
 <h3 id="REGEX_QUOTED_STRING">REGEX_QUOTED_STRING</h3>
 ```php

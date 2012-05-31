@@ -4,7 +4,7 @@
 **Symfony\Component\DependencyInjection\Exception\InvalidArgumentException**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\Exception\InvalidArgumentException.php at line 21#L21 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Exception\InvalidArgumentException.php at line 21</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/exception/invalidargumentexception.php#L21 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Exception\InvalidArgumentException.php at line 21</a>
 
 #Class InvalidArgumentException#
 

@@ -4,7 +4,7 @@
 **Smarty\Smarty_Internal_CompileBase**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_internal_compilebase.php at line 16#L16 class="location">framework\libs\smarty\sysplugins\smarty_internal_compilebase.php at line 16</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_compilebase.php#L16 class="location">framework\libs\smarty\sysplugins\smarty_internal_compilebase.php at line 16</a>
 
 #Class Smarty_Internal_CompileBase#
 
@@ -78,7 +78,7 @@ optional attributes. </p></td>
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_internal_compilebase.php at line 56#L56 class="location">framework\libs\smarty\sysplugins\smarty_internal_compilebase.php at line 56</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_compilebase.php#L56 class="location">framework\libs\smarty\sysplugins\smarty_internal_compilebase.php at line 56</a>
 
 <h3 id="getAttributes()">getAttributes</h3>
 <span class='k'></span> <span class='nx'>array</span> <span class='nf'>getAttributes</span> (object compiler, array attributes)
@@ -99,7 +99,7 @@ as valid</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_internal_compilebase.php at line 136#L136 class="location">framework\libs\smarty\sysplugins\smarty_internal_compilebase.php at line 136</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_compilebase.php#L136 class="location">framework\libs\smarty\sysplugins\smarty_internal_compilebase.php at line 136</a>
 
 <h3 id="openTag()">openTag</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>openTag</span> (object compiler, string openTag, mixed data)
@@ -116,7 +116,7 @@ as valid</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_internal_compilebase.php at line 150#L150 class="location">framework\libs\smarty\sysplugins\smarty_internal_compilebase.php at line 150</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_compilebase.php#L150 class="location">framework\libs\smarty\sysplugins\smarty_internal_compilebase.php at line 150</a>
 
 <h3 id="closeTag()">closeTag</h3>
 <span class='k'></span> <span class='nx'>mixed</span> <span class='nf'>closeTag</span> (object compiler, array|string expectedTag)

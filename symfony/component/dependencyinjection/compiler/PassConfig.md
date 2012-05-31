@@ -4,7 +4,7 @@
 **Symfony\Component\DependencyInjection\Compiler\PassConfig**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\PassConfig.php at line 23#L23 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\PassConfig.php at line 23</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/compiler/passconfig.php#L23 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\PassConfig.php at line 23</a>
 
 #Class PassConfig#
 

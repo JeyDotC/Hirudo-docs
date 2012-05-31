@@ -4,7 +4,7 @@
 **Hirudo\Core\Context\Assets**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Core\Context\Assets.php at line 32#L32 class="location">framework\hirudo\Hirudo\Core\Context\Assets.php at line 32</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/core/context/assets.php#L32 class="location">framework\hirudo\Hirudo\Core\Context\Assets.php at line 32</a>
 
 #Class Assets#
 
@@ -58,7 +58,7 @@ be set to the given path. </p></td>
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Core\Context\Assets.php at line 46#L46 class="location">framework\hirudo\Hirudo\Core\Context\Assets.php at line 46</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/core/context/assets.php#L46 class="location">framework\hirudo\Hirudo\Core\Context\Assets.php at line 46</a>
 
 <h3 id="addJavaScript()">addJavaScript</h3>
 <span class='k'>abstract </span> <span class='nx'>string</span> <span class='nf'>addJavaScript</span> (string jsPath)
@@ -77,7 +77,7 @@ the tag.</p></p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Core\Context\Assets.php at line 60#L60 class="location">framework\hirudo\Hirudo\Core\Context\Assets.php at line 60</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/core/context/assets.php#L60 class="location">framework\hirudo\Hirudo\Core\Context\Assets.php at line 60</a>
 
 <h3 id="addCSS()">addCSS</h3>
 <span class='k'>abstract </span> <span class='nx'>string</span> <span class='nf'>addCSS</span> (string cssPath)
@@ -96,7 +96,7 @@ the tag.</p></p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Core\Context\Assets.php at line 70#L70 class="location">framework\hirudo\Hirudo\Core\Context\Assets.php at line 70</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/core/context/assets.php#L70 class="location">framework\hirudo\Hirudo\Core\Context\Assets.php at line 70</a>
 
 <h3 id="generateScriptTag()">generateScriptTag</h3>
 <span class='k'>protected </span> <span class='nx'>string</span> <span class='nf'>generateScriptTag</span> (string jsPath)
@@ -115,7 +115,7 @@ to meet the CMS conventions.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Core\Context\Assets.php at line 82#L82 class="location">framework\hirudo\Hirudo\Core\Context\Assets.php at line 82</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/core/context/assets.php#L82 class="location">framework\hirudo\Hirudo\Core\Context\Assets.php at line 82</a>
 
 <h3 id="generateCSSTag()">generateCSSTag</h3>
 <span class='k'>protected </span> <span class='nx'>string</span> <span class='nf'>generateCSSTag</span> (string cssPath)

@@ -4,7 +4,7 @@
 **Hirudo\Impl\Joomla\JoomlaFrontController**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\Joomla\JoomlaFrontController.php at line 51#L51 class="location">framework\hirudo\Hirudo\Impl\Joomla\JoomlaFrontController.php at line 51</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/joomla/joomlafrontcontroller.php#L51 class="location">framework\hirudo\Hirudo\Impl\Joomla\JoomlaFrontController.php at line 51</a>
 
 #Class JoomlaFrontController#
 
@@ -35,7 +35,7 @@ extends \JController
 <tr><th colspan="2">Constructor Summary</th></tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#__construct">__construct</a>(<a href="../../../hirudo/core/modulesmanager.html">ModulesManager</a> manager)</p><p class="description">Constructs this controller as a joomla controller.</p></td>
+<td class="description"><p class="name"><a href="#__construct">__construct</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/modulesmanager.html">ModulesManager</a> manager)</p><p class="description">Constructs this controller as a joomla controller.</p></td>
 </tr>
 </table>
 
@@ -57,10 +57,10 @@ extends \JController
 
 <h2 id="detail_method">Constructor Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\Joomla\JoomlaFrontController.php at line 63#L63 class="location">framework\hirudo\Hirudo\Impl\Joomla\JoomlaFrontController.php at line 63</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/joomla/joomlafrontcontroller.php#L63 class="location">framework\hirudo\Hirudo\Impl\Joomla\JoomlaFrontController.php at line 63</a>
 
 <h3 id="__construct">__construct</h3>
-<span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (<a href="../../../hirudo/core/modulesmanager.html">ModulesManager</a> manager)
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/modulesmanager.html">ModulesManager</a> manager)
 
 <div class="details">
 <p>Constructs this controller as a joomla controller.</p></div>
@@ -69,7 +69,7 @@ extends \JController
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\Joomla\JoomlaFrontController.php at line 78#L78 class="location">framework\hirudo\Hirudo\Impl\Joomla\JoomlaFrontController.php at line 78</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/joomla/joomlafrontcontroller.php#L78 class="location">framework\hirudo\Hirudo\Impl\Joomla\JoomlaFrontController.php at line 78</a>
 
 <h3 id="doTask()">doTask</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>doTask</span> ()
@@ -80,7 +80,7 @@ extends \JController
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\Joomla\JoomlaFrontController.php at line 94#L94 class="location">framework\hirudo\Hirudo\Impl\Joomla\JoomlaFrontController.php at line 94</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/joomla/joomlafrontcontroller.php#L94 class="location">framework\hirudo\Hirudo\Impl\Joomla\JoomlaFrontController.php at line 94</a>
 
 <h3 id="execute()">execute</h3>
 <span class='k'></span> <span class='nx'>mixed</span> <span class='nf'>execute</span> (string task)
@@ -91,7 +91,7 @@ extends \JController
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\Joomla\JoomlaFrontController.php at line 107#L107 class="location">framework\hirudo\Hirudo\Impl\Joomla\JoomlaFrontController.php at line 107</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/joomla/joomlafrontcontroller.php#L107 class="location">framework\hirudo\Hirudo\Impl\Joomla\JoomlaFrontController.php at line 107</a>
 
 <h3 id="run()">run</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>run</span> ()

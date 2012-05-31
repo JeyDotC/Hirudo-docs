@@ -4,7 +4,7 @@
 **Hirudo\Impl\Joomla\JoomlaAppConfig**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\Joomla\JoomlaAppConfig.php at line 37#L37 class="location">framework\hirudo\Hirudo\Impl\Joomla\JoomlaAppConfig.php at line 37</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/joomla/joomlaappconfig.php#L37 class="location">framework\hirudo\Hirudo\Impl\Joomla\JoomlaAppConfig.php at line 37</a>
 
 #Class JoomlaAppConfig#
 
@@ -55,7 +55,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\Joomla\JoomlaAppConfig.php at line 49#L49 class="location">framework\hirudo\Hirudo\Impl\Joomla\JoomlaAppConfig.php at line 49</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/joomla/joomlaappconfig.php#L49 class="location">framework\hirudo\Hirudo\Impl\Joomla\JoomlaAppConfig.php at line 49</a>
 
 <h3 id="instance()">instance</h3>
 <span class='k'>static </span> <span class='nx'>JAppConfig</span> <span class='nf'>instance</span> ()
@@ -66,7 +66,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\Joomla\JoomlaAppConfig.php at line 63#L63 class="location">framework\hirudo\Hirudo\Impl\Joomla\JoomlaAppConfig.php at line 63</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/joomla/joomlaappconfig.php#L63 class="location">framework\hirudo\Hirudo\Impl\Joomla\JoomlaAppConfig.php at line 63</a>
 
 <h3 id="get()">get</h3>
 <span class='k'></span> <span class='nx'>mixed</span> <span class='nf'>get</span> (string key, mixed default)
@@ -84,7 +84,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\Joomla\JoomlaAppConfig.php at line 67#L67 class="location">framework\hirudo\Hirudo\Impl\Joomla\JoomlaAppConfig.php at line 67</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/joomla/joomlaappconfig.php#L67 class="location">framework\hirudo\Hirudo\Impl\Joomla\JoomlaAppConfig.php at line 67</a>
 
 <h3 id="load()">load</h3>
 <span class='k'>protected </span> <span class='nx'>void</span> <span class='nf'>load</span> ()

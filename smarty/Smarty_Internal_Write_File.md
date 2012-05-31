@@ -4,7 +4,7 @@
 **Smarty\Smarty_Internal_Write_File**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_internal_write_file.php at line 16#L16 class="location">framework\libs\smarty\sysplugins\smarty_internal_write_file.php at line 16</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_write_file.php#L16 class="location">framework\libs\smarty\sysplugins\smarty_internal_write_file.php at line 16</a>
 
 #Class Smarty_Internal_Write_File#
 
@@ -31,16 +31,16 @@
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td><span class='k'>static </span> <span class='nx'>boolean</span></td>
-<td class="description"><p class="name"><a href="#writefile">writeFile</a>(string _filepath, string _contents, <a href="../smarty/smarty.html">Smarty</a> smarty)</p><p class="description">Writes file in a safe way to disk</p></td>
+<td class="description"><p class="name"><a href="#writefile">writeFile</a>(string _filepath, string _contents, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty.html">Smarty</a> smarty)</p><p class="description">Writes file in a safe way to disk</p></td>
 </tr>
 </table>
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_internal_write_file.php at line 26#L26 class="location">framework\libs\smarty\sysplugins\smarty_internal_write_file.php at line 26</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_write_file.php#L26 class="location">framework\libs\smarty\sysplugins\smarty_internal_write_file.php at line 26</a>
 
 <h3 id="writeFile()">writeFile</h3>
-<span class='k'>static </span> <span class='nx'>boolean</span> <span class='nf'>writeFile</span> (string _filepath, string _contents, <a href="../smarty/smarty.html">Smarty</a> smarty)
+<span class='k'>static </span> <span class='nx'>boolean</span> <span class='nf'>writeFile</span> (string _filepath, string _contents, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty.html">Smarty</a> smarty)
 
 <div class="details">
 <p>Writes file in a safe way to disk</p><dl>

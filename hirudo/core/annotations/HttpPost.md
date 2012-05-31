@@ -4,7 +4,7 @@
 **Hirudo\Core\Annotations\HttpPost**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Core\Annotations\HttpPost.php at line 13#L13 class="location">framework\hirudo\Hirudo\Core\Annotations\HttpPost.php at line 13</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/core/annotations/httppost.php#L13 class="location">framework\hirudo\Hirudo\Core\Annotations\HttpPost.php at line 13</a>
 
 #Class HttpPost#
 

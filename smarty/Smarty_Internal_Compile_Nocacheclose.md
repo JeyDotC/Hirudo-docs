@@ -4,7 +4,7 @@
 **Smarty\Smarty_Internal_Compile_Nocacheclose**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_internal_compile_nocache.php at line 50#L50 class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_nocache.php at line 50</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_compile_nocache.php#L50 class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_nocache.php at line 50</a>
 
 #Class Smarty_Internal_Compile_Nocacheclose#
 
@@ -49,7 +49,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_internal_compile_nocache.php at line 61#L61 class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_nocache.php at line 61</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_compile_nocache.php#L61 class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_nocache.php at line 61</a>
 
 <h3 id="compile()">compile</h3>
 <span class='k'></span> <span class='nx'>bool</span> <span class='nf'>compile</span> (array args, object compiler)

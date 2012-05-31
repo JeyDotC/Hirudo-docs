@@ -7,14 +7,14 @@
 <table id="summary_global" class="title">
 <tr><th colspan="2" class="title">Global Summary</th></tr>
 <tr>
-<td class="nx">final  mixed</td>
+<td>final  mixed</td>
 <td class="description"><p class="name"><a href="#STARTED">STARTED</a></p><p class="description"></p></td>
 </tr>
 </table>
 
 <h2 id="detail_global">Global Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 117#L117 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 117</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/standalone/lib/http/session2.php#L117 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 117</a>
 
 <h3 id="STARTED">STARTED</h3>
 ```php

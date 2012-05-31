@@ -4,7 +4,7 @@
 **Hirudo\Core\Exceptions\HirudoException**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Core\Exceptions\HirudoException.php at line 37#L37 class="location">framework\hirudo\Hirudo\Core\Exceptions\HirudoException.php at line 37</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/core/exceptions/hirudoexception.php#L37 class="location">framework\hirudo\Hirudo\Core\Exceptions\HirudoException.php at line 37</a>
 
 #Class HirudoException#
 
@@ -44,7 +44,7 @@ are wraped into an instance of this class as the 'previous' exception.</p></p></
 <tr><th colspan="2">Constructor Summary</th></tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#__construct">__construct</a>(<a href="../../../hirudo/core/context/modulecall.html">ModuleCall</a> call, string message, \Exception previous)</p><p class="description">Creates a HirudoException.</p></td>
+<td class="description"><p class="name"><a href="#__construct">__construct</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/context/modulecall.html">ModuleCall</a> call, string message, \Exception previous)</p><p class="description">Creates a HirudoException.</p></td>
 </tr>
 </table>
 
@@ -66,10 +66,10 @@ are wraped into an instance of this class as the 'previous' exception.</p></p></
 
 <h2 id="detail_method">Constructor Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Core\Exceptions\HirudoException.php at line 52#L52 class="location">framework\hirudo\Hirudo\Core\Exceptions\HirudoException.php at line 52</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/core/exceptions/hirudoexception.php#L52 class="location">framework\hirudo\Hirudo\Core\Exceptions\HirudoException.php at line 52</a>
 
 <h3 id="__construct">__construct</h3>
-<span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (<a href="../../../hirudo/core/context/modulecall.html">ModuleCall</a> call, string message, \Exception previous)
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/context/modulecall.html">ModuleCall</a> call, string message, \Exception previous)
 
 <div class="details">
 <p>Creates a HirudoException.</p><dl>
@@ -84,7 +84,7 @@ are wraped into an instance of this class as the 'previous' exception.</p></p></
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Core\Exceptions\HirudoException.php at line 70#L70 class="location">framework\hirudo\Hirudo\Core\Exceptions\HirudoException.php at line 70</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/core/exceptions/hirudoexception.php#L70 class="location">framework\hirudo\Hirudo\Core\Exceptions\HirudoException.php at line 70</a>
 
 <h3 id="getApp()">getApp</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>getApp</span> ()
@@ -99,7 +99,7 @@ are wraped into an instance of this class as the 'previous' exception.</p></p></
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Core\Exceptions\HirudoException.php at line 79#L79 class="location">framework\hirudo\Hirudo\Core\Exceptions\HirudoException.php at line 79</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/core/exceptions/hirudoexception.php#L79 class="location">framework\hirudo\Hirudo\Core\Exceptions\HirudoException.php at line 79</a>
 
 <h3 id="getModule()">getModule</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>getModule</span> ()
@@ -114,7 +114,7 @@ are wraped into an instance of this class as the 'previous' exception.</p></p></
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Core\Exceptions\HirudoException.php at line 87#L87 class="location">framework\hirudo\Hirudo\Core\Exceptions\HirudoException.php at line 87</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/core/exceptions/hirudoexception.php#L87 class="location">framework\hirudo\Hirudo\Core\Exceptions\HirudoException.php at line 87</a>
 
 <h3 id="getTask()">getTask</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>getTask</span> ()

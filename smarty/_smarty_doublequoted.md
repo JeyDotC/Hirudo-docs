@@ -4,7 +4,7 @@
 **Smarty\_smarty_doublequoted**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_internal_parsetree.php at line 133#L133 class="location">framework\libs\smarty\sysplugins\smarty_internal_parsetree.php at line 133</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_parsetree.php#L133 class="location">framework\libs\smarty\sysplugins\smarty_internal_parsetree.php at line 133</a>
 
 #Class _smarty_doublequoted#
 
@@ -40,7 +40,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/_smar
 <tr><th colspan="2">Constructor Summary</th></tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#__construct">__construct</a>(object parser, <a href="../smarty/_smarty_parsetree.html">_smarty_parsetree</a> subtree)</p><p class="description">Create parse tree buffer for double quoted string subtrees</p></td>
+<td class="description"><p class="name"><a href="#__construct">__construct</a>(object parser, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/_smarty_parsetree.html">_smarty_parsetree</a> subtree)</p><p class="description">Create parse tree buffer for double quoted string subtrees</p></td>
 </tr>
 </table>
 
@@ -48,7 +48,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/_smar
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#append_subtree">append_subtree</a>(<a href="../smarty/_smarty_parsetree.html">_smarty_parsetree</a> subtree)</p><p class="description">Append buffer to subtree</p></td>
+<td class="description"><p class="name"><a href="#append_subtree">append_subtree</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/_smarty_parsetree.html">_smarty_parsetree</a> subtree)</p><p class="description">Append buffer to subtree</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
@@ -62,10 +62,10 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/_smar
 
 <h2 id="detail_method">Constructor Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_internal_parsetree.php at line 141#L141 class="location">framework\libs\smarty\sysplugins\smarty_internal_parsetree.php at line 141</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_parsetree.php#L141 class="location">framework\libs\smarty\sysplugins\smarty_internal_parsetree.php at line 141</a>
 
 <h3 id="__construct">__construct</h3>
-<span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (object parser, <a href="../smarty/_smarty_parsetree.html">_smarty_parsetree</a> subtree)
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (object parser, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/_smarty_parsetree.html">_smarty_parsetree</a> subtree)
 
 <div class="details">
 <p>Create parse tree buffer for double quoted string subtrees</p><dl>
@@ -79,10 +79,10 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/_smar
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_internal_parsetree.php at line 155#L155 class="location">framework\libs\smarty\sysplugins\smarty_internal_parsetree.php at line 155</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_parsetree.php#L155 class="location">framework\libs\smarty\sysplugins\smarty_internal_parsetree.php at line 155</a>
 
 <h3 id="append_subtree()">append_subtree</h3>
-<span class='k'></span> <span class='nx'>void</span> <span class='nf'>append_subtree</span> (<a href="../smarty/_smarty_parsetree.html">_smarty_parsetree</a> subtree)
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>append_subtree</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/_smarty_parsetree.html">_smarty_parsetree</a> subtree)
 
 <div class="details">
 <p>Append buffer to subtree</p><dl>
@@ -94,7 +94,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/_smar
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_internal_parsetree.php at line 179#L179 class="location">framework\libs\smarty\sysplugins\smarty_internal_parsetree.php at line 179</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_parsetree.php#L179 class="location">framework\libs\smarty\sysplugins\smarty_internal_parsetree.php at line 179</a>
 
 <h3 id="to_smarty_php()">to_smarty_php</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>to_smarty_php</span> ()

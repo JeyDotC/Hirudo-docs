@@ -4,7 +4,7 @@
 **Doctrine\Common\Cache\ApcCache**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\doctrine-common\Doctrine\Common\Cache\ApcCache.php at line 35#L35 class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\ApcCache.php at line 35</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/doctrine/common/cache/apccache.php#L35 class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\ApcCache.php at line 35</a>
 
 #Class ApcCache#
 
@@ -75,7 +75,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/com
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\doctrine-common\Doctrine\Common\Cache\ApcCache.php at line 40#L40 class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\ApcCache.php at line 40</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/doctrine/common/cache/apccache.php#L40 class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\ApcCache.php at line 40</a>
 
 <h3 id="doFetch()">doFetch</h3>
 <span class='k'>protected </span> <span class='nx'>string</span> <span class='nf'>doFetch</span> (string id)
@@ -92,7 +92,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/com
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\doctrine-common\Doctrine\Common\Cache\ApcCache.php at line 48#L48 class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\ApcCache.php at line 48</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/doctrine/common/cache/apccache.php#L48 class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\ApcCache.php at line 48</a>
 
 <h3 id="doContains()">doContains</h3>
 <span class='k'>protected </span> <span class='nx'>boolean</span> <span class='nf'>doContains</span> (string id)
@@ -109,7 +109,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/com
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\doctrine-common\Doctrine\Common\Cache\ApcCache.php at line 60#L60 class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\ApcCache.php at line 60</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/doctrine/common/cache/apccache.php#L60 class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\ApcCache.php at line 60</a>
 
 <h3 id="doSave()">doSave</h3>
 <span class='k'>protected </span> <span class='nx'>boolean</span> <span class='nf'>doSave</span> (string id, string data, int lifeTime)
@@ -128,7 +128,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/com
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\doctrine-common\Doctrine\Common\Cache\ApcCache.php at line 68#L68 class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\ApcCache.php at line 68</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/doctrine/common/cache/apccache.php#L68 class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\ApcCache.php at line 68</a>
 
 <h3 id="doDelete()">doDelete</h3>
 <span class='k'>protected </span> <span class='nx'>boolean</span> <span class='nf'>doDelete</span> (string id)
@@ -145,7 +145,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/com
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\doctrine-common\Doctrine\Common\Cache\ApcCache.php at line 76#L76 class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\ApcCache.php at line 76</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/doctrine/common/cache/apccache.php#L76 class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\ApcCache.php at line 76</a>
 
 <h3 id="doFlush()">doFlush</h3>
 <span class='k'>protected </span> <span class='nx'>boolean</span> <span class='nf'>doFlush</span> ()
@@ -160,7 +160,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/com
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\doctrine-common\Doctrine\Common\Cache\ApcCache.php at line 84#L84 class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\ApcCache.php at line 84</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/doctrine/common/cache/apccache.php#L84 class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\ApcCache.php at line 84</a>
 
 <h3 id="doGetStats()">doGetStats</h3>
 <span class='k'>protected </span> <span class='nx'>array</span> <span class='nf'>doGetStats</span> ()

@@ -4,7 +4,7 @@
 **Smarty\Smarty_Internal_Resource_Registered**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_internal_resource_registered.php at line 20#L20 class="location">framework\libs\smarty\sysplugins\smarty_internal_resource_registered.php at line 20</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_resource_registered.php#L20 class="location">framework\libs\smarty\sysplugins\smarty_internal_resource_registered.php at line 20</a>
 
 #Class Smarty_Internal_Resource_Registered#
 
@@ -40,23 +40,23 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#populate">populate</a>(<a href="../smarty/smarty_template_source.html">Smarty_Template_Source</a> source, <a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> _template)</p><p class="description">populate Source Object with meta data from Resource</p></td>
+<td class="description"><p class="name"><a href="#populate">populate</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_template_source.html">Smarty_Template_Source</a> source, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.html">Smarty_Internal_Template</a> _template)</p><p class="description">populate Source Object with meta data from Resource</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#populatetimestamp">populateTimestamp</a>(<a href="../smarty/smarty_template_source.html">Smarty_Template_Source</a> source)</p><p class="description">populate Source Object with timestamp and exists from Resource</p></td>
+<td class="description"><p class="name"><a href="#populatetimestamp">populateTimestamp</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_template_source.html">Smarty_Template_Source</a> source)</p><p class="description">populate Source Object with timestamp and exists from Resource</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>integer|boolean</span></td>
-<td class="description"><p class="name"><a href="#gettemplatetimestamp">getTemplateTimestamp</a>(<a href="../smarty/smarty_template_source.html">Smarty_Template_Source</a> source)</p><p class="description">Get timestamp (epoch) the template source was modified</p></td>
+<td class="description"><p class="name"><a href="#gettemplatetimestamp">getTemplateTimestamp</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_template_source.html">Smarty_Template_Source</a> source)</p><p class="description">Get timestamp (epoch) the template source was modified</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name"><a href="#getcontent">getContent</a>(<a href="../smarty/smarty_template_source.html">Smarty_Template_Source</a> source)</p><p class="description">Load template's source by invoking the registered callback into current template object</p></td>
+<td class="description"><p class="name"><a href="#getcontent">getContent</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_template_source.html">Smarty_Template_Source</a> source)</p><p class="description">Load template's source by invoking the registered callback into current template object</p></td>
 </tr>
 <tr>
 <td><span class='k'>protected </span> <span class='nx'>string</span></td>
-<td class="description"><p class="name"><a href="#getbasename">getBasename</a>(<a href="../smarty/smarty_template_source.html">Smarty_Template_Source</a> source)</p><p class="description">Determine basename for compiled filename</p></td>
+<td class="description"><p class="name"><a href="#getbasename">getBasename</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_template_source.html">Smarty_Template_Source</a> source)</p><p class="description">Determine basename for compiled filename</p></td>
 </tr>
 </table>
 
@@ -66,10 +66,10 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_internal_resource_registered.php at line 29#L29 class="location">framework\libs\smarty\sysplugins\smarty_internal_resource_registered.php at line 29</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_resource_registered.php#L29 class="location">framework\libs\smarty\sysplugins\smarty_internal_resource_registered.php at line 29</a>
 
 <h3 id="populate()">populate</h3>
-<span class='k'></span> <span class='nx'>void</span> <span class='nf'>populate</span> (<a href="../smarty/smarty_template_source.html">Smarty_Template_Source</a> source, <a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> _template)
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>populate</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_template_source.html">Smarty_Template_Source</a> source, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.html">Smarty_Internal_Template</a> _template)
 
 <div class="details">
 <p>populate Source Object with meta data from Resource</p><dl>
@@ -82,10 +82,10 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_internal_resource_registered.php at line 45#L45 class="location">framework\libs\smarty\sysplugins\smarty_internal_resource_registered.php at line 45</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_resource_registered.php#L45 class="location">framework\libs\smarty\sysplugins\smarty_internal_resource_registered.php at line 45</a>
 
 <h3 id="populateTimestamp()">populateTimestamp</h3>
-<span class='k'></span> <span class='nx'>void</span> <span class='nf'>populateTimestamp</span> (<a href="../smarty/smarty_template_source.html">Smarty_Template_Source</a> source)
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>populateTimestamp</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_template_source.html">Smarty_Template_Source</a> source)
 
 <div class="details">
 <p>populate Source Object with timestamp and exists from Resource</p><dl>
@@ -97,10 +97,10 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_internal_resource_registered.php at line 57#L57 class="location">framework\libs\smarty\sysplugins\smarty_internal_resource_registered.php at line 57</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_resource_registered.php#L57 class="location">framework\libs\smarty\sysplugins\smarty_internal_resource_registered.php at line 57</a>
 
 <h3 id="getTemplateTimestamp()">getTemplateTimestamp</h3>
-<span class='k'></span> <span class='nx'>integer|boolean</span> <span class='nf'>getTemplateTimestamp</span> (<a href="../smarty/smarty_template_source.html">Smarty_Template_Source</a> source)
+<span class='k'></span> <span class='nx'>integer|boolean</span> <span class='nf'>getTemplateTimestamp</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_template_source.html">Smarty_Template_Source</a> source)
 
 <div class="details">
 <p>Get timestamp (epoch) the template source was modified</p><dl>
@@ -114,10 +114,10 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_internal_resource_registered.php at line 72#L72 class="location">framework\libs\smarty\sysplugins\smarty_internal_resource_registered.php at line 72</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_resource_registered.php#L72 class="location">framework\libs\smarty\sysplugins\smarty_internal_resource_registered.php at line 72</a>
 
 <h3 id="getContent()">getContent</h3>
-<span class='k'></span> <span class='nx'>string</span> <span class='nf'>getContent</span> (<a href="../smarty/smarty_template_source.html">Smarty_Template_Source</a> source)
+<span class='k'></span> <span class='nx'>string</span> <span class='nf'>getContent</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_template_source.html">Smarty_Template_Source</a> source)
 
 <div class="details">
 <p>Load template's source by invoking the registered callback into current template object</p><dl>
@@ -133,10 +133,10 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_internal_resource_registered.php at line 88#L88 class="location">framework\libs\smarty\sysplugins\smarty_internal_resource_registered.php at line 88</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_resource_registered.php#L88 class="location">framework\libs\smarty\sysplugins\smarty_internal_resource_registered.php at line 88</a>
 
 <h3 id="getBasename()">getBasename</h3>
-<span class='k'>protected </span> <span class='nx'>string</span> <span class='nf'>getBasename</span> (<a href="../smarty/smarty_template_source.html">Smarty_Template_Source</a> source)
+<span class='k'>protected </span> <span class='nx'>string</span> <span class='nf'>getBasename</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_template_source.html">Smarty_Template_Source</a> source)
 
 <div class="details">
 <p>Determine basename for compiled filename</p><dl>

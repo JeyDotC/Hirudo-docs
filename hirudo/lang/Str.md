@@ -4,7 +4,7 @@
 **Hirudo\Lang\Str**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Lang\Str.php at line 10#L10 class="location">framework\hirudo\Hirudo\Lang\Str.php at line 10</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/lang/str.php#L10 class="location">framework\hirudo\Hirudo\Lang\Str.php at line 10</a>
 
 #Class Str#
 

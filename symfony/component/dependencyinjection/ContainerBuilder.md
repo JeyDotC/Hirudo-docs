@@ -4,7 +4,7 @@
 **Symfony\Component\DependencyInjection\ContainerBuilder**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 29#L29 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 29</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/containerbuilder.php#L29 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 29</a>
 
 #Class ContainerBuilder#
 
@@ -40,10 +40,10 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/comp
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#registerextension">registerExtension</a>(<a href="../../../symfony/component/dependencyinjection/extension/extensioninterface.html">ExtensionInterface</a> extension)</p><p class="description">Registers an extension.</p></td>
+<td class="description"><p class="name"><a href="#registerextension">registerExtension</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/extension/extensioninterface.html">ExtensionInterface</a> extension)</p><p class="description">Registers an extension.</p></td>
 </tr>
 <tr>
-<td><span class='k'></span> <span class='nx'><a href="../../../symfony/component/dependencyinjection/extension/extensioninterface.html">ExtensionInterface</a></span></td>
+<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/extension/extensioninterface.html>ExtensionInterface</a></span></td>
 <td class="description"><p class="name"><a href="#getextension">getExtension</a>(string name)</p><p class="description">Returns an extension by alias or namespace.</p></td>
 </tr>
 <tr>
@@ -59,7 +59,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/comp
 <td class="description"><p class="name"><a href="#getresources">getResources</a>()</p><p class="description">Returns an array of resources loaded to build this configuration.</p></td>
 </tr>
 <tr>
-<td><span class='k'></span> <span class='nx'><a href="../../../symfony/component/dependencyinjection/containerbuilder.html">ContainerBuilder</a></span></td>
+<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/containerbuilder.html>ContainerBuilder</a></span></td>
 <td class="description"><p class="name"><a href="#addresource">addResource</a>(ResourceInterface resource)</p><p class="description">Adds a resource for this configuration.</p></td>
 </tr>
 <tr>
@@ -67,19 +67,19 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/comp
 <td class="description"><p class="name"><a href="#addobjectresource">addObjectResource</a>(object object)</p><p class="description">Adds the object class hierarchy as resources.</p></td>
 </tr>
 <tr>
-<td><span class='k'></span> <span class='nx'><a href="../../../symfony/component/dependencyinjection/containerbuilder.html">ContainerBuilder</a></span></td>
+<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/containerbuilder.html>ContainerBuilder</a></span></td>
 <td class="description"><p class="name"><a href="#loadfromextension">loadFromExtension</a>(string extension, array values)</p><p class="description">Loads the configuration for an extension.</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#addcompilerpass">addCompilerPass</a>(<a href="../../../symfony/component/dependencyinjection/compiler/compilerpassinterface.html">CompilerPassInterface</a> pass, string type)</p><p class="description">Adds a compiler pass.</p></td>
+<td class="description"><p class="name"><a href="#addcompilerpass">addCompilerPass</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/compiler/compilerpassinterface.html">CompilerPassInterface</a> pass, string type)</p><p class="description">Adds a compiler pass.</p></td>
 </tr>
 <tr>
-<td><span class='k'></span> <span class='nx'><a href="../../../symfony/component/dependencyinjection/compiler/passconfig.html">PassConfig</a></span></td>
+<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/compiler/passconfig.html>PassConfig</a></span></td>
 <td class="description"><p class="name"><a href="#getcompilerpassconfig">getCompilerPassConfig</a>()</p><p class="description">Returns the compiler pass config which can then be modified.</p></td>
 </tr>
 <tr>
-<td><span class='k'></span> <span class='nx'><a href="../../../symfony/component/dependencyinjection/compiler/compiler.html">Compiler</a></span></td>
+<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/compiler/compiler.html>Compiler</a></span></td>
 <td class="description"><p class="name"><a href="#getcompiler">getCompiler</a>()</p><p class="description">Returns the compiler.</p></td>
 </tr>
 <tr>
@@ -108,7 +108,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/comp
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#merge">merge</a>(<a href="../../../symfony/component/dependencyinjection/containerbuilder.html">ContainerBuilder</a> container)</p><p class="description">Merges a ContainerBuilder with the current ContainerBuilder configuration.
+<td class="description"><p class="name"><a href="#merge">merge</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/containerbuilder.html">ContainerBuilder</a> container)</p><p class="description">Merges a ContainerBuilder with the current ContainerBuilder configuration.
 </p></td>
 </tr>
 <tr>
@@ -153,13 +153,13 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/comp
 <td class="description"><p class="name"><a href="#getalias">getAlias</a>(string id)</p><p class="description">Gets an alias.</p></td>
 </tr>
 <tr>
-<td><span class='k'></span> <span class='nx'><a href="../../../symfony/component/dependencyinjection/definition.html">Definition</a></span></td>
+<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/definition.html>Definition</a></span></td>
 <td class="description"><p class="name"><a href="#register">register</a>(string id, string class)</p><p class="description">Registers a service definition.
 </p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#adddefinitions">addDefinitions</a>(<a href="../../../symfony/component/dependencyinjection/definition.html">Definition</a> definitions)</p><p class="description">Adds the service definitions.</p></td>
+<td class="description"><p class="name"><a href="#adddefinitions">addDefinitions</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/definition.html">Definition</a> definitions)</p><p class="description">Adds the service definitions.</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
@@ -171,18 +171,18 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/comp
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#setdefinition">setDefinition</a>(string id, <a href="../../../symfony/component/dependencyinjection/definition.html">Definition</a> definition)</p><p class="description">Sets a service definition.</p></td>
+<td class="description"><p class="name"><a href="#setdefinition">setDefinition</a>(string id, <a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/definition.html">Definition</a> definition)</p><p class="description">Sets a service definition.</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>Boolean</span></td>
 <td class="description"><p class="name"><a href="#hasdefinition">hasDefinition</a>(string id)</p><p class="description">Returns true if a service definition exists under the given identifier.</p></td>
 </tr>
 <tr>
-<td><span class='k'></span> <span class='nx'><a href="../../../symfony/component/dependencyinjection/definition.html">Definition</a></span></td>
+<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/definition.html>Definition</a></span></td>
 <td class="description"><p class="name"><a href="#getdefinition">getDefinition</a>(string id)</p><p class="description">Gets a service definition.</p></td>
 </tr>
 <tr>
-<td><span class='k'></span> <span class='nx'><a href="../../../symfony/component/dependencyinjection/definition.html">Definition</a></span></td>
+<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/definition.html>Definition</a></span></td>
 <td class="description"><p class="name"><a href="#finddefinition">findDefinition</a>(string id)</p><p class="description">Gets a service definition by id or alias.
 </p></td>
 </tr>
@@ -206,10 +206,10 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/comp
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 47#L47 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 47</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/containerbuilder.php#L47 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 47</a>
 
 <h3 id="registerExtension()">registerExtension</h3>
-<span class='k'></span> <span class='nx'>void</span> <span class='nf'>registerExtension</span> (<a href="../../../symfony/component/dependencyinjection/extension/extensioninterface.html">ExtensionInterface</a> extension)
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>registerExtension</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/extension/extensioninterface.html">ExtensionInterface</a> extension)
 
 <div class="details">
 <p>Registers an extension.</p><dl>
@@ -222,10 +222,10 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/comp
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 64#L64 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 64</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/containerbuilder.php#L64 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 64</a>
 
 <h3 id="getExtension()">getExtension</h3>
-<span class='k'></span> <span class='nx'><a href="../../../symfony/component/dependencyinjection/extension/extensioninterface.html">ExtensionInterface</a></span> <span class='nf'>getExtension</span> (string name)
+<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/extension/extensioninterface.html>ExtensionInterface</a></span> <span class='nf'>getExtension</span> (string name)
 
 <div class="details">
 <p>Returns an extension by alias or namespace.</p><dl>
@@ -240,7 +240,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/comp
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 83#L83 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 83</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/containerbuilder.php#L83 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 83</a>
 
 <h3 id="getExtensions()">getExtensions</h3>
 <span class='k'></span> <span class='nx'>array</span> <span class='nf'>getExtensions</span> ()
@@ -256,7 +256,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/comp
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 95#L95 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 95</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/containerbuilder.php#L95 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 95</a>
 
 <h3 id="hasExtension()">hasExtension</h3>
 <span class='k'></span> <span class='nx'>Boolean</span> <span class='nf'>hasExtension</span> (string name)
@@ -274,7 +274,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/comp
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 106#L106 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 106</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/containerbuilder.php#L106 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 106</a>
 
 <h3 id="getResources()">getResources</h3>
 <span class='k'></span> <span class='nx'>ResourceInterface[]</span> <span class='nf'>getResources</span> ()
@@ -290,10 +290,10 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/comp
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 119#L119 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 119</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/containerbuilder.php#L119 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 119</a>
 
 <h3 id="addResource()">addResource</h3>
-<span class='k'></span> <span class='nx'><a href="../../../symfony/component/dependencyinjection/containerbuilder.html">ContainerBuilder</a></span> <span class='nf'>addResource</span> (ResourceInterface resource)
+<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/containerbuilder.html>ContainerBuilder</a></span> <span class='nf'>addResource</span> (ResourceInterface resource)
 
 <div class="details">
 <p>Adds a resource for this configuration.</p><dl>
@@ -308,7 +308,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/comp
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 132#L132 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 132</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/containerbuilder.php#L132 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 132</a>
 
 <h3 id="addObjectResource()">addObjectResource</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>addObjectResource</span> (object object)
@@ -324,10 +324,10 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/comp
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 149#L149 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 149</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/containerbuilder.php#L149 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 149</a>
 
 <h3 id="loadFromExtension()">loadFromExtension</h3>
-<span class='k'></span> <span class='nx'><a href="../../../symfony/component/dependencyinjection/containerbuilder.html">ContainerBuilder</a></span> <span class='nf'>loadFromExtension</span> (string extension, array values)
+<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/containerbuilder.html>ContainerBuilder</a></span> <span class='nf'>loadFromExtension</span> (string extension, array values)
 
 <div class="details">
 <p>Loads the configuration for an extension.</p><dl>
@@ -343,10 +343,10 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/comp
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 169#L169 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 169</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/containerbuilder.php#L169 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 169</a>
 
 <h3 id="addCompilerPass()">addCompilerPass</h3>
-<span class='k'></span> <span class='nx'>void</span> <span class='nf'>addCompilerPass</span> (<a href="../../../symfony/component/dependencyinjection/compiler/compilerpassinterface.html">CompilerPassInterface</a> pass, string type)
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>addCompilerPass</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/compiler/compilerpassinterface.html">CompilerPassInterface</a> pass, string type)
 
 <div class="details">
 <p>Adds a compiler pass.</p><dl>
@@ -360,10 +360,10 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/comp
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 186#L186 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 186</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/containerbuilder.php#L186 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 186</a>
 
 <h3 id="getCompilerPassConfig()">getCompilerPassConfig</h3>
-<span class='k'></span> <span class='nx'><a href="../../../symfony/component/dependencyinjection/compiler/passconfig.html">PassConfig</a></span> <span class='nf'>getCompilerPassConfig</span> ()
+<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/compiler/passconfig.html>PassConfig</a></span> <span class='nf'>getCompilerPassConfig</span> ()
 
 <div class="details">
 <p>Returns the compiler pass config which can then be modified.</p><dl>
@@ -376,10 +376,10 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/comp
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 201#L201 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 201</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/containerbuilder.php#L201 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 201</a>
 
 <h3 id="getCompiler()">getCompiler</h3>
-<span class='k'></span> <span class='nx'><a href="../../../symfony/component/dependencyinjection/compiler/compiler.html">Compiler</a></span> <span class='nf'>getCompiler</span> ()
+<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/compiler/compiler.html>Compiler</a></span> <span class='nf'>getCompiler</span> ()
 
 <div class="details">
 <p>Returns the compiler.</p><dl>
@@ -392,7 +392,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/comp
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 216#L216 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 216</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/containerbuilder.php#L216 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 216</a>
 
 <h3 id="getScopes()">getScopes</h3>
 <span class='k'></span> <span class='nx'>array</span> <span class='nf'>getScopes</span> ()
@@ -408,7 +408,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/comp
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 227#L227 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 227</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/containerbuilder.php#L227 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 227</a>
 
 <h3 id="getScopeChildren()">getScopeChildren</h3>
 <span class='k'></span> <span class='nx'>array</span> <span class='nf'>getScopeChildren</span> ()
@@ -424,7 +424,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/comp
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 242#L242 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 242</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/containerbuilder.php#L242 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 242</a>
 
 <h3 id="set()">set</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>set</span> (string id, object service, string scope)
@@ -444,7 +444,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/comp
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 261#L261 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 261</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/containerbuilder.php#L261 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 261</a>
 
 <h3 id="removeDefinition()">removeDefinition</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>removeDefinition</span> (string id)
@@ -460,7 +460,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/comp
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 274#L274 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 274</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/containerbuilder.php#L274 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 274</a>
 
 <h3 id="has()">has</h3>
 <span class='k'></span> <span class='nx'>Boolean</span> <span class='nf'>has</span> (string id)
@@ -478,7 +478,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/comp
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 295#L295 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 295</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/containerbuilder.php#L295 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 295</a>
 
 <h3 id="get()">get</h3>
 <span class='k'></span> <span class='nx'>object</span> <span class='nf'>get</span> (string id, integer invalidBehavior)
@@ -502,10 +502,10 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/comp
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 352#L352 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 352</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/containerbuilder.php#L352 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 352</a>
 
 <h3 id="merge()">merge</h3>
-<span class='k'></span> <span class='nx'>void</span> <span class='nf'>merge</span> (<a href="../../../symfony/component/dependencyinjection/containerbuilder.html">ContainerBuilder</a> container)
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>merge</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/containerbuilder.html">ContainerBuilder</a> container)
 
 <div class="details">
 <p>Merges a ContainerBuilder with the current ContainerBuilder configuration.</p><p>Service definitions overrides the current defined ones.</p><p>But for parameters, they are overridden by the current ones. It allows
@@ -527,7 +527,7 @@ constructor.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 383#L383 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 383</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/containerbuilder.php#L383 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 383</a>
 
 <h3 id="getExtensionConfig()">getExtensionConfig</h3>
 <span class='k'></span> <span class='nx'>array</span> <span class='nf'>getExtensionConfig</span> (string name)
@@ -545,7 +545,7 @@ constructor.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 407#L407 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 407</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/containerbuilder.php#L407 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 407</a>
 
 <h3 id="compile()">compile</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>compile</span> ()
@@ -564,7 +564,7 @@ the container.</p><p>The main compiler passes roughly do four things:</p><p>* Th
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 428#L428 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 428</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/containerbuilder.php#L428 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 428</a>
 
 <h3 id="getServiceIds()">getServiceIds</h3>
 <span class='k'></span> <span class='nx'>array</span> <span class='nf'>getServiceIds</span> ()
@@ -579,7 +579,7 @@ the container.</p><p>The main compiler passes roughly do four things:</p><p>* Th
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 439#L439 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 439</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/containerbuilder.php#L439 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 439</a>
 
 <h3 id="addAliases()">addAliases</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>addAliases</span> (array aliases)
@@ -595,7 +595,7 @@ the container.</p><p>The main compiler passes roughly do four things:</p><p>* Th
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 452#L452 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 452</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/containerbuilder.php#L452 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 452</a>
 
 <h3 id="setAliases()">setAliases</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>setAliases</span> (array aliases)
@@ -611,7 +611,7 @@ the container.</p><p>The main compiler passes roughly do four things:</p><p>* Th
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 465#L465 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 465</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/containerbuilder.php#L465 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 465</a>
 
 <h3 id="setAlias()">setAlias</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>setAlias</span> (string alias, mixed id)
@@ -628,7 +628,7 @@ the container.</p><p>The main compiler passes roughly do four things:</p><p>* Th
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 490#L490 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 490</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/containerbuilder.php#L490 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 490</a>
 
 <h3 id="removeAlias()">removeAlias</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>removeAlias</span> (string alias)
@@ -644,7 +644,7 @@ the container.</p><p>The main compiler passes roughly do four things:</p><p>* Th
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 503#L503 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 503</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/containerbuilder.php#L503 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 503</a>
 
 <h3 id="hasAlias()">hasAlias</h3>
 <span class='k'></span> <span class='nx'>Boolean</span> <span class='nf'>hasAlias</span> (string id)
@@ -662,7 +662,7 @@ the container.</p><p>The main compiler passes roughly do four things:</p><p>* Th
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 514#L514 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 514</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/containerbuilder.php#L514 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 514</a>
 
 <h3 id="getAliases()">getAliases</h3>
 <span class='k'></span> <span class='nx'>array</span> <span class='nf'>getAliases</span> ()
@@ -678,7 +678,7 @@ the container.</p><p>The main compiler passes roughly do four things:</p><p>* Th
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 529#L529 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 529</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/containerbuilder.php#L529 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 529</a>
 
 <h3 id="getAlias()">getAlias</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>getAlias</span> (string id)
@@ -698,10 +698,10 @@ the container.</p><p>The main compiler passes roughly do four things:</p><p>* Th
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 552#L552 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 552</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/containerbuilder.php#L552 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 552</a>
 
 <h3 id="register()">register</h3>
-<span class='k'></span> <span class='nx'><a href="../../../symfony/component/dependencyinjection/definition.html">Definition</a></span> <span class='nf'>register</span> (string id, string class)
+<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/definition.html>Definition</a></span> <span class='nf'>register</span> (string id, string class)
 
 <div class="details">
 <p>Registers a service definition.</p><p>This methods allows for simple registration of service definition
@@ -718,10 +718,10 @@ with a fluid interface.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 563#L563 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 563</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/containerbuilder.php#L563 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 563</a>
 
 <h3 id="addDefinitions()">addDefinitions</h3>
-<span class='k'></span> <span class='nx'>void</span> <span class='nf'>addDefinitions</span> (<a href="../../../symfony/component/dependencyinjection/definition.html">Definition</a> definitions)
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>addDefinitions</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/definition.html">Definition</a> definitions)
 
 <div class="details">
 <p>Adds the service definitions.</p><dl>
@@ -734,7 +734,7 @@ with a fluid interface.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 576#L576 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 576</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/containerbuilder.php#L576 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 576</a>
 
 <h3 id="setDefinitions()">setDefinitions</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>setDefinitions</span> (array definitions)
@@ -750,7 +750,7 @@ with a fluid interface.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 588#L588 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 588</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/containerbuilder.php#L588 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 588</a>
 
 <h3 id="getDefinitions()">getDefinitions</h3>
 <span class='k'></span> <span class='nx'>array</span> <span class='nf'>getDefinitions</span> ()
@@ -766,10 +766,10 @@ with a fluid interface.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 602#L602 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 602</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/containerbuilder.php#L602 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 602</a>
 
 <h3 id="setDefinition()">setDefinition</h3>
-<span class='k'></span> <span class='nx'>void</span> <span class='nf'>setDefinition</span> (string id, <a href="../../../symfony/component/dependencyinjection/definition.html">Definition</a> definition)
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>setDefinition</span> (string id, <a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/definition.html">Definition</a> definition)
 
 <div class="details">
 <p>Sets a service definition.</p><dl>
@@ -785,7 +785,7 @@ with a fluid interface.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 623#L623 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 623</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/containerbuilder.php#L623 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 623</a>
 
 <h3 id="hasDefinition()">hasDefinition</h3>
 <span class='k'></span> <span class='nx'>Boolean</span> <span class='nf'>hasDefinition</span> (string id)
@@ -803,10 +803,10 @@ with a fluid interface.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 638#L638 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 638</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/containerbuilder.php#L638 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 638</a>
 
 <h3 id="getDefinition()">getDefinition</h3>
-<span class='k'></span> <span class='nx'><a href="../../../symfony/component/dependencyinjection/definition.html">Definition</a></span> <span class='nf'>getDefinition</span> (string id)
+<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/definition.html>Definition</a></span> <span class='nf'>getDefinition</span> (string id)
 
 <div class="details">
 <p>Gets a service definition.</p><dl>
@@ -823,10 +823,10 @@ with a fluid interface.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 661#L661 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 661</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/containerbuilder.php#L661 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 661</a>
 
 <h3 id="findDefinition()">findDefinition</h3>
-<span class='k'></span> <span class='nx'><a href="../../../symfony/component/dependencyinjection/definition.html">Definition</a></span> <span class='nf'>findDefinition</span> (string id)
+<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/definition.html>Definition</a></span> <span class='nf'>findDefinition</span> (string id)
 
 <div class="details">
 <p>Gets a service definition by id or alias.</p><p>The method "unaliases" recursively to return a Definition instance.</p><dl>
@@ -843,7 +843,7 @@ with a fluid interface.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 759#L759 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 759</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/containerbuilder.php#L759 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 759</a>
 
 <h3 id="resolveServices()">resolveServices</h3>
 <span class='k'></span> <span class='nx'>mixed</span> <span class='nf'>resolveServices</span> (mixed value)
@@ -860,7 +860,7 @@ with a fluid interface.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 782#L782 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 782</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/containerbuilder.php#L782 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 782</a>
 
 <h3 id="findTaggedServiceIds()">findTaggedServiceIds</h3>
 <span class='k'></span> <span class='nx'>array</span> <span class='nf'>findTaggedServiceIds</span> (string name)
@@ -878,7 +878,7 @@ with a fluid interface.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 799#L799 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 799</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/containerbuilder.php#L799 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 799</a>
 
 <h3 id="getServiceConditionals()">getServiceConditionals</h3>
 <span class='k'>static </span> <span class='nx'>array</span> <span class='nf'>getServiceConditionals</span> (mixed value)

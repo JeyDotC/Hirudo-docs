@@ -4,7 +4,7 @@
 **Hirudo\Core\Annotations\Import**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Core\Annotations\Import.php at line 35#L35 class="location">framework\hirudo\Hirudo\Core\Annotations\Import.php at line 35</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/core/annotations/import.php#L35 class="location">framework\hirudo\Hirudo\Core\Annotations\Import.php at line 35</a>
 
 #Class Import#
 

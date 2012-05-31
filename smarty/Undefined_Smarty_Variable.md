@@ -4,7 +4,7 @@
 **Smarty\Undefined_Smarty_Variable**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_internal_data.php at line 522#L522 class="location">framework\libs\smarty\sysplugins\smarty_internal_data.php at line 522</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_data.php#L522 class="location">framework\libs\smarty\sysplugins\smarty_internal_data.php at line 522</a>
 
 #Class Undefined_Smarty_Variable#
 

@@ -4,7 +4,7 @@
 **Sample\Utilities\SomeUsefulClass**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/ext\libs\SampleExtension\Sample\Utilities\SomeUsefulClass.php at line 13#L13 class="location">ext\libs\SampleExtension\Sample\Utilities\SomeUsefulClass.php at line 13</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/ext/libs/sampleextension/sample/utilities/someusefulclass.php#L13 class="location">ext\libs\SampleExtension\Sample\Utilities\SomeUsefulClass.php at line 13</a>
 
 #Class SomeUsefulClass#
 
@@ -38,7 +38,7 @@
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/ext\libs\SampleExtension\Sample\Utilities\SomeUsefulClass.php at line 15#L15 class="location">ext\libs\SampleExtension\Sample\Utilities\SomeUsefulClass.php at line 15</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/ext/libs/sampleextension/sample/utilities/someusefulclass.php#L15 class="location">ext\libs\SampleExtension\Sample\Utilities\SomeUsefulClass.php at line 15</a>
 
 <h3 id="foo()">foo</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>foo</span> ()

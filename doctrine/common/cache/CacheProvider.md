@@ -4,7 +4,7 @@
 **Doctrine\Common\Cache\CacheProvider**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\doctrine-common\Doctrine\Common\Cache\CacheProvider.php at line 33#L33 class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\CacheProvider.php at line 33</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/doctrine/common/cache/cacheprovider.php#L33 class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\CacheProvider.php at line 33</a>
 
 #Class CacheProvider#
 
@@ -94,7 +94,7 @@ Memory allowed to use for storage.</p></td>
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\doctrine-common\Doctrine\Common\Cache\CacheProvider.php at line 43#L43 class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\CacheProvider.php at line 43</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/doctrine/common/cache/cacheprovider.php#L43 class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\CacheProvider.php at line 43</a>
 
 <h3 id="delete()">delete</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>delete</span> (mixed id)
@@ -105,7 +105,7 @@ Memory allowed to use for storage.</p></td>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\doctrine-common\Doctrine\Common\Cache\CacheProvider.php at line 51#L51 class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\CacheProvider.php at line 51</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/doctrine/common/cache/cacheprovider.php#L51 class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\CacheProvider.php at line 51</a>
 
 <h3 id="getStats()">getStats</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>getStats</span> ()
@@ -121,7 +121,7 @@ Memory allowed to use for storage.</p></div>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\doctrine-common\Doctrine\Common\Cache\CacheProvider.php at line 61#L61 class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\CacheProvider.php at line 61</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/doctrine/common/cache/cacheprovider.php#L61 class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\CacheProvider.php at line 61</a>
 
 <h3 id="flushAll()">flushAll</h3>
 <span class='k'></span> <span class='nx'>boolean</span> <span class='nf'>flushAll</span> ()
@@ -136,7 +136,7 @@ Memory allowed to use for storage.</p></div>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\doctrine-common\Doctrine\Common\Cache\CacheProvider.php at line 71#L71 class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\CacheProvider.php at line 71</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/doctrine/common/cache/cacheprovider.php#L71 class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\CacheProvider.php at line 71</a>
 
 <h3 id="deleteAll()">deleteAll</h3>
 <span class='k'></span> <span class='nx'>boolean</span> <span class='nf'>deleteAll</span> ()
@@ -151,7 +151,7 @@ Memory allowed to use for storage.</p></div>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\doctrine-common\Doctrine\Common\Cache\CacheProvider.php at line 99#L99 class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\CacheProvider.php at line 99</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/doctrine/common/cache/cacheprovider.php#L99 class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\CacheProvider.php at line 99</a>
 
 <h3 id="doFetch()">doFetch</h3>
 <span class='k'>protected abstract </span> <span class='nx'>string</span> <span class='nf'>doFetch</span> (string id)
@@ -168,7 +168,7 @@ Memory allowed to use for storage.</p></div>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\doctrine-common\Doctrine\Common\Cache\CacheProvider.php at line 107#L107 class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\CacheProvider.php at line 107</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/doctrine/common/cache/cacheprovider.php#L107 class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\CacheProvider.php at line 107</a>
 
 <h3 id="doContains()">doContains</h3>
 <span class='k'>protected abstract </span> <span class='nx'>boolean</span> <span class='nf'>doContains</span> (string id)
@@ -185,7 +185,7 @@ Memory allowed to use for storage.</p></div>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\doctrine-common\Doctrine\Common\Cache\CacheProvider.php at line 117#L117 class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\CacheProvider.php at line 117</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/doctrine/common/cache/cacheprovider.php#L117 class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\CacheProvider.php at line 117</a>
 
 <h3 id="doSave()">doSave</h3>
 <span class='k'>protected abstract </span> <span class='nx'>boolean</span> <span class='nf'>doSave</span> (string id, string data, int lifeTime)
@@ -204,7 +204,7 @@ Memory allowed to use for storage.</p></div>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\doctrine-common\Doctrine\Common\Cache\CacheProvider.php at line 125#L125 class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\CacheProvider.php at line 125</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/doctrine/common/cache/cacheprovider.php#L125 class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\CacheProvider.php at line 125</a>
 
 <h3 id="doDelete()">doDelete</h3>
 <span class='k'>protected abstract </span> <span class='nx'>boolean</span> <span class='nf'>doDelete</span> (string id)
@@ -221,7 +221,7 @@ Memory allowed to use for storage.</p></div>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\doctrine-common\Doctrine\Common\Cache\CacheProvider.php at line 132#L132 class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\CacheProvider.php at line 132</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/doctrine/common/cache/cacheprovider.php#L132 class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\CacheProvider.php at line 132</a>
 
 <h3 id="doFlush()">doFlush</h3>
 <span class='k'>protected abstract </span> <span class='nx'>boolean</span> <span class='nf'>doFlush</span> ()
@@ -236,7 +236,7 @@ Memory allowed to use for storage.</p></div>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\doctrine-common\Doctrine\Common\Cache\CacheProvider.php at line 140#L140 class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\CacheProvider.php at line 140</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/doctrine/common/cache/cacheprovider.php#L140 class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\CacheProvider.php at line 140</a>
 
 <h3 id="doGetStats()">doGetStats</h3>
 <span class='k'>protected abstract </span> <span class='nx'>array</span> <span class='nf'>doGetStats</span> ()

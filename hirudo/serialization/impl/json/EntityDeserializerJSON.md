@@ -4,7 +4,7 @@
 **Hirudo\Serialization\Impl\Json\EntityDeserializerJSON**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Serialization\Impl\Json\EntityDeserializerJSON.php at line 32#L32 class="location">framework\hirudo\Hirudo\Serialization\Impl\Json\EntityDeserializerJSON.php at line 32</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/serialization/impl/json/entitydeserializerjson.php#L32 class="location">framework\hirudo\Hirudo\Serialization\Impl\Json\EntityDeserializerJSON.php at line 32</a>
 
 #Class EntityDeserializerJSON#
 
@@ -48,7 +48,7 @@ the conversion into an entity.</p></td>
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Serialization\Impl\Json\EntityDeserializerJSON.php at line 34#L34 class="location">framework\hirudo\Hirudo\Serialization\Impl\Json\EntityDeserializerJSON.php at line 34</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/serialization/impl/json/entitydeserializerjson.php#L34 class="location">framework\hirudo\Hirudo\Serialization\Impl\Json\EntityDeserializerJSON.php at line 34</a>
 
 <h3 id="convertStringToArray()">convertStringToArray</h3>
 <span class='k'>protected </span> <span class='nx'>array</span> <span class='nf'>convertStringToArray</span> (string string)

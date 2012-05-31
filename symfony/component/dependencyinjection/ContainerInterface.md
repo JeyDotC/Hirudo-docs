@@ -4,7 +4,7 @@
 **Symfony\Component\DependencyInjection\ContainerInterface**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerInterface.php at line 22#L22 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerInterface.php at line 22</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/containerinterface.php#L22 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerInterface.php at line 22</a>
 
 #Interface ContainerInterface#
 
@@ -66,7 +66,7 @@
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#addscope">addScope</a>(<a href="../../../symfony/component/dependencyinjection/scopeinterface.html">ScopeInterface</a> scope)</p><p class="description">Adds a scope to the container</p></td>
+<td class="description"><p class="name"><a href="#addscope">addScope</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/scopeinterface.html">ScopeInterface</a> scope)</p><p class="description">Adds a scope to the container</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>Boolean</span></td>
@@ -81,7 +81,7 @@
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerInterface.php at line 40#L40 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerInterface.php at line 40</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/containerinterface.php#L40 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerInterface.php at line 40</a>
 
 <h3 id="get()">get</h3>
 <span class='k'></span> <span class='nx'>object</span> <span class='nf'>get</span> (string id, int invalidBehavior)
@@ -104,7 +104,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerInterface.php at line 51#L51 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerInterface.php at line 51</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/containerinterface.php#L51 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerInterface.php at line 51</a>
 
 <h3 id="has()">has</h3>
 <span class='k'></span> <span class='nx'>Boolean</span> <span class='nf'>has</span> (string id)
@@ -122,7 +122,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerInterface.php at line 64#L64 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerInterface.php at line 64</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/containerinterface.php#L64 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerInterface.php at line 64</a>
 
 <h3 id="getParameter()">getParameter</h3>
 <span class='k'></span> <span class='nx'>mixed</span> <span class='nf'>getParameter</span> (string name)
@@ -142,7 +142,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerInterface.php at line 75#L75 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerInterface.php at line 75</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/containerinterface.php#L75 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerInterface.php at line 75</a>
 
 <h3 id="hasParameter()">hasParameter</h3>
 <span class='k'></span> <span class='nx'>Boolean</span> <span class='nf'>hasParameter</span> (string name)
@@ -160,7 +160,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerInterface.php at line 85#L85 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerInterface.php at line 85</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/containerinterface.php#L85 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerInterface.php at line 85</a>
 
 <h3 id="setParameter()">setParameter</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>setParameter</span> (string name, mixed value)
@@ -177,7 +177,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerInterface.php at line 95#L95 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerInterface.php at line 95</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/containerinterface.php#L95 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerInterface.php at line 95</a>
 
 <h3 id="enterScope()">enterScope</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>enterScope</span> (string name)
@@ -191,7 +191,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerInterface.php at line 105#L105 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerInterface.php at line 105</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/containerinterface.php#L105 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerInterface.php at line 105</a>
 
 <h3 id="leaveScope()">leaveScope</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>leaveScope</span> (string name)
@@ -205,10 +205,10 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerInterface.php at line 115#L115 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerInterface.php at line 115</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/containerinterface.php#L115 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerInterface.php at line 115</a>
 
 <h3 id="addScope()">addScope</h3>
-<span class='k'></span> <span class='nx'>void</span> <span class='nf'>addScope</span> (<a href="../../../symfony/component/dependencyinjection/scopeinterface.html">ScopeInterface</a> scope)
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>addScope</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/scopeinterface.html">ScopeInterface</a> scope)
 
 <div class="details">
 <p>Adds a scope to the container</p><dl>
@@ -219,7 +219,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerInterface.php at line 125#L125 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerInterface.php at line 125</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/containerinterface.php#L125 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerInterface.php at line 125</a>
 
 <h3 id="hasScope()">hasScope</h3>
 <span class='k'></span> <span class='nx'>Boolean</span> <span class='nf'>hasScope</span> (string name)
@@ -233,7 +233,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerInterface.php at line 137#L137 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerInterface.php at line 137</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/containerinterface.php#L137 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerInterface.php at line 137</a>
 
 <h3 id="isScopeActive()">isScopeActive</h3>
 <span class='k'></span> <span class='nx'>Boolean</span> <span class='nf'>isScopeActive</span> (string name)

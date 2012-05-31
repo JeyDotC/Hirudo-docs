@@ -4,7 +4,7 @@
 **Smarty\Smarty_Data**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_internal_data.php at line 426#L426 class="location">framework\libs\smarty\sysplugins\smarty_internal_data.php at line 426</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_data.php#L426 class="location">framework\libs\smarty\sysplugins\smarty_internal_data.php at line 426</a>
 
 #Class Smarty_Data#
 
@@ -36,7 +36,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 <table id="summary_field">
 <tr><th colspan="2">Field Summary</th></tr>
 <tr>
-<td><span class='k'></span> <span class='nx'><a href="../smarty/smarty.html">Smarty</a></span></td>
+<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty.html'>Smarty</a></span></td>
 <td class="description"><p class="name" ><a href="#smarty"> $smarty</a>
                                 </p><p class="description">Smarty object</p></td>
 </tr>
@@ -50,7 +50,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 <tr><th colspan="2">Constructor Summary</th></tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#__construct">__construct</a>(Smarty|array _parent, <a href="../smarty/smarty.html">Smarty</a> smarty)</p><p class="description">create Smarty data object</p></td>
+<td class="description"><p class="name"><a href="#__construct">__construct</a>(Smarty|array _parent, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty.html">Smarty</a> smarty)</p><p class="description">create Smarty data object</p></td>
 </tr>
 </table>
 
@@ -60,10 +60,10 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 
 <h2 id="detail_method">Constructor Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\sysplugins\smarty_internal_data.php at line 441#L441 class="location">framework\libs\smarty\sysplugins\smarty_internal_data.php at line 441</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_data.php#L441 class="location">framework\libs\smarty\sysplugins\smarty_internal_data.php at line 441</a>
 
 <h3 id="__construct">__construct</h3>
-<span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (Smarty|array _parent, <a href="../smarty/smarty.html">Smarty</a> smarty)
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (Smarty|array _parent, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty.html">Smarty</a> smarty)
 
 <div class="details">
 <p>create Smarty data object</p><dl>

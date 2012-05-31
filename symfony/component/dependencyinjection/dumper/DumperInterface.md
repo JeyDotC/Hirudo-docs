@@ -4,7 +4,7 @@
 **Symfony\Component\DependencyInjection\Dumper\DumperInterface**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\Dumper\DumperInterface.php at line 21#L21 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Dumper\DumperInterface.php at line 21</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/dumper/dumperinterface.php#L21 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Dumper\DumperInterface.php at line 21</a>
 
 #Interface DumperInterface#
 
@@ -38,7 +38,7 @@
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\DependencyInjection\Dumper\DumperInterface.php at line 32#L32 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Dumper\DumperInterface.php at line 32</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/dumper/dumperinterface.php#L32 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Dumper\DumperInterface.php at line 32</a>
 
 <h3 id="dump()">dump</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>dump</span> (array options)

@@ -7,26 +7,26 @@
 <table id="summary_function" class="title">
 <tr><th colspan="2" class="title">Function Summary</th></tr>
 <tr>
-<td class="nx">static  string</td>
+<td><span class='k'>static </span> <span class='nx'>string</span></td>
 <td class="description"><p class="name"><a href="#parseScalar">parseScalar</a>(scalar scalar, string delimiters, array stringDelimiters, integer &$i, Boolean evaluate)</p><p class="description">Parses a scalar to a YAML string.</p></td>
 </tr>
 <tr>
-<td class="nx"> string</td>
+<td><span class='k'></span> <span class='nx'>string</span></td>
 <td class="description"><p class="name"><a href="#unescapeCharacter">unescapeCharacter</a>(string value)</p><p class="description">Unescapes a character that was found in a double-quoted string</p></td>
 </tr>
 <tr>
-<td class="nx"> string</td>
+<td><span class='k'></span> <span class='nx'>string</span></td>
 <td class="description"><p class="name"><a href="#unescapeDoubleQuotedString">unescapeDoubleQuotedString</a>(string value)</p><p class="description">Unescapes a double quoted string.</p></td>
 </tr>
 </table>
 
 <h2 id="detail_function">Function Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\Yaml\Inline.php at line 106#L106 class="location">framework\libs\symfony-components\Symfony\Component\Yaml\Inline.php at line 106</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/yaml/inline.php#L106 class="location">framework\libs\symfony-components\Symfony\Component\Yaml\Inline.php at line 106</a>
 
 <h3 id="parseScalar()">parseScalar</h3>
-```php
-public static  string **parseScalar**(scalar scalar, string delimiters, array stringDelimiters, integer &$i, Boolean evaluate)```
+<span class='k'>static </span> <span class='nx'>string</span> parseScalar (scalar scalar, string delimiters, array stringDelimiters, integer &$i, Boolean evaluate)
+
 <div class="details">
 <p>Parses a scalar to a YAML string.</p>
 <dl>
@@ -40,11 +40,11 @@ public static  string **parseScalar**(scalar scalar, string delimiters, array st
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\Yaml\Unescaper.php at line 51#L51 class="location">framework\libs\symfony-components\Symfony\Component\Yaml\Unescaper.php at line 51</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/yaml/unescaper.php#L51 class="location">framework\libs\symfony-components\Symfony\Component\Yaml\Unescaper.php at line 51</a>
 
 <h3 id="unescapeCharacter()">unescapeCharacter</h3>
-```php
-public  string **unescapeCharacter**(string value)```
+<span class='k'></span> <span class='nx'>string</span> unescapeCharacter (string value)
+
 <div class="details">
 <p>Unescapes a character that was found in a double-quoted string</p>
 <dl>
@@ -58,11 +58,11 @@ public  string **unescapeCharacter**(string value)```
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\Yaml\Unescaper.php at line 33#L33 class="location">framework\libs\symfony-components\Symfony\Component\Yaml\Unescaper.php at line 33</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/yaml/unescaper.php#L33 class="location">framework\libs\symfony-components\Symfony\Component\Yaml\Unescaper.php at line 33</a>
 
 <h3 id="unescapeDoubleQuotedString()">unescapeDoubleQuotedString</h3>
-```php
-public  string **unescapeDoubleQuotedString**(string value)```
+<span class='k'></span> <span class='nx'>string</span> unescapeDoubleQuotedString (string value)
+
 <div class="details">
 <p>Unescapes a double quoted string.</p>
 <dl>

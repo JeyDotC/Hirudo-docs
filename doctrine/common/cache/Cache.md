@@ -4,7 +4,7 @@
 **Doctrine\Common\Cache\Cache**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\doctrine-common\Doctrine\Common\Cache\Cache.php at line 36#L36 class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\Cache.php at line 36</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/doctrine/common/cache/cache.php#L36 class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\Cache.php at line 36</a>
 
 #Interface Cache#
 
@@ -53,7 +53,7 @@ Number of keys that have been requested and found present.
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\doctrine-common\Doctrine\Common\Cache\Cache.php at line 46#L46 class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\Cache.php at line 46</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/doctrine/common/cache/cache.php#L46 class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\Cache.php at line 46</a>
 
 <h3 id="delete()">delete</h3>
 <span class='k'></span> <span class='nx'>boolean</span> <span class='nf'>delete</span> (string id)
@@ -70,7 +70,7 @@ Number of keys that have been requested and found present.
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\doctrine-common\Doctrine\Common\Cache\Cache.php at line 71#L71 class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\Cache.php at line 71</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/doctrine/common/cache/cache.php#L71 class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\Cache.php at line 71</a>
 
 <h3 id="getStats()">getStats</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>getStats</span> ()

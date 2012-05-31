@@ -4,7 +4,7 @@
 **Smarty\SmartyCompilerException**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\smarty\Smarty.class.php at line 1094#L1094 class="location">framework\libs\smarty\Smarty.class.php at line 1094</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/smarty.class.php#L1094 class="location">framework\libs\smarty\Smarty.class.php at line 1094</a>
 
 #Class SmartyCompilerException#
 

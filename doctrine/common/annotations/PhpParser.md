@@ -4,7 +4,7 @@
 **Doctrine\Common\Annotations\PhpParser**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\doctrine-common\Doctrine\Common\Annotations\PhpParser.php at line 30#L30 class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\PhpParser.php at line 30</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/doctrine/common/annotations/phpparser.php#L30 class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\PhpParser.php at line 30</a>
 
 #Class PhpParser#
 
@@ -38,7 +38,7 @@
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\doctrine-common\Doctrine\Common\Annotations\PhpParser.php at line 59#L59 class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\PhpParser.php at line 59</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/doctrine/common/annotations/phpparser.php#L59 class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\PhpParser.php at line 59</a>
 
 <h3 id="parseClass()">parseClass</h3>
 <span class='k'></span> <span class='nx'>array</span> <span class='nf'>parseClass</span> (\ReflectionClass class)

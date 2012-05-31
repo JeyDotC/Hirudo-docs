@@ -4,7 +4,7 @@
 **Symfony\Component\EventDispatcher\EventSubscriberInterface**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\EventDispatcher\EventSubscriberInterface.php at line 29#L29 class="location">framework\libs\symfony-components\Symfony\Component\EventDispatcher\EventSubscriberInterface.php at line 29</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/eventdispatcher/eventsubscriberinterface.php#L29 class="location">framework\libs\symfony-components\Symfony\Component\EventDispatcher\EventSubscriberInterface.php at line 29</a>
 
 #Interface EventSubscriberInterface#
 
@@ -49,7 +49,7 @@ returned events.</p></div>
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\libs\symfony-components\Symfony\Component\EventDispatcher\EventSubscriberInterface.php at line 48#L48 class="location">framework\libs\symfony-components\Symfony\Component\EventDispatcher\EventSubscriberInterface.php at line 48</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/eventdispatcher/eventsubscriberinterface.php#L48 class="location">framework\libs\symfony-components\Symfony\Component\EventDispatcher\EventSubscriberInterface.php at line 48</a>
 
 <h3 id="getSubscribedEvents()">getSubscribedEvents</h3>
 <span class='k'>static </span> <span class='nx'>array</span> <span class='nf'>getSubscribedEvents</span> ()

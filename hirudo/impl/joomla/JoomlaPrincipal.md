@@ -4,7 +4,7 @@
 **Hirudo\Impl\Joomla\JoomlaPrincipal**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\Joomla\JoomlaPrincipal.php at line 31#L31 class="location">framework\hirudo\Hirudo\Impl\Joomla\JoomlaPrincipal.php at line 31</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/joomla/joomlaprincipal.php#L31 class="location">framework\hirudo\Hirudo\Impl\Joomla\JoomlaPrincipal.php at line 31</a>
 
 #Class JoomlaPrincipal#
 
@@ -57,7 +57,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/
 
 <h2 id="detail_method">Constructor Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\Joomla\JoomlaPrincipal.php at line 56#L56 class="location">framework\hirudo\Hirudo\Impl\Joomla\JoomlaPrincipal.php at line 56</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/joomla/joomlaprincipal.php#L56 class="location">framework\hirudo\Hirudo\Impl\Joomla\JoomlaPrincipal.php at line 56</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> ()
@@ -69,7 +69,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\Joomla\JoomlaPrincipal.php at line 43#L43 class="location">framework\hirudo\Hirudo\Impl\Joomla\JoomlaPrincipal.php at line 43</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/joomla/joomlaprincipal.php#L43 class="location">framework\hirudo\Hirudo\Impl\Joomla\JoomlaPrincipal.php at line 43</a>
 
 <h3 id="instance()">instance</h3>
 <span class='k'>static </span> <span class='nx'>JPrincipal</span> <span class='nf'>instance</span> ()
@@ -80,7 +80,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Impl\Joomla\JoomlaPrincipal.php at line 72#L72 class="location">framework\hirudo\Hirudo\Impl\Joomla\JoomlaPrincipal.php at line 72</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/joomla/joomlaprincipal.php#L72 class="location">framework\hirudo\Hirudo\Impl\Joomla\JoomlaPrincipal.php at line 72</a>
 
 <h3 id="isAnonimous()">isAnonimous</h3>
 <span class='k'></span> <span class='nx'>boolean</span> <span class='nf'>isAnonimous</span> ()

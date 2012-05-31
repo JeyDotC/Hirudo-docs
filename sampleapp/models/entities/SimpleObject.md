@@ -4,7 +4,7 @@
 **SampleApp\Models\Entities\SimpleObject**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/src\SampleApp\Models\Entities\SimpleObject.php at line 10#L10 class="location">src\SampleApp\Models\Entities\SimpleObject.php at line 10</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/sampleapp/models/entities/simpleobject.php#L10 class="location">src\SampleApp\Models\Entities\SimpleObject.php at line 10</a>
 
 #Class SimpleObject#
 
@@ -41,7 +41,7 @@
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/src\SampleApp\Models\Entities\SimpleObject.php at line 18#L18 class="location">src\SampleApp\Models\Entities\SimpleObject.php at line 18</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/sampleapp/models/entities/simpleobject.php#L18 class="location">src\SampleApp\Models\Entities\SimpleObject.php at line 18</a>
 
 <h3 id="getMessage()">getMessage</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>getMessage</span> ()
@@ -52,7 +52,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/src\SampleApp\Models\Entities\SimpleObject.php at line 22#L22 class="location">src\SampleApp\Models\Entities\SimpleObject.php at line 22</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/sampleapp/models/entities/simpleobject.php#L22 class="location">src\SampleApp\Models\Entities\SimpleObject.php at line 22</a>
 
 <h3 id="setMessage()">setMessage</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>setMessage</span> (mixed message)

@@ -4,7 +4,7 @@
 **Hirudo\Models\Components\ComponentInterface**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework\hirudo\Hirudo\Models\Components\ComponentInterface.php at line 28#L28 class="location">framework\hirudo\Hirudo\Models\Components\ComponentInterface.php at line 28</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/models/components/componentinterface.php#L28 class="location">framework\hirudo\Hirudo\Models\Components\ComponentInterface.php at line 28</a>
 
 #Interface ComponentInterface#
 
