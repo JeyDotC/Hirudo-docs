@@ -1,3 +1,4 @@
+
 - - -
 
 **Smarty\Smarty_Internal_Compile_For**
@@ -21,6 +22,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 <dt>Subpackage:</dt>
 <dd>Compiler</dd>
 </dl>
+
 - - -
 
 <table class="inherit">
@@ -30,7 +32,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type"> string</td>
+<td class="type">  string</td>
 <td class="description"><p class="name"><a href="#compile">compile</a>(array args, object compiler, array parameter)</p><p class="description">Compiles code for the {for} tagSmarty 3 does implement two different sytaxes:- {for $var in $array}
 For looping over arrays or iterators- {for $x=0; $x</p></td>
 </tr>
@@ -44,10 +46,7 @@ For looping over arrays or iterators- {for $x=0; $x</p></td>
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_for.php at line 39</div>
 <h3 id="compile()">compile</h3>
 
-```php
-public  string **compile**(array args, object compiler, array parameter)
-```
-<div class="details">
+public  string **compile** (array args, object compiler, array parameter)<div class="details">
 <p>Compiles code for the {for} tag</p><p>Smarty 3 does implement two different sytaxes:</p><p>- {for $var in $array}
 For looping over arrays or iterators</p><p>- {for $x=0; $x<$y; $x++}
 For general loops</p><p>The parser is gereration different sets of attribute by which this compiler can

@@ -1,3 +1,4 @@
+
 - - -
 
 **Symfony\Component\DependencyInjection\TaggedContainerInterface**
@@ -22,13 +23,14 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/comp
 <dd>Fabien Potencier <fabien@symfony.com></dd>
 <dt>Api.</dt>
 </dl>
+
 - - -
 
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type"> array</td>
-<td class="description"><p class="name"><a href="#findTaggedServiceIds">findTaggedServiceIds</a>(string name)</p><p class="description">Returns service ids for a given tag.</p></td>
+<td class="type">  array</td>
+<td class="description"><p class="name"><a href="#findtaggedserviceids">findTaggedServiceIds</a>(string name)</p><p class="description">Returns service ids for a given tag.</p></td>
 </tr>
 </table>
 
@@ -40,10 +42,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/comp
 <div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\TaggedContainerInterface.php at line 32</div>
 <h3 id="findTaggedServiceIds()">findTaggedServiceIds</h3>
 
-```php
-public  array **findTaggedServiceIds**(string name)
-```
-<div class="details">
+public  array **findTaggedServiceIds** (string name)<div class="details">
 <p>Returns service ids for a given tag.</p><dl>
 <dt>Parameters:</dt>
 <dd>name - The tag name</dd>

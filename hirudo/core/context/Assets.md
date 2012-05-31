@@ -1,3 +1,4 @@
+
 - - -
 
 **Hirudo\Core\Context\Assets**
@@ -24,26 +25,27 @@ some CMS, like Joomla.</p></p></div>
 <dt>Author:</dt>
 <dd>JeyDotC</dd>
 </dl>
+
 - - -
 
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type">abstract  string</td>
-<td class="description"><p class="name"><a href="#addJavaScript">addJavaScript</a>(string jsPath)</p><p class="description">Creates a script tag. </p></td>
+<td class="type"> abstract  string</td>
+<td class="description"><p class="name"><a href="#addjavascript">addJavaScript</a>(string jsPath)</p><p class="description">Creates a script tag. </p></td>
 </tr>
 <tr>
-<td class="type">abstract  string</td>
-<td class="description"><p class="name"><a href="#addCSS">addCSS</a>(string cssPath)</p><p class="description">Creates a link tag. </p></td>
+<td class="type"> abstract  string</td>
+<td class="description"><p class="name"><a href="#addcss">addCSS</a>(string cssPath)</p><p class="description">Creates a link tag. </p></td>
 </tr>
 <tr>
-<td class="type">protected  string</td>
-<td class="description"><p class="name"><a href="#generateScriptTag">generateScriptTag</a>(string jsPath)</p><p class="description">This helper function generates a script tag which src attribute will
+<td class="type"> protected  string</td>
+<td class="description"><p class="name"><a href="#generatescripttag">generateScriptTag</a>(string jsPath)</p><p class="description">This helper function generates a script tag which src attribute will
 be set to the given path. </p></td>
 </tr>
 <tr>
-<td class="type">protected  string</td>
-<td class="description"><p class="name"><a href="#generateCSSTag">generateCSSTag</a>(string cssPath)</p><p class="description">This helper function generates a link tag which src attribute will
+<td class="type"> protected  string</td>
+<td class="description"><p class="name"><a href="#generatecsstag">generateCSSTag</a>(string cssPath)</p><p class="description">This helper function generates a link tag which src attribute will
 be set to the given path. </p></td>
 </tr>
 </table>
@@ -52,10 +54,7 @@ be set to the given path. </p></td>
 <div class="location">framework\hirudo\Hirudo\Core\Context\Assets.php at line 46</div>
 <h3 id="addJavaScript()">addJavaScript</h3>
 
-```php
-public abstract  string **addJavaScript**(string jsPath)
-```
-<div class="details">
+public abstract  string **addJavaScript** (string jsPath)<div class="details">
 <p><p>Creates a script tag. Depending on the CMS it will may automatically insert
 the tag using the CMS assets system or simply returns a string representing
 the tag.</p></p><dl>
@@ -71,10 +70,7 @@ the tag.</p></p><dl>
 <div class="location">framework\hirudo\Hirudo\Core\Context\Assets.php at line 60</div>
 <h3 id="addCSS()">addCSS</h3>
 
-```php
-public abstract  string **addCSS**(string cssPath)
-```
-<div class="details">
+public abstract  string **addCSS** (string cssPath)<div class="details">
 <p><p>Creates a link tag. Depending on the CMS it will may automatically insert
 the tag using the CMS assets system or simply returns a string representing
 the tag.</p></p><dl>
@@ -90,10 +86,7 @@ the tag.</p></p><dl>
 <div class="location">framework\hirudo\Hirudo\Core\Context\Assets.php at line 70</div>
 <h3 id="generateScriptTag()">generateScriptTag</h3>
 
-```php
-protected  string **generateScriptTag**(string jsPath)
-```
-<div class="details">
+protected  string **generateScriptTag** (string jsPath)<div class="details">
 <p>This helper function generates a script tag which src attribute will
 be set to the given path. Note that the jsPath must be already adjusted
 to meet the CMS conventions.</p><dl>
@@ -109,10 +102,7 @@ to meet the CMS conventions.</p><dl>
 <div class="location">framework\hirudo\Hirudo\Core\Context\Assets.php at line 82</div>
 <h3 id="generateCSSTag()">generateCSSTag</h3>
 
-```php
-protected  string **generateCSSTag**(string cssPath)
-```
-<div class="details">
+protected  string **generateCSSTag** (string cssPath)<div class="details">
 <p>This helper function generates a link tag which src attribute will
 be set to the given path. Note that the cssPath must be already adjusted
 to meet the CMS conventions.</p><dl>

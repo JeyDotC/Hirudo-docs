@@ -1,3 +1,4 @@
+
 - - -
 
 **Doctrine\Common\Annotations\Annotation**
@@ -20,6 +21,7 @@
 <dd>Jonathan Wage <jonwage@gmail.com></dd>
 <dd>Roman Borschel <roman@code-factory.org></dd>
 </dl>
+
 - - -
 
 <table id="summary_field">
@@ -42,9 +44,7 @@
 <div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\Annotation.php at line 37</div>
 <h3 id="value">value</h3>
 
-```php
-public  string$value = 0
-```
+public  string $value = 0
 <div class="details">
 <p>Value property. Common among all derived classes.</p></div>
 

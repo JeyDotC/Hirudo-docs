@@ -1,3 +1,4 @@
+
 - - -
 
 **Symfony\Component\ClassLoader\MapClassLoader**
@@ -17,6 +18,7 @@
 <dt>Author:</dt>
 <dd>Fabien Potencier <fabien@symfony.com></dd>
 </dl>
+
 - - -
 
 <table id="summary_constructor">
@@ -30,16 +32,16 @@
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type"> void</td>
+<td class="type">  void</td>
 <td class="description"><p class="name"><a href="#register">register</a>(Boolean prepend)</p><p class="description">Registers this instance as an autoloader.</p></td>
 </tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#loadClass">loadClass</a>(string class)</p><p class="description">Loads the given class or interface.</p></td>
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#loadclass">loadClass</a>(string class)</p><p class="description">Loads the given class or interface.</p></td>
 </tr>
 <tr>
-<td class="type"> string|null</td>
-<td class="description"><p class="name"><a href="#findFile">findFile</a>(string class)</p><p class="description">Finds the path to the file where the class is defined.</p></td>
+<td class="type">  string|null</td>
+<td class="description"><p class="name"><a href="#findfile">findFile</a>(string class)</p><p class="description">Finds the path to the file where the class is defined.</p></td>
 </tr>
 </table>
 
@@ -63,10 +65,7 @@ public  void **__construct**(array map)
 <div class="location">framework\libs\symfony-components\Symfony\Component\ClassLoader\MapClassLoader.php at line 38</div>
 <h3 id="register()">register</h3>
 
-```php
-public  void **register**(Boolean prepend)
-```
-<div class="details">
+public  void **register** (Boolean prepend)<div class="details">
 <p>Registers this instance as an autoloader.</p><dl>
 <dt>Parameters:</dt>
 <dd>prepend - Whether to prepend the autoloader or not</dd>
@@ -78,10 +77,7 @@ public  void **register**(Boolean prepend)
 <div class="location">framework\libs\symfony-components\Symfony\Component\ClassLoader\MapClassLoader.php at line 48</div>
 <h3 id="loadClass()">loadClass</h3>
 
-```php
-public  void **loadClass**(string class)
-```
-<div class="details">
+public  void **loadClass** (string class)<div class="details">
 <p>Loads the given class or interface.</p><dl>
 <dt>Parameters:</dt>
 <dd>class - The name of the class</dd>
@@ -93,10 +89,7 @@ public  void **loadClass**(string class)
 <div class="location">framework\libs\symfony-components\Symfony\Component\ClassLoader\MapClassLoader.php at line 66</div>
 <h3 id="findFile()">findFile</h3>
 
-```php
-public  string|null **findFile**(string class)
-```
-<div class="details">
+public  string|null **findFile** (string class)<div class="details">
 <p>Finds the path to the file where the class is defined.</p><dl>
 <dt>Parameters:</dt>
 <dd>class - The name of the class</dd>

@@ -1,3 +1,4 @@
+
 - - -
 
 **Hirudo\Serialization\EntityDeserializerBase**
@@ -18,6 +19,7 @@
 
 <div class="comment" id="overview_description"><p>Base class for entity de-serializers.</p></div>
 
+
 - - -
 
 <table id="summary_constructor">
@@ -31,12 +33,12 @@
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type"> mixed</td>
+<td class="type">  mixed</td>
 <td class="description"><p class="name"><a href="#deserialize">deserialize</a>(string class, string string)</p><p class="description">Converts the given string into an entity of the given class.</p></td>
 </tr>
 <tr>
-<td class="type">protected abstract  array</td>
-<td class="description"><p class="name"><a href="#convertStringToArray">convertStringToArray</a>(string string)</p><p class="description">This is the abstract method to be implemented by any de-serializer, it receives
+<td class="type"> protected abstract  array</td>
+<td class="description"><p class="name"><a href="#convertstringtoarray">convertStringToArray</a>(string string)</p><p class="description">This is the abstract method to be implemented by any de-serializer, it receives
 an string to be converted into an associative array which will make easier
 the conversion into an entity.</p></td>
 </tr>
@@ -58,10 +60,7 @@ public  void **__construct**()
 <div class="location">framework\hirudo\Hirudo\Serialization\EntityDeserializerBase.php at line 48</div>
 <h3 id="deserialize()">deserialize</h3>
 
-```php
-public  mixed **deserialize**(string class, string string)
-```
-<div class="details">
+public  mixed **deserialize** (string class, string string)<div class="details">
 <p>Converts the given string into an entity of the given class.</p><dl>
 <dt>Parameters:</dt>
 <dd>class - The class in which the string will be converted.</dd>
@@ -76,10 +75,7 @@ public  mixed **deserialize**(string class, string string)
 <div class="location">framework\hirudo\Hirudo\Serialization\EntityDeserializerBase.php at line 67</div>
 <h3 id="convertStringToArray()">convertStringToArray</h3>
 
-```php
-protected abstract  array **convertStringToArray**(string string)
-```
-<div class="details">
+protected abstract  array **convertStringToArray** (string string)<div class="details">
 <p>This is the abstract method to be implemented by any de-serializer, it receives
 an string to be converted into an associative array which will make easier
 the conversion into an entity.</p><dl>

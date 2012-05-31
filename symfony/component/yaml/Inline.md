@@ -1,3 +1,4 @@
+
 - - -
 
 **Symfony\Component\Yaml\Inline**
@@ -17,5 +18,6 @@
 <dt>Author:</dt>
 <dd>Fabien Potencier <fabien@symfony.com></dd>
 </dl>
+
 - - -
 

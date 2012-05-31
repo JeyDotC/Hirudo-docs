@@ -1,3 +1,4 @@
+
 - - -
 
 **Smarty\SmartyCompilerException**
@@ -17,6 +18,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 </p>
 
 <div class="comment" id="overview_description"><p>Smarty compiler exception class</p></div>
+
 
 - - -
 

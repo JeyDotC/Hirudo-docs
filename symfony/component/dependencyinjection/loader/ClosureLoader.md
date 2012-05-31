@@ -1,3 +1,4 @@
+
 - - -
 
 **Symfony\Component\DependencyInjection\Loader\ClosureLoader**
@@ -23,6 +24,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/lang/
 <dt>See Also:</dt>
 <dd><a href="../../../../hirudo/lang/loader.html#using()">Loader::using()</a></dd>
 </dl>
+
 - - -
 
 <table id="summary_constructor">
@@ -36,11 +38,11 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/lang/
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type"> void</td>
+<td class="type">  void</td>
 <td class="description"><p class="name"><a href="#load">load</a>(\Closure closure, string type)</p><p class="description">Loads a Closure.</p></td>
 </tr>
 <tr>
-<td class="type"> Boolean</td>
+<td class="type">  Boolean</td>
 <td class="description"><p class="name"><a href="#supports">supports</a>(mixed resource, string type)</p><p class="description">Returns true if this class supports the given resource.</p></td>
 </tr>
 </table>
@@ -69,10 +71,7 @@ public  void **__construct**(<a href="../../../../symfony/component/dependencyin
 <div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Loader\ClosureLoader.php at line 44</div>
 <h3 id="load()">load</h3>
 
-```php
-public  void **load**(\Closure closure, string type)
-```
-<div class="details">
+public  void **load** (\Closure closure, string type)<div class="details">
 <p>Loads a Closure.</p><dl>
 <dt>Parameters:</dt>
 <dd>closure - The resource</dd>
@@ -85,10 +84,7 @@ public  void **load**(\Closure closure, string type)
 <div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Loader\ClosureLoader.php at line 57</div>
 <h3 id="supports()">supports</h3>
 
-```php
-public  Boolean **supports**(mixed resource, string type)
-```
-<div class="details">
+public  Boolean **supports** (mixed resource, string type)<div class="details">
 <p>Returns true if this class supports the given resource.</p><dl>
 <dt>Parameters:</dt>
 <dd>resource - A resource</dd>

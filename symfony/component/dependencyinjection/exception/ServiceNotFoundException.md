@@ -1,3 +1,4 @@
+
 - - -
 
 **Symfony\Component\DependencyInjection\Exception\ServiceNotFoundException**
@@ -22,6 +23,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/comp
 <dt>Author:</dt>
 <dd>Johannes M. Schmitt <schmittjoh@gmail.com></dd>
 </dl>
+
 - - -
 
 <table id="summary_constructor">
@@ -35,12 +37,12 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/comp
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#getId">getId</a>()</p></td>
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#getid">getId</a>()</p></td>
 </tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#getSourceId">getSourceId</a>()</p></td>
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#getsourceid">getSourceId</a>()</p></td>
 </tr>
 </table>
 
@@ -60,10 +62,7 @@ public  void **__construct**(mixed id, mixed sourceId)
 <div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Exception\ServiceNotFoundException.php at line 38</div>
 <h3 id="getId()">getId</h3>
 
-```php
-public  void **getId**()
-```
-<div class="details">
+public  void **getId** ()<div class="details">
 </div>
 
 - - -
@@ -71,10 +70,7 @@ public  void **getId**()
 <div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Exception\ServiceNotFoundException.php at line 43</div>
 <h3 id="getSourceId()">getSourceId</h3>
 
-```php
-public  void **getSourceId**()
-```
-<div class="details">
+public  void **getSourceId** ()<div class="details">
 </div>
 
 - - -

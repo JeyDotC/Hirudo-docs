@@ -1,3 +1,4 @@
+
 - - -
 
 **Symfony\Component\EventDispatcher\EventSubscriberInterface**
@@ -28,13 +29,14 @@ returned events.</p></div>
 <dd>Bernhard Schussek <bschussek@gmail.com></dd>
 <dt>Api.</dt>
 </dl>
+
 - - -
 
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type">static  array</td>
-<td class="description"><p class="name"><a href="#getSubscribedEvents">getSubscribedEvents</a>()</p><p class="description">Returns an array of event names this subscriber wants to listen to.
+<td class="type"> static  array</td>
+<td class="description"><p class="name"><a href="#getsubscribedevents">getSubscribedEvents</a>()</p><p class="description">Returns an array of event names this subscriber wants to listen to.
 </p></td>
 </tr>
 </table>
@@ -43,10 +45,7 @@ returned events.</p></div>
 <div class="location">framework\libs\symfony-components\Symfony\Component\EventDispatcher\EventSubscriberInterface.php at line 48</div>
 <h3 id="getSubscribedEvents()">getSubscribedEvents</h3>
 
-```php
-public static  array **getSubscribedEvents**()
-```
-<div class="details">
+public static  array **getSubscribedEvents** ()<div class="details">
 <p>Returns an array of event names this subscriber wants to listen to.</p><p>The array keys are event names and the value can be:</p><p>* The method name to call (priority defaults to 0)
 * An array composed of the method name to call and the priority</p><p>For instance:</p><p>* array('eventName' => 'methodName')
 * array('eventName' => array('methodName', $priority))</p><dl>

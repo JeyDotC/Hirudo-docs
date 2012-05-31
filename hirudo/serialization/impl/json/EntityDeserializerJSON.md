@@ -1,3 +1,4 @@
+
 - - -
 
 **Hirudo\Serialization\Impl\Json\EntityDeserializerJSON**
@@ -22,13 +23,14 @@ into an entity of a given class.</p></div>
 <dt>Author:</dt>
 <dd>JeyDotC</dd>
 </dl>
+
 - - -
 
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type">protected  array</td>
-<td class="description"><p class="name"><a href="#convertStringToArray">convertStringToArray</a>(string string)</p><p class="description">This is the abstract method to be implemented by any de-serializer, it receives
+<td class="type"> protected  array</td>
+<td class="description"><p class="name"><a href="#convertstringtoarray">convertStringToArray</a>(string string)</p><p class="description">This is the abstract method to be implemented by any de-serializer, it receives
 an string to be converted into an associative array which will make easier
 the conversion into an entity.</p></td>
 </tr>
@@ -42,10 +44,7 @@ the conversion into an entity.</p></td>
 <div class="location">framework\hirudo\Hirudo\Serialization\Impl\Json\EntityDeserializerJSON.php at line 34</div>
 <h3 id="convertStringToArray()">convertStringToArray</h3>
 
-```php
-protected  array **convertStringToArray**(string string)
-```
-<div class="details">
+protected  array **convertStringToArray** (string string)<div class="details">
 <p>This is the abstract method to be implemented by any de-serializer, it receives
 an string to be converted into an associative array which will make easier
 the conversion into an entity.</p><dl>

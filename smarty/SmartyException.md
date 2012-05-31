@@ -1,3 +1,4 @@
+
 - - -
 
 **Smarty\SmartyException**
@@ -21,6 +22,7 @@ extends Exception
 </p>
 
 <div class="comment" id="overview_description"><p>Smarty exception class</p></div>
+
 
 - - -
 

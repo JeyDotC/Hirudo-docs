@@ -1,3 +1,4 @@
+
 - - -
 
 **Symfony\Component\Yaml\Unescaper**
@@ -18,5 +19,6 @@ YAML strings.</p></div>
 <dt>Author:</dt>
 <dd>Matthew Lewinski <matthew@lewinski.org></dd>
 </dl>
+
 - - -
 

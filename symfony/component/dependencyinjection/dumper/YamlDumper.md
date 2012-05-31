@@ -1,3 +1,4 @@
+
 - - -
 
 **Symfony\Component\DependencyInjection\Dumper\YamlDumper**
@@ -22,6 +23,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/comp
 <dd>Fabien Potencier <fabien@symfony.com></dd>
 <dt>Api.</dt>
 </dl>
+
 - - -
 
 <table class="inherit">
@@ -31,7 +33,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/comp
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type"> string</td>
+<td class="type">  string</td>
 <td class="description"><p class="name"><a href="#dump">dump</a>(array options)</p><p class="description">Dumps the service container as an YAML string.</p></td>
 </tr>
 </table>
@@ -44,10 +46,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/comp
 <div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Dumper\YamlDumper.php at line 37</div>
 <h3 id="dump()">dump</h3>
 
-```php
-public  string **dump**(array options)
-```
-<div class="details">
+public  string **dump** (array options)<div class="details">
 <p>Dumps the service container as an YAML string.</p><dl>
 <dt>Parameters:</dt>
 <dd>options - An array of options</dd>

@@ -1,3 +1,4 @@
+
 - - -
 
 **Doctrine\Common\Annotations\CachedReader**
@@ -18,6 +19,7 @@
 <dd>Johannes M. Schmitt <schmittjoh@gmail.com></dd>
 <dd>Benjamin Eberlei <kontakt@beberlei.de></dd>
 </dl>
+
 - - -
 
 <table id="summary_constructor">
@@ -31,32 +33,32 @@
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#getClassAnnotations">getClassAnnotations</a>(ReflectionClass class)</p></td>
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#getclassannotations">getClassAnnotations</a>(ReflectionClass class)</p></td>
 </tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#getClassAnnotation">getClassAnnotation</a>(ReflectionClass class, mixed annotationName)</p></td>
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#getclassannotation">getClassAnnotation</a>(ReflectionClass class, mixed annotationName)</p></td>
 </tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#getPropertyAnnotations">getPropertyAnnotations</a>(ReflectionProperty property)</p></td>
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#getpropertyannotations">getPropertyAnnotations</a>(ReflectionProperty property)</p></td>
 </tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#getPropertyAnnotation">getPropertyAnnotation</a>(ReflectionProperty property, mixed annotationName)</p></td>
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#getpropertyannotation">getPropertyAnnotation</a>(ReflectionProperty property, mixed annotationName)</p></td>
 </tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#getMethodAnnotations">getMethodAnnotations</a>(ReflectionMethod method)</p></td>
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#getmethodannotations">getMethodAnnotations</a>(ReflectionMethod method)</p></td>
 </tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#getMethodAnnotation">getMethodAnnotation</a>(ReflectionMethod method, mixed annotationName)</p></td>
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#getmethodannotation">getMethodAnnotation</a>(ReflectionMethod method, mixed annotationName)</p></td>
 </tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#clearLoadedAnnotations">clearLoadedAnnotations</a>()</p></td>
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#clearloadedannotations">clearLoadedAnnotations</a>()</p></td>
 </tr>
 </table>
 
@@ -76,10 +78,7 @@ public  void **__construct**(<a href="../../../doctrine/common/annotations/reade
 <div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\CachedReader.php at line 65</div>
 <h3 id="getClassAnnotations()">getClassAnnotations</h3>
 
-```php
-public  void **getClassAnnotations**(ReflectionClass class)
-```
-<div class="details">
+public  void **getClassAnnotations** (ReflectionClass class)<div class="details">
 </div>
 
 - - -
@@ -87,10 +86,7 @@ public  void **getClassAnnotations**(ReflectionClass class)
 <div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\CachedReader.php at line 81</div>
 <h3 id="getClassAnnotation()">getClassAnnotation</h3>
 
-```php
-public  void **getClassAnnotation**(ReflectionClass class, mixed annotationName)
-```
-<div class="details">
+public  void **getClassAnnotation** (ReflectionClass class, mixed annotationName)<div class="details">
 </div>
 
 - - -
@@ -98,10 +94,7 @@ public  void **getClassAnnotation**(ReflectionClass class, mixed annotationName)
 <div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\CachedReader.php at line 92</div>
 <h3 id="getPropertyAnnotations()">getPropertyAnnotations</h3>
 
-```php
-public  void **getPropertyAnnotations**(ReflectionProperty property)
-```
-<div class="details">
+public  void **getPropertyAnnotations** (ReflectionProperty property)<div class="details">
 </div>
 
 - - -
@@ -109,10 +102,7 @@ public  void **getPropertyAnnotations**(ReflectionProperty property)
 <div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\CachedReader.php at line 109</div>
 <h3 id="getPropertyAnnotation()">getPropertyAnnotation</h3>
 
-```php
-public  void **getPropertyAnnotation**(ReflectionProperty property, mixed annotationName)
-```
-<div class="details">
+public  void **getPropertyAnnotation** (ReflectionProperty property, mixed annotationName)<div class="details">
 </div>
 
 - - -
@@ -120,10 +110,7 @@ public  void **getPropertyAnnotation**(ReflectionProperty property, mixed annota
 <div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\CachedReader.php at line 120</div>
 <h3 id="getMethodAnnotations()">getMethodAnnotations</h3>
 
-```php
-public  void **getMethodAnnotations**(ReflectionMethod method)
-```
-<div class="details">
+public  void **getMethodAnnotations** (ReflectionMethod method)<div class="details">
 </div>
 
 - - -
@@ -131,10 +118,7 @@ public  void **getMethodAnnotations**(ReflectionMethod method)
 <div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\CachedReader.php at line 137</div>
 <h3 id="getMethodAnnotation()">getMethodAnnotation</h3>
 
-```php
-public  void **getMethodAnnotation**(ReflectionMethod method, mixed annotationName)
-```
-<div class="details">
+public  void **getMethodAnnotation** (ReflectionMethod method, mixed annotationName)<div class="details">
 </div>
 
 - - -
@@ -142,10 +126,7 @@ public  void **getMethodAnnotation**(ReflectionMethod method, mixed annotationNa
 <div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\CachedReader.php at line 148</div>
 <h3 id="clearLoadedAnnotations()">clearLoadedAnnotations</h3>
 
-```php
-public  void **clearLoadedAnnotations**()
-```
-<div class="details">
+public  void **clearLoadedAnnotations** ()<div class="details">
 </div>
 
 - - -

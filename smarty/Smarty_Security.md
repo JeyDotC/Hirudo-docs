@@ -1,3 +1,4 @@
+
 - - -
 
 **Smarty\Smarty_Security**
@@ -12,6 +13,7 @@
 <p class="signature">public  class **Smarty_Security**</p>
 
 <div class="comment" id="overview_description"><p>This class does contain the security settings</p></div>
+
 
 - - -
 
@@ -120,40 +122,40 @@
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type"> boolean</td>
-<td class="description"><p class="name"><a href="#isTrustedPhpFunction">isTrustedPhpFunction</a>(string function_name, object compiler)</p><p class="description">Check if PHP function is trusted.</p></td>
+<td class="type">  boolean</td>
+<td class="description"><p class="name"><a href="#istrustedphpfunction">isTrustedPhpFunction</a>(string function_name, object compiler)</p><p class="description">Check if PHP function is trusted.</p></td>
 </tr>
 <tr>
-<td class="type"> boolean</td>
-<td class="description"><p class="name"><a href="#isTrustedStaticClass">isTrustedStaticClass</a>(string class_name, object compiler)</p><p class="description">Check if static class is trusted.</p></td>
+<td class="type">  boolean</td>
+<td class="description"><p class="name"><a href="#istrustedstaticclass">isTrustedStaticClass</a>(string class_name, object compiler)</p><p class="description">Check if static class is trusted.</p></td>
 </tr>
 <tr>
-<td class="type"> boolean</td>
-<td class="description"><p class="name"><a href="#isTrustedPhpModifier">isTrustedPhpModifier</a>(string modifier_name, object compiler)</p><p class="description">Check if PHP modifier is trusted.</p></td>
+<td class="type">  boolean</td>
+<td class="description"><p class="name"><a href="#istrustedphpmodifier">isTrustedPhpModifier</a>(string modifier_name, object compiler)</p><p class="description">Check if PHP modifier is trusted.</p></td>
 </tr>
 <tr>
-<td class="type"> boolean</td>
-<td class="description"><p class="name"><a href="#isTrustedTag">isTrustedTag</a>(string tag_name, object compiler)</p><p class="description">Check if tag is trusted.</p></td>
+<td class="type">  boolean</td>
+<td class="description"><p class="name"><a href="#istrustedtag">isTrustedTag</a>(string tag_name, object compiler)</p><p class="description">Check if tag is trusted.</p></td>
 </tr>
 <tr>
-<td class="type"> boolean</td>
-<td class="description"><p class="name"><a href="#isTrustedModifier">isTrustedModifier</a>(string modifier_name, object compiler)</p><p class="description">Check if modifier plugin is trusted.</p></td>
+<td class="type">  boolean</td>
+<td class="description"><p class="name"><a href="#istrustedmodifier">isTrustedModifier</a>(string modifier_name, object compiler)</p><p class="description">Check if modifier plugin is trusted.</p></td>
 </tr>
 <tr>
-<td class="type"> boolean</td>
-<td class="description"><p class="name"><a href="#isTrustedStream">isTrustedStream</a>(string stream_name)</p><p class="description">Check if stream is trusted.</p></td>
+<td class="type">  boolean</td>
+<td class="description"><p class="name"><a href="#istrustedstream">isTrustedStream</a>(string stream_name)</p><p class="description">Check if stream is trusted.</p></td>
 </tr>
 <tr>
-<td class="type"> boolean</td>
-<td class="description"><p class="name"><a href="#isTrustedResourceDir">isTrustedResourceDir</a>(string filepath)</p><p class="description">Check if directory of file resource is trusted.</p></td>
+<td class="type">  boolean</td>
+<td class="description"><p class="name"><a href="#istrustedresourcedir">isTrustedResourceDir</a>(string filepath)</p><p class="description">Check if directory of file resource is trusted.</p></td>
 </tr>
 <tr>
-<td class="type"> boolean</td>
-<td class="description"><p class="name"><a href="#isTrustedUri">isTrustedUri</a>(string uri)</p><p class="description">Check if URI (e.g. </p></td>
+<td class="type">  boolean</td>
+<td class="description"><p class="name"><a href="#istrusteduri">isTrustedUri</a>(string uri)</p><p class="description">Check if URI (e.g. </p></td>
 </tr>
 <tr>
-<td class="type"> boolean</td>
-<td class="description"><p class="name"><a href="#isTrustedPHPDir">isTrustedPHPDir</a>(string filepath)</p><p class="description">Check if directory of file resource is trusted.</p></td>
+<td class="type">  boolean</td>
+<td class="description"><p class="name"><a href="#istrustedphpdir">isTrustedPHPDir</a>(string filepath)</p><p class="description">Check if directory of file resource is trusted.</p></td>
 </tr>
 </table>
 
@@ -161,9 +163,7 @@
 <div class="location">framework\libs\smarty\sysplugins\smarty_security.php at line 142</div>
 <h3 id="_config_dir">_config_dir</h3>
 
-```php
-protected  array$_config_dir = null
-```
+protected  array $_config_dir = null
 <div class="details">
 <p>Cache for $config_dir lookups</p></div>
 
@@ -172,9 +172,7 @@ protected  array$_config_dir = null
 <div class="location">framework\libs\smarty\sysplugins\smarty_security.php at line 152</div>
 <h3 id="_php_resource_dir">_php_resource_dir</h3>
 
-```php
-protected  array$_php_resource_dir = null
-```
+protected  array $_php_resource_dir = null
 <div class="details">
 <p>Cache for $php_resource_dir lookups</p></div>
 
@@ -183,9 +181,7 @@ protected  array$_php_resource_dir = null
 <div class="location">framework\libs\smarty\sysplugins\smarty_security.php at line 132</div>
 <h3 id="_resource_dir">_resource_dir</h3>
 
-```php
-protected  array$_resource_dir = null
-```
+protected  array $_resource_dir = null
 <div class="details">
 <p>Cache for $resource_dir lookups</p></div>
 
@@ -194,9 +190,7 @@ protected  array$_resource_dir = null
 <div class="location">framework\libs\smarty\sysplugins\smarty_security.php at line 147</div>
 <h3 id="_secure_dir">_secure_dir</h3>
 
-```php
-protected  array$_secure_dir = null
-```
+protected  array $_secure_dir = null
 <div class="details">
 <p>Cache for $secure_dir lookups</p></div>
 
@@ -205,9 +199,7 @@ protected  array$_secure_dir = null
 <div class="location">framework\libs\smarty\sysplugins\smarty_security.php at line 137</div>
 <h3 id="_template_dir">_template_dir</h3>
 
-```php
-protected  array$_template_dir = null
-```
+protected  array $_template_dir = null
 <div class="details">
 <p>Cache for $template_dir lookups</p></div>
 
@@ -216,9 +208,7 @@ protected  array$_template_dir = null
 <div class="location">framework\libs\smarty\sysplugins\smarty_security.php at line 157</div>
 <h3 id="_trusted_dir">_trusted_dir</h3>
 
-```php
-protected  array$_trusted_dir = null
-```
+protected  array $_trusted_dir = null
 <div class="details">
 <p>Cache for $trusted_dir lookups</p></div>
 
@@ -227,9 +217,7 @@ protected  array$_trusted_dir = null
 <div class="location">framework\libs\smarty\sysplugins\smarty_security.php at line 121</div>
 <h3 id="allow_constants">allow_constants</h3>
 
-```php
-public  boolean$allow_constants = true
-```
+public  boolean $allow_constants = true
 <div class="details">
 <p>+ flag if constants can be accessed from template</p></div>
 
@@ -238,9 +226,7 @@ public  boolean$allow_constants = true
 <div class="location">framework\libs\smarty\sysplugins\smarty_security.php at line 126</div>
 <h3 id="allow_super_globals">allow_super_globals</h3>
 
-```php
-public  boolean$allow_super_globals = true
-```
+public  boolean $allow_super_globals = true
 <div class="details">
 <p>+ flag if super globals can be accessed from template</p></div>
 
@@ -249,9 +235,7 @@ public  boolean$allow_super_globals = true
 <div class="location">framework\libs\smarty\sysplugins\smarty_security.php at line 101</div>
 <h3 id="allowed_modifiers">allowed_modifiers</h3>
 
-```php
-public  array$allowed_modifiers = array()
-```
+public  array $allowed_modifiers = array()
 <div class="details">
 <p>This is an array of allowed modifier plugins.</p><p>If empty no restriction by allowed_modifiers.</p></div>
 
@@ -260,9 +244,7 @@ public  array$allowed_modifiers = array()
 <div class="location">framework\libs\smarty\sysplugins\smarty_security.php at line 87</div>
 <h3 id="allowed_tags">allowed_tags</h3>
 
-```php
-public  array$allowed_tags = array()
-```
+public  array $allowed_tags = array()
 <div class="details">
 <p>This is an array of allowed tags.</p><p>If empty no restriction by allowed_tags.</p></div>
 
@@ -271,9 +253,7 @@ public  array$allowed_tags = array()
 <div class="location">framework\libs\smarty\sysplugins\smarty_security.php at line 108</div>
 <h3 id="disabled_modifiers">disabled_modifiers</h3>
 
-```php
-public  array$disabled_modifiers = array()
-```
+public  array $disabled_modifiers = array()
 <div class="details">
 <p>This is an array of disabled modifier plugins.</p><p>If empty no restriction by disabled_modifiers.</p></div>
 
@@ -282,9 +262,7 @@ public  array$disabled_modifiers = array()
 <div class="location">framework\libs\smarty\sysplugins\smarty_security.php at line 94</div>
 <h3 id="disabled_tags">disabled_tags</h3>
 
-```php
-public  array$disabled_tags = array()
-```
+public  array $disabled_tags = array()
 <div class="details">
 <p>This is an array of disabled tags.</p><p>If empty no restriction by disabled_tags.</p></div>
 
@@ -293,9 +271,7 @@ public  array$disabled_tags = array()
 <div class="location">framework\libs\smarty\sysplugins\smarty_security.php at line 72</div>
 <h3 id="php_functions">php_functions</h3>
 
-```php
-public  array$php_functions = array(...)
-```
+public  array $php_functions = array(...)
 <div class="details">
 <p>This is an array of trusted PHP functions.</p><p>If empty all functions are allowed.
 To disable all PHP functions set $php_functions = null.</p></div>
@@ -305,9 +281,7 @@ To disable all PHP functions set $php_functions = null.</p></div>
 <div class="location">framework\libs\smarty\sysplugins\smarty_security.php at line 36</div>
 <h3 id="php_handling">php_handling</h3>
 
-```php
-public  integer$php_handling = Smarty::PHP_PASSTHRU
-```
+public  integer $php_handling = Smarty::PHP_PASSTHRU
 <div class="details">
 <p>This determines how Smarty handles "<?php ... ?>" tags in templates.
 possible values:</p>
@@ -324,9 +298,7 @@ possible values:</p>
 <div class="location">framework\libs\smarty\sysplugins\smarty_security.php at line 80</div>
 <h3 id="php_modifiers">php_modifiers</h3>
 
-```php
-public  array$php_modifiers = array(...)
-```
+public  array $php_modifiers = array(...)
 <div class="details">
 <p>This is an array of trusted PHP modifers.</p><p>If empty all modifiers are allowed.
 To disable all modifier set $modifiers = null.</p></div>
@@ -336,9 +308,7 @@ To disable all modifier set $modifiers = null.</p></div>
 <div class="location">framework\libs\smarty\sysplugins\smarty_security.php at line 43</div>
 <h3 id="secure_dir">secure_dir</h3>
 
-```php
-public  array$secure_dir = array()
-```
+public  array $secure_dir = array()
 <div class="details">
 <p>This is the list of template directories that are considered secure.
 $template_dir is in this list implicitly.</p></div>
@@ -348,9 +318,7 @@ $template_dir is in this list implicitly.</p></div>
 <div class="location">framework\libs\smarty\sysplugins\smarty_security.php at line 64</div>
 <h3 id="static_classes">static_classes</h3>
 
-```php
-public  array$static_classes = array()
-```
+public  array $static_classes = array()
 <div class="details">
 <p>This is an array of trusted static classes.</p><p>If empty access to all static classes is allowed.
 If set to 'none' none is allowed.</p></div>
@@ -360,9 +328,7 @@ If set to 'none' none is allowed.</p></div>
 <div class="location">framework\libs\smarty\sysplugins\smarty_security.php at line 116</div>
 <h3 id="streams">streams</h3>
 
-```php
-public  array$streams = array('file')
-```
+public  array $streams = array('file')
 <div class="details">
 <p>This is an array of trusted streams.</p><p>If empty all streams are allowed.
 To disable all streams set $streams = null.</p></div>
@@ -372,9 +338,7 @@ To disable all streams set $streams = null.</p></div>
 <div class="location">framework\libs\smarty\sysplugins\smarty_security.php at line 50</div>
 <h3 id="trusted_dir">trusted_dir</h3>
 
-```php
-public  array$trusted_dir = array()
-```
+public  array $trusted_dir = array()
 <div class="details">
 <p>This is an array of directories where trusted php scripts reside.
 <code>$security</code> is disabled during their inclusion/execution.</p></div>
@@ -384,9 +348,7 @@ public  array$trusted_dir = array()
 <div class="location">framework\libs\smarty\sysplugins\smarty_security.php at line 56</div>
 <h3 id="trusted_uri">trusted_uri</h3>
 
-```php
-public  array$trusted_uri = array()
-```
+public  array $trusted_uri = array()
 <div class="details">
 <p>List of regular expressions (PCRE) that include trusted URIs</p></div>
 
@@ -408,10 +370,7 @@ public  void **__construct**(<a href="../smarty/smarty.html">Smarty</a> smarty)
 <div class="location">framework\libs\smarty\sysplugins\smarty_security.php at line 176</div>
 <h3 id="isTrustedPhpFunction()">isTrustedPhpFunction</h3>
 
-```php
-public  boolean **isTrustedPhpFunction**(string function_name, object compiler)
-```
-<div class="details">
+public  boolean **isTrustedPhpFunction** (string function_name, object compiler)<div class="details">
 <p>Check if PHP function is trusted.</p><dl>
 <dt>Parameters:</dt>
 <dd></dd>
@@ -428,10 +387,7 @@ public  boolean **isTrustedPhpFunction**(string function_name, object compiler)
 <div class="location">framework\libs\smarty\sysplugins\smarty_security.php at line 194</div>
 <h3 id="isTrustedStaticClass()">isTrustedStaticClass</h3>
 
-```php
-public  boolean **isTrustedStaticClass**(string class_name, object compiler)
-```
-<div class="details">
+public  boolean **isTrustedStaticClass** (string class_name, object compiler)<div class="details">
 <p>Check if static class is trusted.</p><dl>
 <dt>Parameters:</dt>
 <dd></dd>
@@ -448,10 +404,7 @@ public  boolean **isTrustedStaticClass**(string class_name, object compiler)
 <div class="location">framework\libs\smarty\sysplugins\smarty_security.php at line 212</div>
 <h3 id="isTrustedPhpModifier()">isTrustedPhpModifier</h3>
 
-```php
-public  boolean **isTrustedPhpModifier**(string modifier_name, object compiler)
-```
-<div class="details">
+public  boolean **isTrustedPhpModifier** (string modifier_name, object compiler)<div class="details">
 <p>Check if PHP modifier is trusted.</p><dl>
 <dt>Parameters:</dt>
 <dd></dd>
@@ -468,10 +421,7 @@ public  boolean **isTrustedPhpModifier**(string modifier_name, object compiler)
 <div class="location">framework\libs\smarty\sysplugins\smarty_security.php at line 230</div>
 <h3 id="isTrustedTag()">isTrustedTag</h3>
 
-```php
-public  boolean **isTrustedTag**(string tag_name, object compiler)
-```
-<div class="details">
+public  boolean **isTrustedTag** (string tag_name, object compiler)<div class="details">
 <p>Check if tag is trusted.</p><dl>
 <dt>Parameters:</dt>
 <dd></dd>
@@ -488,10 +438,7 @@ public  boolean **isTrustedTag**(string tag_name, object compiler)
 <div class="location">framework\libs\smarty\sysplugins\smarty_security.php at line 260</div>
 <h3 id="isTrustedModifier()">isTrustedModifier</h3>
 
-```php
-public  boolean **isTrustedModifier**(string modifier_name, object compiler)
-```
-<div class="details">
+public  boolean **isTrustedModifier** (string modifier_name, object compiler)<div class="details">
 <p>Check if modifier plugin is trusted.</p><dl>
 <dt>Parameters:</dt>
 <dd></dd>
@@ -508,10 +455,7 @@ public  boolean **isTrustedModifier**(string modifier_name, object compiler)
 <div class="location">framework\libs\smarty\sysplugins\smarty_security.php at line 288</div>
 <h3 id="isTrustedStream()">isTrustedStream</h3>
 
-```php
-public  boolean **isTrustedStream**(string stream_name)
-```
-<div class="details">
+public  boolean **isTrustedStream** (string stream_name)<div class="details">
 <p>Check if stream is trusted.</p><dl>
 <dt>Returns:</dt>
 <dd>true if stream is trusted</dd>
@@ -525,10 +469,7 @@ public  boolean **isTrustedStream**(string stream_name)
 <div class="location">framework\libs\smarty\sysplugins\smarty_security.php at line 304</div>
 <h3 id="isTrustedResourceDir()">isTrustedResourceDir</h3>
 
-```php
-public  boolean **isTrustedResourceDir**(string filepath)
-```
-<div class="details">
+public  boolean **isTrustedResourceDir** (string filepath)<div class="details">
 <p>Check if directory of file resource is trusted.</p><dl>
 <dt>Returns:</dt>
 <dd>true if directory is trusted</dd>
@@ -542,10 +483,7 @@ public  boolean **isTrustedResourceDir**(string filepath)
 <div class="location">framework\libs\smarty\sysplugins\smarty_security.php at line 386</div>
 <h3 id="isTrustedUri()">isTrustedUri</h3>
 
-```php
-public  boolean **isTrustedUri**(string uri)
-```
-<div class="details">
+public  boolean **isTrustedUri** (string uri)<div class="details">
 <p>Check if URI (e.g. {fetch} or {html_image}) is trusted</p><p>To simplify things, isTrustedUri() resolves all input to "{$PROTOCOL}://{$HOSTNAME}".
 So "http://username:password@hello.world.example.org:8080/some-path?some=query-string"
 is reduced to "http://hello.world.example.org" prior to applying the patters from <code><a href="../smarty/smarty_security.html#trusted_uri">$trusted_uri</a></code>.</p><dl>
@@ -563,10 +501,7 @@ is reduced to "http://hello.world.example.org" prior to applying the patters fro
 <div class="location">framework\libs\smarty\sysplugins\smarty_security.php at line 408</div>
 <h3 id="isTrustedPHPDir()">isTrustedPHPDir</h3>
 
-```php
-public  boolean **isTrustedPHPDir**(string filepath)
-```
-<div class="details">
+public  boolean **isTrustedPHPDir** (string filepath)<div class="details">
 <p>Check if directory of file resource is trusted.</p><dl>
 <dt>Returns:</dt>
 <dd>true if directory is trusted</dd>

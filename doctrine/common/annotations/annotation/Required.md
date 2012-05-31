@@ -1,3 +1,4 @@
+
 - - -
 
 **Doctrine\Common\Annotations\Annotation\Required**
@@ -19,5 +20,6 @@ to check if that attribute is required during the parsing process.</p></div>
 <dd>Fabio B. Silva <fabio.bat.silva@gmail.com></dd>
 <dt>Annotation.</dt>
 </dl>
+
 - - -
 

@@ -1,3 +1,4 @@
+
 - - -
 
 **Doctrine\Common\Annotations\DocParser**
@@ -22,6 +23,7 @@
 <dd>Johannes M. Schmitt <schmittjoh@gmail.com></dd>
 <dd>Fabio B. Silva <fabio.bat.silva@gmail.com></dd>
 </dl>
+
 - - -
 
 <table id="summary_constructor">
@@ -35,28 +37,28 @@
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#setIgnoredAnnotationNames">setIgnoredAnnotationNames</a>(array names)</p><p class="description">Sets the annotation names that are ignored during the parsing process.
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#setignoredannotationnames">setIgnoredAnnotationNames</a>(array names)</p><p class="description">Sets the annotation names that are ignored during the parsing process.
 </p></td>
 </tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#setIgnoreNotImportedAnnotations">setIgnoreNotImportedAnnotations</a>(mixed bool)</p></td>
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#setignorenotimportedannotations">setIgnoreNotImportedAnnotations</a>(mixed bool)</p></td>
 </tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#addNamespace">addNamespace</a>(array namespaces, mixed namespace)</p><p class="description">Sets the default namespaces.</p></td>
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#addnamespace">addNamespace</a>(array namespaces, mixed namespace)</p><p class="description">Sets the default namespaces.</p></td>
 </tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#setImports">setImports</a>(mixed imports)</p></td>
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#setimports">setImports</a>(mixed imports)</p></td>
 </tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#setTarget">setTarget</a>(integer target)</p><p class="description">Sets current target context as bitmask.</p></td>
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#settarget">setTarget</a>(integer target)</p><p class="description">Sets current target context as bitmask.</p></td>
 </tr>
 <tr>
-<td class="type"> array</td>
+<td class="type">  array</td>
 <td class="description"><p class="name"><a href="#parse">parse</a>(string input, string context)</p><p class="description">Parses the given docblock string for annotations.</p></td>
 </tr>
 </table>
@@ -77,10 +79,7 @@ public  void **__construct**()
 <div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\DocParser.php at line 151</div>
 <h3 id="setIgnoredAnnotationNames()">setIgnoredAnnotationNames</h3>
 
-```php
-public  void **setIgnoredAnnotationNames**(array names)
-```
-<div class="details">
+public  void **setIgnoredAnnotationNames** (array names)<div class="details">
 <p>Sets the annotation names that are ignored during the parsing process.</p><p>The names are supposed to be the raw names as used in the class, not the
 fully qualified class names.</p></div>
 
@@ -89,10 +88,7 @@ fully qualified class names.</p></div>
 <div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\DocParser.php at line 155</div>
 <h3 id="setIgnoreNotImportedAnnotations()">setIgnoreNotImportedAnnotations</h3>
 
-```php
-public  void **setIgnoreNotImportedAnnotations**(mixed bool)
-```
-<div class="details">
+public  void **setIgnoreNotImportedAnnotations** (mixed bool)<div class="details">
 </div>
 
 - - -
@@ -100,10 +96,7 @@ public  void **setIgnoreNotImportedAnnotations**(mixed bool)
 <div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\DocParser.php at line 163</div>
 <h3 id="addNamespace()">addNamespace</h3>
 
-```php
-public  void **addNamespace**(array namespaces, mixed namespace)
-```
-<div class="details">
+public  void **addNamespace** (array namespaces, mixed namespace)<div class="details">
 <p>Sets the default namespaces.</p></div>
 
 - - -
@@ -111,10 +104,7 @@ public  void **addNamespace**(array namespaces, mixed namespace)
 <div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\DocParser.php at line 170</div>
 <h3 id="setImports()">setImports</h3>
 
-```php
-public  void **setImports**(mixed imports)
-```
-<div class="details">
+public  void **setImports** (mixed imports)<div class="details">
 </div>
 
 - - -
@@ -122,10 +112,7 @@ public  void **setImports**(mixed imports)
 <div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\DocParser.php at line 182</div>
 <h3 id="setTarget()">setTarget</h3>
 
-```php
-public  void **setTarget**(integer target)
-```
-<div class="details">
+public  void **setTarget** (integer target)<div class="details">
 <p>Sets current target context as bitmask.</p></div>
 
 - - -
@@ -133,10 +120,7 @@ public  void **setTarget**(integer target)
 <div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\DocParser.php at line 193</div>
 <h3 id="parse()">parse</h3>
 
-```php
-public  array **parse**(string input, string context)
-```
-<div class="details">
+public  array **parse** (string input, string context)<div class="details">
 <p>Parses the given docblock string for annotations.</p><dl>
 <dt>Parameters:</dt>
 <dd>input - The docblock string to parse.</dd>

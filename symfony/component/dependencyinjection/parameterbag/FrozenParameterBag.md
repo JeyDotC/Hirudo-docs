@@ -1,3 +1,4 @@
+
 - - -
 
 **Symfony\Component\DependencyInjection\ParameterBag\FrozenParameterBag**
@@ -22,6 +23,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/comp
 <dd>Fabien Potencier <fabien@symfony.com></dd>
 <dt>Api.</dt>
 </dl>
+
 - - -
 
 <table class="inherit">
@@ -40,15 +42,15 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/comp
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type"> void</td>
+<td class="type">  void</td>
 <td class="description"><p class="name"><a href="#clear">clear</a>()</p><p class="description">Clears all parameters.</p></td>
 </tr>
 <tr>
-<td class="type"> void</td>
+<td class="type">  void</td>
 <td class="description"><p class="name"><a href="#add">add</a>(array parameters)</p><p class="description">Adds parameters to the service container parameters.</p></td>
 </tr>
 <tr>
-<td class="type"> void</td>
+<td class="type">  void</td>
 <td class="description"><p class="name"><a href="#set">set</a>(string name, mixed value)</p><p class="description">Sets a service container parameter.</p></td>
 </tr>
 </table>
@@ -79,10 +81,7 @@ all keys are already lowercased.</p><p>This is always the case when used interna
 <div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ParameterBag\FrozenParameterBag.php at line 45</div>
 <h3 id="clear()">clear</h3>
 
-```php
-public  void **clear**()
-```
-<div class="details">
+public  void **clear** ()<div class="details">
 <p>Clears all parameters.</p><dl>
 <dt>Api.</dt>
 </dl>
@@ -93,10 +92,7 @@ public  void **clear**()
 <div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ParameterBag\FrozenParameterBag.php at line 55</div>
 <h3 id="add()">add</h3>
 
-```php
-public  void **add**(array parameters)
-```
-<div class="details">
+public  void **add** (array parameters)<div class="details">
 <p>Adds parameters to the service container parameters.</p><dl>
 <dt>Api.</dt>
 <dt>Parameters:</dt>
@@ -109,10 +105,7 @@ public  void **add**(array parameters)
 <div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ParameterBag\FrozenParameterBag.php at line 65</div>
 <h3 id="set()">set</h3>
 
-```php
-public  void **set**(string name, mixed value)
-```
-<div class="details">
+public  void **set** (string name, mixed value)<div class="details">
 <p>Sets a service container parameter.</p><dl>
 <dt>Api.</dt>
 <dt>Parameters:</dt>

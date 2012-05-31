@@ -1,3 +1,4 @@
+
 - - -
 
 **Hirudo\Impl\Joomla\JoomlaPrincipal**
@@ -21,6 +22,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/
 <dt>Export(id="principal",:</dt>
 <dd>factory="instance")</dd>
 </dl>
+
 - - -
 
 <table id="summary_constructor">
@@ -34,12 +36,12 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type">static  JPrincipal</td>
+<td class="type"> static  JPrincipal</td>
 <td class="description"><p class="name"><a href="#instance">instance</a>()</p><p class="description"></p></td>
 </tr>
 <tr>
-<td class="type"> boolean</td>
-<td class="description"><p class="name"><a href="#isAnonimous">isAnonimous</a>()</p><p class="description">Determines if this user is logged in.</p></td>
+<td class="type">  boolean</td>
+<td class="description"><p class="name"><a href="#isanonimous">isAnonimous</a>()</p><p class="description">Determines if this user is logged in.</p></td>
 </tr>
 </table>
 
@@ -63,10 +65,7 @@ public  void **__construct**()
 <div class="location">framework\hirudo\Hirudo\Impl\Joomla\JoomlaPrincipal.php at line 43</div>
 <h3 id="instance()">instance</h3>
 
-```php
-public static  JPrincipal **instance**()
-```
-<div class="details">
+public static  JPrincipal **instance** ()<div class="details">
 <p></p></div>
 
 - - -
@@ -74,10 +73,7 @@ public static  JPrincipal **instance**()
 <div class="location">framework\hirudo\Hirudo\Impl\Joomla\JoomlaPrincipal.php at line 72</div>
 <h3 id="isAnonimous()">isAnonimous</h3>
 
-```php
-public  boolean **isAnonimous**()
-```
-<div class="details">
+public  boolean **isAnonimous** ()<div class="details">
 <p>Determines if this user is logged in.</p><dl>
 <dt>Returns:</dt>
 <dd>True if this user is logged in, false otherwise.</dd>

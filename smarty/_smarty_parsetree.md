@@ -1,3 +1,4 @@
+
 - - -
 
 **Smarty\_smarty_parsetree**
@@ -23,6 +24,7 @@
 <dd>Compiler</dd>
 <dt>Ignore.</dt>
 </dl>
+
 - - -
 
 <table id="summary_field">
@@ -40,7 +42,7 @@
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type">abstract  string</td>
+<td class="type"> abstract  string</td>
 <td class="description"><p class="name"><a href="#to_smarty_php">to_smarty_php</a>()</p><p class="description">Return buffer</p></td>
 </tr>
 </table>
@@ -49,9 +51,7 @@
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_parsetree.php at line 29</div>
 <h3 id="data">data</h3>
 
-```php
-public  mixed$data
-```
+public  mixed $data
 <div class="details">
 <p>Buffer content</p></div>
 
@@ -60,9 +60,7 @@ public  mixed$data
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_parsetree.php at line 24</div>
 <h3 id="parser">parser</h3>
 
-```php
-public  object$parser = null
-```
+public  object $parser = null
 <div class="details">
 <p>Parser object</p></div>
 
@@ -72,10 +70,7 @@ public  object$parser = null
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_parsetree.php at line 36</div>
 <h3 id="to_smarty_php()">to_smarty_php</h3>
 
-```php
-public abstract  string **to_smarty_php**()
-```
-<div class="details">
+public abstract  string **to_smarty_php** ()<div class="details">
 <p>Return buffer</p><dl>
 <dt>Returns:</dt>
 <dd>buffer content</dd>

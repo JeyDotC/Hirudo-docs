@@ -1,3 +1,4 @@
+
 - - -
 
 **Doctrine\Common\Annotations\PhpParser**
@@ -18,13 +19,14 @@
 <dd>Fabien Potencier <fabien@symfony.com></dd>
 <dd>Christian Kaps <christian.kaps@mohiva.com></dd>
 </dl>
+
 - - -
 
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type"> array</td>
-<td class="description"><p class="name"><a href="#parseClass">parseClass</a>(\ReflectionClass class)</p><p class="description">Parses a class.</p></td>
+<td class="type">  array</td>
+<td class="description"><p class="name"><a href="#parseclass">parseClass</a>(\ReflectionClass class)</p><p class="description">Parses a class.</p></td>
 </tr>
 </table>
 
@@ -32,10 +34,7 @@
 <div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\PhpParser.php at line 59</div>
 <h3 id="parseClass()">parseClass</h3>
 
-```php
-public  array **parseClass**(\ReflectionClass class)
-```
-<div class="details">
+public  array **parseClass** (\ReflectionClass class)<div class="details">
 <p>Parses a class.</p><dl>
 <dt>Parameters:</dt>
 <dd>class - A <code>ReflectionClass</code> object.</dd>

@@ -1,3 +1,4 @@
+
 - - -
 
 **Smarty\Smarty_Internal_Compile_Nocache**
@@ -21,6 +22,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 <dt>Subpackage:</dt>
 <dd>Compiler</dd>
 </dl>
+
 - - -
 
 <table class="inherit">
@@ -30,7 +32,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type"> bool</td>
+<td class="type">  bool</td>
 <td class="description"><p class="name"><a href="#compile">compile</a>(array args, object compiler)</p><p class="description">Compiles code for the {nocache} tagThis tag does not generate compiled output. </p></td>
 </tr>
 </table>
@@ -43,10 +45,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_nocache.php at line 29</div>
 <h3 id="compile()">compile</h3>
 
-```php
-public  bool **compile**(array args, object compiler)
-```
-<div class="details">
+public  bool **compile** (array args, object compiler)<div class="details">
 <p>Compiles code for the {nocache} tag</p><p>This tag does not generate compiled output. It only sets a compiler flag.</p><dl>
 <dt>Parameters:</dt>
 <dd>args - array with attributes from parser</dd>

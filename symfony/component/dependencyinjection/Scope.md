@@ -1,3 +1,4 @@
+
 - - -
 
 **Symfony\Component\DependencyInjection\Scope**
@@ -18,6 +19,7 @@
 <dd>Johannes M. Schmitt <schmittjoh@gmail.com></dd>
 <dt>Api.</dt>
 </dl>
+
 - - -
 
 <table id="summary_constructor">
@@ -31,12 +33,12 @@
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#getName">getName</a>()</p><p class="description"></p></td>
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#getname">getName</a>()</p><p class="description"></p></td>
 </tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#getParentName">getParentName</a>()</p><p class="description"></p></td>
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#getparentname">getParentName</a>()</p><p class="description"></p></td>
 </tr>
 </table>
 
@@ -59,10 +61,7 @@ public  void **__construct**(mixed name, mixed parentName)
 <div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Scope.php at line 38</div>
 <h3 id="getName()">getName</h3>
 
-```php
-public  void **getName**()
-```
-<div class="details">
+public  void **getName** ()<div class="details">
 <p></p><dl>
 <dt>Api.</dt>
 </dl>
@@ -73,10 +72,7 @@ public  void **getName**()
 <div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Scope.php at line 46</div>
 <h3 id="getParentName()">getParentName</h3>
 
-```php
-public  void **getParentName**()
-```
-<div class="details">
+public  void **getParentName** ()<div class="details">
 <p></p><dl>
 <dt>Api.</dt>
 </dl>

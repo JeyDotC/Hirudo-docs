@@ -1,3 +1,4 @@
+
 - - -
 
 **Sample\Plugins\ModuleEnhablePlugin**
@@ -21,13 +22,14 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/
 <dt>Author:</dt>
 <dd>JeyDotC</dd>
 </dl>
+
 - - -
 
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type">protected  void</td>
-<td class="description"><p class="name"><a href="#beforeTask">beforeTask</a>(<a href="../../hirudo/core/events/beforetaskevent.html">BeforeTaskEvent</a> e)</p><p class="description">This is the method that needs to be implemented by the event listener in
+<td class="type"> protected  void</td>
+<td class="description"><p class="name"><a href="#beforetask">beforeTask</a>(<a href="../../hirudo/core/events/beforetaskevent.html">BeforeTaskEvent</a> e)</p><p class="description">This is the method that needs to be implemented by the event listener in
 order to work. </p></td>
 </tr>
 </table>
@@ -40,10 +42,7 @@ order to work. </p></td>
 <div class="location">ext\libs\SampleExtension\Sample\Plugins\ModuleEnhablePlugin.php at line 17</div>
 <h3 id="beforeTask()">beforeTask</h3>
 
-```php
-protected  void **beforeTask**(<a href="../../hirudo/core/events/beforetaskevent.html">BeforeTaskEvent</a> e)
-```
-<div class="details">
+protected  void **beforeTask** (<a href="../../hirudo/core/events/beforetaskevent.html">BeforeTaskEvent</a> e)<div class="details">
 <p>This is the method that needs to be implemented by the event listener in
 order to work. This method is invoked before the current task is executed
 and has the posibility to change the parameters values and to raplace the

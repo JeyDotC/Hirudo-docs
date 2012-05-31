@@ -1,3 +1,4 @@
+
 - - -
 
 **Doctrine\Common\Annotations\Annotation\IgnoreAnnotation**
@@ -19,6 +20,7 @@ annotations during the parsing process.</p></div>
 <dt>Author:</dt>
 <dd>Johannes M. Schmitt <schmittjoh@gmail.com></dd>
 </dl>
+
 - - -
 
 <table id="summary_field">
@@ -41,9 +43,7 @@ annotations during the parsing process.</p></div>
 <div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\Annotation\IgnoreAnnotation.php at line 31</div>
 <h3 id="names">names</h3>
 
-```php
-public  mixed$names
-```
+public  mixed $names
 <div class="details">
 </div>
 

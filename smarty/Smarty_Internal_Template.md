@@ -1,3 +1,4 @@
+
 - - -
 
 **Smarty\Smarty_Internal_Template**
@@ -26,6 +27,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 <dd>Smarty_Template_Compiled $compiled</dd>
 <dd>Smarty_Template_Cached $cached</dd>
 </dl>
+
 - - -
 
 <table id="summary_field">
@@ -64,7 +66,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 </tr>
 <tr>
 <td class="type"> bool</td>
-<td class="description"><p class="name"><a href="#mustCompile">$mustCompile</a></p><p class="description">flag if compiled template is invalid and must be (re)compiled</p></td>
+<td class="description"><p class="name"><a href="#mustcompile">$mustCompile</a></p><p class="description">flag if compiled template is invalid and must be (re)compiled</p></td>
 </tr>
 <tr>
 <td class="type"> array</td>
@@ -104,53 +106,53 @@ It load the required template resources and cacher plugins</p></td>
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type"> boolean</td>
-<td class="description"><p class="name"><a href="#mustCompile">mustCompile</a>()</p><p class="description">Returns if the current template must be compiled by the Smarty compilerIt does compare the timestamps of template source and the compiled templates and checks the force compile configuration</p></td>
+<td class="type">  boolean</td>
+<td class="description"><p class="name"><a href="#mustcompile">mustCompile</a>()</p><p class="description">Returns if the current template must be compiled by the Smarty compilerIt does compare the timestamps of template source and the compiled templates and checks the force compile configuration</p></td>
 </tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#compileTemplateSource">compileTemplateSource</a>()</p><p class="description">Compiles the templateIf the template is not evaluated the compiled template is saved on disk</p></td>
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#compiletemplatesource">compileTemplateSource</a>()</p><p class="description">Compiles the templateIf the template is not evaluated the compiled template is saved on disk</p></td>
 </tr>
 <tr>
-<td class="type"> bool</td>
-<td class="description"><p class="name"><a href="#writeCachedContent">writeCachedContent</a>(mixed content)</p><p class="description">Writes the cached template output</p></td>
+<td class="type">  bool</td>
+<td class="description"><p class="name"><a href="#writecachedcontent">writeCachedContent</a>(mixed content)</p><p class="description">Writes the cached template output</p></td>
 </tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#getSubTemplate">getSubTemplate</a>(string template, mixed cache_id, mixed compile_id, integer caching, integer cache_lifetime, array vars, int parent_scope, mixed data)</p><p class="description">Template code runtime function to get subtemplate content</p></td>
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#getsubtemplate">getSubTemplate</a>(string template, mixed cache_id, mixed compile_id, integer caching, integer cache_lifetime, array vars, int parent_scope, mixed data)</p><p class="description">Template code runtime function to get subtemplate content</p></td>
 </tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#setupInlineSubTemplate">setupInlineSubTemplate</a>(string template, mixed cache_id, mixed compile_id, integer caching, integer cache_lifetime, array vars, int parent_scope, string hash, mixed data)</p><p class="description">Template code runtime function to set up an inline subtemplate</p></td>
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#setupinlinesubtemplate">setupInlineSubTemplate</a>(string template, mixed cache_id, mixed compile_id, integer caching, integer cache_lifetime, array vars, int parent_scope, string hash, mixed data)</p><p class="description">Template code runtime function to set up an inline subtemplate</p></td>
 </tr>
 <tr>
-<td class="type"> string</td>
-<td class="description"><p class="name"><a href="#createTemplateCodeFrame">createTemplateCodeFrame</a>(string content, bool cache)</p><p class="description">Create code frame for compiled and cached templates</p></td>
+<td class="type">  string</td>
+<td class="description"><p class="name"><a href="#createtemplatecodeframe">createTemplateCodeFrame</a>(string content, bool cache)</p><p class="description">Create code frame for compiled and cached templates</p></td>
 </tr>
 <tr>
-<td class="type"> bool</td>
-<td class="description"><p class="name"><a href="#decodeProperties">decodeProperties</a>(array properties, bool cache)</p><p class="description">This function is executed automatically when a compiled or cached template file is included- Decode saved properties from compiled template and cache files
+<td class="type">  bool</td>
+<td class="description"><p class="name"><a href="#decodeproperties">decodeProperties</a>(array properties, bool cache)</p><p class="description">This function is executed automatically when a compiled or cached template file is included- Decode saved properties from compiled template and cache files
 - Check if compiled or cache file is valid</p></td>
 </tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#createLocalArrayVariable">createLocalArrayVariable</a>(string tpl_var, bool nocache, int scope)</p><p class="description">Template code runtime function to create a local Smarty variable for array assignments</p></td>
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#createlocalarrayvariable">createLocalArrayVariable</a>(string tpl_var, bool nocache, int scope)</p><p class="description">Template code runtime function to create a local Smarty variable for array assignments</p></td>
 </tr>
 <tr>
-<td class="type"> array</td>
-<td class="description"><p class="name"><a href="#getScope">getScope</a>(int scope)</p><p class="description">Template code runtime function to get pointer to template variable array of requested scope</p></td>
+<td class="type">  array</td>
+<td class="description"><p class="name"><a href="#getscope">getScope</a>(int scope)</p><p class="description">Template code runtime function to get pointer to template variable array of requested scope</p></td>
 </tr>
 <tr>
-<td class="type"> mixed</td>
-<td class="description"><p class="name"><a href="#getScopePointer">getScopePointer</a>(int scope)</p><p class="description">Get parent or root of template parent chain</p></td>
+<td class="type">  mixed</td>
+<td class="description"><p class="name"><a href="#getscopepointer">getScopePointer</a>(int scope)</p><p class="description">Get parent or root of template parent chain</p></td>
 </tr>
 <tr>
-<td class="type"> void</td>
+<td class="type">  void</td>
 <td class="description"><p class="name"><a href="#capture_error">capture_error</a>()</p><p class="description">runtime error not matching capture tags</p></td>
 </tr>
 <tr>
-<td class="type"> integer</td>
-<td class="description"><p class="name"><a href="#clearCache">clearCache</a>(integer exp_time)</p><p class="description">Empty cache for this template</p></td>
+<td class="type">  integer</td>
+<td class="description"><p class="name"><a href="#clearcache">clearCache</a>(integer exp_time)</p><p class="description">Empty cache for this template</p></td>
 </tr>
 </table>
 
@@ -166,9 +168,7 @@ It load the required template resources and cacher plugins</p></td>
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_template.php at line 98</div>
 <h3 id="_capture_stack">_capture_stack</h3>
 
-```php
-public  array$_capture_stack = array(0 =&gt; array())
-```
+public  array $_capture_stack = array(0 =&gt; array())
 <div class="details">
 <p>internal capture runtime stack</p></div>
 
@@ -177,9 +177,7 @@ public  array$_capture_stack = array(0 =&gt; array())
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_template.php at line 93</div>
 <h3 id="allow_relative_path">allow_relative_path</h3>
 
-```php
-public  bool$allow_relative_path = false
-```
+public  bool $allow_relative_path = false
 <div class="details">
 <p>internal flag to allow relative path in child template blocks</p></div>
 
@@ -188,9 +186,7 @@ public  bool$allow_relative_path = false
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_template.php at line 78</div>
 <h3 id="block_data">block_data</h3>
 
-```php
-public  array$block_data = array()
-```
+public  array $block_data = array()
 <div class="details">
 <p>blocks for template inheritance</p></div>
 
@@ -199,9 +195,7 @@ public  array$block_data = array()
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_template.php at line 28</div>
 <h3 id="cache_id">cache_id</h3>
 
-```php
-public  string$cache_id = null
-```
+public  string $cache_id = null
 <div class="details">
 <p>cache_id</p></div>
 
@@ -210,9 +204,7 @@ public  string$cache_id = null
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_template.php at line 43</div>
 <h3 id="cache_lifetime">cache_lifetime</h3>
 
-```php
-public  integer$cache_lifetime = null
-```
+public  integer $cache_lifetime = null
 <div class="details">
 <p>cache lifetime in seconds</p></div>
 
@@ -221,9 +213,7 @@ public  integer$cache_lifetime = null
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_template.php at line 38</div>
 <h3 id="caching">caching</h3>
 
-```php
-public  boolean$caching = null
-```
+public  boolean $caching = null
 <div class="details">
 <p>caching enabled</p></div>
 
@@ -232,9 +222,7 @@ public  boolean$caching = null
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_template.php at line 33</div>
 <h3 id="compile_id">compile_id</h3>
 
-```php
-public  string$compile_id = null
-```
+public  string $compile_id = null
 <div class="details">
 <p>$compile_id</p></div>
 
@@ -243,9 +231,7 @@ public  string$compile_id = null
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_template.php at line 58</div>
 <h3 id="has_nocache_code">has_nocache_code</h3>
 
-```php
-public  bool$has_nocache_code = false
-```
+public  bool $has_nocache_code = false
 <div class="details">
 <p>flag if template does contain nocache code sections</p></div>
 
@@ -254,9 +240,7 @@ public  bool$has_nocache_code = false
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_template.php at line 53</div>
 <h3 id="mustCompile">mustCompile</h3>
 
-```php
-public  bool$mustCompile = null
-```
+public  bool $mustCompile = null
 <div class="details">
 <p>flag if compiled template is invalid and must be (re)compiled</p></div>
 
@@ -265,9 +249,7 @@ public  bool$mustCompile = null
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_template.php at line 63</div>
 <h3 id="properties">properties</h3>
 
-```php
-public  array$properties = array(...)
-```
+public  array $properties = array(...)
 <div class="details">
 <p>special compiled and cached template properties</p></div>
 
@@ -276,9 +258,7 @@ public  array$properties = array(...)
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_template.php at line 68</div>
 <h3 id="required_plugins">required_plugins</h3>
 
-```php
-public  array$required_plugins = array(...)
-```
+public  array $required_plugins = array(...)
 <div class="details">
 <p>required plugins</p></div>
 
@@ -287,9 +267,7 @@ public  array$required_plugins = array(...)
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_template.php at line 73</div>
 <h3 id="smarty">smarty</h3>
 
-```php
-public  <a href="../smarty/smarty.html">Smarty</a>$smarty = null
-```
+public  <a href="../smarty/smarty.html">Smarty</a> $smarty = null
 <div class="details">
 <p>Global smarty instance</p></div>
 
@@ -298,9 +276,7 @@ public  <a href="../smarty/smarty.html">Smarty</a>$smarty = null
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_template.php at line 48</div>
 <h3 id="template_resource">template_resource</h3>
 
-```php
-public  string$template_resource = null
-```
+public  string $template_resource = null
 <div class="details">
 <p>Template resource</p></div>
 
@@ -309,9 +285,7 @@ public  string$template_resource = null
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_template.php at line 88</div>
 <h3 id="used_tags">used_tags</h3>
 
-```php
-public  array$used_tags = array()
-```
+public  array $used_tags = array()
 <div class="details">
 <p>optional log of tag/attributes</p></div>
 
@@ -320,9 +294,7 @@ public  array$used_tags = array()
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_template.php at line 83</div>
 <h3 id="variable_filters">variable_filters</h3>
 
-```php
-public  array$variable_filters = array()
-```
+public  array $variable_filters = array()
 <div class="details">
 <p>variable filters</p></div>
 
@@ -355,10 +327,7 @@ It load the required template resources and cacher plugins</p><dl>
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_template.php at line 140</div>
 <h3 id="mustCompile()">mustCompile</h3>
 
-```php
-public  boolean **mustCompile**()
-```
-<div class="details">
+public  boolean **mustCompile** ()<div class="details">
 <p>Returns if the current template must be compiled by the Smarty compiler</p><p>It does compare the timestamps of template source and the compiled templates and checks the force compile configuration</p><dl>
 <dt>Returns:</dt>
 <dd>true if the template must be compiled</dd>
@@ -370,10 +339,7 @@ public  boolean **mustCompile**()
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_template.php at line 162</div>
 <h3 id="compileTemplateSource()">compileTemplateSource</h3>
 
-```php
-public  void **compileTemplateSource**()
-```
-<div class="details">
+public  void **compileTemplateSource** ()<div class="details">
 <p>Compiles the template</p><p>If the template is not evaluated the compiled template is saved on disk</p></div>
 
 - - -
@@ -381,10 +347,7 @@ public  void **compileTemplateSource**()
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_template.php at line 215</div>
 <h3 id="writeCachedContent()">writeCachedContent</h3>
 
-```php
-public  bool **writeCachedContent**(mixed content)
-```
-<div class="details">
+public  bool **writeCachedContent** (mixed content)<div class="details">
 <p>Writes the cached template output</p></div>
 
 - - -
@@ -392,10 +355,7 @@ public  bool **writeCachedContent**(mixed content)
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_template.php at line 243</div>
 <h3 id="getSubTemplate()">getSubTemplate</h3>
 
-```php
-public  void **getSubTemplate**(string template, mixed cache_id, mixed compile_id, integer caching, integer cache_lifetime, array vars, int parent_scope, mixed data)
-```
-<div class="details">
+public  void **getSubTemplate** (string template, mixed cache_id, mixed compile_id, integer caching, integer cache_lifetime, array vars, int parent_scope, mixed data)<div class="details">
 <p>Template code runtime function to get subtemplate content</p><dl>
 <dt>Parameters:</dt>
 <dd>template - the resource handle of the template file</dd>
@@ -415,10 +375,7 @@ public  void **getSubTemplate**(string template, mixed cache_id, mixed compile_i
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_template.php at line 299</div>
 <h3 id="setupInlineSubTemplate()">setupInlineSubTemplate</h3>
 
-```php
-public  void **setupInlineSubTemplate**(string template, mixed cache_id, mixed compile_id, integer caching, integer cache_lifetime, array vars, int parent_scope, string hash, mixed data)
-```
-<div class="details">
+public  void **setupInlineSubTemplate** (string template, mixed cache_id, mixed compile_id, integer caching, integer cache_lifetime, array vars, int parent_scope, string hash, mixed data)<div class="details">
 <p>Template code runtime function to set up an inline subtemplate</p><dl>
 <dt>Parameters:</dt>
 <dd>template - the resource handle of the template file</dd>
@@ -439,10 +396,7 @@ public  void **setupInlineSubTemplate**(string template, mixed cache_id, mixed c
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_template.php at line 333</div>
 <h3 id="createTemplateCodeFrame()">createTemplateCodeFrame</h3>
 
-```php
-public  string **createTemplateCodeFrame**(string content, bool cache)
-```
-<div class="details">
+public  string **createTemplateCodeFrame** (string content, bool cache)<div class="details">
 <p>Create code frame for compiled and cached templates</p><dl>
 <dt>Parameters:</dt>
 <dd>content - optional template content</dd>
@@ -455,10 +409,7 @@ public  string **createTemplateCodeFrame**(string content, bool cache)
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_template.php at line 415</div>
 <h3 id="decodeProperties()">decodeProperties</h3>
 
-```php
-public  bool **decodeProperties**(array properties, bool cache)
-```
-<div class="details">
+public  bool **decodeProperties** (array properties, bool cache)<div class="details">
 <p>This function is executed automatically when a compiled or cached template file is included</p><p>- Decode saved properties from compiled template and cache files
 - Check if compiled or cache file is valid</p><dl>
 <dt>Parameters:</dt>
@@ -474,10 +425,7 @@ public  bool **decodeProperties**(array properties, bool cache)
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_template.php at line 476</div>
 <h3 id="createLocalArrayVariable()">createLocalArrayVariable</h3>
 
-```php
-public  void **createLocalArrayVariable**(string tpl_var, bool nocache, int scope)
-```
-<div class="details">
+public  void **createLocalArrayVariable** (string tpl_var, bool nocache, int scope)<div class="details">
 <p>Template code runtime function to create a local Smarty variable for array assignments</p><dl>
 <dt>Parameters:</dt>
 <dd>tpl_var - tempate variable name</dd>
@@ -491,10 +439,7 @@ public  void **createLocalArrayVariable**(string tpl_var, bool nocache, int scop
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_template.php at line 497</div>
 <h3 id="getScope()">getScope</h3>
 
-```php
-public  array **getScope**(int scope)
-```
-<div class="details">
+public  array **getScope** (int scope)<div class="details">
 <p>Template code runtime function to get pointer to template variable array of requested scope</p><dl>
 <dt>Parameters:</dt>
 <dd>scope - requested variable scope</dd>
@@ -508,10 +453,7 @@ public  array **getScope**(int scope)
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_template.php at line 520</div>
 <h3 id="getScopePointer()">getScopePointer</h3>
 
-```php
-public  mixed **getScopePointer**(int scope)
-```
-<div class="details">
+public  mixed **getScopePointer** (int scope)<div class="details">
 <p>Get parent or root of template parent chain</p><dl>
 <dt>Parameters:</dt>
 <dd>scope - pqrent or root scope</dd>
@@ -525,10 +467,7 @@ public  mixed **getScopePointer**(int scope)
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_template.php at line 568</div>
 <h3 id="capture_error()">capture_error</h3>
 
-```php
-public  void **capture_error**()
-```
-<div class="details">
+public  void **capture_error** ()<div class="details">
 <p>runtime error not matching capture tags</p></div>
 
 - - -
@@ -536,10 +475,7 @@ public  void **capture_error**()
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_template.php at line 579</div>
 <h3 id="clearCache()">clearCache</h3>
 
-```php
-public  integer **clearCache**(integer exp_time)
-```
-<div class="details">
+public  integer **clearCache** (integer exp_time)<div class="details">
 <p>Empty cache for this template</p><dl>
 <dt>Parameters:</dt>
 <dd>exp_time - expiration time</dd>

@@ -1,3 +1,4 @@
+
 - - -
 
 **Doctrine\Common\Cache\Cache**
@@ -27,17 +28,18 @@
 <dd>Roman Borschel <roman@code-factory.org></dd>
 <dd>Fabio B. Silva <fabio.bat.silva@gmail.com></dd>
 </dl>
+
 - - -
 
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type"> boolean</td>
+<td class="type">  boolean</td>
 <td class="description"><p class="name"><a href="#delete">delete</a>(string id)</p><p class="description">Deletes a cache entry.</p></td>
 </tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#getStats">getStats</a>()</p><p class="description">Retrieves cached information from data storeThe server's statistics array has the following values:- <b>hits</b>
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#getstats">getStats</a>()</p><p class="description">Retrieves cached information from data storeThe server's statistics array has the following values:- <b>hits</b>
 Number of keys that have been requested and found present.
 </p></td>
 </tr>
@@ -47,10 +49,7 @@ Number of keys that have been requested and found present.
 <div class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\Cache.php at line 46</div>
 <h3 id="delete()">delete</h3>
 
-```php
-public  boolean **delete**(string id)
-```
-<div class="details">
+public  boolean **delete** (string id)<div class="details">
 <p>Deletes a cache entry.</p><dl>
 <dt>Parameters:</dt>
 <dd>id - cache id</dd>
@@ -64,10 +63,7 @@ public  boolean **delete**(string id)
 <div class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\Cache.php at line 71</div>
 <h3 id="getStats()">getStats</h3>
 
-```php
-public  void **getStats**()
-```
-<div class="details">
+public  void **getStats** ()<div class="details">
 <p>Retrieves cached information from data store</p><p>The server's statistics array has the following values:</p><p>- <b>hits</b>
 Number of keys that have been requested and found present.</p><p>- <b>misses</b>
 Number of items that have been requested and not found.</p><p>- <b>uptime</b>

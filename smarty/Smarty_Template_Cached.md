@@ -1,3 +1,4 @@
+
 - - -
 
 **Smarty\Smarty_Template_Cached**
@@ -19,6 +20,7 @@
 <dt>Author:</dt>
 <dd>Rodney Rehm</dd>
 </dl>
+
 - - -
 
 <table id="summary_field">
@@ -84,7 +86,7 @@
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type"> boolean</td>
+<td class="type">  boolean</td>
 <td class="description"><p class="name"><a href="#write">write</a>(<a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> _template, string content)</p><p class="description">Write this cache object to handler</p></td>
 </tr>
 </table>
@@ -93,9 +95,7 @@
 <div class="location">framework\libs\smarty\sysplugins\smarty_cacheresource.php at line 258</div>
 <h3 id="cache_id">cache_id</h3>
 
-```php
-public  string$cache_id = null
-```
+public  string $cache_id = null
 <div class="details">
 <p>Template Cache Id (Smarty_Internal_Template::$cache_id)</p></div>
 
@@ -104,9 +104,7 @@ public  string$cache_id = null
 <div class="location">framework\libs\smarty\sysplugins\smarty_cacheresource.php at line 252</div>
 <h3 id="compile_id">compile_id</h3>
 
-```php
-public  string$compile_id = null
-```
+public  string $compile_id = null
 <div class="details">
 <p>Template Compile Id (Smarty_Internal_Template::$compile_id)</p></div>
 
@@ -115,9 +113,7 @@ public  string$compile_id = null
 <div class="location">framework\libs\smarty\sysplugins\smarty_cacheresource.php at line 216</div>
 <h3 id="content">content</h3>
 
-```php
-public  string$content = null
-```
+public  string $content = null
 <div class="details">
 <p>Source Content</p></div>
 
@@ -126,9 +122,7 @@ public  string$content = null
 <div class="location">framework\libs\smarty\sysplugins\smarty_cacheresource.php at line 228</div>
 <h3 id="exists">exists</h3>
 
-```php
-public  boolean$exists = false
-```
+public  boolean $exists = false
 <div class="details">
 <p>Source Existance</p></div>
 
@@ -137,9 +131,7 @@ public  boolean$exists = false
 <div class="location">framework\libs\smarty\sysplugins\smarty_cacheresource.php at line 210</div>
 <h3 id="filepath">filepath</h3>
 
-```php
-public  string$filepath = false
-```
+public  string $filepath = false
 <div class="details">
 <p>Source Filepath</p></div>
 
@@ -148,9 +140,7 @@ public  string$filepath = false
 <div class="location">framework\libs\smarty\sysplugins\smarty_cacheresource.php at line 246</div>
 <h3 id="handler">handler</h3>
 
-```php
-public  <a href="../smarty/smarty_cacheresource.html">Smarty_CacheResource</a>$handler = null
-```
+public  <a href="../smarty/smarty_cacheresource.html">Smarty_CacheResource</a> $handler = null
 <div class="details">
 <p>CacheResource Handler</p></div>
 
@@ -159,9 +149,7 @@ public  <a href="../smarty/smarty_cacheresource.html">Smarty_CacheResource</a>$h
 <div class="location">framework\libs\smarty\sysplugins\smarty_cacheresource.php at line 270</div>
 <h3 id="is_locked">is_locked</h3>
 
-```php
-public  bool$is_locked = false
-```
+public  bool $is_locked = false
 <div class="details">
 <p>flag that cache is locked by this instance</p></div>
 
@@ -170,9 +158,7 @@ public  bool$is_locked = false
 <div class="location">framework\libs\smarty\sysplugins\smarty_cacheresource.php at line 264</div>
 <h3 id="lock_id">lock_id</h3>
 
-```php
-public  string$lock_id = null
-```
+public  string $lock_id = null
 <div class="details">
 <p>Id for cache locking</p></div>
 
@@ -181,9 +167,7 @@ public  string$lock_id = null
 <div class="location">framework\libs\smarty\sysplugins\smarty_cacheresource.php at line 240</div>
 <h3 id="processed">processed</h3>
 
-```php
-public  boolean$processed = false
-```
+public  boolean $processed = false
 <div class="details">
 <p>Cache was processed</p></div>
 
@@ -192,9 +176,7 @@ public  boolean$processed = false
 <div class="location">framework\libs\smarty\sysplugins\smarty_cacheresource.php at line 276</div>
 <h3 id="source">source</h3>
 
-```php
-public  <a href="../smarty/smarty_template_source.html">Smarty_Template_Source</a>$source = null
-```
+public  <a href="../smarty/smarty_template_source.html">Smarty_Template_Source</a> $source = null
 <div class="details">
 <p>Source Object</p></div>
 
@@ -203,9 +185,7 @@ public  <a href="../smarty/smarty_template_source.html">Smarty_Template_Source</
 <div class="location">framework\libs\smarty\sysplugins\smarty_cacheresource.php at line 222</div>
 <h3 id="timestamp">timestamp</h3>
 
-```php
-public  integer$timestamp = false
-```
+public  integer $timestamp = false
 <div class="details">
 <p>Source Timestamp</p></div>
 
@@ -214,9 +194,7 @@ public  integer$timestamp = false
 <div class="location">framework\libs\smarty\sysplugins\smarty_cacheresource.php at line 234</div>
 <h3 id="valid">valid</h3>
 
-```php
-public  boolean$valid = false
-```
+public  boolean $valid = false
 <div class="details">
 <p>Cache Is Valid</p></div>
 
@@ -242,10 +220,7 @@ public  void **__construct**(<a href="../smarty/smarty_internal_template.html">S
 <div class="location">framework\libs\smarty\sysplugins\smarty_cacheresource.php at line 362</div>
 <h3 id="write()">write</h3>
 
-```php
-public  boolean **write**(<a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> _template, string content)
-```
-<div class="details">
+public  boolean **write** (<a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> _template, string content)<div class="details">
 <p>Write this cache object to handler</p><dl>
 <dt>Parameters:</dt>
 <dd>_template - template object</dd>

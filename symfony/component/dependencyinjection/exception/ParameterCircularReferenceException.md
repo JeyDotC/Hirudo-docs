@@ -1,3 +1,4 @@
+
 - - -
 
 **Symfony\Component\DependencyInjection\Exception\ParameterCircularReferenceException**
@@ -22,6 +23,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/comp
 <dt>Author:</dt>
 <dd>Fabien Potencier <fabien@symfony.com></dd>
 </dl>
+
 - - -
 
 <table id="summary_constructor">
@@ -35,8 +37,8 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/comp
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#getParameters">getParameters</a>()</p></td>
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#getparameters">getParameters</a>()</p></td>
 </tr>
 </table>
 
@@ -56,10 +58,7 @@ public  void **__construct**(mixed parameters)
 <div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Exception\ParameterCircularReferenceException.php at line 30</div>
 <h3 id="getParameters()">getParameters</h3>
 
-```php
-public  void **getParameters**()
-```
-<div class="details">
+public  void **getParameters** ()<div class="details">
 </div>
 
 - - -

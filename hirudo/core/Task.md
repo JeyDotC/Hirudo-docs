@@ -1,3 +1,4 @@
+
 - - -
 
 **Hirudo\Core\Task**
@@ -19,6 +20,7 @@ resolve them.</p></div>
 <dt>Author:</dt>
 <dd>JeyDotC</dd>
 </dl>
+
 - - -
 
 <table id="summary_constructor">
@@ -32,44 +34,44 @@ resolve them.</p></div>
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type"> string</td>
-<td class="description"><p class="name"><a href="#getName">getName</a>()</p><p class="description">Gets the method name.</p></td>
+<td class="type">  string</td>
+<td class="description"><p class="name"><a href="#getname">getName</a>()</p><p class="description">Gets the method name.</p></td>
 </tr>
 <tr>
-<td class="type"> array<\ReflectionParameter></td>
-<td class="description"><p class="name"><a href="#getGetParams">getGetParams</a>()</p><p class="description">Gets the method's parameters.</p></td>
+<td class="type">  array<\ReflectionParameter></td>
+<td class="description"><p class="name"><a href="#getgetparams">getGetParams</a>()</p><p class="description">Gets the method's parameters.</p></td>
 </tr>
 <tr>
-<td class="type"> array<\ReflectionParameter></td>
-<td class="description"><p class="name"><a href="#getPostParams">getPostParams</a>()</p><p class="description">Gets the method's parameters that should be resolved from POST.</p></td>
+<td class="type">  array<\ReflectionParameter></td>
+<td class="description"><p class="name"><a href="#getpostparams">getPostParams</a>()</p><p class="description">Gets the method's parameters that should be resolved from POST.</p></td>
 </tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#setParamValue">setParamValue</a>(string paramName, mixed value)</p><p class="description">Sets the value of a method's param.</p></td>
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#setparamvalue">setParamValue</a>(string paramName, mixed value)</p><p class="description">Sets the value of a method's param.</p></td>
 </tr>
 <tr>
-<td class="type"> type</td>
-<td class="description"><p class="name"><a href="#getParamValue">getParamValue</a>(string paramName)</p><p class="description">Gets the value of a method's param.</p></td>
+<td class="type">  type</td>
+<td class="description"><p class="name"><a href="#getparamvalue">getParamValue</a>(string paramName)</p><p class="description">Gets the value of a method's param.</p></td>
 </tr>
 <tr>
-<td class="type"> void</td>
+<td class="type">  void</td>
 <td class="description"><p class="name"><a href="#invoke">invoke</a>()</p><p class="description">Executes the task.</p></td>
 </tr>
 <tr>
-<td class="type"> array<mixed></td>
-<td class="description"><p class="name"><a href="#getTaskAnnotations">getTaskAnnotations</a>()</p><p class="description">Gets the method's meta data.</p></td>
+<td class="type">  array<mixed></td>
+<td class="description"><p class="name"><a href="#gettaskannotations">getTaskAnnotations</a>()</p><p class="description">Gets the method's meta data.</p></td>
 </tr>
 <tr>
-<td class="type"> mixed</td>
-<td class="description"><p class="name"><a href="#getTaskAnnotation">getTaskAnnotation</a>(string annotationName)</p><p class="description">Gets a single annotation from the merhod.</p></td>
+<td class="type">  mixed</td>
+<td class="description"><p class="name"><a href="#gettaskannotation">getTaskAnnotation</a>(string annotationName)</p><p class="description">Gets a single annotation from the merhod.</p></td>
 </tr>
 <tr>
-<td class="type"> <a href="../../hirudo/core/module.html">Module</a></td>
-<td class="description"><p class="name"><a href="#getModule">getModule</a>()</p><p class="description">Gets the module that owns the method to be executed.</p></td>
+<td class="type">  <a href="../../hirudo/core/module.html">Module</a></td>
+<td class="description"><p class="name"><a href="#getmodule">getModule</a>()</p><p class="description">Gets the module that owns the method to be executed.</p></td>
 </tr>
 <tr>
-<td class="type"> boolean</td>
-<td class="description"><p class="name"><a href="#isPostOnly">isPostOnly</a>()</p><p class="description">Says if the method must be executed only if the request method is POST</p></td>
+<td class="type">  boolean</td>
+<td class="description"><p class="name"><a href="#ispostonly">isPostOnly</a>()</p><p class="description">Says if the method must be executed only if the request method is POST</p></td>
 </tr>
 </table>
 
@@ -94,10 +96,7 @@ public  void **__construct**(\ReflectionMethod reflectionMethod, <a href="../../
 <div class="location">framework\hirudo\Hirudo\Core\Task.php at line 89</div>
 <h3 id="getName()">getName</h3>
 
-```php
-public  string **getName**()
-```
-<div class="details">
+public  string **getName** ()<div class="details">
 <p>Gets the method name.</p></div>
 
 - - -
@@ -105,10 +104,7 @@ public  string **getName**()
 <div class="location">framework\hirudo\Hirudo\Core\Task.php at line 98</div>
 <h3 id="getGetParams()">getGetParams</h3>
 
-```php
-public  array<\ReflectionParameter> **getGetParams**()
-```
-<div class="details">
+public  array<\ReflectionParameter> **getGetParams** ()<div class="details">
 <p>Gets the method's parameters.</p></div>
 
 - - -
@@ -116,10 +112,7 @@ public  array<\ReflectionParameter> **getGetParams**()
 <div class="location">framework\hirudo\Hirudo\Core\Task.php at line 107</div>
 <h3 id="getPostParams()">getPostParams</h3>
 
-```php
-public  array<\ReflectionParameter> **getPostParams**()
-```
-<div class="details">
+public  array<\ReflectionParameter> **getPostParams** ()<div class="details">
 <p>Gets the method's parameters that should be resolved from POST.</p></div>
 
 - - -
@@ -127,10 +120,7 @@ public  array<\ReflectionParameter> **getPostParams**()
 <div class="location">framework\hirudo\Hirudo\Core\Task.php at line 117</div>
 <h3 id="setParamValue()">setParamValue</h3>
 
-```php
-public  void **setParamValue**(string paramName, mixed value)
-```
-<div class="details">
+public  void **setParamValue** (string paramName, mixed value)<div class="details">
 <p>Sets the value of a method's param.</p><dl>
 <dt>Parameters:</dt>
 <dd>paramName - The parameter name.</dd>
@@ -143,10 +133,7 @@ public  void **setParamValue**(string paramName, mixed value)
 <div class="location">framework\hirudo\Hirudo\Core\Task.php at line 127</div>
 <h3 id="getParamValue()">getParamValue</h3>
 
-```php
-public  type **getParamValue**(string paramName)
-```
-<div class="details">
+public  type **getParamValue** (string paramName)<div class="details">
 <p>Gets the value of a method's param.</p></div>
 
 - - -
@@ -154,10 +141,7 @@ public  type **getParamValue**(string paramName)
 <div class="location">framework\hirudo\Hirudo\Core\Task.php at line 134</div>
 <h3 id="invoke()">invoke</h3>
 
-```php
-public  void **invoke**()
-```
-<div class="details">
+public  void **invoke** ()<div class="details">
 <p>Executes the task.</p></div>
 
 - - -
@@ -165,10 +149,7 @@ public  void **invoke**()
 <div class="location">framework\hirudo\Hirudo\Core\Task.php at line 143</div>
 <h3 id="getTaskAnnotations()">getTaskAnnotations</h3>
 
-```php
-public  array<mixed> **getTaskAnnotations**()
-```
-<div class="details">
+public  array<mixed> **getTaskAnnotations** ()<div class="details">
 <p>Gets the method's meta data.</p><dl>
 <dt>Returns:</dt>
 <dd>An annotations list.</dd>
@@ -180,10 +161,7 @@ public  array<mixed> **getTaskAnnotations**()
 <div class="location">framework\hirudo\Hirudo\Core\Task.php at line 153</div>
 <h3 id="getTaskAnnotation()">getTaskAnnotation</h3>
 
-```php
-public  mixed **getTaskAnnotation**(string annotationName)
-```
-<div class="details">
+public  mixed **getTaskAnnotation** (string annotationName)<div class="details">
 <p>Gets a single annotation from the merhod.</p><dl>
 <dt>Parameters:</dt>
 <dd>annotationName - The fully qualified annotation class or annotation id.</dd>
@@ -197,10 +175,7 @@ public  mixed **getTaskAnnotation**(string annotationName)
 <div class="location">framework\hirudo\Hirudo\Core\Task.php at line 162</div>
 <h3 id="getModule()">getModule</h3>
 
-```php
-public  <a href="../../hirudo/core/module.html">Module</a> **getModule**()
-```
-<div class="details">
+public  <a href="../../hirudo/core/module.html">Module</a> **getModule** ()<div class="details">
 <p>Gets the module that owns the method to be executed.</p></div>
 
 - - -
@@ -208,10 +183,7 @@ public  <a href="../../hirudo/core/module.html">Module</a> **getModule**()
 <div class="location">framework\hirudo\Hirudo\Core\Task.php at line 171</div>
 <h3 id="isPostOnly()">isPostOnly</h3>
 
-```php
-public  boolean **isPostOnly**()
-```
-<div class="details">
+public  boolean **isPostOnly** ()<div class="details">
 <p>Says if the method must be executed only if the request method is POST</p><dl>
 <dt>Returns:</dt>
 <dd>True if the method must be executed only if the request method is POST</dd>

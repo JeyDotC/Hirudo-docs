@@ -1,3 +1,4 @@
+
 - - -
 
 **Smarty\_smarty_doublequoted**
@@ -22,6 +23,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/_smar
 <dd>Compiler</dd>
 <dt>Ignore.</dt>
 </dl>
+
 - - -
 
 <table class="inherit">
@@ -39,11 +41,11 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/_smar
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type"> void</td>
+<td class="type">  void</td>
 <td class="description"><p class="name"><a href="#append_subtree">append_subtree</a>(<a href="../smarty/_smarty_parsetree.html">_smarty_parsetree</a> subtree)</p><p class="description">Append buffer to subtree</p></td>
 </tr>
 <tr>
-<td class="type"> string</td>
+<td class="type">  string</td>
 <td class="description"><p class="name"><a href="#to_smarty_php">to_smarty_php</a>()</p><p class="description">Merge subtree buffer content together</p></td>
 </tr>
 </table>
@@ -73,10 +75,7 @@ public  void **__construct**(object parser, <a href="../smarty/_smarty_parsetree
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_parsetree.php at line 155</div>
 <h3 id="append_subtree()">append_subtree</h3>
 
-```php
-public  void **append_subtree**(<a href="../smarty/_smarty_parsetree.html">_smarty_parsetree</a> subtree)
-```
-<div class="details">
+public  void **append_subtree** (<a href="../smarty/_smarty_parsetree.html">_smarty_parsetree</a> subtree)<div class="details">
 <p>Append buffer to subtree</p><dl>
 <dt>Parameters:</dt>
 <dd>subtree - parsetree buffer</dd>
@@ -88,10 +87,7 @@ public  void **append_subtree**(<a href="../smarty/_smarty_parsetree.html">_smar
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_parsetree.php at line 179</div>
 <h3 id="to_smarty_php()">to_smarty_php</h3>
 
-```php
-public  string **to_smarty_php**()
-```
-<div class="details">
+public  string **to_smarty_php** ()<div class="details">
 <p>Merge subtree buffer content together</p><dl>
 <dt>Returns:</dt>
 <dd>compiled template code</dd>

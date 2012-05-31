@@ -1,3 +1,4 @@
+
 - - -
 
 **Hirudo\Core\Annotations\Import**
@@ -21,13 +22,14 @@ to inject a dependency.</p></div>
 <dt>Target({"METHOD",:</dt>
 <dd>"PROPERTY"})</dd>
 </dl>
+
 - - -
 
 <table id="summary_field">
 <tr><th colspan="2">Field Summary</th></tr>
 <tr>
 <td class="type"> string The fully qualified name of the class to be imported.</td>
-<td class="description"><p class="name"><a href="#className">$className</a></p><p class="description">A dependency class name. </p></td>
+<td class="description"><p class="name"><a href="#classname">$className</a></p><p class="description">A dependency class name. </p></td>
 </tr>
 <tr>
 <td class="type"> string</td>
@@ -40,9 +42,7 @@ to inject a dependency.</p></div>
 <div class="location">framework\hirudo\Hirudo\Core\Annotations\Import.php at line 64</div>
 <h3 id="className">className</h3>
 
-```php
-public  string The fully qualified name of the class to be imported.$className = null
-```
+public  string The fully qualified name of the class to be imported. $className = null
 <div class="details">
 <p>A dependency class name. This is useful if the dependency class is instantiable
 and direct instantiation is acceptable. To import interfaces, abstract
@@ -55,9 +55,7 @@ class with the @Export annotation.</p></div>
 <div class="location">framework\hirudo\Hirudo\Core\Annotations\Import.php at line 53</div>
 <h3 id="id">id</h3>
 
-```php
-public  string$id = null
-```
+public  string $id = null
 <div class="details">
 <p>The id of the dependency to be injected.</p><p>If this attribute is null, the dependency injector shall determine the class
 of the requested object and create a new instance to inject it. The way the class is

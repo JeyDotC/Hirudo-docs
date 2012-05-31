@@ -1,3 +1,4 @@
+
 - - -
 
 **Smarty\Smarty_Internal_Compile_Private_Registered_Function**
@@ -21,6 +22,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 <dt>Subpackage:</dt>
 <dd>Compiler</dd>
 </dl>
+
 - - -
 
 <table id="summary_field">
@@ -38,7 +40,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type"> string</td>
+<td class="type">  string</td>
 <td class="description"><p class="name"><a href="#compile">compile</a>(array args, object compiler, array parameter, string tag)</p><p class="description">Compiles code for the execution of a registered function</p></td>
 </tr>
 </table>
@@ -51,9 +53,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_private_registered_function.php at line 26</div>
 <h3 id="optional_attributes">optional_attributes</h3>
 
-```php
-public  array$optional_attributes = array('_any')
-```
+public  array $optional_attributes = array('_any')
 <div class="details">
 <p>Attribute definition: Overwrites base class.</p><dl>
 <dt>See Also:</dt>
@@ -67,10 +67,7 @@ public  array$optional_attributes = array('_any')
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_private_registered_function.php at line 37</div>
 <h3 id="compile()">compile</h3>
 
-```php
-public  string **compile**(array args, object compiler, array parameter, string tag)
-```
-<div class="details">
+public  string **compile** (array args, object compiler, array parameter, string tag)<div class="details">
 <p>Compiles code for the execution of a registered function</p><dl>
 <dt>Parameters:</dt>
 <dd>args - array with attributes from parser</dd>

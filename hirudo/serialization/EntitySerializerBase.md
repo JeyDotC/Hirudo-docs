@@ -1,3 +1,4 @@
+
 - - -
 
 **Hirudo\Serialization\EntitySerializerBase**
@@ -18,6 +19,7 @@
 
 <div class="comment" id="overview_description"><p>A base class for entity serialization.</p></div>
 
+
 - - -
 
 <table id="summary_constructor">
@@ -31,12 +33,12 @@
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type"> string</td>
+<td class="type">  string</td>
 <td class="description"><p class="name"><a href="#serialize">serialize</a>(mixed entity)</p><p class="description">Serializes an entity into a string.</p></td>
 </tr>
 <tr>
-<td class="type">protected abstract  string</td>
-<td class="description"><p class="name"><a href="#doSerialize">doSerialize</a>(array array)</p><p class="description">This is the abstract method to be implemented by any serializer, it receives
+<td class="type"> protected abstract  string</td>
+<td class="description"><p class="name"><a href="#doserialize">doSerialize</a>(array array)</p><p class="description">This is the abstract method to be implemented by any serializer, it receives
 an ssociative array representing the entity making it easier to create the
 string representation.</p></td>
 </tr>
@@ -58,10 +60,7 @@ public  void **__construct**()
 <div class="location">framework\hirudo\Hirudo\Serialization\EntitySerializerBase.php at line 46</div>
 <h3 id="serialize()">serialize</h3>
 
-```php
-public  string **serialize**(mixed entity)
-```
-<div class="details">
+public  string **serialize** (mixed entity)<div class="details">
 <p>Serializes an entity into a string.</p><dl>
 <dt>Parameters:</dt>
 <dd>entity - The entity to be serialized.</dd>
@@ -75,10 +74,7 @@ public  string **serialize**(mixed entity)
 <div class="location">framework\hirudo\Hirudo\Serialization\EntitySerializerBase.php at line 60</div>
 <h3 id="doSerialize()">doSerialize</h3>
 
-```php
-protected abstract  string **doSerialize**(array array)
-```
-<div class="details">
+protected abstract  string **doSerialize** (array array)<div class="details">
 <p>This is the abstract method to be implemented by any serializer, it receives
 an ssociative array representing the entity making it easier to create the
 string representation.</p><dl>

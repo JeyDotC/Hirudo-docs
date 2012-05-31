@@ -1,3 +1,4 @@
+
 - - -
 
 **Smarty\Smarty_Internal_Nocache_Insert**
@@ -17,12 +18,13 @@
 <dt>Subpackage:</dt>
 <dd>Compiler</dd>
 </dl>
+
 - - -
 
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type">static  string</td>
+<td class="type"> static  string</td>
 <td class="description"><p class="name"><a href="#compile">compile</a>(string _function, array _attr, <a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> _template, string _script, string _assign)</p><p class="description">Compiles code for the {insert} tag into cache file</p></td>
 </tr>
 </table>
@@ -31,10 +33,7 @@
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_nocache_insert.php at line 30</div>
 <h3 id="compile()">compile</h3>
 
-```php
-public static  string **compile**(string _function, array _attr, <a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> _template, string _script, string _assign)
-```
-<div class="details">
+public static  string **compile** (string _function, array _attr, <a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> _template, string _script, string _assign)<div class="details">
 <p>Compiles code for the {insert} tag into cache file</p><dl>
 <dt>Parameters:</dt>
 <dd>_function - insert function name</dd>

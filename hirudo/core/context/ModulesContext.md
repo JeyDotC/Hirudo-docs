@@ -1,3 +1,4 @@
+
 - - -
 
 **Hirudo\Core\Context\ModulesContext**
@@ -18,86 +19,87 @@ the Hirudo abstract classes.</p></div>
 <dt>Author:</dt>
 <dd>JeyDotC</dd>
 </dl>
+
 - - -
 
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type"> <a href="../../../hirudo/core/context/modulecall.html">ModuleCall</a></td>
-<td class="description"><p class="name"><a href="#getCurrentCall">getCurrentCall</a>()</p><p class="description">Gets the ModuleCall that is being executed.</p></td>
+<td class="type">  <a href="../../../hirudo/core/context/modulecall.html">ModuleCall</a></td>
+<td class="description"><p class="name"><a href="#getcurrentcall">getCurrentCall</a>()</p><p class="description">Gets the ModuleCall that is being executed.</p></td>
 </tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#setCurrentCall">setCurrentCall</a>(<a href="../../../hirudo/core/context/modulecall.html">ModuleCall</a> currentCall)</p><p class="description"></p></td>
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#setcurrentcall">setCurrentCall</a>(<a href="../../../hirudo/core/context/modulecall.html">ModuleCall</a> currentCall)</p><p class="description"></p></td>
 </tr>
 <tr>
-<td class="type">static  <a href="../../../hirudo/core/context/modulescontext.html">ModulesContext</a></td>
+<td class="type"> static  <a href="../../../hirudo/core/context/modulescontext.html">ModulesContext</a></td>
 <td class="description"><p class="name"><a href="#instance">instance</a>()</p><p class="description">Gets the current ModulesContext instance. </p></td>
 </tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#setUser">setUser</a>(<a href="../../../hirudo/core/context/principal.html">Principal</a> user)</p><p class="description"></p></td>
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#setuser">setUser</a>(<a href="../../../hirudo/core/context/principal.html">Principal</a> user)</p><p class="description"></p></td>
 </tr>
 <tr>
-<td class="type"> <a href="../../../hirudo/core/context/principal.html">Principal</a></td>
-<td class="description"><p class="name"><a href="#getCurrentUser">getCurrentUser</a>()</p><p class="description">Gets the current user which is stored in session.</p></td>
+<td class="type">  <a href="../../../hirudo/core/context/principal.html">Principal</a></td>
+<td class="description"><p class="name"><a href="#getcurrentuser">getCurrentUser</a>()</p><p class="description">Gets the current user which is stored in session.</p></td>
 </tr>
 <tr>
-<td class="type"> Session</td>
-<td class="description"><p class="name"><a href="#getSession">getSession</a>()</p><p class="description">Gets the current session.</p></td>
+<td class="type">  Session</td>
+<td class="description"><p class="name"><a href="#getsession">getSession</a>()</p><p class="description">Gets the current session.</p></td>
 </tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#setSession">setSession</a>(Session session)</p><p class="description"></p></td>
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#setsession">setSession</a>(Session session)</p><p class="description"></p></td>
 </tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#setRequest">setRequest</a>(<a href="../../../hirudo/core/context/request.html">Request</a> request)</p><p class="description"></p></td>
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#setrequest">setRequest</a>(<a href="../../../hirudo/core/context/request.html">Request</a> request)</p><p class="description"></p></td>
 </tr>
 <tr>
-<td class="type"> <a href="../../../hirudo/core/context/request.html">Request</a></td>
-<td class="description"><p class="name"><a href="#getRequest">getRequest</a>()</p><p class="description">Gets the current request object.</p></td>
+<td class="type">  <a href="../../../hirudo/core/context/request.html">Request</a></td>
+<td class="description"><p class="name"><a href="#getrequest">getRequest</a>()</p><p class="description">Gets the current request object.</p></td>
 </tr>
 <tr>
-<td class="type"> <a href="../../../hirudo/core/context/appconfig.html">AppConfig</a></td>
-<td class="description"><p class="name"><a href="#getConfig">getConfig</a>()</p><p class="description">Gets the current configuration object.</p></td>
+<td class="type">  <a href="../../../hirudo/core/context/appconfig.html">AppConfig</a></td>
+<td class="description"><p class="name"><a href="#getconfig">getConfig</a>()</p><p class="description">Gets the current configuration object.</p></td>
 </tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#setConfig">setConfig</a>(<a href="../../../hirudo/core/context/appconfig.html">AppConfig</a> config)</p><p class="description"></p></td>
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#setconfig">setConfig</a>(<a href="../../../hirudo/core/context/appconfig.html">AppConfig</a> config)</p><p class="description"></p></td>
 </tr>
 <tr>
-<td class="type"> <a href="../../../hirudo/core/context/routing.html">Routing</a></td>
-<td class="description"><p class="name"><a href="#getRouting">getRouting</a>()</p><p class="description">Gets the current implementation of the Routing class.
+<td class="type">  <a href="../../../hirudo/core/context/routing.html">Routing</a></td>
+<td class="description"><p class="name"><a href="#getrouting">getRouting</a>()</p><p class="description">Gets the current implementation of the Routing class.
 </p></td>
 </tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#setRouting">setRouting</a>(<a href="../../../hirudo/core/context/routing.html">Routing</a> routing)</p><p class="description"></p></td>
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#setrouting">setRouting</a>(<a href="../../../hirudo/core/context/routing.html">Routing</a> routing)</p><p class="description"></p></td>
 </tr>
 <tr>
-<td class="type"> <a href="../../../hirudo/core/templatinginterface.html">TemplatingInterface</a></td>
-<td class="description"><p class="name"><a href="#getTemplating">getTemplating</a>()</p><p class="description">Gets the templating system object.</p></td>
+<td class="type">  <a href="../../../hirudo/core/templatinginterface.html">TemplatingInterface</a></td>
+<td class="description"><p class="name"><a href="#gettemplating">getTemplating</a>()</p><p class="description">Gets the templating system object.</p></td>
 </tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#setTemplating">setTemplating</a>(<a href="../../../hirudo/core/templatinginterface.html">TemplatingInterface</a> templating)</p><p class="description"></p></td>
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#settemplating">setTemplating</a>(<a href="../../../hirudo/core/templatinginterface.html">TemplatingInterface</a> templating)</p><p class="description"></p></td>
 </tr>
 <tr>
-<td class="type"> <a href="../../../hirudo/core/dependencyinjection/dependenciesmanager.html">DependenciesManager</a></td>
-<td class="description"><p class="name"><a href="#getDependenciesManager">getDependenciesManager</a>()</p><p class="description">Gets the current object responsible for the dependency injection.</p></td>
+<td class="type">  <a href="../../../hirudo/core/dependencyinjection/dependenciesmanager.html">DependenciesManager</a></td>
+<td class="description"><p class="name"><a href="#getdependenciesmanager">getDependenciesManager</a>()</p><p class="description">Gets the current object responsible for the dependency injection.</p></td>
 </tr>
 <tr>
-<td class="type"> <a href="../../../hirudo/core/context/assets.html">Assets</a></td>
-<td class="description"><p class="name"><a href="#getAssets">getAssets</a>()</p><p class="description">Gets the current assets management system.</p></td>
+<td class="type">  <a href="../../../hirudo/core/context/assets.html">Assets</a></td>
+<td class="description"><p class="name"><a href="#getassets">getAssets</a>()</p><p class="description">Gets the current assets management system.</p></td>
 </tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#setAssets">setAssets</a>(<a href="../../../hirudo/core/context/assets.html">Assets</a> assets)</p><p class="description"></p></td>
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#setassets">setAssets</a>(<a href="../../../hirudo/core/context/assets.html">Assets</a> assets)</p><p class="description"></p></td>
 </tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#setDependenciesManager">setDependenciesManager</a>(<a href="../../../hirudo/core/dependencyinjection/dependenciesmanager.html">DependenciesManager</a> dependenciesManager)</p></td>
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#setdependenciesmanager">setDependenciesManager</a>(<a href="../../../hirudo/core/dependencyinjection/dependenciesmanager.html">DependenciesManager</a> dependenciesManager)</p></td>
 </tr>
 </table>
 
@@ -105,10 +107,7 @@ the Hirudo abstract classes.</p></div>
 <div class="location">framework\hirudo\Hirudo\Core\Context\ModulesContext.php at line 68</div>
 <h3 id="getCurrentCall()">getCurrentCall</h3>
 
-```php
-public  <a href="../../../hirudo/core/context/modulecall.html">ModuleCall</a> **getCurrentCall**()
-```
-<div class="details">
+public  <a href="../../../hirudo/core/context/modulecall.html">ModuleCall</a> **getCurrentCall** ()<div class="details">
 <p>Gets the ModuleCall that is being executed.</p><dl>
 <dt>Returns:</dt>
 <dd>The current ModuleCall.</dd>
@@ -120,10 +119,7 @@ public  <a href="../../../hirudo/core/context/modulecall.html">ModuleCall</a> **
 <div class="location">framework\hirudo\Hirudo\Core\Context\ModulesContext.php at line 77</div>
 <h3 id="setCurrentCall()">setCurrentCall</h3>
 
-```php
-public  void **setCurrentCall**(<a href="../../../hirudo/core/context/modulecall.html">ModuleCall</a> currentCall)
-```
-<div class="details">
+public  void **setCurrentCall** (<a href="../../../hirudo/core/context/modulecall.html">ModuleCall</a> currentCall)<div class="details">
 <p></p></div>
 
 - - -
@@ -131,10 +127,7 @@ public  void **setCurrentCall**(<a href="../../../hirudo/core/context/modulecall
 <div class="location">framework\hirudo\Hirudo\Core\Context\ModulesContext.php at line 88</div>
 <h3 id="instance()">instance</h3>
 
-```php
-public static  <a href="../../../hirudo/core/context/modulescontext.html">ModulesContext</a> **instance**()
-```
-<div class="details">
+public static  <a href="../../../hirudo/core/context/modulescontext.html">ModulesContext</a> **instance** ()<div class="details">
 <p>Gets the current ModulesContext instance. Use this method to
 obtain a ModulesContext object that is actually holding the context
 instances.</p></div>
@@ -144,10 +137,7 @@ instances.</p></div>
 <div class="location">framework\hirudo\Hirudo\Core\Context\ModulesContext.php at line 102</div>
 <h3 id="setUser()">setUser</h3>
 
-```php
-public  void **setUser**(<a href="../../../hirudo/core/context/principal.html">Principal</a> user)
-```
-<div class="details">
+public  void **setUser** (<a href="../../../hirudo/core/context/principal.html">Principal</a> user)<div class="details">
 <p></p><dl>
 <dt>Import(id="principal").</dt>
 </dl>
@@ -158,10 +148,7 @@ public  void **setUser**(<a href="../../../hirudo/core/context/principal.html">P
 <div class="location">framework\hirudo\Hirudo\Core\Context\ModulesContext.php at line 111</div>
 <h3 id="getCurrentUser()">getCurrentUser</h3>
 
-```php
-public  <a href="../../../hirudo/core/context/principal.html">Principal</a> **getCurrentUser**()
-```
-<div class="details">
+public  <a href="../../../hirudo/core/context/principal.html">Principal</a> **getCurrentUser** ()<div class="details">
 <p>Gets the current user which is stored in session.</p></div>
 
 - - -
@@ -169,10 +156,7 @@ public  <a href="../../../hirudo/core/context/principal.html">Principal</a> **ge
 <div class="location">framework\hirudo\Hirudo\Core\Context\ModulesContext.php at line 120</div>
 <h3 id="getSession()">getSession</h3>
 
-```php
-public  Session **getSession**()
-```
-<div class="details">
+public  Session **getSession** ()<div class="details">
 <p>Gets the current session.</p></div>
 
 - - -
@@ -180,10 +164,7 @@ public  Session **getSession**()
 <div class="location">framework\hirudo\Hirudo\Core\Context\ModulesContext.php at line 128</div>
 <h3 id="setSession()">setSession</h3>
 
-```php
-public  void **setSession**(Session session)
-```
-<div class="details">
+public  void **setSession** (Session session)<div class="details">
 <p></p><dl>
 <dt>Import(id="session").</dt>
 </dl>
@@ -194,10 +175,7 @@ public  void **setSession**(Session session)
 <div class="location">framework\hirudo\Hirudo\Core\Context\ModulesContext.php at line 136</div>
 <h3 id="setRequest()">setRequest</h3>
 
-```php
-public  void **setRequest**(<a href="../../../hirudo/core/context/request.html">Request</a> request)
-```
-<div class="details">
+public  void **setRequest** (<a href="../../../hirudo/core/context/request.html">Request</a> request)<div class="details">
 <p></p><dl>
 <dt>Import(id="request").</dt>
 </dl>
@@ -208,10 +186,7 @@ public  void **setRequest**(<a href="../../../hirudo/core/context/request.html">
 <div class="location">framework\hirudo\Hirudo\Core\Context\ModulesContext.php at line 145</div>
 <h3 id="getRequest()">getRequest</h3>
 
-```php
-public  <a href="../../../hirudo/core/context/request.html">Request</a> **getRequest**()
-```
-<div class="details">
+public  <a href="../../../hirudo/core/context/request.html">Request</a> **getRequest** ()<div class="details">
 <p>Gets the current request object.</p></div>
 
 - - -
@@ -219,10 +194,7 @@ public  <a href="../../../hirudo/core/context/request.html">Request</a> **getReq
 <div class="location">framework\hirudo\Hirudo\Core\Context\ModulesContext.php at line 154</div>
 <h3 id="getConfig()">getConfig</h3>
 
-```php
-public  <a href="../../../hirudo/core/context/appconfig.html">AppConfig</a> **getConfig**()
-```
-<div class="details">
+public  <a href="../../../hirudo/core/context/appconfig.html">AppConfig</a> **getConfig** ()<div class="details">
 <p>Gets the current configuration object.</p></div>
 
 - - -
@@ -230,10 +202,7 @@ public  <a href="../../../hirudo/core/context/appconfig.html">AppConfig</a> **ge
 <div class="location">framework\hirudo\Hirudo\Core\Context\ModulesContext.php at line 163</div>
 <h3 id="setConfig()">setConfig</h3>
 
-```php
-public  void **setConfig**(<a href="../../../hirudo/core/context/appconfig.html">AppConfig</a> config)
-```
-<div class="details">
+public  void **setConfig** (<a href="../../../hirudo/core/context/appconfig.html">AppConfig</a> config)<div class="details">
 <p></p><dl>
 <dt>Import(id="config").</dt>
 </dl>
@@ -244,10 +213,7 @@ public  void **setConfig**(<a href="../../../hirudo/core/context/appconfig.html"
 <div class="location">framework\hirudo\Hirudo\Core\Context\ModulesContext.php at line 176</div>
 <h3 id="getRouting()">getRouting</h3>
 
-```php
-public  <a href="../../../hirudo/core/context/routing.html">Routing</a> **getRouting**()
-```
-<div class="details">
+public  <a href="../../../hirudo/core/context/routing.html">Routing</a> **getRouting** ()<div class="details">
 <p>Gets the current implementation of the Routing class.
 <strong>Note:</strong> The returned object is not bound to any module,
 so, the action() and moduleAction() methods will return the URL with the
@@ -259,10 +225,7 @@ you are getting the routing object fron this method.</p></div>
 <div class="location">framework\hirudo\Hirudo\Core\Context\ModulesContext.php at line 185</div>
 <h3 id="setRouting()">setRouting</h3>
 
-```php
-public  void **setRouting**(<a href="../../../hirudo/core/context/routing.html">Routing</a> routing)
-```
-<div class="details">
+public  void **setRouting** (<a href="../../../hirudo/core/context/routing.html">Routing</a> routing)<div class="details">
 <p></p><dl>
 <dt>Import(id="routing").</dt>
 </dl>
@@ -273,10 +236,7 @@ public  void **setRouting**(<a href="../../../hirudo/core/context/routing.html">
 <div class="location">framework\hirudo\Hirudo\Core\Context\ModulesContext.php at line 194</div>
 <h3 id="getTemplating()">getTemplating</h3>
 
-```php
-public  <a href="../../../hirudo/core/templatinginterface.html">TemplatingInterface</a> **getTemplating**()
-```
-<div class="details">
+public  <a href="../../../hirudo/core/templatinginterface.html">TemplatingInterface</a> **getTemplating** ()<div class="details">
 <p>Gets the templating system object.</p></div>
 
 - - -
@@ -284,10 +244,7 @@ public  <a href="../../../hirudo/core/templatinginterface.html">TemplatingInterf
 <div class="location">framework\hirudo\Hirudo\Core\Context\ModulesContext.php at line 203</div>
 <h3 id="setTemplating()">setTemplating</h3>
 
-```php
-public  void **setTemplating**(<a href="../../../hirudo/core/templatinginterface.html">TemplatingInterface</a> templating)
-```
-<div class="details">
+public  void **setTemplating** (<a href="../../../hirudo/core/templatinginterface.html">TemplatingInterface</a> templating)<div class="details">
 <p></p><dl>
 <dt>Import(id="templating").</dt>
 </dl>
@@ -298,10 +255,7 @@ public  void **setTemplating**(<a href="../../../hirudo/core/templatinginterface
 <div class="location">framework\hirudo\Hirudo\Core\Context\ModulesContext.php at line 212</div>
 <h3 id="getDependenciesManager()">getDependenciesManager</h3>
 
-```php
-public  <a href="../../../hirudo/core/dependencyinjection/dependenciesmanager.html">DependenciesManager</a> **getDependenciesManager**()
-```
-<div class="details">
+public  <a href="../../../hirudo/core/dependencyinjection/dependenciesmanager.html">DependenciesManager</a> **getDependenciesManager** ()<div class="details">
 <p>Gets the current object responsible for the dependency injection.</p></div>
 
 - - -
@@ -309,10 +263,7 @@ public  <a href="../../../hirudo/core/dependencyinjection/dependenciesmanager.ht
 <div class="location">framework\hirudo\Hirudo\Core\Context\ModulesContext.php at line 221</div>
 <h3 id="getAssets()">getAssets</h3>
 
-```php
-public  <a href="../../../hirudo/core/context/assets.html">Assets</a> **getAssets**()
-```
-<div class="details">
+public  <a href="../../../hirudo/core/context/assets.html">Assets</a> **getAssets** ()<div class="details">
 <p>Gets the current assets management system.</p></div>
 
 - - -
@@ -320,10 +271,7 @@ public  <a href="../../../hirudo/core/context/assets.html">Assets</a> **getAsset
 <div class="location">framework\hirudo\Hirudo\Core\Context\ModulesContext.php at line 230</div>
 <h3 id="setAssets()">setAssets</h3>
 
-```php
-public  void **setAssets**(<a href="../../../hirudo/core/context/assets.html">Assets</a> assets)
-```
-<div class="details">
+public  void **setAssets** (<a href="../../../hirudo/core/context/assets.html">Assets</a> assets)<div class="details">
 <p></p><dl>
 <dt>Import(id="assets").</dt>
 </dl>
@@ -334,10 +282,7 @@ public  void **setAssets**(<a href="../../../hirudo/core/context/assets.html">As
 <div class="location">framework\hirudo\Hirudo\Core\Context\ModulesContext.php at line 234</div>
 <h3 id="setDependenciesManager()">setDependenciesManager</h3>
 
-```php
-public  void **setDependenciesManager**(<a href="../../../hirudo/core/dependencyinjection/dependenciesmanager.html">DependenciesManager</a> dependenciesManager)
-```
-<div class="details">
+public  void **setDependenciesManager** (<a href="../../../hirudo/core/dependencyinjection/dependenciesmanager.html">DependenciesManager</a> dependenciesManager)<div class="details">
 </div>
 
 - - -

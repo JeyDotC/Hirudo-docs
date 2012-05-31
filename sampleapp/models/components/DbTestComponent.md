@@ -1,3 +1,4 @@
+
 - - -
 
 **SampleApp\Models\Components\DbTestComponent**
@@ -21,16 +22,17 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/model
 <dt>Author:</dt>
 <dd>JeyDotC</dd>
 </dl>
+
 - - -
 
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#getAll">getAll</a>()</p></td>
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#getall">getAll</a>()</p></td>
 </tr>
 <tr>
-<td class="type"> void</td>
+<td class="type">  void</td>
 <td class="description"><p class="name"><a href="#add">add</a>(mixed name)</p></td>
 </tr>
 </table>
@@ -43,10 +45,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/model
 <div class="location">src\SampleApp\Models\Components\DbTestComponent.php at line 14</div>
 <h3 id="getAll()">getAll</h3>
 
-```php
-public  void **getAll**()
-```
-<div class="details">
+public  void **getAll** ()<div class="details">
 </div>
 
 - - -
@@ -54,10 +53,7 @@ public  void **getAll**()
 <div class="location">src\SampleApp\Models\Components\DbTestComponent.php at line 22</div>
 <h3 id="add()">add</h3>
 
-```php
-public  void **add**(mixed name)
-```
-<div class="details">
+public  void **add** (mixed name)<div class="details">
 </div>
 
 - - -

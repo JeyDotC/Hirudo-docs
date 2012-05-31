@@ -1,3 +1,4 @@
+
 - - -
 
 **SampleApp\Models\Components\ComplexObjectComponent**
@@ -17,16 +18,17 @@
 <dt>Author:</dt>
 <dd>JeyDotC</dd>
 </dl>
+
 - - -
 
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type"> void</td>
+<td class="type">  void</td>
 <td class="description"><p class="name"><a href="#save">save</a>(<a href="../../../sampleapp/models/entities/complexobject.html">ComplexObject</a> complexObject)</p></td>
 </tr>
 <tr>
-<td class="type"> void</td>
+<td class="type">  void</td>
 <td class="description"><p class="name"><a href="#get">get</a>(mixed name)</p></td>
 </tr>
 </table>
@@ -35,10 +37,7 @@
 <div class="location">src\SampleApp\Models\Components\ComplexObjectComponent.php at line 15</div>
 <h3 id="save()">save</h3>
 
-```php
-public  void **save**(<a href="../../../sampleapp/models/entities/complexobject.html">ComplexObject</a> complexObject)
-```
-<div class="details">
+public  void **save** (<a href="../../../sampleapp/models/entities/complexobject.html">ComplexObject</a> complexObject)<div class="details">
 </div>
 
 - - -
@@ -46,10 +45,7 @@ public  void **save**(<a href="../../../sampleapp/models/entities/complexobject.
 <div class="location">src\SampleApp\Models\Components\ComplexObjectComponent.php at line 19</div>
 <h3 id="get()">get</h3>
 
-```php
-public  void **get**(mixed name)
-```
-<div class="details">
+public  void **get** (mixed name)<div class="details">
 </div>
 
 - - -

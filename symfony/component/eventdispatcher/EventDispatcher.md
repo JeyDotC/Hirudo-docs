@@ -1,3 +1,4 @@
+
 - - -
 
 **Symfony\Component\EventDispatcher\EventDispatcher**
@@ -29,41 +30,42 @@ manager.</p></div>
 <dd>Jordi Boggiano <j.boggiano@seld.be></dd>
 <dt>Api.</dt>
 </dl>
+
 - - -
 
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type"> void</td>
+<td class="type">  void</td>
 <td class="description"><p class="name"><a href="#dispatch">dispatch</a>(mixed eventName, <a href="../../../symfony/component/eventdispatcher/event.html">Event</a> event)</p><p class="description"></p></td>
 </tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#getListeners">getListeners</a>(mixed eventName)</p><p class="description"></p></td>
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#getlisteners">getListeners</a>(mixed eventName)</p><p class="description"></p></td>
 </tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#hasListeners">hasListeners</a>(mixed eventName)</p><p class="description"></p></td>
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#haslisteners">hasListeners</a>(mixed eventName)</p><p class="description"></p></td>
 </tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#addListener">addListener</a>(mixed eventName, mixed listener, int priority)</p><p class="description"></p></td>
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#addlistener">addListener</a>(mixed eventName, mixed listener, int priority)</p><p class="description"></p></td>
 </tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#removeListener">removeListener</a>(mixed eventName, mixed listener)</p><p class="description"></p></td>
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#removelistener">removeListener</a>(mixed eventName, mixed listener)</p><p class="description"></p></td>
 </tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#addSubscriber">addSubscriber</a>(<a href="../../../symfony/component/eventdispatcher/eventsubscriberinterface.html">EventSubscriberInterface</a> subscriber)</p><p class="description"></p></td>
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#addsubscriber">addSubscriber</a>(<a href="../../../symfony/component/eventdispatcher/eventsubscriberinterface.html">EventSubscriberInterface</a> subscriber)</p><p class="description"></p></td>
 </tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#removeSubscriber">removeSubscriber</a>(<a href="../../../symfony/component/eventdispatcher/eventsubscriberinterface.html">EventSubscriberInterface</a> subscriber)</p><p class="description"></p></td>
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#removesubscriber">removeSubscriber</a>(<a href="../../../symfony/component/eventdispatcher/eventsubscriberinterface.html">EventSubscriberInterface</a> subscriber)</p><p class="description"></p></td>
 </tr>
 <tr>
-<td class="type">protected  void</td>
-<td class="description"><p class="name"><a href="#doDispatch">doDispatch</a>(array[callback] listeners, string eventName, <a href="../../../symfony/component/eventdispatcher/event.html">Event</a> event)</p><p class="description">Triggers the listeners of an event.
+<td class="type"> protected  void</td>
+<td class="description"><p class="name"><a href="#dodispatch">doDispatch</a>(array[callback] listeners, string eventName, <a href="../../../symfony/component/eventdispatcher/event.html">Event</a> event)</p><p class="description">Triggers the listeners of an event.
 </p></td>
 </tr>
 </table>
@@ -72,10 +74,7 @@ manager.</p></div>
 <div class="location">framework\libs\symfony-components\Symfony\Component\EventDispatcher\EventDispatcher.php at line 39</div>
 <h3 id="dispatch()">dispatch</h3>
 
-```php
-public  void **dispatch**(mixed eventName, <a href="../../../symfony/component/eventdispatcher/event.html">Event</a> event)
-```
-<div class="details">
+public  void **dispatch** (mixed eventName, <a href="../../../symfony/component/eventdispatcher/event.html">Event</a> event)<div class="details">
 <p></p><dl>
 <dt>See Also:</dt>
 <dd><a href="../../../symfony/component/eventdispatcher/eventdispatcherinterface.html#dispatch()">EventDispatcherInterface::dispatch</a></dd>
@@ -88,10 +87,7 @@ public  void **dispatch**(mixed eventName, <a href="../../../symfony/component/e
 <div class="location">framework\libs\symfony-components\Symfony\Component\EventDispatcher\EventDispatcher.php at line 54</div>
 <h3 id="getListeners()">getListeners</h3>
 
-```php
-public  void **getListeners**(mixed eventName)
-```
-<div class="details">
+public  void **getListeners** (mixed eventName)<div class="details">
 <p></p><dl>
 <dt>See Also:</dt>
 <dd><a href="../../../symfony/component/eventdispatcher/eventdispatcherinterface.html#getListeners()">EventDispatcherInterface::getListeners</a></dd>
@@ -103,10 +99,7 @@ public  void **getListeners**(mixed eventName)
 <div class="location">framework\libs\symfony-components\Symfony\Component\EventDispatcher\EventDispatcher.php at line 75</div>
 <h3 id="hasListeners()">hasListeners</h3>
 
-```php
-public  void **hasListeners**(mixed eventName)
-```
-<div class="details">
+public  void **hasListeners** (mixed eventName)<div class="details">
 <p></p><dl>
 <dt>See Also:</dt>
 <dd><a href="../../../symfony/component/eventdispatcher/eventdispatcherinterface.html#hasListeners()">EventDispatcherInterface::hasListeners</a></dd>
@@ -118,10 +111,7 @@ public  void **hasListeners**(mixed eventName)
 <div class="location">framework\libs\symfony-components\Symfony\Component\EventDispatcher\EventDispatcher.php at line 84</div>
 <h3 id="addListener()">addListener</h3>
 
-```php
-public  void **addListener**(mixed eventName, mixed listener, int priority)
-```
-<div class="details">
+public  void **addListener** (mixed eventName, mixed listener, int priority)<div class="details">
 <p></p><dl>
 <dt>See Also:</dt>
 <dd><a href="../../../symfony/component/eventdispatcher/eventdispatcherinterface.html#addListener()">EventDispatcherInterface::addListener</a></dd>
@@ -134,10 +124,7 @@ public  void **addListener**(mixed eventName, mixed listener, int priority)
 <div class="location">framework\libs\symfony-components\Symfony\Component\EventDispatcher\EventDispatcher.php at line 92</div>
 <h3 id="removeListener()">removeListener</h3>
 
-```php
-public  void **removeListener**(mixed eventName, mixed listener)
-```
-<div class="details">
+public  void **removeListener** (mixed eventName, mixed listener)<div class="details">
 <p></p><dl>
 <dt>See Also:</dt>
 <dd><a href="../../../symfony/component/eventdispatcher/eventdispatcherinterface.html#removeListener()">EventDispatcherInterface::removeListener</a></dd>
@@ -149,10 +136,7 @@ public  void **removeListener**(mixed eventName, mixed listener)
 <div class="location">framework\libs\symfony-components\Symfony\Component\EventDispatcher\EventDispatcher.php at line 109</div>
 <h3 id="addSubscriber()">addSubscriber</h3>
 
-```php
-public  void **addSubscriber**(<a href="../../../symfony/component/eventdispatcher/eventsubscriberinterface.html">EventSubscriberInterface</a> subscriber)
-```
-<div class="details">
+public  void **addSubscriber** (<a href="../../../symfony/component/eventdispatcher/eventsubscriberinterface.html">EventSubscriberInterface</a> subscriber)<div class="details">
 <p></p><dl>
 <dt>See Also:</dt>
 <dd><a href="../../../symfony/component/eventdispatcher/eventdispatcherinterface.html#addSubscriber()">EventDispatcherInterface::addSubscriber</a></dd>
@@ -165,10 +149,7 @@ public  void **addSubscriber**(<a href="../../../symfony/component/eventdispatch
 <div class="location">framework\libs\symfony-components\Symfony\Component\EventDispatcher\EventDispatcher.php at line 122</div>
 <h3 id="removeSubscriber()">removeSubscriber</h3>
 
-```php
-public  void **removeSubscriber**(<a href="../../../symfony/component/eventdispatcher/eventsubscriberinterface.html">EventSubscriberInterface</a> subscriber)
-```
-<div class="details">
+public  void **removeSubscriber** (<a href="../../../symfony/component/eventdispatcher/eventsubscriberinterface.html">EventSubscriberInterface</a> subscriber)<div class="details">
 <p></p><dl>
 <dt>See Also:</dt>
 <dd><a href="../../../symfony/component/eventdispatcher/eventdispatcherinterface.html#removeSubscriber()">EventDispatcherInterface::removeSubscriber</a></dd>
@@ -180,10 +161,7 @@ public  void **removeSubscriber**(<a href="../../../symfony/component/eventdispa
 <div class="location">framework\libs\symfony-components\Symfony\Component\EventDispatcher\EventDispatcher.php at line 138</div>
 <h3 id="doDispatch()">doDispatch</h3>
 
-```php
-protected  void **doDispatch**(array[callback] listeners, string eventName, <a href="../../../symfony/component/eventdispatcher/event.html">Event</a> event)
-```
-<div class="details">
+protected  void **doDispatch** (array[callback] listeners, string eventName, <a href="../../../symfony/component/eventdispatcher/event.html">Event</a> event)<div class="details">
 <p>Triggers the listeners of an event.</p><p>This method can be overridden to add functionality that is executed
 for each listener.</p><dl>
 <dt>Parameters:</dt>

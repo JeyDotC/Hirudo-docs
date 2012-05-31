@@ -1,3 +1,4 @@
+
 - - -
 
 **Symfony\Component\DependencyInjection\Loader\FileLoader**
@@ -26,6 +27,7 @@ extends BaseFileLoader
 <dt>Author:</dt>
 <dd>Fabien Potencier <fabien@symfony.com></dd>
 </dl>
+
 - - -
 
 <table id="summary_field">
@@ -48,9 +50,7 @@ extends BaseFileLoader
 <div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Loader\FileLoader.php at line 25</div>
 <h3 id="container">container</h3>
 
-```php
-protected  mixed$container = null
-```
+protected  mixed $container = null
 <div class="details">
 </div>
 

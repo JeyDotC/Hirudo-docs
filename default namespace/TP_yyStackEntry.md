@@ -1,3 +1,4 @@
+
 - - -
 
 **Default namespace\TP_yyStackEntry**
@@ -10,6 +11,7 @@
 - - -
 
 <p class="signature">public  class **TP_yyStackEntry**</p>
+
 
 - - -
 
@@ -33,9 +35,7 @@
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_templateparser.php at line 79</div>
 <h3 id="major">major</h3>
 
-```php
-public  mixed$major
-```
+public  mixed $major
 <div class="details">
 </div>
 
@@ -44,9 +44,7 @@ public  mixed$major
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_templateparser.php at line 81</div>
 <h3 id="minor">minor</h3>
 
-```php
-public  mixed$minor
-```
+public  mixed $minor
 <div class="details">
 </div>
 
@@ -55,9 +53,7 @@ public  mixed$minor
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_templateparser.php at line 78</div>
 <h3 id="stateno">stateno</h3>
 
-```php
-public  mixed$stateno
-```
+public  mixed $stateno
 <div class="details">
 </div>
 

@@ -1,3 +1,4 @@
+
 - - -
 
 **Doctrine\Common\Annotations\IndexedReader**
@@ -17,6 +18,7 @@
 <dt>Author:</dt>
 <dd>Johannes M. Schmitt <schmittjoh@gmail.com></dd>
 </dl>
+
 - - -
 
 <table id="summary_constructor">
@@ -30,28 +32,28 @@
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#getClassAnnotations">getClassAnnotations</a>(ReflectionClass class)</p></td>
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#getclassannotations">getClassAnnotations</a>(ReflectionClass class)</p></td>
 </tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#getClassAnnotation">getClassAnnotation</a>(ReflectionClass class, mixed annotation)</p></td>
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#getclassannotation">getClassAnnotation</a>(ReflectionClass class, mixed annotation)</p></td>
 </tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#getMethodAnnotations">getMethodAnnotations</a>(ReflectionMethod method)</p></td>
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#getmethodannotations">getMethodAnnotations</a>(ReflectionMethod method)</p></td>
 </tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#getMethodAnnotation">getMethodAnnotation</a>(ReflectionMethod method, mixed annotation)</p></td>
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#getmethodannotation">getMethodAnnotation</a>(ReflectionMethod method, mixed annotation)</p></td>
 </tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#getPropertyAnnotations">getPropertyAnnotations</a>(ReflectionProperty property)</p></td>
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#getpropertyannotations">getPropertyAnnotations</a>(ReflectionProperty property)</p></td>
 </tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#getPropertyAnnotation">getPropertyAnnotation</a>(ReflectionProperty property, mixed annotation)</p></td>
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#getpropertyannotation">getPropertyAnnotation</a>(ReflectionProperty property, mixed annotation)</p></td>
 </tr>
 </table>
 
@@ -71,10 +73,7 @@ public  void **__construct**(<a href="../../../doctrine/common/annotations/reade
 <div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\IndexedReader.php at line 38</div>
 <h3 id="getClassAnnotations()">getClassAnnotations</h3>
 
-```php
-public  void **getClassAnnotations**(ReflectionClass class)
-```
-<div class="details">
+public  void **getClassAnnotations** (ReflectionClass class)<div class="details">
 </div>
 
 - - -
@@ -82,10 +81,7 @@ public  void **getClassAnnotations**(ReflectionClass class)
 <div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\IndexedReader.php at line 48</div>
 <h3 id="getClassAnnotation()">getClassAnnotation</h3>
 
-```php
-public  void **getClassAnnotation**(ReflectionClass class, mixed annotation)
-```
-<div class="details">
+public  void **getClassAnnotation** (ReflectionClass class, mixed annotation)<div class="details">
 </div>
 
 - - -
@@ -93,10 +89,7 @@ public  void **getClassAnnotation**(ReflectionClass class, mixed annotation)
 <div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\IndexedReader.php at line 53</div>
 <h3 id="getMethodAnnotations()">getMethodAnnotations</h3>
 
-```php
-public  void **getMethodAnnotations**(ReflectionMethod method)
-```
-<div class="details">
+public  void **getMethodAnnotations** (ReflectionMethod method)<div class="details">
 </div>
 
 - - -
@@ -104,10 +97,7 @@ public  void **getMethodAnnotations**(ReflectionMethod method)
 <div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\IndexedReader.php at line 63</div>
 <h3 id="getMethodAnnotation()">getMethodAnnotation</h3>
 
-```php
-public  void **getMethodAnnotation**(ReflectionMethod method, mixed annotation)
-```
-<div class="details">
+public  void **getMethodAnnotation** (ReflectionMethod method, mixed annotation)<div class="details">
 </div>
 
 - - -
@@ -115,10 +105,7 @@ public  void **getMethodAnnotation**(ReflectionMethod method, mixed annotation)
 <div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\IndexedReader.php at line 68</div>
 <h3 id="getPropertyAnnotations()">getPropertyAnnotations</h3>
 
-```php
-public  void **getPropertyAnnotations**(ReflectionProperty property)
-```
-<div class="details">
+public  void **getPropertyAnnotations** (ReflectionProperty property)<div class="details">
 </div>
 
 - - -
@@ -126,10 +113,7 @@ public  void **getPropertyAnnotations**(ReflectionProperty property)
 <div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\IndexedReader.php at line 78</div>
 <h3 id="getPropertyAnnotation()">getPropertyAnnotation</h3>
 
-```php
-public  void **getPropertyAnnotation**(ReflectionProperty property, mixed annotation)
-```
-<div class="details">
+public  void **getPropertyAnnotation** (ReflectionProperty property, mixed annotation)<div class="details">
 </div>
 
 - - -

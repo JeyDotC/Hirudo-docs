@@ -1,3 +1,4 @@
+
 - - -
 
 **Smarty\Smarty_Internal_Resource_Extends**
@@ -21,6 +22,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 <dt>Subpackage:</dt>
 <dd>TemplateResources</dd>
 </dl>
+
 - - -
 
 <table id="summary_field">
@@ -38,20 +40,20 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type"> void</td>
+<td class="type">  void</td>
 <td class="description"><p class="name"><a href="#populate">populate</a>(<a href="../smarty/smarty_template_source.html">Smarty_Template_Source</a> source, <a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> _template)</p><p class="description">populate Source Object with meta data from Resource</p></td>
 </tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#populateTimestamp">populateTimestamp</a>(<a href="../smarty/smarty_template_source.html">Smarty_Template_Source</a> source)</p><p class="description">populate Source Object with timestamp and exists from Resource</p></td>
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#populatetimestamp">populateTimestamp</a>(<a href="../smarty/smarty_template_source.html">Smarty_Template_Source</a> source)</p><p class="description">populate Source Object with timestamp and exists from Resource</p></td>
 </tr>
 <tr>
-<td class="type"> string</td>
-<td class="description"><p class="name"><a href="#getContent">getContent</a>(<a href="../smarty/smarty_template_source.html">Smarty_Template_Source</a> source)</p><p class="description">Load template's source from files into current template object</p></td>
+<td class="type">  string</td>
+<td class="description"><p class="name"><a href="#getcontent">getContent</a>(<a href="../smarty/smarty_template_source.html">Smarty_Template_Source</a> source)</p><p class="description">Load template's source from files into current template object</p></td>
 </tr>
 <tr>
-<td class="type"> string</td>
-<td class="description"><p class="name"><a href="#getBasename">getBasename</a>(<a href="../smarty/smarty_template_source.html">Smarty_Template_Source</a> source)</p><p class="description">Determine basename for compiled filename</p></td>
+<td class="type">  string</td>
+<td class="description"><p class="name"><a href="#getbasename">getBasename</a>(<a href="../smarty/smarty_template_source.html">Smarty_Template_Source</a> source)</p><p class="description">Determine basename for compiled filename</p></td>
 </tr>
 </table>
 
@@ -63,9 +65,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_resource_extends.php at line 26</div>
 <h3 id="mbstring_overload">mbstring_overload</h3>
 
-```php
-public  int$mbstring_overload = 0
-```
+public  int $mbstring_overload = 0
 <div class="details">
 <p>mbstring.overload flag</p></div>
 
@@ -75,10 +75,7 @@ public  int$mbstring_overload = 0
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_resource_extends.php at line 34</div>
 <h3 id="populate()">populate</h3>
 
-```php
-public  void **populate**(<a href="../smarty/smarty_template_source.html">Smarty_Template_Source</a> source, <a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> _template)
-```
-<div class="details">
+public  void **populate** (<a href="../smarty/smarty_template_source.html">Smarty_Template_Source</a> source, <a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> _template)<div class="details">
 <p>populate Source Object with meta data from Resource</p><dl>
 <dt>Parameters:</dt>
 <dd>source - source object</dd>
@@ -91,10 +88,7 @@ public  void **populate**(<a href="../smarty/smarty_template_source.html">Smarty
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_resource_extends.php at line 67</div>
 <h3 id="populateTimestamp()">populateTimestamp</h3>
 
-```php
-public  void **populateTimestamp**(<a href="../smarty/smarty_template_source.html">Smarty_Template_Source</a> source)
-```
-<div class="details">
+public  void **populateTimestamp** (<a href="../smarty/smarty_template_source.html">Smarty_Template_Source</a> source)<div class="details">
 <p>populate Source Object with timestamp and exists from Resource</p><dl>
 <dt>Parameters:</dt>
 <dd>source - source object</dd>
@@ -106,10 +100,7 @@ public  void **populateTimestamp**(<a href="../smarty/smarty_template_source.htm
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_resource_extends.php at line 83</div>
 <h3 id="getContent()">getContent</h3>
 
-```php
-public  string **getContent**(<a href="../smarty/smarty_template_source.html">Smarty_Template_Source</a> source)
-```
-<div class="details">
+public  string **getContent** (<a href="../smarty/smarty_template_source.html">Smarty_Template_Source</a> source)<div class="details">
 <p>Load template's source from files into current template object</p><dl>
 <dt>Parameters:</dt>
 <dd>source - source object</dd>
@@ -125,10 +116,7 @@ public  string **getContent**(<a href="../smarty/smarty_template_source.html">Sm
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_resource_extends.php at line 150</div>
 <h3 id="getBasename()">getBasename</h3>
 
-```php
-public  string **getBasename**(<a href="../smarty/smarty_template_source.html">Smarty_Template_Source</a> source)
-```
-<div class="details">
+public  string **getBasename** (<a href="../smarty/smarty_template_source.html">Smarty_Template_Source</a> source)<div class="details">
 <p>Determine basename for compiled filename</p><dl>
 <dt>Parameters:</dt>
 <dd>source - source object</dd>

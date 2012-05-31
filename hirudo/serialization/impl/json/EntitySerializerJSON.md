@@ -1,3 +1,4 @@
+
 - - -
 
 **Hirudo\Serialization\Impl\Json\EntitySerializerJSON**
@@ -22,13 +23,14 @@ into a JSON string.</p></div>
 <dt>Author:</dt>
 <dd>JeyDotC</dd>
 </dl>
+
 - - -
 
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type">protected  string</td>
-<td class="description"><p class="name"><a href="#doSerialize">doSerialize</a>(array array)</p><p class="description">This is the abstract method to be implemented by any serializer, it receives
+<td class="type"> protected  string</td>
+<td class="description"><p class="name"><a href="#doserialize">doSerialize</a>(array array)</p><p class="description">This is the abstract method to be implemented by any serializer, it receives
 an ssociative array representing the entity making it easier to create the
 string representation.</p></td>
 </tr>
@@ -42,10 +44,7 @@ string representation.</p></td>
 <div class="location">framework\hirudo\Hirudo\Serialization\Impl\Json\EntitySerializerJSON.php at line 34</div>
 <h3 id="doSerialize()">doSerialize</h3>
 
-```php
-protected  string **doSerialize**(array array)
-```
-<div class="details">
+protected  string **doSerialize** (array array)<div class="details">
 <p>This is the abstract method to be implemented by any serializer, it receives
 an ssociative array representing the entity making it easier to create the
 string representation.</p><dl>

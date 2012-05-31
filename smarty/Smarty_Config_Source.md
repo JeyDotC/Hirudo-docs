@@ -1,3 +1,4 @@
+
 - - -
 
 **Smarty\Smarty_Config_Source**
@@ -27,6 +28,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 <dd>int $timestamp</dd>
 <dd>bool $exists</dd>
 </dl>
+
 - - -
 
 <table class="inherit">

@@ -1,3 +1,4 @@
+
 - - -
 
 **HTTP_Session2\HTTP_Session2_Container_Memcache**
@@ -32,6 +33,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/http_session
 <dt>Since:</dt>
 <dd>0.6.2</dd>
 </dl>
+
 - - -
 
 <table id="summary_field">
@@ -63,39 +65,39 @@ The options are:
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type">protected  boolean</td>
+<td class="type"> protected  boolean</td>
 <td class="description"><p class="name"><a href="#connect">connect</a>(Memcache mc)</p><p class="description">Connect using the given Memcache object.</p></td>
 </tr>
 <tr>
-<td class="type">protected  void</td>
-<td class="description"><p class="name"><a href="#setDefaults">setDefaults</a>()</p><p class="description">Set some default options</p></td>
+<td class="type"> protected  void</td>
+<td class="description"><p class="name"><a href="#setdefaults">setDefaults</a>()</p><p class="description">Set some default options</p></td>
 </tr>
 <tr>
-<td class="type"> boolean</td>
+<td class="type">  boolean</td>
 <td class="description"><p class="name"><a href="#open">open</a>(string save_path, string session_name)</p><p class="description">Establish connection to a database</p></td>
 </tr>
 <tr>
-<td class="type"> boolean</td>
+<td class="type">  boolean</td>
 <td class="description"><p class="name"><a href="#close">close</a>()</p><p class="description">Free resources</p></td>
 </tr>
 <tr>
-<td class="type"> mixed</td>
+<td class="type">  mixed</td>
 <td class="description"><p class="name"><a href="#read">read</a>(string id)</p><p class="description">Read session data</p></td>
 </tr>
 <tr>
-<td class="type"> boolean</td>
+<td class="type">  boolean</td>
 <td class="description"><p class="name"><a href="#write">write</a>(string id, mixed data)</p><p class="description">Write session data</p></td>
 </tr>
 <tr>
-<td class="type"> boolean</td>
+<td class="type">  boolean</td>
 <td class="description"><p class="name"><a href="#destroy">destroy</a>(string id)</p><p class="description">Destroy session data</p></td>
 </tr>
 <tr>
-<td class="type"> boolean</td>
+<td class="type">  boolean</td>
 <td class="description"><p class="name"><a href="#gc">gc</a>(int maxlifetime)</p><p class="description">Garbage collection</p></td>
 </tr>
 <tr>
-<td class="type"> boolean</td>
+<td class="type">  boolean</td>
 <td class="description"><p class="name"><a href="#replicate">replicate</a>(string target, string id)</p><p class="description">Replicate session data to specified target</p></td>
 </tr>
 </table>
@@ -108,9 +110,7 @@ The options are:
 <div class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Memcache.php at line 45</div>
 <h3 id="mc">mc</h3>
 
-```php
-protected  object Memcache$mc = null
-```
+protected  object Memcache $mc = null
 <div class="details">
 <p>Memcache connection object</p></div>
 
@@ -142,10 +142,7 @@ The options are:</p>
 <div class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Memcache.php at line 74</div>
 <h3 id="connect()">connect</h3>
 
-```php
-protected  boolean **connect**(Memcache mc)
-```
-<div class="details">
+protected  boolean **connect** (Memcache mc)<div class="details">
 <p>Connect using the given Memcache object.</p><dl>
 <dt>Parameters:</dt>
 <dd>mc - A Memcache instance.</dd>
@@ -159,10 +156,7 @@ protected  boolean **connect**(Memcache mc)
 <div class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Memcache.php at line 91</div>
 <h3 id="setDefaults()">setDefaults</h3>
 
-```php
-protected  void **setDefaults**()
-```
-<div class="details">
+protected  void **setDefaults** ()<div class="details">
 <p>Set some default options</p></div>
 
 - - -
@@ -170,10 +164,7 @@ protected  void **setDefaults**()
 <div class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Memcache.php at line 105</div>
 <h3 id="open()">open</h3>
 
-```php
-public  boolean **open**(string save_path, string session_name)
-```
-<div class="details">
+public  boolean **open** (string save_path, string session_name)<div class="details">
 <p>Establish connection to a database</p><dl>
 <dt>Parameters:</dt>
 <dd>save_path - Save path</dd>
@@ -186,10 +177,7 @@ public  boolean **open**(string save_path, string session_name)
 <div class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Memcache.php at line 115</div>
 <h3 id="close()">close</h3>
 
-```php
-public  boolean **close**()
-```
-<div class="details">
+public  boolean **close** ()<div class="details">
 <p>Free resources</p></div>
 
 - - -
@@ -197,10 +185,7 @@ public  boolean **close**()
 <div class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Memcache.php at line 126</div>
 <h3 id="read()">read</h3>
 
-```php
-public  mixed **read**(string id)
-```
-<div class="details">
+public  mixed **read** (string id)<div class="details">
 <p>Read session data</p><dl>
 <dt>Parameters:</dt>
 <dd>id - Session id</dd>
@@ -212,10 +197,7 @@ public  mixed **read**(string id)
 <div class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Memcache.php at line 139</div>
 <h3 id="write()">write</h3>
 
-```php
-public  boolean **write**(string id, mixed data)
-```
-<div class="details">
+public  boolean **write** (string id, mixed data)<div class="details">
 <p>Write session data</p><dl>
 <dt>Parameters:</dt>
 <dd>id - Session id</dd>
@@ -228,10 +210,7 @@ public  boolean **write**(string id, mixed data)
 <div class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Memcache.php at line 156</div>
 <h3 id="destroy()">destroy</h3>
 
-```php
-public  boolean **destroy**(string id)
-```
-<div class="details">
+public  boolean **destroy** (string id)<div class="details">
 <p>Destroy session data</p><dl>
 <dt>Parameters:</dt>
 <dd>id - Session id</dd>
@@ -243,10 +222,7 @@ public  boolean **destroy**(string id)
 <div class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Memcache.php at line 169</div>
 <h3 id="gc()">gc</h3>
 
-```php
-public  boolean **gc**(int maxlifetime)
-```
-<div class="details">
+public  boolean **gc** (int maxlifetime)<div class="details">
 <p>Garbage collection</p><dl>
 <dt>Parameters:</dt>
 <dd>maxlifetime - Maximum lifetime</dd>
@@ -258,10 +234,7 @@ public  boolean **gc**(int maxlifetime)
 <div class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Memcache.php at line 183</div>
 <h3 id="replicate()">replicate</h3>
 
-```php
-public  boolean **replicate**(string target, string id)
-```
-<div class="details">
+public  boolean **replicate** (string target, string id)<div class="details">
 <p>Replicate session data to specified target</p><dl>
 <dt>Parameters:</dt>
 <dd>target - Target to replicate to</dd>

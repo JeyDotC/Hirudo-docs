@@ -1,3 +1,4 @@
+
 - - -
 
 **Hirudo\Core\EntryPointInterface**
@@ -18,12 +19,13 @@
 <dt>Author:</dt>
 <dd>JeyDotC</dd>
 </dl>
+
 - - -
 
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type"> void</td>
+<td class="type">  void</td>
 <td class="description"><p class="name"><a href="#run">run</a>()</p></td>
 </tr>
 </table>
@@ -32,10 +34,7 @@
 <div class="location">framework\hirudo\Hirudo\Core\EntryPointInterface.php at line 12</div>
 <h3 id="run()">run</h3>
 
-```php
-public  void **run**()
-```
-<div class="details">
+public  void **run** ()<div class="details">
 </div>
 
 - - -

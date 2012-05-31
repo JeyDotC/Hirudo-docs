@@ -1,3 +1,4 @@
+
 - - -
 
 **Symfony\Component\EventDispatcher\Event**
@@ -34,17 +35,18 @@ further listeners in your event listener.</p></div>
 <dd>Bernhard Schussek <bschussek@gmail.com></dd>
 <dt>Api.</dt>
 </dl>
+
 - - -
 
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type"> Boolean</td>
-<td class="description"><p class="name"><a href="#isPropagationStopped">isPropagationStopped</a>()</p><p class="description">Returns whether further event listeners should be triggered.</p></td>
+<td class="type">  Boolean</td>
+<td class="description"><p class="name"><a href="#ispropagationstopped">isPropagationStopped</a>()</p><p class="description">Returns whether further event listeners should be triggered.</p></td>
 </tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#stopPropagation">stopPropagation</a>()</p><p class="description">Stops the propagation of the event to further event listeners.
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#stoppropagation">stopPropagation</a>()</p><p class="description">Stops the propagation of the event to further event listeners.
 </p></td>
 </tr>
 </table>
@@ -53,10 +55,7 @@ further listeners in your event listener.</p></div>
 <div class="location">framework\libs\symfony-components\Symfony\Component\EventDispatcher\Event.php at line 48</div>
 <h3 id="isPropagationStopped()">isPropagationStopped</h3>
 
-```php
-public  Boolean **isPropagationStopped**()
-```
-<div class="details">
+public  Boolean **isPropagationStopped** ()<div class="details">
 <p>Returns whether further event listeners should be triggered.</p><dl>
 <dt>See Also:</dt>
 <dd><a href="../../../symfony/component/eventdispatcher/event.html#stopPropagation()">Event::stopPropagation</a></dd>
@@ -71,10 +70,7 @@ public  Boolean **isPropagationStopped**()
 <div class="location">framework\libs\symfony-components\Symfony\Component\EventDispatcher\Event.php at line 62</div>
 <h3 id="stopPropagation()">stopPropagation</h3>
 
-```php
-public  void **stopPropagation**()
-```
-<div class="details">
+public  void **stopPropagation** ()<div class="details">
 <p>Stops the propagation of the event to further event listeners.</p><p>If multiple event listeners are connected to the same event, no
 further event listener will be triggered once any trigger calls
 stopPropagation().</p><dl>

@@ -1,3 +1,4 @@
+
 - - -
 
 **Symfony\Component\DependencyInjection\Compiler\ServiceReferenceGraph**
@@ -18,6 +19,7 @@ it themselves which improves performance quite a lot.</p></div>
 <dt>Author:</dt>
 <dd>Johannes M. Schmitt <schmittjoh@gmail.com></dd>
 </dl>
+
 - - -
 
 <table id="summary_constructor">
@@ -31,23 +33,23 @@ it themselves which improves performance quite a lot.</p></div>
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#hasNode">hasNode</a>(string id)</p><p class="description">Checks if the graph has a specific node.</p></td>
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#hasnode">hasNode</a>(string id)</p><p class="description">Checks if the graph has a specific node.</p></td>
 </tr>
 <tr>
-<td class="type"> <a href="../../../../symfony/component/dependencyinjection/compiler/servicereferencegraphnode.html">ServiceReferenceGraphNode</a></td>
-<td class="description"><p class="name"><a href="#getNode">getNode</a>(string id)</p><p class="description">Gets a node by identifier.</p></td>
+<td class="type">  <a href="../../../../symfony/component/dependencyinjection/compiler/servicereferencegraphnode.html">ServiceReferenceGraphNode</a></td>
+<td class="description"><p class="name"><a href="#getnode">getNode</a>(string id)</p><p class="description">Gets a node by identifier.</p></td>
 </tr>
 <tr>
-<td class="type"> array</td>
-<td class="description"><p class="name"><a href="#getNodes">getNodes</a>()</p><p class="description">Returns all nodes.</p></td>
+<td class="type">  array</td>
+<td class="description"><p class="name"><a href="#getnodes">getNodes</a>()</p><p class="description">Returns all nodes.</p></td>
 </tr>
 <tr>
-<td class="type"> void</td>
+<td class="type">  void</td>
 <td class="description"><p class="name"><a href="#clear">clear</a>()</p><p class="description">Clears all nodes.</p></td>
 </tr>
 <tr>
-<td class="type"> void</td>
+<td class="type">  void</td>
 <td class="description"><p class="name"><a href="#connect">connect</a>(string sourceId, string sourceValue, string destId, string destValue, string reference)</p><p class="description">Connects 2 nodes together in the Graph.</p></td>
 </tr>
 </table>
@@ -68,10 +70,7 @@ public  void **__construct**()
 <div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\ServiceReferenceGraph.php at line 39</div>
 <h3 id="hasNode()">hasNode</h3>
 
-```php
-public  void **hasNode**(string id)
-```
-<div class="details">
+public  void **hasNode** (string id)<div class="details">
 <p>Checks if the graph has a specific node.</p><dl>
 <dt>Parameters:</dt>
 <dd>id - Id to check</dd>
@@ -83,10 +82,7 @@ public  void **hasNode**(string id)
 <div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\ServiceReferenceGraph.php at line 51</div>
 <h3 id="getNode()">getNode</h3>
 
-```php
-public  <a href="../../../../symfony/component/dependencyinjection/compiler/servicereferencegraphnode.html">ServiceReferenceGraphNode</a> **getNode**(string id)
-```
-<div class="details">
+public  <a href="../../../../symfony/component/dependencyinjection/compiler/servicereferencegraphnode.html">ServiceReferenceGraphNode</a> **getNode** (string id)<div class="details">
 <p>Gets a node by identifier.</p><dl>
 <dt>Parameters:</dt>
 <dd>id - The id to retrieve</dd>
@@ -102,10 +98,7 @@ public  <a href="../../../../symfony/component/dependencyinjection/compiler/serv
 <div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\ServiceReferenceGraph.php at line 65</div>
 <h3 id="getNodes()">getNodes</h3>
 
-```php
-public  array **getNodes**()
-```
-<div class="details">
+public  array **getNodes** ()<div class="details">
 <p>Returns all nodes.</p><dl>
 <dt>Returns:</dt>
 <dd>An array of all ServiceReferenceGraphNode objects</dd>
@@ -117,10 +110,7 @@ public  array **getNodes**()
 <div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\ServiceReferenceGraph.php at line 73</div>
 <h3 id="clear()">clear</h3>
 
-```php
-public  void **clear**()
-```
-<div class="details">
+public  void **clear** ()<div class="details">
 <p>Clears all nodes.</p></div>
 
 - - -
@@ -128,10 +118,7 @@ public  void **clear**()
 <div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\ServiceReferenceGraph.php at line 87</div>
 <h3 id="connect()">connect</h3>
 
-```php
-public  void **connect**(string sourceId, string sourceValue, string destId, string destValue, string reference)
-```
-<div class="details">
+public  void **connect** (string sourceId, string sourceValue, string destId, string destValue, string reference)<div class="details">
 <p>Connects 2 nodes together in the Graph.</p></div>
 
 - - -

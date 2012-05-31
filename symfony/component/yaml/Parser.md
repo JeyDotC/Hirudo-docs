@@ -1,3 +1,4 @@
+
 - - -
 
 **Symfony\Component\Yaml\Parser**
@@ -17,6 +18,7 @@
 <dt>Author:</dt>
 <dd>Fabien Potencier <fabien@symfony.com></dd>
 </dl>
+
 - - -
 
 <table id="summary_constructor">
@@ -30,7 +32,7 @@
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type"> mixed</td>
+<td class="type">  mixed</td>
 <td class="description"><p class="name"><a href="#parse">parse</a>(string value)</p><p class="description">Parses a YAML string to a PHP value.</p></td>
 </tr>
 </table>
@@ -55,10 +57,7 @@ public  void **__construct**(integer offset)
 <div class="location">framework\libs\symfony-components\Symfony\Component\Yaml\Parser.php at line 47</div>
 <h3 id="parse()">parse</h3>
 
-```php
-public  mixed **parse**(string value)
-```
-<div class="details">
+public  mixed **parse** (string value)<div class="details">
 <p>Parses a YAML string to a PHP value.</p><dl>
 <dt>Parameters:</dt>
 <dd>value - A YAML string</dd>

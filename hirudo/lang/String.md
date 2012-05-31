@@ -1,3 +1,4 @@
+
 - - -
 
 **Hirudo\Lang\String**
@@ -23,29 +24,30 @@ the PHP string functions.</p></div>
 <dt>Author:</dt>
 <dd>JeyDotC</dd>
 </dl>
+
 - - -
 
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type">static  void</td>
+<td class="type"> static  void</td>
 <td class="description"><p class="name"><a href="#split">split</a>(mixed string, mixed delimiter, mixed limit)</p></td>
 </tr>
 <tr>
-<td class="type">static  void</td>
-<td class="description"><p class="name"><a href="#indexOf">indexOf</a>(mixed haystack, mixed needle, int offset)</p></td>
+<td class="type"> static  void</td>
+<td class="description"><p class="name"><a href="#indexof">indexOf</a>(mixed haystack, mixed needle, int offset)</p></td>
 </tr>
 <tr>
-<td class="type">static  void</td>
-<td class="description"><p class="name"><a href="#lastIndexOf">lastIndexOf</a>(mixed haystack, mixed needle, int offset)</p></td>
+<td class="type"> static  void</td>
+<td class="description"><p class="name"><a href="#lastindexof">lastIndexOf</a>(mixed haystack, mixed needle, int offset)</p></td>
 </tr>
 <tr>
-<td class="type">static  void</td>
-<td class="description"><p class="name"><a href="#toLower">toLower</a>(mixed string)</p></td>
+<td class="type"> static  void</td>
+<td class="description"><p class="name"><a href="#tolower">toLower</a>(mixed string)</p></td>
 </tr>
 <tr>
-<td class="type">static  void</td>
-<td class="description"><p class="name"><a href="#toUpper">toUpper</a>(mixed string)</p></td>
+<td class="type"> static  void</td>
+<td class="description"><p class="name"><a href="#toupper">toUpper</a>(mixed string)</p></td>
 </tr>
 </table>
 
@@ -53,10 +55,7 @@ the PHP string functions.</p></div>
 <div class="location">framework\hirudo\Hirudo\Lang\String.php at line 27</div>
 <h3 id="split()">split</h3>
 
-```php
-public static  void **split**(mixed string, mixed delimiter, mixed limit)
-```
-<div class="details">
+public static  void **split** (mixed string, mixed delimiter, mixed limit)<div class="details">
 </div>
 
 - - -
@@ -64,10 +63,7 @@ public static  void **split**(mixed string, mixed delimiter, mixed limit)
 <div class="location">framework\hirudo\Hirudo\Lang\String.php at line 95</div>
 <h3 id="indexOf()">indexOf</h3>
 
-```php
-public static  void **indexOf**(mixed haystack, mixed needle, int offset)
-```
-<div class="details">
+public static  void **indexOf** (mixed haystack, mixed needle, int offset)<div class="details">
 </div>
 
 - - -
@@ -75,10 +71,7 @@ public static  void **indexOf**(mixed haystack, mixed needle, int offset)
 <div class="location">framework\hirudo\Hirudo\Lang\String.php at line 107</div>
 <h3 id="lastIndexOf()">lastIndexOf</h3>
 
-```php
-public static  void **lastIndexOf**(mixed haystack, mixed needle, int offset)
-```
-<div class="details">
+public static  void **lastIndexOf** (mixed haystack, mixed needle, int offset)<div class="details">
 </div>
 
 - - -
@@ -86,10 +79,7 @@ public static  void **lastIndexOf**(mixed haystack, mixed needle, int offset)
 <div class="location">framework\hirudo\Hirudo\Lang\String.php at line 118</div>
 <h3 id="toLower()">toLower</h3>
 
-```php
-public static  void **toLower**(mixed string)
-```
-<div class="details">
+public static  void **toLower** (mixed string)<div class="details">
 </div>
 
 - - -
@@ -97,10 +87,7 @@ public static  void **toLower**(mixed string)
 <div class="location">framework\hirudo\Hirudo\Lang\String.php at line 124</div>
 <h3 id="toUpper()">toUpper</h3>
 
-```php
-public static  void **toUpper**(mixed string)
-```
-<div class="details">
+public static  void **toUpper** (mixed string)<div class="details">
 </div>
 
 - - -

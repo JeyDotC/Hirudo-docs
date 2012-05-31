@@ -1,3 +1,4 @@
+
 - - -
 
 **Smarty\Smarty_Internal_Resource_PHP**
@@ -25,6 +26,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 <dd>Uwe Tews</dd>
 <dd>Rodney Rehm</dd>
 </dl>
+
 - - -
 
 <table id="summary_field">
@@ -46,20 +48,20 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type"> void</td>
+<td class="type">  void</td>
 <td class="description"><p class="name"><a href="#populate">populate</a>(<a href="../smarty/smarty_template_source.html">Smarty_Template_Source</a> source, <a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> _template)</p><p class="description">populate Source Object with meta data from Resource</p></td>
 </tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#populateTimestamp">populateTimestamp</a>(<a href="../smarty/smarty_template_source.html">Smarty_Template_Source</a> source)</p><p class="description">populate Source Object with timestamp and exists from Resource</p></td>
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#populatetimestamp">populateTimestamp</a>(<a href="../smarty/smarty_template_source.html">Smarty_Template_Source</a> source)</p><p class="description">populate Source Object with timestamp and exists from Resource</p></td>
 </tr>
 <tr>
-<td class="type"> string</td>
-<td class="description"><p class="name"><a href="#getContent">getContent</a>(<a href="../smarty/smarty_template_source.html">Smarty_Template_Source</a> source)</p><p class="description">Load template's source from file into current template object</p></td>
+<td class="type">  string</td>
+<td class="description"><p class="name"><a href="#getcontent">getContent</a>(<a href="../smarty/smarty_template_source.html">Smarty_Template_Source</a> source)</p><p class="description">Load template's source from file into current template object</p></td>
 </tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#renderUncompiled">renderUncompiled</a>(<a href="../smarty/smarty_template_source.html">Smarty_Template_Source</a> source, <a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> _template)</p><p class="description">Render and output the template (without using the compiler)</p></td>
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#renderuncompiled">renderUncompiled</a>(<a href="../smarty/smarty_template_source.html">Smarty_Template_Source</a> source, <a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> _template)</p><p class="description">Render and output the template (without using the compiler)</p></td>
 </tr>
 </table>
 
@@ -75,9 +77,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_resource_php.php at line 18</div>
 <h3 id="short_open_tag">short_open_tag</h3>
 
-```php
-protected  string$short_open_tag = null
-```
+protected  string $short_open_tag = null
 <div class="details">
 <p>container for short_open_tag directive's value before executing PHP templates</p></div>
 
@@ -99,10 +99,7 @@ public  void **__construct**()
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_resource_php.php at line 36</div>
 <h3 id="populate()">populate</h3>
 
-```php
-public  void **populate**(<a href="../smarty/smarty_template_source.html">Smarty_Template_Source</a> source, <a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> _template)
-```
-<div class="details">
+public  void **populate** (<a href="../smarty/smarty_template_source.html">Smarty_Template_Source</a> source, <a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> _template)<div class="details">
 <p>populate Source Object with meta data from Resource</p><dl>
 <dt>Parameters:</dt>
 <dd>source - source object</dd>
@@ -115,10 +112,7 @@ public  void **populate**(<a href="../smarty/smarty_template_source.html">Smarty
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_resource_php.php at line 59</div>
 <h3 id="populateTimestamp()">populateTimestamp</h3>
 
-```php
-public  void **populateTimestamp**(<a href="../smarty/smarty_template_source.html">Smarty_Template_Source</a> source)
-```
-<div class="details">
+public  void **populateTimestamp** (<a href="../smarty/smarty_template_source.html">Smarty_Template_Source</a> source)<div class="details">
 <p>populate Source Object with timestamp and exists from Resource</p><dl>
 <dt>Parameters:</dt>
 <dd>source - source object</dd>
@@ -130,10 +124,7 @@ public  void **populateTimestamp**(<a href="../smarty/smarty_template_source.htm
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_resource_php.php at line 72</div>
 <h3 id="getContent()">getContent</h3>
 
-```php
-public  string **getContent**(<a href="../smarty/smarty_template_source.html">Smarty_Template_Source</a> source)
-```
-<div class="details">
+public  string **getContent** (<a href="../smarty/smarty_template_source.html">Smarty_Template_Source</a> source)<div class="details">
 <p>Load template's source from file into current template object</p><dl>
 <dt>Parameters:</dt>
 <dd>source - source object</dd>
@@ -149,10 +140,7 @@ public  string **getContent**(<a href="../smarty/smarty_template_source.html">Sm
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_resource_php.php at line 88</div>
 <h3 id="renderUncompiled()">renderUncompiled</h3>
 
-```php
-public  void **renderUncompiled**(<a href="../smarty/smarty_template_source.html">Smarty_Template_Source</a> source, <a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> _template)
-```
-<div class="details">
+public  void **renderUncompiled** (<a href="../smarty/smarty_template_source.html">Smarty_Template_Source</a> source, <a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> _template)<div class="details">
 <p>Render and output the template (without using the compiler)</p><dl>
 <dt>Parameters:</dt>
 <dd>source - source object</dd>

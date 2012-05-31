@@ -1,3 +1,4 @@
+
 - - -
 
 **Smarty\Smarty_Internal_Configfilelexer**
@@ -12,6 +13,7 @@
 <p class="signature">public  class **Smarty_Internal_Configfilelexer**</p>
 
 <div class="comment" id="overview_description"><p>Smarty Internal Plugin Configfilelexer</p></div>
+
 
 - - -
 
@@ -58,27 +60,27 @@
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type">static  void</td>
+<td class="type"> static  void</td>
 <td class="description"><p class="name"><a href="#instance">instance</a>(mixed new_instance)</p></td>
 </tr>
 <tr>
-<td class="type"> void</td>
+<td class="type">  void</td>
 <td class="description"><p class="name"><a href="#yylex">yylex</a>()</p></td>
 </tr>
 <tr>
-<td class="type"> void</td>
+<td class="type">  void</td>
 <td class="description"><p class="name"><a href="#yypushstate">yypushstate</a>(mixed state)</p></td>
 </tr>
 <tr>
-<td class="type"> void</td>
+<td class="type">  void</td>
 <td class="description"><p class="name"><a href="#yypopstate">yypopstate</a>()</p></td>
 </tr>
 <tr>
-<td class="type"> void</td>
+<td class="type">  void</td>
 <td class="description"><p class="name"><a href="#yybegin">yybegin</a>(mixed state)</p></td>
 </tr>
 <tr>
-<td class="type"> void</td>
+<td class="type">  void</td>
 <td class="description"><p class="name"><a href="#yylex1">yylex1</a>()</p></td>
 </tr>
 </table>
@@ -87,9 +89,7 @@
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_configfilelexer.php at line 17</div>
 <h3 id="counter">counter</h3>
 
-```php
-public  mixed$counter
-```
+public  mixed $counter
 <div class="details">
 </div>
 
@@ -98,9 +98,7 @@ public  mixed$counter
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_configfilelexer.php at line 16</div>
 <h3 id="data">data</h3>
 
-```php
-public  mixed$data = null
-```
+public  mixed $data = null
 <div class="details">
 </div>
 
@@ -109,9 +107,7 @@ public  mixed$data = null
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_configfilelexer.php at line 21</div>
 <h3 id="line">line</h3>
 
-```php
-public  mixed$line
-```
+public  mixed $line
 <div class="details">
 </div>
 
@@ -120,9 +116,7 @@ public  mixed$line
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_configfilelexer.php at line 20</div>
 <h3 id="node">node</h3>
 
-```php
-public  mixed$node
-```
+public  mixed $node
 <div class="details">
 </div>
 
@@ -131,9 +125,7 @@ public  mixed$node
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_configfilelexer.php at line 23</div>
 <h3 id="smarty_token_names">smarty_token_names</h3>
 
-```php
-public  mixed$smarty_token_names = array(...)
-```
+public  mixed $smarty_token_names = array(...)
 <div class="details">
 </div>
 
@@ -142,9 +134,7 @@ public  mixed$smarty_token_names = array(...)
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_configfilelexer.php at line 18</div>
 <h3 id="token">token</h3>
 
-```php
-public  mixed$token
-```
+public  mixed $token
 <div class="details">
 </div>
 
@@ -153,9 +143,7 @@ public  mixed$token
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_configfilelexer.php at line 19</div>
 <h3 id="value">value</h3>
 
-```php
-public  mixed$value
-```
+public  mixed $value
 <div class="details">
 </div>
 
@@ -177,10 +165,7 @@ public  void **__construct**(mixed data, mixed smarty)
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_configfilelexer.php at line 36</div>
 <h3 id="instance()">instance</h3>
 
-```php
-public static  void **instance**(mixed new_instance)
-```
-<div class="details">
+public static  void **instance** (mixed new_instance)<div class="details">
 </div>
 
 - - -
@@ -188,10 +173,7 @@ public static  void **instance**(mixed new_instance)
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_configfilelexer.php at line 49</div>
 <h3 id="yylex()">yylex</h3>
 
-```php
-public  void **yylex**()
-```
-<div class="details">
+public  void **yylex** ()<div class="details">
 </div>
 
 - - -
@@ -199,10 +181,7 @@ public  void **yylex**()
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_configfilelexer.php at line 54</div>
 <h3 id="yypushstate()">yypushstate</h3>
 
-```php
-public  void **yypushstate**(mixed state)
-```
-<div class="details">
+public  void **yypushstate** (mixed state)<div class="details">
 </div>
 
 - - -
@@ -210,10 +189,7 @@ public  void **yypushstate**(mixed state)
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_configfilelexer.php at line 60</div>
 <h3 id="yypopstate()">yypopstate</h3>
 
-```php
-public  void **yypopstate**()
-```
-<div class="details">
+public  void **yypopstate** ()<div class="details">
 </div>
 
 - - -
@@ -221,10 +197,7 @@ public  void **yypopstate**()
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_configfilelexer.php at line 65</div>
 <h3 id="yybegin()">yybegin</h3>
 
-```php
-public  void **yybegin**(mixed state)
-```
-<div class="details">
+public  void **yybegin** (mixed state)<div class="details">
 </div>
 
 - - -
@@ -232,10 +205,7 @@ public  void **yybegin**(mixed state)
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_configfilelexer.php at line 73</div>
 <h3 id="yylex1()">yylex1</h3>
 
-```php
-public  void **yylex1**()
-```
-<div class="details">
+public  void **yylex1** ()<div class="details">
 </div>
 
 - - -

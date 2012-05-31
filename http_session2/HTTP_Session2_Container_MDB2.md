@@ -1,3 +1,4 @@
+
 - - -
 
 **HTTP_Session2\HTTP_Session2_Container_MDB2**
@@ -40,6 +41,7 @@ PRIMARY KEY (`id`)
 <dd>MDB2</dd>
 <dd>MDB2_Driver_</dd>
 </dl>
+
 - - -
 
 <table id="summary_field">
@@ -77,39 +79,39 @@ the table on garbage collection, default is 'false'.
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type">protected  boolean</td>
+<td class="type"> protected  boolean</td>
 <td class="description"><p class="name"><a href="#connect">connect</a>(mixed dsn)</p><p class="description">Connect to database by using the given DSN string</p></td>
 </tr>
 <tr>
-<td class="type">protected  void</td>
-<td class="description"><p class="name"><a href="#setDefaults">setDefaults</a>()</p><p class="description">Set some default options</p></td>
+<td class="type"> protected  void</td>
+<td class="description"><p class="name"><a href="#setdefaults">setDefaults</a>()</p><p class="description">Set some default options</p></td>
 </tr>
 <tr>
-<td class="type"> boolean</td>
+<td class="type">  boolean</td>
 <td class="description"><p class="name"><a href="#open">open</a>(string save_path, string session_name)</p><p class="description">Establish connection to a database</p></td>
 </tr>
 <tr>
-<td class="type"> boolean</td>
+<td class="type">  boolean</td>
 <td class="description"><p class="name"><a href="#close">close</a>()</p><p class="description">Free resources</p></td>
 </tr>
 <tr>
-<td class="type"> mixed</td>
+<td class="type">  mixed</td>
 <td class="description"><p class="name"><a href="#read">read</a>(string id)</p><p class="description">Read session data</p></td>
 </tr>
 <tr>
-<td class="type"> boolean</td>
+<td class="type">  boolean</td>
 <td class="description"><p class="name"><a href="#write">write</a>(string id, string data)</p><p class="description">Write session data</p></td>
 </tr>
 <tr>
-<td class="type"> boolean</td>
+<td class="type">  boolean</td>
 <td class="description"><p class="name"><a href="#destroy">destroy</a>(string id)</p><p class="description">Destroy session data</p></td>
 </tr>
 <tr>
-<td class="type"> boolean</td>
+<td class="type">  boolean</td>
 <td class="description"><p class="name"><a href="#gc">gc</a>(int maxlifetime)</p><p class="description">Garbage collectionCurrently supported are mysql, mysqli and pgsql.</p></td>
 </tr>
 <tr>
-<td class="type"> boolean</td>
+<td class="type">  boolean</td>
 <td class="description"><p class="name"><a href="#replicate">replicate</a>(string target, string id)</p><p class="description">Replicate session data to specified target</p></td>
 </tr>
 </table>
@@ -122,9 +124,7 @@ the table on garbage collection, default is 'false'.
 <div class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\MDB2.php at line 69</div>
 <h3 id="crc">crc</h3>
 
-```php
-protected  mixed$crc = false
-```
+protected  mixed $crc = false
 <div class="details">
 <p>Session data cache id</p></div>
 
@@ -133,9 +133,7 @@ protected  mixed$crc = false
 <div class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\MDB2.php at line 62</div>
 <h3 id="db">db</h3>
 
-```php
-protected  object DB$db = null
-```
+protected  object DB $db = null
 <div class="details">
 <p>MDB2 connection object</p></div>
 
@@ -169,10 +167,7 @@ the table on garbage collection, default is 'false'.</li>
 <div class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\MDB2.php at line 100</div>
 <h3 id="connect()">connect</h3>
 
-```php
-protected  boolean **connect**(mixed dsn)
-```
-<div class="details">
+protected  boolean **connect** (mixed dsn)<div class="details">
 <p>Connect to database by using the given DSN string</p><dl>
 <dt>Parameters:</dt>
 <dd>dsn - DSN string or MDB2 object</dd>
@@ -186,10 +181,7 @@ protected  boolean **connect**(mixed dsn)
 <div class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\MDB2.php at line 134</div>
 <h3 id="setDefaults()">setDefaults</h3>
 
-```php
-protected  void **setDefaults**()
-```
-<div class="details">
+protected  void **setDefaults** ()<div class="details">
 <p>Set some default options</p></div>
 
 - - -
@@ -197,10 +189,7 @@ protected  void **setDefaults**()
 <div class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\MDB2.php at line 151</div>
 <h3 id="open()">open</h3>
 
-```php
-public  boolean **open**(string save_path, string session_name)
-```
-<div class="details">
+public  boolean **open** (string save_path, string session_name)<div class="details">
 <p>Establish connection to a database</p><dl>
 <dt>Parameters:</dt>
 <dd>save_path - The path to save/write sessions.</dd>
@@ -216,10 +205,7 @@ public  boolean **open**(string save_path, string session_name)
 <div class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\MDB2.php at line 161</div>
 <h3 id="close()">close</h3>
 
-```php
-public  boolean **close**()
-```
-<div class="details">
+public  boolean **close** ()<div class="details">
 <p>Free resources</p></div>
 
 - - -
@@ -227,10 +213,7 @@ public  boolean **close**()
 <div class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\MDB2.php at line 178</div>
 <h3 id="read()">read</h3>
 
-```php
-public  mixed **read**(string id)
-```
-<div class="details">
+public  mixed **read** (string id)<div class="details">
 <p>Read session data</p><dl>
 <dt>Parameters:</dt>
 <dd>id - The Id!</dd>
@@ -246,10 +229,7 @@ public  mixed **read**(string id)
 <div class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\MDB2.php at line 203</div>
 <h3 id="write()">write</h3>
 
-```php
-public  boolean **write**(string id, string data)
-```
-<div class="details">
+public  boolean **write** (string id, string data)<div class="details">
 <p>Write session data</p><dl>
 <dt>Parameters:</dt>
 <dd>id - The id.</dd>
@@ -264,10 +244,7 @@ public  boolean **write**(string id, string data)
 <div class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\MDB2.php at line 261</div>
 <h3 id="destroy()">destroy</h3>
 
-```php
-public  boolean **destroy**(string id)
-```
-<div class="details">
+public  boolean **destroy** (string id)<div class="details">
 <p>Destroy session data</p><dl>
 <dt>Parameters:</dt>
 <dd>id - The id.</dd>
@@ -281,10 +258,7 @@ public  boolean **destroy**(string id)
 <div class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\MDB2.php at line 286</div>
 <h3 id="gc()">gc</h3>
 
-```php
-public  boolean **gc**(int maxlifetime)
-```
-<div class="details">
+public  boolean **gc** (int maxlifetime)<div class="details">
 <p>Garbage collection</p><p>Currently supported are mysql, mysqli and pgsql.</p><dl>
 <dt>Parameters:</dt>
 <dd>maxlifetime - The session's maximum lifetime.</dd>
@@ -300,10 +274,7 @@ public  boolean **gc**(int maxlifetime)
 <div class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\MDB2.php at line 319</div>
 <h3 id="replicate()">replicate</h3>
 
-```php
-public  boolean **replicate**(string target, string id)
-```
-<div class="details">
+public  boolean **replicate** (string target, string id)<div class="details">
 <p>Replicate session data to specified target</p><dl>
 <dt>Parameters:</dt>
 <dd>target - The target (table) to replicate to.</dd>

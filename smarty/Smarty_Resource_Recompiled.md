@@ -1,3 +1,4 @@
+
 - - -
 
 **Smarty\Smarty_Resource_Recompiled**
@@ -26,6 +27,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 <dt>Subpackage:</dt>
 <dd>TemplateResources</dd>
 </dl>
+
 - - -
 
 <table class="inherit">
@@ -35,8 +37,8 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#populateCompiledFilepath">populateCompiledFilepath</a>(<a href="../smarty/smarty_template_compiled.html">Smarty_Template_Compiled</a> compiled, <a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> _template)</p><p class="description">populate Compiled Object with compiled filepath</p></td>
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#populatecompiledfilepath">populateCompiledFilepath</a>(<a href="../smarty/smarty_template_compiled.html">Smarty_Template_Compiled</a> compiled, <a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> _template)</p><p class="description">populate Compiled Object with compiled filepath</p></td>
 </tr>
 </table>
 
@@ -48,10 +50,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 <div class="location">framework\libs\smarty\sysplugins\smarty_resource_recompiled.php at line 27</div>
 <h3 id="populateCompiledFilepath()">populateCompiledFilepath</h3>
 
-```php
-public  void **populateCompiledFilepath**(<a href="../smarty/smarty_template_compiled.html">Smarty_Template_Compiled</a> compiled, <a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> _template)
-```
-<div class="details">
+public  void **populateCompiledFilepath** (<a href="../smarty/smarty_template_compiled.html">Smarty_Template_Compiled</a> compiled, <a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> _template)<div class="details">
 <p>populate Compiled Object with compiled filepath</p><dl>
 <dt>Parameters:</dt>
 <dd>compiled - compiled object</dd>

@@ -1,3 +1,4 @@
+
 - - -
 
 **Symfony\Component\DependencyInjection\Dumper\XmlDumper**
@@ -23,6 +24,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/comp
 <dd>Martin Hasoň <martin.hason@gmail.com></dd>
 <dt>Api.</dt>
 </dl>
+
 - - -
 
 <table class="inherit">
@@ -32,12 +34,12 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/comp
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type"> string</td>
+<td class="type">  string</td>
 <td class="description"><p class="name"><a href="#dump">dump</a>(array options)</p><p class="description">Dumps the service container as an XML string.</p></td>
 </tr>
 <tr>
-<td class="type">static  void</td>
-<td class="description"><p class="name"><a href="#phpToXml">phpToXml</a>(mixed value)</p><p class="description">Converts php types to xml types.</p></td>
+<td class="type"> static  void</td>
+<td class="description"><p class="name"><a href="#phptoxml">phpToXml</a>(mixed value)</p><p class="description">Converts php types to xml types.</p></td>
 </tr>
 </table>
 
@@ -49,10 +51,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/comp
 <div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Dumper\XmlDumper.php at line 43</div>
 <h3 id="dump()">dump</h3>
 
-```php
-public  string **dump**(array options)
-```
-<div class="details">
+public  string **dump** (array options)<div class="details">
 <p>Dumps the service container as an XML string.</p><dl>
 <dt>Parameters:</dt>
 <dd>options - An array of options</dd>
@@ -67,10 +66,7 @@ public  string **dump**(array options)
 <div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Dumper\XmlDumper.php at line 288</div>
 <h3 id="phpToXml()">phpToXml</h3>
 
-```php
-public static  void **phpToXml**(mixed value)
-```
-<div class="details">
+public static  void **phpToXml** (mixed value)<div class="details">
 <p>Converts php types to xml types.</p><dl>
 <dt>Parameters:</dt>
 <dd>value - Value to convert</dd>

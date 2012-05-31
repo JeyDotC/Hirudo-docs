@@ -1,3 +1,4 @@
+
 - - -
 
 **HTTP_Session2\HTTP_Session2_Container**
@@ -31,6 +32,7 @@
 <dt>See Also:</dt>
 <dd><code><a href="http://pear.php.net/package/HTTP_Session2">http://pear.php.net/package/HTTP_Session2</a></code></dd>
 </dl>
+
 - - -
 
 <table id="summary_field">
@@ -52,15 +54,15 @@
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type">protected  void</td>
-<td class="description"><p class="name"><a href="#setDefaults">setDefaults</a>()</p><p class="description">Set some default options</p></td>
+<td class="type"> protected  void</td>
+<td class="description"><p class="name"><a href="#setdefaults">setDefaults</a>()</p><p class="description">Set some default options</p></td>
 </tr>
 <tr>
-<td class="type">protected  void</td>
-<td class="description"><p class="name"><a href="#parseOptions">parseOptions</a>(array options)</p><p class="description">Parse options passed to the container class</p></td>
+<td class="type"> protected  void</td>
+<td class="description"><p class="name"><a href="#parseoptions">parseOptions</a>(array options)</p><p class="description">Parse options passed to the container class</p></td>
 </tr>
 <tr>
-<td class="type"> void</td>
+<td class="type">  void</td>
 <td class="description"><p class="name"><a href="#set">set</a>()</p><p class="description">Set session save handler</p></td>
 </tr>
 </table>
@@ -69,9 +71,7 @@
 <div class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container.php at line 71</div>
 <h3 id="options">options</h3>
 
-```php
-protected  array$options = array()
-```
+protected  array $options = array()
 <div class="details">
 <p>Additional options for the container object</p></div>
 
@@ -97,10 +97,7 @@ public  void **__construct**(array options)
 <div class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container.php at line 103</div>
 <h3 id="setDefaults()">setDefaults</h3>
 
-```php
-protected  void **setDefaults**()
-```
-<div class="details">
+protected  void **setDefaults** ()<div class="details">
 <p>Set some default options</p></div>
 
 - - -
@@ -108,10 +105,7 @@ protected  void **setDefaults**()
 <div class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container.php at line 114</div>
 <h3 id="parseOptions()">parseOptions</h3>
 
-```php
-protected  void **parseOptions**(array options)
-```
-<div class="details">
+protected  void **parseOptions** (array options)<div class="details">
 <p>Parse options passed to the container class</p><dl>
 <dt>Parameters:</dt>
 <dd>options - Options</dd>
@@ -123,10 +117,7 @@ protected  void **parseOptions**(array options)
 <div class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container.php at line 128</div>
 <h3 id="set()">set</h3>
 
-```php
-public  void **set**()
-```
-<div class="details">
+public  void **set** ()<div class="details">
 <p>Set session save handler</p></div>
 
 - - -

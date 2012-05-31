@@ -1,3 +1,4 @@
+
 - - -
 
 **Symfony\Component\DependencyInjection\Reference**
@@ -18,6 +19,7 @@
 <dd>Fabien Potencier <fabien@symfony.com></dd>
 <dt>Api.</dt>
 </dl>
+
 - - -
 
 <table id="summary_constructor">
@@ -31,12 +33,12 @@
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type"> int</td>
-<td class="description"><p class="name"><a href="#getInvalidBehavior">getInvalidBehavior</a>()</p><p class="description">Returns the behavior to be used when the service does not exist.</p></td>
+<td class="type">  int</td>
+<td class="description"><p class="name"><a href="#getinvalidbehavior">getInvalidBehavior</a>()</p><p class="description">Returns the behavior to be used when the service does not exist.</p></td>
 </tr>
 <tr>
-<td class="type"> Boolean</td>
-<td class="description"><p class="name"><a href="#isStrict">isStrict</a>()</p><p class="description">Returns true when this Reference is strict</p></td>
+<td class="type">  Boolean</td>
+<td class="description"><p class="name"><a href="#isstrict">isStrict</a>()</p><p class="description">Returns true when this Reference is strict</p></td>
 </tr>
 </table>
 
@@ -64,10 +66,7 @@ public  void **__construct**(string id, int invalidBehavior, Boolean strict)
 <div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Reference.php at line 58</div>
 <h3 id="getInvalidBehavior()">getInvalidBehavior</h3>
 
-```php
-public  int **getInvalidBehavior**()
-```
-<div class="details">
+public  int **getInvalidBehavior** ()<div class="details">
 <p>Returns the behavior to be used when the service does not exist.</p></div>
 
 - - -
@@ -75,10 +74,7 @@ public  int **getInvalidBehavior**()
 <div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Reference.php at line 68</div>
 <h3 id="isStrict()">isStrict</h3>
 
-```php
-public  Boolean **isStrict**()
-```
-<div class="details">
+public  Boolean **isStrict** ()<div class="details">
 <p>Returns true when this Reference is strict</p></div>
 
 - - -

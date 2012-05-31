@@ -1,3 +1,4 @@
+
 - - -
 
 **Hirudo\Lang\Str**
@@ -21,6 +22,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/lang/
 <dt>Author:</dt>
 <dd>JeyDotC</dd>
 </dl>
+
 - - -
 
 <table class="inherit">

@@ -1,3 +1,4 @@
+
 - - -
 
 **Hirudo\Models\Components\Restful\RequestFailedException**
@@ -15,6 +16,7 @@ extends Exception
 
 </p>
 
+
 - - -
 
 <table id="summary_constructor">
@@ -28,12 +30,12 @@ extends Exception
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#getErrorCode">getErrorCode</a>()</p></td>
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#geterrorcode">getErrorCode</a>()</p></td>
 </tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#getResponseInfo">getResponseInfo</a>()</p></td>
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#getresponseinfo">getResponseInfo</a>()</p></td>
 </tr>
 </table>
 
@@ -53,10 +55,7 @@ public  void **__construct**(mixed ch, mixed responseInfo, str url, int code)
 <div class="location">framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 257</div>
 <h3 id="getErrorCode()">getErrorCode</h3>
 
-```php
-public  void **getErrorCode**()
-```
-<div class="details">
+public  void **getErrorCode** ()<div class="details">
 </div>
 
 - - -
@@ -64,10 +63,7 @@ public  void **getErrorCode**()
 <div class="location">framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 261</div>
 <h3 id="getResponseInfo()">getResponseInfo</h3>
 
-```php
-public  void **getResponseInfo**()
-```
-<div class="details">
+public  void **getResponseInfo** ()<div class="details">
 </div>
 
 - - -

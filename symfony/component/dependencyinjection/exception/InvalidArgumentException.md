@@ -1,3 +1,4 @@
+
 - - -
 
 **Symfony\Component\DependencyInjection\Exception\InvalidArgumentException**
@@ -31,5 +32,6 @@ extends BaseInvalidArgumentException
 <dt>Author:</dt>
 <dd>Bulat Shakirzyanov <bulat@theopenskyproject.com></dd>
 </dl>
+
 - - -
 

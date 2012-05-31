@@ -1,3 +1,4 @@
+
 - - -
 
 **Hirudo\Core\Exceptions\ApplicationNotFoundException**
@@ -22,6 +23,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/
 <dt>Author:</dt>
 <dd>JeyDotC</dd>
 </dl>
+
 - - -
 
 <table id="summary_constructor">

@@ -1,3 +1,4 @@
+
 - - -
 
 **Symfony\Component\DependencyInjection\Dumper\Dumper**
@@ -23,6 +24,7 @@
 <dd>Fabien Potencier <fabien@symfony.com></dd>
 <dt>Api.</dt>
 </dl>
+
 - - -
 
 <table id="summary_field">
@@ -45,9 +47,7 @@
 <div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Dumper\Dumper.php at line 25</div>
 <h3 id="container">container</h3>
 
-```php
-protected  mixed$container
-```
+protected  mixed $container
 <div class="details">
 </div>
 

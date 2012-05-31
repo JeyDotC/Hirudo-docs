@@ -1,3 +1,4 @@
+
 - - -
 
 **Doctrine\Common\Annotations\Annotation\Target**
@@ -19,6 +20,7 @@ to check the annotation target during the parsing process.</p></div>
 <dd>Fabio B. Silva <fabio.bat.silva@gmail.com></dd>
 <dt>Annotation.</dt>
 </dl>
+
 - - -
 
 <table id="summary_field">
@@ -49,9 +51,7 @@ to check the annotation target during the parsing process.</p></div>
 <div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\Annotation\Target.php at line 52</div>
 <h3 id="literal">literal</h3>
 
-```php
-public  integer$literal
-```
+public  integer $literal
 <div class="details">
 <p>Literal target declaration.</p></div>
 
@@ -60,9 +60,7 @@ public  integer$literal
 <div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\Annotation\Target.php at line 45</div>
 <h3 id="targets">targets</h3>
 
-```php
-public  integer$targets
-```
+public  integer $targets
 <div class="details">
 <p>Targets as bitmask.</p></div>
 
@@ -71,9 +69,7 @@ public  integer$targets
 <div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\Annotation\Target.php at line 38</div>
 <h3 id="value">value</h3>
 
-```php
-public  array$value
-```
+public  array $value
 <div class="details">
 <p></p></div>
 

@@ -1,3 +1,4 @@
+
 - - -
 
 **Smarty\Smarty_Internal_Compile_Extends**
@@ -21,6 +22,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 <dt>Subpackage:</dt>
 <dd>Compiler</dd>
 </dl>
+
 - - -
 
 <table id="summary_field">
@@ -46,7 +48,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type"> string</td>
+<td class="type">  string</td>
 <td class="description"><p class="name"><a href="#compile">compile</a>(array args, object compiler)</p><p class="description">Compiles code for the {extends} tag</p></td>
 </tr>
 </table>
@@ -59,9 +61,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_extends.php at line 40</div>
 <h3 id="mbstring_overload">mbstring_overload</h3>
 
-```php
-public  int$mbstring_overload = 0
-```
+public  int $mbstring_overload = 0
 <div class="details">
 <p>mbstring.overload flag</p></div>
 
@@ -70,9 +70,7 @@ public  int$mbstring_overload = 0
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_extends.php at line 27</div>
 <h3 id="required_attributes">required_attributes</h3>
 
-```php
-public  array$required_attributes = array('file')
-```
+public  array $required_attributes = array('file')
 <div class="details">
 <p>Attribute definition: Overwrites base class.</p><dl>
 <dt>See Also:</dt>
@@ -85,9 +83,7 @@ public  array$required_attributes = array('file')
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_extends.php at line 34</div>
 <h3 id="shorttag_order">shorttag_order</h3>
 
-```php
-public  array$shorttag_order = array('file')
-```
+public  array $shorttag_order = array('file')
 <div class="details">
 <p>Attribute definition: Overwrites base class.</p><dl>
 <dt>See Also:</dt>
@@ -101,10 +97,7 @@ public  array$shorttag_order = array('file')
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_extends.php at line 49</div>
 <h3 id="compile()">compile</h3>
 
-```php
-public  string **compile**(array args, object compiler)
-```
-<div class="details">
+public  string **compile** (array args, object compiler)<div class="details">
 <p>Compiles code for the {extends} tag</p><dl>
 <dt>Parameters:</dt>
 <dd>args - array with attributes from parser</dd>

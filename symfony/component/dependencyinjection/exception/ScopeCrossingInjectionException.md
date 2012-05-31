@@ -1,3 +1,4 @@
+
 - - -
 
 **Symfony\Component\DependencyInjection\Exception\ScopeCrossingInjectionException**
@@ -22,6 +23,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/comp
 <dt>Author:</dt>
 <dd>Johannes M. Schmitt <schmittjoh@gmail.com></dd>
 </dl>
+
 - - -
 
 <table id="summary_constructor">
@@ -35,20 +37,20 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/comp
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#getSourceServiceId">getSourceServiceId</a>()</p></td>
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#getsourceserviceid">getSourceServiceId</a>()</p></td>
 </tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#getSourceScope">getSourceScope</a>()</p></td>
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#getsourcescope">getSourceScope</a>()</p></td>
 </tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#getDestServiceId">getDestServiceId</a>()</p></td>
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#getdestserviceid">getDestServiceId</a>()</p></td>
 </tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#getDestScope">getDestScope</a>()</p></td>
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#getdestscope">getDestScope</a>()</p></td>
 </tr>
 </table>
 
@@ -68,10 +70,7 @@ public  void **__construct**(mixed sourceServiceId, mixed sourceScope, mixed des
 <div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Exception\ScopeCrossingInjectionException.php at line 46</div>
 <h3 id="getSourceServiceId()">getSourceServiceId</h3>
 
-```php
-public  void **getSourceServiceId**()
-```
-<div class="details">
+public  void **getSourceServiceId** ()<div class="details">
 </div>
 
 - - -
@@ -79,10 +78,7 @@ public  void **getSourceServiceId**()
 <div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Exception\ScopeCrossingInjectionException.php at line 51</div>
 <h3 id="getSourceScope()">getSourceScope</h3>
 
-```php
-public  void **getSourceScope**()
-```
-<div class="details">
+public  void **getSourceScope** ()<div class="details">
 </div>
 
 - - -
@@ -90,10 +86,7 @@ public  void **getSourceScope**()
 <div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Exception\ScopeCrossingInjectionException.php at line 56</div>
 <h3 id="getDestServiceId()">getDestServiceId</h3>
 
-```php
-public  void **getDestServiceId**()
-```
-<div class="details">
+public  void **getDestServiceId** ()<div class="details">
 </div>
 
 - - -
@@ -101,10 +94,7 @@ public  void **getDestServiceId**()
 <div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Exception\ScopeCrossingInjectionException.php at line 61</div>
 <h3 id="getDestScope()">getDestScope</h3>
 
-```php
-public  void **getDestScope**()
-```
-<div class="details">
+public  void **getDestScope** ()<div class="details">
 </div>
 
 - - -

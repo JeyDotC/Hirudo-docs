@@ -1,3 +1,4 @@
+
 - - -
 
 **Symfony\Component\Yaml\Exception\DumpException**
@@ -27,5 +28,6 @@ extends \RuntimeException
 <dd>Fabien Potencier <fabien@symfony.com></dd>
 <dt>Api.</dt>
 </dl>
+
 - - -
 

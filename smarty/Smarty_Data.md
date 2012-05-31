@@ -1,3 +1,4 @@
+
 - - -
 
 **Smarty\Smarty_Data**
@@ -21,6 +22,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 <dt>Subpackage:</dt>
 <dd>Template</dd>
 </dl>
+
 - - -
 
 <table id="summary_field">
@@ -51,9 +53,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_data.php at line 433</div>
 <h3 id="smarty">smarty</h3>
 
-```php
-public  <a href="../smarty/smarty.html">Smarty</a>$smarty = null
-```
+public  <a href="../smarty/smarty.html">Smarty</a> $smarty = null
 <div class="details">
 <p>Smarty object</p></div>
 

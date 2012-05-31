@@ -1,3 +1,4 @@
+
 - - -
 
 **Smarty\Smarty_Internal_Compile_Assign**
@@ -26,6 +27,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 <dt>Subpackage:</dt>
 <dd>Compiler</dd>
 </dl>
+
 - - -
 
 <table class="inherit">
@@ -35,7 +37,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type"> string</td>
+<td class="type">  string</td>
 <td class="description"><p class="name"><a href="#compile">compile</a>(array args, object compiler, array parameter)</p><p class="description">Compiles code for the {assign} tag</p></td>
 </tr>
 </table>
@@ -48,10 +50,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_assign.php at line 28</div>
 <h3 id="compile()">compile</h3>
 
-```php
-public  string **compile**(array args, object compiler, array parameter)
-```
-<div class="details">
+public  string **compile** (array args, object compiler, array parameter)<div class="details">
 <p>Compiles code for the {assign} tag</p><dl>
 <dt>Parameters:</dt>
 <dd>args - array with attributes from parser</dd>

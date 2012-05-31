@@ -1,3 +1,4 @@
+
 - - -
 
 **Smarty\Smarty_Internal_SmartyTemplateCompiler**
@@ -21,6 +22,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 <dt>Subpackage:</dt>
 <dd>Compiler</dd>
 </dl>
+
 - - -
 
 <table id="summary_field">
@@ -66,8 +68,8 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type">protected  bool</td>
-<td class="description"><p class="name"><a href="#doCompile">doCompile</a>(mixed _content)</p><p class="description">Methode to compile a Smarty template</p></td>
+<td class="type"> protected  bool</td>
+<td class="description"><p class="name"><a href="#docompile">doCompile</a>(mixed _content)</p><p class="description">Methode to compile a Smarty template</p></td>
 </tr>
 </table>
 
@@ -79,9 +81,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_smartytemplatecompiler.php at line 44</div>
 <h3 id="lex">lex</h3>
 
-```php
-public  object$lex
-```
+public  object $lex
 <div class="details">
 <p>Lexer object</p></div>
 
@@ -90,9 +90,7 @@ public  object$lex
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_smartytemplatecompiler.php at line 30</div>
 <h3 id="lexer_class">lexer_class</h3>
 
-```php
-public  string$lexer_class = null
-```
+public  string $lexer_class = null
 <div class="details">
 <p>Lexer class name</p></div>
 
@@ -101,9 +99,7 @@ public  string$lexer_class = null
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_smartytemplatecompiler.php at line 65</div>
 <h3 id="local_var">local_var</h3>
 
-```php
-public  array$local_var = array()
-```
+public  array $local_var = array()
 <div class="details">
 <p>array of vars which can be compiled in local scope</p></div>
 
@@ -112,9 +108,7 @@ public  array$local_var = array()
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_smartytemplatecompiler.php at line 51</div>
 <h3 id="parser">parser</h3>
 
-```php
-public  object$parser
-```
+public  object $parser
 <div class="details">
 <p>Parser object</p></div>
 
@@ -123,9 +117,7 @@ public  object$parser
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_smartytemplatecompiler.php at line 37</div>
 <h3 id="parser_class">parser_class</h3>
 
-```php
-public  string$parser_class
-```
+public  string $parser_class
 <div class="details">
 <p>Parser class name</p></div>
 
@@ -134,9 +126,7 @@ public  string$parser_class
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_smartytemplatecompiler.php at line 58</div>
 <h3 id="smarty">smarty</h3>
 
-```php
-public  object$smarty
-```
+public  object $smarty
 <div class="details">
 <p>Smarty object</p></div>
 
@@ -164,10 +154,7 @@ public  void **__construct**(string lexer_class, string parser_class, <a href=".
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_smartytemplatecompiler.php at line 89</div>
 <h3 id="doCompile()">doCompile</h3>
 
-```php
-protected  bool **doCompile**(mixed _content)
-```
-<div class="details">
+protected  bool **doCompile** (mixed _content)<div class="details">
 <p>Methode to compile a Smarty template</p><dl>
 <dt>Parameters:</dt>
 <dd>_content - template source</dd>

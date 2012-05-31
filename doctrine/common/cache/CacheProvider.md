@@ -1,3 +1,4 @@
+
 - - -
 
 **Doctrine\Common\Cache\CacheProvider**
@@ -33,17 +34,18 @@
 <dd>Roman Borschel <roman@code-factory.org></dd>
 <dd>Fabio B. Silva <fabio.bat.silva@gmail.com></dd>
 </dl>
+
 - - -
 
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type"> void</td>
+<td class="type">  void</td>
 <td class="description"><p class="name"><a href="#delete">delete</a>(mixed id)</p><p class="description">Deletes a cache entry.</p></td>
 </tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#getStats">getStats</a>()</p><p class="description">Retrieves cached information from data storeThe server's statistics array has the following values:- <b>hits</b>
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#getstats">getStats</a>()</p><p class="description">Retrieves cached information from data storeThe server's statistics array has the following values:- <b>hits</b>
 Number of keys that have been requested and found present.- <b>misses</b>
 Number of items that have been requested and not found.- <b>uptime</b>
 Time that the server is running.- <b>memory_usage</b>
@@ -51,36 +53,36 @@ Memory used by this server to store items.- <b>memory_available</b>
 Memory allowed to use for storage.</p></td>
 </tr>
 <tr>
-<td class="type"> boolean</td>
-<td class="description"><p class="name"><a href="#flushAll">flushAll</a>()</p><p class="description">Deletes all cache entries.</p></td>
+<td class="type">  boolean</td>
+<td class="description"><p class="name"><a href="#flushall">flushAll</a>()</p><p class="description">Deletes all cache entries.</p></td>
 </tr>
 <tr>
-<td class="type"> boolean</td>
-<td class="description"><p class="name"><a href="#deleteAll">deleteAll</a>()</p><p class="description">Delete all cache entries.</p></td>
+<td class="type">  boolean</td>
+<td class="description"><p class="name"><a href="#deleteall">deleteAll</a>()</p><p class="description">Delete all cache entries.</p></td>
 </tr>
 <tr>
-<td class="type">protected abstract  string</td>
-<td class="description"><p class="name"><a href="#doFetch">doFetch</a>(string id)</p><p class="description">Fetches an entry from the cache.</p></td>
+<td class="type"> protected abstract  string</td>
+<td class="description"><p class="name"><a href="#dofetch">doFetch</a>(string id)</p><p class="description">Fetches an entry from the cache.</p></td>
 </tr>
 <tr>
-<td class="type">protected abstract  boolean</td>
-<td class="description"><p class="name"><a href="#doContains">doContains</a>(string id)</p><p class="description">Test if an entry exists in the cache.</p></td>
+<td class="type"> protected abstract  boolean</td>
+<td class="description"><p class="name"><a href="#docontains">doContains</a>(string id)</p><p class="description">Test if an entry exists in the cache.</p></td>
 </tr>
 <tr>
-<td class="type">protected abstract  boolean</td>
-<td class="description"><p class="name"><a href="#doSave">doSave</a>(string id, string data, int lifeTime)</p><p class="description">Puts data into the cache.</p></td>
+<td class="type"> protected abstract  boolean</td>
+<td class="description"><p class="name"><a href="#dosave">doSave</a>(string id, string data, int lifeTime)</p><p class="description">Puts data into the cache.</p></td>
 </tr>
 <tr>
-<td class="type">protected abstract  boolean</td>
-<td class="description"><p class="name"><a href="#doDelete">doDelete</a>(string id)</p><p class="description">Deletes a cache entry.</p></td>
+<td class="type"> protected abstract  boolean</td>
+<td class="description"><p class="name"><a href="#dodelete">doDelete</a>(string id)</p><p class="description">Deletes a cache entry.</p></td>
 </tr>
 <tr>
-<td class="type">protected abstract  boolean</td>
-<td class="description"><p class="name"><a href="#doFlush">doFlush</a>()</p><p class="description">Deletes all cache entries.</p></td>
+<td class="type"> protected abstract  boolean</td>
+<td class="description"><p class="name"><a href="#doflush">doFlush</a>()</p><p class="description">Deletes all cache entries.</p></td>
 </tr>
 <tr>
-<td class="type">protected abstract  array</td>
-<td class="description"><p class="name"><a href="#doGetStats">doGetStats</a>()</p><p class="description">Retrieves cached information from data store</p></td>
+<td class="type"> protected abstract  array</td>
+<td class="description"><p class="name"><a href="#dogetstats">doGetStats</a>()</p><p class="description">Retrieves cached information from data store</p></td>
 </tr>
 </table>
 
@@ -88,10 +90,7 @@ Memory allowed to use for storage.</p></td>
 <div class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\CacheProvider.php at line 43</div>
 <h3 id="delete()">delete</h3>
 
-```php
-public  void **delete**(mixed id)
-```
-<div class="details">
+public  void **delete** (mixed id)<div class="details">
 <p>Deletes a cache entry.</p></div>
 
 - - -
@@ -99,10 +98,7 @@ public  void **delete**(mixed id)
 <div class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\CacheProvider.php at line 51</div>
 <h3 id="getStats()">getStats</h3>
 
-```php
-public  void **getStats**()
-```
-<div class="details">
+public  void **getStats** ()<div class="details">
 <p>Retrieves cached information from data store</p><p>The server's statistics array has the following values:</p><p>- <b>hits</b>
 Number of keys that have been requested and found present.</p><p>- <b>misses</b>
 Number of items that have been requested and not found.</p><p>- <b>uptime</b>
@@ -115,10 +111,7 @@ Memory allowed to use for storage.</p></div>
 <div class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\CacheProvider.php at line 61</div>
 <h3 id="flushAll()">flushAll</h3>
 
-```php
-public  boolean **flushAll**()
-```
-<div class="details">
+public  boolean **flushAll** ()<div class="details">
 <p>Deletes all cache entries.</p><dl>
 <dt>Returns:</dt>
 <dd>TRUE if the cache entries were successfully flushed, FALSE otherwise.</dd>
@@ -130,10 +123,7 @@ public  boolean **flushAll**()
 <div class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\CacheProvider.php at line 71</div>
 <h3 id="deleteAll()">deleteAll</h3>
 
-```php
-public  boolean **deleteAll**()
-```
-<div class="details">
+public  boolean **deleteAll** ()<div class="details">
 <p>Delete all cache entries.</p><dl>
 <dt>Returns:</dt>
 <dd>TRUE if the cache entries were successfully deleted, FALSE otherwise.</dd>
@@ -145,10 +135,7 @@ public  boolean **deleteAll**()
 <div class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\CacheProvider.php at line 99</div>
 <h3 id="doFetch()">doFetch</h3>
 
-```php
-protected abstract  string **doFetch**(string id)
-```
-<div class="details">
+protected abstract  string **doFetch** (string id)<div class="details">
 <p>Fetches an entry from the cache.</p><dl>
 <dt>Parameters:</dt>
 <dd>id - cache id The id of the cache entry to fetch.</dd>
@@ -162,10 +149,7 @@ protected abstract  string **doFetch**(string id)
 <div class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\CacheProvider.php at line 107</div>
 <h3 id="doContains()">doContains</h3>
 
-```php
-protected abstract  boolean **doContains**(string id)
-```
-<div class="details">
+protected abstract  boolean **doContains** (string id)<div class="details">
 <p>Test if an entry exists in the cache.</p><dl>
 <dt>Parameters:</dt>
 <dd>id - cache id The cache id of the entry to check for.</dd>
@@ -179,10 +163,7 @@ protected abstract  boolean **doContains**(string id)
 <div class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\CacheProvider.php at line 117</div>
 <h3 id="doSave()">doSave</h3>
 
-```php
-protected abstract  boolean **doSave**(string id, string data, int lifeTime)
-```
-<div class="details">
+protected abstract  boolean **doSave** (string id, string data, int lifeTime)<div class="details">
 <p>Puts data into the cache.</p><dl>
 <dt>Parameters:</dt>
 <dd>id - The cache id.</dd>
@@ -198,10 +179,7 @@ protected abstract  boolean **doSave**(string id, string data, int lifeTime)
 <div class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\CacheProvider.php at line 125</div>
 <h3 id="doDelete()">doDelete</h3>
 
-```php
-protected abstract  boolean **doDelete**(string id)
-```
-<div class="details">
+protected abstract  boolean **doDelete** (string id)<div class="details">
 <p>Deletes a cache entry.</p><dl>
 <dt>Parameters:</dt>
 <dd>id - cache id</dd>
@@ -215,10 +193,7 @@ protected abstract  boolean **doDelete**(string id)
 <div class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\CacheProvider.php at line 132</div>
 <h3 id="doFlush()">doFlush</h3>
 
-```php
-protected abstract  boolean **doFlush**()
-```
-<div class="details">
+protected abstract  boolean **doFlush** ()<div class="details">
 <p>Deletes all cache entries.</p><dl>
 <dt>Returns:</dt>
 <dd>TRUE if the cache entry was successfully deleted, FALSE otherwise.</dd>
@@ -230,10 +205,7 @@ protected abstract  boolean **doFlush**()
 <div class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\CacheProvider.php at line 140</div>
 <h3 id="doGetStats()">doGetStats</h3>
 
-```php
-protected abstract  array **doGetStats**()
-```
-<div class="details">
+protected abstract  array **doGetStats** ()<div class="details">
 <p>Retrieves cached information from data store</p><dl>
 <dt>Since:</dt>
 <dd>2.2</dd>

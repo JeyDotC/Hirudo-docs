@@ -1,3 +1,4 @@
+
 - - -
 
 **Sample\Utilities\SomeUsefulClass**
@@ -18,12 +19,13 @@
 <dd>JeyDotC</dd>
 <dt>Export(id="service_id1").</dt>
 </dl>
+
 - - -
 
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type"> void</td>
+<td class="type">  void</td>
 <td class="description"><p class="name"><a href="#foo">foo</a>()</p></td>
 </tr>
 </table>
@@ -32,10 +34,7 @@
 <div class="location">ext\libs\SampleExtension\Sample\Utilities\SomeUsefulClass.php at line 15</div>
 <h3 id="foo()">foo</h3>
 
-```php
-public  void **foo**()
-```
-<div class="details">
+public  void **foo** ()<div class="details">
 </div>
 
 - - -

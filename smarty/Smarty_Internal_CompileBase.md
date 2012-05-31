@@ -1,3 +1,4 @@
+
 - - -
 
 **Smarty\Smarty_Internal_CompileBase**
@@ -22,6 +23,7 @@
 <dt>Subpackage:</dt>
 <dd>Compiler</dd>
 </dl>
+
 - - -
 
 <table id="summary_field">
@@ -48,17 +50,17 @@ use array('_any') if there is no restriction of attributes names</p></td>
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type"> array</td>
-<td class="description"><p class="name"><a href="#getAttributes">getAttributes</a>(object compiler, array attributes)</p><p class="description">This function checks if the attributes passed are validThe attributes passed for the tag to compile are checked against the list of required and
+<td class="type">  array</td>
+<td class="description"><p class="name"><a href="#getattributes">getAttributes</a>(object compiler, array attributes)</p><p class="description">This function checks if the attributes passed are validThe attributes passed for the tag to compile are checked against the list of required and
 optional attributes. </p></td>
 </tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#openTag">openTag</a>(object compiler, string openTag, mixed data)</p><p class="description">Push opening tag name on stackOptionally additional data can be saved on stack</p></td>
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#opentag">openTag</a>(object compiler, string openTag, mixed data)</p><p class="description">Push opening tag name on stackOptionally additional data can be saved on stack</p></td>
 </tr>
 <tr>
-<td class="type"> mixed</td>
-<td class="description"><p class="name"><a href="#closeTag">closeTag</a>(object compiler, array|string expectedTag)</p><p class="description">Pop closing tagRaise an error if this stack-top doesn't match with expected opening tags</p></td>
+<td class="type">  mixed</td>
+<td class="description"><p class="name"><a href="#closetag">closeTag</a>(object compiler, array|string expectedTag)</p><p class="description">Pop closing tagRaise an error if this stack-top doesn't match with expected opening tags</p></td>
 </tr>
 </table>
 
@@ -66,9 +68,7 @@ optional attributes. </p></td>
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_compilebase.php at line 42</div>
 <h3 id="option_flags">option_flags</h3>
 
-```php
-public  array$option_flags = array('nocache')
-```
+public  array $option_flags = array('nocache')
 <div class="details">
 <p>Array of names of valid option flags</p></div>
 
@@ -77,9 +77,7 @@ public  array$option_flags = array('nocache')
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_compilebase.php at line 30</div>
 <h3 id="optional_attributes">optional_attributes</h3>
 
-```php
-public  array$optional_attributes = array()
-```
+public  array $optional_attributes = array()
 <div class="details">
 <p>Array of names of optional attribute required by tag
 use array('_any') if there is no restriction of attributes names</p></div>
@@ -89,9 +87,7 @@ use array('_any') if there is no restriction of attributes names</p></div>
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_compilebase.php at line 23</div>
 <h3 id="required_attributes">required_attributes</h3>
 
-```php
-public  array$required_attributes = array()
-```
+public  array $required_attributes = array()
 <div class="details">
 <p>Array of names of required attribute required by tag</p></div>
 
@@ -100,9 +96,7 @@ public  array$required_attributes = array()
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_compilebase.php at line 36</div>
 <h3 id="shorttag_order">shorttag_order</h3>
 
-```php
-public  array$shorttag_order = array()
-```
+public  array $shorttag_order = array()
 <div class="details">
 <p>Shorttag attribute order defined by its names</p></div>
 
@@ -112,10 +106,7 @@ public  array$shorttag_order = array()
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_compilebase.php at line 56</div>
 <h3 id="getAttributes()">getAttributes</h3>
 
-```php
-public  array **getAttributes**(object compiler, array attributes)
-```
-<div class="details">
+public  array **getAttributes** (object compiler, array attributes)<div class="details">
 <p>This function checks if the attributes passed are valid</p><p>The attributes passed for the tag to compile are checked against the list of required and
 optional attributes. Required attributes must be present. Optional attributes are check against
 the corresponding list. The keyword '_any' specifies that any attribute will be accepted
@@ -133,10 +124,7 @@ as valid</p><dl>
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_compilebase.php at line 136</div>
 <h3 id="openTag()">openTag</h3>
 
-```php
-public  void **openTag**(object compiler, string openTag, mixed data)
-```
-<div class="details">
+public  void **openTag** (object compiler, string openTag, mixed data)<div class="details">
 <p>Push opening tag name on stack</p><p>Optionally additional data can be saved on stack</p><dl>
 <dt>Parameters:</dt>
 <dd>compiler - compiler object</dd>
@@ -150,10 +138,7 @@ public  void **openTag**(object compiler, string openTag, mixed data)
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_compilebase.php at line 150</div>
 <h3 id="closeTag()">closeTag</h3>
 
-```php
-public  mixed **closeTag**(object compiler, array|string expectedTag)
-```
-<div class="details">
+public  mixed **closeTag** (object compiler, array|string expectedTag)<div class="details">
 <p>Pop closing tag</p><p>Raise an error if this stack-top doesn't match with expected opening tags</p><dl>
 <dt>Parameters:</dt>
 <dd>compiler - compiler object</dd>

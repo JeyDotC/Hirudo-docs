@@ -1,3 +1,4 @@
+
 - - -
 
 **Smarty\Smarty_Internal_Debug**
@@ -21,6 +22,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 <dt>Subpackage:</dt>
 <dd>Debug</dd>
 </dl>
+
 - - -
 
 <table id="summary_field">
@@ -38,35 +40,35 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type">static  void</td>
+<td class="type"> static  void</td>
 <td class="description"><p class="name"><a href="#start_compile">start_compile</a>(object template)</p><p class="description">Start logging of compile time</p></td>
 </tr>
 <tr>
-<td class="type">static  void</td>
+<td class="type"> static  void</td>
 <td class="description"><p class="name"><a href="#end_compile">end_compile</a>(object template)</p><p class="description">End logging of compile time</p></td>
 </tr>
 <tr>
-<td class="type">static  void</td>
+<td class="type"> static  void</td>
 <td class="description"><p class="name"><a href="#start_render">start_render</a>(object template)</p><p class="description">Start logging of render time</p></td>
 </tr>
 <tr>
-<td class="type">static  void</td>
+<td class="type"> static  void</td>
 <td class="description"><p class="name"><a href="#end_render">end_render</a>(object template)</p><p class="description">End logging of compile time</p></td>
 </tr>
 <tr>
-<td class="type">static  void</td>
+<td class="type"> static  void</td>
 <td class="description"><p class="name"><a href="#start_cache">start_cache</a>(object template)</p><p class="description">Start logging of cache time</p></td>
 </tr>
 <tr>
-<td class="type">static  void</td>
+<td class="type"> static  void</td>
 <td class="description"><p class="name"><a href="#end_cache">end_cache</a>(object template)</p><p class="description">End logging of cache time</p></td>
 </tr>
 <tr>
-<td class="type">static  void</td>
+<td class="type"> static  void</td>
 <td class="description"><p class="name"><a href="#display_debug">display_debug</a>(Smarty_Internal_Template|Smarty obj)</p><p class="description">Opens a window for the Smarty Debugging Consol and display the data</p></td>
 </tr>
 <tr>
-<td class="type">static  StdClass</td>
+<td class="type"> static  StdClass</td>
 <td class="description"><p class="name"><a href="#get_debug_vars">get_debug_vars</a>(Smarty_Internal_Template|Smarty_Data obj)</p><p class="description">Recursively gets variables from all template/data scopes</p></td>
 </tr>
 </table>
@@ -79,9 +81,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_debug.php at line 25</div>
 <h3 id="template_data">template_data</h3>
 
-```php
-public static  array$template_data = array()
-```
+public static  array $template_data = array()
 <div class="details">
 <p>template data</p></div>
 
@@ -91,10 +91,7 @@ public static  array$template_data = array()
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_debug.php at line 32</div>
 <h3 id="start_compile()">start_compile</h3>
 
-```php
-public static  void **start_compile**(object template)
-```
-<div class="details">
+public static  void **start_compile** (object template)<div class="details">
 <p>Start logging of compile time</p></div>
 
 - - -
@@ -102,10 +99,7 @@ public static  void **start_compile**(object template)
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_debug.php at line 43</div>
 <h3 id="end_compile()">end_compile</h3>
 
-```php
-public static  void **end_compile**(object template)
-```
-<div class="details">
+public static  void **end_compile** (object template)<div class="details">
 <p>End logging of compile time</p></div>
 
 - - -
@@ -113,10 +107,7 @@ public static  void **end_compile**(object template)
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_debug.php at line 54</div>
 <h3 id="start_render()">start_render</h3>
 
-```php
-public static  void **start_render**(object template)
-```
-<div class="details">
+public static  void **start_render** (object template)<div class="details">
 <p>Start logging of render time</p></div>
 
 - - -
@@ -124,10 +115,7 @@ public static  void **start_render**(object template)
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_debug.php at line 65</div>
 <h3 id="end_render()">end_render</h3>
 
-```php
-public static  void **end_render**(object template)
-```
-<div class="details">
+public static  void **end_render** (object template)<div class="details">
 <p>End logging of compile time</p></div>
 
 - - -
@@ -135,10 +123,7 @@ public static  void **end_render**(object template)
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_debug.php at line 76</div>
 <h3 id="start_cache()">start_cache</h3>
 
-```php
-public static  void **start_cache**(object template)
-```
-<div class="details">
+public static  void **start_cache** (object template)<div class="details">
 <p>Start logging of cache time</p><dl>
 <dt>Parameters:</dt>
 <dd>template - cached template</dd>
@@ -150,10 +135,7 @@ public static  void **start_cache**(object template)
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_debug.php at line 87</div>
 <h3 id="end_cache()">end_cache</h3>
 
-```php
-public static  void **end_cache**(object template)
-```
-<div class="details">
+public static  void **end_cache** (object template)<div class="details">
 <p>End logging of cache time</p><dl>
 <dt>Parameters:</dt>
 <dd>template - cached template</dd>
@@ -165,10 +147,7 @@ public static  void **end_cache**(object template)
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_debug.php at line 98</div>
 <h3 id="display_debug()">display_debug</h3>
 
-```php
-public static  void **display_debug**(Smarty_Internal_Template|Smarty obj)
-```
-<div class="details">
+public static  void **display_debug** (Smarty_Internal_Template|Smarty obj)<div class="details">
 <p>Opens a window for the Smarty Debugging Consol and display the data</p><dl>
 <dt>Parameters:</dt>
 <dd>obj - object to debug</dd>
@@ -180,10 +159,7 @@ public static  void **display_debug**(Smarty_Internal_Template|Smarty obj)
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_debug.php at line 144</div>
 <h3 id="get_debug_vars()">get_debug_vars</h3>
 
-```php
-public static  StdClass **get_debug_vars**(Smarty_Internal_Template|Smarty_Data obj)
-```
-<div class="details">
+public static  StdClass **get_debug_vars** (Smarty_Internal_Template|Smarty_Data obj)<div class="details">
 <p>Recursively gets variables from all template/data scopes</p><dl>
 <dt>Parameters:</dt>
 <dd>obj - object to debug</dd>

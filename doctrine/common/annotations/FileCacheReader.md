@@ -1,3 +1,4 @@
+
 - - -
 
 **Doctrine\Common\Annotations\FileCacheReader**
@@ -18,6 +19,7 @@
 <dd>Johannes M. Schmitt <schmittjoh@gmail.com></dd>
 <dd>Benjamin Eberlei <kontakt@beberlei.de></dd>
 </dl>
+
 - - -
 
 <table id="summary_constructor">
@@ -31,32 +33,32 @@
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#getClassAnnotations">getClassAnnotations</a>(ReflectionClass class)</p></td>
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#getclassannotations">getClassAnnotations</a>(ReflectionClass class)</p></td>
 </tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#getPropertyAnnotations">getPropertyAnnotations</a>(ReflectionProperty property)</p></td>
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#getpropertyannotations">getPropertyAnnotations</a>(ReflectionProperty property)</p></td>
 </tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#getMethodAnnotations">getMethodAnnotations</a>(ReflectionMethod method)</p></td>
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#getmethodannotations">getMethodAnnotations</a>(ReflectionMethod method)</p></td>
 </tr>
 <tr>
-<td class="type"> The</td>
-<td class="description"><p class="name"><a href="#getClassAnnotation">getClassAnnotation</a>(ReflectionClass class, string annotationName)</p><p class="description">Gets a class annotation.</p></td>
+<td class="type">  The</td>
+<td class="description"><p class="name"><a href="#getclassannotation">getClassAnnotation</a>(ReflectionClass class, string annotationName)</p><p class="description">Gets a class annotation.</p></td>
 </tr>
 <tr>
-<td class="type"> The</td>
-<td class="description"><p class="name"><a href="#getMethodAnnotation">getMethodAnnotation</a>(ReflectionMethod method, string annotationName)</p><p class="description">Gets a method annotation.</p></td>
+<td class="type">  The</td>
+<td class="description"><p class="name"><a href="#getmethodannotation">getMethodAnnotation</a>(ReflectionMethod method, string annotationName)</p><p class="description">Gets a method annotation.</p></td>
 </tr>
 <tr>
-<td class="type"> The</td>
-<td class="description"><p class="name"><a href="#getPropertyAnnotation">getPropertyAnnotation</a>(ReflectionProperty property, string annotationName)</p><p class="description">Gets a property annotation.</p></td>
+<td class="type">  The</td>
+<td class="description"><p class="name"><a href="#getpropertyannotation">getPropertyAnnotation</a>(ReflectionProperty property, string annotationName)</p><p class="description">Gets a property annotation.</p></td>
 </tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#clearLoadedAnnotations">clearLoadedAnnotations</a>()</p></td>
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#clearloadedannotations">clearLoadedAnnotations</a>()</p></td>
 </tr>
 </table>
 
@@ -76,10 +78,7 @@ public  void **__construct**(<a href="../../../doctrine/common/annotations/reade
 <div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\FileCacheReader.php at line 53</div>
 <h3 id="getClassAnnotations()">getClassAnnotations</h3>
 
-```php
-public  void **getClassAnnotations**(ReflectionClass class)
-```
-<div class="details">
+public  void **getClassAnnotations** (ReflectionClass class)<div class="details">
 </div>
 
 - - -
@@ -87,10 +86,7 @@ public  void **getClassAnnotations**(ReflectionClass class)
 <div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\FileCacheReader.php at line 81</div>
 <h3 id="getPropertyAnnotations()">getPropertyAnnotations</h3>
 
-```php
-public  void **getPropertyAnnotations**(ReflectionProperty property)
-```
-<div class="details">
+public  void **getPropertyAnnotations** (ReflectionProperty property)<div class="details">
 </div>
 
 - - -
@@ -98,10 +94,7 @@ public  void **getPropertyAnnotations**(ReflectionProperty property)
 <div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\FileCacheReader.php at line 110</div>
 <h3 id="getMethodAnnotations()">getMethodAnnotations</h3>
 
-```php
-public  void **getMethodAnnotations**(ReflectionMethod method)
-```
-<div class="details">
+public  void **getMethodAnnotations** (ReflectionMethod method)<div class="details">
 </div>
 
 - - -
@@ -109,10 +102,7 @@ public  void **getMethodAnnotations**(ReflectionMethod method)
 <div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\FileCacheReader.php at line 152</div>
 <h3 id="getClassAnnotation()">getClassAnnotation</h3>
 
-```php
-public  The **getClassAnnotation**(ReflectionClass class, string annotationName)
-```
-<div class="details">
+public  The **getClassAnnotation** (ReflectionClass class, string annotationName)<div class="details">
 <p>Gets a class annotation.</p><dl>
 <dt>Parameters:</dt>
 <dd>class - The ReflectionClass of the class from which the class annotations should be read.</dd>
@@ -127,10 +117,7 @@ public  The **getClassAnnotation**(ReflectionClass class, string annotationName)
 <div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\FileCacheReader.php at line 172</div>
 <h3 id="getMethodAnnotation()">getMethodAnnotation</h3>
 
-```php
-public  The **getMethodAnnotation**(ReflectionMethod method, string annotationName)
-```
-<div class="details">
+public  The **getMethodAnnotation** (ReflectionMethod method, string annotationName)<div class="details">
 <p>Gets a method annotation.</p><dl>
 <dt>Parameters:</dt>
 <dd></dd>
@@ -145,10 +132,7 @@ public  The **getMethodAnnotation**(ReflectionMethod method, string annotationNa
 <div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\FileCacheReader.php at line 192</div>
 <h3 id="getPropertyAnnotation()">getPropertyAnnotation</h3>
 
-```php
-public  The **getPropertyAnnotation**(ReflectionProperty property, string annotationName)
-```
-<div class="details">
+public  The **getPropertyAnnotation** (ReflectionProperty property, string annotationName)<div class="details">
 <p>Gets a property annotation.</p><dl>
 <dt>Parameters:</dt>
 <dd></dd>
@@ -163,10 +147,7 @@ public  The **getPropertyAnnotation**(ReflectionProperty property, string annota
 <div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\FileCacheReader.php at line 205</div>
 <h3 id="clearLoadedAnnotations()">clearLoadedAnnotations</h3>
 
-```php
-public  void **clearLoadedAnnotations**()
-```
-<div class="details">
+public  void **clearLoadedAnnotations** ()<div class="details">
 </div>
 
 - - -

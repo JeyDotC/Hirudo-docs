@@ -1,3 +1,4 @@
+
 - - -
 
 **Smarty\Smarty_Internal_Filter_Handler**
@@ -17,13 +18,14 @@
 <dt>Subpackage:</dt>
 <dd>PluginsInternal</dd>
 </dl>
+
 - - -
 
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type">static  string</td>
-<td class="description"><p class="name"><a href="#runFilter">runFilter</a>(string type, string content, <a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> template)</p><p class="description">Run filters over contentThe filters will be lazy loaded if required
+<td class="type"> static  string</td>
+<td class="description"><p class="name"><a href="#runfilter">runFilter</a>(string type, string content, <a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> template)</p><p class="description">Run filters over contentThe filters will be lazy loaded if required
 class name format: Smarty_FilterType_FilterName
 plugin filename format: filtertype.filtername.php
 Smarty2 filter plugins could be used</p></td>
@@ -34,10 +36,7 @@ Smarty2 filter plugins could be used</p></td>
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_filter_handler.php at line 33</div>
 <h3 id="runFilter()">runFilter</h3>
 
-```php
-public static  string **runFilter**(string type, string content, <a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> template)
-```
-<div class="details">
+public static  string **runFilter** (string type, string content, <a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> template)<div class="details">
 <p>Run filters over content</p><p>The filters will be lazy loaded if required
 class name format: Smarty_FilterType_FilterName
 plugin filename format: filtertype.filtername.php

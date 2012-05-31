@@ -1,3 +1,4 @@
+
 - - -
 
 **Hirudo\Core\Context\Routing**
@@ -23,48 +24,49 @@ to a certain module in a certain appplication.</p></div>
 <dt>Author:</dt>
 <dd>Virtualidad</dd>
 </dl>
+
 - - -
 
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type"> string</td>
+<td class="type">  string</td>
 <td class="description"><p class="name"><a href="#action">action</a>(string task, array params)</p><p class="description">Creates a route to the given task using the current application name
 and the current module name.</p></td>
 </tr>
 <tr>
-<td class="type"> string</td>
-<td class="description"><p class="name"><a href="#moduleAction">moduleAction</a>(string module, string task, array params)</p><p class="description">Creates a route to the given task using the current application name
+<td class="type">  string</td>
+<td class="description"><p class="name"><a href="#moduleaction">moduleAction</a>(string module, string task, array params)</p><p class="description">Creates a route to the given task using the current application name
 and the given module name.</p></td>
 </tr>
 <tr>
-<td class="type">abstract  string</td>
-<td class="description"><p class="name"><a href="#appAction">appAction</a>(string app, string module, string task, array params)</p><p class="description">Creates a route to the given task using the given application name
+<td class="type"> abstract  string</td>
+<td class="description"><p class="name"><a href="#appaction">appAction</a>(string app, string module, string task, array params)</p><p class="description">Creates a route to the given task using the given application name
 and the given module name.</p></td>
 </tr>
 <tr>
-<td class="type">abstract  string</td>
-<td class="description"><p class="name"><a href="#getBaseURL">getBaseURL</a>()</p><p class="description">Gets the current base URL.</p></td>
+<td class="type"> abstract  string</td>
+<td class="description"><p class="name"><a href="#getbaseurl">getBaseURL</a>()</p><p class="description">Gets the current base URL.</p></td>
 </tr>
 <tr>
-<td class="type">abstract  void</td>
+<td class="type"> abstract  void</td>
 <td class="description"><p class="name"><a href="#redirect">redirect</a>(string url)</p><p class="description">Makes an HTTP redirect to the given absolute URL.</p></td>
 </tr>
 <tr>
-<td class="type"> string</td>
-<td class="description"><p class="name"><a href="#getModuleName">getModuleName</a>()</p><p class="description">Gets the current module name.</p></td>
+<td class="type">  string</td>
+<td class="description"><p class="name"><a href="#getmodulename">getModuleName</a>()</p><p class="description">Gets the current module name.</p></td>
 </tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#setModuleName">setModuleName</a>(string moduleName)</p><p class="description">Sets the current module name.</p></td>
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#setmodulename">setModuleName</a>(string moduleName)</p><p class="description">Sets the current module name.</p></td>
 </tr>
 <tr>
-<td class="type"> string</td>
-<td class="description"><p class="name"><a href="#getAppName">getAppName</a>()</p><p class="description">Gets the current application name.</p></td>
+<td class="type">  string</td>
+<td class="description"><p class="name"><a href="#getappname">getAppName</a>()</p><p class="description">Gets the current application name.</p></td>
 </tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#setAppName">setAppName</a>(string appName)</p><p class="description">Sets the current application name.</p></td>
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#setappname">setAppName</a>(string appName)</p><p class="description">Sets the current application name.</p></td>
 </tr>
 </table>
 
@@ -72,10 +74,7 @@ and the given module name.</p></td>
 <div class="location">framework\hirudo\Hirudo\Core\Context\Routing.php at line 44</div>
 <h3 id="action()">action</h3>
 
-```php
-public  string **action**(string task, array params)
-```
-<div class="details">
+public  string **action** (string task, array params)<div class="details">
 <p>Creates a route to the given task using the current application name
 and the current module name.</p><dl>
 <dt>Parameters:</dt>
@@ -91,10 +90,7 @@ and the current module name.</p><dl>
 <div class="location">framework\hirudo\Hirudo\Core\Context\Routing.php at line 58</div>
 <h3 id="moduleAction()">moduleAction</h3>
 
-```php
-public  string **moduleAction**(string module, string task, array params)
-```
-<div class="details">
+public  string **moduleAction** (string module, string task, array params)<div class="details">
 <p>Creates a route to the given task using the current application name
 and the given module name.</p><dl>
 <dt>Parameters:</dt>
@@ -111,10 +107,7 @@ and the given module name.</p><dl>
 <div class="location">framework\hirudo\Hirudo\Core\Context\Routing.php at line 73</div>
 <h3 id="appAction()">appAction</h3>
 
-```php
-public abstract  string **appAction**(string app, string module, string task, array params)
-```
-<div class="details">
+public abstract  string **appAction** (string app, string module, string task, array params)<div class="details">
 <p>Creates a route to the given task using the given application name
 and the given module name.</p><dl>
 <dt>Parameters:</dt>
@@ -132,10 +125,7 @@ and the given module name.</p><dl>
 <div class="location">framework\hirudo\Hirudo\Core\Context\Routing.php at line 80</div>
 <h3 id="getBaseURL()">getBaseURL</h3>
 
-```php
-public abstract  string **getBaseURL**()
-```
-<div class="details">
+public abstract  string **getBaseURL** ()<div class="details">
 <p>Gets the current base URL.</p><dl>
 <dt>Returns:</dt>
 <dd>The current base URL</dd>
@@ -147,10 +137,7 @@ public abstract  string **getBaseURL**()
 <div class="location">framework\hirudo\Hirudo\Core\Context\Routing.php at line 87</div>
 <h3 id="redirect()">redirect</h3>
 
-```php
-public abstract  void **redirect**(string url)
-```
-<div class="details">
+public abstract  void **redirect** (string url)<div class="details">
 <p>Makes an HTTP redirect to the given absolute URL.</p><dl>
 <dt>Parameters:</dt>
 <dd>url - The absolute URL to make the redirection.</dd>
@@ -162,10 +149,7 @@ public abstract  void **redirect**(string url)
 <div class="location">framework\hirudo\Hirudo\Core\Context\Routing.php at line 94</div>
 <h3 id="getModuleName()">getModuleName</h3>
 
-```php
-public  string **getModuleName**()
-```
-<div class="details">
+public  string **getModuleName** ()<div class="details">
 <p>Gets the current module name.</p><dl>
 <dt>Returns:</dt>
 <dd>The name of the current module.</dd>
@@ -177,10 +161,7 @@ public  string **getModuleName**()
 <div class="location">framework\hirudo\Hirudo\Core\Context\Routing.php at line 103</div>
 <h3 id="setModuleName()">setModuleName</h3>
 
-```php
-public  void **setModuleName**(string moduleName)
-```
-<div class="details">
+public  void **setModuleName** (string moduleName)<div class="details">
 <p>Sets the current module name.</p><dl>
 <dt>Parameters:</dt>
 <dd>moduleName - The name of the module.</dd>
@@ -192,10 +173,7 @@ public  void **setModuleName**(string moduleName)
 <div class="location">framework\hirudo\Hirudo\Core\Context\Routing.php at line 112</div>
 <h3 id="getAppName()">getAppName</h3>
 
-```php
-public  string **getAppName**()
-```
-<div class="details">
+public  string **getAppName** ()<div class="details">
 <p>Gets the current application name.</p><dl>
 <dt>Returns:</dt>
 <dd>The current app name.</dd>
@@ -207,10 +185,7 @@ public  string **getAppName**()
 <div class="location">framework\hirudo\Hirudo\Core\Context\Routing.php at line 121</div>
 <h3 id="setAppName()">setAppName</h3>
 
-```php
-public  void **setAppName**(string appName)
-```
-<div class="details">
+public  void **setAppName** (string appName)<div class="details">
 <p>Sets the current application name.</p><dl>
 <dt>Parameters:</dt>
 <dd>appName - The current application name.</dd>

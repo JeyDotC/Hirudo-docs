@@ -1,3 +1,4 @@
+
 - - -
 
 **Hirudo\Impl\Joomla\JoomlaHelper**
@@ -17,13 +18,14 @@
 <dt>Author:</dt>
 <dd>JeyDotC</dd>
 </dl>
+
 - - -
 
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type">static  JApplication</td>
-<td class="description"><p class="name"><a href="#getMainframe">getMainframe</a>()</p><p class="description"></p></td>
+<td class="type"> static  JApplication</td>
+<td class="description"><p class="name"><a href="#getmainframe">getMainframe</a>()</p><p class="description"></p></td>
 </tr>
 </table>
 
@@ -31,10 +33,7 @@
 <div class="location">framework\hirudo\Hirudo\Impl\Joomla\JoomlaHelper.php at line 35</div>
 <h3 id="getMainframe()">getMainframe</h3>
 
-```php
-public static  JApplication **getMainframe**()
-```
-<div class="details">
+public static  JApplication **getMainframe** ()<div class="details">
 <p></p></div>
 
 - - -

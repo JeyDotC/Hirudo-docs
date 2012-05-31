@@ -1,3 +1,4 @@
+
 - - -
 
 **Smarty\Smarty**
@@ -27,6 +28,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 <dt>Subpackage:</dt>
 <dd>Template</dd>
 </dl>
+
 - - -
 
 <table id="summary_field">
@@ -120,154 +122,154 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type"> boolean</td>
-<td class="description"><p class="name"><a href="#templateExists">templateExists</a>(string resource_name)</p><p class="description">Check if a template resource exists</p></td>
+<td class="type">  boolean</td>
+<td class="description"><p class="name"><a href="#templateexists">templateExists</a>(string resource_name)</p><p class="description">Check if a template resource exists</p></td>
 </tr>
 <tr>
-<td class="type"> string</td>
-<td class="description"><p class="name"><a href="#getGlobal">getGlobal</a>(object smarty, string varname)</p><p class="description">Returns a single or all global  variables</p></td>
+<td class="type">  string</td>
+<td class="description"><p class="name"><a href="#getglobal">getGlobal</a>(object smarty, string varname)</p><p class="description">Returns a single or all global  variables</p></td>
 </tr>
 <tr>
-<td class="type"> integer</td>
-<td class="description"><p class="name"><a href="#clearAllCache">clearAllCache</a>(integer exp_time, string type)</p><p class="description">Empty cache folder</p></td>
+<td class="type">  integer</td>
+<td class="description"><p class="name"><a href="#clearallcache">clearAllCache</a>(integer exp_time, string type)</p><p class="description">Empty cache folder</p></td>
 </tr>
 <tr>
-<td class="type"> integer</td>
-<td class="description"><p class="name"><a href="#clearCache">clearCache</a>(string template_name, string cache_id, string compile_id, integer exp_time, string type)</p><p class="description">Empty cache for a specific template</p></td>
+<td class="type">  integer</td>
+<td class="description"><p class="name"><a href="#clearcache">clearCache</a>(string template_name, string cache_id, string compile_id, integer exp_time, string type)</p><p class="description">Empty cache for a specific template</p></td>
 </tr>
 <tr>
-<td class="type"> <a href="../smarty/smarty.html">Smarty</a></td>
-<td class="description"><p class="name"><a href="#enableSecurity">enableSecurity</a>(string|Smarty_Security security_class)</p><p class="description">Loads security class and enables security</p></td>
+<td class="type">  <a href="../smarty/smarty.html">Smarty</a></td>
+<td class="description"><p class="name"><a href="#enablesecurity">enableSecurity</a>(string|Smarty_Security security_class)</p><p class="description">Loads security class and enables security</p></td>
 </tr>
 <tr>
-<td class="type"> <a href="../smarty/smarty.html">Smarty</a></td>
-<td class="description"><p class="name"><a href="#disableSecurity">disableSecurity</a>()</p><p class="description">Disable security</p></td>
+<td class="type">  <a href="../smarty/smarty.html">Smarty</a></td>
+<td class="description"><p class="name"><a href="#disablesecurity">disableSecurity</a>()</p><p class="description">Disable security</p></td>
 </tr>
 <tr>
-<td class="type"> <a href="../smarty/smarty.html">Smarty</a></td>
-<td class="description"><p class="name"><a href="#setTemplateDir">setTemplateDir</a>(string|array template_dir)</p><p class="description">Set template directory</p></td>
+<td class="type">  <a href="../smarty/smarty.html">Smarty</a></td>
+<td class="description"><p class="name"><a href="#settemplatedir">setTemplateDir</a>(string|array template_dir)</p><p class="description">Set template directory</p></td>
 </tr>
 <tr>
-<td class="type"> <a href="../smarty/smarty.html">Smarty</a></td>
-<td class="description"><p class="name"><a href="#addTemplateDir">addTemplateDir</a>(string|array template_dir, string key)</p><p class="description">Add template directory(s)</p></td>
+<td class="type">  <a href="../smarty/smarty.html">Smarty</a></td>
+<td class="description"><p class="name"><a href="#addtemplatedir">addTemplateDir</a>(string|array template_dir, string key)</p><p class="description">Add template directory(s)</p></td>
 </tr>
 <tr>
-<td class="type"> array|string</td>
-<td class="description"><p class="name"><a href="#getTemplateDir">getTemplateDir</a>(mixed index)</p><p class="description">Get template directories</p></td>
+<td class="type">  array|string</td>
+<td class="description"><p class="name"><a href="#gettemplatedir">getTemplateDir</a>(mixed index)</p><p class="description">Get template directories</p></td>
 </tr>
 <tr>
-<td class="type"> <a href="../smarty/smarty.html">Smarty</a></td>
-<td class="description"><p class="name"><a href="#setConfigDir">setConfigDir</a>(string|array template_dir, mixed config_dir)</p><p class="description">Set config directory</p></td>
+<td class="type">  <a href="../smarty/smarty.html">Smarty</a></td>
+<td class="description"><p class="name"><a href="#setconfigdir">setConfigDir</a>(string|array template_dir, mixed config_dir)</p><p class="description">Set config directory</p></td>
 </tr>
 <tr>
-<td class="type"> <a href="../smarty/smarty.html">Smarty</a></td>
-<td class="description"><p class="name"><a href="#addConfigDir">addConfigDir</a>(string|array config_dir, string key)</p><p class="description">Add config directory(s)</p></td>
+<td class="type">  <a href="../smarty/smarty.html">Smarty</a></td>
+<td class="description"><p class="name"><a href="#addconfigdir">addConfigDir</a>(string|array config_dir, string key)</p><p class="description">Add config directory(s)</p></td>
 </tr>
 <tr>
-<td class="type"> array|string</td>
-<td class="description"><p class="name"><a href="#getConfigDir">getConfigDir</a>(mixed index)</p><p class="description">Get config directory</p></td>
+<td class="type">  array|string</td>
+<td class="description"><p class="name"><a href="#getconfigdir">getConfigDir</a>(mixed index)</p><p class="description">Get config directory</p></td>
 </tr>
 <tr>
-<td class="type"> <a href="../smarty/smarty.html">Smarty</a></td>
-<td class="description"><p class="name"><a href="#setPluginsDir">setPluginsDir</a>(string|array plugins_dir)</p><p class="description">Set plugins directory</p></td>
+<td class="type">  <a href="../smarty/smarty.html">Smarty</a></td>
+<td class="description"><p class="name"><a href="#setpluginsdir">setPluginsDir</a>(string|array plugins_dir)</p><p class="description">Set plugins directory</p></td>
 </tr>
 <tr>
-<td class="type"> <a href="../smarty/smarty.html">Smarty</a></td>
-<td class="description"><p class="name"><a href="#addPluginsDir">addPluginsDir</a>(object smarty, string plugins_dir)</p><p class="description">Adds directory of plugin files</p></td>
+<td class="type">  <a href="../smarty/smarty.html">Smarty</a></td>
+<td class="description"><p class="name"><a href="#addpluginsdir">addPluginsDir</a>(object smarty, string plugins_dir)</p><p class="description">Adds directory of plugin files</p></td>
 </tr>
 <tr>
-<td class="type"> array</td>
-<td class="description"><p class="name"><a href="#getPluginsDir">getPluginsDir</a>()</p><p class="description">Get plugin directories</p></td>
+<td class="type">  array</td>
+<td class="description"><p class="name"><a href="#getpluginsdir">getPluginsDir</a>()</p><p class="description">Get plugin directories</p></td>
 </tr>
 <tr>
-<td class="type"> <a href="../smarty/smarty.html">Smarty</a></td>
-<td class="description"><p class="name"><a href="#setCompileDir">setCompileDir</a>(string compile_dir)</p><p class="description">Set compile directory</p></td>
+<td class="type">  <a href="../smarty/smarty.html">Smarty</a></td>
+<td class="description"><p class="name"><a href="#setcompiledir">setCompileDir</a>(string compile_dir)</p><p class="description">Set compile directory</p></td>
 </tr>
 <tr>
-<td class="type"> string</td>
-<td class="description"><p class="name"><a href="#getCompileDir">getCompileDir</a>()</p><p class="description">Get compiled directory</p></td>
+<td class="type">  string</td>
+<td class="description"><p class="name"><a href="#getcompiledir">getCompileDir</a>()</p><p class="description">Get compiled directory</p></td>
 </tr>
 <tr>
-<td class="type"> <a href="../smarty/smarty.html">Smarty</a></td>
-<td class="description"><p class="name"><a href="#setCacheDir">setCacheDir</a>(string cache_dir)</p><p class="description">Set cache directory</p></td>
+<td class="type">  <a href="../smarty/smarty.html">Smarty</a></td>
+<td class="description"><p class="name"><a href="#setcachedir">setCacheDir</a>(string cache_dir)</p><p class="description">Set cache directory</p></td>
 </tr>
 <tr>
-<td class="type"> string</td>
-<td class="description"><p class="name"><a href="#getCacheDir">getCacheDir</a>()</p><p class="description">Get cache directory</p></td>
+<td class="type">  string</td>
+<td class="description"><p class="name"><a href="#getcachedir">getCacheDir</a>()</p><p class="description">Get cache directory</p></td>
 </tr>
 <tr>
-<td class="type"> <a href="../smarty/smarty.html">Smarty</a></td>
-<td class="description"><p class="name"><a href="#setDefaultModifiers">setDefaultModifiers</a>(array|string modifiers)</p><p class="description">Set default modifiers</p></td>
+<td class="type">  <a href="../smarty/smarty.html">Smarty</a></td>
+<td class="description"><p class="name"><a href="#setdefaultmodifiers">setDefaultModifiers</a>(array|string modifiers)</p><p class="description">Set default modifiers</p></td>
 </tr>
 <tr>
-<td class="type"> <a href="../smarty/smarty.html">Smarty</a></td>
-<td class="description"><p class="name"><a href="#addDefaultModifiers">addDefaultModifiers</a>(array|string modifiers)</p><p class="description">Add default modifiers</p></td>
+<td class="type">  <a href="../smarty/smarty.html">Smarty</a></td>
+<td class="description"><p class="name"><a href="#adddefaultmodifiers">addDefaultModifiers</a>(array|string modifiers)</p><p class="description">Add default modifiers</p></td>
 </tr>
 <tr>
-<td class="type"> array</td>
-<td class="description"><p class="name"><a href="#getDefaultModifiers">getDefaultModifiers</a>()</p><p class="description">Get default modifiers</p></td>
+<td class="type">  array</td>
+<td class="description"><p class="name"><a href="#getdefaultmodifiers">getDefaultModifiers</a>()</p><p class="description">Get default modifiers</p></td>
 </tr>
 <tr>
-<td class="type"> <a href="../smarty/smarty.html">Smarty</a></td>
-<td class="description"><p class="name"><a href="#setAutoloadFilters">setAutoloadFilters</a>(array filters, string type)</p><p class="description">Set autoload filters</p></td>
+<td class="type">  <a href="../smarty/smarty.html">Smarty</a></td>
+<td class="description"><p class="name"><a href="#setautoloadfilters">setAutoloadFilters</a>(array filters, string type)</p><p class="description">Set autoload filters</p></td>
 </tr>
 <tr>
-<td class="type"> <a href="../smarty/smarty.html">Smarty</a></td>
-<td class="description"><p class="name"><a href="#addAutoloadFilters">addAutoloadFilters</a>(array filters, string type)</p><p class="description">Add autoload filters</p></td>
+<td class="type">  <a href="../smarty/smarty.html">Smarty</a></td>
+<td class="description"><p class="name"><a href="#addautoloadfilters">addAutoloadFilters</a>(array filters, string type)</p><p class="description">Add autoload filters</p></td>
 </tr>
 <tr>
-<td class="type"> array</td>
-<td class="description"><p class="name"><a href="#getAutoloadFilters">getAutoloadFilters</a>(string type)</p><p class="description">Get autoload filters</p></td>
+<td class="type">  array</td>
+<td class="description"><p class="name"><a href="#getautoloadfilters">getAutoloadFilters</a>(string type)</p><p class="description">Get autoload filters</p></td>
 </tr>
 <tr>
-<td class="type"> string</td>
-<td class="description"><p class="name"><a href="#getDebugTemplate">getDebugTemplate</a>()</p><p class="description">return name of debugging template</p></td>
+<td class="type">  string</td>
+<td class="description"><p class="name"><a href="#getdebugtemplate">getDebugTemplate</a>()</p><p class="description">return name of debugging template</p></td>
 </tr>
 <tr>
-<td class="type"> <a href="../smarty/smarty.html">Smarty</a></td>
-<td class="description"><p class="name"><a href="#setDebugTemplate">setDebugTemplate</a>(string tpl_name)</p><p class="description">set the debug template</p></td>
+<td class="type">  <a href="../smarty/smarty.html">Smarty</a></td>
+<td class="description"><p class="name"><a href="#setdebugtemplate">setDebugTemplate</a>(string tpl_name)</p><p class="description">set the debug template</p></td>
 </tr>
 <tr>
-<td class="type"> object</td>
-<td class="description"><p class="name"><a href="#createTemplate">createTemplate</a>(string template, mixed cache_id, mixed compile_id, object parent, boolean do_clone)</p><p class="description">creates a template object</p></td>
+<td class="type">  object</td>
+<td class="description"><p class="name"><a href="#createtemplate">createTemplate</a>(string template, mixed cache_id, mixed compile_id, object parent, boolean do_clone)</p><p class="description">creates a template object</p></td>
 </tr>
 <tr>
-<td class="type"> string</td>
-<td class="description"><p class="name"><a href="#loadPlugin">loadPlugin</a>(string plugin_name, bool check)</p><p class="description">Takes unknown classes and loads plugin files for them
+<td class="type">  string</td>
+<td class="description"><p class="name"><a href="#loadplugin">loadPlugin</a>(string plugin_name, bool check)</p><p class="description">Takes unknown classes and loads plugin files for them
 class name format: Smarty_PluginType_PluginName
 plugin filename format: plugintype.pluginname.php</p></td>
 </tr>
 <tr>
-<td class="type"> integer</td>
-<td class="description"><p class="name"><a href="#compileAllTemplates">compileAllTemplates</a>(string extension, bool force_compile, int time_limit, int max_errors, str extention)</p><p class="description">Compile all template files</p></td>
+<td class="type">  integer</td>
+<td class="description"><p class="name"><a href="#compilealltemplates">compileAllTemplates</a>(string extension, bool force_compile, int time_limit, int max_errors, str extention)</p><p class="description">Compile all template files</p></td>
 </tr>
 <tr>
-<td class="type"> integer</td>
-<td class="description"><p class="name"><a href="#compileAllConfig">compileAllConfig</a>(string extension, bool force_compile, int time_limit, int max_errors, str extention)</p><p class="description">Compile all config files</p></td>
+<td class="type">  integer</td>
+<td class="description"><p class="name"><a href="#compileallconfig">compileAllConfig</a>(string extension, bool force_compile, int time_limit, int max_errors, str extention)</p><p class="description">Compile all config files</p></td>
 </tr>
 <tr>
-<td class="type"> integer</td>
-<td class="description"><p class="name"><a href="#clearCompiledTemplate">clearCompiledTemplate</a>(string resource_name, string compile_id, integer exp_time)</p><p class="description">Delete compiled template file</p></td>
+<td class="type">  integer</td>
+<td class="description"><p class="name"><a href="#clearcompiledtemplate">clearCompiledTemplate</a>(string resource_name, string compile_id, integer exp_time)</p><p class="description">Delete compiled template file</p></td>
 </tr>
 <tr>
-<td class="type"> array</td>
-<td class="description"><p class="name"><a href="#getTags">getTags</a>(object templae, <a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> template)</p><p class="description">Return array of tag/attributes of all tags used by an template</p></td>
+<td class="type">  array</td>
+<td class="description"><p class="name"><a href="#gettags">getTags</a>(object templae, <a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> template)</p><p class="description">Return array of tag/attributes of all tags used by an template</p></td>
 </tr>
 <tr>
-<td class="type"> boolean</td>
-<td class="description"><p class="name"><a href="#testInstall">testInstall</a>(array errors)</p><p class="description">Run installation test</p></td>
+<td class="type">  boolean</td>
+<td class="description"><p class="name"><a href="#testinstall">testInstall</a>(array errors)</p><p class="description">Run installation test</p></td>
 </tr>
 <tr>
-<td class="type">static  boolean</td>
-<td class="description"><p class="name"><a href="#mutingErrorHandler">mutingErrorHandler</a>(integer errno, mixed errstr, mixed errfile, mixed errline, mixed errcontext)</p><p class="description">Error Handler to mute expected messages</p></td>
+<td class="type"> static  boolean</td>
+<td class="description"><p class="name"><a href="#mutingerrorhandler">mutingErrorHandler</a>(integer errno, mixed errstr, mixed errfile, mixed errline, mixed errcontext)</p><p class="description">Error Handler to mute expected messages</p></td>
 </tr>
 <tr>
-<td class="type">static  void</td>
-<td class="description"><p class="name"><a href="#muteExpectedErrors">muteExpectedErrors</a>()</p><p class="description">Enable error handler to mute expected messages</p></td>
+<td class="type"> static  void</td>
+<td class="description"><p class="name"><a href="#muteexpectederrors">muteExpectedErrors</a>()</p><p class="description">Enable error handler to mute expected messages</p></td>
 </tr>
 <tr>
-<td class="type">static  void</td>
-<td class="description"><p class="name"><a href="#unmuteExpectedErrors">unmuteExpectedErrors</a>()</p><p class="description">Disable error handler muting expected messages</p></td>
+<td class="type"> static  void</td>
+<td class="description"><p class="name"><a href="#unmuteexpectederrors">unmuteExpectedErrors</a>()</p><p class="description">Disable error handler muting expected messages</p></td>
 </tr>
 </table>
 
@@ -283,9 +285,7 @@ plugin filename format: plugintype.pluginname.php</p></td>
 <div class="location">framework\libs\smarty\Smarty.class.php at line 150</div>
 <h3 id="_cacheresource_handlers">_cacheresource_handlers</h3>
 
-```php
-public  array$_cacheresource_handlers = array()
-```
+public  array $_cacheresource_handlers = array()
 <div class="details">
 <p>cache resource handler cache</p></div>
 
@@ -294,9 +294,7 @@ public  array$_cacheresource_handlers = array()
 <div class="location">framework\libs\smarty\Smarty.class.php at line 200</div>
 <h3 id="_current_file">_current_file</h3>
 
-```php
-public  string$_current_file = null
-```
+public  string $_current_file = null
 <div class="details">
 <p>required by the compiler for BC</p></div>
 
@@ -305,9 +303,7 @@ public  string$_current_file = null
 <div class="location">framework\libs\smarty\Smarty.class.php at line 185</div>
 <h3 id="_dir_perms">_dir_perms</h3>
 
-```php
-public  int$_dir_perms = 0771
-```
+public  int $_dir_perms = 0771
 <div class="details">
 <p>default dir permissions</p></div>
 
@@ -316,9 +312,7 @@ public  int$_dir_perms = 0771
 <div class="location">framework\libs\smarty\Smarty.class.php at line 180</div>
 <h3 id="_file_perms">_file_perms</h3>
 
-```php
-public  int$_file_perms = 0644
-```
+public  int $_file_perms = 0644
 <div class="details">
 <p>default file permissions</p></div>
 
@@ -327,9 +321,7 @@ public  int$_file_perms = 0644
 <div class="location">framework\libs\smarty\Smarty.class.php at line 205</div>
 <h3 id="_parserdebug">_parserdebug</h3>
 
-```php
-public  bool$_parserdebug = false
-```
+public  bool $_parserdebug = false
 <div class="details">
 <p>internal flag to enable parser debugging</p></div>
 
@@ -338,9 +330,7 @@ public  bool$_parserdebug = false
 <div class="location">framework\libs\smarty\Smarty.class.php at line 140</div>
 <h3 id="_resource_handlers">_resource_handlers</h3>
 
-```php
-public  array$_resource_handlers = array()
-```
+public  array $_resource_handlers = array()
 <div class="details">
 <p>resource handler cache</p></div>
 
@@ -349,9 +339,7 @@ public  array$_resource_handlers = array()
 <div class="location">framework\libs\smarty\Smarty.class.php at line 170</div>
 <h3 id="_smarty_vars">_smarty_vars</h3>
 
-```php
-public static  array$_smarty_vars = array()
-```
+public static  array $_smarty_vars = array()
 <div class="details">
 <p>global internal smarty vars</p></div>
 
@@ -360,9 +348,7 @@ public static  array$_smarty_vars = array()
 <div class="location">framework\libs\smarty\Smarty.class.php at line 190</div>
 <h3 id="_tag_stack">_tag_stack</h3>
 
-```php
-public  array$_tag_stack = array()
-```
+public  array $_tag_stack = array()
 <div class="details">
 <p>block tag hierarchy</p></div>
 
@@ -371,9 +357,7 @@ public  array$_tag_stack = array()
 <div class="location">framework\libs\smarty\Smarty.class.php at line 155</div>
 <h3 id="autoload_filters">autoload_filters</h3>
 
-```php
-public  array$autoload_filters = array()
-```
+public  array $autoload_filters = array()
 <div class="details">
 <p>autoload filter</p></div>
 
@@ -382,9 +366,7 @@ public  array$autoload_filters = array()
 <div class="location">framework\libs\smarty\Smarty.class.php at line 160</div>
 <h3 id="default_modifiers">default_modifiers</h3>
 
-```php
-public  array$default_modifiers = array()
-```
+public  array $default_modifiers = array()
 <div class="details">
 <p>default modifier</p></div>
 
@@ -393,9 +375,7 @@ public  array$default_modifiers = array()
 <div class="location">framework\libs\smarty\Smarty.class.php at line 165</div>
 <h3 id="escape_html">escape_html</h3>
 
-```php
-public  boolean$escape_html = false
-```
+public  boolean $escape_html = false
 <div class="details">
 <p>autoescape variable output</p></div>
 
@@ -404,9 +384,7 @@ public  boolean$escape_html = false
 <div class="location">framework\libs\smarty\Smarty.class.php at line 211</div>
 <h3 id="merged_templates_func">merged_templates_func</h3>
 
-```php
-public  array$merged_templates_func = array()
-```
+public  array $merged_templates_func = array()
 <div class="details">
 <p>Saved parameter of merged templates during compilation</p></div>
 
@@ -415,9 +393,7 @@ public  array$merged_templates_func = array()
 <div class="location">framework\libs\smarty\Smarty.class.php at line 145</div>
 <h3 id="registered_cache_resources">registered_cache_resources</h3>
 
-```php
-public  array$registered_cache_resources = array()
-```
+public  array $registered_cache_resources = array()
 <div class="details">
 <p>registered cache resources</p></div>
 
@@ -426,9 +402,7 @@ public  array$registered_cache_resources = array()
 <div class="location">framework\libs\smarty\Smarty.class.php at line 125</div>
 <h3 id="registered_classes">registered_classes</h3>
 
-```php
-public  array$registered_classes = array()
-```
+public  array $registered_classes = array()
 <div class="details">
 <p>registered classes</p></div>
 
@@ -437,9 +411,7 @@ public  array$registered_classes = array()
 <div class="location">framework\libs\smarty\Smarty.class.php at line 130</div>
 <h3 id="registered_filters">registered_filters</h3>
 
-```php
-public  array$registered_filters = array()
-```
+public  array $registered_filters = array()
 <div class="details">
 <p>registered filters</p></div>
 
@@ -448,9 +420,7 @@ public  array$registered_filters = array()
 <div class="location">framework\libs\smarty\Smarty.class.php at line 120</div>
 <h3 id="registered_objects">registered_objects</h3>
 
-```php
-public  array$registered_objects = array()
-```
+public  array $registered_objects = array()
 <div class="details">
 <p>registered objects</p></div>
 
@@ -459,9 +429,7 @@ public  array$registered_objects = array()
 <div class="location">framework\libs\smarty\Smarty.class.php at line 135</div>
 <h3 id="registered_resources">registered_resources</h3>
 
-```php
-public  array$registered_resources = array()
-```
+public  array $registered_resources = array()
 <div class="details">
 <p>registered resources</p></div>
 
@@ -470,9 +438,7 @@ public  array$registered_resources = array()
 <div class="location">framework\libs\smarty\Smarty.class.php at line 195</div>
 <h3 id="smarty">smarty</h3>
 
-```php
-public  <a href="../smarty/smarty.html">Smarty</a>$smarty
-```
+public  <a href="../smarty/smarty.html">Smarty</a> $smarty
 <div class="details">
 <p>self pointer to Smarty object</p></div>
 
@@ -481,9 +447,7 @@ public  <a href="../smarty/smarty.html">Smarty</a>$smarty
 <div class="location">framework\libs\smarty\Smarty.class.php at line 175</div>
 <h3 id="start_time">start_time</h3>
 
-```php
-public  int$start_time = 0
-```
+public  int $start_time = 0
 <div class="details">
 <p>start time for execution time calculation</p></div>
 
@@ -505,10 +469,7 @@ public  void **__construct**()
 <div class="location">framework\libs\smarty\Smarty.class.php at line 315</div>
 <h3 id="templateExists()">templateExists</h3>
 
-```php
-public  boolean **templateExists**(string resource_name)
-```
-<div class="details">
+public  boolean **templateExists** (string resource_name)<div class="details">
 <p>Check if a template resource exists</p><dl>
 <dt>Parameters:</dt>
 <dd>resource_name - template name</dd>
@@ -522,10 +483,7 @@ public  boolean **templateExists**(string resource_name)
 <div class="location">framework\libs\smarty\Smarty.class.php at line 333</div>
 <h3 id="getGlobal()">getGlobal</h3>
 
-```php
-public  string **getGlobal**(object smarty, string varname)
-```
-<div class="details">
+public  string **getGlobal** (object smarty, string varname)<div class="details">
 <p>Returns a single or all global  variables</p><dl>
 <dt>Parameters:</dt>
 <dd></dd>
@@ -540,10 +498,7 @@ public  string **getGlobal**(object smarty, string varname)
 <div class="location">framework\libs\smarty\Smarty.class.php at line 357</div>
 <h3 id="clearAllCache()">clearAllCache</h3>
 
-```php
-public  integer **clearAllCache**(integer exp_time, string type)
-```
-<div class="details">
+public  integer **clearAllCache** (integer exp_time, string type)<div class="details">
 <p>Empty cache folder</p><dl>
 <dt>Parameters:</dt>
 <dd>exp_time - expiration time</dd>
@@ -558,10 +513,7 @@ public  integer **clearAllCache**(integer exp_time, string type)
 <div class="location">framework\libs\smarty\Smarty.class.php at line 375</div>
 <h3 id="clearCache()">clearCache</h3>
 
-```php
-public  integer **clearCache**(string template_name, string cache_id, string compile_id, integer exp_time, string type)
-```
-<div class="details">
+public  integer **clearCache** (string template_name, string cache_id, string compile_id, integer exp_time, string type)<div class="details">
 <p>Empty cache for a specific template</p><dl>
 <dt>Parameters:</dt>
 <dd>template_name - template name</dd>
@@ -579,10 +531,7 @@ public  integer **clearCache**(string template_name, string cache_id, string com
 <div class="location">framework\libs\smarty\Smarty.class.php at line 390</div>
 <h3 id="enableSecurity()">enableSecurity</h3>
 
-```php
-public  <a href="../smarty/smarty.html">Smarty</a> **enableSecurity**(string|Smarty_Security security_class)
-```
-<div class="details">
+public  <a href="../smarty/smarty.html">Smarty</a> **enableSecurity** (string|Smarty_Security security_class)<div class="details">
 <p>Loads security class and enables security</p><dl>
 <dt>Parameters:</dt>
 <dd>security_class - if a string is used, it must be class-name</dd>
@@ -598,10 +547,7 @@ public  <a href="../smarty/smarty.html">Smarty</a> **enableSecurity**(string|Sma
 <div class="location">framework\libs\smarty\Smarty.class.php at line 416</div>
 <h3 id="disableSecurity()">disableSecurity</h3>
 
-```php
-public  <a href="../smarty/smarty.html">Smarty</a> **disableSecurity**()
-```
-<div class="details">
+public  <a href="../smarty/smarty.html">Smarty</a> **disableSecurity** ()<div class="details">
 <p>Disable security</p><dl>
 <dt>Returns:</dt>
 <dd>current Smarty instance for chaining</dd>
@@ -613,10 +559,7 @@ public  <a href="../smarty/smarty.html">Smarty</a> **disableSecurity**()
 <div class="location">framework\libs\smarty\Smarty.class.php at line 429</div>
 <h3 id="setTemplateDir()">setTemplateDir</h3>
 
-```php
-public  <a href="../smarty/smarty.html">Smarty</a> **setTemplateDir**(string|array template_dir)
-```
-<div class="details">
+public  <a href="../smarty/smarty.html">Smarty</a> **setTemplateDir** (string|array template_dir)<div class="details">
 <p>Set template directory</p><dl>
 <dt>Parameters:</dt>
 <dd>template_dir - directory(s) of template sources</dd>
@@ -630,10 +573,7 @@ public  <a href="../smarty/smarty.html">Smarty</a> **setTemplateDir**(string|arr
 <div class="location">framework\libs\smarty\Smarty.class.php at line 448</div>
 <h3 id="addTemplateDir()">addTemplateDir</h3>
 
-```php
-public  <a href="../smarty/smarty.html">Smarty</a> **addTemplateDir**(string|array template_dir, string key)
-```
-<div class="details">
+public  <a href="../smarty/smarty.html">Smarty</a> **addTemplateDir** (string|array template_dir, string key)<div class="details">
 <p>Add template directory(s)</p><dl>
 <dt>Parameters:</dt>
 <dd>template_dir - directory(s) of template sources</dd>
@@ -650,10 +590,7 @@ public  <a href="../smarty/smarty.html">Smarty</a> **addTemplateDir**(string|arr
 <div class="location">framework\libs\smarty\Smarty.class.php at line 480</div>
 <h3 id="getTemplateDir()">getTemplateDir</h3>
 
-```php
-public  array|string **getTemplateDir**(mixed index)
-```
-<div class="details">
+public  array|string **getTemplateDir** (mixed index)<div class="details">
 <p>Get template directories</p><dl>
 <dt>Parameters:</dt>
 <dd>index - of directory to get, null to get all</dd>
@@ -667,10 +604,7 @@ public  array|string **getTemplateDir**(mixed index)
 <div class="location">framework\libs\smarty\Smarty.class.php at line 495</div>
 <h3 id="setConfigDir()">setConfigDir</h3>
 
-```php
-public  <a href="../smarty/smarty.html">Smarty</a> **setConfigDir**(string|array template_dir, mixed config_dir)
-```
-<div class="details">
+public  <a href="../smarty/smarty.html">Smarty</a> **setConfigDir** (string|array template_dir, mixed config_dir)<div class="details">
 <p>Set config directory</p><dl>
 <dt>Parameters:</dt>
 <dd>template_dir - directory(s) of configuration sources</dd>
@@ -684,10 +618,7 @@ public  <a href="../smarty/smarty.html">Smarty</a> **setConfigDir**(string|array
 <div class="location">framework\libs\smarty\Smarty.class.php at line 513</div>
 <h3 id="addConfigDir()">addConfigDir</h3>
 
-```php
-public  <a href="../smarty/smarty.html">Smarty</a> **addConfigDir**(string|array config_dir, string key)
-```
-<div class="details">
+public  <a href="../smarty/smarty.html">Smarty</a> **addConfigDir** (string|array config_dir, string key)<div class="details">
 <p>Add config directory(s)</p><dl>
 <dt>Parameters:</dt>
 <dd>config_dir - directory(s) of config sources</dd>
@@ -702,10 +633,7 @@ public  <a href="../smarty/smarty.html">Smarty</a> **addConfigDir**(string|array
 <div class="location">framework\libs\smarty\Smarty.class.php at line 546</div>
 <h3 id="getConfigDir()">getConfigDir</h3>
 
-```php
-public  array|string **getConfigDir**(mixed index)
-```
-<div class="details">
+public  array|string **getConfigDir** (mixed index)<div class="details">
 <p>Get config directory</p><dl>
 <dt>Parameters:</dt>
 <dd>index - of directory to get, null to get all</dd>
@@ -719,10 +647,7 @@ public  array|string **getConfigDir**(mixed index)
 <div class="location">framework\libs\smarty\Smarty.class.php at line 561</div>
 <h3 id="setPluginsDir()">setPluginsDir</h3>
 
-```php
-public  <a href="../smarty/smarty.html">Smarty</a> **setPluginsDir**(string|array plugins_dir)
-```
-<div class="details">
+public  <a href="../smarty/smarty.html">Smarty</a> **setPluginsDir** (string|array plugins_dir)<div class="details">
 <p>Set plugins directory</p><dl>
 <dt>Parameters:</dt>
 <dd>plugins_dir - directory(s) of plugins</dd>
@@ -736,10 +661,7 @@ public  <a href="../smarty/smarty.html">Smarty</a> **setPluginsDir**(string|arra
 <div class="location">framework\libs\smarty\Smarty.class.php at line 578</div>
 <h3 id="addPluginsDir()">addPluginsDir</h3>
 
-```php
-public  <a href="../smarty/smarty.html">Smarty</a> **addPluginsDir**(object smarty, string plugins_dir)
-```
-<div class="details">
+public  <a href="../smarty/smarty.html">Smarty</a> **addPluginsDir** (object smarty, string plugins_dir)<div class="details">
 <p>Adds directory of plugin files</p><dl>
 <dt>Parameters:</dt>
 <dd></dd>
@@ -754,10 +676,7 @@ public  <a href="../smarty/smarty.html">Smarty</a> **addPluginsDir**(object smar
 <div class="location">framework\libs\smarty\Smarty.class.php at line 607</div>
 <h3 id="getPluginsDir()">getPluginsDir</h3>
 
-```php
-public  array **getPluginsDir**()
-```
-<div class="details">
+public  array **getPluginsDir** ()<div class="details">
 <p>Get plugin directories</p><dl>
 <dt>Returns:</dt>
 <dd>list of plugin directories</dd>
@@ -769,10 +688,7 @@ public  array **getPluginsDir**()
 <div class="location">framework\libs\smarty\Smarty.class.php at line 618</div>
 <h3 id="setCompileDir()">setCompileDir</h3>
 
-```php
-public  <a href="../smarty/smarty.html">Smarty</a> **setCompileDir**(string compile_dir)
-```
-<div class="details">
+public  <a href="../smarty/smarty.html">Smarty</a> **setCompileDir** (string compile_dir)<div class="details">
 <p>Set compile directory</p><dl>
 <dt>Parameters:</dt>
 <dd>compile_dir - directory to store compiled templates in</dd>
@@ -786,10 +702,7 @@ public  <a href="../smarty/smarty.html">Smarty</a> **setCompileDir**(string comp
 <div class="location">framework\libs\smarty\Smarty.class.php at line 632</div>
 <h3 id="getCompileDir()">getCompileDir</h3>
 
-```php
-public  string **getCompileDir**()
-```
-<div class="details">
+public  string **getCompileDir** ()<div class="details">
 <p>Get compiled directory</p><dl>
 <dt>Returns:</dt>
 <dd>path to compiled templates</dd>
@@ -801,10 +714,7 @@ public  string **getCompileDir**()
 <div class="location">framework\libs\smarty\Smarty.class.php at line 643</div>
 <h3 id="setCacheDir()">setCacheDir</h3>
 
-```php
-public  <a href="../smarty/smarty.html">Smarty</a> **setCacheDir**(string cache_dir)
-```
-<div class="details">
+public  <a href="../smarty/smarty.html">Smarty</a> **setCacheDir** (string cache_dir)<div class="details">
 <p>Set cache directory</p><dl>
 <dt>Parameters:</dt>
 <dd>cache_dir - directory to store cached templates in</dd>
@@ -818,10 +728,7 @@ public  <a href="../smarty/smarty.html">Smarty</a> **setCacheDir**(string cache_
 <div class="location">framework\libs\smarty\Smarty.class.php at line 657</div>
 <h3 id="getCacheDir()">getCacheDir</h3>
 
-```php
-public  string **getCacheDir**()
-```
-<div class="details">
+public  string **getCacheDir** ()<div class="details">
 <p>Get cache directory</p><dl>
 <dt>Returns:</dt>
 <dd>path of cache directory</dd>
@@ -833,10 +740,7 @@ public  string **getCacheDir**()
 <div class="location">framework\libs\smarty\Smarty.class.php at line 668</div>
 <h3 id="setDefaultModifiers()">setDefaultModifiers</h3>
 
-```php
-public  <a href="../smarty/smarty.html">Smarty</a> **setDefaultModifiers**(array|string modifiers)
-```
-<div class="details">
+public  <a href="../smarty/smarty.html">Smarty</a> **setDefaultModifiers** (array|string modifiers)<div class="details">
 <p>Set default modifiers</p><dl>
 <dt>Parameters:</dt>
 <dd>modifiers - modifier or list of modifiers to set</dd>
@@ -850,10 +754,7 @@ public  <a href="../smarty/smarty.html">Smarty</a> **setDefaultModifiers**(array
 <div class="location">framework\libs\smarty\Smarty.class.php at line 680</div>
 <h3 id="addDefaultModifiers()">addDefaultModifiers</h3>
 
-```php
-public  <a href="../smarty/smarty.html">Smarty</a> **addDefaultModifiers**(array|string modifiers)
-```
-<div class="details">
+public  <a href="../smarty/smarty.html">Smarty</a> **addDefaultModifiers** (array|string modifiers)<div class="details">
 <p>Add default modifiers</p><dl>
 <dt>Parameters:</dt>
 <dd>modifiers - modifier or list of modifiers to add</dd>
@@ -867,10 +768,7 @@ public  <a href="../smarty/smarty.html">Smarty</a> **addDefaultModifiers**(array
 <div class="location">framework\libs\smarty\Smarty.class.php at line 696</div>
 <h3 id="getDefaultModifiers()">getDefaultModifiers</h3>
 
-```php
-public  array **getDefaultModifiers**()
-```
-<div class="details">
+public  array **getDefaultModifiers** ()<div class="details">
 <p>Get default modifiers</p><dl>
 <dt>Returns:</dt>
 <dd>list of default modifiers</dd>
@@ -882,10 +780,7 @@ public  array **getDefaultModifiers**()
 <div class="location">framework\libs\smarty\Smarty.class.php at line 709</div>
 <h3 id="setAutoloadFilters()">setAutoloadFilters</h3>
 
-```php
-public  <a href="../smarty/smarty.html">Smarty</a> **setAutoloadFilters**(array filters, string type)
-```
-<div class="details">
+public  <a href="../smarty/smarty.html">Smarty</a> **setAutoloadFilters** (array filters, string type)<div class="details">
 <p>Set autoload filters</p><dl>
 <dt>Parameters:</dt>
 <dd>filters - filters to load automatically</dd>
@@ -900,10 +795,7 @@ public  <a href="../smarty/smarty.html">Smarty</a> **setAutoloadFilters**(array 
 <div class="location">framework\libs\smarty\Smarty.class.php at line 727</div>
 <h3 id="addAutoloadFilters()">addAutoloadFilters</h3>
 
-```php
-public  <a href="../smarty/smarty.html">Smarty</a> **addAutoloadFilters**(array filters, string type)
-```
-<div class="details">
+public  <a href="../smarty/smarty.html">Smarty</a> **addAutoloadFilters** (array filters, string type)<div class="details">
 <p>Add autoload filters</p><dl>
 <dt>Parameters:</dt>
 <dd>filters - filters to load automatically</dd>
@@ -918,10 +810,7 @@ public  <a href="../smarty/smarty.html">Smarty</a> **addAutoloadFilters**(array 
 <div class="location">framework\libs\smarty\Smarty.class.php at line 754</div>
 <h3 id="getAutoloadFilters()">getAutoloadFilters</h3>
 
-```php
-public  array **getAutoloadFilters**(string type)
-```
-<div class="details">
+public  array **getAutoloadFilters** (string type)<div class="details">
 <p>Get autoload filters</p><dl>
 <dt>Parameters:</dt>
 <dd>type - type of filter to get autoloads for. Defaults to all autoload filters</dd>
@@ -935,10 +824,7 @@ public  array **getAutoloadFilters**(string type)
 <div class="location">framework\libs\smarty\Smarty.class.php at line 768</div>
 <h3 id="getDebugTemplate()">getDebugTemplate</h3>
 
-```php
-public  string **getDebugTemplate**()
-```
-<div class="details">
+public  string **getDebugTemplate** ()<div class="details">
 <p>return name of debugging template</p></div>
 
 - - -
@@ -946,10 +832,7 @@ public  string **getDebugTemplate**()
 <div class="location">framework\libs\smarty\Smarty.class.php at line 780</div>
 <h3 id="setDebugTemplate()">setDebugTemplate</h3>
 
-```php
-public  <a href="../smarty/smarty.html">Smarty</a> **setDebugTemplate**(string tpl_name)
-```
-<div class="details">
+public  <a href="../smarty/smarty.html">Smarty</a> **setDebugTemplate** (string tpl_name)<div class="details">
 <p>set the debug template</p><dl>
 <dt>Returns:</dt>
 <dd>current Smarty instance for chaining</dd>
@@ -963,10 +846,7 @@ public  <a href="../smarty/smarty.html">Smarty</a> **setDebugTemplate**(string t
 <div class="location">framework\libs\smarty\Smarty.class.php at line 800</div>
 <h3 id="createTemplate()">createTemplate</h3>
 
-```php
-public  object **createTemplate**(string template, mixed cache_id, mixed compile_id, object parent, boolean do_clone)
-```
-<div class="details">
+public  object **createTemplate** (string template, mixed cache_id, mixed compile_id, object parent, boolean do_clone)<div class="details">
 <p>creates a template object</p><dl>
 <dt>Parameters:</dt>
 <dd>template - the resource handle of the template file</dd>
@@ -984,10 +864,7 @@ public  object **createTemplate**(string template, mixed cache_id, mixed compile
 <div class="location">framework\libs\smarty\Smarty.class.php at line 866</div>
 <h3 id="loadPlugin()">loadPlugin</h3>
 
-```php
-public  string **loadPlugin**(string plugin_name, bool check)
-```
-<div class="details">
+public  string **loadPlugin** (string plugin_name, bool check)<div class="details">
 <p>Takes unknown classes and loads plugin files for them
 class name format: Smarty_PluginType_PluginName
 plugin filename format: plugintype.pluginname.php</p><dl>
@@ -1004,10 +881,7 @@ plugin filename format: plugintype.pluginname.php</p><dl>
 <div class="location">framework\libs\smarty\Smarty.class.php at line 934</div>
 <h3 id="compileAllTemplates()">compileAllTemplates</h3>
 
-```php
-public  integer **compileAllTemplates**(string extension, bool force_compile, int time_limit, int max_errors, str extention)
-```
-<div class="details">
+public  integer **compileAllTemplates** (string extension, bool force_compile, int time_limit, int max_errors, str extention)<div class="details">
 <p>Compile all template files</p><dl>
 <dt>Parameters:</dt>
 <dd>extension - file extension</dd>
@@ -1024,10 +898,7 @@ public  integer **compileAllTemplates**(string extension, bool force_compile, in
 <div class="location">framework\libs\smarty\Smarty.class.php at line 948</div>
 <h3 id="compileAllConfig()">compileAllConfig</h3>
 
-```php
-public  integer **compileAllConfig**(string extension, bool force_compile, int time_limit, int max_errors, str extention)
-```
-<div class="details">
+public  integer **compileAllConfig** (string extension, bool force_compile, int time_limit, int max_errors, str extention)<div class="details">
 <p>Compile all config files</p><dl>
 <dt>Parameters:</dt>
 <dd>extension - file extension</dd>
@@ -1044,10 +915,7 @@ public  integer **compileAllConfig**(string extension, bool force_compile, int t
 <div class="location">framework\libs\smarty\Smarty.class.php at line 961</div>
 <h3 id="clearCompiledTemplate()">clearCompiledTemplate</h3>
 
-```php
-public  integer **clearCompiledTemplate**(string resource_name, string compile_id, integer exp_time)
-```
-<div class="details">
+public  integer **clearCompiledTemplate** (string resource_name, string compile_id, integer exp_time)<div class="details">
 <p>Delete compiled template file</p><dl>
 <dt>Parameters:</dt>
 <dd>resource_name - template name</dd>
@@ -1063,10 +931,7 @@ public  integer **clearCompiledTemplate**(string resource_name, string compile_i
 <div class="location">framework\libs\smarty\Smarty.class.php at line 973</div>
 <h3 id="getTags()">getTags</h3>
 
-```php
-public  array **getTags**(object templae, <a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> template)
-```
-<div class="details">
+public  array **getTags** (object templae, <a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> template)<div class="details">
 <p>Return array of tag/attributes of all tags used by an template</p><dl>
 <dt>Parameters:</dt>
 <dd>templae - template object</dd>
@@ -1080,10 +945,7 @@ public  array **getTags**(object templae, <a href="../smarty/smarty_internal_tem
 <div class="location">framework\libs\smarty\Smarty.class.php at line 984</div>
 <h3 id="testInstall()">testInstall</h3>
 
-```php
-public  boolean **testInstall**(array errors)
-```
-<div class="details">
+public  boolean **testInstall** (array errors)<div class="details">
 <p>Run installation test</p><dl>
 <dt>Parameters:</dt>
 <dd>errors - Array to write errors into, rather than outputting them</dd>
@@ -1097,10 +959,7 @@ public  boolean **testInstall**(array errors)
 <div class="location">framework\libs\smarty\Smarty.class.php at line 996</div>
 <h3 id="mutingErrorHandler()">mutingErrorHandler</h3>
 
-```php
-public static  boolean **mutingErrorHandler**(integer errno, mixed errstr, mixed errfile, mixed errline, mixed errcontext)
-```
-<div class="details">
+public static  boolean **mutingErrorHandler** (integer errno, mixed errstr, mixed errfile, mixed errline, mixed errcontext)<div class="details">
 <p>Error Handler to mute expected messages</p><dl>
 <dt>See Also:</dt>
 <dd><code><a href="http://php.net/set_error_handler">http://php.net/set_error_handler</a></code></dd>
@@ -1114,10 +973,7 @@ public static  boolean **mutingErrorHandler**(integer errno, mixed errstr, mixed
 <div class="location">framework\libs\smarty\Smarty.class.php at line 1041</div>
 <h3 id="muteExpectedErrors()">muteExpectedErrors</h3>
 
-```php
-public static  void **muteExpectedErrors**()
-```
-<div class="details">
+public static  void **muteExpectedErrors** ()<div class="details">
 <p>Enable error handler to mute expected messages</p></div>
 
 - - -
@@ -1125,10 +981,7 @@ public static  void **muteExpectedErrors**()
 <div class="location">framework\libs\smarty\Smarty.class.php at line 1073</div>
 <h3 id="unmuteExpectedErrors()">unmuteExpectedErrors</h3>
 
-```php
-public static  void **unmuteExpectedErrors**()
-```
-<div class="details">
+public static  void **unmuteExpectedErrors** ()<div class="details">
 <p>Disable error handler muting expected messages</p></div>
 
 - - -

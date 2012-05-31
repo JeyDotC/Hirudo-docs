@@ -1,3 +1,4 @@
+
 - - -
 
 **Symfony\Component\DependencyInjection\Compiler\ServiceReferenceGraphNode**
@@ -17,6 +18,7 @@
 <dt>Author:</dt>
 <dd>Johannes M. Schmitt <schmittjoh@gmail.com></dd>
 </dl>
+
 - - -
 
 <table id="summary_constructor">
@@ -30,36 +32,36 @@
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#addInEdge">addInEdge</a>(<a href="../../../../symfony/component/dependencyinjection/compiler/servicereferencegraphedge.html">ServiceReferenceGraphEdge</a> edge)</p><p class="description">Adds an in edge to this node.</p></td>
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#addinedge">addInEdge</a>(<a href="../../../../symfony/component/dependencyinjection/compiler/servicereferencegraphedge.html">ServiceReferenceGraphEdge</a> edge)</p><p class="description">Adds an in edge to this node.</p></td>
 </tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#addOutEdge">addOutEdge</a>(<a href="../../../../symfony/component/dependencyinjection/compiler/servicereferencegraphedge.html">ServiceReferenceGraphEdge</a> edge)</p><p class="description">Adds an out edge to this node.</p></td>
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#addoutedge">addOutEdge</a>(<a href="../../../../symfony/component/dependencyinjection/compiler/servicereferencegraphedge.html">ServiceReferenceGraphEdge</a> edge)</p><p class="description">Adds an out edge to this node.</p></td>
 </tr>
 <tr>
-<td class="type"> Boolean</td>
-<td class="description"><p class="name"><a href="#isAlias">isAlias</a>()</p><p class="description">Checks if the value of this node is an Alias.</p></td>
+<td class="type">  Boolean</td>
+<td class="description"><p class="name"><a href="#isalias">isAlias</a>()</p><p class="description">Checks if the value of this node is an Alias.</p></td>
 </tr>
 <tr>
-<td class="type"> Boolean</td>
-<td class="description"><p class="name"><a href="#isDefinition">isDefinition</a>()</p><p class="description">Checks if the value of this node is a Definition.</p></td>
+<td class="type">  Boolean</td>
+<td class="description"><p class="name"><a href="#isdefinition">isDefinition</a>()</p><p class="description">Checks if the value of this node is a Definition.</p></td>
 </tr>
 <tr>
-<td class="type"> string</td>
-<td class="description"><p class="name"><a href="#getId">getId</a>()</p><p class="description">Returns the identifier.</p></td>
+<td class="type">  string</td>
+<td class="description"><p class="name"><a href="#getid">getId</a>()</p><p class="description">Returns the identifier.</p></td>
 </tr>
 <tr>
-<td class="type"> array</td>
-<td class="description"><p class="name"><a href="#getInEdges">getInEdges</a>()</p><p class="description">Returns the in edges.</p></td>
+<td class="type">  array</td>
+<td class="description"><p class="name"><a href="#getinedges">getInEdges</a>()</p><p class="description">Returns the in edges.</p></td>
 </tr>
 <tr>
-<td class="type"> array</td>
-<td class="description"><p class="name"><a href="#getOutEdges">getOutEdges</a>()</p><p class="description">Returns the out edges.</p></td>
+<td class="type">  array</td>
+<td class="description"><p class="name"><a href="#getoutedges">getOutEdges</a>()</p><p class="description">Returns the out edges.</p></td>
 </tr>
 <tr>
-<td class="type"> mixed</td>
-<td class="description"><p class="name"><a href="#getValue">getValue</a>()</p><p class="description">Returns the value of this Node</p></td>
+<td class="type">  mixed</td>
+<td class="description"><p class="name"><a href="#getvalue">getValue</a>()</p><p class="description">Returns the value of this Node</p></td>
 </tr>
 </table>
 
@@ -84,10 +86,7 @@ public  void **__construct**(string id, mixed value)
 <div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\ServiceReferenceGraphNode.php at line 50</div>
 <h3 id="addInEdge()">addInEdge</h3>
 
-```php
-public  void **addInEdge**(<a href="../../../../symfony/component/dependencyinjection/compiler/servicereferencegraphedge.html">ServiceReferenceGraphEdge</a> edge)
-```
-<div class="details">
+public  void **addInEdge** (<a href="../../../../symfony/component/dependencyinjection/compiler/servicereferencegraphedge.html">ServiceReferenceGraphEdge</a> edge)<div class="details">
 <p>Adds an in edge to this node.</p></div>
 
 - - -
@@ -95,10 +94,7 @@ public  void **addInEdge**(<a href="../../../../symfony/component/dependencyinje
 <div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\ServiceReferenceGraphNode.php at line 60</div>
 <h3 id="addOutEdge()">addOutEdge</h3>
 
-```php
-public  void **addOutEdge**(<a href="../../../../symfony/component/dependencyinjection/compiler/servicereferencegraphedge.html">ServiceReferenceGraphEdge</a> edge)
-```
-<div class="details">
+public  void **addOutEdge** (<a href="../../../../symfony/component/dependencyinjection/compiler/servicereferencegraphedge.html">ServiceReferenceGraphEdge</a> edge)<div class="details">
 <p>Adds an out edge to this node.</p></div>
 
 - - -
@@ -106,10 +102,7 @@ public  void **addOutEdge**(<a href="../../../../symfony/component/dependencyinj
 <div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\ServiceReferenceGraphNode.php at line 70</div>
 <h3 id="isAlias()">isAlias</h3>
 
-```php
-public  Boolean **isAlias**()
-```
-<div class="details">
+public  Boolean **isAlias** ()<div class="details">
 <p>Checks if the value of this node is an Alias.</p><dl>
 <dt>Returns:</dt>
 <dd>True if the value is an Alias instance</dd>
@@ -121,10 +114,7 @@ public  Boolean **isAlias**()
 <div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\ServiceReferenceGraphNode.php at line 80</div>
 <h3 id="isDefinition()">isDefinition</h3>
 
-```php
-public  Boolean **isDefinition**()
-```
-<div class="details">
+public  Boolean **isDefinition** ()<div class="details">
 <p>Checks if the value of this node is a Definition.</p><dl>
 <dt>Returns:</dt>
 <dd>True if the value is a Definition instance</dd>
@@ -136,10 +126,7 @@ public  Boolean **isDefinition**()
 <div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\ServiceReferenceGraphNode.php at line 90</div>
 <h3 id="getId()">getId</h3>
 
-```php
-public  string **getId**()
-```
-<div class="details">
+public  string **getId** ()<div class="details">
 <p>Returns the identifier.</p></div>
 
 - - -
@@ -147,10 +134,7 @@ public  string **getId**()
 <div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\ServiceReferenceGraphNode.php at line 100</div>
 <h3 id="getInEdges()">getInEdges</h3>
 
-```php
-public  array **getInEdges**()
-```
-<div class="details">
+public  array **getInEdges** ()<div class="details">
 <p>Returns the in edges.</p><dl>
 <dt>Returns:</dt>
 <dd>The in ServiceReferenceGraphEdge array</dd>
@@ -162,10 +146,7 @@ public  array **getInEdges**()
 <div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\ServiceReferenceGraphNode.php at line 110</div>
 <h3 id="getOutEdges()">getOutEdges</h3>
 
-```php
-public  array **getOutEdges**()
-```
-<div class="details">
+public  array **getOutEdges** ()<div class="details">
 <p>Returns the out edges.</p><dl>
 <dt>Returns:</dt>
 <dd>The out ServiceReferenceGraphEdge array</dd>
@@ -177,10 +158,7 @@ public  array **getOutEdges**()
 <div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\ServiceReferenceGraphNode.php at line 120</div>
 <h3 id="getValue()">getValue</h3>
 
-```php
-public  mixed **getValue**()
-```
-<div class="details">
+public  mixed **getValue** ()<div class="details">
 <p>Returns the value of this Node</p><dl>
 <dt>Returns:</dt>
 <dd>The value</dd>

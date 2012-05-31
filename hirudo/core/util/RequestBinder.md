@@ -1,3 +1,4 @@
+
 - - -
 
 **Hirudo\Core\Util\RequestBinder**
@@ -18,6 +19,7 @@
 <dd>JeyDotC</dd>
 <dt>Unused.</dt>
 </dl>
+
 - - -
 
 <table id="summary_constructor">
@@ -31,7 +33,7 @@
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type"> void</td>
+<td class="type">  void</td>
 <td class="description"><p class="name"><a href="#bind">bind</a>(mixed object, mixed bindings)</p></td>
 </tr>
 </table>
@@ -52,10 +54,7 @@ public  void **__construct**()
 <div class="location">framework\hirudo\Hirudo\Core\Util\RequestBinder.php at line 40</div>
 <h3 id="bind()">bind</h3>
 
-```php
-public  void **bind**(mixed object, mixed bindings)
-```
-<div class="details">
+public  void **bind** (mixed object, mixed bindings)<div class="details">
 </div>
 
 - - -

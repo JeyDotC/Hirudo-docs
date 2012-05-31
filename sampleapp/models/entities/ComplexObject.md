@@ -1,3 +1,4 @@
+
 - - -
 
 **SampleApp\Models\Entities\ComplexObject**
@@ -17,33 +18,34 @@
 <dt>Author:</dt>
 <dd>JeyDotC</dd>
 </dl>
+
 - - -
 
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#getName">getName</a>()</p></td>
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#getname">getName</a>()</p></td>
 </tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#setName">setName</a>(mixed name)</p></td>
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#setname">setName</a>(mixed name)</p></td>
 </tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#getPass">getPass</a>()</p></td>
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#getpass">getPass</a>()</p></td>
 </tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#setPass">setPass</a>(mixed pass)</p></td>
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#setpass">setPass</a>(mixed pass)</p></td>
 </tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#getSimpleObject">getSimpleObject</a>()</p></td>
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#getsimpleobject">getSimpleObject</a>()</p></td>
 </tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#setSimpleObject">setSimpleObject</a>(mixed simpleObject)</p></td>
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#setsimpleobject">setSimpleObject</a>(mixed simpleObject)</p></td>
 </tr>
 </table>
 
@@ -51,10 +53,7 @@
 <div class="location">src\SampleApp\Models\Entities\ComplexObject.php at line 30</div>
 <h3 id="getName()">getName</h3>
 
-```php
-public  void **getName**()
-```
-<div class="details">
+public  void **getName** ()<div class="details">
 </div>
 
 - - -
@@ -62,10 +61,7 @@ public  void **getName**()
 <div class="location">src\SampleApp\Models\Entities\ComplexObject.php at line 34</div>
 <h3 id="setName()">setName</h3>
 
-```php
-public  void **setName**(mixed name)
-```
-<div class="details">
+public  void **setName** (mixed name)<div class="details">
 </div>
 
 - - -
@@ -73,10 +69,7 @@ public  void **setName**(mixed name)
 <div class="location">src\SampleApp\Models\Entities\ComplexObject.php at line 38</div>
 <h3 id="getPass()">getPass</h3>
 
-```php
-public  void **getPass**()
-```
-<div class="details">
+public  void **getPass** ()<div class="details">
 </div>
 
 - - -
@@ -84,10 +77,7 @@ public  void **getPass**()
 <div class="location">src\SampleApp\Models\Entities\ComplexObject.php at line 42</div>
 <h3 id="setPass()">setPass</h3>
 
-```php
-public  void **setPass**(mixed pass)
-```
-<div class="details">
+public  void **setPass** (mixed pass)<div class="details">
 </div>
 
 - - -
@@ -95,10 +85,7 @@ public  void **setPass**(mixed pass)
 <div class="location">src\SampleApp\Models\Entities\ComplexObject.php at line 46</div>
 <h3 id="getSimpleObject()">getSimpleObject</h3>
 
-```php
-public  void **getSimpleObject**()
-```
-<div class="details">
+public  void **getSimpleObject** ()<div class="details">
 </div>
 
 - - -
@@ -106,10 +93,7 @@ public  void **getSimpleObject**()
 <div class="location">src\SampleApp\Models\Entities\ComplexObject.php at line 50</div>
 <h3 id="setSimpleObject()">setSimpleObject</h3>
 
-```php
-public  void **setSimpleObject**(mixed simpleObject)
-```
-<div class="details">
+public  void **setSimpleObject** (mixed simpleObject)<div class="details">
 </div>
 
 - - -

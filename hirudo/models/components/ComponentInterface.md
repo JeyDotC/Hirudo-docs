@@ -1,3 +1,4 @@
+
 - - -
 
 **Hirudo\Models\Components\ComponentInterface**
@@ -17,5 +18,6 @@
 <dt>Author:</dt>
 <dd>JeyDotC</dd>
 </dl>
+
 - - -
 

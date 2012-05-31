@@ -1,3 +1,4 @@
+
 - - -
 
 **HTTP_Session2\HTTP_Session2_Exception**
@@ -29,5 +30,6 @@ extends Exception
 <dt>See Also:</dt>
 <dd><code><a href="http://pear.php.net/package/HTTP_Session2">http://pear.php.net/package/HTTP_Session2</a></code></dd>
 </dl>
+
 - - -
 

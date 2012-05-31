@@ -1,3 +1,4 @@
+
 - - -
 
 **Symfony\Component\DependencyInjection\Container**
@@ -42,6 +43,7 @@ getXXXService(), where XXX is the camelized version of the id:</p>
 <dd>Johannes M. Schmitt <schmittjoh@gmail.com></dd>
 <dt>Api.</dt>
 </dl>
+
 - - -
 
 <table id="summary_field">
@@ -52,19 +54,19 @@ getXXXService(), where XXX is the camelized version of the id:</p>
 </tr>
 <tr>
 <td class="type">protected  mixed</td>
-<td class="description"><p class="name"><a href="#parameterBag">$parameterBag</a></p></td>
+<td class="description"><p class="name"><a href="#parameterbag">$parameterBag</a></p></td>
 </tr>
 <tr>
 <td class="type">protected  mixed</td>
-<td class="description"><p class="name"><a href="#scopeChildren">$scopeChildren</a></p></td>
+<td class="description"><p class="name"><a href="#scopechildren">$scopeChildren</a></p></td>
 </tr>
 <tr>
 <td class="type">protected  mixed</td>
-<td class="description"><p class="name"><a href="#scopeStacks">$scopeStacks</a></p></td>
+<td class="description"><p class="name"><a href="#scopestacks">$scopeStacks</a></p></td>
 </tr>
 <tr>
 <td class="type">protected  mixed</td>
-<td class="description"><p class="name"><a href="#scopedServices">$scopedServices</a></p></td>
+<td class="description"><p class="name"><a href="#scopedservices">$scopedServices</a></p></td>
 </tr>
 <tr>
 <td class="type">protected  mixed</td>
@@ -87,74 +89,74 @@ getXXXService(), where XXX is the camelized version of the id:</p>
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type"> void</td>
+<td class="type">  void</td>
 <td class="description"><p class="name"><a href="#compile">compile</a>()</p><p class="description">Compiles the container.
 </p></td>
 </tr>
 <tr>
-<td class="type"> Boolean</td>
-<td class="description"><p class="name"><a href="#isFrozen">isFrozen</a>()</p><p class="description">Returns true if the container parameter bag are frozen.</p></td>
+<td class="type">  Boolean</td>
+<td class="description"><p class="name"><a href="#isfrozen">isFrozen</a>()</p><p class="description">Returns true if the container parameter bag are frozen.</p></td>
 </tr>
 <tr>
-<td class="type"> <a href="../../../symfony/component/dependencyinjection/parameterbag/parameterbaginterface.html">ParameterBagInterface</a></td>
-<td class="description"><p class="name"><a href="#getParameterBag">getParameterBag</a>()</p><p class="description">Gets the service container parameter bag.</p></td>
+<td class="type">  <a href="../../../symfony/component/dependencyinjection/parameterbag/parameterbaginterface.html">ParameterBagInterface</a></td>
+<td class="description"><p class="name"><a href="#getparameterbag">getParameterBag</a>()</p><p class="description">Gets the service container parameter bag.</p></td>
 </tr>
 <tr>
-<td class="type"> mixed</td>
-<td class="description"><p class="name"><a href="#getParameter">getParameter</a>(string name)</p><p class="description">Gets a parameter.</p></td>
+<td class="type">  mixed</td>
+<td class="description"><p class="name"><a href="#getparameter">getParameter</a>(string name)</p><p class="description">Gets a parameter.</p></td>
 </tr>
 <tr>
-<td class="type"> Boolean</td>
-<td class="description"><p class="name"><a href="#hasParameter">hasParameter</a>(string name)</p><p class="description">Checks if a parameter exists.</p></td>
+<td class="type">  Boolean</td>
+<td class="description"><p class="name"><a href="#hasparameter">hasParameter</a>(string name)</p><p class="description">Checks if a parameter exists.</p></td>
 </tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#setParameter">setParameter</a>(string name, mixed value)</p><p class="description">Sets a parameter.</p></td>
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#setparameter">setParameter</a>(string name, mixed value)</p><p class="description">Sets a parameter.</p></td>
 </tr>
 <tr>
-<td class="type"> void</td>
+<td class="type">  void</td>
 <td class="description"><p class="name"><a href="#set">set</a>(string id, object service, string scope)</p><p class="description">Sets a service.</p></td>
 </tr>
 <tr>
-<td class="type"> Boolean</td>
+<td class="type">  Boolean</td>
 <td class="description"><p class="name"><a href="#has">has</a>(string id)</p><p class="description">Returns true if the given service is defined.</p></td>
 </tr>
 <tr>
-<td class="type"> object</td>
+<td class="type">  object</td>
 <td class="description"><p class="name"><a href="#get">get</a>(string id, integer invalidBehavior)</p><p class="description">Gets a service.
 </p></td>
 </tr>
 <tr>
-<td class="type"> array</td>
-<td class="description"><p class="name"><a href="#getServiceIds">getServiceIds</a>()</p><p class="description">Gets all service ids.</p></td>
+<td class="type">  array</td>
+<td class="description"><p class="name"><a href="#getserviceids">getServiceIds</a>()</p><p class="description">Gets all service ids.</p></td>
 </tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#enterScope">enterScope</a>(string name)</p><p class="description">This is called when you enter a scope</p></td>
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#enterscope">enterScope</a>(string name)</p><p class="description">This is called when you enter a scope</p></td>
 </tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#leaveScope">leaveScope</a>(string name)</p><p class="description">This is called to leave the current scope, and move back to the parent
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#leavescope">leaveScope</a>(string name)</p><p class="description">This is called to leave the current scope, and move back to the parent
 scope.</p></td>
 </tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#addScope">addScope</a>(<a href="../../../symfony/component/dependencyinjection/scopeinterface.html">ScopeInterface</a> scope)</p><p class="description">Adds a scope to the container.</p></td>
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#addscope">addScope</a>(<a href="../../../symfony/component/dependencyinjection/scopeinterface.html">ScopeInterface</a> scope)</p><p class="description">Adds a scope to the container.</p></td>
 </tr>
 <tr>
-<td class="type"> Boolean</td>
-<td class="description"><p class="name"><a href="#hasScope">hasScope</a>(string name)</p><p class="description">Returns whether this container has a certain scope</p></td>
+<td class="type">  Boolean</td>
+<td class="description"><p class="name"><a href="#hasscope">hasScope</a>(string name)</p><p class="description">Returns whether this container has a certain scope</p></td>
 </tr>
 <tr>
-<td class="type"> Boolean</td>
-<td class="description"><p class="name"><a href="#isScopeActive">isScopeActive</a>(string name)</p><p class="description">Returns whether this scope is currently activeThis does not actually check if the passed scope actually exists.</p></td>
+<td class="type">  Boolean</td>
+<td class="description"><p class="name"><a href="#isscopeactive">isScopeActive</a>(string name)</p><p class="description">Returns whether this scope is currently activeThis does not actually check if the passed scope actually exists.</p></td>
 </tr>
 <tr>
-<td class="type">static  string</td>
+<td class="type"> static  string</td>
 <td class="description"><p class="name"><a href="#camelize">camelize</a>(string id)</p><p class="description">Camelizes a string.</p></td>
 </tr>
 <tr>
-<td class="type">static  string</td>
+<td class="type"> static  string</td>
 <td class="description"><p class="name"><a href="#underscore">underscore</a>(string id)</p><p class="description">A string to underscore.</p></td>
 </tr>
 </table>
@@ -163,9 +165,7 @@ scope.</p></td>
 <div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Container.php at line 68</div>
 <h3 id="loading">loading</h3>
 
-```php
-protected  mixed$loading = array()
-```
+protected  mixed $loading = array()
 <div class="details">
 </div>
 
@@ -174,9 +174,7 @@ protected  mixed$loading = array()
 <div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Container.php at line 62</div>
 <h3 id="parameterBag">parameterBag</h3>
 
-```php
-protected  mixed$parameterBag = true
-```
+protected  mixed $parameterBag = true
 <div class="details">
 </div>
 
@@ -185,9 +183,7 @@ protected  mixed$parameterBag = true
 <div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Container.php at line 65</div>
 <h3 id="scopeChildren">scopeChildren</h3>
 
-```php
-protected  mixed$scopeChildren
-```
+protected  mixed $scopeChildren
 <div class="details">
 </div>
 
@@ -196,9 +192,7 @@ protected  mixed$scopeChildren
 <div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Container.php at line 67</div>
 <h3 id="scopeStacks">scopeStacks</h3>
 
-```php
-protected  mixed$scopeStacks
-```
+protected  mixed $scopeStacks
 <div class="details">
 </div>
 
@@ -207,9 +201,7 @@ protected  mixed$scopeStacks
 <div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Container.php at line 66</div>
 <h3 id="scopedServices">scopedServices</h3>
 
-```php
-protected  mixed$scopedServices
-```
+protected  mixed $scopedServices
 <div class="details">
 </div>
 
@@ -218,9 +210,7 @@ protected  mixed$scopedServices
 <div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Container.php at line 64</div>
 <h3 id="scopes">scopes</h3>
 
-```php
-protected  mixed$scopes
-```
+protected  mixed $scopes
 <div class="details">
 </div>
 
@@ -229,9 +219,7 @@ protected  mixed$scopes
 <div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Container.php at line 63</div>
 <h3 id="services">services</h3>
 
-```php
-protected  mixed$services
-```
+protected  mixed $services
 <div class="details">
 </div>
 
@@ -258,10 +246,7 @@ public  void **__construct**(<a href="../../../symfony/component/dependencyinjec
 <div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Container.php at line 100</div>
 <h3 id="compile()">compile</h3>
 
-```php
-public  void **compile**()
-```
-<div class="details">
+public  void **compile** ()<div class="details">
 <p>Compiles the container.</p><p>This method does two things:</p><p>* Parameter values are resolved;
 * The parameter bag is frozen.</p><dl>
 <dt>Api.</dt>
@@ -273,10 +258,7 @@ public  void **compile**()
 <div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Container.php at line 114</div>
 <h3 id="isFrozen()">isFrozen</h3>
 
-```php
-public  Boolean **isFrozen**()
-```
-<div class="details">
+public  Boolean **isFrozen** ()<div class="details">
 <p>Returns true if the container parameter bag are frozen.</p><dl>
 <dt>Returns:</dt>
 <dd>true if the container parameter bag are frozen, false otherwise</dd>
@@ -289,10 +271,7 @@ public  Boolean **isFrozen**()
 <div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Container.php at line 126</div>
 <h3 id="getParameterBag()">getParameterBag</h3>
 
-```php
-public  <a href="../../../symfony/component/dependencyinjection/parameterbag/parameterbaginterface.html">ParameterBagInterface</a> **getParameterBag**()
-```
-<div class="details">
+public  <a href="../../../symfony/component/dependencyinjection/parameterbag/parameterbaginterface.html">ParameterBagInterface</a> **getParameterBag** ()<div class="details">
 <p>Gets the service container parameter bag.</p><dl>
 <dt>Returns:</dt>
 <dd>A ParameterBagInterface instance</dd>
@@ -305,10 +284,7 @@ public  <a href="../../../symfony/component/dependencyinjection/parameterbag/par
 <div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Container.php at line 142</div>
 <h3 id="getParameter()">getParameter</h3>
 
-```php
-public  mixed **getParameter**(string name)
-```
-<div class="details">
+public  mixed **getParameter** (string name)<div class="details">
 <p>Gets a parameter.</p><dl>
 <dt>Parameters:</dt>
 <dd>name - The parameter name</dd>
@@ -325,10 +301,7 @@ public  mixed **getParameter**(string name)
 <div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Container.php at line 156</div>
 <h3 id="hasParameter()">hasParameter</h3>
 
-```php
-public  Boolean **hasParameter**(string name)
-```
-<div class="details">
+public  Boolean **hasParameter** (string name)<div class="details">
 <p>Checks if a parameter exists.</p><dl>
 <dt>Parameters:</dt>
 <dd>name - The parameter name</dd>
@@ -343,10 +316,7 @@ public  Boolean **hasParameter**(string name)
 <div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Container.php at line 169</div>
 <h3 id="setParameter()">setParameter</h3>
 
-```php
-public  void **setParameter**(string name, mixed value)
-```
-<div class="details">
+public  void **setParameter** (string name, mixed value)<div class="details">
 <p>Sets a parameter.</p><dl>
 <dt>Parameters:</dt>
 <dd>name - The parameter name</dd>
@@ -360,10 +330,7 @@ public  void **setParameter**(string name, mixed value)
 <div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Container.php at line 183</div>
 <h3 id="set()">set</h3>
 
-```php
-public  void **set**(string id, object service, string scope)
-```
-<div class="details">
+public  void **set** (string id, object service, string scope)<div class="details">
 <p>Sets a service.</p><dl>
 <dt>Parameters:</dt>
 <dd>id - The service identifier</dd>
@@ -378,10 +345,7 @@ public  void **set**(string id, object service, string scope)
 <div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Container.php at line 211</div>
 <h3 id="has()">has</h3>
 
-```php
-public  Boolean **has**(string id)
-```
-<div class="details">
+public  Boolean **has** (string id)<div class="details">
 <p>Returns true if the given service is defined.</p><dl>
 <dt>Parameters:</dt>
 <dd>id - The service identifier</dd>
@@ -396,10 +360,7 @@ public  Boolean **has**(string id)
 <div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Container.php at line 235</div>
 <h3 id="get()">get</h3>
 
-```php
-public  object **get**(string id, integer invalidBehavior)
-```
-<div class="details">
+public  object **get** (string id, integer invalidBehavior)<div class="details">
 <p>Gets a service.</p><p>If a service is both defined through a set() method and
 with a set*Service() method, the former has always precedence.</p><dl>
 <dt>Parameters:</dt>
@@ -420,10 +381,7 @@ with a set*Service() method, the former has always precedence.</p><dl>
 <div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Container.php at line 272</div>
 <h3 id="getServiceIds()">getServiceIds</h3>
 
-```php
-public  array **getServiceIds**()
-```
-<div class="details">
+public  array **getServiceIds** ()<div class="details">
 <p>Gets all service ids.</p><dl>
 <dt>Returns:</dt>
 <dd>An array of all defined service ids</dd>
@@ -435,10 +393,7 @@ public  array **getServiceIds**()
 <div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Container.php at line 293</div>
 <h3 id="enterScope()">enterScope</h3>
 
-```php
-public  void **enterScope**(string name)
-```
-<div class="details">
+public  void **enterScope** (string name)<div class="details">
 <p>This is called when you enter a scope</p><dl>
 <dt>Api.</dt>
 </dl>
@@ -449,10 +404,7 @@ public  void **enterScope**(string name)
 <div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Container.php at line 339</div>
 <h3 id="leaveScope()">leaveScope</h3>
 
-```php
-public  void **leaveScope**(string name)
-```
-<div class="details">
+public  void **leaveScope** (string name)<div class="details">
 <p>This is called to leave the current scope, and move back to the parent
 scope.</p><dl>
 <dt>Parameters:</dt>
@@ -468,10 +420,7 @@ scope.</p><dl>
 <div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Container.php at line 377</div>
 <h3 id="addScope()">addScope</h3>
 
-```php
-public  void **addScope**(<a href="../../../symfony/component/dependencyinjection/scopeinterface.html">ScopeInterface</a> scope)
-```
-<div class="details">
+public  void **addScope** (<a href="../../../symfony/component/dependencyinjection/scopeinterface.html">ScopeInterface</a> scope)<div class="details">
 <p>Adds a scope to the container.</p><dl>
 <dt>Api.</dt>
 </dl>
@@ -482,10 +431,7 @@ public  void **addScope**(<a href="../../../symfony/component/dependencyinjectio
 <div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Container.php at line 410</div>
 <h3 id="hasScope()">hasScope</h3>
 
-```php
-public  Boolean **hasScope**(string name)
-```
-<div class="details">
+public  Boolean **hasScope** (string name)<div class="details">
 <p>Returns whether this container has a certain scope</p><dl>
 <dt>Parameters:</dt>
 <dd>name - The name of the scope</dd>
@@ -498,10 +444,7 @@ public  Boolean **hasScope**(string name)
 <div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Container.php at line 425</div>
 <h3 id="isScopeActive()">isScopeActive</h3>
 
-```php
-public  Boolean **isScopeActive**(string name)
-```
-<div class="details">
+public  Boolean **isScopeActive** (string name)<div class="details">
 <p>Returns whether this scope is currently active</p><p>This does not actually check if the passed scope actually exists.</p><dl>
 <dt>Api.</dt>
 </dl>
@@ -512,10 +455,7 @@ public  Boolean **isScopeActive**(string name)
 <div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Container.php at line 436</div>
 <h3 id="camelize()">camelize</h3>
 
-```php
-public static  string **camelize**(string id)
-```
-<div class="details">
+public static  string **camelize** (string id)<div class="details">
 <p>Camelizes a string.</p><dl>
 <dt>Parameters:</dt>
 <dd>id - A string to camelize</dd>
@@ -529,10 +469,7 @@ public static  string **camelize**(string id)
 <div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Container.php at line 447</div>
 <h3 id="underscore()">underscore</h3>
 
-```php
-public static  string **underscore**(string id)
-```
-<div class="details">
+public static  string **underscore** (string id)<div class="details">
 <p>A string to underscore.</p><dl>
 <dt>Parameters:</dt>
 <dd>id - The string to underscore</dd>

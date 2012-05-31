@@ -1,3 +1,4 @@
+
 - - -
 
 **Smarty\Undefined_Smarty_Variable**
@@ -17,5 +18,6 @@
 <dt>Subpackage:</dt>
 <dd>Template</dd>
 </dl>
+
 - - -
 

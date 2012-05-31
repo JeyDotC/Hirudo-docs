@@ -1,3 +1,4 @@
+
 - - -
 
 **Symfony\Component\DependencyInjection\Compiler\RemoveAbstractDefinitionsPass**
@@ -18,12 +19,13 @@
 
 <div class="comment" id="overview_description"><p>Removes abstract Definitions</p></div>
 
+
 - - -
 
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type"> void</td>
+<td class="type">  void</td>
 <td class="description"><p class="name"><a href="#process">process</a>(<a href="../../../../symfony/component/dependencyinjection/containerbuilder.html">ContainerBuilder</a> container)</p><p class="description">Removes abstract definitions from the ContainerBuilder</p></td>
 </tr>
 </table>
@@ -32,10 +34,7 @@
 <div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\RemoveAbstractDefinitionsPass.php at line 27</div>
 <h3 id="process()">process</h3>
 
-```php
-public  void **process**(<a href="../../../../symfony/component/dependencyinjection/containerbuilder.html">ContainerBuilder</a> container)
-```
-<div class="details">
+public  void **process** (<a href="../../../../symfony/component/dependencyinjection/containerbuilder.html">ContainerBuilder</a> container)<div class="details">
 <p>Removes abstract definitions from the ContainerBuilder</p></div>
 
 - - -

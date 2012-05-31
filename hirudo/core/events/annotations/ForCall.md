@@ -1,3 +1,4 @@
+
 - - -
 
 **Hirudo\Core\Events\Annotations\ForCall**
@@ -26,6 +27,7 @@ the 'aTask' task.</p></p></div>
 <dt>Annotation.</dt>
 <dt>Target("CLASS").</dt>
 </dl>
+
 - - -
 
 <table id="summary_field">
@@ -48,9 +50,7 @@ the 'aTask' task.</p></p></div>
 <div class="location">framework\hirudo\Hirudo\Core\Events\Annotations\ForCall.php at line 36</div>
 <h3 id="app">app</h3>
 
-```php
-public  string$app = &quot;&quot;
-```
+public  string $app = &quot;&quot;
 <div class="details">
 <p></p></div>
 
@@ -59,9 +59,7 @@ public  string$app = &quot;&quot;
 <div class="location">framework\hirudo\Hirudo\Core\Events\Annotations\ForCall.php at line 42</div>
 <h3 id="module">module</h3>
 
-```php
-public  string$module = &quot;&quot;
-```
+public  string $module = &quot;&quot;
 <div class="details">
 <p></p></div>
 
@@ -70,9 +68,7 @@ public  string$module = &quot;&quot;
 <div class="location">framework\hirudo\Hirudo\Core\Events\Annotations\ForCall.php at line 48</div>
 <h3 id="task">task</h3>
 
-```php
-public  string$task = &quot;&quot;
-```
+public  string $task = &quot;&quot;
 <div class="details">
 <p></p></div>
 

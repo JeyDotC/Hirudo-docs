@@ -1,3 +1,4 @@
+
 - - -
 
 **Hirudo\Core\Exceptions\ModuleNotFoundException**
@@ -17,6 +18,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/
 </p>
 
 <div class="comment" id="overview_description"><p>Thrown when a an application tries to invoke a non existing module.</p></div>
+
 
 - - -
 

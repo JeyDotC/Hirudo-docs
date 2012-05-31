@@ -1,3 +1,4 @@
+
 - - -
 
 **Symfony\Component\DependencyInjection\Compiler\RepeatablePassInterface**
@@ -23,13 +24,14 @@ RepeatedPass.</p></div>
 <dd>Johannes M. Schmitt <schmittjoh@gmail.com></dd>
 <dt>Api.</dt>
 </dl>
+
 - - -
 
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#setRepeatedPass">setRepeatedPass</a>(<a href="../../../../symfony/component/dependencyinjection/compiler/repeatedpass.html">RepeatedPass</a> repeatedPass)</p><p class="description">Sets the RepeatedPass interface.</p></td>
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#setrepeatedpass">setRepeatedPass</a>(<a href="../../../../symfony/component/dependencyinjection/compiler/repeatedpass.html">RepeatedPass</a> repeatedPass)</p><p class="description">Sets the RepeatedPass interface.</p></td>
 </tr>
 </table>
 
@@ -41,10 +43,7 @@ RepeatedPass.</p></div>
 <div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\RepeatablePassInterface.php at line 27</div>
 <h3 id="setRepeatedPass()">setRepeatedPass</h3>
 
-```php
-public  void **setRepeatedPass**(<a href="../../../../symfony/component/dependencyinjection/compiler/repeatedpass.html">RepeatedPass</a> repeatedPass)
-```
-<div class="details">
+public  void **setRepeatedPass** (<a href="../../../../symfony/component/dependencyinjection/compiler/repeatedpass.html">RepeatedPass</a> repeatedPass)<div class="details">
 <p>Sets the RepeatedPass interface.</p></div>
 
 - - -

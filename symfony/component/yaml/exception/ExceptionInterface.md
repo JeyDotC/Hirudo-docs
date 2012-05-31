@@ -1,3 +1,4 @@
+
 - - -
 
 **Symfony\Component\Yaml\Exception\ExceptionInterface**
@@ -18,5 +19,6 @@
 <dd>Fabien Potencier <fabien@symfony.com></dd>
 <dt>Api.</dt>
 </dl>
+
 - - -
 

@@ -1,3 +1,4 @@
+
 - - -
 
 **Hirudo\Core\DependencyInjection\DependenciesManager**
@@ -17,44 +18,45 @@
 <dt>Author:</dt>
 <dd>JeyDotC</dd>
 </dl>
+
 - - -
 
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#addServices">addServices</a>(array implementationClasses)</p><p class="description">This method takes an array of fully qualified class names and registers them
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#addservices">addServices</a>(array implementationClasses)</p><p class="description">This method takes an array of fully qualified class names and registers them
 in the container to inject them later.</p></td>
 </tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#resolveDependencies">resolveDependencies</a>(mixed object)</p><p class="description">Resolves all dependencies in the given object.</p></td>
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#resolvedependencies">resolveDependencies</a>(mixed object)</p><p class="description">Resolves all dependencies in the given object.</p></td>
 </tr>
 <tr>
-<td class="type"> array<mixed></td>
-<td class="description"><p class="name"><a href="#getClassMetadata">getClassMetadata</a>(\ReflectionClass object)</p><p class="description">Gets the metadata associated to the given object.</p></td>
+<td class="type">  array<mixed></td>
+<td class="description"><p class="name"><a href="#getclassmetadata">getClassMetadata</a>(\ReflectionClass object)</p><p class="description">Gets the metadata associated to the given object.</p></td>
 </tr>
 <tr>
-<td class="type"> array<mixed></td>
-<td class="description"><p class="name"><a href="#getMethodMetadata">getMethodMetadata</a>(\ReflectionMethod method)</p><p class="description">Gets the metadata associated to the given method.</p></td>
+<td class="type">  array<mixed></td>
+<td class="description"><p class="name"><a href="#getmethodmetadata">getMethodMetadata</a>(\ReflectionMethod method)</p><p class="description">Gets the metadata associated to the given method.</p></td>
 </tr>
 <tr>
-<td class="type"> array<mixed></td>
-<td class="description"><p class="name"><a href="#getPropertyMetadata">getPropertyMetadata</a>(\ReflectionProperty property)</p><p class="description">Gets the metadata associated to the given property.</p></td>
+<td class="type">  array<mixed></td>
+<td class="description"><p class="name"><a href="#getpropertymetadata">getPropertyMetadata</a>(\ReflectionProperty property)</p><p class="description">Gets the metadata associated to the given property.</p></td>
 </tr>
 <tr>
-<td class="type"> mixed</td>
-<td class="description"><p class="name"><a href="#getClassMetadataById">getClassMetadataById</a>(\ReflectionClass object, string metadataId, mixed metaDataId)</p><p class="description">Gets a single metadata object by id from
+<td class="type">  mixed</td>
+<td class="description"><p class="name"><a href="#getclassmetadatabyid">getClassMetadataById</a>(\ReflectionClass object, string metadataId, mixed metaDataId)</p><p class="description">Gets a single metadata object by id from
 a class.</p></td>
 </tr>
 <tr>
-<td class="type"> mixed</td>
-<td class="description"><p class="name"><a href="#getMethodMetadataById">getMethodMetadataById</a>(\ReflectionMethod method, string metadataId, mixed metaDataId)</p><p class="description">Gets a single metadata object by id from
+<td class="type">  mixed</td>
+<td class="description"><p class="name"><a href="#getmethodmetadatabyid">getMethodMetadataById</a>(\ReflectionMethod method, string metadataId, mixed metaDataId)</p><p class="description">Gets a single metadata object by id from
 a method.</p></td>
 </tr>
 <tr>
-<td class="type"> mixed</td>
-<td class="description"><p class="name"><a href="#getPropertyMetadataById">getPropertyMetadataById</a>(\ReflectionProperty property, string metadataId, mixed metaDataId)</p><p class="description">Gets a single metadata object by its id from
+<td class="type">  mixed</td>
+<td class="description"><p class="name"><a href="#getpropertymetadatabyid">getPropertyMetadataById</a>(\ReflectionProperty property, string metadataId, mixed metaDataId)</p><p class="description">Gets a single metadata object by its id from
 a property.</p></td>
 </tr>
 </table>
@@ -63,10 +65,7 @@ a property.</p></td>
 <div class="location">framework\hirudo\Hirudo\Core\DependencyInjection\DependenciesManager.php at line 18</div>
 <h3 id="addServices()">addServices</h3>
 
-```php
-public  void **addServices**(array implementationClasses)
-```
-<div class="details">
+public  void **addServices** (array implementationClasses)<div class="details">
 <p>This method takes an array of fully qualified class names and registers them
 in the container to inject them later.</p><dl>
 <dt>Parameters:</dt>
@@ -79,10 +78,7 @@ in the container to inject them later.</p><dl>
 <div class="location">framework\hirudo\Hirudo\Core\DependencyInjection\DependenciesManager.php at line 25</div>
 <h3 id="resolveDependencies()">resolveDependencies</h3>
 
-```php
-public  void **resolveDependencies**(mixed object)
-```
-<div class="details">
+public  void **resolveDependencies** (mixed object)<div class="details">
 <p>Resolves all dependencies in the given object.</p></div>
 
 - - -
@@ -90,10 +86,7 @@ public  void **resolveDependencies**(mixed object)
 <div class="location">framework\hirudo\Hirudo\Core\DependencyInjection\DependenciesManager.php at line 34</div>
 <h3 id="getClassMetadata()">getClassMetadata</h3>
 
-```php
-public  array<mixed> **getClassMetadata**(\ReflectionClass object)
-```
-<div class="details">
+public  array<mixed> **getClassMetadata** (\ReflectionClass object)<div class="details">
 <p>Gets the metadata associated to the given object.</p><dl>
 <dt>Returns:</dt>
 <dd>The metadata values, normally objects with plain information about the class.</dd>
@@ -105,10 +98,7 @@ public  array<mixed> **getClassMetadata**(\ReflectionClass object)
 <div class="location">framework\hirudo\Hirudo\Core\DependencyInjection\DependenciesManager.php at line 43</div>
 <h3 id="getMethodMetadata()">getMethodMetadata</h3>
 
-```php
-public  array<mixed> **getMethodMetadata**(\ReflectionMethod method)
-```
-<div class="details">
+public  array<mixed> **getMethodMetadata** (\ReflectionMethod method)<div class="details">
 <p>Gets the metadata associated to the given method.</p><dl>
 <dt>Returns:</dt>
 <dd>The metadata values, normally objects with plain information about the method.</dd>
@@ -120,10 +110,7 @@ public  array<mixed> **getMethodMetadata**(\ReflectionMethod method)
 <div class="location">framework\hirudo\Hirudo\Core\DependencyInjection\DependenciesManager.php at line 52</div>
 <h3 id="getPropertyMetadata()">getPropertyMetadata</h3>
 
-```php
-public  array<mixed> **getPropertyMetadata**(\ReflectionProperty property)
-```
-<div class="details">
+public  array<mixed> **getPropertyMetadata** (\ReflectionProperty property)<div class="details">
 <p>Gets the metadata associated to the given property.</p><dl>
 <dt>Returns:</dt>
 <dd>The metadata values, normally objects with plain information about the property.</dd>
@@ -135,10 +122,7 @@ public  array<mixed> **getPropertyMetadata**(\ReflectionProperty property)
 <div class="location">framework\hirudo\Hirudo\Core\DependencyInjection\DependenciesManager.php at line 63</div>
 <h3 id="getClassMetadataById()">getClassMetadataById</h3>
 
-```php
-public  mixed **getClassMetadataById**(\ReflectionClass object, string metadataId, mixed metaDataId)
-```
-<div class="details">
+public  mixed **getClassMetadataById** (\ReflectionClass object, string metadataId, mixed metaDataId)<div class="details">
 <p>Gets a single metadata object by id from
 a class.</p><dl>
 <dt>Parameters:</dt>
@@ -154,10 +138,7 @@ a class.</p><dl>
 <div class="location">framework\hirudo\Hirudo\Core\DependencyInjection\DependenciesManager.php at line 74</div>
 <h3 id="getMethodMetadataById()">getMethodMetadataById</h3>
 
-```php
-public  mixed **getMethodMetadataById**(\ReflectionMethod method, string metadataId, mixed metaDataId)
-```
-<div class="details">
+public  mixed **getMethodMetadataById** (\ReflectionMethod method, string metadataId, mixed metaDataId)<div class="details">
 <p>Gets a single metadata object by id from
 a method.</p><dl>
 <dt>Parameters:</dt>
@@ -173,10 +154,7 @@ a method.</p><dl>
 <div class="location">framework\hirudo\Hirudo\Core\DependencyInjection\DependenciesManager.php at line 85</div>
 <h3 id="getPropertyMetadataById()">getPropertyMetadataById</h3>
 
-```php
-public  mixed **getPropertyMetadataById**(\ReflectionProperty property, string metadataId, mixed metaDataId)
-```
-<div class="details">
+public  mixed **getPropertyMetadataById** (\ReflectionProperty property, string metadataId, mixed metaDataId)<div class="details">
 <p>Gets a single metadata object by its id from
 a property.</p><dl>
 <dt>Parameters:</dt>

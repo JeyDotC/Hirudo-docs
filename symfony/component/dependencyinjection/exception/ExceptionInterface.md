@@ -1,3 +1,4 @@
+
 - - -
 
 **Symfony\Component\DependencyInjection\Exception\ExceptionInterface**
@@ -18,5 +19,6 @@
 <dd>Fabien Potencier <fabien@symfony.com></dd>
 <dd>Bulat Shakirzyanov <bulat@theopenskyproject.com></dd>
 </dl>
+
 - - -
 

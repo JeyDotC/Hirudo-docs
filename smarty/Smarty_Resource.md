@@ -1,3 +1,4 @@
+
 - - -
 
 **Smarty\Smarty_Resource**
@@ -22,6 +23,7 @@
 <dt>Subpackage:</dt>
 <dd>TemplateResources</dd>
 </dl>
+
 - - -
 
 <table id="summary_field">
@@ -59,55 +61,55 @@
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type">abstract  string</td>
-<td class="description"><p class="name"><a href="#getContent">getContent</a>(<a href="../smarty/smarty_template_source.html">Smarty_Template_Source</a> source)</p><p class="description">Load template's source into current template objectThe loaded source is assigned to $_template->source->content directly.}</p></td>
+<td class="type"> abstract  string</td>
+<td class="description"><p class="name"><a href="#getcontent">getContent</a>(<a href="../smarty/smarty_template_source.html">Smarty_Template_Source</a> source)</p><p class="description">Load template's source into current template objectThe loaded source is assigned to $_template->source->content directly.}</p></td>
 </tr>
 <tr>
-<td class="type">abstract  void</td>
+<td class="type"> abstract  void</td>
 <td class="description"><p class="name"><a href="#populate">populate</a>(<a href="../smarty/smarty_template_source.html">Smarty_Template_Source</a> source, <a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> _template)</p><p class="description">populate Source Object with meta data from Resource</p></td>
 </tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#populateTimestamp">populateTimestamp</a>(<a href="../smarty/smarty_template_source.html">Smarty_Template_Source</a> source)</p><p class="description">populate Source Object with timestamp and exists from Resource</p></td>
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#populatetimestamp">populateTimestamp</a>(<a href="../smarty/smarty_template_source.html">Smarty_Template_Source</a> source)</p><p class="description">populate Source Object with timestamp and exists from Resource</p></td>
 </tr>
 <tr>
-<td class="type">protected  string</td>
-<td class="description"><p class="name"><a href="#buildUniqueResourceName">buildUniqueResourceName</a>(<a href="../smarty/smarty.html">Smarty</a> smarty, string resource_name)</p><p class="description">modify resource_name according to resource handlers specifications</p></td>
+<td class="type"> protected  string</td>
+<td class="description"><p class="name"><a href="#builduniqueresourcename">buildUniqueResourceName</a>(<a href="../smarty/smarty.html">Smarty</a> smarty, string resource_name)</p><p class="description">modify resource_name according to resource handlers specifications</p></td>
 </tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#populateCompiledFilepath">populateCompiledFilepath</a>(<a href="../smarty/smarty_template_compiled.html">Smarty_Template_Compiled</a> compiled, <a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> _template)</p><p class="description">populate Compiled Object with compiled filepath</p></td>
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#populatecompiledfilepath">populateCompiledFilepath</a>(<a href="../smarty/smarty_template_compiled.html">Smarty_Template_Compiled</a> compiled, <a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> _template)</p><p class="description">populate Compiled Object with compiled filepath</p></td>
 </tr>
 <tr>
-<td class="type">protected  string</td>
-<td class="description"><p class="name"><a href="#buildFilepath">buildFilepath</a>(<a href="../smarty/smarty_template_source.html">Smarty_Template_Source</a> source, <a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> _template)</p><p class="description">build template filepath by traversing the template_dir array</p></td>
+<td class="type"> protected  string</td>
+<td class="description"><p class="name"><a href="#buildfilepath">buildFilepath</a>(<a href="../smarty/smarty_template_source.html">Smarty_Template_Source</a> source, <a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> _template)</p><p class="description">build template filepath by traversing the template_dir array</p></td>
 </tr>
 <tr>
-<td class="type">protected  bool</td>
-<td class="description"><p class="name"><a href="#fileExists">fileExists</a>(<a href="../smarty/smarty_template_source.html">Smarty_Template_Source</a> source, string file)</p><p class="description">test is file exists and save timestamp</p></td>
+<td class="type"> protected  bool</td>
+<td class="description"><p class="name"><a href="#fileexists">fileExists</a>(<a href="../smarty/smarty_template_source.html">Smarty_Template_Source</a> source, string file)</p><p class="description">test is file exists and save timestamp</p></td>
 </tr>
 <tr>
-<td class="type">protected  string</td>
-<td class="description"><p class="name"><a href="#getBasename">getBasename</a>(<a href="../smarty/smarty_template_source.html">Smarty_Template_Source</a> source)</p><p class="description">Determine basename for compiled filename</p></td>
+<td class="type"> protected  string</td>
+<td class="description"><p class="name"><a href="#getbasename">getBasename</a>(<a href="../smarty/smarty_template_source.html">Smarty_Template_Source</a> source)</p><p class="description">Determine basename for compiled filename</p></td>
 </tr>
 <tr>
-<td class="type">static  <a href="../smarty/smarty_resource.html">Smarty_Resource</a></td>
+<td class="type"> static  <a href="../smarty/smarty_resource.html">Smarty_Resource</a></td>
 <td class="description"><p class="name"><a href="#load">load</a>(<a href="../smarty/smarty.html">Smarty</a> smarty, string type)</p><p class="description">Load Resource Handler</p></td>
 </tr>
 <tr>
-<td class="type">protected static  void</td>
-<td class="description"><p class="name"><a href="#parseResourceName">parseResourceName</a>(string resource_name, string default_resource, string &$name, string &$type, mixed name, mixed type)</p><p class="description">extract resource_type and resource_name from template_resource and config_resource</p></td>
+<td class="type"> protected static  void</td>
+<td class="description"><p class="name"><a href="#parseresourcename">parseResourceName</a>(string resource_name, string default_resource, string &$name, string &$type, mixed name, mixed type)</p><p class="description">extract resource_type and resource_name from template_resource and config_resource</p></td>
 </tr>
 <tr>
-<td class="type">static  string</td>
-<td class="description"><p class="name"><a href="#getUniqueTemplateName">getUniqueTemplateName</a>(string smarty, string template_resource)</p><p class="description">modify template_resource according to resource handlers specifications</p></td>
+<td class="type"> static  string</td>
+<td class="description"><p class="name"><a href="#getuniquetemplatename">getUniqueTemplateName</a>(string smarty, string template_resource)</p><p class="description">modify template_resource according to resource handlers specifications</p></td>
 </tr>
 <tr>
-<td class="type">static  <a href="../smarty/smarty_template_source.html">Smarty_Template_Source</a></td>
+<td class="type"> static  <a href="../smarty/smarty_template_source.html">Smarty_Template_Source</a></td>
 <td class="description"><p class="name"><a href="#source">source</a>(<a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> _template, <a href="../smarty/smarty.html">Smarty</a> smarty, string template_resource)</p><p class="description">initialize Source Object for given resourceEither [$_template] or [$smarty, $template_resource] must be specified</p></td>
 </tr>
 <tr>
-<td class="type">static  <a href="../smarty/smarty_config_source.html">Smarty_Config_Source</a></td>
+<td class="type"> static  <a href="../smarty/smarty_config_source.html">Smarty_Config_Source</a></td>
 <td class="description"><p class="name"><a href="#config">config</a>(<a href="../smarty/smarty_internal_config.html">Smarty_Internal_Config</a> _config)</p><p class="description">initialize Config Source Object for given resource</p></td>
 </tr>
 </table>
@@ -116,9 +118,7 @@
 <div class="location">framework\libs\smarty\sysplugins\smarty_resource.php at line 28</div>
 <h3 id="compileds">compileds</h3>
 
-```php
-public static  array$compileds = array()
-```
+public static  array $compileds = array()
 <div class="details">
 <p>cache for Smarty_Template_Compiled instances</p></div>
 
@@ -127,9 +127,7 @@ public static  array$compileds = array()
 <div class="location">framework\libs\smarty\sysplugins\smarty_resource.php at line 44</div>
 <h3 id="compiler_class">compiler_class</h3>
 
-```php
-public  string$compiler_class = 'Smarty_Internal_SmartyTemplateCompiler'
-```
+public  string $compiler_class = 'Smarty_Internal_SmartyTemplateCompiler'
 <div class="details">
 <p>Name of the Class to compile this resource's contents with</p></div>
 
@@ -138,9 +136,7 @@ public  string$compiler_class = 'Smarty_Internal_SmartyTemplateCompiler'
 <div class="location">framework\libs\smarty\sysplugins\smarty_resource.php at line 33</div>
 <h3 id="resources">resources</h3>
 
-```php
-public static  array$resources = array()
-```
+public static  array $resources = array()
 <div class="details">
 <p>cache for Smarty_Resource instances</p></div>
 
@@ -149,9 +145,7 @@ public static  array$resources = array()
 <div class="location">framework\libs\smarty\sysplugins\smarty_resource.php at line 23</div>
 <h3 id="sources">sources</h3>
 
-```php
-public static  array$sources = array()
-```
+public static  array $sources = array()
 <div class="details">
 <p>cache for Smarty_Template_Source instances</p></div>
 
@@ -160,9 +154,7 @@ public static  array$sources = array()
 <div class="location">framework\libs\smarty\sysplugins\smarty_resource.php at line 38</div>
 <h3 id="sysplugins">sysplugins</h3>
 
-```php
-protected static  array$sysplugins = array(...)
-```
+protected static  array $sysplugins = array(...)
 <div class="details">
 <p>resource types provided by the core</p></div>
 
@@ -171,9 +163,7 @@ protected static  array$sysplugins = array(...)
 <div class="location">framework\libs\smarty\sysplugins\smarty_resource.php at line 50</div>
 <h3 id="template_lexer_class">template_lexer_class</h3>
 
-```php
-public  string$template_lexer_class = 'Smarty_Internal_Templatelexer'
-```
+public  string $template_lexer_class = 'Smarty_Internal_Templatelexer'
 <div class="details">
 <p>Name of the Class to tokenize this resource's contents with</p></div>
 
@@ -182,9 +172,7 @@ public  string$template_lexer_class = 'Smarty_Internal_Templatelexer'
 <div class="location">framework\libs\smarty\sysplugins\smarty_resource.php at line 56</div>
 <h3 id="template_parser_class">template_parser_class</h3>
 
-```php
-public  string$template_parser_class = 'Smarty_Internal_Templateparser'
-```
+public  string $template_parser_class = 'Smarty_Internal_Templateparser'
 <div class="details">
 <p>Name of the Class to parse this resource's contents with</p></div>
 
@@ -194,10 +182,7 @@ public  string$template_parser_class = 'Smarty_Internal_Templateparser'
 <div class="location">framework\libs\smarty\sysplugins\smarty_resource.php at line 67</div>
 <h3 id="getContent()">getContent</h3>
 
-```php
-public abstract  string **getContent**(<a href="../smarty/smarty_template_source.html">Smarty_Template_Source</a> source)
-```
-<div class="details">
+public abstract  string **getContent** (<a href="../smarty/smarty_template_source.html">Smarty_Template_Source</a> source)<div class="details">
 <p>Load template's source into current template object</p><p>The loaded source is assigned to $_template->source->content directly.}</p><dl>
 <dt>Parameters:</dt>
 <dd>source - source object</dd>
@@ -213,10 +198,7 @@ public abstract  string **getContent**(<a href="../smarty/smarty_template_source
 <div class="location">framework\libs\smarty\sysplugins\smarty_resource.php at line 75</div>
 <h3 id="populate()">populate</h3>
 
-```php
-public abstract  void **populate**(<a href="../smarty/smarty_template_source.html">Smarty_Template_Source</a> source, <a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> _template)
-```
-<div class="details">
+public abstract  void **populate** (<a href="../smarty/smarty_template_source.html">Smarty_Template_Source</a> source, <a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> _template)<div class="details">
 <p>populate Source Object with meta data from Resource</p><dl>
 <dt>Parameters:</dt>
 <dd>source - source object</dd>
@@ -229,10 +211,7 @@ public abstract  void **populate**(<a href="../smarty/smarty_template_source.htm
 <div class="location">framework\libs\smarty\sysplugins\smarty_resource.php at line 82</div>
 <h3 id="populateTimestamp()">populateTimestamp</h3>
 
-```php
-public  void **populateTimestamp**(<a href="../smarty/smarty_template_source.html">Smarty_Template_Source</a> source)
-```
-<div class="details">
+public  void **populateTimestamp** (<a href="../smarty/smarty_template_source.html">Smarty_Template_Source</a> source)<div class="details">
 <p>populate Source Object with timestamp and exists from Resource</p><dl>
 <dt>Parameters:</dt>
 <dd>source - source object</dd>
@@ -244,10 +223,7 @@ public  void **populateTimestamp**(<a href="../smarty/smarty_template_source.htm
 <div class="location">framework\libs\smarty\sysplugins\smarty_resource.php at line 95</div>
 <h3 id="buildUniqueResourceName()">buildUniqueResourceName</h3>
 
-```php
-protected  string **buildUniqueResourceName**(<a href="../smarty/smarty.html">Smarty</a> smarty, string resource_name)
-```
-<div class="details">
+protected  string **buildUniqueResourceName** (<a href="../smarty/smarty.html">Smarty</a> smarty, string resource_name)<div class="details">
 <p>modify resource_name according to resource handlers specifications</p><dl>
 <dt>Parameters:</dt>
 <dd>smarty - Smarty instance</dd>
@@ -262,10 +238,7 @@ protected  string **buildUniqueResourceName**(<a href="../smarty/smarty.html">Sm
 <div class="location">framework\libs\smarty\sysplugins\smarty_resource.php at line 106</div>
 <h3 id="populateCompiledFilepath()">populateCompiledFilepath</h3>
 
-```php
-public  void **populateCompiledFilepath**(<a href="../smarty/smarty_template_compiled.html">Smarty_Template_Compiled</a> compiled, <a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> _template)
-```
-<div class="details">
+public  void **populateCompiledFilepath** (<a href="../smarty/smarty_template_compiled.html">Smarty_Template_Compiled</a> compiled, <a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> _template)<div class="details">
 <p>populate Compiled Object with compiled filepath</p><dl>
 <dt>Parameters:</dt>
 <dd>compiled - compiled object</dd>
@@ -278,10 +251,7 @@ public  void **populateCompiledFilepath**(<a href="../smarty/smarty_template_com
 <div class="location">framework\libs\smarty\sysplugins\smarty_resource.php at line 149</div>
 <h3 id="buildFilepath()">buildFilepath</h3>
 
-```php
-protected  string **buildFilepath**(<a href="../smarty/smarty_template_source.html">Smarty_Template_Source</a> source, <a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> _template)
-```
-<div class="details">
+protected  string **buildFilepath** (<a href="../smarty/smarty_template_source.html">Smarty_Template_Source</a> source, <a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> _template)<div class="details">
 <p>build template filepath by traversing the template_dir array</p><dl>
 <dt>Parameters:</dt>
 <dd>source - source object</dd>
@@ -298,10 +268,7 @@ protected  string **buildFilepath**(<a href="../smarty/smarty_template_source.ht
 <div class="location">framework\libs\smarty\sysplugins\smarty_resource.php at line 316</div>
 <h3 id="fileExists()">fileExists</h3>
 
-```php
-protected  bool **fileExists**(<a href="../smarty/smarty_template_source.html">Smarty_Template_Source</a> source, string file)
-```
-<div class="details">
+protected  bool **fileExists** (<a href="../smarty/smarty_template_source.html">Smarty_Template_Source</a> source, string file)<div class="details">
 <p>test is file exists and save timestamp</p><dl>
 <dt>Parameters:</dt>
 <dd>source - source object</dd>
@@ -316,10 +283,7 @@ protected  bool **fileExists**(<a href="../smarty/smarty_template_source.html">S
 <div class="location">framework\libs\smarty\sysplugins\smarty_resource.php at line 329</div>
 <h3 id="getBasename()">getBasename</h3>
 
-```php
-protected  string **getBasename**(<a href="../smarty/smarty_template_source.html">Smarty_Template_Source</a> source)
-```
-<div class="details">
+protected  string **getBasename** (<a href="../smarty/smarty_template_source.html">Smarty_Template_Source</a> source)<div class="details">
 <p>Determine basename for compiled filename</p><dl>
 <dt>Parameters:</dt>
 <dd>source - source object</dd>
@@ -333,10 +297,7 @@ protected  string **getBasename**(<a href="../smarty/smarty_template_source.html
 <div class="location">framework\libs\smarty\sysplugins\smarty_resource.php at line 341</div>
 <h3 id="load()">load</h3>
 
-```php
-public static  <a href="../smarty/smarty_resource.html">Smarty_Resource</a> **load**(<a href="../smarty/smarty.html">Smarty</a> smarty, string type)
-```
-<div class="details">
+public static  <a href="../smarty/smarty_resource.html">Smarty_Resource</a> **load** (<a href="../smarty/smarty.html">Smarty</a> smarty, string type)<div class="details">
 <p>Load Resource Handler</p><dl>
 <dt>Parameters:</dt>
 <dd>smarty - smarty object</dd>
@@ -351,10 +312,7 @@ public static  <a href="../smarty/smarty_resource.html">Smarty_Resource</a> **lo
 <div class="location">framework\libs\smarty\sysplugins\smarty_resource.php at line 427</div>
 <h3 id="parseResourceName()">parseResourceName</h3>
 
-```php
-protected static  void **parseResourceName**(string resource_name, string default_resource, string &$name, string &$type, mixed name, mixed type)
-```
-<div class="details">
+protected static  void **parseResourceName** (string resource_name, string default_resource, string &$name, string &$type, mixed name, mixed type)<div class="details">
 <p>extract resource_type and resource_name from template_resource and config_resource</p><dl>
 <dt>Note:</dt>
 <dd>"C:/foo.tpl" was forced to file resource up till Smarty 3.1.3 (including).</dd>
@@ -371,10 +329,7 @@ protected static  void **parseResourceName**(string resource_name, string defaul
 <div class="location">framework\libs\smarty\sysplugins\smarty_resource.php at line 457</div>
 <h3 id="getUniqueTemplateName()">getUniqueTemplateName</h3>
 
-```php
-public static  string **getUniqueTemplateName**(string smarty, string template_resource)
-```
-<div class="details">
+public static  string **getUniqueTemplateName** (string smarty, string template_resource)<div class="details">
 <p>modify template_resource according to resource handlers specifications</p><dl>
 <dt>Parameters:</dt>
 <dd>smarty - Smarty instance</dd>
@@ -389,10 +344,7 @@ public static  string **getUniqueTemplateName**(string smarty, string template_r
 <div class="location">framework\libs\smarty\sysplugins\smarty_resource.php at line 475</div>
 <h3 id="source()">source</h3>
 
-```php
-public static  <a href="../smarty/smarty_template_source.html">Smarty_Template_Source</a> **source**(<a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> _template, <a href="../smarty/smarty.html">Smarty</a> smarty, string template_resource)
-```
-<div class="details">
+public static  <a href="../smarty/smarty_template_source.html">Smarty_Template_Source</a> **source** (<a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> _template, <a href="../smarty/smarty.html">Smarty</a> smarty, string template_resource)<div class="details">
 <p>initialize Source Object for given resource</p><p>Either [$_template] or [$smarty, $template_resource] must be specified</p><dl>
 <dt>Parameters:</dt>
 <dd>_template - template object</dd>
@@ -408,10 +360,7 @@ public static  <a href="../smarty/smarty_template_source.html">Smarty_Template_S
 <div class="location">framework\libs\smarty\sysplugins\smarty_resource.php at line 508</div>
 <h3 id="config()">config</h3>
 
-```php
-public static  <a href="../smarty/smarty_config_source.html">Smarty_Config_Source</a> **config**(<a href="../smarty/smarty_internal_config.html">Smarty_Internal_Config</a> _config)
-```
-<div class="details">
+public static  <a href="../smarty/smarty_config_source.html">Smarty_Config_Source</a> **config** (<a href="../smarty/smarty_internal_config.html">Smarty_Internal_Config</a> _config)<div class="details">
 <p>initialize Config Source Object for given resource</p><dl>
 <dt>Parameters:</dt>
 <dd>_config - config object</dd>

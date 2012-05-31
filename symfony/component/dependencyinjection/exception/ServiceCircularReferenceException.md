@@ -1,3 +1,4 @@
+
 - - -
 
 **Symfony\Component\DependencyInjection\Exception\ServiceCircularReferenceException**
@@ -22,6 +23,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/comp
 <dt>Author:</dt>
 <dd>Johannes M. Schmitt <schmittjoh@gmail.com></dd>
 </dl>
+
 - - -
 
 <table id="summary_constructor">
@@ -35,12 +37,12 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/comp
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#getServiceId">getServiceId</a>()</p></td>
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#getserviceid">getServiceId</a>()</p></td>
 </tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#getPath">getPath</a>()</p></td>
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#getpath">getPath</a>()</p></td>
 </tr>
 </table>
 
@@ -60,10 +62,7 @@ public  void **__construct**(mixed serviceId, mixed path)
 <div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Exception\ServiceCircularReferenceException.php at line 32</div>
 <h3 id="getServiceId()">getServiceId</h3>
 
-```php
-public  void **getServiceId**()
-```
-<div class="details">
+public  void **getServiceId** ()<div class="details">
 </div>
 
 - - -
@@ -71,10 +70,7 @@ public  void **getServiceId**()
 <div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Exception\ServiceCircularReferenceException.php at line 37</div>
 <h3 id="getPath()">getPath</h3>
 
-```php
-public  void **getPath**()
-```
-<div class="details">
+public  void **getPath** ()<div class="details">
 </div>
 
 - - -

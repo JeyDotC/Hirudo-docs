@@ -1,3 +1,4 @@
+
 - - -
 
 **Smarty\Smarty_Internal_Compile_Foreach**
@@ -21,6 +22,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 <dt>Subpackage:</dt>
 <dd>Compiler</dd>
 </dl>
+
 - - -
 
 <table id="summary_field">
@@ -46,7 +48,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type"> string</td>
+<td class="type">  string</td>
 <td class="description"><p class="name"><a href="#compile">compile</a>(array args, object compiler, array parameter)</p><p class="description">Compiles code for the {foreach} tag</p></td>
 </tr>
 </table>
@@ -59,9 +61,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_foreach.php at line 32</div>
 <h3 id="optional_attributes">optional_attributes</h3>
 
-```php
-public  array$optional_attributes = array('name', 'key')
-```
+public  array $optional_attributes = array('name', 'key')
 <div class="details">
 <p>Attribute definition: Overwrites base class.</p><dl>
 <dt>See Also:</dt>
@@ -74,9 +74,7 @@ public  array$optional_attributes = array('name', 'key')
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_foreach.php at line 25</div>
 <h3 id="required_attributes">required_attributes</h3>
 
-```php
-public  array$required_attributes = array('from', 'item')
-```
+public  array $required_attributes = array('from', 'item')
 <div class="details">
 <p>Attribute definition: Overwrites base class.</p><dl>
 <dt>See Also:</dt>
@@ -89,9 +87,7 @@ public  array$required_attributes = array('from', 'item')
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_foreach.php at line 39</div>
 <h3 id="shorttag_order">shorttag_order</h3>
 
-```php
-public  array$shorttag_order = array(...)
-```
+public  array $shorttag_order = array(...)
 <div class="details">
 <p>Attribute definition: Overwrites base class.</p><dl>
 <dt>See Also:</dt>
@@ -105,10 +101,7 @@ public  array$shorttag_order = array(...)
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_foreach.php at line 49</div>
 <h3 id="compile()">compile</h3>
 
-```php
-public  string **compile**(array args, object compiler, array parameter)
-```
-<div class="details">
+public  string **compile** (array args, object compiler, array parameter)<div class="details">
 <p>Compiles code for the {foreach} tag</p><dl>
 <dt>Parameters:</dt>
 <dd>args - array with attributes from parser</dd>

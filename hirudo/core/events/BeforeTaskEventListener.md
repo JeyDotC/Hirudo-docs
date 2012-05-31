@@ -1,3 +1,4 @@
+
 - - -
 
 **Hirudo\Core\Events\BeforeTaskEventListener**
@@ -23,22 +24,23 @@ the task's requirements are satisfied.</p></p><p><p>The listener only needs to i
 <dt>Author:</dt>
 <dd>JeyDotC</dd>
 </dl>
+
 - - -
 
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type">static  array</td>
-<td class="description"><p class="name"><a href="#getSubscribedEvents">getSubscribedEvents</a>()</p><p class="description">Subscribes this event listener to the BeforeTaskEvent.</p></td>
+<td class="type"> static  array</td>
+<td class="description"><p class="name"><a href="#getsubscribedevents">getSubscribedEvents</a>()</p><p class="description">Subscribes this event listener to the BeforeTaskEvent.</p></td>
 </tr>
 <tr>
-<td class="type">protected abstract  void</td>
-<td class="description"><p class="name"><a href="#beforeTask">beforeTask</a>(<a href="../../../hirudo/core/events/beforetaskevent.html">BeforeTaskEvent</a> e)</p><p class="description">This is the method that needs to be implemented by the event listener in
+<td class="type"> protected abstract  void</td>
+<td class="description"><p class="name"><a href="#beforetask">beforeTask</a>(<a href="../../../hirudo/core/events/beforetaskevent.html">BeforeTaskEvent</a> e)</p><p class="description">This is the method that needs to be implemented by the event listener in
 order to work. </p></td>
 </tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#onBeforeTask">onBeforeTask</a>(<a href="../../../hirudo/core/events/beforetaskevent.html">BeforeTaskEvent</a> e)</p><p class="description">A wraper function for the beforeTask method. </p></td>
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#onbeforetask">onBeforeTask</a>(<a href="../../../hirudo/core/events/beforetaskevent.html">BeforeTaskEvent</a> e)</p><p class="description">A wraper function for the beforeTask method. </p></td>
 </tr>
 </table>
 
@@ -46,10 +48,7 @@ order to work. </p></td>
 <div class="location">framework\hirudo\Hirudo\Core\Events\BeforeTaskEventListener.php at line 45</div>
 <h3 id="getSubscribedEvents()">getSubscribedEvents</h3>
 
-```php
-public static  array **getSubscribedEvents**()
-```
-<div class="details">
+public static  array **getSubscribedEvents** ()<div class="details">
 <p>Subscribes this event listener to the BeforeTaskEvent.</p><dl>
 <dt>Returns:</dt>
 <dd>An array indicating to the event dispatcher which events will it listen to and which method will manage the event.</dd>
@@ -61,10 +60,7 @@ public static  array **getSubscribedEvents**()
 <div class="location">framework\hirudo\Hirudo\Core\Events\BeforeTaskEventListener.php at line 60</div>
 <h3 id="beforeTask()">beforeTask</h3>
 
-```php
-protected abstract  void **beforeTask**(<a href="../../../hirudo/core/events/beforetaskevent.html">BeforeTaskEvent</a> e)
-```
-<div class="details">
+protected abstract  void **beforeTask** (<a href="../../../hirudo/core/events/beforetaskevent.html">BeforeTaskEvent</a> e)<div class="details">
 <p>This is the method that needs to be implemented by the event listener in
 order to work. This method is invoked before the current task is executed
 and has the posibility to change the parameters values and to raplace the
@@ -81,10 +77,7 @@ current call, thus restarting the task call process for the new ModuleCall.</p><
 <div class="location">framework\hirudo\Hirudo\Core\Events\BeforeTaskEventListener.php at line 70</div>
 <h3 id="onBeforeTask()">onBeforeTask</h3>
 
-```php
-public  void **onBeforeTask**(<a href="../../../hirudo/core/events/beforetaskevent.html">BeforeTaskEvent</a> e)
-```
-<div class="details">
+public  void **onBeforeTask** (<a href="../../../hirudo/core/events/beforetaskevent.html">BeforeTaskEvent</a> e)<div class="details">
 <p>A wraper function for the beforeTask method. This method checks the annotations
 associated to the event listener.</p><dl>
 <dt>See Also:</dt>

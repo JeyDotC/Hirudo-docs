@@ -1,3 +1,4 @@
+
 - - -
 
 **Doctrine\Common\Annotations\SimpleAnnotationReader**
@@ -26,6 +27,7 @@ full-control over all annotations that are available.</p></div>
 <dd>Johannes M. Schmitt <schmittjoh@gmail.com></dd>
 <dd>Fabio B. Silva <fabio.bat.silva@gmail.com></dd>
 </dl>
+
 - - -
 
 <table id="summary_constructor">
@@ -40,32 +42,32 @@ full-control over all annotations that are available.</p></div>
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#addNamespace">addNamespace</a>(string namespace)</p><p class="description">Adds a namespace in which we will look for annotations.</p></td>
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#addnamespace">addNamespace</a>(string namespace)</p><p class="description">Adds a namespace in which we will look for annotations.</p></td>
 </tr>
 <tr>
-<td class="type"> array</td>
-<td class="description"><p class="name"><a href="#getClassAnnotations">getClassAnnotations</a>(ReflectionClass class)</p><p class="description">Gets the annotations applied to a class.</p></td>
+<td class="type">  array</td>
+<td class="description"><p class="name"><a href="#getclassannotations">getClassAnnotations</a>(ReflectionClass class)</p><p class="description">Gets the annotations applied to a class.</p></td>
 </tr>
 <tr>
-<td class="type"> array</td>
-<td class="description"><p class="name"><a href="#getMethodAnnotations">getMethodAnnotations</a>(ReflectionMethod property, ReflectionMethod method)</p><p class="description">Gets the annotations applied to a method.</p></td>
+<td class="type">  array</td>
+<td class="description"><p class="name"><a href="#getmethodannotations">getMethodAnnotations</a>(ReflectionMethod property, ReflectionMethod method)</p><p class="description">Gets the annotations applied to a method.</p></td>
 </tr>
 <tr>
-<td class="type"> array</td>
-<td class="description"><p class="name"><a href="#getPropertyAnnotations">getPropertyAnnotations</a>(ReflectionProperty property)</p><p class="description">Gets the annotations applied to a property.</p></td>
+<td class="type">  array</td>
+<td class="description"><p class="name"><a href="#getpropertyannotations">getPropertyAnnotations</a>(ReflectionProperty property)</p><p class="description">Gets the annotations applied to a property.</p></td>
 </tr>
 <tr>
-<td class="type"> The</td>
-<td class="description"><p class="name"><a href="#getClassAnnotation">getClassAnnotation</a>(ReflectionClass class, string annotationName)</p><p class="description">Gets a class annotation.</p></td>
+<td class="type">  The</td>
+<td class="description"><p class="name"><a href="#getclassannotation">getClassAnnotation</a>(ReflectionClass class, string annotationName)</p><p class="description">Gets a class annotation.</p></td>
 </tr>
 <tr>
-<td class="type"> The</td>
-<td class="description"><p class="name"><a href="#getMethodAnnotation">getMethodAnnotation</a>(ReflectionMethod method, string annotationName)</p><p class="description">Gets a method annotation.</p></td>
+<td class="type">  The</td>
+<td class="description"><p class="name"><a href="#getmethodannotation">getMethodAnnotation</a>(ReflectionMethod method, string annotationName)</p><p class="description">Gets a method annotation.</p></td>
 </tr>
 <tr>
-<td class="type"> The</td>
-<td class="description"><p class="name"><a href="#getPropertyAnnotation">getPropertyAnnotation</a>(ReflectionProperty property, string annotationName)</p><p class="description">Gets a property annotation.</p></td>
+<td class="type">  The</td>
+<td class="description"><p class="name"><a href="#getpropertyannotation">getPropertyAnnotation</a>(ReflectionProperty property, string annotationName)</p><p class="description">Gets a property annotation.</p></td>
 </tr>
 </table>
 
@@ -85,10 +87,7 @@ public  void **__construct**()
 <div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\SimpleAnnotationReader.php at line 57</div>
 <h3 id="addNamespace()">addNamespace</h3>
 
-```php
-public  void **addNamespace**(string namespace)
-```
-<div class="details">
+public  void **addNamespace** (string namespace)<div class="details">
 <p>Adds a namespace in which we will look for annotations.</p></div>
 
 - - -
@@ -96,10 +95,7 @@ public  void **addNamespace**(string namespace)
 <div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\SimpleAnnotationReader.php at line 69</div>
 <h3 id="getClassAnnotations()">getClassAnnotations</h3>
 
-```php
-public  array **getClassAnnotations**(ReflectionClass class)
-```
-<div class="details">
+public  array **getClassAnnotations** (ReflectionClass class)<div class="details">
 <p>Gets the annotations applied to a class.</p><dl>
 <dt>Parameters:</dt>
 <dd>class - The ReflectionClass of the class from which the class annotations should be read.</dd>
@@ -113,10 +109,7 @@ public  array **getClassAnnotations**(ReflectionClass class)
 <div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\SimpleAnnotationReader.php at line 81</div>
 <h3 id="getMethodAnnotations()">getMethodAnnotations</h3>
 
-```php
-public  array **getMethodAnnotations**(ReflectionMethod property, ReflectionMethod method)
-```
-<div class="details">
+public  array **getMethodAnnotations** (ReflectionMethod property, ReflectionMethod method)<div class="details">
 <p>Gets the annotations applied to a method.</p><dl>
 <dt>Parameters:</dt>
 <dd>property - The ReflectionMethod of the method from which the annotations should be read.</dd>
@@ -130,10 +123,7 @@ public  array **getMethodAnnotations**(ReflectionMethod property, ReflectionMeth
 <div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\SimpleAnnotationReader.php at line 93</div>
 <h3 id="getPropertyAnnotations()">getPropertyAnnotations</h3>
 
-```php
-public  array **getPropertyAnnotations**(ReflectionProperty property)
-```
-<div class="details">
+public  array **getPropertyAnnotations** (ReflectionProperty property)<div class="details">
 <p>Gets the annotations applied to a property.</p><dl>
 <dt>Parameters:</dt>
 <dd>property - The ReflectionProperty of the property from which the annotations should be read.</dd>
@@ -147,10 +137,7 @@ public  array **getPropertyAnnotations**(ReflectionProperty property)
 <div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\SimpleAnnotationReader.php at line 106</div>
 <h3 id="getClassAnnotation()">getClassAnnotation</h3>
 
-```php
-public  The **getClassAnnotation**(ReflectionClass class, string annotationName)
-```
-<div class="details">
+public  The **getClassAnnotation** (ReflectionClass class, string annotationName)<div class="details">
 <p>Gets a class annotation.</p><dl>
 <dt>Parameters:</dt>
 <dd>class - The ReflectionClass of the class from which the class annotations should be read.</dd>
@@ -165,10 +152,7 @@ public  The **getClassAnnotation**(ReflectionClass class, string annotationName)
 <div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\SimpleAnnotationReader.php at line 124</div>
 <h3 id="getMethodAnnotation()">getMethodAnnotation</h3>
 
-```php
-public  The **getMethodAnnotation**(ReflectionMethod method, string annotationName)
-```
-<div class="details">
+public  The **getMethodAnnotation** (ReflectionMethod method, string annotationName)<div class="details">
 <p>Gets a method annotation.</p><dl>
 <dt>Parameters:</dt>
 <dd></dd>
@@ -183,10 +167,7 @@ public  The **getMethodAnnotation**(ReflectionMethod method, string annotationNa
 <div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\SimpleAnnotationReader.php at line 142</div>
 <h3 id="getPropertyAnnotation()">getPropertyAnnotation</h3>
 
-```php
-public  The **getPropertyAnnotation**(ReflectionProperty property, string annotationName)
-```
-<div class="details">
+public  The **getPropertyAnnotation** (ReflectionProperty property, string annotationName)<div class="details">
 <p>Gets a property annotation.</p><dl>
 <dt>Parameters:</dt>
 <dd></dd>

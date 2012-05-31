@@ -1,3 +1,4 @@
+
 - - -
 
 **Smarty\_smarty_text**
@@ -22,6 +23,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/_smar
 <dd>Compiler</dd>
 <dt>Ignore.</dt>
 </dl>
+
 - - -
 
 <table class="inherit">
@@ -39,7 +41,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/_smar
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type"> strint</td>
+<td class="type">  strint</td>
 <td class="description"><p class="name"><a href="#to_smarty_php">to_smarty_php</a>()</p><p class="description">Return buffer content</p></td>
 </tr>
 </table>
@@ -69,10 +71,7 @@ public  void **__construct**(object parser, string data)
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_parsetree.php at line 355</div>
 <h3 id="to_smarty_php()">to_smarty_php</h3>
 
-```php
-public  strint **to_smarty_php**()
-```
-<div class="details">
+public  strint **to_smarty_php** ()<div class="details">
 <p>Return buffer content</p><dl>
 <dt>Returns:</dt>
 <dd>text</dd>

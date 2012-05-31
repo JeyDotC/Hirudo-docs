@@ -1,3 +1,4 @@
+
 - - -
 
 **Hirudo\Lang\Loader**
@@ -28,37 +29,38 @@ consist on:</p></p>
 <dt>See Also:</dt>
 <dd><a href="../../../../hirudo/lang/loader.html#using()">Loader::using()</a></dd>
 </dl>
+
 - - -
 
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type">static  void</td>
+<td class="type"> static  void</td>
 <td class="description"><p class="name"><a href="#using">using</a>(string|array file, string extension)</p><p class="description">Loads a PHP file using a package syntax which consists of a path from
 the Loader's root where is used the :: operator instead of
 the directory separator and ommiting the file extension. </p></td>
 </tr>
 <tr>
-<td class="type">static  array</td>
-<td class="description"><p class="name"><a href="#arrayToPaths">arrayToPaths</a>(array array, string extension)</p><p class="description">Traduces a list of strings with the <a href="../../hirudo/lang/loader.html#using()">Loader::using()</a> format to the
+<td class="type"> static  array</td>
+<td class="description"><p class="name"><a href="#arraytopaths">arrayToPaths</a>(array array, string extension)</p><p class="description">Traduces a list of strings with the <a href="../../hirudo/lang/loader.html#using()">Loader::using()</a> format to the
 resulting paths.</p></td>
 </tr>
 <tr>
-<td class="type">static  array</td>
-<td class="description"><p class="name"><a href="#toPaths">toPaths</a>(array array, string extension, mixed string)</p><p class="description">Traduces string with the <a href="../../hirudo/lang/loader.html#using()">Loader::using()</a> format to the
+<td class="type"> static  array</td>
+<td class="description"><p class="name"><a href="#topaths">toPaths</a>(array array, string extension, mixed string)</p><p class="description">Traduces string with the <a href="../../hirudo/lang/loader.html#using()">Loader::using()</a> format to the
 resulting paths.</p></td>
 </tr>
 <tr>
-<td class="type">static  void</td>
-<td class="description"><p class="name"><a href="#toSinglePath">toSinglePath</a>(mixed string, mixed extension)</p></td>
+<td class="type"> static  void</td>
+<td class="description"><p class="name"><a href="#tosinglepath">toSinglePath</a>(mixed string, mixed extension)</p></td>
 </tr>
 <tr>
-<td class="type">static  void</td>
-<td class="description"><p class="name"><a href="#isDir">isDir</a>(mixed dir)</p></td>
+<td class="type"> static  void</td>
+<td class="description"><p class="name"><a href="#isdir">isDir</a>(mixed dir)</p></td>
 </tr>
 <tr>
-<td class="type">static  void</td>
-<td class="description"><p class="name"><a href="#isFile">isFile</a>(mixed file, mixed extension)</p></td>
+<td class="type"> static  void</td>
+<td class="description"><p class="name"><a href="#isfile">isFile</a>(mixed file, mixed extension)</p></td>
 </tr>
 </table>
 
@@ -66,10 +68,7 @@ resulting paths.</p></td>
 <div class="location">framework\hirudo\Hirudo\Lang\Loader.php at line 72</div>
 <h3 id="using()">using</h3>
 
-```php
-public static  void **using**(string|array file, string extension)
-```
-<div class="details">
+public static  void **using** (string|array file, string extension)<div class="details">
 <p><p>Loads a PHP file using a package syntax which consists of a path from
 the Loader's root where is used the <code>::</code> operator instead of
 the directory separator and ommiting the file extension.
@@ -89,10 +88,7 @@ directory.</p></p><dl>
 <div class="location">framework\hirudo\Hirudo\Lang\Loader.php at line 101</div>
 <h3 id="arrayToPaths()">arrayToPaths</h3>
 
-```php
-public static  array **arrayToPaths**(array array, string extension)
-```
-<div class="details">
+public static  array **arrayToPaths** (array array, string extension)<div class="details">
 <p>Traduces a list of strings with the <code><a href="../../hirudo/lang/loader.html#using()">Loader::using()</a></code> format to the
 resulting paths.</p><dl>
 <dt>Parameters:</dt>
@@ -114,10 +110,7 @@ resulting paths.</p><dl>
 <div class="location">framework\hirudo\Hirudo\Lang\Loader.php at line 124</div>
 <h3 id="toPaths()">toPaths</h3>
 
-```php
-public static  array **toPaths**(array array, string extension, mixed string)
-```
-<div class="details">
+public static  array **toPaths** (array array, string extension, mixed string)<div class="details">
 <p>Traduces string with the <code><a href="../../hirudo/lang/loader.html#using()">Loader::using()</a></code> format to the
 resulting paths.</p><dl>
 <dt>Parameters:</dt>
@@ -138,10 +131,7 @@ resulting paths.</p><dl>
 <div class="location">framework\hirudo\Hirudo\Lang\Loader.php at line 143</div>
 <h3 id="toSinglePath()">toSinglePath</h3>
 
-```php
-public static  void **toSinglePath**(mixed string, mixed extension)
-```
-<div class="details">
+public static  void **toSinglePath** (mixed string, mixed extension)<div class="details">
 </div>
 
 - - -
@@ -149,10 +139,7 @@ public static  void **toSinglePath**(mixed string, mixed extension)
 <div class="location">framework\hirudo\Hirudo\Lang\Loader.php at line 163</div>
 <h3 id="isDir()">isDir</h3>
 
-```php
-public static  void **isDir**(mixed dir)
-```
-<div class="details">
+public static  void **isDir** (mixed dir)<div class="details">
 </div>
 
 - - -
@@ -160,10 +147,7 @@ public static  void **isDir**(mixed dir)
 <div class="location">framework\hirudo\Hirudo\Lang\Loader.php at line 168</div>
 <h3 id="isFile()">isFile</h3>
 
-```php
-public static  void **isFile**(mixed file, mixed extension)
-```
-<div class="details">
+public static  void **isFile** (mixed file, mixed extension)<div class="details">
 </div>
 
 - - -

@@ -1,3 +1,4 @@
+
 - - -
 
 **Smarty\Smarty_Internal_Compile_Block**
@@ -21,6 +22,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 <dt>Subpackage:</dt>
 <dd>Compiler</dd>
 </dl>
+
 - - -
 
 <table id="summary_field">
@@ -46,16 +48,16 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type"> boolean</td>
+<td class="type">  boolean</td>
 <td class="description"><p class="name"><a href="#compile">compile</a>(array args, object compiler)</p><p class="description">Compiles code for the {block} tag</p></td>
 </tr>
 <tr>
-<td class="type">static  void</td>
-<td class="description"><p class="name"><a href="#saveBlockData">saveBlockData</a>(string block_content, string block_tag, object template, string filepath)</p><p class="description">Save or replace child block source by block name during parsing</p></td>
+<td class="type"> static  void</td>
+<td class="description"><p class="name"><a href="#saveblockdata">saveBlockData</a>(string block_content, string block_tag, object template, string filepath)</p><p class="description">Save or replace child block source by block name during parsing</p></td>
 </tr>
 <tr>
-<td class="type">static  string</td>
-<td class="description"><p class="name"><a href="#compileChildBlock">compileChildBlock</a>(object compiler, string _name)</p><p class="description">Compile saved child block source</p></td>
+<td class="type"> static  string</td>
+<td class="description"><p class="name"><a href="#compilechildblock">compileChildBlock</a>(object compiler, string _name)</p><p class="description">Compile saved child block source</p></td>
 </tr>
 </table>
 
@@ -67,9 +69,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_block.php at line 40</div>
 <h3 id="optional_attributes">optional_attributes</h3>
 
-```php
-public  array$optional_attributes = array('hide')
-```
+public  array $optional_attributes = array('hide')
 <div class="details">
 <p>Attribute definition: Overwrites base class.</p><dl>
 <dt>See Also:</dt>
@@ -82,9 +82,7 @@ public  array$optional_attributes = array('hide')
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_block.php at line 26</div>
 <h3 id="required_attributes">required_attributes</h3>
 
-```php
-public  array$required_attributes = array('name')
-```
+public  array $required_attributes = array('name')
 <div class="details">
 <p>Attribute definition: Overwrites base class.</p><dl>
 <dt>See Also:</dt>
@@ -97,9 +95,7 @@ public  array$required_attributes = array('name')
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_block.php at line 33</div>
 <h3 id="shorttag_order">shorttag_order</h3>
 
-```php
-public  array$shorttag_order = array('name', 'hide')
-```
+public  array $shorttag_order = array('name', 'hide')
 <div class="details">
 <p>Attribute definition: Overwrites base class.</p><dl>
 <dt>See Also:</dt>
@@ -113,10 +109,7 @@ public  array$shorttag_order = array('name', 'hide')
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_block.php at line 49</div>
 <h3 id="compile()">compile</h3>
 
-```php
-public  boolean **compile**(array args, object compiler)
-```
-<div class="details">
+public  boolean **compile** (array args, object compiler)<div class="details">
 <p>Compiles code for the {block} tag</p><dl>
 <dt>Parameters:</dt>
 <dd>args - array with attributes from parser</dd>
@@ -131,10 +124,7 @@ public  boolean **compile**(array args, object compiler)
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_block.php at line 76</div>
 <h3 id="saveBlockData()">saveBlockData</h3>
 
-```php
-public static  void **saveBlockData**(string block_content, string block_tag, object template, string filepath)
-```
-<div class="details">
+public static  void **saveBlockData** (string block_content, string block_tag, object template, string filepath)<div class="details">
 <p>Save or replace child block source by block name during parsing</p><dl>
 <dt>Parameters:</dt>
 <dd>block_content - block source content</dd>
@@ -149,10 +139,7 @@ public static  void **saveBlockData**(string block_content, string block_tag, ob
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_block.php at line 149</div>
 <h3 id="compileChildBlock()">compileChildBlock</h3>
 
-```php
-public static  string **compileChildBlock**(object compiler, string _name)
-```
-<div class="details">
+public static  string **compileChildBlock** (object compiler, string _name)<div class="details">
 <p>Compile saved child block source</p><dl>
 <dt>Parameters:</dt>
 <dd>compiler - compiler object</dd>

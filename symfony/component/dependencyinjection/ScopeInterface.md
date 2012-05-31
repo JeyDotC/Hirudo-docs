@@ -1,3 +1,4 @@
+
 - - -
 
 **Symfony\Component\DependencyInjection\ScopeInterface**
@@ -18,17 +19,18 @@
 <dd>Johannes M. Schmitt <schmittjoh@gmail.com></dd>
 <dt>Api.</dt>
 </dl>
+
 - - -
 
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#getName">getName</a>()</p><p class="description"></p></td>
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#getname">getName</a>()</p><p class="description"></p></td>
 </tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#getParentName">getParentName</a>()</p><p class="description"></p></td>
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#getparentname">getParentName</a>()</p><p class="description"></p></td>
 </tr>
 </table>
 
@@ -36,10 +38,7 @@
 <div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ScopeInterface.php at line 26</div>
 <h3 id="getName()">getName</h3>
 
-```php
-public  void **getName**()
-```
-<div class="details">
+public  void **getName** ()<div class="details">
 <p></p><dl>
 <dt>Api.</dt>
 </dl>
@@ -50,10 +49,7 @@ public  void **getName**()
 <div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ScopeInterface.php at line 31</div>
 <h3 id="getParentName()">getParentName</h3>
 
-```php
-public  void **getParentName**()
-```
-<div class="details">
+public  void **getParentName** ()<div class="details">
 <p></p><dl>
 <dt>Api.</dt>
 </dl>

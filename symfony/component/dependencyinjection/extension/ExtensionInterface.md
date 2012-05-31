@@ -1,3 +1,4 @@
+
 - - -
 
 **Symfony\Component\DependencyInjection\Extension\ExtensionInterface**
@@ -18,25 +19,26 @@
 <dd>Fabien Potencier <fabien@symfony.com></dd>
 <dt>Api.</dt>
 </dl>
+
 - - -
 
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type"> void</td>
+<td class="type">  void</td>
 <td class="description"><p class="name"><a href="#load">load</a>(array config, <a href="../../../../symfony/component/dependencyinjection/containerbuilder.html">ContainerBuilder</a> container)</p><p class="description">Loads a specific configuration.</p></td>
 </tr>
 <tr>
-<td class="type"> string</td>
-<td class="description"><p class="name"><a href="#getNamespace">getNamespace</a>()</p><p class="description">Returns the namespace to be used for this extension (XML namespace).</p></td>
+<td class="type">  string</td>
+<td class="description"><p class="name"><a href="#getnamespace">getNamespace</a>()</p><p class="description">Returns the namespace to be used for this extension (XML namespace).</p></td>
 </tr>
 <tr>
-<td class="type"> string</td>
-<td class="description"><p class="name"><a href="#getXsdValidationBasePath">getXsdValidationBasePath</a>()</p><p class="description">Returns the base path for the XSD files.</p></td>
+<td class="type">  string</td>
+<td class="description"><p class="name"><a href="#getxsdvalidationbasepath">getXsdValidationBasePath</a>()</p><p class="description">Returns the base path for the XSD files.</p></td>
 </tr>
 <tr>
-<td class="type"> string</td>
-<td class="description"><p class="name"><a href="#getAlias">getAlias</a>()</p><p class="description">Returns the recommended alias to use in XML.
+<td class="type">  string</td>
+<td class="description"><p class="name"><a href="#getalias">getAlias</a>()</p><p class="description">Returns the recommended alias to use in XML.
 </p></td>
 </tr>
 </table>
@@ -45,10 +47,7 @@
 <div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Extension\ExtensionInterface.php at line 35</div>
 <h3 id="load()">load</h3>
 
-```php
-public  void **load**(array config, <a href="../../../../symfony/component/dependencyinjection/containerbuilder.html">ContainerBuilder</a> container)
-```
-<div class="details">
+public  void **load** (array config, <a href="../../../../symfony/component/dependencyinjection/containerbuilder.html">ContainerBuilder</a> container)<div class="details">
 <p>Loads a specific configuration.</p><dl>
 <dt>Parameters:</dt>
 <dd>config - An array of configuration values</dd>
@@ -64,10 +63,7 @@ public  void **load**(array config, <a href="../../../../symfony/component/depen
 <div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Extension\ExtensionInterface.php at line 44</div>
 <h3 id="getNamespace()">getNamespace</h3>
 
-```php
-public  string **getNamespace**()
-```
-<div class="details">
+public  string **getNamespace** ()<div class="details">
 <p>Returns the namespace to be used for this extension (XML namespace).</p><dl>
 <dt>Returns:</dt>
 <dd>The XML namespace</dd>
@@ -80,10 +76,7 @@ public  string **getNamespace**()
 <div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Extension\ExtensionInterface.php at line 53</div>
 <h3 id="getXsdValidationBasePath()">getXsdValidationBasePath</h3>
 
-```php
-public  string **getXsdValidationBasePath**()
-```
-<div class="details">
+public  string **getXsdValidationBasePath** ()<div class="details">
 <p>Returns the base path for the XSD files.</p><dl>
 <dt>Returns:</dt>
 <dd>The XSD base path</dd>
@@ -96,10 +89,7 @@ public  string **getXsdValidationBasePath**()
 <div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Extension\ExtensionInterface.php at line 64</div>
 <h3 id="getAlias()">getAlias</h3>
 
-```php
-public  string **getAlias**()
-```
-<div class="details">
+public  string **getAlias** ()<div class="details">
 <p>Returns the recommended alias to use in XML.</p><p>This alias is also the mandatory prefix to use when using YAML.</p><dl>
 <dt>Returns:</dt>
 <dd>The alias</dd>

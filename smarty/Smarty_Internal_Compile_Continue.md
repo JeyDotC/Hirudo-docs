@@ -1,3 +1,4 @@
+
 - - -
 
 **Smarty\Smarty_Internal_Compile_Continue**
@@ -21,6 +22,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 <dt>Subpackage:</dt>
 <dd>Compiler</dd>
 </dl>
+
 - - -
 
 <table id="summary_field">
@@ -42,7 +44,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type"> string</td>
+<td class="type">  string</td>
 <td class="description"><p class="name"><a href="#compile">compile</a>(array args, object compiler, array parameter)</p><p class="description">Compiles code for the {continue} tag</p></td>
 </tr>
 </table>
@@ -55,9 +57,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_continue.php at line 26</div>
 <h3 id="optional_attributes">optional_attributes</h3>
 
-```php
-public  array$optional_attributes = array('levels')
-```
+public  array $optional_attributes = array('levels')
 <div class="details">
 <p>Attribute definition: Overwrites base class.</p><dl>
 <dt>See Also:</dt>
@@ -70,9 +70,7 @@ public  array$optional_attributes = array('levels')
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_continue.php at line 33</div>
 <h3 id="shorttag_order">shorttag_order</h3>
 
-```php
-public  array$shorttag_order = array('levels')
-```
+public  array $shorttag_order = array('levels')
 <div class="details">
 <p>Attribute definition: Overwrites base class.</p><dl>
 <dt>See Also:</dt>
@@ -86,10 +84,7 @@ public  array$shorttag_order = array('levels')
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_continue.php at line 43</div>
 <h3 id="compile()">compile</h3>
 
-```php
-public  string **compile**(array args, object compiler, array parameter)
-```
-<div class="details">
+public  string **compile** (array args, object compiler, array parameter)<div class="details">
 <p>Compiles code for the {continue} tag</p><dl>
 <dt>Parameters:</dt>
 <dd>args - array with attributes from parser</dd>

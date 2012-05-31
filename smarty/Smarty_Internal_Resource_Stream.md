@@ -1,3 +1,4 @@
+
 - - -
 
 **Smarty\Smarty_Internal_Resource_Stream**
@@ -24,21 +25,22 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 <dt>Subpackage:</dt>
 <dd>TemplateResources</dd>
 </dl>
+
 - - -
 
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type"> void</td>
+<td class="type">  void</td>
 <td class="description"><p class="name"><a href="#populate">populate</a>(<a href="../smarty/smarty_template_source.html">Smarty_Template_Source</a> source, <a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> _template)</p><p class="description">populate Source Object with meta data from Resource</p></td>
 </tr>
 <tr>
-<td class="type"> string</td>
-<td class="description"><p class="name"><a href="#getContent">getContent</a>(<a href="../smarty/smarty_template_source.html">Smarty_Template_Source</a> source)</p><p class="description">Load template's source from stream into current template object</p></td>
+<td class="type">  string</td>
+<td class="description"><p class="name"><a href="#getcontent">getContent</a>(<a href="../smarty/smarty_template_source.html">Smarty_Template_Source</a> source)</p><p class="description">Load template's source from stream into current template object</p></td>
 </tr>
 <tr>
-<td class="type">protected  string</td>
-<td class="description"><p class="name"><a href="#buildUniqueResourceName">buildUniqueResourceName</a>(<a href="../smarty/smarty.html">Smarty</a> smarty, string resource_name)</p><p class="description">modify resource_name according to resource handlers specifications</p></td>
+<td class="type"> protected  string</td>
+<td class="description"><p class="name"><a href="#builduniqueresourcename">buildUniqueResourceName</a>(<a href="../smarty/smarty.html">Smarty</a> smarty, string resource_name)</p><p class="description">modify resource_name according to resource handlers specifications</p></td>
 </tr>
 </table>
 
@@ -54,10 +56,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_resource_stream.php at line 31</div>
 <h3 id="populate()">populate</h3>
 
-```php
-public  void **populate**(<a href="../smarty/smarty_template_source.html">Smarty_Template_Source</a> source, <a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> _template)
-```
-<div class="details">
+public  void **populate** (<a href="../smarty/smarty_template_source.html">Smarty_Template_Source</a> source, <a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> _template)<div class="details">
 <p>populate Source Object with meta data from Resource</p><dl>
 <dt>Parameters:</dt>
 <dd>source - source object</dd>
@@ -70,10 +69,7 @@ public  void **populate**(<a href="../smarty/smarty_template_source.html">Smarty
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_resource_stream.php at line 47</div>
 <h3 id="getContent()">getContent</h3>
 
-```php
-public  string **getContent**(<a href="../smarty/smarty_template_source.html">Smarty_Template_Source</a> source)
-```
-<div class="details">
+public  string **getContent** (<a href="../smarty/smarty_template_source.html">Smarty_Template_Source</a> source)<div class="details">
 <p>Load template's source from stream into current template object</p><dl>
 <dt>Parameters:</dt>
 <dd>source - source object</dd>
@@ -89,10 +85,7 @@ public  string **getContent**(<a href="../smarty/smarty_template_source.html">Sm
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_resource_stream.php at line 70</div>
 <h3 id="buildUniqueResourceName()">buildUniqueResourceName</h3>
 
-```php
-protected  string **buildUniqueResourceName**(<a href="../smarty/smarty.html">Smarty</a> smarty, string resource_name)
-```
-<div class="details">
+protected  string **buildUniqueResourceName** (<a href="../smarty/smarty.html">Smarty</a> smarty, string resource_name)<div class="details">
 <p>modify resource_name according to resource handlers specifications</p><dl>
 <dt>Parameters:</dt>
 <dd>smarty - Smarty instance</dd>

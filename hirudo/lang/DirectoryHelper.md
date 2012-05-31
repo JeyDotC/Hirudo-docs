@@ -1,3 +1,4 @@
+
 - - -
 
 **Hirudo\Lang\DirectoryHelper**
@@ -13,6 +14,7 @@
 
 <div class="comment" id="overview_description"><p>A class for directory listing.</p></div>
 
+
 - - -
 
 <table id="summary_constructor">
@@ -26,8 +28,8 @@
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type"> array</td>
-<td class="description"><p class="name"><a href="#listFiles">listFiles</a>(int depth)</p><p class="description">Lists all files, ignoring the directories, for the actual DirectoryIterator
+<td class="type">  array</td>
+<td class="description"><p class="name"><a href="#listfiles">listFiles</a>(int depth)</p><p class="description">Lists all files, ignoring the directories, for the actual DirectoryIterator
 at the specified depth.</p></td>
 </tr>
 </table>
@@ -52,10 +54,7 @@ public  void **__construct**(RecursiveDirectoryIterator dir)
 <div class="location">framework\hirudo\Hirudo\Lang\Loader.php at line 221</div>
 <h3 id="listFiles()">listFiles</h3>
 
-```php
-public  array **listFiles**(int depth)
-```
-<div class="details">
+public  array **listFiles** (int depth)<div class="details">
 <p>Lists all files, ignoring the directories, for the actual DirectoryIterator
 at the specified depth.</p><dl>
 <dt>Parameters:</dt>

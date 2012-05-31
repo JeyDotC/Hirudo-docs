@@ -1,3 +1,4 @@
+
 - - -
 
 **Smarty\Smarty_Internal_Config_File_Compiler**
@@ -17,6 +18,7 @@
 <dt>Subpackage:</dt>
 <dd>Config</dd>
 </dl>
+
 - - -
 
 <table id="summary_field">
@@ -54,11 +56,11 @@
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type"> bool</td>
-<td class="description"><p class="name"><a href="#compileSource">compileSource</a>(<a href="../smarty/smarty_internal_config.html">Smarty_Internal_Config</a> config)</p><p class="description">Method to compile a Smarty template.</p></td>
+<td class="type">  bool</td>
+<td class="description"><p class="name"><a href="#compilesource">compileSource</a>(<a href="../smarty/smarty_internal_config.html">Smarty_Internal_Config</a> config)</p><p class="description">Method to compile a Smarty template.</p></td>
 </tr>
 <tr>
-<td class="type"> void</td>
+<td class="type">  void</td>
 <td class="description"><p class="name"><a href="#trigger_config_file_error">trigger_config_file_error</a>(string args)</p><p class="description">display compiler error messages without dyingIf parameter $args is empty it is a parser detected syntax error.
 </p></td>
 </tr>
@@ -68,9 +70,7 @@
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_config_file_compiler.php at line 47</div>
 <h3 id="config">config</h3>
 
-```php
-public  Smarty_Internal_Config object$config
-```
+public  Smarty_Internal_Config object $config
 <div class="details">
 <p>Smarty object</p></div>
 
@@ -79,9 +79,7 @@ public  Smarty_Internal_Config object$config
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_config_file_compiler.php at line 54</div>
 <h3 id="config_data">config_data</h3>
 
-```php
-public  array$config_data = array()
-```
+public  array $config_data = array()
 <div class="details">
 <p>Compiled config data sections and variables</p></div>
 
@@ -90,9 +88,7 @@ public  array$config_data = array()
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_config_file_compiler.php at line 26</div>
 <h3 id="lex">lex</h3>
 
-```php
-public  object$lex = 'local'
-```
+public  object $lex = 'local'
 <div class="details">
 <p>Lexer object</p></div>
 
@@ -101,9 +97,7 @@ public  object$lex = 'local'
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_config_file_compiler.php at line 33</div>
 <h3 id="parser">parser</h3>
 
-```php
-public  object$parser
-```
+public  object $parser
 <div class="details">
 <p>Parser object</p></div>
 
@@ -112,9 +106,7 @@ public  object$parser
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_config_file_compiler.php at line 40</div>
 <h3 id="smarty">smarty</h3>
 
-```php
-public  Smarty object$smarty
-```
+public  Smarty object $smarty
 <div class="details">
 <p>Smarty object</p></div>
 
@@ -140,10 +132,7 @@ public  void **__construct**(<a href="../smarty/smarty.html">Smarty</a> smarty)
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_config_file_compiler.php at line 74</div>
 <h3 id="compileSource()">compileSource</h3>
 
-```php
-public  bool **compileSource**(<a href="../smarty/smarty_internal_config.html">Smarty_Internal_Config</a> config)
-```
-<div class="details">
+public  bool **compileSource** (<a href="../smarty/smarty_internal_config.html">Smarty_Internal_Config</a> config)<div class="details">
 <p>Method to compile a Smarty template.</p><dl>
 <dt>Parameters:</dt>
 <dd>config - config object</dd>
@@ -157,10 +146,7 @@ public  bool **compileSource**(<a href="../smarty/smarty_internal_config.html">S
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_config_file_compiler.php at line 110</div>
 <h3 id="trigger_config_file_error()">trigger_config_file_error</h3>
 
-```php
-public  void **trigger_config_file_error**(string args)
-```
-<div class="details">
+public  void **trigger_config_file_error** (string args)<div class="details">
 <p>display compiler error messages without dying</p><p>If parameter $args is empty it is a parser detected syntax error.
 In this case the parser is called to obtain information about exspected tokens.</p><p>If parameter $args contains a string this is used as error message</p><dl>
 <dt>Parameters:</dt>

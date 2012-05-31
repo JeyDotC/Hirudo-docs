@@ -1,3 +1,4 @@
+
 - - -
 
 **Smarty\Smarty_Variable**
@@ -17,6 +18,7 @@
 <dt>Subpackage:</dt>
 <dd>Template</dd>
 </dl>
+
 - - -
 
 <table id="summary_field">
@@ -47,9 +49,7 @@
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_data.php at line 480</div>
 <h3 id="nocache">nocache</h3>
 
-```php
-public  boolean$nocache = false
-```
+public  boolean $nocache = false
 <div class="details">
 <p>if true any output of this variable will be not cached</p></div>
 
@@ -58,9 +58,7 @@ public  boolean$nocache = false
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_data.php at line 486</div>
 <h3 id="scope">scope</h3>
 
-```php
-public  int$scope = Smarty::SCOPE_LOCAL
-```
+public  int $scope = Smarty::SCOPE_LOCAL
 <div class="details">
 <p>the scope the variable will have  (local,parent or root)</p></div>
 
@@ -69,9 +67,7 @@ public  int$scope = Smarty::SCOPE_LOCAL
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_data.php at line 474</div>
 <h3 id="value">value</h3>
 
-```php
-public  mixed$value = null
-```
+public  mixed $value = null
 <div class="details">
 <p>template variable</p></div>
 

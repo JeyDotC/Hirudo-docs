@@ -1,3 +1,4 @@
+
 - - -
 
 **Symfony\Component\DependencyInjection\Compiler\CheckDefinitionValidityPass**
@@ -24,12 +25,13 @@ perform these checks themselves:</p>
 <dt>Author:</dt>
 <dd>Johannes M. Schmitt <schmittjoh@gmail.com></dd>
 </dl>
+
 - - -
 
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type"> void</td>
+<td class="type">  void</td>
 <td class="description"><p class="name"><a href="#process">process</a>(<a href="../../../../symfony/component/dependencyinjection/containerbuilder.html">ContainerBuilder</a> container)</p><p class="description">Processes the ContainerBuilder to validate the Definition.</p></td>
 </tr>
 </table>
@@ -38,10 +40,7 @@ perform these checks themselves:</p>
 <div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\CheckDefinitionValidityPass.php at line 38</div>
 <h3 id="process()">process</h3>
 
-```php
-public  void **process**(<a href="../../../../symfony/component/dependencyinjection/containerbuilder.html">ContainerBuilder</a> container)
-```
-<div class="details">
+public  void **process** (<a href="../../../../symfony/component/dependencyinjection/containerbuilder.html">ContainerBuilder</a> container)<div class="details">
 <p>Processes the ContainerBuilder to validate the Definition.</p><dl>
 <dt>Throws:</dt>
 <dd><a href="../../../../symfony/component/dependencyinjection/exception/runtimeexception.html">\RuntimeException</a> - When the Definition is invalid</dd>

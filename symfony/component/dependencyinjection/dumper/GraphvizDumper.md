@@ -1,3 +1,4 @@
+
 - - -
 
 **Symfony\Component\DependencyInjection\Dumper\GraphvizDumper**
@@ -22,6 +23,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/comp
 <dd>Fabien Potencier <fabien@symfony.com></dd>
 <dt>Api.</dt>
 </dl>
+
 - - -
 
 <table class="inherit">
@@ -31,7 +33,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/comp
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type"> string</td>
+<td class="type">  string</td>
 <td class="description"><p class="name"><a href="#dump">dump</a>(array options)</p><p class="description">Dumps the service container as a graphviz graph.
 </p></td>
 </tr>
@@ -45,10 +47,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/comp
 <div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Dumper\GraphvizDumper.php at line 51</div>
 <h3 id="dump()">dump</h3>
 
-```php
-public  string **dump**(array options)
-```
-<div class="details">
+public  string **dump** (array options)<div class="details">
 <p>Dumps the service container as a graphviz graph.</p><p>Available options:</p><p>* graph: The default options for the whole graph
 * node: The default options for nodes
 * edge: The default options for edges

@@ -1,3 +1,4 @@
+
 - - -
 
 **Symfony\Component\DependencyInjection\Dumper\PhpDumper**
@@ -23,6 +24,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/comp
 <dd>Johannes M. Schmitt <schmittjoh@gmail.com></dd>
 <dt>Api.</dt>
 </dl>
+
 - - -
 
 <table class="inherit">
@@ -40,13 +42,13 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/comp
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type"> string</td>
+<td class="type">  string</td>
 <td class="description"><p class="name"><a href="#dump">dump</a>(array options)</p><p class="description">Dumps the service container as a PHP class.
 </p></td>
 </tr>
 <tr>
-<td class="type"> string</td>
-<td class="description"><p class="name"><a href="#dumpParameter">dumpParameter</a>(string name)</p><p class="description">Dumps a parameter</p></td>
+<td class="type">  string</td>
+<td class="description"><p class="name"><a href="#dumpparameter">dumpParameter</a>(string name)</p><p class="description">Dumps a parameter</p></td>
 </tr>
 </table>
 
@@ -75,10 +77,7 @@ public  void **__construct**(<a href="../../../../symfony/component/dependencyin
 <div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Dumper\PhpDumper.php at line 65</div>
 <h3 id="dump()">dump</h3>
 
-```php
-public  string **dump**(array options)
-```
-<div class="details">
+public  string **dump** (array options)<div class="details">
 <p>Dumps the service container as a PHP class.</p><p>Available options:</p><p>* class:      The class name
 * base_class: The base class name</p><dl>
 <dt>Parameters:</dt>
@@ -94,10 +93,7 @@ public  string **dump**(array options)
 <div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Dumper\PhpDumper.php at line 1030</div>
 <h3 id="dumpParameter()">dumpParameter</h3>
 
-```php
-public  string **dumpParameter**(string name)
-```
-<div class="details">
+public  string **dumpParameter** (string name)<div class="details">
 <p>Dumps a parameter</p></div>
 
 - - -

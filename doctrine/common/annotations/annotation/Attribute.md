@@ -1,3 +1,4 @@
+
 - - -
 
 **Doctrine\Common\Annotations\Annotation\Attribute**
@@ -19,6 +20,7 @@ to check the attribute type during the parsing process.</p></div>
 <dd>Fabio B. Silva <fabio.bat.silva@gmail.com></dd>
 <dt>Annotation.</dt>
 </dl>
+
 - - -
 
 <table id="summary_field">
@@ -41,9 +43,7 @@ to check the attribute type during the parsing process.</p></div>
 <div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\Annotation\Attribute.php at line 36</div>
 <h3 id="name">name</h3>
 
-```php
-public  string$name
-```
+public  string $name
 <div class="details">
 <p></p></div>
 
@@ -52,9 +52,7 @@ public  string$name
 <div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\Annotation\Attribute.php at line 46</div>
 <h3 id="required">required</h3>
 
-```php
-public  boolean$required = false
-```
+public  boolean $required = false
 <div class="details">
 <p></p></div>
 
@@ -63,9 +61,7 @@ public  boolean$required = false
 <div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\Annotation\Attribute.php at line 41</div>
 <h3 id="type">type</h3>
 
-```php
-public  string$type
-```
+public  string $type
 <div class="details">
 <p></p></div>
 

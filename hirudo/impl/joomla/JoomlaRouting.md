@@ -1,3 +1,4 @@
+
 - - -
 
 **Hirudo\Impl\Joomla\JoomlaRouting**
@@ -22,22 +23,23 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/
 <dt>Author:</dt>
 <dd>Virtualidad</dd>
 </dl>
+
 - - -
 
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type"> string</td>
-<td class="description"><p class="name"><a href="#appAction">appAction</a>(string app, string module, str task, array params)</p><p class="description">Creates a route to the given task using the given application name
+<td class="type">  string</td>
+<td class="description"><p class="name"><a href="#appaction">appAction</a>(string app, string module, str task, array params)</p><p class="description">Creates a route to the given task using the given application name
 and the given module name.</p></td>
 </tr>
 <tr>
-<td class="type"> void</td>
+<td class="type">  void</td>
 <td class="description"><p class="name"><a href="#redirect">redirect</a>(string url)</p><p class="description">Makes an HTTP redirect to the given absolute URL.</p></td>
 </tr>
 <tr>
-<td class="type"> string</td>
-<td class="description"><p class="name"><a href="#getBaseURL">getBaseURL</a>()</p><p class="description">Gets the current base URL.</p></td>
+<td class="type">  string</td>
+<td class="description"><p class="name"><a href="#getbaseurl">getBaseURL</a>()</p><p class="description">Gets the current base URL.</p></td>
 </tr>
 </table>
 
@@ -49,10 +51,7 @@ and the given module name.</p></td>
 <div class="location">framework\hirudo\Hirudo\Impl\Joomla\JoomlaRouting.php at line 34</div>
 <h3 id="appAction()">appAction</h3>
 
-```php
-public  string **appAction**(string app, string module, str task, array params)
-```
-<div class="details">
+public  string **appAction** (string app, string module, str task, array params)<div class="details">
 <p>Creates a route to the given task using the given application name
 and the given module name.</p><dl>
 <dt>Parameters:</dt>
@@ -70,10 +69,7 @@ and the given module name.</p><dl>
 <div class="location">framework\hirudo\Hirudo\Impl\Joomla\JoomlaRouting.php at line 51</div>
 <h3 id="redirect()">redirect</h3>
 
-```php
-public  void **redirect**(string url)
-```
-<div class="details">
+public  void **redirect** (string url)<div class="details">
 <p>Makes an HTTP redirect to the given absolute URL.</p><dl>
 <dt>Parameters:</dt>
 <dd>url - The absolute URL to make the redirection.</dd>
@@ -85,10 +81,7 @@ public  void **redirect**(string url)
 <div class="location">framework\hirudo\Hirudo\Impl\Joomla\JoomlaRouting.php at line 56</div>
 <h3 id="getBaseURL()">getBaseURL</h3>
 
-```php
-public  string **getBaseURL**()
-```
-<div class="details">
+public  string **getBaseURL** ()<div class="details">
 <p>Gets the current base URL.</p><dl>
 <dt>Returns:</dt>
 <dd>The current base URL</dd>

@@ -1,3 +1,4 @@
+
 - - -
 
 **Symfony\Component\DependencyInjection\Compiler\Compiler**
@@ -18,6 +19,7 @@
 <dd>Johannes M. Schmitt <schmittjoh@gmail.com></dd>
 <dt>Api.</dt>
 </dl>
+
 - - -
 
 <table id="summary_constructor">
@@ -31,31 +33,31 @@
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type"> <a href="../../../../symfony/component/dependencyinjection/compiler/passconfig.html">PassConfig</a></td>
-<td class="description"><p class="name"><a href="#getPassConfig">getPassConfig</a>()</p><p class="description">Returns the PassConfig.</p></td>
+<td class="type">  <a href="../../../../symfony/component/dependencyinjection/compiler/passconfig.html">PassConfig</a></td>
+<td class="description"><p class="name"><a href="#getpassconfig">getPassConfig</a>()</p><p class="description">Returns the PassConfig.</p></td>
 </tr>
 <tr>
-<td class="type"> <a href="../../../../symfony/component/dependencyinjection/compiler/servicereferencegraph.html">ServiceReferenceGraph</a></td>
-<td class="description"><p class="name"><a href="#getServiceReferenceGraph">getServiceReferenceGraph</a>()</p><p class="description">Returns the ServiceReferenceGraph.</p></td>
+<td class="type">  <a href="../../../../symfony/component/dependencyinjection/compiler/servicereferencegraph.html">ServiceReferenceGraph</a></td>
+<td class="description"><p class="name"><a href="#getservicereferencegraph">getServiceReferenceGraph</a>()</p><p class="description">Returns the ServiceReferenceGraph.</p></td>
 </tr>
 <tr>
-<td class="type"> <a href="../../../../symfony/component/dependencyinjection/compiler/loggingformatter.html">LoggingFormatter</a></td>
-<td class="description"><p class="name"><a href="#getLoggingFormatter">getLoggingFormatter</a>()</p><p class="description">Returns the logging formatter which can be used by compilation passes.</p></td>
+<td class="type">  <a href="../../../../symfony/component/dependencyinjection/compiler/loggingformatter.html">LoggingFormatter</a></td>
+<td class="description"><p class="name"><a href="#getloggingformatter">getLoggingFormatter</a>()</p><p class="description">Returns the logging formatter which can be used by compilation passes.</p></td>
 </tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#addPass">addPass</a>(<a href="../../../../symfony/component/dependencyinjection/compiler/compilerpassinterface.html">CompilerPassInterface</a> pass, string type)</p><p class="description">Adds a pass to the PassConfig.</p></td>
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#addpass">addPass</a>(<a href="../../../../symfony/component/dependencyinjection/compiler/compilerpassinterface.html">CompilerPassInterface</a> pass, string type)</p><p class="description">Adds a pass to the PassConfig.</p></td>
 </tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#addLogMessage">addLogMessage</a>(string string)</p><p class="description">Adds a log message.</p></td>
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#addlogmessage">addLogMessage</a>(string string)</p><p class="description">Adds a log message.</p></td>
 </tr>
 <tr>
-<td class="type"> array</td>
-<td class="description"><p class="name"><a href="#getLog">getLog</a>()</p><p class="description">Returns the log.</p></td>
+<td class="type">  array</td>
+<td class="description"><p class="name"><a href="#getlog">getLog</a>()</p><p class="description">Returns the log.</p></td>
 </tr>
 <tr>
-<td class="type"> void</td>
+<td class="type">  void</td>
 <td class="description"><p class="name"><a href="#compile">compile</a>(<a href="../../../../symfony/component/dependencyinjection/containerbuilder.html">ContainerBuilder</a> container)</p><p class="description">Run the Compiler and process all Passes.</p></td>
 </tr>
 </table>
@@ -76,10 +78,7 @@ public  void **__construct**()
 <div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\Compiler.php at line 49</div>
 <h3 id="getPassConfig()">getPassConfig</h3>
 
-```php
-public  <a href="../../../../symfony/component/dependencyinjection/compiler/passconfig.html">PassConfig</a> **getPassConfig**()
-```
-<div class="details">
+public  <a href="../../../../symfony/component/dependencyinjection/compiler/passconfig.html">PassConfig</a> **getPassConfig** ()<div class="details">
 <p>Returns the PassConfig.</p><dl>
 <dt>Returns:</dt>
 <dd>The PassConfig instance</dd>
@@ -92,10 +91,7 @@ public  <a href="../../../../symfony/component/dependencyinjection/compiler/pass
 <div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\Compiler.php at line 61</div>
 <h3 id="getServiceReferenceGraph()">getServiceReferenceGraph</h3>
 
-```php
-public  <a href="../../../../symfony/component/dependencyinjection/compiler/servicereferencegraph.html">ServiceReferenceGraph</a> **getServiceReferenceGraph**()
-```
-<div class="details">
+public  <a href="../../../../symfony/component/dependencyinjection/compiler/servicereferencegraph.html">ServiceReferenceGraph</a> **getServiceReferenceGraph** ()<div class="details">
 <p>Returns the ServiceReferenceGraph.</p><dl>
 <dt>Returns:</dt>
 <dd>The ServiceReferenceGraph instance</dd>
@@ -108,10 +104,7 @@ public  <a href="../../../../symfony/component/dependencyinjection/compiler/serv
 <div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\Compiler.php at line 71</div>
 <h3 id="getLoggingFormatter()">getLoggingFormatter</h3>
 
-```php
-public  <a href="../../../../symfony/component/dependencyinjection/compiler/loggingformatter.html">LoggingFormatter</a> **getLoggingFormatter**()
-```
-<div class="details">
+public  <a href="../../../../symfony/component/dependencyinjection/compiler/loggingformatter.html">LoggingFormatter</a> **getLoggingFormatter** ()<div class="details">
 <p>Returns the logging formatter which can be used by compilation passes.</p></div>
 
 - - -
@@ -119,10 +112,7 @@ public  <a href="../../../../symfony/component/dependencyinjection/compiler/logg
 <div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\Compiler.php at line 84</div>
 <h3 id="addPass()">addPass</h3>
 
-```php
-public  void **addPass**(<a href="../../../../symfony/component/dependencyinjection/compiler/compilerpassinterface.html">CompilerPassInterface</a> pass, string type)
-```
-<div class="details">
+public  void **addPass** (<a href="../../../../symfony/component/dependencyinjection/compiler/compilerpassinterface.html">CompilerPassInterface</a> pass, string type)<div class="details">
 <p>Adds a pass to the PassConfig.</p><dl>
 <dt>Parameters:</dt>
 <dd>pass - A compiler pass</dd>
@@ -136,10 +126,7 @@ public  void **addPass**(<a href="../../../../symfony/component/dependencyinject
 <div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\Compiler.php at line 94</div>
 <h3 id="addLogMessage()">addLogMessage</h3>
 
-```php
-public  void **addLogMessage**(string string)
-```
-<div class="details">
+public  void **addLogMessage** (string string)<div class="details">
 <p>Adds a log message.</p><dl>
 <dt>Parameters:</dt>
 <dd>string - The log message</dd>
@@ -151,10 +138,7 @@ public  void **addLogMessage**(string string)
 <div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\Compiler.php at line 104</div>
 <h3 id="getLog()">getLog</h3>
 
-```php
-public  array **getLog**()
-```
-<div class="details">
+public  array **getLog** ()<div class="details">
 <p>Returns the log.</p><dl>
 <dt>Returns:</dt>
 <dd>Log array</dd>
@@ -166,10 +150,7 @@ public  array **getLog**()
 <div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\Compiler.php at line 116</div>
 <h3 id="compile()">compile</h3>
 
-```php
-public  void **compile**(<a href="../../../../symfony/component/dependencyinjection/containerbuilder.html">ContainerBuilder</a> container)
-```
-<div class="details">
+public  void **compile** (<a href="../../../../symfony/component/dependencyinjection/containerbuilder.html">ContainerBuilder</a> container)<div class="details">
 <p>Run the Compiler and process all Passes.</p><dl>
 <dt>Api.</dt>
 </dl>

@@ -1,3 +1,4 @@
+
 - - -
 
 **Smarty\Smarty_Internal_Function_Call_Handler**
@@ -17,12 +18,13 @@
 <dt>Subpackage:</dt>
 <dd>PluginsInternal</dd>
 </dl>
+
 - - -
 
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type">static  void</td>
+<td class="type"> static  void</td>
 <td class="description"><p class="name"><a href="#call">call</a>(string _name, <a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> _template, array _params, string _hash, bool _nocache)</p><p class="description">This function handles calls to template functions defined by {function}
 It does create a PHP function at the first call</p></td>
 </tr>
@@ -32,10 +34,7 @@ It does create a PHP function at the first call</p></td>
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_function_call_handler.php at line 28</div>
 <h3 id="call()">call</h3>
 
-```php
-public static  void **call**(string _name, <a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> _template, array _params, string _hash, bool _nocache)
-```
-<div class="details">
+public static  void **call** (string _name, <a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> _template, array _params, string _hash, bool _nocache)<div class="details">
 <p>This function handles calls to template functions defined by {function}
 It does create a PHP function at the first call</p><dl>
 <dt>Parameters:</dt>

@@ -1,3 +1,4 @@
+
 - - -
 
 **Symfony\Component\ClassLoader\ApcUniversalClassLoader**
@@ -40,6 +41,7 @@ found before giving up.</p></div>
 <dd>Kris Wallsmith <kris@symfony.com></dd>
 <dt>Api.</dt>
 </dl>
+
 - - -
 
 <table id="summary_constructor">
@@ -53,8 +55,8 @@ found before giving up.</p></div>
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type"> string|null</td>
-<td class="description"><p class="name"><a href="#findFile">findFile</a>(string class)</p><p class="description">Finds a file by class name while caching lookups to APC.</p></td>
+<td class="type">  string|null</td>
+<td class="description"><p class="name"><a href="#findfile">findFile</a>(string class)</p><p class="description">Finds a file by class name while caching lookups to APC.</p></td>
 </tr>
 </table>
 
@@ -83,10 +85,7 @@ public  void **__construct**(string prefix)
 <div class="location">framework\libs\symfony-components\Symfony\Component\ClassLoader\ApcUniversalClassLoader.php at line 88</div>
 <h3 id="findFile()">findFile</h3>
 
-```php
-public  string|null **findFile**(string class)
-```
-<div class="details">
+public  string|null **findFile** (string class)<div class="details">
 <p>Finds a file by class name while caching lookups to APC.</p><dl>
 <dt>Parameters:</dt>
 <dd>class - A class name to resolve to file</dd>

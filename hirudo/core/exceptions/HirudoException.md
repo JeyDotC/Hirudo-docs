@@ -1,3 +1,4 @@
+
 - - -
 
 **Hirudo\Core\Exceptions\HirudoException**
@@ -30,6 +31,7 @@ are wraped into an instance of this class as the 'previous' exception.</p></p></
 <dt>See Also:</dt>
 <dd>\Exception</dd>
 </dl>
+
 - - -
 
 <table id="summary_constructor">
@@ -43,16 +45,16 @@ are wraped into an instance of this class as the 'previous' exception.</p></p></
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type"> string</td>
-<td class="description"><p class="name"><a href="#getApp">getApp</a>()</p><p class="description">Gets the name of the application in which this exception were thrown.</p></td>
+<td class="type">  string</td>
+<td class="description"><p class="name"><a href="#getapp">getApp</a>()</p><p class="description">Gets the name of the application in which this exception were thrown.</p></td>
 </tr>
 <tr>
-<td class="type"> string</td>
-<td class="description"><p class="name"><a href="#getModule">getModule</a>()</p><p class="description">Gets the name of the module in which this exception were thrown.</p></td>
+<td class="type">  string</td>
+<td class="description"><p class="name"><a href="#getmodule">getModule</a>()</p><p class="description">Gets the name of the module in which this exception were thrown.</p></td>
 </tr>
 <tr>
-<td class="type"> string</td>
-<td class="description"><p class="name"><a href="#getTask">getTask</a>()</p><p class="description">Gets the task of the application in which this exception were thrown.</p></td>
+<td class="type">  string</td>
+<td class="description"><p class="name"><a href="#gettask">getTask</a>()</p><p class="description">Gets the task of the application in which this exception were thrown.</p></td>
 </tr>
 </table>
 
@@ -78,10 +80,7 @@ public  void **__construct**(<a href="../../../hirudo/core/context/modulecall.ht
 <div class="location">framework\hirudo\Hirudo\Core\Exceptions\HirudoException.php at line 70</div>
 <h3 id="getApp()">getApp</h3>
 
-```php
-public  string **getApp**()
-```
-<div class="details">
+public  string **getApp** ()<div class="details">
 <p>Gets the name of the application in which this exception were thrown.</p><dl>
 <dt>Returns:</dt>
 <dd>The application name.</dd>
@@ -93,10 +92,7 @@ public  string **getApp**()
 <div class="location">framework\hirudo\Hirudo\Core\Exceptions\HirudoException.php at line 79</div>
 <h3 id="getModule()">getModule</h3>
 
-```php
-public  string **getModule**()
-```
-<div class="details">
+public  string **getModule** ()<div class="details">
 <p>Gets the name of the module in which this exception were thrown.</p><dl>
 <dt>Returns:</dt>
 <dd>The module name.</dd>
@@ -108,10 +104,7 @@ public  string **getModule**()
 <div class="location">framework\hirudo\Hirudo\Core\Exceptions\HirudoException.php at line 87</div>
 <h3 id="getTask()">getTask</h3>
 
-```php
-public  string **getTask**()
-```
-<div class="details">
+public  string **getTask** ()<div class="details">
 <p>Gets the task of the application in which this exception were thrown.</p><dl>
 <dt>Returns:</dt>
 <dd>The task name.</dd>

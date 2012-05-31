@@ -1,3 +1,4 @@
+
 - - -
 
 **Symfony\Component\DependencyInjection\Alias**
@@ -16,6 +17,7 @@
 <dl>
 <dt>Api.</dt>
 </dl>
+
 - - -
 
 <table id="summary_constructor">
@@ -29,12 +31,12 @@
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type"> Boolean</td>
-<td class="description"><p class="name"><a href="#isPublic">isPublic</a>()</p><p class="description">Checks if this DI Alias should be public or not.</p></td>
+<td class="type">  Boolean</td>
+<td class="description"><p class="name"><a href="#ispublic">isPublic</a>()</p><p class="description">Checks if this DI Alias should be public or not.</p></td>
 </tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#setPublic">setPublic</a>(Boolean boolean)</p><p class="description">Sets if this Alias is public.</p></td>
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#setpublic">setPublic</a>(Boolean boolean)</p><p class="description">Sets if this Alias is public.</p></td>
 </tr>
 </table>
 
@@ -60,10 +62,7 @@ public  void **__construct**(string id, Boolean public)
 <div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Alias.php at line 43</div>
 <h3 id="isPublic()">isPublic</h3>
 
-```php
-public  Boolean **isPublic**()
-```
-<div class="details">
+public  Boolean **isPublic** ()<div class="details">
 <p>Checks if this DI Alias should be public or not.</p><dl>
 <dt>Api.</dt>
 </dl>
@@ -74,10 +73,7 @@ public  Boolean **isPublic**()
 <div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Alias.php at line 55</div>
 <h3 id="setPublic()">setPublic</h3>
 
-```php
-public  void **setPublic**(Boolean boolean)
-```
-<div class="details">
+public  void **setPublic** (Boolean boolean)<div class="details">
 <p>Sets if this Alias is public.</p><dl>
 <dt>Parameters:</dt>
 <dd>boolean - If this Alias should be public</dd>

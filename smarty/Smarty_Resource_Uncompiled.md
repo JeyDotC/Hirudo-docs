@@ -1,3 +1,4 @@
+
 - - -
 
 **Smarty\Smarty_Resource_Uncompiled**
@@ -26,6 +27,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 <dt>Subpackage:</dt>
 <dd>TemplateResources</dd>
 </dl>
+
 - - -
 
 <table class="inherit">
@@ -35,12 +37,12 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type">abstract  void</td>
-<td class="description"><p class="name"><a href="#renderUncompiled">renderUncompiled</a>(<a href="../smarty/smarty_template_source.html">Smarty_Template_Source</a> source, <a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> _template)</p><p class="description">Render and output the template (without using the compiler)</p></td>
+<td class="type"> abstract  void</td>
+<td class="description"><p class="name"><a href="#renderuncompiled">renderUncompiled</a>(<a href="../smarty/smarty_template_source.html">Smarty_Template_Source</a> source, <a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> _template)</p><p class="description">Render and output the template (without using the compiler)</p></td>
 </tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#populateCompiledFilepath">populateCompiledFilepath</a>(<a href="../smarty/smarty_template_compiled.html">Smarty_Template_Compiled</a> compiled, <a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> _template)</p><p class="description">populate compiled object with compiled filepath</p></td>
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#populatecompiledfilepath">populateCompiledFilepath</a>(<a href="../smarty/smarty_template_compiled.html">Smarty_Template_Compiled</a> compiled, <a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> _template)</p><p class="description">populate compiled object with compiled filepath</p></td>
 </tr>
 </table>
 
@@ -52,10 +54,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 <div class="location">framework\libs\smarty\sysplugins\smarty_resource_uncompiled.php at line 27</div>
 <h3 id="renderUncompiled()">renderUncompiled</h3>
 
-```php
-public abstract  void **renderUncompiled**(<a href="../smarty/smarty_template_source.html">Smarty_Template_Source</a> source, <a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> _template)
-```
-<div class="details">
+public abstract  void **renderUncompiled** (<a href="../smarty/smarty_template_source.html">Smarty_Template_Source</a> source, <a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> _template)<div class="details">
 <p>Render and output the template (without using the compiler)</p><dl>
 <dt>Parameters:</dt>
 <dd>source - source object</dd>
@@ -70,10 +69,7 @@ public abstract  void **renderUncompiled**(<a href="../smarty/smarty_template_so
 <div class="location">framework\libs\smarty\sysplugins\smarty_resource_uncompiled.php at line 35</div>
 <h3 id="populateCompiledFilepath()">populateCompiledFilepath</h3>
 
-```php
-public  void **populateCompiledFilepath**(<a href="../smarty/smarty_template_compiled.html">Smarty_Template_Compiled</a> compiled, <a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> _template)
-```
-<div class="details">
+public  void **populateCompiledFilepath** (<a href="../smarty/smarty_template_compiled.html">Smarty_Template_Compiled</a> compiled, <a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> _template)<div class="details">
 <p>populate compiled object with compiled filepath</p><dl>
 <dt>Parameters:</dt>
 <dd>compiled - compiled object</dd>

@@ -1,3 +1,4 @@
+
 - - -
 
 **Hirudo\Core\DependencyInjection\AnnotationsBasedDependenciesManager**
@@ -23,6 +24,7 @@ to determine dependencies and load services.</p></div>
 <dd>JeyDotC</dd>
 <dt>Api.</dt>
 </dl>
+
 - - -
 
 <table class="inherit">
@@ -40,37 +42,37 @@ to determine dependencies and load services.</p></div>
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#addServices">addServices</a>(array implementationClasses)</p><p class="description">This method takes an array of fully qualified class names and registers them
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#addservices">addServices</a>(array implementationClasses)</p><p class="description">This method takes an array of fully qualified class names and registers them
 in the container to inject them later. </p></td>
 </tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#resolveDependencies">resolveDependencies</a>(mixed object)</p><p class="description">Resolves all dependencies in the given object. </p></td>
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#resolvedependencies">resolveDependencies</a>(mixed object)</p><p class="description">Resolves all dependencies in the given object. </p></td>
 </tr>
 <tr>
-<td class="type"> array<mixed></td>
-<td class="description"><p class="name"><a href="#getClassMetadata">getClassMetadata</a>(\ReflectionClass object)</p><p class="description">Gets the annotations associated to thie given class.</p></td>
+<td class="type">  array<mixed></td>
+<td class="description"><p class="name"><a href="#getclassmetadata">getClassMetadata</a>(\ReflectionClass object)</p><p class="description">Gets the annotations associated to thie given class.</p></td>
 </tr>
 <tr>
-<td class="type"> array<mixed></td>
-<td class="description"><p class="name"><a href="#getMethodMetadata">getMethodMetadata</a>(\ReflectionMethod method)</p><p class="description">Gets the annotations associated to thie given method.</p></td>
+<td class="type">  array<mixed></td>
+<td class="description"><p class="name"><a href="#getmethodmetadata">getMethodMetadata</a>(\ReflectionMethod method)</p><p class="description">Gets the annotations associated to thie given method.</p></td>
 </tr>
 <tr>
-<td class="type"> array<mixed></td>
-<td class="description"><p class="name"><a href="#getPropertyMetadata">getPropertyMetadata</a>(\ReflectionProperty property)</p><p class="description">Gets the annotations associated to thie given property.</p></td>
+<td class="type">  array<mixed></td>
+<td class="description"><p class="name"><a href="#getpropertymetadata">getPropertyMetadata</a>(\ReflectionProperty property)</p><p class="description">Gets the annotations associated to thie given property.</p></td>
 </tr>
 <tr>
-<td class="type"> mixed</td>
-<td class="description"><p class="name"><a href="#getClassMetadataById">getClassMetadataById</a>(\ReflectionClass object, string metaDataId)</p><p class="description">Gets an annotation associated to thie given class by it's fully qualified class name.</p></td>
+<td class="type">  mixed</td>
+<td class="description"><p class="name"><a href="#getclassmetadatabyid">getClassMetadataById</a>(\ReflectionClass object, string metaDataId)</p><p class="description">Gets an annotation associated to thie given class by it's fully qualified class name.</p></td>
 </tr>
 <tr>
-<td class="type"> mixed</td>
-<td class="description"><p class="name"><a href="#getMethodMetadataById">getMethodMetadataById</a>(\ReflectionMethod method, string metaDataId)</p><p class="description">Gets an annotation associated to thie given method by it's fully qualified class name.</p></td>
+<td class="type">  mixed</td>
+<td class="description"><p class="name"><a href="#getmethodmetadatabyid">getMethodMetadataById</a>(\ReflectionMethod method, string metaDataId)</p><p class="description">Gets an annotation associated to thie given method by it's fully qualified class name.</p></td>
 </tr>
 <tr>
-<td class="type"> mixed</td>
-<td class="description"><p class="name"><a href="#getPropertyMetadataById">getPropertyMetadataById</a>(\ReflectionProperty property, string metaDataId)</p><p class="description">Gets an annotation associated to thie given property by it's fully qualified class name.</p></td>
+<td class="type">  mixed</td>
+<td class="description"><p class="name"><a href="#getpropertymetadatabyid">getPropertyMetadataById</a>(\ReflectionProperty property, string metaDataId)</p><p class="description">Gets an annotation associated to thie given property by it's fully qualified class name.</p></td>
 </tr>
 </table>
 
@@ -94,10 +96,7 @@ public  void **__construct**()
 <div class="location">framework\hirudo\Hirudo\Core\DependencyInjection\AnnotationsBasedDependenciesManager.php at line 63</div>
 <h3 id="addServices()">addServices</h3>
 
-```php
-public  void **addServices**(array implementationClasses)
-```
-<div class="details">
+public  void **addServices** (array implementationClasses)<div class="details">
 <p>This method takes an array of fully qualified class names and registers them
 in the container to inject them later. Such classes must be annotated with
 the @Export annotation in order to be injected.</p><dl>
@@ -113,10 +112,7 @@ the @Export annotation in order to be injected.</p><dl>
 <div class="location">framework\hirudo\Hirudo\Core\DependencyInjection\AnnotationsBasedDependenciesManager.php at line 86</div>
 <h3 id="resolveDependencies()">resolveDependencies</h3>
 
-```php
-public  void **resolveDependencies**(mixed object)
-```
-<div class="details">
+public  void **resolveDependencies** (mixed object)<div class="details">
 <p>Resolves all dependencies in the given object. A dependency is announced
 by using the @Import annotation on a public setter method or a property
 regardless it's access level.</p><dl>
@@ -131,10 +127,7 @@ regardless it's access level.</p><dl>
 <div class="location">framework\hirudo\Hirudo\Core\DependencyInjection\AnnotationsBasedDependenciesManager.php at line 166</div>
 <h3 id="getClassMetadata()">getClassMetadata</h3>
 
-```php
-public  array<mixed> **getClassMetadata**(\ReflectionClass object)
-```
-<div class="details">
+public  array<mixed> **getClassMetadata** (\ReflectionClass object)<div class="details">
 <p>Gets the annotations associated to thie given class.</p></div>
 
 - - -
@@ -142,10 +135,7 @@ public  array<mixed> **getClassMetadata**(\ReflectionClass object)
 <div class="location">framework\hirudo\Hirudo\Core\DependencyInjection\AnnotationsBasedDependenciesManager.php at line 176</div>
 <h3 id="getMethodMetadata()">getMethodMetadata</h3>
 
-```php
-public  array<mixed> **getMethodMetadata**(\ReflectionMethod method)
-```
-<div class="details">
+public  array<mixed> **getMethodMetadata** (\ReflectionMethod method)<div class="details">
 <p>Gets the annotations associated to thie given method.</p></div>
 
 - - -
@@ -153,10 +143,7 @@ public  array<mixed> **getMethodMetadata**(\ReflectionMethod method)
 <div class="location">framework\hirudo\Hirudo\Core\DependencyInjection\AnnotationsBasedDependenciesManager.php at line 186</div>
 <h3 id="getPropertyMetadata()">getPropertyMetadata</h3>
 
-```php
-public  array<mixed> **getPropertyMetadata**(\ReflectionProperty property)
-```
-<div class="details">
+public  array<mixed> **getPropertyMetadata** (\ReflectionProperty property)<div class="details">
 <p>Gets the annotations associated to thie given property.</p></div>
 
 - - -
@@ -164,10 +151,7 @@ public  array<mixed> **getPropertyMetadata**(\ReflectionProperty property)
 <div class="location">framework\hirudo\Hirudo\Core\DependencyInjection\AnnotationsBasedDependenciesManager.php at line 197</div>
 <h3 id="getClassMetadataById()">getClassMetadataById</h3>
 
-```php
-public  mixed **getClassMetadataById**(\ReflectionClass object, string metaDataId)
-```
-<div class="details">
+public  mixed **getClassMetadataById** (\ReflectionClass object, string metaDataId)<div class="details">
 <p>Gets an annotation associated to thie given class by it's fully qualified class name.</p><dl>
 <dt>Parameters:</dt>
 <dd></dd>
@@ -182,10 +166,7 @@ public  mixed **getClassMetadataById**(\ReflectionClass object, string metaDataI
 <div class="location">framework\hirudo\Hirudo\Core\DependencyInjection\AnnotationsBasedDependenciesManager.php at line 208</div>
 <h3 id="getMethodMetadataById()">getMethodMetadataById</h3>
 
-```php
-public  mixed **getMethodMetadataById**(\ReflectionMethod method, string metaDataId)
-```
-<div class="details">
+public  mixed **getMethodMetadataById** (\ReflectionMethod method, string metaDataId)<div class="details">
 <p>Gets an annotation associated to thie given method by it's fully qualified class name.</p><dl>
 <dt>Parameters:</dt>
 <dd></dd>
@@ -200,10 +181,7 @@ public  mixed **getMethodMetadataById**(\ReflectionMethod method, string metaDat
 <div class="location">framework\hirudo\Hirudo\Core\DependencyInjection\AnnotationsBasedDependenciesManager.php at line 219</div>
 <h3 id="getPropertyMetadataById()">getPropertyMetadataById</h3>
 
-```php
-public  mixed **getPropertyMetadataById**(\ReflectionProperty property, string metaDataId)
-```
-<div class="details">
+public  mixed **getPropertyMetadataById** (\ReflectionProperty property, string metaDataId)<div class="details">
 <p>Gets an annotation associated to thie given property by it's fully qualified class name.</p><dl>
 <dt>Parameters:</dt>
 <dd></dd>

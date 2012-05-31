@@ -1,3 +1,4 @@
+
 - - -
 
 **Doctrine\Common\Annotations\Annotation\Attributes**
@@ -19,6 +20,7 @@ to check the types of all declared attributes during the parsing process.</p></d
 <dd>Fabio B. Silva <fabio.bat.silva@gmail.com></dd>
 <dt>Annotation.</dt>
 </dl>
+
 - - -
 
 <table id="summary_field">
@@ -33,9 +35,7 @@ to check the types of all declared attributes during the parsing process.</p></d
 <div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\Annotation\Attributes.php at line 36</div>
 <h3 id="value">value</h3>
 
-```php
-public  array<Doctrine\Common\Annotations\Annotation\Attribute>$value
-```
+public  array<Doctrine\Common\Annotations\Annotation\Attribute> $value
 <div class="details">
 <p></p></div>
 

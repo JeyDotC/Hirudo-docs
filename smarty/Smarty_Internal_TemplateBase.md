@@ -1,3 +1,4 @@
+
 - - -
 
 **Smarty\Smarty_Internal_TemplateBase**
@@ -26,6 +27,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 <dt>Subpackage:</dt>
 <dd>Template</dd>
 </dl>
+
 - - -
 
 <table class="inherit">
@@ -35,88 +37,88 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type"> string</td>
+<td class="type">  string</td>
 <td class="description"><p class="name"><a href="#fetch">fetch</a>(string template, mixed cache_id, mixed compile_id, object parent, bool display, bool merge_tpl_vars, bool no_output_filter)</p><p class="description">fetches a rendered Smarty template</p></td>
 </tr>
 <tr>
-<td class="type"> void</td>
+<td class="type">  void</td>
 <td class="description"><p class="name"><a href="#display">display</a>(string template, mixed cache_id, mixed compile_id, object parent)</p><p class="description">displays a Smarty template</p></td>
 </tr>
 <tr>
-<td class="type"> boolean</td>
-<td class="description"><p class="name"><a href="#isCached">isCached</a>(string|object template, mixed cache_id, mixed compile_id, object parent)</p><p class="description">test if cache is valid</p></td>
+<td class="type">  boolean</td>
+<td class="description"><p class="name"><a href="#iscached">isCached</a>(string|object template, mixed cache_id, mixed compile_id, object parent)</p><p class="description">test if cache is valid</p></td>
 </tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#createData">createData</a>(object parent)</p><p class="description">creates a data object</p></td>
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#createdata">createData</a>(object parent)</p><p class="description">creates a data object</p></td>
 </tr>
 <tr>
-<td class="type"> Smarty_Internal_Templatebase</td>
-<td class="description"><p class="name"><a href="#registerPlugin">registerPlugin</a>(string type, string tag, callback callback, boolean cacheable, array cache_attr)</p><p class="description">Registers plugin to be used in templates</p></td>
+<td class="type">  Smarty_Internal_Templatebase</td>
+<td class="description"><p class="name"><a href="#registerplugin">registerPlugin</a>(string type, string tag, callback callback, boolean cacheable, array cache_attr)</p><p class="description">Registers plugin to be used in templates</p></td>
 </tr>
 <tr>
-<td class="type"> Smarty_Internal_Templatebase</td>
-<td class="description"><p class="name"><a href="#unregisterPlugin">unregisterPlugin</a>(string type, string tag)</p><p class="description">Unregister Plugin</p></td>
+<td class="type">  Smarty_Internal_Templatebase</td>
+<td class="description"><p class="name"><a href="#unregisterplugin">unregisterPlugin</a>(string type, string tag)</p><p class="description">Unregister Plugin</p></td>
 </tr>
 <tr>
-<td class="type"> Smarty_Internal_Templatebase</td>
-<td class="description"><p class="name"><a href="#registerResource">registerResource</a>(string type, Smarty_Resource|array callback)</p><p class="description">Registers a resource to fetch a template</p></td>
+<td class="type">  Smarty_Internal_Templatebase</td>
+<td class="description"><p class="name"><a href="#registerresource">registerResource</a>(string type, Smarty_Resource|array callback)</p><p class="description">Registers a resource to fetch a template</p></td>
 </tr>
 <tr>
-<td class="type"> Smarty_Internal_Templatebase</td>
-<td class="description"><p class="name"><a href="#unregisterResource">unregisterResource</a>(string type)</p><p class="description">Unregisters a resource</p></td>
+<td class="type">  Smarty_Internal_Templatebase</td>
+<td class="description"><p class="name"><a href="#unregisterresource">unregisterResource</a>(string type)</p><p class="description">Unregisters a resource</p></td>
 </tr>
 <tr>
-<td class="type"> Smarty_Internal_Templatebase</td>
-<td class="description"><p class="name"><a href="#registerCacheResource">registerCacheResource</a>(string type, <a href="../smarty/smarty_cacheresource.html">Smarty_CacheResource</a> callback)</p><p class="description">Registers a cache resource to cache a template's output</p></td>
+<td class="type">  Smarty_Internal_Templatebase</td>
+<td class="description"><p class="name"><a href="#registercacheresource">registerCacheResource</a>(string type, <a href="../smarty/smarty_cacheresource.html">Smarty_CacheResource</a> callback)</p><p class="description">Registers a cache resource to cache a template's output</p></td>
 </tr>
 <tr>
-<td class="type"> Smarty_Internal_Templatebase</td>
-<td class="description"><p class="name"><a href="#unregisterCacheResource">unregisterCacheResource</a>(string type)</p><p class="description">Unregisters a cache resource</p></td>
+<td class="type">  Smarty_Internal_Templatebase</td>
+<td class="description"><p class="name"><a href="#unregistercacheresource">unregisterCacheResource</a>(string type)</p><p class="description">Unregisters a cache resource</p></td>
 </tr>
 <tr>
-<td class="type"> Smarty_Internal_Templatebase</td>
-<td class="description"><p class="name"><a href="#registerObject">registerObject</a>(string object, object object_impl, array allowed, boolean smarty_args, array block_methods, array block_functs, mixed object_name)</p><p class="description">Registers object to be used in templates</p></td>
+<td class="type">  Smarty_Internal_Templatebase</td>
+<td class="description"><p class="name"><a href="#registerobject">registerObject</a>(string object, object object_impl, array allowed, boolean smarty_args, array block_methods, array block_functs, mixed object_name)</p><p class="description">Registers object to be used in templates</p></td>
 </tr>
 <tr>
-<td class="type"> object</td>
-<td class="description"><p class="name"><a href="#getRegisteredObject">getRegisteredObject</a>(string name)</p><p class="description">return a reference to a registered object</p></td>
+<td class="type">  object</td>
+<td class="description"><p class="name"><a href="#getregisteredobject">getRegisteredObject</a>(string name)</p><p class="description">return a reference to a registered object</p></td>
 </tr>
 <tr>
-<td class="type"> Smarty_Internal_Templatebase</td>
-<td class="description"><p class="name"><a href="#unregisterObject">unregisterObject</a>(string name)</p><p class="description">unregister an object</p></td>
+<td class="type">  Smarty_Internal_Templatebase</td>
+<td class="description"><p class="name"><a href="#unregisterobject">unregisterObject</a>(string name)</p><p class="description">unregister an object</p></td>
 </tr>
 <tr>
-<td class="type"> Smarty_Internal_Templatebase</td>
-<td class="description"><p class="name"><a href="#registerClass">registerClass</a>(string class, string class_impl, mixed class_name)</p><p class="description">Registers static classes to be used in templates</p></td>
+<td class="type">  Smarty_Internal_Templatebase</td>
+<td class="description"><p class="name"><a href="#registerclass">registerClass</a>(string class, string class_impl, mixed class_name)</p><p class="description">Registers static classes to be used in templates</p></td>
 </tr>
 <tr>
-<td class="type"> Smarty_Internal_Templatebase</td>
-<td class="description"><p class="name"><a href="#registerDefaultPluginHandler">registerDefaultPluginHandler</a>(callable callback)</p><p class="description">Registers a default plugin handler</p></td>
+<td class="type">  Smarty_Internal_Templatebase</td>
+<td class="description"><p class="name"><a href="#registerdefaultpluginhandler">registerDefaultPluginHandler</a>(callable callback)</p><p class="description">Registers a default plugin handler</p></td>
 </tr>
 <tr>
-<td class="type"> Smarty_Internal_Templatebase</td>
-<td class="description"><p class="name"><a href="#registerDefaultTemplateHandler">registerDefaultTemplateHandler</a>(callable callback)</p><p class="description">Registers a default template handler</p></td>
+<td class="type">  Smarty_Internal_Templatebase</td>
+<td class="description"><p class="name"><a href="#registerdefaulttemplatehandler">registerDefaultTemplateHandler</a>(callable callback)</p><p class="description">Registers a default template handler</p></td>
 </tr>
 <tr>
-<td class="type"> Smarty_Internal_Templatebase</td>
-<td class="description"><p class="name"><a href="#registerDefaultConfigHandler">registerDefaultConfigHandler</a>(callable callback)</p><p class="description">Registers a default template handler</p></td>
+<td class="type">  Smarty_Internal_Templatebase</td>
+<td class="description"><p class="name"><a href="#registerdefaultconfighandler">registerDefaultConfigHandler</a>(callable callback)</p><p class="description">Registers a default template handler</p></td>
 </tr>
 <tr>
-<td class="type"> Smarty_Internal_Templatebase</td>
-<td class="description"><p class="name"><a href="#registerFilter">registerFilter</a>(string type, callback callback)</p><p class="description">Registers a filter function</p></td>
+<td class="type">  Smarty_Internal_Templatebase</td>
+<td class="description"><p class="name"><a href="#registerfilter">registerFilter</a>(string type, callback callback)</p><p class="description">Registers a filter function</p></td>
 </tr>
 <tr>
-<td class="type"> Smarty_Internal_Templatebase</td>
-<td class="description"><p class="name"><a href="#unregisterFilter">unregisterFilter</a>(string type, callback callback)</p><p class="description">Unregisters a filter function</p></td>
+<td class="type">  Smarty_Internal_Templatebase</td>
+<td class="description"><p class="name"><a href="#unregisterfilter">unregisterFilter</a>(string type, callback callback)</p><p class="description">Unregisters a filter function</p></td>
 </tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#loadFilter">loadFilter</a>(string type, string name)</p><p class="description">load a filter of specified type and name</p></td>
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#loadfilter">loadFilter</a>(string type, string name)</p><p class="description">load a filter of specified type and name</p></td>
 </tr>
 <tr>
-<td class="type"> Smarty_Internal_Templatebase</td>
-<td class="description"><p class="name"><a href="#unloadFilter">unloadFilter</a>(string type, string name)</p><p class="description">unload a filter of specified type and name</p></td>
+<td class="type">  Smarty_Internal_Templatebase</td>
+<td class="description"><p class="name"><a href="#unloadfilter">unloadFilter</a>(string type, string name)</p><p class="description">unload a filter of specified type and name</p></td>
 </tr>
 </table>
 
@@ -128,10 +130,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 32</div>
 <h3 id="fetch()">fetch</h3>
 
-```php
-public  string **fetch**(string template, mixed cache_id, mixed compile_id, object parent, bool display, bool merge_tpl_vars, bool no_output_filter)
-```
-<div class="details">
+public  string **fetch** (string template, mixed cache_id, mixed compile_id, object parent, bool display, bool merge_tpl_vars, bool no_output_filter)<div class="details">
 <p>fetches a rendered Smarty template</p><dl>
 <dt>Parameters:</dt>
 <dd>template - the resource handle of the template file or template object</dd>
@@ -151,10 +150,7 @@ public  string **fetch**(string template, mixed cache_id, mixed compile_id, obje
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 371</div>
 <h3 id="display()">display</h3>
 
-```php
-public  void **display**(string template, mixed cache_id, mixed compile_id, object parent)
-```
-<div class="details">
+public  void **display** (string template, mixed cache_id, mixed compile_id, object parent)<div class="details">
 <p>displays a Smarty template</p><dl>
 <dt>Parameters:</dt>
 <dd>template - the resource handle of the template file or template object</dd>
@@ -169,10 +165,7 @@ public  void **display**(string template, mixed cache_id, mixed compile_id, obje
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 386</div>
 <h3 id="isCached()">isCached</h3>
 
-```php
-public  boolean **isCached**(string|object template, mixed cache_id, mixed compile_id, object parent)
-```
-<div class="details">
+public  boolean **isCached** (string|object template, mixed cache_id, mixed compile_id, object parent)<div class="details">
 <p>test if cache is valid</p><dl>
 <dt>Parameters:</dt>
 <dd>template - the resource handle of the template file or template object</dd>
@@ -189,10 +182,7 @@ public  boolean **isCached**(string|object template, mixed cache_id, mixed compi
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 407</div>
 <h3 id="createData()">createData</h3>
 
-```php
-public  void **createData**(object parent)
-```
-<div class="details">
+public  void **createData** (object parent)<div class="details">
 <p>creates a data object</p><dl>
 <dt>Parameters:</dt>
 <dd>parent - next higher level of Smarty variables</dd>
@@ -206,10 +196,7 @@ public  void **createData**(object parent)
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 423</div>
 <h3 id="registerPlugin()">registerPlugin</h3>
 
-```php
-public  Smarty_Internal_Templatebase **registerPlugin**(string type, string tag, callback callback, boolean cacheable, array cache_attr)
-```
-<div class="details">
+public  Smarty_Internal_Templatebase **registerPlugin** (string type, string tag, callback callback, boolean cacheable, array cache_attr)<div class="details">
 <p>Registers plugin to be used in templates</p><dl>
 <dt>Parameters:</dt>
 <dd>type - plugin type</dd>
@@ -229,10 +216,7 @@ public  Smarty_Internal_Templatebase **registerPlugin**(string type, string tag,
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 443</div>
 <h3 id="unregisterPlugin()">unregisterPlugin</h3>
 
-```php
-public  Smarty_Internal_Templatebase **unregisterPlugin**(string type, string tag)
-```
-<div class="details">
+public  Smarty_Internal_Templatebase **unregisterPlugin** (string type, string tag)<div class="details">
 <p>Unregister Plugin</p><dl>
 <dt>Parameters:</dt>
 <dd>type - of plugin</dd>
@@ -247,10 +231,7 @@ public  Smarty_Internal_Templatebase **unregisterPlugin**(string type, string ta
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 459</div>
 <h3 id="registerResource()">registerResource</h3>
 
-```php
-public  Smarty_Internal_Templatebase **registerResource**(string type, Smarty_Resource|array callback)
-```
-<div class="details">
+public  Smarty_Internal_Templatebase **registerResource** (string type, Smarty_Resource|array callback)<div class="details">
 <p>Registers a resource to fetch a template</p><dl>
 <dt>Parameters:</dt>
 <dd>type - name of resource type</dd>
@@ -265,10 +246,7 @@ public  Smarty_Internal_Templatebase **registerResource**(string type, Smarty_Re
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 471</div>
 <h3 id="unregisterResource()">unregisterResource</h3>
 
-```php
-public  Smarty_Internal_Templatebase **unregisterResource**(string type)
-```
-<div class="details">
+public  Smarty_Internal_Templatebase **unregisterResource** (string type)<div class="details">
 <p>Unregisters a resource</p><dl>
 <dt>Parameters:</dt>
 <dd>type - name of resource type</dd>
@@ -282,10 +260,7 @@ public  Smarty_Internal_Templatebase **unregisterResource**(string type)
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 487</div>
 <h3 id="registerCacheResource()">registerCacheResource</h3>
 
-```php
-public  Smarty_Internal_Templatebase **registerCacheResource**(string type, <a href="../smarty/smarty_cacheresource.html">Smarty_CacheResource</a> callback)
-```
-<div class="details">
+public  Smarty_Internal_Templatebase **registerCacheResource** (string type, <a href="../smarty/smarty_cacheresource.html">Smarty_CacheResource</a> callback)<div class="details">
 <p>Registers a cache resource to cache a template's output</p><dl>
 <dt>Parameters:</dt>
 <dd>type - name of cache resource type</dd>
@@ -300,10 +275,7 @@ public  Smarty_Internal_Templatebase **registerCacheResource**(string type, <a h
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 499</div>
 <h3 id="unregisterCacheResource()">unregisterCacheResource</h3>
 
-```php
-public  Smarty_Internal_Templatebase **unregisterCacheResource**(string type)
-```
-<div class="details">
+public  Smarty_Internal_Templatebase **unregisterCacheResource** (string type)<div class="details">
 <p>Unregisters a cache resource</p><dl>
 <dt>Parameters:</dt>
 <dd>type - name of cache resource type</dd>
@@ -317,10 +289,7 @@ public  Smarty_Internal_Templatebase **unregisterCacheResource**(string type)
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 520</div>
 <h3 id="registerObject()">registerObject</h3>
 
-```php
-public  Smarty_Internal_Templatebase **registerObject**(string object, object object_impl, array allowed, boolean smarty_args, array block_methods, array block_functs, mixed object_name)
-```
-<div class="details">
+public  Smarty_Internal_Templatebase **registerObject** (string object, object object_impl, array allowed, boolean smarty_args, array block_methods, array block_functs, mixed object_name)<div class="details">
 <p>Registers object to be used in templates</p><dl>
 <dt>Parameters:</dt>
 <dd>object - name of template object</dd>
@@ -341,10 +310,7 @@ public  Smarty_Internal_Templatebase **registerObject**(string object, object ob
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 551</div>
 <h3 id="getRegisteredObject()">getRegisteredObject</h3>
 
-```php
-public  object **getRegisteredObject**(string name)
-```
-<div class="details">
+public  object **getRegisteredObject** (string name)<div class="details">
 <p>return a reference to a registered object</p><dl>
 <dt>Parameters:</dt>
 <dd>name - object name</dd>
@@ -358,10 +324,7 @@ public  object **getRegisteredObject**(string name)
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 568</div>
 <h3 id="unregisterObject()">unregisterObject</h3>
 
-```php
-public  Smarty_Internal_Templatebase **unregisterObject**(string name)
-```
-<div class="details">
+public  Smarty_Internal_Templatebase **unregisterObject** (string name)<div class="details">
 <p>unregister an object</p><dl>
 <dt>Parameters:</dt>
 <dd>name - object name</dd>
@@ -375,10 +338,7 @@ public  Smarty_Internal_Templatebase **unregisterObject**(string name)
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 585</div>
 <h3 id="registerClass()">registerClass</h3>
 
-```php
-public  Smarty_Internal_Templatebase **registerClass**(string class, string class_impl, mixed class_name)
-```
-<div class="details">
+public  Smarty_Internal_Templatebase **registerClass** (string class, string class_impl, mixed class_name)<div class="details">
 <p>Registers static classes to be used in templates</p><dl>
 <dt>Parameters:</dt>
 <dd>class - name of template class</dd>
@@ -395,10 +355,7 @@ public  Smarty_Internal_Templatebase **registerClass**(string class, string clas
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 603</div>
 <h3 id="registerDefaultPluginHandler()">registerDefaultPluginHandler</h3>
 
-```php
-public  Smarty_Internal_Templatebase **registerDefaultPluginHandler**(callable callback)
-```
-<div class="details">
+public  Smarty_Internal_Templatebase **registerDefaultPluginHandler** (callable callback)<div class="details">
 <p>Registers a default plugin handler</p><dl>
 <dt>Parameters:</dt>
 <dd>callback - class/method name</dd>
@@ -414,10 +371,7 @@ public  Smarty_Internal_Templatebase **registerDefaultPluginHandler**(callable c
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 621</div>
 <h3 id="registerDefaultTemplateHandler()">registerDefaultTemplateHandler</h3>
 
-```php
-public  Smarty_Internal_Templatebase **registerDefaultTemplateHandler**(callable callback)
-```
-<div class="details">
+public  Smarty_Internal_Templatebase **registerDefaultTemplateHandler** (callable callback)<div class="details">
 <p>Registers a default template handler</p><dl>
 <dt>Parameters:</dt>
 <dd>callback - class/method name</dd>
@@ -433,10 +387,7 @@ public  Smarty_Internal_Templatebase **registerDefaultTemplateHandler**(callable
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 639</div>
 <h3 id="registerDefaultConfigHandler()">registerDefaultConfigHandler</h3>
 
-```php
-public  Smarty_Internal_Templatebase **registerDefaultConfigHandler**(callable callback)
-```
-<div class="details">
+public  Smarty_Internal_Templatebase **registerDefaultConfigHandler** (callable callback)<div class="details">
 <p>Registers a default template handler</p><dl>
 <dt>Parameters:</dt>
 <dd>callback - class/method name</dd>
@@ -452,10 +403,7 @@ public  Smarty_Internal_Templatebase **registerDefaultConfigHandler**(callable c
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 657</div>
 <h3 id="registerFilter()">registerFilter</h3>
 
-```php
-public  Smarty_Internal_Templatebase **registerFilter**(string type, callback callback)
-```
-<div class="details">
+public  Smarty_Internal_Templatebase **registerFilter** (string type, callback callback)<div class="details">
 <p>Registers a filter function</p><dl>
 <dt>Parameters:</dt>
 <dd>type - filter type</dd>
@@ -470,10 +418,7 @@ public  Smarty_Internal_Templatebase **registerFilter**(string type, callback ca
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 670</div>
 <h3 id="unregisterFilter()">unregisterFilter</h3>
 
-```php
-public  Smarty_Internal_Templatebase **unregisterFilter**(string type, callback callback)
-```
-<div class="details">
+public  Smarty_Internal_Templatebase **unregisterFilter** (string type, callback callback)<div class="details">
 <p>Unregisters a filter function</p><dl>
 <dt>Parameters:</dt>
 <dd>type - filter type</dd>
@@ -488,10 +433,7 @@ public  Smarty_Internal_Templatebase **unregisterFilter**(string type, callback 
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 704</div>
 <h3 id="loadFilter()">loadFilter</h3>
 
-```php
-public  void **loadFilter**(string type, string name)
-```
-<div class="details">
+public  void **loadFilter** (string type, string name)<div class="details">
 <p>load a filter of specified type and name</p><dl>
 <dt>Parameters:</dt>
 <dd>type - filter type</dd>
@@ -506,10 +448,7 @@ public  void **loadFilter**(string type, string name)
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 727</div>
 <h3 id="unloadFilter()">unloadFilter</h3>
 
-```php
-public  Smarty_Internal_Templatebase **unloadFilter**(string type, string name)
-```
-<div class="details">
+public  Smarty_Internal_Templatebase **unloadFilter** (string type, string name)<div class="details">
 <p>unload a filter of specified type and name</p><dl>
 <dt>Parameters:</dt>
 <dd>type - filter type</dd>

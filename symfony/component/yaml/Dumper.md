@@ -1,3 +1,4 @@
+
 - - -
 
 **Symfony\Component\Yaml\Dumper**
@@ -22,12 +23,13 @@
 <dt>Author:</dt>
 <dd>Fabien Potencier <fabien@symfony.com></dd>
 </dl>
+
 - - -
 
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type"> string</td>
+<td class="type">  string</td>
 <td class="description"><p class="name"><a href="#dump">dump</a>(mixed input, integer inline, integer indent)</p><p class="description">Dumps a PHP value to YAML.</p></td>
 </tr>
 </table>
@@ -36,10 +38,7 @@
 <div class="location">framework\libs\symfony-components\Symfony\Component\Yaml\Dumper.php at line 30</div>
 <h3 id="dump()">dump</h3>
 
-```php
-public  string **dump**(mixed input, integer inline, integer indent)
-```
-<div class="details">
+public  string **dump** (mixed input, integer inline, integer indent)<div class="details">
 <p>Dumps a PHP value to YAML.</p><dl>
 <dt>Parameters:</dt>
 <dd>input - The PHP value</dd>

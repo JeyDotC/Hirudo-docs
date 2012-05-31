@@ -1,3 +1,4 @@
+
 - - -
 
 **Symfony\Component\ClassLoader\DebugUniversalClassLoader**
@@ -22,17 +23,18 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/comp
 <dd>Fabien Potencier <fabien@symfony.com></dd>
 <dt>Api.</dt>
 </dl>
+
 - - -
 
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type">static  void</td>
+<td class="type"> static  void</td>
 <td class="description"><p class="name"><a href="#enable">enable</a>()</p><p class="description">Replaces all regular UniversalClassLoader instances by a DebugUniversalClassLoader ones.</p></td>
 </tr>
 <tr>
-<td class="type">static  void</td>
-<td class="description"><p class="name"><a href="#loadClass">loadClass</a>(string class)</p><p class="description">Loads the given class or interface.</p></td>
+<td class="type"> static  void</td>
+<td class="description"><p class="name"><a href="#loadclass">loadClass</a>(string class)</p><p class="description">Loads the given class or interface.</p></td>
 </tr>
 </table>
 
@@ -44,10 +46,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/comp
 <div class="location">framework\libs\symfony-components\Symfony\Component\ClassLoader\DebugUniversalClassLoader.php at line 24</div>
 <h3 id="enable()">enable</h3>
 
-```php
-public static  void **enable**()
-```
-<div class="details">
+public static  void **enable** ()<div class="details">
 <p>Replaces all regular UniversalClassLoader instances by a DebugUniversalClassLoader ones.</p></div>
 
 - - -
@@ -55,10 +54,7 @@ public static  void **enable**()
 <div class="location">framework\libs\symfony-components\Symfony\Component\ClassLoader\DebugUniversalClassLoader.php at line 52</div>
 <h3 id="loadClass()">loadClass</h3>
 
-```php
-public static  void **loadClass**(string class)
-```
-<div class="details">
+public static  void **loadClass** (string class)<div class="details">
 <p>Loads the given class or interface.</p><dl>
 <dt>Parameters:</dt>
 <dd>class - The name of the class</dd>

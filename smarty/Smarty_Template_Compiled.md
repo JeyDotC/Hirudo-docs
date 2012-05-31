@@ -1,3 +1,4 @@
+
 - - -
 
 **Smarty\Smarty_Template_Compiled**
@@ -21,6 +22,7 @@
 <dt>Property:</dt>
 <dd>string $content compiled content</dd>
 </dl>
+
 - - -
 
 <table id="summary_field">
@@ -39,7 +41,7 @@
 </tr>
 <tr>
 <td class="type"> boolean</td>
-<td class="description"><p class="name"><a href="#isCompiled">$isCompiled</a></p><p class="description">Template was compiled</p></td>
+<td class="description"><p class="name"><a href="#iscompiled">$isCompiled</a></p><p class="description">Template was compiled</p></td>
 </tr>
 <tr>
 <td class="type"> boolean</td>
@@ -67,9 +69,7 @@
 <div class="location">framework\libs\smarty\sysplugins\smarty_resource.php at line 809</div>
 <h3 id="_properties">_properties</h3>
 
-```php
-public  array$_properties = null
-```
+public  array $_properties = null
 <div class="details">
 <p>Metadata properties</p><p>populated by Smarty_Internal_Template::decodeProperties()</p></div>
 
@@ -78,9 +78,7 @@ public  array$_properties = null
 <div class="location">framework\libs\smarty\sysplugins\smarty_resource.php at line 783</div>
 <h3 id="exists">exists</h3>
 
-```php
-public  boolean$exists = false
-```
+public  boolean $exists = false
 <div class="details">
 <p>Compiled Existance</p></div>
 
@@ -89,9 +87,7 @@ public  boolean$exists = false
 <div class="location">framework\libs\smarty\sysplugins\smarty_resource.php at line 771</div>
 <h3 id="filepath">filepath</h3>
 
-```php
-public  string$filepath = null
-```
+public  string $filepath = null
 <div class="details">
 <p>Compiled Filepath</p></div>
 
@@ -100,9 +96,7 @@ public  string$filepath = null
 <div class="location">framework\libs\smarty\sysplugins\smarty_resource.php at line 795</div>
 <h3 id="isCompiled">isCompiled</h3>
 
-```php
-public  boolean$isCompiled = false
-```
+public  boolean $isCompiled = false
 <div class="details">
 <p>Template was compiled</p></div>
 
@@ -111,9 +105,7 @@ public  boolean$isCompiled = false
 <div class="location">framework\libs\smarty\sysplugins\smarty_resource.php at line 789</div>
 <h3 id="loaded">loaded</h3>
 
-```php
-public  boolean$loaded = false
-```
+public  boolean $loaded = false
 <div class="details">
 <p>Compiled Content Loaded</p></div>
 
@@ -122,9 +114,7 @@ public  boolean$loaded = false
 <div class="location">framework\libs\smarty\sysplugins\smarty_resource.php at line 801</div>
 <h3 id="source">source</h3>
 
-```php
-public  <a href="../smarty/smarty_template_source.html">Smarty_Template_Source</a>$source = null
-```
+public  <a href="../smarty/smarty_template_source.html">Smarty_Template_Source</a> $source = null
 <div class="details">
 <p>Source Object</p></div>
 
@@ -133,9 +123,7 @@ public  <a href="../smarty/smarty_template_source.html">Smarty_Template_Source</
 <div class="location">framework\libs\smarty\sysplugins\smarty_resource.php at line 777</div>
 <h3 id="timestamp">timestamp</h3>
 
-```php
-public  integer$timestamp = null
-```
+public  integer $timestamp = null
 <div class="details">
 <p>Compiled Timestamp</p></div>
 

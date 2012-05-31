@@ -1,3 +1,4 @@
+
 - - -
 
 **Hirudo\Core\Context\Request**
@@ -22,81 +23,82 @@
 <dt>Author:</dt>
 <dd>Virtualidad</dd>
 </dl>
+
 - - -
 
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#setAttribute">setAttribute</a>(string key, mixed value)</p><p class="description">Stores a value in memory so it can be accesed "gloablly".</p></td>
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#setattribute">setAttribute</a>(string key, mixed value)</p><p class="description">Stores a value in memory so it can be accesed "gloablly".</p></td>
 </tr>
 <tr>
-<td class="type"> mixed</td>
-<td class="description"><p class="name"><a href="#getAttribute">getAttribute</a>(string key, mixed default)</p><p class="description">Gets an in-memory value from the current request which is stored with
+<td class="type">  mixed</td>
+<td class="description"><p class="name"><a href="#getattribute">getAttribute</a>(string key, mixed default)</p><p class="description">Gets an in-memory value from the current request which is stored with
 the setAttribute() method.</p></td>
 </tr>
 <tr>
-<td class="type"> mixed</td>
-<td class="description"><p class="name"><a href="#removeAttribute">removeAttribute</a>(string key)</p><p class="description">Removes an in-memory stored value from this request.</p></td>
+<td class="type">  mixed</td>
+<td class="description"><p class="name"><a href="#removeattribute">removeAttribute</a>(string key)</p><p class="description">Removes an in-memory stored value from this request.</p></td>
 </tr>
 <tr>
-<td class="type"> void</td>
+<td class="type">  void</td>
 <td class="description"><p class="name"><a href="#bind">bind</a>(type object, type bindings)</p><p class="description">TODO: #desition Remove this method?</p></td>
 </tr>
 <tr>
-<td class="type">abstract  mixed</td>
+<td class="type"> abstract  mixed</td>
 <td class="description"><p class="name"><a href="#get">get</a>(string name, mixed default)</p><p class="description">Retrieves a value from the GET parameters.</p></td>
 </tr>
 <tr>
-<td class="type">abstract  mixed</td>
+<td class="type"> abstract  mixed</td>
 <td class="description"><p class="name"><a href="#post">post</a>(string name, mixed default)</p><p class="description">Retrieves a value from the POST parameters.</p></td>
 </tr>
 <tr>
-<td class="type">abstract  mixed</td>
+<td class="type"> abstract  mixed</td>
 <td class="description"><p class="name"><a href="#file">file</a>(string name, mixed default)</p><p class="description">Retrieves a value from the FILE parameters.</p></td>
 </tr>
 <tr>
-<td class="type">abstract  mixed</td>
+<td class="type"> abstract  mixed</td>
 <td class="description"><p class="name"><a href="#cookie">cookie</a>(string name, mixed default)</p><p class="description">Retrieves a value from the COOKIE parameters.</p></td>
 </tr>
 <tr>
-<td class="type">abstract  mixed</td>
+<td class="type"> abstract  mixed</td>
 <td class="description"><p class="name"><a href="#env">env</a>(string name, mixed default)</p><p class="description">Retrieves a value from the ENV parameters.</p></td>
 </tr>
 <tr>
-<td class="type">abstract  mixed</td>
+<td class="type"> abstract  mixed</td>
 <td class="description"><p class="name"><a href="#server">server</a>(string name, mixed default)</p><p class="description">Retrieves a value from the SERVER parameters.</p></td>
 </tr>
 <tr>
-<td class="type">abstract  string</td>
-<td class="description"><p class="name"><a href="#getURI">getURI</a>()</p><p class="description">Gets the current URI as a string.</p></td>
+<td class="type"> abstract  string</td>
+<td class="description"><p class="name"><a href="#geturi">getURI</a>()</p><p class="description">Gets the current URI as a string.</p></td>
 </tr>
 <tr>
-<td class="type"> string</td>
+<td class="type">  string</td>
 <td class="description"><p class="name"><a href="#method">method</a>()</p><p class="description">Gets the current HTTP method (GET, POST, PUT, DELETE).</p></td>
 </tr>
 <tr>
-<td class="type">abstract  <a href="../../../hirudo/core/context/modulecall.html">ModuleCall</a></td>
-<td class="description"><p class="name"><a href="#buildModuleCall">buildModuleCall</a>()</p><p class="description">Creates a ModuleCall from request parameters, generally from the URL,
+<td class="type"> abstract  <a href="../../../hirudo/core/context/modulecall.html">ModuleCall</a></td>
+<td class="description"><p class="name"><a href="#buildmodulecall">buildModuleCall</a>()</p><p class="description">Creates a ModuleCall from request parameters, generally from the URL,
 the way this done depends on how this class interprets the URLs.</p></td>
 </tr>
 <tr>
-<td class="type">abstract  bool</td>
+<td class="type"> abstract  bool</td>
 <td class="description"><p class="name"><a href="#submitted">submitted</a>()</p><p class="description">Determines if there is any data in the $_POST array.</p></td>
 </tr>
 <tr>
-<td class="type">protected  mixed</td>
-<td class="description"><p class="name"><a href="#getVar">getVar</a>(array collection, string index, mixed default)</p><p class="description">An utility method that simply returns tha value associated to the given
+<td class="type"> protected  mixed</td>
+<td class="description"><p class="name"><a href="#getvar">getVar</a>(array collection, string index, mixed default)</p><p class="description">An utility method that simply returns tha value associated to the given
 index or the given default value if there is no value associated to the
 index.</p></td>
 </tr>
 <tr>
-<td class="type"> Session</td>
-<td class="description"><p class="name"><a href="#getSession">getSession</a>()</p><p class="description">Gets the current session object.</p></td>
+<td class="type">  Session</td>
+<td class="description"><p class="name"><a href="#getsession">getSession</a>()</p><p class="description">Gets the current session object.</p></td>
 </tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#setSession">setSession</a>(Session session)</p><p class="description"></p></td>
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#setsession">setSession</a>(Session session)</p><p class="description"></p></td>
 </tr>
 </table>
 
@@ -104,10 +106,7 @@ index.</p></td>
 <div class="location">framework\hirudo\Hirudo\Core\Context\Request.php at line 49</div>
 <h3 id="setAttribute()">setAttribute</h3>
 
-```php
-public  void **setAttribute**(string key, mixed value)
-```
-<div class="details">
+public  void **setAttribute** (string key, mixed value)<div class="details">
 <p>Stores a value in memory so it can be accesed "gloablly".</p><dl>
 <dt>Parameters:</dt>
 <dd>key - A key to identify the value.</dd>
@@ -120,10 +119,7 @@ public  void **setAttribute**(string key, mixed value)
 <div class="location">framework\hirudo\Hirudo\Core\Context\Request.php at line 62</div>
 <h3 id="getAttribute()">getAttribute</h3>
 
-```php
-public  mixed **getAttribute**(string key, mixed default)
-```
-<div class="details">
+public  mixed **getAttribute** (string key, mixed default)<div class="details">
 <p>Gets an in-memory value from the current request which is stored with
 the setAttribute() method.</p><dl>
 <dt>Parameters:</dt>
@@ -139,10 +135,7 @@ the setAttribute() method.</p><dl>
 <div class="location">framework\hirudo\Hirudo\Core\Context\Request.php at line 72</div>
 <h3 id="removeAttribute()">removeAttribute</h3>
 
-```php
-public  mixed **removeAttribute**(string key)
-```
-<div class="details">
+public  mixed **removeAttribute** (string key)<div class="details">
 <p>Removes an in-memory stored value from this request.</p><dl>
 <dt>Parameters:</dt>
 <dd>key - The key corresponding to the value to be removed.</dd>
@@ -156,10 +149,7 @@ public  mixed **removeAttribute**(string key)
 <div class="location">framework\hirudo\Hirudo\Core\Context\Request.php at line 88</div>
 <h3 id="bind()">bind</h3>
 
-```php
-public  void **bind**(type object, type bindings)
-```
-<div class="details">
+public  void **bind** (type object, type bindings)<div class="details">
 <p>TODO: #desition Remove this method?</p></div>
 
 - - -
@@ -167,10 +157,7 @@ public  void **bind**(type object, type bindings)
 <div class="location">framework\hirudo\Hirudo\Core\Context\Request.php at line 100</div>
 <h3 id="get()">get</h3>
 
-```php
-public abstract  mixed **get**(string name, mixed default)
-```
-<div class="details">
+public abstract  mixed **get** (string name, mixed default)<div class="details">
 <p>Retrieves a value from the GET parameters.</p><dl>
 <dt>Parameters:</dt>
 <dd>name - The GET index.</dd>
@@ -185,10 +172,7 @@ public abstract  mixed **get**(string name, mixed default)
 <div class="location">framework\hirudo\Hirudo\Core\Context\Request.php at line 109</div>
 <h3 id="post()">post</h3>
 
-```php
-public abstract  mixed **post**(string name, mixed default)
-```
-<div class="details">
+public abstract  mixed **post** (string name, mixed default)<div class="details">
 <p>Retrieves a value from the POST parameters.</p><dl>
 <dt>Parameters:</dt>
 <dd>name - The POST index.</dd>
@@ -203,10 +187,7 @@ public abstract  mixed **post**(string name, mixed default)
 <div class="location">framework\hirudo\Hirudo\Core\Context\Request.php at line 118</div>
 <h3 id="file()">file</h3>
 
-```php
-public abstract  mixed **file**(string name, mixed default)
-```
-<div class="details">
+public abstract  mixed **file** (string name, mixed default)<div class="details">
 <p>Retrieves a value from the FILE parameters.</p><dl>
 <dt>Parameters:</dt>
 <dd>name - The FILE index.</dd>
@@ -221,10 +202,7 @@ public abstract  mixed **file**(string name, mixed default)
 <div class="location">framework\hirudo\Hirudo\Core\Context\Request.php at line 127</div>
 <h3 id="cookie()">cookie</h3>
 
-```php
-public abstract  mixed **cookie**(string name, mixed default)
-```
-<div class="details">
+public abstract  mixed **cookie** (string name, mixed default)<div class="details">
 <p>Retrieves a value from the COOKIE parameters.</p><dl>
 <dt>Parameters:</dt>
 <dd>name - The COOKIE index.</dd>
@@ -239,10 +217,7 @@ public abstract  mixed **cookie**(string name, mixed default)
 <div class="location">framework\hirudo\Hirudo\Core\Context\Request.php at line 136</div>
 <h3 id="env()">env</h3>
 
-```php
-public abstract  mixed **env**(string name, mixed default)
-```
-<div class="details">
+public abstract  mixed **env** (string name, mixed default)<div class="details">
 <p>Retrieves a value from the ENV parameters.</p><dl>
 <dt>Parameters:</dt>
 <dd>name - The ENV index.</dd>
@@ -257,10 +232,7 @@ public abstract  mixed **env**(string name, mixed default)
 <div class="location">framework\hirudo\Hirudo\Core\Context\Request.php at line 145</div>
 <h3 id="server()">server</h3>
 
-```php
-public abstract  mixed **server**(string name, mixed default)
-```
-<div class="details">
+public abstract  mixed **server** (string name, mixed default)<div class="details">
 <p>Retrieves a value from the SERVER parameters.</p><dl>
 <dt>Parameters:</dt>
 <dd>name - The SERVER index.</dd>
@@ -275,10 +247,7 @@ public abstract  mixed **server**(string name, mixed default)
 <div class="location">framework\hirudo\Hirudo\Core\Context\Request.php at line 152</div>
 <h3 id="getURI()">getURI</h3>
 
-```php
-public abstract  string **getURI**()
-```
-<div class="details">
+public abstract  string **getURI** ()<div class="details">
 <p>Gets the current URI as a string.</p><dl>
 <dt>Returns:</dt>
 <dd>the current URI.</dd>
@@ -290,10 +259,7 @@ public abstract  string **getURI**()
 <div class="location">framework\hirudo\Hirudo\Core\Context\Request.php at line 159</div>
 <h3 id="method()">method</h3>
 
-```php
-public  string **method**()
-```
-<div class="details">
+public  string **method** ()<div class="details">
 <p>Gets the current HTTP method (GET, POST, PUT, DELETE).</p><dl>
 <dt>Returns:</dt>
 <dd>Returns a string with the current HTTP method.</dd>
@@ -305,10 +271,7 @@ public  string **method**()
 <div class="location">framework\hirudo\Hirudo\Core\Context\Request.php at line 169</div>
 <h3 id="buildModuleCall()">buildModuleCall</h3>
 
-```php
-public abstract  <a href="../../../hirudo/core/context/modulecall.html">ModuleCall</a> **buildModuleCall**()
-```
-<div class="details">
+public abstract  <a href="../../../hirudo/core/context/modulecall.html">ModuleCall</a> **buildModuleCall** ()<div class="details">
 <p>Creates a ModuleCall from request parameters, generally from the URL,
 the way this done depends on how this class interprets the URLs.</p><dl>
 <dt>Returns:</dt>
@@ -321,10 +284,7 @@ the way this done depends on how this class interprets the URLs.</p><dl>
 <div class="location">framework\hirudo\Hirudo\Core\Context\Request.php at line 177</div>
 <h3 id="submitted()">submitted</h3>
 
-```php
-public abstract  bool **submitted**()
-```
-<div class="details">
+public abstract  bool **submitted** ()<div class="details">
 <p>Determines if there is any data in the $_POST array.</p><dl>
 <dt>Deprecated:</dt>
 <dd>This method looks to be useless</dd>
@@ -338,10 +298,7 @@ public abstract  bool **submitted**()
 <div class="location">framework\hirudo\Hirudo\Core\Context\Request.php at line 190</div>
 <h3 id="getVar()">getVar</h3>
 
-```php
-protected  mixed **getVar**(array collection, string index, mixed default)
-```
-<div class="details">
+protected  mixed **getVar** (array collection, string index, mixed default)<div class="details">
 <p>An utility method that simply returns tha value associated to the given
 index or the given default value if there is no value associated to the
 index.</p><dl>
@@ -359,10 +316,7 @@ index.</p><dl>
 <div class="location">framework\hirudo\Hirudo\Core\Context\Request.php at line 205</div>
 <h3 id="getSession()">getSession</h3>
 
-```php
-public  Session **getSession**()
-```
-<div class="details">
+public  Session **getSession** ()<div class="details">
 <p>Gets the current session object.</p><dl>
 <dt>Returns:</dt>
 <dd>The current session.</dd>
@@ -374,10 +328,7 @@ public  Session **getSession**()
 <div class="location">framework\hirudo\Hirudo\Core\Context\Request.php at line 213</div>
 <h3 id="setSession()">setSession</h3>
 
-```php
-public  void **setSession**(Session session)
-```
-<div class="details">
+public  void **setSession** (Session session)<div class="details">
 <p></p><dl>
 <dt>Import(id="session").</dt>
 </dl>

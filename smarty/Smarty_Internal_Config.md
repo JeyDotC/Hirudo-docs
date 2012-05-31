@@ -1,3 +1,4 @@
+
 - - -
 
 **Smarty\Smarty_Internal_Config**
@@ -21,6 +22,7 @@
 <dd>Smarty_Config_Compiled $compiled</dd>
 <dt>Ignore.</dt>
 </dl>
+
 - - -
 
 <table id="summary_field">
@@ -51,7 +53,7 @@
 </tr>
 <tr>
 <td class="type"> bool</td>
-<td class="description"><p class="name"><a href="#mustCompile">$mustCompile</a></p><p class="description">flag if compiled config file is invalid and must be (re)compiled</p></td>
+<td class="description"><p class="name"><a href="#mustcompile">$mustCompile</a></p><p class="description">flag if compiled config file is invalid and must be (re)compiled</p></td>
 </tr>
 <tr>
 <td class="type"> Smarty object</td>
@@ -70,32 +72,32 @@
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type"> string</td>
-<td class="description"><p class="name"><a href="#getCompiledFilepath">getCompiledFilepath</a>()</p><p class="description">Returns the compiled  filepath</p></td>
+<td class="type">  string</td>
+<td class="description"><p class="name"><a href="#getcompiledfilepath">getCompiledFilepath</a>()</p><p class="description">Returns the compiled  filepath</p></td>
 </tr>
 <tr>
-<td class="type"> string</td>
-<td class="description"><p class="name"><a href="#buildCompiledFilepath">buildCompiledFilepath</a>()</p><p class="description">Get file path.</p></td>
+<td class="type">  string</td>
+<td class="description"><p class="name"><a href="#buildcompiledfilepath">buildCompiledFilepath</a>()</p><p class="description">Get file path.</p></td>
 </tr>
 <tr>
-<td class="type"> integer</td>
-<td class="description"><p class="name"><a href="#getCompiledTimestamp">getCompiledTimestamp</a>()</p><p class="description">Returns the timpestamp of the compiled file</p></td>
+<td class="type">  integer</td>
+<td class="description"><p class="name"><a href="#getcompiledtimestamp">getCompiledTimestamp</a>()</p><p class="description">Returns the timpestamp of the compiled file</p></td>
 </tr>
 <tr>
-<td class="type"> boolean</td>
-<td class="description"><p class="name"><a href="#mustCompile">mustCompile</a>()</p><p class="description">Returns if the current config file must be compiledIt does compare the timestamps of config source and the compiled config and checks the force compile configuration</p></td>
+<td class="type">  boolean</td>
+<td class="description"><p class="name"><a href="#mustcompile">mustCompile</a>()</p><p class="description">Returns if the current config file must be compiledIt does compare the timestamps of config source and the compiled config and checks the force compile configuration</p></td>
 </tr>
 <tr>
-<td class="type"> string</td>
-<td class="description"><p class="name"><a href="#getCompiledConfig">getCompiledConfig</a>()</p><p class="description">Returns the compiled config fileIt checks if the config file must be compiled or just read the compiled version</p></td>
+<td class="type">  string</td>
+<td class="description"><p class="name"><a href="#getcompiledconfig">getCompiledConfig</a>()</p><p class="description">Returns the compiled config fileIt checks if the config file must be compiled or just read the compiled version</p></td>
 </tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#compileConfigSource">compileConfigSource</a>()</p><p class="description">Compiles the config files</p></td>
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#compileconfigsource">compileConfigSource</a>()</p><p class="description">Compiles the config files</p></td>
 </tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#loadConfigVars">loadConfigVars</a>(mixed sections, object scope)</p><p class="description">load config variables</p></td>
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#loadconfigvars">loadConfigVars</a>(mixed sections, object scope)</p><p class="description">load config variables</p></td>
 </tr>
 </table>
 
@@ -103,9 +105,7 @@
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_config.php at line 46</div>
 <h3 id="compiled_config">compiled_config</h3>
 
-```php
-public  string$compiled_config = null
-```
+public  string $compiled_config = null
 <div class="details">
 <p>Compiled config file</p></div>
 
@@ -114,9 +114,7 @@ public  string$compiled_config = null
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_config.php at line 52</div>
 <h3 id="compiled_filepath">compiled_filepath</h3>
 
-```php
-public  string$compiled_filepath = null
-```
+public  string $compiled_filepath = null
 <div class="details">
 <p>filepath of compiled config file</p></div>
 
@@ -125,9 +123,7 @@ public  string$compiled_filepath = null
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_config.php at line 58</div>
 <h3 id="compiled_timestamp">compiled_timestamp</h3>
 
-```php
-public  int$compiled_timestamp = null
-```
+public  int $compiled_timestamp = null
 <div class="details">
 <p>Filemtime of compiled config Filemtime</p></div>
 
@@ -136,9 +132,7 @@ public  int$compiled_timestamp = null
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_config.php at line 69</div>
 <h3 id="compiler_object">compiler_object</h3>
 
-```php
-public  Smarty_Internal_Config_File_Compiler object$compiler_object = null
-```
+public  Smarty_Internal_Config_File_Compiler object $compiler_object = null
 <div class="details">
 <p>Config file compiler object</p></div>
 
@@ -147,9 +141,7 @@ public  Smarty_Internal_Config_File_Compiler object$compiler_object = null
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_config.php at line 40</div>
 <h3 id="config_resource">config_resource</h3>
 
-```php
-public  string$config_resource = null
-```
+public  string $config_resource = null
 <div class="details">
 <p>Config resource</p></div>
 
@@ -158,9 +150,7 @@ public  string$config_resource = null
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_config.php at line 35</div>
 <h3 id="data">data</h3>
 
-```php
-public  object$data = null
-```
+public  object $data = null
 <div class="details">
 <p>Object of config var storage</p></div>
 
@@ -169,9 +159,7 @@ public  object$data = null
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_config.php at line 63</div>
 <h3 id="mustCompile">mustCompile</h3>
 
-```php
-public  bool$mustCompile = null
-```
+public  bool $mustCompile = null
 <div class="details">
 <p>flag if compiled config file is invalid and must be (re)compiled</p></div>
 
@@ -180,9 +168,7 @@ public  bool$mustCompile = null
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_config.php at line 29</div>
 <h3 id="smarty">smarty</h3>
 
-```php
-public  Smarty object$smarty = null
-```
+public  Smarty object $smarty = null
 <div class="details">
 <p>Samrty instance</p></div>
 
@@ -210,10 +196,7 @@ public  void **__construct**(string config_resource, <a href="../smarty/smarty.h
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_config.php at line 90</div>
 <h3 id="getCompiledFilepath()">getCompiledFilepath</h3>
 
-```php
-public  string **getCompiledFilepath**()
-```
-<div class="details">
+public  string **getCompiledFilepath** ()<div class="details">
 <p>Returns the compiled  filepath</p><dl>
 <dt>Returns:</dt>
 <dd>the compiled filepath</dd>
@@ -225,10 +208,7 @@ public  string **getCompiledFilepath**()
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_config.php at line 102</div>
 <h3 id="buildCompiledFilepath()">buildCompiledFilepath</h3>
 
-```php
-public  string **buildCompiledFilepath**()
-```
-<div class="details">
+public  string **buildCompiledFilepath** ()<div class="details">
 <p>Get file path.</p></div>
 
 - - -
@@ -236,10 +216,7 @@ public  string **buildCompiledFilepath**()
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_config.php at line 128</div>
 <h3 id="getCompiledTimestamp()">getCompiledTimestamp</h3>
 
-```php
-public  integer **getCompiledTimestamp**()
-```
-<div class="details">
+public  integer **getCompiledTimestamp** ()<div class="details">
 <p>Returns the timpestamp of the compiled file</p><dl>
 <dt>Returns:</dt>
 <dd>the file timestamp</dd>
@@ -251,10 +228,7 @@ public  integer **getCompiledTimestamp**()
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_config.php at line 142</div>
 <h3 id="mustCompile()">mustCompile</h3>
 
-```php
-public  boolean **mustCompile**()
-```
-<div class="details">
+public  boolean **mustCompile** ()<div class="details">
 <p>Returns if the current config file must be compiled</p><p>It does compare the timestamps of config source and the compiled config and checks the force compile configuration</p><dl>
 <dt>Returns:</dt>
 <dd>true if the file must be compiled</dd>
@@ -266,10 +240,7 @@ public  boolean **mustCompile**()
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_config.php at line 156</div>
 <h3 id="getCompiledConfig()">getCompiledConfig</h3>
 
-```php
-public  string **getCompiledConfig**()
-```
-<div class="details">
+public  string **getCompiledConfig** ()<div class="details">
 <p>Returns the compiled config file</p><p>It checks if the config file must be compiled or just read the compiled version</p><dl>
 <dt>Returns:</dt>
 <dd>the compiled config file</dd>
@@ -281,10 +252,7 @@ public  string **getCompiledConfig**()
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_config.php at line 174</div>
 <h3 id="compileConfigSource()">compileConfigSource</h3>
 
-```php
-public  void **compileConfigSource**()
-```
-<div class="details">
+public  void **compileConfigSource** ()<div class="details">
 <p>Compiles the config files</p><dl>
 <dt>Throws:</dt>
 <dd>Exception</dd>
@@ -296,10 +264,7 @@ public  void **compileConfigSource**()
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_config.php at line 208</div>
 <h3 id="loadConfigVars()">loadConfigVars</h3>
 
-```php
-public  void **loadConfigVars**(mixed sections, object scope)
-```
-<div class="details">
+public  void **loadConfigVars** (mixed sections, object scope)<div class="details">
 <p>load config variables</p><dl>
 <dt>Parameters:</dt>
 <dd>sections - array of section names, single section or null</dd>

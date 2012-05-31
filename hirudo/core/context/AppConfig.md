@@ -1,3 +1,4 @@
+
 - - -
 
 **Hirudo\Core\Context\AppConfig**
@@ -26,6 +27,7 @@ based on the host CMS.</p></p></div>
 <dt>Author:</dt>
 <dd>JeyDotC</dd>
 </dl>
+
 - - -
 
 <table id="summary_constructor">
@@ -39,11 +41,11 @@ based on the host CMS.</p></p></div>
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type">protected abstract  void</td>
+<td class="type"> protected abstract  void</td>
 <td class="description"><p class="name"><a href="#load">load</a>()</p><p class="description">Load the configuration data.</p></td>
 </tr>
 <tr>
-<td class="type">abstract  mixed</td>
+<td class="type"> abstract  mixed</td>
 <td class="description"><p class="name"><a href="#get">get</a>(string key, mixed default)</p><p class="description">Gets a value from the collected configuration data.</p></td>
 </tr>
 </table>
@@ -64,10 +66,7 @@ public  void **__construct**()
 <div class="location">framework\hirudo\Hirudo\Core\Context\AppConfig.php at line 47</div>
 <h3 id="load()">load</h3>
 
-```php
-protected abstract  void **load**()
-```
-<div class="details">
+protected abstract  void **load** ()<div class="details">
 <p>Load the configuration data.</p></div>
 
 - - -
@@ -75,10 +74,7 @@ protected abstract  void **load**()
 <div class="location">framework\hirudo\Hirudo\Core\Context\AppConfig.php at line 58</div>
 <h3 id="get()">get</h3>
 
-```php
-public abstract  mixed **get**(string key, mixed default)
-```
-<div class="details">
+public abstract  mixed **get** (string key, mixed default)<div class="details">
 <p>Gets a value from the collected configuration data.</p><dl>
 <dt>Parameters:</dt>
 <dd>key - The key that identifies the value in config.</dd>

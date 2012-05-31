@@ -1,3 +1,4 @@
+
 - - -
 
 **Smarty\TP_yyToken**
@@ -20,6 +21,7 @@ It is generated from the internal.templateparser.y file</p></div>
 <dt>Author:</dt>
 <dd>Uwe Tews</dd>
 </dl>
+
 - - -
 
 <table id="summary_field">
@@ -45,20 +47,20 @@ It is generated from the internal.templateparser.y file</p></div>
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#offsetExists">offsetExists</a>(mixed offset)</p></td>
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#offsetexists">offsetExists</a>(mixed offset)</p></td>
 </tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#offsetGet">offsetGet</a>(mixed offset)</p></td>
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#offsetget">offsetGet</a>(mixed offset)</p></td>
 </tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#offsetSet">offsetSet</a>(mixed offset, mixed value)</p></td>
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#offsetset">offsetSet</a>(mixed offset, mixed value)</p></td>
 </tr>
 <tr>
-<td class="type"> void</td>
-<td class="description"><p class="name"><a href="#offsetUnset">offsetUnset</a>(mixed offset)</p></td>
+<td class="type">  void</td>
+<td class="description"><p class="name"><a href="#offsetunset">offsetUnset</a>(mixed offset)</p></td>
 </tr>
 </table>
 
@@ -66,9 +68,7 @@ It is generated from the internal.templateparser.y file</p></div>
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_templateparser.php at line 15</div>
 <h3 id="metadata">metadata</h3>
 
-```php
-public  mixed$metadata = array()
-```
+public  mixed $metadata = array()
 <div class="details">
 </div>
 
@@ -77,9 +77,7 @@ public  mixed$metadata = array()
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_templateparser.php at line 14</div>
 <h3 id="string">string</h3>
 
-```php
-public  mixed$string = ''
-```
+public  mixed $string = ''
 <div class="details">
 </div>
 
@@ -101,10 +99,7 @@ public  void **__construct**(mixed s, mixed m)
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_templateparser.php at line 37</div>
 <h3 id="offsetExists()">offsetExists</h3>
 
-```php
-public  void **offsetExists**(mixed offset)
-```
-<div class="details">
+public  void **offsetExists** (mixed offset)<div class="details">
 </div>
 
 - - -
@@ -112,10 +107,7 @@ public  void **offsetExists**(mixed offset)
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_templateparser.php at line 42</div>
 <h3 id="offsetGet()">offsetGet</h3>
 
-```php
-public  void **offsetGet**(mixed offset)
-```
-<div class="details">
+public  void **offsetGet** (mixed offset)<div class="details">
 </div>
 
 - - -
@@ -123,10 +115,7 @@ public  void **offsetGet**(mixed offset)
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_templateparser.php at line 47</div>
 <h3 id="offsetSet()">offsetSet</h3>
 
-```php
-public  void **offsetSet**(mixed offset, mixed value)
-```
-<div class="details">
+public  void **offsetSet** (mixed offset, mixed value)<div class="details">
 </div>
 
 - - -
@@ -134,10 +123,7 @@ public  void **offsetSet**(mixed offset, mixed value)
 <div class="location">framework\libs\smarty\sysplugins\smarty_internal_templateparser.php at line 70</div>
 <h3 id="offsetUnset()">offsetUnset</h3>
 
-```php
-public  void **offsetUnset**(mixed offset)
-```
-<div class="details">
+public  void **offsetUnset** (mixed offset)<div class="details">
 </div>
 
 - - -
