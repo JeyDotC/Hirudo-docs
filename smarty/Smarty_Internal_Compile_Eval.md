@@ -1,15 +1,17 @@
 - - -
 
 **Smarty\Smarty_Internal_Compile_Eval**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_compile_eval.php.md#line18" class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_eval.php at line 18</a>
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_eval.php at line 18</div>
+#Class Smarty_Internal_Compile_Eval#
 
-# Class Smarty_Internal_Compile_Eval #
+<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_compilebase.html">Smarty_Internal_CompileBase</a>
+    ***Smarty_Internal_Compile_Eval**
 
-<pre class="tree"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_compilebase.html">Smarty_Internal_CompileBase</a>\n    *** Smarty_Internal_Compile_Eval **\n</pre>
 
 - - -
 
-<p class="signature">public  class **Smarty_Internal_Compile_Eval**\nextends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_compilebase.html">Smarty_Internal_CompileBase</a>
+<p class="signature">public  class **Smarty_Internal_Compile_Eval**
+extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_compilebase.html">Smarty_Internal_CompileBase</a>
 
 </p>
 
@@ -45,7 +47,7 @@
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td class="type"> string</td>
-<td class="description"><p class="name"><a href="#compile()">compile</a>(array args, object compiler)</p><p class="description">Compiles code for the {eval} tag</p></td>
+<td class="description"><p class="name"><a href="#compile">compile</a>(array args, object compiler)</p><p class="description">Compiles code for the {eval} tag</p></td>
 </tr>
 </table>
 
@@ -54,11 +56,12 @@
 <tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_compilebase.html#closeTag()">closeTag</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_compilebase.html#getAttributes()">getAttributes</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_compilebase.html#openTag()">openTag</a></td></tr></table>
 
 ##Field Detail##
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_compile_eval.php.md#line33" class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_eval.php at line 33</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_eval.php at line 33</div>
 <h3 id="optional_attributes">optional_attributes</h3>
+
 ```php
-public  array **$optional_attributes** = array('assign')```
+public  array$optional_attributes = array('assign')
+```
 <div class="details">
 <p>Attribute definition: Overwrites base class.</p><dl>
 <dt>See Also:</dt>
@@ -68,11 +71,12 @@ public  array **$optional_attributes** = array('assign')```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_compile_eval.php.md#line26" class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_eval.php at line 26</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_eval.php at line 26</div>
 <h3 id="required_attributes">required_attributes</h3>
+
 ```php
-public  array **$required_attributes** = array('var')```
+public  array$required_attributes = array('var')
+```
 <div class="details">
 <p>Attribute definition: Overwrites base class.</p><dl>
 <dt>See Also:</dt>
@@ -82,11 +86,12 @@ public  array **$required_attributes** = array('var')```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_compile_eval.php.md#line40" class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_eval.php at line 40</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_eval.php at line 40</div>
 <h3 id="shorttag_order">shorttag_order</h3>
+
 ```php
-public  array **$shorttag_order** = array('var','assign')```
+public  array$shorttag_order = array('var','assign')
+```
 <div class="details">
 <p>Attribute definition: Overwrites base class.</p><dl>
 <dt>See Also:</dt>
@@ -97,11 +102,12 @@ public  array **$shorttag_order** = array('var','assign')```
 - - -
 
 <h2 id="detail_method">Method Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_compile_eval.php.md#line49" class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_eval.php at line 49</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_eval.php at line 49</div>
 <h3 id="compile()">compile</h3>
+
 ```php
-public  string **compile**(array args, object compiler)```
+public  string **compile**(array args, object compiler)
+```
 <div class="details">
 <p>Compiles code for the {eval} tag</p><dl>
 <dt>Parameters:</dt>

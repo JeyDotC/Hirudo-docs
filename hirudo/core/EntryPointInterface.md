@@ -1,11 +1,11 @@
 - - -
 
 **Hirudo\Core\EntryPointInterface**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Core/EntryPointInterface.php.md#line10" class="location">framework\hirudo\Hirudo\Core\EntryPointInterface.php at line 10</a>
+<div class="location">framework\hirudo\Hirudo\Core\EntryPointInterface.php at line 10</div>
+#Class EntryPointInterface#
 
-# Class EntryPointInterface #
+**EntryPointInterface**
 
-<pre class="tree">** EntryPointInterface **\n</pre>
 
 - - -
 
@@ -24,16 +24,17 @@
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#run()">run</a>()</p></td>
+<td class="description"><p class="name"><a href="#run">run</a>()</p></td>
 </tr>
 </table>
 
 <h2 id="detail_method">Method Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Core/EntryPointInterface.php.md#line12" class="location">framework\hirudo\Hirudo\Core\EntryPointInterface.php at line 12</a>
-
+<div class="location">framework\hirudo\Hirudo\Core\EntryPointInterface.php at line 12</div>
 <h3 id="run()">run</h3>
+
 ```php
-public  void **run**()```
+public  void **run**()
+```
 <div class="details">
 </div>
 

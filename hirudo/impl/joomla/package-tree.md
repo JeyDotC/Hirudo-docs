@@ -1,6 +1,6 @@
 - - -
 
-# Class Hierarchy for Package Hirudo\Impl\Joomla #<ul>
+#Class Hierarchy for Package Hirudo\Impl\Joomla#<ul>
 <li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/appconfig.html">Hirudo\Core\Context\AppConfig</a><ul>
 <li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/impl/joomla/joomlaappconfig.html">Hirudo\Impl\Joomla\JoomlaAppConfig</a></li>
 </ul>

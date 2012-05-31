@@ -1,6 +1,6 @@
 - - -
 
-# Globals #
+#Globals#
 
 - - -
 
@@ -13,8 +13,7 @@
 </table>
 
 <h2 id="detail_global">Global Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Lang/Loader.php.md#line48" class="location">framework\hirudo\Hirudo\Lang\Loader.php at line 48</a>
-
+<div class="location">framework\hirudo\Hirudo\Lang\Loader.php at line 48</div>
 <h3 id="DEFAULT_EXT">DEFAULT_EXT</h3>
 ```php
 public final  mixed **DEFAULT_EXT** = $DS```

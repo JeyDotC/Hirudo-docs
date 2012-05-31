@@ -1,15 +1,17 @@
 - - -
 
 **Smarty\_smarty_tag**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_parsetree.php.md#line47" class="location">framework\libs\smarty\sysplugins\smarty_internal_parsetree.php at line 47</a>
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_parsetree.php at line 47</div>
+#Class _smarty_tag#
 
-# Class _smarty_tag #
+<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/_smarty_parsetree.html">_smarty_parsetree</a>
+    ***_smarty_tag**
 
-<pre class="tree"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/_smarty_parsetree.html">_smarty_parsetree</a>\n    *** _smarty_tag **\n</pre>
 
 - - -
 
-<p class="signature">public  class **_smarty_tag**\nextends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/_smarty_parsetree.html">_smarty_parsetree</a>
+<p class="signature">public  class **_smarty_tag**
+extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/_smarty_parsetree.html">_smarty_parsetree</a>
 
 </p>
 
@@ -38,7 +40,7 @@
 <tr><th colspan="2">Constructor Summary</th></tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#__construct()">__construct</a>(object parser, string data)</p><p class="description">Create parse tree buffer for Smarty tag</p></td>
+<td class="description"><p class="name"><a href="#__construct">__construct</a>(object parser, string data)</p><p class="description">Create parse tree buffer for Smarty tag</p></td>
 </tr>
 </table>
 
@@ -46,11 +48,11 @@
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td class="type"> string</td>
-<td class="description"><p class="name"><a href="#to_smarty_php()">to_smarty_php</a>()</p><p class="description">Return buffer content</p></td>
+<td class="description"><p class="name"><a href="#to_smarty_php">to_smarty_php</a>()</p><p class="description">Return buffer content</p></td>
 </tr>
 <tr>
 <td class="type"> string</td>
-<td class="description"><p class="name"><a href="#assign_to_var()">assign_to_var</a>()</p><p class="description">Return complied code that loads the evaluated outout of buffer content into a temporary variable</p></td>
+<td class="description"><p class="name"><a href="#assign_to_var">assign_to_var</a>()</p><p class="description">Return complied code that loads the evaluated outout of buffer content into a temporary variable</p></td>
 </tr>
 </table>
 
@@ -59,22 +61,24 @@
 <tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/_smarty_parsetree.html#to_smarty_php()">to_smarty_php</a></td></tr></table>
 
 ##Field Detail##
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_parsetree.php.md#line53" class="location">framework\libs\smarty\sysplugins\smarty_internal_parsetree.php at line 53</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_parsetree.php at line 53</div>
 <h3 id="saved_block_nesting">saved_block_nesting</h3>
+
 ```php
-public  int **$saved_block_nesting**```
+public  int$saved_block_nesting
+```
 <div class="details">
 <p>Saved block nesting level</p></div>
 
 - - -
 
 <h2 id="detail_method">Constructor Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_parsetree.php.md#line61" class="location">framework\libs\smarty\sysplugins\smarty_internal_parsetree.php at line 61</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_parsetree.php at line 61</div>
 <h3 id="__construct()">__construct</h3>
+
 ```php
-public  void **__construct**(object parser, string data)```
+public  void **__construct**(object parser, string data)
+```
 <div class="details">
 <p>Create parse tree buffer for Smarty tag</p><dl>
 <dt>Parameters:</dt>
@@ -86,11 +90,12 @@ public  void **__construct**(object parser, string data)```
 - - -
 
 <h2 id="detail_method">Method Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_parsetree.php.md#line73" class="location">framework\libs\smarty\sysplugins\smarty_internal_parsetree.php at line 73</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_parsetree.php at line 73</div>
 <h3 id="to_smarty_php()">to_smarty_php</h3>
+
 ```php
-public  string **to_smarty_php**()```
+public  string **to_smarty_php**()
+```
 <div class="details">
 <p>Return buffer content</p><dl>
 <dt>Returns:</dt>
@@ -100,11 +105,12 @@ public  string **to_smarty_php**()```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_parsetree.php.md#line83" class="location">framework\libs\smarty\sysplugins\smarty_internal_parsetree.php at line 83</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_parsetree.php at line 83</div>
 <h3 id="assign_to_var()">assign_to_var</h3>
+
 ```php
-public  string **assign_to_var**()```
+public  string **assign_to_var**()
+```
 <div class="details">
 <p>Return complied code that loads the evaluated outout of buffer content into a temporary variable</p><dl>
 <dt>Returns:</dt>

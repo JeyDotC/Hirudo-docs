@@ -1,11 +1,11 @@
 - - -
 
 **Smarty\Smarty_Internal_Config_File_Compiler**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_config_file_compiler.php.md#line19" class="location">framework\libs\smarty\sysplugins\smarty_internal_config_file_compiler.php at line 19</a>
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_config_file_compiler.php at line 19</div>
+#Class Smarty_Internal_Config_File_Compiler#
 
-# Class Smarty_Internal_Config_File_Compiler #
+**Smarty_Internal_Config_File_Compiler**
 
-<pre class="tree">** Smarty_Internal_Config_File_Compiler **\n</pre>
 
 - - -
 
@@ -47,7 +47,7 @@
 <tr><th colspan="2">Constructor Summary</th></tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#__construct()">__construct</a>(<a href="../smarty/smarty.html">Smarty</a> smarty)</p><p class="description">Initialize compiler</p></td>
+<td class="description"><p class="name"><a href="#__construct">__construct</a>(<a href="../smarty/smarty.html">Smarty</a> smarty)</p><p class="description">Initialize compiler</p></td>
 </tr>
 </table>
 
@@ -55,72 +55,78 @@
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td class="type"> bool</td>
-<td class="description"><p class="name"><a href="#compileSource()">compileSource</a>(<a href="../smarty/smarty_internal_config.html">Smarty_Internal_Config</a> config)</p><p class="description">Method to compile a Smarty template.</p></td>
+<td class="description"><p class="name"><a href="#compileSource">compileSource</a>(<a href="../smarty/smarty_internal_config.html">Smarty_Internal_Config</a> config)</p><p class="description">Method to compile a Smarty template.</p></td>
 </tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#trigger_config_file_error()">trigger_config_file_error</a>(string args)</p><p class="description">display compiler error messages without dyingIf parameter $args is empty it is a parser detected syntax error.
+<td class="description"><p class="name"><a href="#trigger_config_file_error">trigger_config_file_error</a>(string args)</p><p class="description">display compiler error messages without dyingIf parameter $args is empty it is a parser detected syntax error.
 </p></td>
 </tr>
 </table>
 
 ##Field Detail##
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_config_file_compiler.php.md#line47" class="location">framework\libs\smarty\sysplugins\smarty_internal_config_file_compiler.php at line 47</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_config_file_compiler.php at line 47</div>
 <h3 id="config">config</h3>
+
 ```php
-public  Smarty_Internal_Config object **$config**```
+public  Smarty_Internal_Config object$config
+```
 <div class="details">
 <p>Smarty object</p></div>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_config_file_compiler.php.md#line54" class="location">framework\libs\smarty\sysplugins\smarty_internal_config_file_compiler.php at line 54</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_config_file_compiler.php at line 54</div>
 <h3 id="config_data">config_data</h3>
+
 ```php
-public  array **$config_data** = array()```
+public  array$config_data = array()
+```
 <div class="details">
 <p>Compiled config data sections and variables</p></div>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_config_file_compiler.php.md#line26" class="location">framework\libs\smarty\sysplugins\smarty_internal_config_file_compiler.php at line 26</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_config_file_compiler.php at line 26</div>
 <h3 id="lex">lex</h3>
+
 ```php
-public  object **$lex** = 'local'```
+public  object$lex = 'local'
+```
 <div class="details">
 <p>Lexer object</p></div>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_config_file_compiler.php.md#line33" class="location">framework\libs\smarty\sysplugins\smarty_internal_config_file_compiler.php at line 33</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_config_file_compiler.php at line 33</div>
 <h3 id="parser">parser</h3>
+
 ```php
-public  object **$parser**```
+public  object$parser
+```
 <div class="details">
 <p>Parser object</p></div>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_config_file_compiler.php.md#line40" class="location">framework\libs\smarty\sysplugins\smarty_internal_config_file_compiler.php at line 40</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_config_file_compiler.php at line 40</div>
 <h3 id="smarty">smarty</h3>
+
 ```php
-public  Smarty object **$smarty**```
+public  Smarty object$smarty
+```
 <div class="details">
 <p>Smarty object</p></div>
 
 - - -
 
 <h2 id="detail_method">Constructor Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_config_file_compiler.php.md#line61" class="location">framework\libs\smarty\sysplugins\smarty_internal_config_file_compiler.php at line 61</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_config_file_compiler.php at line 61</div>
 <h3 id="__construct()">__construct</h3>
+
 ```php
-public  void **__construct**(<a href="../smarty/smarty.html">Smarty</a> smarty)```
+public  void **__construct**(<a href="../smarty/smarty.html">Smarty</a> smarty)
+```
 <div class="details">
 <p>Initialize compiler</p><dl>
 <dt>Parameters:</dt>
@@ -131,11 +137,12 @@ public  void **__construct**(<a href="../smarty/smarty.html">Smarty</a> smarty)`
 - - -
 
 <h2 id="detail_method">Method Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_config_file_compiler.php.md#line74" class="location">framework\libs\smarty\sysplugins\smarty_internal_config_file_compiler.php at line 74</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_config_file_compiler.php at line 74</div>
 <h3 id="compileSource()">compileSource</h3>
+
 ```php
-public  bool **compileSource**(<a href="../smarty/smarty_internal_config.html">Smarty_Internal_Config</a> config)```
+public  bool **compileSource**(<a href="../smarty/smarty_internal_config.html">Smarty_Internal_Config</a> config)
+```
 <div class="details">
 <p>Method to compile a Smarty template.</p><dl>
 <dt>Parameters:</dt>
@@ -147,11 +154,12 @@ public  bool **compileSource**(<a href="../smarty/smarty_internal_config.html">S
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_config_file_compiler.php.md#line110" class="location">framework\libs\smarty\sysplugins\smarty_internal_config_file_compiler.php at line 110</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_config_file_compiler.php at line 110</div>
 <h3 id="trigger_config_file_error()">trigger_config_file_error</h3>
+
 ```php
-public  void **trigger_config_file_error**(string args)```
+public  void **trigger_config_file_error**(string args)
+```
 <div class="details">
 <p>display compiler error messages without dying</p><p>If parameter $args is empty it is a parser detected syntax error.
 In this case the parser is called to obtain information about exspected tokens.</p><p>If parameter $args contains a string this is used as error message</p><dl>

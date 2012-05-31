@@ -1,6 +1,6 @@
 - - -
 
-# Namespace Symfony\Component\DependencyInjection\Dumper #
+#Namespace Symfony\Component\DependencyInjection\Dumper#
 
 <table class="title">
 <tr><th colspan="2" class="title">Class Summary</th></tr>

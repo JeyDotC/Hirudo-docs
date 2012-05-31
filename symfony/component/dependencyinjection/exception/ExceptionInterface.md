@@ -1,11 +1,11 @@
 - - -
 
 **Symfony\Component\DependencyInjection\Exception\ExceptionInterface**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Exception/ExceptionInterface.php.md#line20" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Exception\ExceptionInterface.php at line 20</a>
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Exception\ExceptionInterface.php at line 20</div>
+#Interface ExceptionInterface#
 
-# Interface ExceptionInterface #
+**ExceptionInterface**
 
-<pre class="tree">** ExceptionInterface **\n</pre>
 
 - - -
 

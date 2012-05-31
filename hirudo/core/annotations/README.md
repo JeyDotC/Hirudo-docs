@@ -1,6 +1,6 @@
 - - -
 
-# Namespace Hirudo\Core\Annotations #
+#Namespace Hirudo\Core\Annotations#
 
 <table class="title">
 <tr><th colspan="2" class="title">Class Summary</th></tr>

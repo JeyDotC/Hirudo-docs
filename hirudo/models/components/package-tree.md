@@ -1,3 +1,3 @@
 - - -
 
-# Class Hierarchy for Package Hirudo\Models\Components #
+#Class Hierarchy for Package Hirudo\Models\Components#

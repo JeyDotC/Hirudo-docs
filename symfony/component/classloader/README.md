@@ -1,6 +1,6 @@
 - - -
 
-# Namespace Symfony\Component\ClassLoader #
+#Namespace Symfony\Component\ClassLoader#
 
 <table class="title">
 <tr><th colspan="2" class="title">Class Summary</th></tr>

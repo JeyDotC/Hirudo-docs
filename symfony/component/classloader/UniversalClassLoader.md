@@ -1,11 +1,11 @@
 - - -
 
 **Symfony\Component\ClassLoader\UniversalClassLoader**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/ClassLoader/UniversalClassLoader.php.md#line61" class="location">framework\libs\symfony-components\Symfony\Component\ClassLoader\UniversalClassLoader.php at line 61</a>
+<div class="location">framework\libs\symfony-components\Symfony\Component\ClassLoader\UniversalClassLoader.php at line 61</div>
+#Class UniversalClassLoader#
 
-# Class UniversalClassLoader #
+**UniversalClassLoader**
 
-<pre class="tree">** UniversalClassLoader **\n</pre>
 
 <dl>
 <dt>All Known Subclasses:</dt>
@@ -47,103 +47,106 @@ found before giving up.</p></div>
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#useIncludePath()">useIncludePath</a>(Boolean useIncludePath)</p><p class="description">Turns on searching the include for class files. </p></td>
+<td class="description"><p class="name"><a href="#useIncludePath">useIncludePath</a>(Boolean useIncludePath)</p><p class="description">Turns on searching the include for class files. </p></td>
 </tr>
 <tr>
 <td class="type"> Boolean</td>
-<td class="description"><p class="name"><a href="#getUseIncludePath()">getUseIncludePath</a>()</p><p class="description">Can be used to check if the autoloader uses the include path to check
+<td class="description"><p class="name"><a href="#getUseIncludePath">getUseIncludePath</a>()</p><p class="description">Can be used to check if the autoloader uses the include path to check
 for classes.</p></td>
 </tr>
 <tr>
 <td class="type"> array</td>
-<td class="description"><p class="name"><a href="#getNamespaces()">getNamespaces</a>()</p><p class="description">Gets the configured namespaces.</p></td>
+<td class="description"><p class="name"><a href="#getNamespaces">getNamespaces</a>()</p><p class="description">Gets the configured namespaces.</p></td>
 </tr>
 <tr>
 <td class="type"> array</td>
-<td class="description"><p class="name"><a href="#getPrefixes()">getPrefixes</a>()</p><p class="description">Gets the configured class prefixes.</p></td>
+<td class="description"><p class="name"><a href="#getPrefixes">getPrefixes</a>()</p><p class="description">Gets the configured class prefixes.</p></td>
 </tr>
 <tr>
 <td class="type"> array</td>
-<td class="description"><p class="name"><a href="#getNamespaceFallbacks()">getNamespaceFallbacks</a>()</p><p class="description">Gets the directory(ies) to use as a fallback for namespaces.</p></td>
+<td class="description"><p class="name"><a href="#getNamespaceFallbacks">getNamespaceFallbacks</a>()</p><p class="description">Gets the directory(ies) to use as a fallback for namespaces.</p></td>
 </tr>
 <tr>
 <td class="type"> array</td>
-<td class="description"><p class="name"><a href="#getPrefixFallbacks()">getPrefixFallbacks</a>()</p><p class="description">Gets the directory(ies) to use as a fallback for class prefixes.</p></td>
+<td class="description"><p class="name"><a href="#getPrefixFallbacks">getPrefixFallbacks</a>()</p><p class="description">Gets the directory(ies) to use as a fallback for class prefixes.</p></td>
 </tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#registerNamespaceFallbacks()">registerNamespaceFallbacks</a>(array dirs)</p><p class="description">Registers the directory to use as a fallback for namespaces.</p></td>
+<td class="description"><p class="name"><a href="#registerNamespaceFallbacks">registerNamespaceFallbacks</a>(array dirs)</p><p class="description">Registers the directory to use as a fallback for namespaces.</p></td>
 </tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#registerNamespaceFallback()">registerNamespaceFallback</a>(string dir)</p><p class="description">Registers a directory to use as a fallback for namespaces.</p></td>
+<td class="description"><p class="name"><a href="#registerNamespaceFallback">registerNamespaceFallback</a>(string dir)</p><p class="description">Registers a directory to use as a fallback for namespaces.</p></td>
 </tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#registerPrefixFallbacks()">registerPrefixFallbacks</a>(array dirs)</p><p class="description">Registers directories to use as a fallback for class prefixes.</p></td>
+<td class="description"><p class="name"><a href="#registerPrefixFallbacks">registerPrefixFallbacks</a>(array dirs)</p><p class="description">Registers directories to use as a fallback for class prefixes.</p></td>
 </tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#registerPrefixFallback()">registerPrefixFallback</a>(string dir)</p><p class="description">Registers a directory to use as a fallback for class prefixes.</p></td>
+<td class="description"><p class="name"><a href="#registerPrefixFallback">registerPrefixFallback</a>(string dir)</p><p class="description">Registers a directory to use as a fallback for class prefixes.</p></td>
 </tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#registerNamespaces()">registerNamespaces</a>(array namespaces)</p><p class="description">Registers an array of namespaces</p></td>
+<td class="description"><p class="name"><a href="#registerNamespaces">registerNamespaces</a>(array namespaces)</p><p class="description">Registers an array of namespaces</p></td>
 </tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#registerNamespace()">registerNamespace</a>(string namespace, array|string paths)</p><p class="description">Registers a namespace.</p></td>
+<td class="description"><p class="name"><a href="#registerNamespace">registerNamespace</a>(string namespace, array|string paths)</p><p class="description">Registers a namespace.</p></td>
 </tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#registerPrefixes()">registerPrefixes</a>(array classes)</p><p class="description">Registers an array of classes using the PEAR naming convention.</p></td>
+<td class="description"><p class="name"><a href="#registerPrefixes">registerPrefixes</a>(array classes)</p><p class="description">Registers an array of classes using the PEAR naming convention.</p></td>
 </tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#registerPrefix()">registerPrefix</a>(string prefix, array|string paths)</p><p class="description">Registers a set of classes using the PEAR naming convention.</p></td>
+<td class="description"><p class="name"><a href="#registerPrefix">registerPrefix</a>(string prefix, array|string paths)</p><p class="description">Registers a set of classes using the PEAR naming convention.</p></td>
 </tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#register()">register</a>(Boolean prepend)</p><p class="description">Registers this instance as an autoloader.</p></td>
+<td class="description"><p class="name"><a href="#register">register</a>(Boolean prepend)</p><p class="description">Registers this instance as an autoloader.</p></td>
 </tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#loadClass()">loadClass</a>(string class)</p><p class="description">Loads the given class or interface.</p></td>
+<td class="description"><p class="name"><a href="#loadClass">loadClass</a>(string class)</p><p class="description">Loads the given class or interface.</p></td>
 </tr>
 <tr>
 <td class="type"> string|null</td>
-<td class="description"><p class="name"><a href="#findFile()">findFile</a>(string class)</p><p class="description">Finds the path to the file where the class is defined.</p></td>
+<td class="description"><p class="name"><a href="#findFile">findFile</a>(string class)</p><p class="description">Finds the path to the file where the class is defined.</p></td>
 </tr>
 </table>
 
 <h2 id="detail_method">Method Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/ClassLoader/UniversalClassLoader.php.md#line75" class="location">framework\libs\symfony-components\Symfony\Component\ClassLoader\UniversalClassLoader.php at line 75</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\ClassLoader\UniversalClassLoader.php at line 75</div>
 <h3 id="useIncludePath()">useIncludePath</h3>
+
 ```php
-public  void **useIncludePath**(Boolean useIncludePath)```
+public  void **useIncludePath**(Boolean useIncludePath)
+```
 <div class="details">
 <p>Turns on searching the include for class files. Allows easy loading
 of installed PEAR packages</p></div>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/ClassLoader/UniversalClassLoader.php.md#line85" class="location">framework\libs\symfony-components\Symfony\Component\ClassLoader\UniversalClassLoader.php at line 85</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\ClassLoader\UniversalClassLoader.php at line 85</div>
 <h3 id="getUseIncludePath()">getUseIncludePath</h3>
+
 ```php
-public  Boolean **getUseIncludePath**()```
+public  Boolean **getUseIncludePath**()
+```
 <div class="details">
 <p>Can be used to check if the autoloader uses the include path to check
 for classes.</p></div>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/ClassLoader/UniversalClassLoader.php.md#line94" class="location">framework\libs\symfony-components\Symfony\Component\ClassLoader\UniversalClassLoader.php at line 94</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\ClassLoader\UniversalClassLoader.php at line 94</div>
 <h3 id="getNamespaces()">getNamespaces</h3>
+
 ```php
-public  array **getNamespaces**()```
+public  array **getNamespaces**()
+```
 <div class="details">
 <p>Gets the configured namespaces.</p><dl>
 <dt>Returns:</dt>
@@ -153,11 +156,12 @@ public  array **getNamespaces**()```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/ClassLoader/UniversalClassLoader.php.md#line103" class="location">framework\libs\symfony-components\Symfony\Component\ClassLoader\UniversalClassLoader.php at line 103</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\ClassLoader\UniversalClassLoader.php at line 103</div>
 <h3 id="getPrefixes()">getPrefixes</h3>
+
 ```php
-public  array **getPrefixes**()```
+public  array **getPrefixes**()
+```
 <div class="details">
 <p>Gets the configured class prefixes.</p><dl>
 <dt>Returns:</dt>
@@ -167,11 +171,12 @@ public  array **getPrefixes**()```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/ClassLoader/UniversalClassLoader.php.md#line112" class="location">framework\libs\symfony-components\Symfony\Component\ClassLoader\UniversalClassLoader.php at line 112</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\ClassLoader\UniversalClassLoader.php at line 112</div>
 <h3 id="getNamespaceFallbacks()">getNamespaceFallbacks</h3>
+
 ```php
-public  array **getNamespaceFallbacks**()```
+public  array **getNamespaceFallbacks**()
+```
 <div class="details">
 <p>Gets the directory(ies) to use as a fallback for namespaces.</p><dl>
 <dt>Returns:</dt>
@@ -181,11 +186,12 @@ public  array **getNamespaceFallbacks**()```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/ClassLoader/UniversalClassLoader.php.md#line121" class="location">framework\libs\symfony-components\Symfony\Component\ClassLoader\UniversalClassLoader.php at line 121</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\ClassLoader\UniversalClassLoader.php at line 121</div>
 <h3 id="getPrefixFallbacks()">getPrefixFallbacks</h3>
+
 ```php
-public  array **getPrefixFallbacks**()```
+public  array **getPrefixFallbacks**()
+```
 <div class="details">
 <p>Gets the directory(ies) to use as a fallback for class prefixes.</p><dl>
 <dt>Returns:</dt>
@@ -195,11 +201,12 @@ public  array **getPrefixFallbacks**()```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/ClassLoader/UniversalClassLoader.php.md#line132" class="location">framework\libs\symfony-components\Symfony\Component\ClassLoader\UniversalClassLoader.php at line 132</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\ClassLoader\UniversalClassLoader.php at line 132</div>
 <h3 id="registerNamespaceFallbacks()">registerNamespaceFallbacks</h3>
+
 ```php
-public  void **registerNamespaceFallbacks**(array dirs)```
+public  void **registerNamespaceFallbacks**(array dirs)
+```
 <div class="details">
 <p>Registers the directory to use as a fallback for namespaces.</p><dl>
 <dt>Parameters:</dt>
@@ -210,11 +217,12 @@ public  void **registerNamespaceFallbacks**(array dirs)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/ClassLoader/UniversalClassLoader.php.md#line141" class="location">framework\libs\symfony-components\Symfony\Component\ClassLoader\UniversalClassLoader.php at line 141</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\ClassLoader\UniversalClassLoader.php at line 141</div>
 <h3 id="registerNamespaceFallback()">registerNamespaceFallback</h3>
+
 ```php
-public  void **registerNamespaceFallback**(string dir)```
+public  void **registerNamespaceFallback**(string dir)
+```
 <div class="details">
 <p>Registers a directory to use as a fallback for namespaces.</p><dl>
 <dt>Parameters:</dt>
@@ -224,11 +232,12 @@ public  void **registerNamespaceFallback**(string dir)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/ClassLoader/UniversalClassLoader.php.md#line152" class="location">framework\libs\symfony-components\Symfony\Component\ClassLoader\UniversalClassLoader.php at line 152</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\ClassLoader\UniversalClassLoader.php at line 152</div>
 <h3 id="registerPrefixFallbacks()">registerPrefixFallbacks</h3>
+
 ```php
-public  void **registerPrefixFallbacks**(array dirs)```
+public  void **registerPrefixFallbacks**(array dirs)
+```
 <div class="details">
 <p>Registers directories to use as a fallback for class prefixes.</p><dl>
 <dt>Parameters:</dt>
@@ -239,11 +248,12 @@ public  void **registerPrefixFallbacks**(array dirs)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/ClassLoader/UniversalClassLoader.php.md#line161" class="location">framework\libs\symfony-components\Symfony\Component\ClassLoader\UniversalClassLoader.php at line 161</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\ClassLoader\UniversalClassLoader.php at line 161</div>
 <h3 id="registerPrefixFallback()">registerPrefixFallback</h3>
+
 ```php
-public  void **registerPrefixFallback**(string dir)```
+public  void **registerPrefixFallback**(string dir)
+```
 <div class="details">
 <p>Registers a directory to use as a fallback for class prefixes.</p><dl>
 <dt>Parameters:</dt>
@@ -253,11 +263,12 @@ public  void **registerPrefixFallback**(string dir)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/ClassLoader/UniversalClassLoader.php.md#line172" class="location">framework\libs\symfony-components\Symfony\Component\ClassLoader\UniversalClassLoader.php at line 172</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\ClassLoader\UniversalClassLoader.php at line 172</div>
 <h3 id="registerNamespaces()">registerNamespaces</h3>
+
 ```php
-public  void **registerNamespaces**(array namespaces)```
+public  void **registerNamespaces**(array namespaces)
+```
 <div class="details">
 <p>Registers an array of namespaces</p><dl>
 <dt>Parameters:</dt>
@@ -268,11 +279,12 @@ public  void **registerNamespaces**(array namespaces)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/ClassLoader/UniversalClassLoader.php.md#line186" class="location">framework\libs\symfony-components\Symfony\Component\ClassLoader\UniversalClassLoader.php at line 186</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\ClassLoader\UniversalClassLoader.php at line 186</div>
 <h3 id="registerNamespace()">registerNamespace</h3>
+
 ```php
-public  void **registerNamespace**(string namespace, array|string paths)```
+public  void **registerNamespace**(string namespace, array|string paths)
+```
 <div class="details">
 <p>Registers a namespace.</p><dl>
 <dt>Parameters:</dt>
@@ -284,11 +296,12 @@ public  void **registerNamespace**(string namespace, array|string paths)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/ClassLoader/UniversalClassLoader.php.md#line197" class="location">framework\libs\symfony-components\Symfony\Component\ClassLoader\UniversalClassLoader.php at line 197</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\ClassLoader\UniversalClassLoader.php at line 197</div>
 <h3 id="registerPrefixes()">registerPrefixes</h3>
+
 ```php
-public  void **registerPrefixes**(array classes)```
+public  void **registerPrefixes**(array classes)
+```
 <div class="details">
 <p>Registers an array of classes using the PEAR naming convention.</p><dl>
 <dt>Parameters:</dt>
@@ -299,11 +312,12 @@ public  void **registerPrefixes**(array classes)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/ClassLoader/UniversalClassLoader.php.md#line211" class="location">framework\libs\symfony-components\Symfony\Component\ClassLoader\UniversalClassLoader.php at line 211</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\ClassLoader\UniversalClassLoader.php at line 211</div>
 <h3 id="registerPrefix()">registerPrefix</h3>
+
 ```php
-public  void **registerPrefix**(string prefix, array|string paths)```
+public  void **registerPrefix**(string prefix, array|string paths)
+```
 <div class="details">
 <p>Registers a set of classes using the PEAR naming convention.</p><dl>
 <dt>Parameters:</dt>
@@ -315,11 +329,12 @@ public  void **registerPrefix**(string prefix, array|string paths)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/ClassLoader/UniversalClassLoader.php.md#line222" class="location">framework\libs\symfony-components\Symfony\Component\ClassLoader\UniversalClassLoader.php at line 222</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\ClassLoader\UniversalClassLoader.php at line 222</div>
 <h3 id="register()">register</h3>
+
 ```php
-public  void **register**(Boolean prepend)```
+public  void **register**(Boolean prepend)
+```
 <div class="details">
 <p>Registers this instance as an autoloader.</p><dl>
 <dt>Parameters:</dt>
@@ -330,11 +345,12 @@ public  void **register**(Boolean prepend)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/ClassLoader/UniversalClassLoader.php.md#line231" class="location">framework\libs\symfony-components\Symfony\Component\ClassLoader\UniversalClassLoader.php at line 231</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\ClassLoader\UniversalClassLoader.php at line 231</div>
 <h3 id="loadClass()">loadClass</h3>
+
 ```php
-public  void **loadClass**(string class)```
+public  void **loadClass**(string class)
+```
 <div class="details">
 <p>Loads the given class or interface.</p><dl>
 <dt>Parameters:</dt>
@@ -344,11 +360,12 @@ public  void **loadClass**(string class)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/ClassLoader/UniversalClassLoader.php.md#line244" class="location">framework\libs\symfony-components\Symfony\Component\ClassLoader\UniversalClassLoader.php at line 244</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\ClassLoader\UniversalClassLoader.php at line 244</div>
 <h3 id="findFile()">findFile</h3>
+
 ```php
-public  string|null **findFile**(string class)```
+public  string|null **findFile**(string class)
+```
 <div class="details">
 <p>Finds the path to the file where the class is defined.</p><dl>
 <dt>Parameters:</dt>

@@ -1,15 +1,17 @@
 - - -
 
 **Smarty\Smarty_Internal_Compile_Extends**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_compile_extends.php.md#line19" class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_extends.php at line 19</a>
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_extends.php at line 19</div>
+#Class Smarty_Internal_Compile_Extends#
 
-# Class Smarty_Internal_Compile_Extends #
+<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_compilebase.html">Smarty_Internal_CompileBase</a>
+    ***Smarty_Internal_Compile_Extends**
 
-<pre class="tree"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_compilebase.html">Smarty_Internal_CompileBase</a>\n    *** Smarty_Internal_Compile_Extends **\n</pre>
 
 - - -
 
-<p class="signature">public  class **Smarty_Internal_Compile_Extends**\nextends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_compilebase.html">Smarty_Internal_CompileBase</a>
+<p class="signature">public  class **Smarty_Internal_Compile_Extends**
+extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_compilebase.html">Smarty_Internal_CompileBase</a>
 
 </p>
 
@@ -45,7 +47,7 @@
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td class="type"> string</td>
-<td class="description"><p class="name"><a href="#compile()">compile</a>(array args, object compiler)</p><p class="description">Compiles code for the {extends} tag</p></td>
+<td class="description"><p class="name"><a href="#compile">compile</a>(array args, object compiler)</p><p class="description">Compiles code for the {extends} tag</p></td>
 </tr>
 </table>
 
@@ -54,21 +56,23 @@
 <tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_compilebase.html#closeTag()">closeTag</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_compilebase.html#getAttributes()">getAttributes</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_compilebase.html#openTag()">openTag</a></td></tr></table>
 
 ##Field Detail##
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_compile_extends.php.md#line40" class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_extends.php at line 40</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_extends.php at line 40</div>
 <h3 id="mbstring_overload">mbstring_overload</h3>
+
 ```php
-public  int **$mbstring_overload** = 0```
+public  int$mbstring_overload = 0
+```
 <div class="details">
 <p>mbstring.overload flag</p></div>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_compile_extends.php.md#line27" class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_extends.php at line 27</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_extends.php at line 27</div>
 <h3 id="required_attributes">required_attributes</h3>
+
 ```php
-public  array **$required_attributes** = array('file')```
+public  array$required_attributes = array('file')
+```
 <div class="details">
 <p>Attribute definition: Overwrites base class.</p><dl>
 <dt>See Also:</dt>
@@ -78,11 +82,12 @@ public  array **$required_attributes** = array('file')```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_compile_extends.php.md#line34" class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_extends.php at line 34</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_extends.php at line 34</div>
 <h3 id="shorttag_order">shorttag_order</h3>
+
 ```php
-public  array **$shorttag_order** = array('file')```
+public  array$shorttag_order = array('file')
+```
 <div class="details">
 <p>Attribute definition: Overwrites base class.</p><dl>
 <dt>See Also:</dt>
@@ -93,11 +98,12 @@ public  array **$shorttag_order** = array('file')```
 - - -
 
 <h2 id="detail_method">Method Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_compile_extends.php.md#line49" class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_extends.php at line 49</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_extends.php at line 49</div>
 <h3 id="compile()">compile</h3>
+
 ```php
-public  string **compile**(array args, object compiler)```
+public  string **compile**(array args, object compiler)
+```
 <div class="details">
 <p>Compiles code for the {extends} tag</p><dl>
 <dt>Parameters:</dt>

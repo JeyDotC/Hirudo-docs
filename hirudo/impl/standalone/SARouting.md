@@ -1,15 +1,17 @@
 - - -
 
 **Hirudo\Impl\StandAlone\SARouting**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Impl/StandAlone/SARouting.php.md#line31" class="location">framework\hirudo\Hirudo\Impl\StandAlone\SARouting.php at line 31</a>
+<div class="location">framework\hirudo\Hirudo\Impl\StandAlone\SARouting.php at line 31</div>
+#Class SARouting#
 
-# Class SARouting #
+<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/routing.html">Routing</a>
+    ***SARouting**
 
-<pre class="tree"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/routing.html">Routing</a>\n    *** SARouting **\n</pre>
 
 - - -
 
-<p class="signature">public  class **SARouting**\nextends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/routing.html">Routing</a>
+<p class="signature">public  class **SARouting**
+extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/routing.html">Routing</a>
 
 </p>
 
@@ -26,16 +28,16 @@
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td class="type"> string</td>
-<td class="description"><p class="name"><a href="#appAction()">appAction</a>(string app, string module, str task, array params)</p><p class="description">Creates a route to the given task using the given application name
+<td class="description"><p class="name"><a href="#appAction">appAction</a>(string app, string module, str task, array params)</p><p class="description">Creates a route to the given task using the given application name
 and the given module name.</p></td>
 </tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#redirect()">redirect</a>(string url)</p><p class="description">Makes an HTTP redirect to the given absolute URL.</p></td>
+<td class="description"><p class="name"><a href="#redirect">redirect</a>(string url)</p><p class="description">Makes an HTTP redirect to the given absolute URL.</p></td>
 </tr>
 <tr>
 <td class="type"> string</td>
-<td class="description"><p class="name"><a href="#getBaseURL()">getBaseURL</a>()</p><p class="description">Gets the current base URL.</p></td>
+<td class="description"><p class="name"><a href="#getBaseURL">getBaseURL</a>()</p><p class="description">Gets the current base URL.</p></td>
 </tr>
 </table>
 
@@ -44,11 +46,12 @@ and the given module name.</p></td>
 <tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/routing.html#action()">action</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/routing.html#appAction()">appAction</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/routing.html#getAppName()">getAppName</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/routing.html#getBaseURL()">getBaseURL</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/routing.html#getModuleName()">getModuleName</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/routing.html#moduleAction()">moduleAction</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/routing.html#redirect()">redirect</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/routing.html#setAppName()">setAppName</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/routing.html#setModuleName()">setModuleName</a></td></tr></table>
 
 <h2 id="detail_method">Method Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Impl/StandAlone/SARouting.php.md#line33" class="location">framework\hirudo\Hirudo\Impl\StandAlone\SARouting.php at line 33</a>
-
+<div class="location">framework\hirudo\Hirudo\Impl\StandAlone\SARouting.php at line 33</div>
 <h3 id="appAction()">appAction</h3>
+
 ```php
-public  string **appAction**(string app, string module, str task, array params)```
+public  string **appAction**(string app, string module, str task, array params)
+```
 <div class="details">
 <p>Creates a route to the given task using the given application name
 and the given module name.</p><dl>
@@ -64,11 +67,12 @@ and the given module name.</p><dl>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Impl/StandAlone/SARouting.php.md#line46" class="location">framework\hirudo\Hirudo\Impl\StandAlone\SARouting.php at line 46</a>
-
+<div class="location">framework\hirudo\Hirudo\Impl\StandAlone\SARouting.php at line 46</div>
 <h3 id="redirect()">redirect</h3>
+
 ```php
-public  void **redirect**(string url)```
+public  void **redirect**(string url)
+```
 <div class="details">
 <p>Makes an HTTP redirect to the given absolute URL.</p><dl>
 <dt>Parameters:</dt>
@@ -78,11 +82,12 @@ public  void **redirect**(string url)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Impl/StandAlone/SARouting.php.md#line50" class="location">framework\hirudo\Hirudo\Impl\StandAlone\SARouting.php at line 50</a>
-
+<div class="location">framework\hirudo\Hirudo\Impl\StandAlone\SARouting.php at line 50</div>
 <h3 id="getBaseURL()">getBaseURL</h3>
+
 ```php
-public  string **getBaseURL**()```
+public  string **getBaseURL**()
+```
 <div class="details">
 <p>Gets the current base URL.</p><dl>
 <dt>Returns:</dt>

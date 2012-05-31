@@ -1,11 +1,11 @@
 - - -
 
 **Smarty\Smarty_Internal_Get_Include_Path**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_get_include_path.php.md#line16" class="location">framework\libs\smarty\sysplugins\smarty_internal_get_include_path.php at line 16</a>
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_get_include_path.php at line 16</div>
+#Class Smarty_Internal_Get_Include_Path#
 
-# Class Smarty_Internal_Get_Include_Path #
+**Smarty_Internal_Get_Include_Path**
 
-<pre class="tree">** Smarty_Internal_Get_Include_Path **\n</pre>
 
 - - -
 
@@ -23,16 +23,17 @@
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td class="type">static  string|boolean</td>
-<td class="description"><p class="name"><a href="#getIncludePath()">getIncludePath</a>(string filepath)</p><p class="description">Return full file path from PHP include_path</p></td>
+<td class="description"><p class="name"><a href="#getIncludePath">getIncludePath</a>(string filepath)</p><p class="description">Return full file path from PHP include_path</p></td>
 </tr>
 </table>
 
 <h2 id="detail_method">Method Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_get_include_path.php.md#line24" class="location">framework\libs\smarty\sysplugins\smarty_internal_get_include_path.php at line 24</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_get_include_path.php at line 24</div>
 <h3 id="getIncludePath()">getIncludePath</h3>
+
 ```php
-public static  string|boolean **getIncludePath**(string filepath)```
+public static  string|boolean **getIncludePath**(string filepath)
+```
 <div class="details">
 <p>Return full file path from PHP include_path</p><dl>
 <dt>Parameters:</dt>

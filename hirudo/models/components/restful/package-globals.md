@@ -1,6 +1,6 @@
 - - -
 
-# Globals #
+#Globals#
 
 - - -
 
@@ -13,8 +13,7 @@
 </table>
 
 <h2 id="detail_global">Global Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Models/Components/Restful/RestRequest.php.md#line26" class="location">framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 26</a>
-
+<div class="location">framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 26</div>
 <h3 id="OK">OK</h3>
 ```php
 public final  mixed **OK** = $verb = 'GET', $requestBody = null```

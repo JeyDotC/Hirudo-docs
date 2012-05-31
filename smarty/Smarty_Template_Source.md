@@ -1,11 +1,11 @@
 - - -
 
 **Smarty\Smarty_Template_Source**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_resource.php.md#line557" class="location">framework\libs\smarty\sysplugins\smarty_resource.php at line 557</a>
+<div class="location">framework\libs\smarty\sysplugins\smarty_resource.php at line 557</div>
+#Class Smarty_Template_Source#
 
-# Class Smarty_Template_Source #
+**Smarty_Template_Source**
 
-<pre class="tree">** Smarty_Template_Source **\n</pre>
 
 <dl>
 <dt>All Known Subclasses:</dt>
@@ -95,7 +95,7 @@
 <tr><th colspan="2">Constructor Summary</th></tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#__construct()">__construct</a>(<a href="../smarty/smarty_resource.html">Smarty_Resource</a> handler, <a href="../smarty/smarty.html">Smarty</a> smarty, string resource, string type, string name, string unique_resource)</p><p class="description">create Source Object container</p></td>
+<td class="description"><p class="name"><a href="#__construct">__construct</a>(<a href="../smarty/smarty_resource.html">Smarty_Resource</a> handler, <a href="../smarty/smarty.html">Smarty</a> smarty, string resource, string type, string name, string unique_resource)</p><p class="description">create Source Object container</p></td>
 </tr>
 </table>
 
@@ -103,161 +103,176 @@
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td class="type"> <a href="../smarty/smarty_template_compiled.html">Smarty_Template_Compiled</a></td>
-<td class="description"><p class="name"><a href="#getCompiled()">getCompiled</a>(<a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> _template)</p><p class="description">get a Compiled Object of this source</p></td>
+<td class="description"><p class="name"><a href="#getCompiled">getCompiled</a>(<a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> _template)</p><p class="description">get a Compiled Object of this source</p></td>
 </tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#renderUncompiled()">renderUncompiled</a>(<a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> _template)</p><p class="description">render the uncompiled source</p></td>
+<td class="description"><p class="name"><a href="#renderUncompiled">renderUncompiled</a>(<a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> _template)</p><p class="description">render the uncompiled source</p></td>
 </tr>
 </table>
 
 ##Field Detail##
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_resource.php.md#line563" class="location">framework\libs\smarty\sysplugins\smarty_resource.php at line 563</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_resource.php at line 563</div>
 <h3 id="compiler_class">compiler_class</h3>
+
 ```php
-public  string **$compiler_class** = null```
+public  string$compiler_class = null
+```
 <div class="details">
 <p>Name of the Class to compile this resource's contents with</p></div>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_resource.php.md#line629" class="location">framework\libs\smarty\sysplugins\smarty_resource.php at line 629</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_resource.php at line 629</div>
 <h3 id="components">components</h3>
+
 ```php
-public  array **$components** = null```
+public  array$components = null
+```
 <div class="details">
 <p>The Components an extended template is made of</p></div>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_resource.php.md#line611" class="location">framework\libs\smarty\sysplugins\smarty_resource.php at line 611</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_resource.php at line 611</div>
 <h3 id="filepath">filepath</h3>
+
 ```php
-public  string **$filepath** = null```
+public  string$filepath = null
+```
 <div class="details">
 <p>Source Filepath</p></div>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_resource.php.md#line635" class="location">framework\libs\smarty\sysplugins\smarty_resource.php at line 635</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_resource.php at line 635</div>
 <h3 id="handler">handler</h3>
+
 ```php
-public  <a href="../smarty/smarty_resource.html">Smarty_Resource</a> **$handler** = null```
+public  <a href="../smarty/smarty_resource.html">Smarty_Resource</a>$handler = null
+```
 <div class="details">
 <p>Resource Handler</p></div>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_resource.php.md#line599" class="location">framework\libs\smarty\sysplugins\smarty_resource.php at line 599</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_resource.php at line 599</div>
 <h3 id="name">name</h3>
+
 ```php
-public  string **$name** = null```
+public  string$name = null
+```
 <div class="details">
 <p>Resource Name</p></div>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_resource.php.md#line623" class="location">framework\libs\smarty\sysplugins\smarty_resource.php at line 623</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_resource.php at line 623</div>
 <h3 id="recompiled">recompiled</h3>
+
 ```php
-public  boolean **$recompiled** = null```
+public  boolean$recompiled = null
+```
 <div class="details">
 <p>Source must be recompiled on every occasion</p></div>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_resource.php.md#line587" class="location">framework\libs\smarty\sysplugins\smarty_resource.php at line 587</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_resource.php at line 587</div>
 <h3 id="resource">resource</h3>
+
 ```php
-public  string **$resource** = null```
+public  string$resource = null
+```
 <div class="details">
 <p>Template Resource (Smarty_Internal_Template::$template_resource)</p></div>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_resource.php.md#line641" class="location">framework\libs\smarty\sysplugins\smarty_resource.php at line 641</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_resource.php at line 641</div>
 <h3 id="smarty">smarty</h3>
+
 ```php
-public  <a href="../smarty/smarty.html">Smarty</a> **$smarty** = null```
+public  <a href="../smarty/smarty.html">Smarty</a>$smarty = null
+```
 <div class="details">
 <p>Smarty instance</p></div>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_resource.php.md#line569" class="location">framework\libs\smarty\sysplugins\smarty_resource.php at line 569</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_resource.php at line 569</div>
 <h3 id="template_lexer_class">template_lexer_class</h3>
+
 ```php
-public  string **$template_lexer_class** = null```
+public  string$template_lexer_class = null
+```
 <div class="details">
 <p>Name of the Class to tokenize this resource's contents with</p></div>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_resource.php.md#line575" class="location">framework\libs\smarty\sysplugins\smarty_resource.php at line 575</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_resource.php at line 575</div>
 <h3 id="template_parser_class">template_parser_class</h3>
+
 ```php
-public  string **$template_parser_class** = null```
+public  string$template_parser_class = null
+```
 <div class="details">
 <p>Name of the Class to parse this resource's contents with</p></div>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_resource.php.md#line593" class="location">framework\libs\smarty\sysplugins\smarty_resource.php at line 593</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_resource.php at line 593</div>
 <h3 id="type">type</h3>
+
 ```php
-public  string **$type** = null```
+public  string$type = null
+```
 <div class="details">
 <p>Resource Type</p></div>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_resource.php.md#line581" class="location">framework\libs\smarty\sysplugins\smarty_resource.php at line 581</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_resource.php at line 581</div>
 <h3 id="uid">uid</h3>
+
 ```php
-public  string **$uid** = null```
+public  string$uid = null
+```
 <div class="details">
 <p>Unique Template ID</p></div>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_resource.php.md#line617" class="location">framework\libs\smarty\sysplugins\smarty_resource.php at line 617</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_resource.php at line 617</div>
 <h3 id="uncompiled">uncompiled</h3>
+
 ```php
-public  boolean **$uncompiled** = null```
+public  boolean$uncompiled = null
+```
 <div class="details">
 <p>Source is bypassing compiler</p></div>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_resource.php.md#line605" class="location">framework\libs\smarty\sysplugins\smarty_resource.php at line 605</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_resource.php at line 605</div>
 <h3 id="unique_resource">unique_resource</h3>
+
 ```php
-public  string **$unique_resource** = null```
+public  string$unique_resource = null
+```
 <div class="details">
 <p>Unique Resource Name</p></div>
 
 - - -
 
 <h2 id="detail_method">Constructor Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_resource.php.md#line653" class="location">framework\libs\smarty\sysplugins\smarty_resource.php at line 653</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_resource.php at line 653</div>
 <h3 id="__construct()">__construct</h3>
+
 ```php
-public  void **__construct**(<a href="../smarty/smarty_resource.html">Smarty_Resource</a> handler, <a href="../smarty/smarty.html">Smarty</a> smarty, string resource, string type, string name, string unique_resource)```
+public  void **__construct**(<a href="../smarty/smarty_resource.html">Smarty_Resource</a> handler, <a href="../smarty/smarty.html">Smarty</a> smarty, string resource, string type, string name, string unique_resource)
+```
 <div class="details">
 <p>create Source Object container</p><dl>
 <dt>Parameters:</dt>
@@ -273,11 +288,12 @@ public  void **__construct**(<a href="../smarty/smarty_resource.html">Smarty_Res
 - - -
 
 <h2 id="detail_method">Method Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_resource.php.md#line676" class="location">framework\libs\smarty\sysplugins\smarty_resource.php at line 676</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_resource.php at line 676</div>
 <h3 id="getCompiled()">getCompiled</h3>
+
 ```php
-public  <a href="../smarty/smarty_template_compiled.html">Smarty_Template_Compiled</a> **getCompiled**(<a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> _template)```
+public  <a href="../smarty/smarty_template_compiled.html">Smarty_Template_Compiled</a> **getCompiled**(<a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> _template)
+```
 <div class="details">
 <p>get a Compiled Object of this source</p><dl>
 <dt>Parameters:</dt>
@@ -289,11 +305,12 @@ public  <a href="../smarty/smarty_template_compiled.html">Smarty_Template_Compil
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_resource.php.md#line700" class="location">framework\libs\smarty\sysplugins\smarty_resource.php at line 700</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_resource.php at line 700</div>
 <h3 id="renderUncompiled()">renderUncompiled</h3>
+
 ```php
-public  void **renderUncompiled**(<a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> _template)```
+public  void **renderUncompiled**(<a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> _template)
+```
 <div class="details">
 <p>render the uncompiled source</p><dl>
 <dt>Parameters:</dt>

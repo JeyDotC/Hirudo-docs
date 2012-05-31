@@ -1,11 +1,11 @@
 - - -
 
 **Smarty\Smarty_Internal_Nocache_Insert**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_nocache_insert.php.md#line18" class="location">framework\libs\smarty\sysplugins\smarty_internal_nocache_insert.php at line 18</a>
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_nocache_insert.php at line 18</div>
+#Class Smarty_Internal_Nocache_Insert#
 
-# Class Smarty_Internal_Nocache_Insert #
+**Smarty_Internal_Nocache_Insert**
 
-<pre class="tree">** Smarty_Internal_Nocache_Insert **\n</pre>
 
 - - -
 
@@ -23,16 +23,17 @@
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td class="type">static  string</td>
-<td class="description"><p class="name"><a href="#compile()">compile</a>(string _function, array _attr, <a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> _template, string _script, string _assign)</p><p class="description">Compiles code for the {insert} tag into cache file</p></td>
+<td class="description"><p class="name"><a href="#compile">compile</a>(string _function, array _attr, <a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> _template, string _script, string _assign)</p><p class="description">Compiles code for the {insert} tag into cache file</p></td>
 </tr>
 </table>
 
 <h2 id="detail_method">Method Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_nocache_insert.php.md#line30" class="location">framework\libs\smarty\sysplugins\smarty_internal_nocache_insert.php at line 30</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_nocache_insert.php at line 30</div>
 <h3 id="compile()">compile</h3>
+
 ```php
-public static  string **compile**(string _function, array _attr, <a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> _template, string _script, string _assign)```
+public static  string **compile**(string _function, array _attr, <a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> _template, string _script, string _assign)
+```
 <div class="details">
 <p>Compiles code for the {insert} tag into cache file</p><dl>
 <dt>Parameters:</dt>

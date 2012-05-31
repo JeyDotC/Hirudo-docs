@@ -1,6 +1,6 @@
 - - -
 
-# Namespace Doctrine\Common\Annotations\Annotation #
+#Namespace Doctrine\Common\Annotations\Annotation#
 
 <table class="title">
 <tr><th colspan="2" class="title">Class Summary</th></tr>

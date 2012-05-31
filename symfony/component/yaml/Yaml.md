@@ -1,11 +1,11 @@
 - - -
 
 **Symfony\Component\Yaml\Yaml**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/Yaml/Yaml.php.md#line23" class="location">framework\libs\symfony-components\Symfony\Component\Yaml\Yaml.php at line 23</a>
+<div class="location">framework\libs\symfony-components\Symfony\Component\Yaml\Yaml.php at line 23</div>
+#Class Yaml#
 
-# Class Yaml #
+**Yaml**
 
-<pre class="tree">** Yaml **\n</pre>
 
 - - -
 
@@ -32,47 +32,50 @@
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td class="type">static  void</td>
-<td class="description"><p class="name"><a href="#enablePhpParsing()">enablePhpParsing</a>()</p></td>
+<td class="description"><p class="name"><a href="#enablePhpParsing">enablePhpParsing</a>()</p></td>
 </tr>
 <tr>
 <td class="type">static  array</td>
-<td class="description"><p class="name"><a href="#parse()">parse</a>(string input)</p><p class="description">Parses YAML into a PHP array.
+<td class="description"><p class="name"><a href="#parse">parse</a>(string input)</p><p class="description">Parses YAML into a PHP array.
 </p></td>
 </tr>
 <tr>
 <td class="type">static  string</td>
-<td class="description"><p class="name"><a href="#dump()">dump</a>(array array, integer inline)</p><p class="description">Dumps a PHP array to a YAML string.
+<td class="description"><p class="name"><a href="#dump">dump</a>(array array, integer inline)</p><p class="description">Dumps a PHP array to a YAML string.
 </p></td>
 </tr>
 </table>
 
 ##Field Detail##
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/Yaml/Yaml.php.md#line25" class="location">framework\libs\symfony-components\Symfony\Component\Yaml\Yaml.php at line 25</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\Yaml\Yaml.php at line 25</div>
 <h3 id="enablePhpParsing">enablePhpParsing</h3>
+
 ```php
-public static  mixed **$enablePhpParsing** = false```
+public static  mixed$enablePhpParsing = false
+```
 <div class="details">
 </div>
 
 - - -
 
 <h2 id="detail_method">Method Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/Yaml/Yaml.php.md#line27" class="location">framework\libs\symfony-components\Symfony\Component\Yaml\Yaml.php at line 27</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\Yaml\Yaml.php at line 27</div>
 <h3 id="enablePhpParsing()">enablePhpParsing</h3>
+
 ```php
-public static  void **enablePhpParsing**()```
+public static  void **enablePhpParsing**()
+```
 <div class="details">
 </div>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/Yaml/Yaml.php.md#line51" class="location">framework\libs\symfony-components\Symfony\Component\Yaml\Yaml.php at line 51</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\Yaml\Yaml.php at line 51</div>
 <h3 id="parse()">parse</h3>
+
 ```php
-public static  array **parse**(string input)```
+public static  array **parse**(string input)
+```
 <div class="details">
 <p>Parses YAML into a PHP array.</p><p>The parse method, when supplied with a YAML stream (string or file),
 will do its best to convert YAML in a file into a PHP array.</p><p>Usage:
@@ -92,11 +95,12 @@ print_r($array);
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/Yaml/Yaml.php.md#line103" class="location">framework\libs\symfony-components\Symfony\Component\Yaml\Yaml.php at line 103</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\Yaml\Yaml.php at line 103</div>
 <h3 id="dump()">dump</h3>
+
 ```php
-public static  string **dump**(array array, integer inline)```
+public static  string **dump**(array array, integer inline)
+```
 <div class="details">
 <p>Dumps a PHP array to a YAML string.</p><p>The dump method, when supplied with an array, will do its best
 to convert the array into friendly YAML.</p><dl>

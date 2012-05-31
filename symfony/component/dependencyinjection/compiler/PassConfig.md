@@ -1,11 +1,11 @@
 - - -
 
 **Symfony\Component\DependencyInjection\Compiler\PassConfig**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/PassConfig.php.md#line23" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\PassConfig.php at line 23</a>
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\PassConfig.php at line 23</div>
+#Class PassConfig#
 
-# Class PassConfig #
+**PassConfig**
 
-<pre class="tree">** PassConfig **\n</pre>
 
 - - -
 

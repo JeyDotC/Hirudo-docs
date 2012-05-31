@@ -1,15 +1,17 @@
 - - -
 
 **Hirudo\Lang\Str**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Lang/Str.php.md#line10" class="location">framework\hirudo\Hirudo\Lang\Str.php at line 10</a>
+<div class="location">framework\hirudo\Hirudo\Lang\Str.php at line 10</div>
+#Class Str#
 
-# Class Str #
+<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/lang/string.html">String</a>
+    ***Str**
 
-<pre class="tree"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/lang/string.html">String</a>\n    *** Str **\n</pre>
 
 - - -
 
-<p class="signature">public abstract  class **Str**\nextends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/lang/string.html">String</a>
+<p class="signature">public abstract  class **Str**
+extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/lang/string.html">String</a>
 
 </p>
 

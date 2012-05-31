@@ -1,11 +1,11 @@
 - - -
 
 **Smarty\Smarty_Template_Cached**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_cacheresource.php.md#line205" class="location">framework\libs\smarty\sysplugins\smarty_cacheresource.php at line 205</a>
+<div class="location">framework\libs\smarty\sysplugins\smarty_cacheresource.php at line 205</div>
+#Class Smarty_Template_Cached#
 
-# Class Smarty_Template_Cached #
+**Smarty_Template_Cached**
 
-<pre class="tree">** Smarty_Template_Cached **\n</pre>
 
 - - -
 
@@ -77,7 +77,7 @@
 <tr><th colspan="2">Constructor Summary</th></tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#__construct()">__construct</a>(<a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> _template)</p><p class="description">create Cached Object container</p></td>
+<td class="description"><p class="name"><a href="#__construct">__construct</a>(<a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> _template)</p><p class="description">create Cached Object container</p></td>
 </tr>
 </table>
 
@@ -85,137 +85,150 @@
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td class="type"> boolean</td>
-<td class="description"><p class="name"><a href="#write()">write</a>(<a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> _template, string content)</p><p class="description">Write this cache object to handler</p></td>
+<td class="description"><p class="name"><a href="#write">write</a>(<a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> _template, string content)</p><p class="description">Write this cache object to handler</p></td>
 </tr>
 </table>
 
 ##Field Detail##
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_cacheresource.php.md#line258" class="location">framework\libs\smarty\sysplugins\smarty_cacheresource.php at line 258</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_cacheresource.php at line 258</div>
 <h3 id="cache_id">cache_id</h3>
+
 ```php
-public  string **$cache_id** = null```
+public  string$cache_id = null
+```
 <div class="details">
 <p>Template Cache Id (Smarty_Internal_Template::$cache_id)</p></div>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_cacheresource.php.md#line252" class="location">framework\libs\smarty\sysplugins\smarty_cacheresource.php at line 252</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_cacheresource.php at line 252</div>
 <h3 id="compile_id">compile_id</h3>
+
 ```php
-public  string **$compile_id** = null```
+public  string$compile_id = null
+```
 <div class="details">
 <p>Template Compile Id (Smarty_Internal_Template::$compile_id)</p></div>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_cacheresource.php.md#line216" class="location">framework\libs\smarty\sysplugins\smarty_cacheresource.php at line 216</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_cacheresource.php at line 216</div>
 <h3 id="content">content</h3>
+
 ```php
-public  string **$content** = null```
+public  string$content = null
+```
 <div class="details">
 <p>Source Content</p></div>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_cacheresource.php.md#line228" class="location">framework\libs\smarty\sysplugins\smarty_cacheresource.php at line 228</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_cacheresource.php at line 228</div>
 <h3 id="exists">exists</h3>
+
 ```php
-public  boolean **$exists** = false```
+public  boolean$exists = false
+```
 <div class="details">
 <p>Source Existance</p></div>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_cacheresource.php.md#line210" class="location">framework\libs\smarty\sysplugins\smarty_cacheresource.php at line 210</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_cacheresource.php at line 210</div>
 <h3 id="filepath">filepath</h3>
+
 ```php
-public  string **$filepath** = false```
+public  string$filepath = false
+```
 <div class="details">
 <p>Source Filepath</p></div>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_cacheresource.php.md#line246" class="location">framework\libs\smarty\sysplugins\smarty_cacheresource.php at line 246</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_cacheresource.php at line 246</div>
 <h3 id="handler">handler</h3>
+
 ```php
-public  <a href="../smarty/smarty_cacheresource.html">Smarty_CacheResource</a> **$handler** = null```
+public  <a href="../smarty/smarty_cacheresource.html">Smarty_CacheResource</a>$handler = null
+```
 <div class="details">
 <p>CacheResource Handler</p></div>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_cacheresource.php.md#line270" class="location">framework\libs\smarty\sysplugins\smarty_cacheresource.php at line 270</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_cacheresource.php at line 270</div>
 <h3 id="is_locked">is_locked</h3>
+
 ```php
-public  bool **$is_locked** = false```
+public  bool$is_locked = false
+```
 <div class="details">
 <p>flag that cache is locked by this instance</p></div>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_cacheresource.php.md#line264" class="location">framework\libs\smarty\sysplugins\smarty_cacheresource.php at line 264</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_cacheresource.php at line 264</div>
 <h3 id="lock_id">lock_id</h3>
+
 ```php
-public  string **$lock_id** = null```
+public  string$lock_id = null
+```
 <div class="details">
 <p>Id for cache locking</p></div>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_cacheresource.php.md#line240" class="location">framework\libs\smarty\sysplugins\smarty_cacheresource.php at line 240</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_cacheresource.php at line 240</div>
 <h3 id="processed">processed</h3>
+
 ```php
-public  boolean **$processed** = false```
+public  boolean$processed = false
+```
 <div class="details">
 <p>Cache was processed</p></div>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_cacheresource.php.md#line276" class="location">framework\libs\smarty\sysplugins\smarty_cacheresource.php at line 276</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_cacheresource.php at line 276</div>
 <h3 id="source">source</h3>
+
 ```php
-public  <a href="../smarty/smarty_template_source.html">Smarty_Template_Source</a> **$source** = null```
+public  <a href="../smarty/smarty_template_source.html">Smarty_Template_Source</a>$source = null
+```
 <div class="details">
 <p>Source Object</p></div>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_cacheresource.php.md#line222" class="location">framework\libs\smarty\sysplugins\smarty_cacheresource.php at line 222</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_cacheresource.php at line 222</div>
 <h3 id="timestamp">timestamp</h3>
+
 ```php
-public  integer **$timestamp** = false```
+public  integer$timestamp = false
+```
 <div class="details">
 <p>Source Timestamp</p></div>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_cacheresource.php.md#line234" class="location">framework\libs\smarty\sysplugins\smarty_cacheresource.php at line 234</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_cacheresource.php at line 234</div>
 <h3 id="valid">valid</h3>
+
 ```php
-public  boolean **$valid** = false```
+public  boolean$valid = false
+```
 <div class="details">
 <p>Cache Is Valid</p></div>
 
 - - -
 
 <h2 id="detail_method">Constructor Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_cacheresource.php.md#line283" class="location">framework\libs\smarty\sysplugins\smarty_cacheresource.php at line 283</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_cacheresource.php at line 283</div>
 <h3 id="__construct()">__construct</h3>
+
 ```php
-public  void **__construct**(<a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> _template)```
+public  void **__construct**(<a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> _template)
+```
 <div class="details">
 <p>create Cached Object container</p><dl>
 <dt>Parameters:</dt>
@@ -226,11 +239,12 @@ public  void **__construct**(<a href="../smarty/smarty_internal_template.html">S
 - - -
 
 <h2 id="detail_method">Method Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_cacheresource.php.md#line362" class="location">framework\libs\smarty\sysplugins\smarty_cacheresource.php at line 362</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_cacheresource.php at line 362</div>
 <h3 id="write()">write</h3>
+
 ```php
-public  boolean **write**(<a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> _template, string content)```
+public  boolean **write**(<a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> _template, string content)
+```
 <div class="details">
 <p>Write this cache object to handler</p><dl>
 <dt>Parameters:</dt>

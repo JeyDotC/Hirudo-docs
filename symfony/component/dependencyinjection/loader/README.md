@@ -1,6 +1,6 @@
 - - -
 
-# Namespace Symfony\Component\DependencyInjection\Loader #
+#Namespace Symfony\Component\DependencyInjection\Loader#
 
 <table class="title">
 <tr><th colspan="2" class="title">Class Summary</th></tr>

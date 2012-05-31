@@ -1,11 +1,11 @@
 - - -
 
 **Symfony\Component\DependencyInjection\ContainerInterface**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ContainerInterface.php.md#line22" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerInterface.php at line 22</a>
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerInterface.php at line 22</div>
+#Interface ContainerInterface#
 
-# Interface ContainerInterface #
+**ContainerInterface**
 
-<pre class="tree">** ContainerInterface **\n</pre>
 
 <dl>
 <dt>All Known Subclasses:</dt>
@@ -30,53 +30,54 @@
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td class="type"> object</td>
-<td class="description"><p class="name"><a href="#get()">get</a>(string id, int invalidBehavior)</p><p class="description">Gets a service.</p></td>
+<td class="description"><p class="name"><a href="#get">get</a>(string id, int invalidBehavior)</p><p class="description">Gets a service.</p></td>
 </tr>
 <tr>
 <td class="type"> Boolean</td>
-<td class="description"><p class="name"><a href="#has()">has</a>(string id)</p><p class="description">Returns true if the given service is defined.</p></td>
+<td class="description"><p class="name"><a href="#has">has</a>(string id)</p><p class="description">Returns true if the given service is defined.</p></td>
 </tr>
 <tr>
 <td class="type"> mixed</td>
-<td class="description"><p class="name"><a href="#getParameter()">getParameter</a>(string name)</p><p class="description">Gets a parameter.</p></td>
+<td class="description"><p class="name"><a href="#getParameter">getParameter</a>(string name)</p><p class="description">Gets a parameter.</p></td>
 </tr>
 <tr>
 <td class="type"> Boolean</td>
-<td class="description"><p class="name"><a href="#hasParameter()">hasParameter</a>(string name)</p><p class="description">Checks if a parameter exists.</p></td>
+<td class="description"><p class="name"><a href="#hasParameter">hasParameter</a>(string name)</p><p class="description">Checks if a parameter exists.</p></td>
 </tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#setParameter()">setParameter</a>(string name, mixed value)</p><p class="description">Sets a parameter.</p></td>
+<td class="description"><p class="name"><a href="#setParameter">setParameter</a>(string name, mixed value)</p><p class="description">Sets a parameter.</p></td>
 </tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#enterScope()">enterScope</a>(string name)</p><p class="description">Enters the given scope</p></td>
+<td class="description"><p class="name"><a href="#enterScope">enterScope</a>(string name)</p><p class="description">Enters the given scope</p></td>
 </tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#leaveScope()">leaveScope</a>(string name)</p><p class="description">Leaves the current scope, and re-enters the parent scope</p></td>
+<td class="description"><p class="name"><a href="#leaveScope">leaveScope</a>(string name)</p><p class="description">Leaves the current scope, and re-enters the parent scope</p></td>
 </tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#addScope()">addScope</a>(<a href="../../../symfony/component/dependencyinjection/scopeinterface.html">ScopeInterface</a> scope)</p><p class="description">Adds a scope to the container</p></td>
+<td class="description"><p class="name"><a href="#addScope">addScope</a>(<a href="../../../symfony/component/dependencyinjection/scopeinterface.html">ScopeInterface</a> scope)</p><p class="description">Adds a scope to the container</p></td>
 </tr>
 <tr>
 <td class="type"> Boolean</td>
-<td class="description"><p class="name"><a href="#hasScope()">hasScope</a>(string name)</p><p class="description">Whether this container has the given scope</p></td>
+<td class="description"><p class="name"><a href="#hasScope">hasScope</a>(string name)</p><p class="description">Whether this container has the given scope</p></td>
 </tr>
 <tr>
 <td class="type"> Boolean</td>
-<td class="description"><p class="name"><a href="#isScopeActive()">isScopeActive</a>(string name)</p><p class="description">Determines whether the given scope is currently active.
+<td class="description"><p class="name"><a href="#isScopeActive">isScopeActive</a>(string name)</p><p class="description">Determines whether the given scope is currently active.
 </p></td>
 </tr>
 </table>
 
 <h2 id="detail_method">Method Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ContainerInterface.php.md#line40" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerInterface.php at line 40</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerInterface.php at line 40</div>
 <h3 id="get()">get</h3>
+
 ```php
-public  object **get**(string id, int invalidBehavior)```
+public  object **get**(string id, int invalidBehavior)
+```
 <div class="details">
 <p>Gets a service.</p><dl>
 <dt>Parameters:</dt>
@@ -94,11 +95,12 @@ public  object **get**(string id, int invalidBehavior)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ContainerInterface.php.md#line51" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerInterface.php at line 51</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerInterface.php at line 51</div>
 <h3 id="has()">has</h3>
+
 ```php
-public  Boolean **has**(string id)```
+public  Boolean **has**(string id)
+```
 <div class="details">
 <p>Returns true if the given service is defined.</p><dl>
 <dt>Parameters:</dt>
@@ -111,11 +113,12 @@ public  Boolean **has**(string id)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ContainerInterface.php.md#line64" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerInterface.php at line 64</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerInterface.php at line 64</div>
 <h3 id="getParameter()">getParameter</h3>
+
 ```php
-public  mixed **getParameter**(string name)```
+public  mixed **getParameter**(string name)
+```
 <div class="details">
 <p>Gets a parameter.</p><dl>
 <dt>Parameters:</dt>
@@ -130,11 +133,12 @@ public  mixed **getParameter**(string name)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ContainerInterface.php.md#line75" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerInterface.php at line 75</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerInterface.php at line 75</div>
 <h3 id="hasParameter()">hasParameter</h3>
+
 ```php
-public  Boolean **hasParameter**(string name)```
+public  Boolean **hasParameter**(string name)
+```
 <div class="details">
 <p>Checks if a parameter exists.</p><dl>
 <dt>Parameters:</dt>
@@ -147,11 +151,12 @@ public  Boolean **hasParameter**(string name)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ContainerInterface.php.md#line85" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerInterface.php at line 85</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerInterface.php at line 85</div>
 <h3 id="setParameter()">setParameter</h3>
+
 ```php
-public  void **setParameter**(string name, mixed value)```
+public  void **setParameter**(string name, mixed value)
+```
 <div class="details">
 <p>Sets a parameter.</p><dl>
 <dt>Parameters:</dt>
@@ -163,11 +168,12 @@ public  void **setParameter**(string name, mixed value)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ContainerInterface.php.md#line95" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerInterface.php at line 95</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerInterface.php at line 95</div>
 <h3 id="enterScope()">enterScope</h3>
+
 ```php
-public  void **enterScope**(string name)```
+public  void **enterScope**(string name)
+```
 <div class="details">
 <p>Enters the given scope</p><dl>
 <dt>Api.</dt>
@@ -176,11 +182,12 @@ public  void **enterScope**(string name)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ContainerInterface.php.md#line105" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerInterface.php at line 105</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerInterface.php at line 105</div>
 <h3 id="leaveScope()">leaveScope</h3>
+
 ```php
-public  void **leaveScope**(string name)```
+public  void **leaveScope**(string name)
+```
 <div class="details">
 <p>Leaves the current scope, and re-enters the parent scope</p><dl>
 <dt>Api.</dt>
@@ -189,11 +196,12 @@ public  void **leaveScope**(string name)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ContainerInterface.php.md#line115" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerInterface.php at line 115</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerInterface.php at line 115</div>
 <h3 id="addScope()">addScope</h3>
+
 ```php
-public  void **addScope**(<a href="../../../symfony/component/dependencyinjection/scopeinterface.html">ScopeInterface</a> scope)```
+public  void **addScope**(<a href="../../../symfony/component/dependencyinjection/scopeinterface.html">ScopeInterface</a> scope)
+```
 <div class="details">
 <p>Adds a scope to the container</p><dl>
 <dt>Api.</dt>
@@ -202,11 +210,12 @@ public  void **addScope**(<a href="../../../symfony/component/dependencyinjectio
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ContainerInterface.php.md#line125" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerInterface.php at line 125</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerInterface.php at line 125</div>
 <h3 id="hasScope()">hasScope</h3>
+
 ```php
-public  Boolean **hasScope**(string name)```
+public  Boolean **hasScope**(string name)
+```
 <div class="details">
 <p>Whether this container has the given scope</p><dl>
 <dt>Api.</dt>
@@ -215,11 +224,12 @@ public  Boolean **hasScope**(string name)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ContainerInterface.php.md#line137" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerInterface.php at line 137</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerInterface.php at line 137</div>
 <h3 id="isScopeActive()">isScopeActive</h3>
+
 ```php
-public  Boolean **isScopeActive**(string name)```
+public  Boolean **isScopeActive**(string name)
+```
 <div class="details">
 <p>Determines whether the given scope is currently active.</p><p>It does however not check if the scope actually exists.</p><dl>
 <dt>Api.</dt>

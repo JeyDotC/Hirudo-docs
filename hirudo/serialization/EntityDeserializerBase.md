@@ -1,11 +1,11 @@
 - - -
 
 **Hirudo\Serialization\EntityDeserializerBase**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Serialization/EntityDeserializerBase.php.md#line29" class="location">framework\hirudo\Hirudo\Serialization\EntityDeserializerBase.php at line 29</a>
+<div class="location">framework\hirudo\Hirudo\Serialization\EntityDeserializerBase.php at line 29</div>
+#Class EntityDeserializerBase#
 
-# Class EntityDeserializerBase #
+**EntityDeserializerBase**
 
-<pre class="tree">** EntityDeserializerBase **\n</pre>
 
 <dl>
 <dt>All Known Subclasses:</dt>
@@ -24,7 +24,7 @@
 <tr><th colspan="2">Constructor Summary</th></tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#__construct()">__construct</a>()</p><p class="description">Creates a new entity de-serializer.</p></td>
+<td class="description"><p class="name"><a href="#__construct">__construct</a>()</p><p class="description">Creates a new entity de-serializer.</p></td>
 </tr>
 </table>
 
@@ -32,33 +32,35 @@
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td class="type"> mixed</td>
-<td class="description"><p class="name"><a href="#deserialize()">deserialize</a>(string class, string string)</p><p class="description">Converts the given string into an entity of the given class.</p></td>
+<td class="description"><p class="name"><a href="#deserialize">deserialize</a>(string class, string string)</p><p class="description">Converts the given string into an entity of the given class.</p></td>
 </tr>
 <tr>
 <td class="type">protected abstract  array</td>
-<td class="description"><p class="name"><a href="#convertStringToArray()">convertStringToArray</a>(string string)</p><p class="description">This is the abstract method to be implemented by any de-serializer, it receives
+<td class="description"><p class="name"><a href="#convertStringToArray">convertStringToArray</a>(string string)</p><p class="description">This is the abstract method to be implemented by any de-serializer, it receives
 an string to be converted into an associative array which will make easier
 the conversion into an entity.</p></td>
 </tr>
 </table>
 
 <h2 id="detail_method">Constructor Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Serialization/EntityDeserializerBase.php.md#line36" class="location">framework\hirudo\Hirudo\Serialization\EntityDeserializerBase.php at line 36</a>
-
+<div class="location">framework\hirudo\Hirudo\Serialization\EntityDeserializerBase.php at line 36</div>
 <h3 id="__construct()">__construct</h3>
+
 ```php
-public  void **__construct**()```
+public  void **__construct**()
+```
 <div class="details">
 <p>Creates a new entity de-serializer.</p></div>
 
 - - -
 
 <h2 id="detail_method">Method Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Serialization/EntityDeserializerBase.php.md#line48" class="location">framework\hirudo\Hirudo\Serialization\EntityDeserializerBase.php at line 48</a>
-
+<div class="location">framework\hirudo\Hirudo\Serialization\EntityDeserializerBase.php at line 48</div>
 <h3 id="deserialize()">deserialize</h3>
+
 ```php
-public  mixed **deserialize**(string class, string string)```
+public  mixed **deserialize**(string class, string string)
+```
 <div class="details">
 <p>Converts the given string into an entity of the given class.</p><dl>
 <dt>Parameters:</dt>
@@ -71,11 +73,12 @@ public  mixed **deserialize**(string class, string string)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Serialization/EntityDeserializerBase.php.md#line67" class="location">framework\hirudo\Hirudo\Serialization\EntityDeserializerBase.php at line 67</a>
-
+<div class="location">framework\hirudo\Hirudo\Serialization\EntityDeserializerBase.php at line 67</div>
 <h3 id="convertStringToArray()">convertStringToArray</h3>
+
 ```php
-protected abstract  array **convertStringToArray**(string string)```
+protected abstract  array **convertStringToArray**(string string)
+```
 <div class="details">
 <p>This is the abstract method to be implemented by any de-serializer, it receives
 an string to be converted into an associative array which will make easier

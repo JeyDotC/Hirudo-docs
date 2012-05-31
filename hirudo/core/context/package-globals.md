@@ -1,6 +1,6 @@
 - - -
 
-# Globals #
+#Globals#
 
 - - -
 
@@ -13,8 +13,7 @@
 </table>
 
 <h2 id="detail_global">Global Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Core/Context/Session.php.md#line32" class="location">framework\hirudo\Hirudo\Core\Context\Session.php at line 32</a>
-
+<div class="location">framework\hirudo\Hirudo\Core\Context\Session.php at line 32</div>
 <h3 id="ACTIVE">ACTIVE</h3>
 ```php
 public final  mixed **ACTIVE** = $value```

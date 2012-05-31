@@ -1,6 +1,6 @@
 - - -
 
-# Globals #
+#Globals#
 
 - - -
 
@@ -13,8 +13,7 @@
 </table>
 
 <h2 id="detail_global">Global Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Core/Events/BeforeTaskEvent.php.md#line36" class="location">framework\hirudo\Hirudo\Core\Events\BeforeTaskEvent.php at line 36</a>
-
+<div class="location">framework\hirudo\Hirudo\Core\Events\BeforeTaskEvent.php at line 36</div>
 <h3 id="NAME">NAME</h3>
 ```php
 public final  mixed **NAME** = ModuleCall $call```

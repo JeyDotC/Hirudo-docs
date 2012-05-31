@@ -1,15 +1,17 @@
 - - -
 
 **Smarty\Smarty_Internal_SmartyTemplateCompiler**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_smartytemplatecompiler.php.md#line23" class="location">framework\libs\smarty\sysplugins\smarty_internal_smartytemplatecompiler.php at line 23</a>
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_smartytemplatecompiler.php at line 23</div>
+#Class Smarty_Internal_SmartyTemplateCompiler#
 
-# Class Smarty_Internal_SmartyTemplateCompiler #
+<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_templatecompilerbase.html">Smarty_Internal_TemplateCompilerBase</a>
+    ***Smarty_Internal_SmartyTemplateCompiler**
 
-<pre class="tree"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_templatecompilerbase.html">Smarty_Internal_TemplateCompilerBase</a>\n    *** Smarty_Internal_SmartyTemplateCompiler **\n</pre>
 
 - - -
 
-<p class="signature">public  class **Smarty_Internal_SmartyTemplateCompiler**\nextends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_templatecompilerbase.html">Smarty_Internal_TemplateCompilerBase</a>
+<p class="signature">public  class **Smarty_Internal_SmartyTemplateCompiler**
+extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_templatecompilerbase.html">Smarty_Internal_TemplateCompilerBase</a>
 
 </p>
 
@@ -57,7 +59,7 @@
 <tr><th colspan="2">Constructor Summary</th></tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#__construct()">__construct</a>(string lexer_class, string parser_class, <a href="../smarty/smarty.html">Smarty</a> smarty)</p><p class="description">Initialize compiler</p></td>
+<td class="description"><p class="name"><a href="#__construct">__construct</a>(string lexer_class, string parser_class, <a href="../smarty/smarty.html">Smarty</a> smarty)</p><p class="description">Initialize compiler</p></td>
 </tr>
 </table>
 
@@ -65,7 +67,7 @@
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td class="type">protected  bool</td>
-<td class="description"><p class="name"><a href="#doCompile()">doCompile</a>(mixed _content)</p><p class="description">Methode to compile a Smarty template</p></td>
+<td class="description"><p class="name"><a href="#doCompile">doCompile</a>(mixed _content)</p><p class="description">Methode to compile a Smarty template</p></td>
 </tr>
 </table>
 
@@ -74,72 +76,79 @@
 <tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_templatecompilerbase.html#__construct()">__construct</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_templatecompilerbase.html#callTagCompiler()">callTagCompiler</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_templatecompilerbase.html#compileTag()">compileTag</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_templatecompilerbase.html#compileTemplate()">compileTemplate</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_templatecompilerbase.html#getPlugin()">getPlugin</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_templatecompilerbase.html#getPluginFromDefaultHandler()">getPluginFromDefaultHandler</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_templatecompilerbase.html#processNocacheCode()">processNocacheCode</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_templatecompilerbase.html#trigger_template_error()">trigger_template_error</a></td></tr></table>
 
 ##Field Detail##
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_smartytemplatecompiler.php.md#line44" class="location">framework\libs\smarty\sysplugins\smarty_internal_smartytemplatecompiler.php at line 44</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_smartytemplatecompiler.php at line 44</div>
 <h3 id="lex">lex</h3>
+
 ```php
-public  object **$lex**```
+public  object$lex
+```
 <div class="details">
 <p>Lexer object</p></div>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_smartytemplatecompiler.php.md#line30" class="location">framework\libs\smarty\sysplugins\smarty_internal_smartytemplatecompiler.php at line 30</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_smartytemplatecompiler.php at line 30</div>
 <h3 id="lexer_class">lexer_class</h3>
+
 ```php
-public  string **$lexer_class** = null```
+public  string$lexer_class = null
+```
 <div class="details">
 <p>Lexer class name</p></div>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_smartytemplatecompiler.php.md#line65" class="location">framework\libs\smarty\sysplugins\smarty_internal_smartytemplatecompiler.php at line 65</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_smartytemplatecompiler.php at line 65</div>
 <h3 id="local_var">local_var</h3>
+
 ```php
-public  array **$local_var** = array()```
+public  array$local_var = array()
+```
 <div class="details">
 <p>array of vars which can be compiled in local scope</p></div>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_smartytemplatecompiler.php.md#line51" class="location">framework\libs\smarty\sysplugins\smarty_internal_smartytemplatecompiler.php at line 51</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_smartytemplatecompiler.php at line 51</div>
 <h3 id="parser">parser</h3>
+
 ```php
-public  object **$parser**```
+public  object$parser
+```
 <div class="details">
 <p>Parser object</p></div>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_smartytemplatecompiler.php.md#line37" class="location">framework\libs\smarty\sysplugins\smarty_internal_smartytemplatecompiler.php at line 37</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_smartytemplatecompiler.php at line 37</div>
 <h3 id="parser_class">parser_class</h3>
+
 ```php
-public  string **$parser_class**```
+public  string$parser_class
+```
 <div class="details">
 <p>Parser class name</p></div>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_smartytemplatecompiler.php.md#line58" class="location">framework\libs\smarty\sysplugins\smarty_internal_smartytemplatecompiler.php at line 58</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_smartytemplatecompiler.php at line 58</div>
 <h3 id="smarty">smarty</h3>
+
 ```php
-public  object **$smarty**```
+public  object$smarty
+```
 <div class="details">
 <p>Smarty object</p></div>
 
 - - -
 
 <h2 id="detail_method">Constructor Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_smartytemplatecompiler.php.md#line74" class="location">framework\libs\smarty\sysplugins\smarty_internal_smartytemplatecompiler.php at line 74</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_smartytemplatecompiler.php at line 74</div>
 <h3 id="__construct()">__construct</h3>
+
 ```php
-public  void **__construct**(string lexer_class, string parser_class, <a href="../smarty/smarty.html">Smarty</a> smarty)```
+public  void **__construct**(string lexer_class, string parser_class, <a href="../smarty/smarty.html">Smarty</a> smarty)
+```
 <div class="details">
 <p>Initialize compiler</p><dl>
 <dt>Parameters:</dt>
@@ -152,11 +161,12 @@ public  void **__construct**(string lexer_class, string parser_class, <a href=".
 - - -
 
 <h2 id="detail_method">Method Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_smartytemplatecompiler.php.md#line89" class="location">framework\libs\smarty\sysplugins\smarty_internal_smartytemplatecompiler.php at line 89</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_smartytemplatecompiler.php at line 89</div>
 <h3 id="doCompile()">doCompile</h3>
+
 ```php
-protected  bool **doCompile**(mixed _content)```
+protected  bool **doCompile**(mixed _content)
+```
 <div class="details">
 <p>Methode to compile a Smarty template</p><dl>
 <dt>Parameters:</dt>

@@ -1,11 +1,11 @@
 - - -
 
 **Doctrine\Common\Annotations\Annotation\Required**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/doctrine-common/Doctrine/Common/Annotations/Annotation/Required.php.md#line31" class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\Annotation\Required.php at line 31</a>
+<div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\Annotation\Required.php at line 31</div>
+#Class Required#
 
-# Class Required #
+**Required**
 
-<pre class="tree">** Required **\n</pre>
 
 - - -
 

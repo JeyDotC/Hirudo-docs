@@ -1,11 +1,11 @@
 - - -
 
 **Symfony\Component\DependencyInjection\Extension\ExtensionInterface**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Extension/ExtensionInterface.php.md#line23" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Extension\ExtensionInterface.php at line 23</a>
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Extension\ExtensionInterface.php at line 23</div>
+#Interface ExtensionInterface#
 
-# Interface ExtensionInterface #
+**ExtensionInterface**
 
-<pre class="tree">** ExtensionInterface **\n</pre>
 
 - - -
 
@@ -24,29 +24,30 @@
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#load()">load</a>(array config, <a href="../../../../symfony/component/dependencyinjection/containerbuilder.html">ContainerBuilder</a> container)</p><p class="description">Loads a specific configuration.</p></td>
+<td class="description"><p class="name"><a href="#load">load</a>(array config, <a href="../../../../symfony/component/dependencyinjection/containerbuilder.html">ContainerBuilder</a> container)</p><p class="description">Loads a specific configuration.</p></td>
 </tr>
 <tr>
 <td class="type"> string</td>
-<td class="description"><p class="name"><a href="#getNamespace()">getNamespace</a>()</p><p class="description">Returns the namespace to be used for this extension (XML namespace).</p></td>
+<td class="description"><p class="name"><a href="#getNamespace">getNamespace</a>()</p><p class="description">Returns the namespace to be used for this extension (XML namespace).</p></td>
 </tr>
 <tr>
 <td class="type"> string</td>
-<td class="description"><p class="name"><a href="#getXsdValidationBasePath()">getXsdValidationBasePath</a>()</p><p class="description">Returns the base path for the XSD files.</p></td>
+<td class="description"><p class="name"><a href="#getXsdValidationBasePath">getXsdValidationBasePath</a>()</p><p class="description">Returns the base path for the XSD files.</p></td>
 </tr>
 <tr>
 <td class="type"> string</td>
-<td class="description"><p class="name"><a href="#getAlias()">getAlias</a>()</p><p class="description">Returns the recommended alias to use in XML.
+<td class="description"><p class="name"><a href="#getAlias">getAlias</a>()</p><p class="description">Returns the recommended alias to use in XML.
 </p></td>
 </tr>
 </table>
 
 <h2 id="detail_method">Method Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Extension/ExtensionInterface.php.md#line35" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Extension\ExtensionInterface.php at line 35</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Extension\ExtensionInterface.php at line 35</div>
 <h3 id="load()">load</h3>
+
 ```php
-public  void **load**(array config, <a href="../../../../symfony/component/dependencyinjection/containerbuilder.html">ContainerBuilder</a> container)```
+public  void **load**(array config, <a href="../../../../symfony/component/dependencyinjection/containerbuilder.html">ContainerBuilder</a> container)
+```
 <div class="details">
 <p>Loads a specific configuration.</p><dl>
 <dt>Parameters:</dt>
@@ -60,11 +61,12 @@ public  void **load**(array config, <a href="../../../../symfony/component/depen
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Extension/ExtensionInterface.php.md#line44" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Extension\ExtensionInterface.php at line 44</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Extension\ExtensionInterface.php at line 44</div>
 <h3 id="getNamespace()">getNamespace</h3>
+
 ```php
-public  string **getNamespace**()```
+public  string **getNamespace**()
+```
 <div class="details">
 <p>Returns the namespace to be used for this extension (XML namespace).</p><dl>
 <dt>Returns:</dt>
@@ -75,11 +77,12 @@ public  string **getNamespace**()```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Extension/ExtensionInterface.php.md#line53" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Extension\ExtensionInterface.php at line 53</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Extension\ExtensionInterface.php at line 53</div>
 <h3 id="getXsdValidationBasePath()">getXsdValidationBasePath</h3>
+
 ```php
-public  string **getXsdValidationBasePath**()```
+public  string **getXsdValidationBasePath**()
+```
 <div class="details">
 <p>Returns the base path for the XSD files.</p><dl>
 <dt>Returns:</dt>
@@ -90,11 +93,12 @@ public  string **getXsdValidationBasePath**()```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Extension/ExtensionInterface.php.md#line64" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Extension\ExtensionInterface.php at line 64</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Extension\ExtensionInterface.php at line 64</div>
 <h3 id="getAlias()">getAlias</h3>
+
 ```php
-public  string **getAlias**()```
+public  string **getAlias**()
+```
 <div class="details">
 <p>Returns the recommended alias to use in XML.</p><p>This alias is also the mandatory prefix to use when using YAML.</p><dl>
 <dt>Returns:</dt>

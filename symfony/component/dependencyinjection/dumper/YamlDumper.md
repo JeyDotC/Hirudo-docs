@@ -1,15 +1,17 @@
 - - -
 
 **Symfony\Component\DependencyInjection\Dumper\YamlDumper**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Dumper/YamlDumper.php.md#line26" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Dumper\YamlDumper.php at line 26</a>
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Dumper\YamlDumper.php at line 26</div>
+#Class YamlDumper#
 
-# Class YamlDumper #
+<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/dumper/dumper.html">Dumper</a>
+    ***YamlDumper**
 
-<pre class="tree"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/dumper/dumper.html">Dumper</a>\n    *** YamlDumper **\n</pre>
 
 - - -
 
-<p class="signature">public  class **YamlDumper**\nextends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/dumper/dumper.html">Dumper</a>
+<p class="signature">public  class **YamlDumper**
+extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/dumper/dumper.html">Dumper</a>
 
 </p>
 
@@ -30,7 +32,7 @@
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td class="type"> string</td>
-<td class="description"><p class="name"><a href="#dump()">dump</a>(array options)</p><p class="description">Dumps the service container as an YAML string.</p></td>
+<td class="description"><p class="name"><a href="#dump">dump</a>(array options)</p><p class="description">Dumps the service container as an YAML string.</p></td>
 </tr>
 </table>
 
@@ -39,11 +41,12 @@
 <tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/dumper/dumper.html#__construct()">__construct</a></td></tr></table>
 
 <h2 id="detail_method">Method Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Dumper/YamlDumper.php.md#line37" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Dumper\YamlDumper.php at line 37</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Dumper\YamlDumper.php at line 37</div>
 <h3 id="dump()">dump</h3>
+
 ```php
-public  string **dump**(array options)```
+public  string **dump**(array options)
+```
 <div class="details">
 <p>Dumps the service container as an YAML string.</p><dl>
 <dt>Parameters:</dt>

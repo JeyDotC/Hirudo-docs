@@ -1,3 +1,3 @@
 - - -
 
-# Class Hierarchy for Package Symfony\Component\DependencyInjection\Exception #
+#Class Hierarchy for Package Symfony\Component\DependencyInjection\Exception#

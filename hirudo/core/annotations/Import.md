@@ -1,11 +1,11 @@
 - - -
 
 **Hirudo\Core\Annotations\Import**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Core/Annotations/Import.php.md#line35" class="location">framework\hirudo\Hirudo\Core\Annotations\Import.php at line 35</a>
+<div class="location">framework\hirudo\Hirudo\Core\Annotations\Import.php at line 35</div>
+#Class Import#
 
-# Class Import #
+**Import**
 
-<pre class="tree">** Import **\n</pre>
 
 - - -
 
@@ -37,11 +37,12 @@ to inject a dependency.</p></div>
 </table>
 
 ##Field Detail##
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Core/Annotations/Import.php.md#line64" class="location">framework\hirudo\Hirudo\Core\Annotations\Import.php at line 64</a>
-
+<div class="location">framework\hirudo\Hirudo\Core\Annotations\Import.php at line 64</div>
 <h3 id="className">className</h3>
+
 ```php
-public  string The fully qualified name of the class to be imported. **$className** = null```
+public  string The fully qualified name of the class to be imported.$className = null
+```
 <div class="details">
 <p>A dependency class name. This is useful if the dependency class is instantiable
 and direct instantiation is acceptable. To import interfaces, abstract
@@ -51,11 +52,12 @@ class with the @Export annotation.</p></div>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Core/Annotations/Import.php.md#line53" class="location">framework\hirudo\Hirudo\Core\Annotations\Import.php at line 53</a>
-
+<div class="location">framework\hirudo\Hirudo\Core\Annotations\Import.php at line 53</div>
 <h3 id="id">id</h3>
+
 ```php
-public  string **$id** = null```
+public  string$id = null
+```
 <div class="details">
 <p>The id of the dependency to be injected.</p><p>If this attribute is null, the dependency injector shall determine the class
 of the requested object and create a new instance to inject it. The way the class is

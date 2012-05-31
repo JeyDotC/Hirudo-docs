@@ -1,6 +1,6 @@
 - - -
 
-# Globals #
+#Globals#
 
 - - -
 
@@ -21,8 +21,7 @@
 </table>
 
 <h2 id="detail_global">Global Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/Yaml/Unescaper.php.md#line23" class="location">framework\libs\symfony-components\Symfony\Component\Yaml\Unescaper.php at line 23</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\Yaml\Unescaper.php at line 23</div>
 <h3 id="ENCODING">ENCODING</h3>
 ```php
 public final  mixed **ENCODING** = '\'', $value```
@@ -31,8 +30,7 @@ public final  mixed **ENCODING** = '\'', $value```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/Yaml/Escaper.php.md#line22" class="location">framework\libs\symfony-components\Symfony\Component\Yaml\Escaper.php at line 22</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\Yaml\Escaper.php at line 22</div>
 <h3 id="REGEX_CHARACTER_TO_ESCAPE">REGEX_CHARACTER_TO_ESCAPE</h3>
 ```php
 public final  mixed **REGEX_CHARACTER_TO_ESCAPE** = '\\&quot;',
@@ -46,8 +44,7 @@ public final  mixed **REGEX_CHARACTER_TO_ESCAPE** = '\\&quot;',
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/Yaml/Inline.php.md#line23" class="location">framework\libs\symfony-components\Symfony\Component\Yaml\Inline.php at line 23</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\Yaml\Inline.php at line 23</div>
 <h3 id="REGEX_QUOTED_STRING">REGEX_QUOTED_STRING</h3>
 ```php
 public final  mixed **REGEX_QUOTED_STRING** = get_resource_type($value```

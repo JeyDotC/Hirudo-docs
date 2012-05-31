@@ -1,15 +1,17 @@
 - - -
 
 **Symfony\Component\DependencyInjection\ContainerBuilder**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ContainerBuilder.php.md#line29" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 29</a>
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 29</div>
+#Class ContainerBuilder#
 
-# Class ContainerBuilder #
+<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/container.html">Container</a>
+    ***ContainerBuilder**
 
-<pre class="tree"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/container.html">Container</a>\n    *** ContainerBuilder **\n</pre>
 
 - - -
 
-<p class="signature">public  class **ContainerBuilder**\nextends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/container.html">Container</a>
+<p class="signature">public  class **ContainerBuilder**
+extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/container.html">Container</a>
 
 </p>
 
@@ -30,163 +32,163 @@
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#registerExtension()">registerExtension</a>(<a href="../../../symfony/component/dependencyinjection/extension/extensioninterface.html">ExtensionInterface</a> extension)</p><p class="description">Registers an extension.</p></td>
+<td class="description"><p class="name"><a href="#registerExtension">registerExtension</a>(<a href="../../../symfony/component/dependencyinjection/extension/extensioninterface.html">ExtensionInterface</a> extension)</p><p class="description">Registers an extension.</p></td>
 </tr>
 <tr>
 <td class="type"> <a href="../../../symfony/component/dependencyinjection/extension/extensioninterface.html">ExtensionInterface</a></td>
-<td class="description"><p class="name"><a href="#getExtension()">getExtension</a>(string name)</p><p class="description">Returns an extension by alias or namespace.</p></td>
+<td class="description"><p class="name"><a href="#getExtension">getExtension</a>(string name)</p><p class="description">Returns an extension by alias or namespace.</p></td>
 </tr>
 <tr>
 <td class="type"> array</td>
-<td class="description"><p class="name"><a href="#getExtensions()">getExtensions</a>()</p><p class="description">Returns all registered extensions.</p></td>
+<td class="description"><p class="name"><a href="#getExtensions">getExtensions</a>()</p><p class="description">Returns all registered extensions.</p></td>
 </tr>
 <tr>
 <td class="type"> Boolean</td>
-<td class="description"><p class="name"><a href="#hasExtension()">hasExtension</a>(string name)</p><p class="description">Checks if we have an extension.</p></td>
+<td class="description"><p class="name"><a href="#hasExtension">hasExtension</a>(string name)</p><p class="description">Checks if we have an extension.</p></td>
 </tr>
 <tr>
 <td class="type"> ResourceInterface[]</td>
-<td class="description"><p class="name"><a href="#getResources()">getResources</a>()</p><p class="description">Returns an array of resources loaded to build this configuration.</p></td>
+<td class="description"><p class="name"><a href="#getResources">getResources</a>()</p><p class="description">Returns an array of resources loaded to build this configuration.</p></td>
 </tr>
 <tr>
 <td class="type"> <a href="../../../symfony/component/dependencyinjection/containerbuilder.html">ContainerBuilder</a></td>
-<td class="description"><p class="name"><a href="#addResource()">addResource</a>(ResourceInterface resource)</p><p class="description">Adds a resource for this configuration.</p></td>
+<td class="description"><p class="name"><a href="#addResource">addResource</a>(ResourceInterface resource)</p><p class="description">Adds a resource for this configuration.</p></td>
 </tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#addObjectResource()">addObjectResource</a>(object object)</p><p class="description">Adds the object class hierarchy as resources.</p></td>
+<td class="description"><p class="name"><a href="#addObjectResource">addObjectResource</a>(object object)</p><p class="description">Adds the object class hierarchy as resources.</p></td>
 </tr>
 <tr>
 <td class="type"> <a href="../../../symfony/component/dependencyinjection/containerbuilder.html">ContainerBuilder</a></td>
-<td class="description"><p class="name"><a href="#loadFromExtension()">loadFromExtension</a>(string extension, array values)</p><p class="description">Loads the configuration for an extension.</p></td>
+<td class="description"><p class="name"><a href="#loadFromExtension">loadFromExtension</a>(string extension, array values)</p><p class="description">Loads the configuration for an extension.</p></td>
 </tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#addCompilerPass()">addCompilerPass</a>(<a href="../../../symfony/component/dependencyinjection/compiler/compilerpassinterface.html">CompilerPassInterface</a> pass, string type)</p><p class="description">Adds a compiler pass.</p></td>
+<td class="description"><p class="name"><a href="#addCompilerPass">addCompilerPass</a>(<a href="../../../symfony/component/dependencyinjection/compiler/compilerpassinterface.html">CompilerPassInterface</a> pass, string type)</p><p class="description">Adds a compiler pass.</p></td>
 </tr>
 <tr>
 <td class="type"> <a href="../../../symfony/component/dependencyinjection/compiler/passconfig.html">PassConfig</a></td>
-<td class="description"><p class="name"><a href="#getCompilerPassConfig()">getCompilerPassConfig</a>()</p><p class="description">Returns the compiler pass config which can then be modified.</p></td>
+<td class="description"><p class="name"><a href="#getCompilerPassConfig">getCompilerPassConfig</a>()</p><p class="description">Returns the compiler pass config which can then be modified.</p></td>
 </tr>
 <tr>
 <td class="type"> <a href="../../../symfony/component/dependencyinjection/compiler/compiler.html">Compiler</a></td>
-<td class="description"><p class="name"><a href="#getCompiler()">getCompiler</a>()</p><p class="description">Returns the compiler.</p></td>
+<td class="description"><p class="name"><a href="#getCompiler">getCompiler</a>()</p><p class="description">Returns the compiler.</p></td>
 </tr>
 <tr>
 <td class="type"> array</td>
-<td class="description"><p class="name"><a href="#getScopes()">getScopes</a>()</p><p class="description">Returns all Scopes.</p></td>
+<td class="description"><p class="name"><a href="#getScopes">getScopes</a>()</p><p class="description">Returns all Scopes.</p></td>
 </tr>
 <tr>
 <td class="type"> array</td>
-<td class="description"><p class="name"><a href="#getScopeChildren()">getScopeChildren</a>()</p><p class="description">Returns all Scope children.</p></td>
+<td class="description"><p class="name"><a href="#getScopeChildren">getScopeChildren</a>()</p><p class="description">Returns all Scope children.</p></td>
 </tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#set()">set</a>(string id, object service, string scope)</p><p class="description">Sets a service.</p></td>
+<td class="description"><p class="name"><a href="#set">set</a>(string id, object service, string scope)</p><p class="description">Sets a service.</p></td>
 </tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#removeDefinition()">removeDefinition</a>(string id)</p><p class="description">Removes a service definition.</p></td>
+<td class="description"><p class="name"><a href="#removeDefinition">removeDefinition</a>(string id)</p><p class="description">Removes a service definition.</p></td>
 </tr>
 <tr>
 <td class="type"> Boolean</td>
-<td class="description"><p class="name"><a href="#has()">has</a>(string id)</p><p class="description">Returns true if the given service is defined.</p></td>
+<td class="description"><p class="name"><a href="#has">has</a>(string id)</p><p class="description">Returns true if the given service is defined.</p></td>
 </tr>
 <tr>
 <td class="type"> object</td>
-<td class="description"><p class="name"><a href="#get()">get</a>(string id, integer invalidBehavior)</p><p class="description">Gets a service.</p></td>
+<td class="description"><p class="name"><a href="#get">get</a>(string id, integer invalidBehavior)</p><p class="description">Gets a service.</p></td>
 </tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#merge()">merge</a>(<a href="../../../symfony/component/dependencyinjection/containerbuilder.html">ContainerBuilder</a> container)</p><p class="description">Merges a ContainerBuilder with the current ContainerBuilder configuration.
+<td class="description"><p class="name"><a href="#merge">merge</a>(<a href="../../../symfony/component/dependencyinjection/containerbuilder.html">ContainerBuilder</a> container)</p><p class="description">Merges a ContainerBuilder with the current ContainerBuilder configuration.
 </p></td>
 </tr>
 <tr>
 <td class="type"> array</td>
-<td class="description"><p class="name"><a href="#getExtensionConfig()">getExtensionConfig</a>(string name)</p><p class="description">Returns the configuration array for the given extension.</p></td>
+<td class="description"><p class="name"><a href="#getExtensionConfig">getExtensionConfig</a>(string name)</p><p class="description">Returns the configuration array for the given extension.</p></td>
 </tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#compile()">compile</a>()</p><p class="description">Compiles the container.
+<td class="description"><p class="name"><a href="#compile">compile</a>()</p><p class="description">Compiles the container.
 </p></td>
 </tr>
 <tr>
 <td class="type"> array</td>
-<td class="description"><p class="name"><a href="#getServiceIds()">getServiceIds</a>()</p><p class="description">Gets all service ids.</p></td>
+<td class="description"><p class="name"><a href="#getServiceIds">getServiceIds</a>()</p><p class="description">Gets all service ids.</p></td>
 </tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#addAliases()">addAliases</a>(array aliases)</p><p class="description">Adds the service aliases.</p></td>
+<td class="description"><p class="name"><a href="#addAliases">addAliases</a>(array aliases)</p><p class="description">Adds the service aliases.</p></td>
 </tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#setAliases()">setAliases</a>(array aliases)</p><p class="description">Sets the service aliases.</p></td>
+<td class="description"><p class="name"><a href="#setAliases">setAliases</a>(array aliases)</p><p class="description">Sets the service aliases.</p></td>
 </tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#setAlias()">setAlias</a>(string alias, mixed id)</p><p class="description">Sets an alias for an existing service.</p></td>
+<td class="description"><p class="name"><a href="#setAlias">setAlias</a>(string alias, mixed id)</p><p class="description">Sets an alias for an existing service.</p></td>
 </tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#removeAlias()">removeAlias</a>(string alias)</p><p class="description">Removes an alias.</p></td>
+<td class="description"><p class="name"><a href="#removeAlias">removeAlias</a>(string alias)</p><p class="description">Removes an alias.</p></td>
 </tr>
 <tr>
 <td class="type"> Boolean</td>
-<td class="description"><p class="name"><a href="#hasAlias()">hasAlias</a>(string id)</p><p class="description">Returns true if an alias exists under the given identifier.</p></td>
+<td class="description"><p class="name"><a href="#hasAlias">hasAlias</a>(string id)</p><p class="description">Returns true if an alias exists under the given identifier.</p></td>
 </tr>
 <tr>
 <td class="type"> array</td>
-<td class="description"><p class="name"><a href="#getAliases()">getAliases</a>()</p><p class="description">Gets all defined aliases.</p></td>
+<td class="description"><p class="name"><a href="#getAliases">getAliases</a>()</p><p class="description">Gets all defined aliases.</p></td>
 </tr>
 <tr>
 <td class="type"> string</td>
-<td class="description"><p class="name"><a href="#getAlias()">getAlias</a>(string id)</p><p class="description">Gets an alias.</p></td>
+<td class="description"><p class="name"><a href="#getAlias">getAlias</a>(string id)</p><p class="description">Gets an alias.</p></td>
 </tr>
 <tr>
 <td class="type"> <a href="../../../symfony/component/dependencyinjection/definition.html">Definition</a></td>
-<td class="description"><p class="name"><a href="#register()">register</a>(string id, string class)</p><p class="description">Registers a service definition.
+<td class="description"><p class="name"><a href="#register">register</a>(string id, string class)</p><p class="description">Registers a service definition.
 </p></td>
 </tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#addDefinitions()">addDefinitions</a>(<a href="../../../symfony/component/dependencyinjection/definition.html">Definition</a> definitions)</p><p class="description">Adds the service definitions.</p></td>
+<td class="description"><p class="name"><a href="#addDefinitions">addDefinitions</a>(<a href="../../../symfony/component/dependencyinjection/definition.html">Definition</a> definitions)</p><p class="description">Adds the service definitions.</p></td>
 </tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#setDefinitions()">setDefinitions</a>(array definitions)</p><p class="description">Sets the service definitions.</p></td>
+<td class="description"><p class="name"><a href="#setDefinitions">setDefinitions</a>(array definitions)</p><p class="description">Sets the service definitions.</p></td>
 </tr>
 <tr>
 <td class="type"> array</td>
-<td class="description"><p class="name"><a href="#getDefinitions()">getDefinitions</a>()</p><p class="description">Gets all service definitions.</p></td>
+<td class="description"><p class="name"><a href="#getDefinitions">getDefinitions</a>()</p><p class="description">Gets all service definitions.</p></td>
 </tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#setDefinition()">setDefinition</a>(string id, <a href="../../../symfony/component/dependencyinjection/definition.html">Definition</a> definition)</p><p class="description">Sets a service definition.</p></td>
+<td class="description"><p class="name"><a href="#setDefinition">setDefinition</a>(string id, <a href="../../../symfony/component/dependencyinjection/definition.html">Definition</a> definition)</p><p class="description">Sets a service definition.</p></td>
 </tr>
 <tr>
 <td class="type"> Boolean</td>
-<td class="description"><p class="name"><a href="#hasDefinition()">hasDefinition</a>(string id)</p><p class="description">Returns true if a service definition exists under the given identifier.</p></td>
+<td class="description"><p class="name"><a href="#hasDefinition">hasDefinition</a>(string id)</p><p class="description">Returns true if a service definition exists under the given identifier.</p></td>
 </tr>
 <tr>
 <td class="type"> <a href="../../../symfony/component/dependencyinjection/definition.html">Definition</a></td>
-<td class="description"><p class="name"><a href="#getDefinition()">getDefinition</a>(string id)</p><p class="description">Gets a service definition.</p></td>
+<td class="description"><p class="name"><a href="#getDefinition">getDefinition</a>(string id)</p><p class="description">Gets a service definition.</p></td>
 </tr>
 <tr>
 <td class="type"> <a href="../../../symfony/component/dependencyinjection/definition.html">Definition</a></td>
-<td class="description"><p class="name"><a href="#findDefinition()">findDefinition</a>(string id)</p><p class="description">Gets a service definition by id or alias.
+<td class="description"><p class="name"><a href="#findDefinition">findDefinition</a>(string id)</p><p class="description">Gets a service definition by id or alias.
 </p></td>
 </tr>
 <tr>
 <td class="type"> mixed</td>
-<td class="description"><p class="name"><a href="#resolveServices()">resolveServices</a>(mixed value)</p><p class="description">Replaces service references by the real service instance.</p></td>
+<td class="description"><p class="name"><a href="#resolveServices">resolveServices</a>(mixed value)</p><p class="description">Replaces service references by the real service instance.</p></td>
 </tr>
 <tr>
 <td class="type"> array</td>
-<td class="description"><p class="name"><a href="#findTaggedServiceIds()">findTaggedServiceIds</a>(string name)</p><p class="description">Returns service ids for a given tag.</p></td>
+<td class="description"><p class="name"><a href="#findTaggedServiceIds">findTaggedServiceIds</a>(string name)</p><p class="description">Returns service ids for a given tag.</p></td>
 </tr>
 <tr>
 <td class="type">static  array</td>
-<td class="description"><p class="name"><a href="#getServiceConditionals()">getServiceConditionals</a>(mixed value)</p><p class="description">Returns the Service Conditionals.</p></td>
+<td class="description"><p class="name"><a href="#getServiceConditionals">getServiceConditionals</a>(mixed value)</p><p class="description">Returns the Service Conditionals.</p></td>
 </tr>
 </table>
 
@@ -195,11 +197,12 @@
 <tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/container.html#__construct()">__construct</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/container.html#addScope()">addScope</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/container.html#camelize()">camelize</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/container.html#compile()">compile</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/container.html#enterScope()">enterScope</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/container.html#get()">get</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/container.html#getParameter()">getParameter</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/container.html#getParameterBag()">getParameterBag</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/container.html#getServiceIds()">getServiceIds</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/container.html#has()">has</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/container.html#hasParameter()">hasParameter</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/container.html#hasScope()">hasScope</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/container.html#isFrozen()">isFrozen</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/container.html#isScopeActive()">isScopeActive</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/container.html#leaveScope()">leaveScope</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/container.html#set()">set</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/container.html#setParameter()">setParameter</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/container.html#underscore()">underscore</a></td></tr></table>
 
 <h2 id="detail_method">Method Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ContainerBuilder.php.md#line47" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 47</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 47</div>
 <h3 id="registerExtension()">registerExtension</h3>
+
 ```php
-public  void **registerExtension**(<a href="../../../symfony/component/dependencyinjection/extension/extensioninterface.html">ExtensionInterface</a> extension)```
+public  void **registerExtension**(<a href="../../../symfony/component/dependencyinjection/extension/extensioninterface.html">ExtensionInterface</a> extension)
+```
 <div class="details">
 <p>Registers an extension.</p><dl>
 <dt>Parameters:</dt>
@@ -210,11 +213,12 @@ public  void **registerExtension**(<a href="../../../symfony/component/dependenc
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ContainerBuilder.php.md#line64" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 64</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 64</div>
 <h3 id="getExtension()">getExtension</h3>
+
 ```php
-public  <a href="../../../symfony/component/dependencyinjection/extension/extensioninterface.html">ExtensionInterface</a> **getExtension**(string name)```
+public  <a href="../../../symfony/component/dependencyinjection/extension/extensioninterface.html">ExtensionInterface</a> **getExtension**(string name)
+```
 <div class="details">
 <p>Returns an extension by alias or namespace.</p><dl>
 <dt>Parameters:</dt>
@@ -227,11 +231,12 @@ public  <a href="../../../symfony/component/dependencyinjection/extension/extens
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ContainerBuilder.php.md#line83" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 83</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 83</div>
 <h3 id="getExtensions()">getExtensions</h3>
+
 ```php
-public  array **getExtensions**()```
+public  array **getExtensions**()
+```
 <div class="details">
 <p>Returns all registered extensions.</p><dl>
 <dt>Returns:</dt>
@@ -242,11 +247,12 @@ public  array **getExtensions**()```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ContainerBuilder.php.md#line95" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 95</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 95</div>
 <h3 id="hasExtension()">hasExtension</h3>
+
 ```php
-public  Boolean **hasExtension**(string name)```
+public  Boolean **hasExtension**(string name)
+```
 <div class="details">
 <p>Checks if we have an extension.</p><dl>
 <dt>Parameters:</dt>
@@ -259,11 +265,12 @@ public  Boolean **hasExtension**(string name)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ContainerBuilder.php.md#line106" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 106</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 106</div>
 <h3 id="getResources()">getResources</h3>
+
 ```php
-public  ResourceInterface[] **getResources**()```
+public  ResourceInterface[] **getResources**()
+```
 <div class="details">
 <p>Returns an array of resources loaded to build this configuration.</p><dl>
 <dt>Returns:</dt>
@@ -274,11 +281,12 @@ public  ResourceInterface[] **getResources**()```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ContainerBuilder.php.md#line119" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 119</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 119</div>
 <h3 id="addResource()">addResource</h3>
+
 ```php
-public  <a href="../../../symfony/component/dependencyinjection/containerbuilder.html">ContainerBuilder</a> **addResource**(ResourceInterface resource)```
+public  <a href="../../../symfony/component/dependencyinjection/containerbuilder.html">ContainerBuilder</a> **addResource**(ResourceInterface resource)
+```
 <div class="details">
 <p>Adds a resource for this configuration.</p><dl>
 <dt>Parameters:</dt>
@@ -291,11 +299,12 @@ public  <a href="../../../symfony/component/dependencyinjection/containerbuilder
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ContainerBuilder.php.md#line132" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 132</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 132</div>
 <h3 id="addObjectResource()">addObjectResource</h3>
+
 ```php
-public  void **addObjectResource**(object object)```
+public  void **addObjectResource**(object object)
+```
 <div class="details">
 <p>Adds the object class hierarchy as resources.</p><dl>
 <dt>Parameters:</dt>
@@ -306,11 +315,12 @@ public  void **addObjectResource**(object object)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ContainerBuilder.php.md#line149" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 149</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 149</div>
 <h3 id="loadFromExtension()">loadFromExtension</h3>
+
 ```php
-public  <a href="../../../symfony/component/dependencyinjection/containerbuilder.html">ContainerBuilder</a> **loadFromExtension**(string extension, array values)```
+public  <a href="../../../symfony/component/dependencyinjection/containerbuilder.html">ContainerBuilder</a> **loadFromExtension**(string extension, array values)
+```
 <div class="details">
 <p>Loads the configuration for an extension.</p><dl>
 <dt>Parameters:</dt>
@@ -324,11 +334,12 @@ public  <a href="../../../symfony/component/dependencyinjection/containerbuilder
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ContainerBuilder.php.md#line169" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 169</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 169</div>
 <h3 id="addCompilerPass()">addCompilerPass</h3>
+
 ```php
-public  void **addCompilerPass**(<a href="../../../symfony/component/dependencyinjection/compiler/compilerpassinterface.html">CompilerPassInterface</a> pass, string type)```
+public  void **addCompilerPass**(<a href="../../../symfony/component/dependencyinjection/compiler/compilerpassinterface.html">CompilerPassInterface</a> pass, string type)
+```
 <div class="details">
 <p>Adds a compiler pass.</p><dl>
 <dt>Parameters:</dt>
@@ -340,11 +351,12 @@ public  void **addCompilerPass**(<a href="../../../symfony/component/dependencyi
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ContainerBuilder.php.md#line186" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 186</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 186</div>
 <h3 id="getCompilerPassConfig()">getCompilerPassConfig</h3>
+
 ```php
-public  <a href="../../../symfony/component/dependencyinjection/compiler/passconfig.html">PassConfig</a> **getCompilerPassConfig**()```
+public  <a href="../../../symfony/component/dependencyinjection/compiler/passconfig.html">PassConfig</a> **getCompilerPassConfig**()
+```
 <div class="details">
 <p>Returns the compiler pass config which can then be modified.</p><dl>
 <dt>Returns:</dt>
@@ -355,11 +367,12 @@ public  <a href="../../../symfony/component/dependencyinjection/compiler/passcon
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ContainerBuilder.php.md#line201" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 201</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 201</div>
 <h3 id="getCompiler()">getCompiler</h3>
+
 ```php
-public  <a href="../../../symfony/component/dependencyinjection/compiler/compiler.html">Compiler</a> **getCompiler**()```
+public  <a href="../../../symfony/component/dependencyinjection/compiler/compiler.html">Compiler</a> **getCompiler**()
+```
 <div class="details">
 <p>Returns the compiler.</p><dl>
 <dt>Returns:</dt>
@@ -370,11 +383,12 @@ public  <a href="../../../symfony/component/dependencyinjection/compiler/compile
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ContainerBuilder.php.md#line216" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 216</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 216</div>
 <h3 id="getScopes()">getScopes</h3>
+
 ```php
-public  array **getScopes**()```
+public  array **getScopes**()
+```
 <div class="details">
 <p>Returns all Scopes.</p><dl>
 <dt>Returns:</dt>
@@ -385,11 +399,12 @@ public  array **getScopes**()```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ContainerBuilder.php.md#line227" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 227</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 227</div>
 <h3 id="getScopeChildren()">getScopeChildren</h3>
+
 ```php
-public  array **getScopeChildren**()```
+public  array **getScopeChildren**()
+```
 <div class="details">
 <p>Returns all Scope children.</p><dl>
 <dt>Returns:</dt>
@@ -400,11 +415,12 @@ public  array **getScopeChildren**()```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ContainerBuilder.php.md#line242" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 242</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 242</div>
 <h3 id="set()">set</h3>
+
 ```php
-public  void **set**(string id, object service, string scope)```
+public  void **set**(string id, object service, string scope)
+```
 <div class="details">
 <p>Sets a service.</p><dl>
 <dt>Parameters:</dt>
@@ -419,11 +435,12 @@ public  void **set**(string id, object service, string scope)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ContainerBuilder.php.md#line261" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 261</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 261</div>
 <h3 id="removeDefinition()">removeDefinition</h3>
+
 ```php
-public  void **removeDefinition**(string id)```
+public  void **removeDefinition**(string id)
+```
 <div class="details">
 <p>Removes a service definition.</p><dl>
 <dt>Parameters:</dt>
@@ -434,11 +451,12 @@ public  void **removeDefinition**(string id)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ContainerBuilder.php.md#line274" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 274</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 274</div>
 <h3 id="has()">has</h3>
+
 ```php
-public  Boolean **has**(string id)```
+public  Boolean **has**(string id)
+```
 <div class="details">
 <p>Returns true if the given service is defined.</p><dl>
 <dt>Parameters:</dt>
@@ -451,11 +469,12 @@ public  Boolean **has**(string id)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ContainerBuilder.php.md#line295" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 295</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 295</div>
 <h3 id="get()">get</h3>
+
 ```php
-public  object **get**(string id, integer invalidBehavior)```
+public  object **get**(string id, integer invalidBehavior)
+```
 <div class="details">
 <p>Gets a service.</p><dl>
 <dt>Parameters:</dt>
@@ -474,11 +493,12 @@ public  object **get**(string id, integer invalidBehavior)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ContainerBuilder.php.md#line352" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 352</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 352</div>
 <h3 id="merge()">merge</h3>
+
 ```php
-public  void **merge**(<a href="../../../symfony/component/dependencyinjection/containerbuilder.html">ContainerBuilder</a> container)```
+public  void **merge**(<a href="../../../symfony/component/dependencyinjection/containerbuilder.html">ContainerBuilder</a> container)
+```
 <div class="details">
 <p>Merges a ContainerBuilder with the current ContainerBuilder configuration.</p><p>Service definitions overrides the current defined ones.</p><p>But for parameters, they are overridden by the current ones. It allows
 the parameters passed to the container constructor to have precedence
@@ -498,11 +518,12 @@ constructor.</p><dl>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ContainerBuilder.php.md#line383" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 383</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 383</div>
 <h3 id="getExtensionConfig()">getExtensionConfig</h3>
+
 ```php
-public  array **getExtensionConfig**(string name)```
+public  array **getExtensionConfig**(string name)
+```
 <div class="details">
 <p>Returns the configuration array for the given extension.</p><dl>
 <dt>Parameters:</dt>
@@ -515,11 +536,12 @@ public  array **getExtensionConfig**(string name)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ContainerBuilder.php.md#line407" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 407</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 407</div>
 <h3 id="compile()">compile</h3>
+
 ```php
-public  void **compile**()```
+public  void **compile**()
+```
 <div class="details">
 <p>Compiles the container.</p><p>This method passes the container to compiler
 passes whose job is to manipulate and optimize
@@ -533,11 +555,12 @@ the container.</p><p>The main compiler passes roughly do four things:</p><p>* Th
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ContainerBuilder.php.md#line428" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 428</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 428</div>
 <h3 id="getServiceIds()">getServiceIds</h3>
+
 ```php
-public  array **getServiceIds**()```
+public  array **getServiceIds**()
+```
 <div class="details">
 <p>Gets all service ids.</p><dl>
 <dt>Returns:</dt>
@@ -547,11 +570,12 @@ public  array **getServiceIds**()```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ContainerBuilder.php.md#line439" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 439</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 439</div>
 <h3 id="addAliases()">addAliases</h3>
+
 ```php
-public  void **addAliases**(array aliases)```
+public  void **addAliases**(array aliases)
+```
 <div class="details">
 <p>Adds the service aliases.</p><dl>
 <dt>Parameters:</dt>
@@ -562,11 +586,12 @@ public  void **addAliases**(array aliases)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ContainerBuilder.php.md#line452" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 452</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 452</div>
 <h3 id="setAliases()">setAliases</h3>
+
 ```php
-public  void **setAliases**(array aliases)```
+public  void **setAliases**(array aliases)
+```
 <div class="details">
 <p>Sets the service aliases.</p><dl>
 <dt>Parameters:</dt>
@@ -577,11 +602,12 @@ public  void **setAliases**(array aliases)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ContainerBuilder.php.md#line465" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 465</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 465</div>
 <h3 id="setAlias()">setAlias</h3>
+
 ```php
-public  void **setAlias**(string alias, mixed id)```
+public  void **setAlias**(string alias, mixed id)
+```
 <div class="details">
 <p>Sets an alias for an existing service.</p><dl>
 <dt>Parameters:</dt>
@@ -593,11 +619,12 @@ public  void **setAlias**(string alias, mixed id)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ContainerBuilder.php.md#line490" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 490</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 490</div>
 <h3 id="removeAlias()">removeAlias</h3>
+
 ```php
-public  void **removeAlias**(string alias)```
+public  void **removeAlias**(string alias)
+```
 <div class="details">
 <p>Removes an alias.</p><dl>
 <dt>Parameters:</dt>
@@ -608,11 +635,12 @@ public  void **removeAlias**(string alias)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ContainerBuilder.php.md#line503" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 503</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 503</div>
 <h3 id="hasAlias()">hasAlias</h3>
+
 ```php
-public  Boolean **hasAlias**(string id)```
+public  Boolean **hasAlias**(string id)
+```
 <div class="details">
 <p>Returns true if an alias exists under the given identifier.</p><dl>
 <dt>Parameters:</dt>
@@ -625,11 +653,12 @@ public  Boolean **hasAlias**(string id)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ContainerBuilder.php.md#line514" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 514</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 514</div>
 <h3 id="getAliases()">getAliases</h3>
+
 ```php
-public  array **getAliases**()```
+public  array **getAliases**()
+```
 <div class="details">
 <p>Gets all defined aliases.</p><dl>
 <dt>Returns:</dt>
@@ -640,11 +669,12 @@ public  array **getAliases**()```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ContainerBuilder.php.md#line529" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 529</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 529</div>
 <h3 id="getAlias()">getAlias</h3>
+
 ```php
-public  string **getAlias**(string id)```
+public  string **getAlias**(string id)
+```
 <div class="details">
 <p>Gets an alias.</p><dl>
 <dt>Parameters:</dt>
@@ -659,11 +689,12 @@ public  string **getAlias**(string id)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ContainerBuilder.php.md#line552" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 552</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 552</div>
 <h3 id="register()">register</h3>
+
 ```php
-public  <a href="../../../symfony/component/dependencyinjection/definition.html">Definition</a> **register**(string id, string class)```
+public  <a href="../../../symfony/component/dependencyinjection/definition.html">Definition</a> **register**(string id, string class)
+```
 <div class="details">
 <p>Registers a service definition.</p><p>This methods allows for simple registration of service definition
 with a fluid interface.</p><dl>
@@ -678,11 +709,12 @@ with a fluid interface.</p><dl>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ContainerBuilder.php.md#line563" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 563</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 563</div>
 <h3 id="addDefinitions()">addDefinitions</h3>
+
 ```php
-public  void **addDefinitions**(<a href="../../../symfony/component/dependencyinjection/definition.html">Definition</a> definitions)```
+public  void **addDefinitions**(<a href="../../../symfony/component/dependencyinjection/definition.html">Definition</a> definitions)
+```
 <div class="details">
 <p>Adds the service definitions.</p><dl>
 <dt>Parameters:</dt>
@@ -693,11 +725,12 @@ public  void **addDefinitions**(<a href="../../../symfony/component/dependencyin
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ContainerBuilder.php.md#line576" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 576</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 576</div>
 <h3 id="setDefinitions()">setDefinitions</h3>
+
 ```php
-public  void **setDefinitions**(array definitions)```
+public  void **setDefinitions**(array definitions)
+```
 <div class="details">
 <p>Sets the service definitions.</p><dl>
 <dt>Parameters:</dt>
@@ -708,11 +741,12 @@ public  void **setDefinitions**(array definitions)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ContainerBuilder.php.md#line588" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 588</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 588</div>
 <h3 id="getDefinitions()">getDefinitions</h3>
+
 ```php
-public  array **getDefinitions**()```
+public  array **getDefinitions**()
+```
 <div class="details">
 <p>Gets all service definitions.</p><dl>
 <dt>Returns:</dt>
@@ -723,11 +757,12 @@ public  array **getDefinitions**()```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ContainerBuilder.php.md#line602" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 602</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 602</div>
 <h3 id="setDefinition()">setDefinition</h3>
+
 ```php
-public  void **setDefinition**(string id, <a href="../../../symfony/component/dependencyinjection/definition.html">Definition</a> definition)```
+public  void **setDefinition**(string id, <a href="../../../symfony/component/dependencyinjection/definition.html">Definition</a> definition)
+```
 <div class="details">
 <p>Sets a service definition.</p><dl>
 <dt>Parameters:</dt>
@@ -741,11 +776,12 @@ public  void **setDefinition**(string id, <a href="../../../symfony/component/de
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ContainerBuilder.php.md#line623" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 623</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 623</div>
 <h3 id="hasDefinition()">hasDefinition</h3>
+
 ```php
-public  Boolean **hasDefinition**(string id)```
+public  Boolean **hasDefinition**(string id)
+```
 <div class="details">
 <p>Returns true if a service definition exists under the given identifier.</p><dl>
 <dt>Parameters:</dt>
@@ -758,11 +794,12 @@ public  Boolean **hasDefinition**(string id)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ContainerBuilder.php.md#line638" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 638</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 638</div>
 <h3 id="getDefinition()">getDefinition</h3>
+
 ```php
-public  <a href="../../../symfony/component/dependencyinjection/definition.html">Definition</a> **getDefinition**(string id)```
+public  <a href="../../../symfony/component/dependencyinjection/definition.html">Definition</a> **getDefinition**(string id)
+```
 <div class="details">
 <p>Gets a service definition.</p><dl>
 <dt>Parameters:</dt>
@@ -777,11 +814,12 @@ public  <a href="../../../symfony/component/dependencyinjection/definition.html"
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ContainerBuilder.php.md#line661" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 661</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 661</div>
 <h3 id="findDefinition()">findDefinition</h3>
+
 ```php
-public  <a href="../../../symfony/component/dependencyinjection/definition.html">Definition</a> **findDefinition**(string id)```
+public  <a href="../../../symfony/component/dependencyinjection/definition.html">Definition</a> **findDefinition**(string id)
+```
 <div class="details">
 <p>Gets a service definition by id or alias.</p><p>The method "unaliases" recursively to return a Definition instance.</p><dl>
 <dt>Parameters:</dt>
@@ -796,11 +834,12 @@ public  <a href="../../../symfony/component/dependencyinjection/definition.html"
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ContainerBuilder.php.md#line759" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 759</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 759</div>
 <h3 id="resolveServices()">resolveServices</h3>
+
 ```php
-public  mixed **resolveServices**(mixed value)```
+public  mixed **resolveServices**(mixed value)
+```
 <div class="details">
 <p>Replaces service references by the real service instance.</p><dl>
 <dt>Parameters:</dt>
@@ -812,11 +851,12 @@ public  mixed **resolveServices**(mixed value)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ContainerBuilder.php.md#line782" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 782</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 782</div>
 <h3 id="findTaggedServiceIds()">findTaggedServiceIds</h3>
+
 ```php
-public  array **findTaggedServiceIds**(string name)```
+public  array **findTaggedServiceIds**(string name)
+```
 <div class="details">
 <p>Returns service ids for a given tag.</p><dl>
 <dt>Parameters:</dt>
@@ -829,11 +869,12 @@ public  array **findTaggedServiceIds**(string name)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ContainerBuilder.php.md#line799" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 799</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerBuilder.php at line 799</div>
 <h3 id="getServiceConditionals()">getServiceConditionals</h3>
+
 ```php
-public static  array **getServiceConditionals**(mixed value)```
+public static  array **getServiceConditionals**(mixed value)
+```
 <div class="details">
 <p>Returns the Service Conditionals.</p><dl>
 <dt>Parameters:</dt>

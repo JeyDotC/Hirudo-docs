@@ -1,11 +1,11 @@
 - - -
 
 **Hirudo\Core\Context\UserExtraData**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Core/Context/Principal.php.md#line29" class="location">framework\hirudo\Hirudo\Core\Context\Principal.php at line 29</a>
+<div class="location">framework\hirudo\Hirudo\Core\Context\Principal.php at line 29</div>
+#Class UserExtraData#
 
-# Class UserExtraData #
+**UserExtraData**
 
-<pre class="tree">** UserExtraData **\n</pre>
 
 - - -
 
@@ -19,44 +19,47 @@
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#add()">add</a>(mixed key, mixed value)</p></td>
+<td class="description"><p class="name"><a href="#add">add</a>(mixed key, mixed value)</p></td>
 </tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#get()">get</a>(mixed key)</p></td>
+<td class="description"><p class="name"><a href="#get">get</a>(mixed key)</p></td>
 </tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#has()">has</a>(mixed key)</p></td>
+<td class="description"><p class="name"><a href="#has">has</a>(mixed key)</p></td>
 </tr>
 </table>
 
 <h2 id="detail_method">Method Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Core/Context/Principal.php.md#line33" class="location">framework\hirudo\Hirudo\Core\Context\Principal.php at line 33</a>
-
+<div class="location">framework\hirudo\Hirudo\Core\Context\Principal.php at line 33</div>
 <h3 id="add()">add</h3>
+
 ```php
-public  void **add**(mixed key, mixed value)```
+public  void **add**(mixed key, mixed value)
+```
 <div class="details">
 </div>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Core/Context/Principal.php.md#line38" class="location">framework\hirudo\Hirudo\Core\Context\Principal.php at line 38</a>
-
+<div class="location">framework\hirudo\Hirudo\Core\Context\Principal.php at line 38</div>
 <h3 id="get()">get</h3>
+
 ```php
-public  void **get**(mixed key)```
+public  void **get**(mixed key)
+```
 <div class="details">
 </div>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Core/Context/Principal.php.md#line42" class="location">framework\hirudo\Hirudo\Core\Context\Principal.php at line 42</a>
-
+<div class="location">framework\hirudo\Hirudo\Core\Context\Principal.php at line 42</div>
 <h3 id="has()">has</h3>
+
 ```php
-public  void **has**(mixed key)```
+public  void **has**(mixed key)
+```
 <div class="details">
 </div>
 

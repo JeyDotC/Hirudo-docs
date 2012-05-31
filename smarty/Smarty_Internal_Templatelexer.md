@@ -1,11 +1,11 @@
 - - -
 
 **Smarty\Smarty_Internal_Templatelexer**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php.md#line13" class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 13</a>
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 13</div>
+#Class Smarty_Internal_Templatelexer#
 
-# Class Smarty_Internal_Templatelexer #
+**Smarty_Internal_Templatelexer**
 
-<pre class="tree">** Smarty_Internal_Templatelexer **\n</pre>
 
 - - -
 
@@ -59,7 +59,7 @@
 <tr><th colspan="2">Constructor Summary</th></tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#__construct()">__construct</a>(mixed data, mixed compiler)</p></td>
+<td class="description"><p class="name"><a href="#__construct">__construct</a>(mixed data, mixed compiler)</p></td>
 </tr>
 </table>
 
@@ -67,174 +67,189 @@
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#yylex()">yylex</a>()</p></td>
+<td class="description"><p class="name"><a href="#yylex">yylex</a>()</p></td>
 </tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#yypushstate()">yypushstate</a>(mixed state)</p></td>
+<td class="description"><p class="name"><a href="#yypushstate">yypushstate</a>(mixed state)</p></td>
 </tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#yypopstate()">yypopstate</a>()</p></td>
+<td class="description"><p class="name"><a href="#yypopstate">yypopstate</a>()</p></td>
 </tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#yybegin()">yybegin</a>(mixed state)</p></td>
+<td class="description"><p class="name"><a href="#yybegin">yybegin</a>(mixed state)</p></td>
 </tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#yylex1()">yylex1</a>()</p></td>
+<td class="description"><p class="name"><a href="#yylex1">yylex1</a>()</p></td>
 </tr>
 </table>
 
 ##Field Detail##
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php.md#line16" class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 16</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 16</div>
 <h3 id="counter">counter</h3>
+
 ```php
-public  mixed **$counter**```
+public  mixed$counter
+```
 <div class="details">
 </div>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php.md#line15" class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 15</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 15</div>
 <h3 id="data">data</h3>
+
 ```php
-public  mixed **$data** = null```
+public  mixed$data = null
+```
 <div class="details">
 </div>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php.md#line20" class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 20</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 20</div>
 <h3 id="line">line</h3>
+
 ```php
-public  mixed **$line**```
+public  mixed$line
+```
 <div class="details">
 </div>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php.md#line19" class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 19</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 19</div>
 <h3 id="node">node</h3>
+
 ```php
-public  mixed **$node**```
+public  mixed$node
+```
 <div class="details">
 </div>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php.md#line24" class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 24</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 24</div>
 <h3 id="smarty_token_names">smarty_token_names</h3>
+
 ```php
-public  mixed **$smarty_token_names** = array(...)```
+public  mixed$smarty_token_names = array(...)
+```
 <div class="details">
 </div>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php.md#line22" class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 22</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 22</div>
 <h3 id="state">state</h3>
+
 ```php
-public  mixed **$state** = 1```
+public  mixed$state = 1
+```
 <div class="details">
 </div>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php.md#line21" class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 21</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 21</div>
 <h3 id="taglineno">taglineno</h3>
+
 ```php
-public  mixed **$taglineno**```
+public  mixed$taglineno
+```
 <div class="details">
 </div>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php.md#line17" class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 17</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 17</div>
 <h3 id="token">token</h3>
+
 ```php
-public  mixed **$token**```
+public  mixed$token
+```
 <div class="details">
 </div>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php.md#line18" class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 18</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 18</div>
 <h3 id="value">value</h3>
+
 ```php
-public  mixed **$value**```
+public  mixed$value
+```
 <div class="details">
 </div>
 
 - - -
 
 <h2 id="detail_method">Constructor Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php.md#line27" class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 27</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 27</div>
 <h3 id="__construct()">__construct</h3>
+
 ```php
-public  void **__construct**(mixed data, mixed compiler)```
+public  void **__construct**(mixed data, mixed compiler)
+```
 <div class="details">
 </div>
 
 - - -
 
 <h2 id="detail_method">Method Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php.md#line47" class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 47</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 47</div>
 <h3 id="yylex()">yylex</h3>
+
 ```php
-public  void **yylex**()```
+public  void **yylex**()
+```
 <div class="details">
 </div>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php.md#line52" class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 52</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 52</div>
 <h3 id="yypushstate()">yypushstate</h3>
+
 ```php
-public  void **yypushstate**(mixed state)```
+public  void **yypushstate**(mixed state)
+```
 <div class="details">
 </div>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php.md#line58" class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 58</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 58</div>
 <h3 id="yypopstate()">yypopstate</h3>
+
 ```php
-public  void **yypopstate**()```
+public  void **yypopstate**()
+```
 <div class="details">
 </div>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php.md#line63" class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 63</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 63</div>
 <h3 id="yybegin()">yybegin</h3>
+
 ```php
-public  void **yybegin**(mixed state)```
+public  void **yybegin**(mixed state)
+```
 <div class="details">
 </div>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php.md#line70" class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 70</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 70</div>
 <h3 id="yylex1()">yylex1</h3>
+
 ```php
-public  void **yylex1**()```
+public  void **yylex1**()
+```
 <div class="details">
 </div>
 

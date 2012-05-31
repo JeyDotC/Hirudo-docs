@@ -1,15 +1,17 @@
 - - -
 
 **Smarty\Smarty_Internal_Compile_Private_Object_Function**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_compile_private_object_function.php.md#line18" class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_private_object_function.php at line 18</a>
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_private_object_function.php at line 18</div>
+#Class Smarty_Internal_Compile_Private_Object_Function#
 
-# Class Smarty_Internal_Compile_Private_Object_Function #
+<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_compilebase.html">Smarty_Internal_CompileBase</a>
+    ***Smarty_Internal_Compile_Private_Object_Function**
 
-<pre class="tree"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_compilebase.html">Smarty_Internal_CompileBase</a>\n    *** Smarty_Internal_Compile_Private_Object_Function **\n</pre>
 
 - - -
 
-<p class="signature">public  class **Smarty_Internal_Compile_Private_Object_Function**\nextends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_compilebase.html">Smarty_Internal_CompileBase</a>
+<p class="signature">public  class **Smarty_Internal_Compile_Private_Object_Function**
+extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_compilebase.html">Smarty_Internal_CompileBase</a>
 
 </p>
 
@@ -37,7 +39,7 @@
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td class="type"> string</td>
-<td class="description"><p class="name"><a href="#compile()">compile</a>(array args, object compiler, array parameter, string tag, string method)</p><p class="description">Compiles code for the execution of function plugin</p></td>
+<td class="description"><p class="name"><a href="#compile">compile</a>(array args, object compiler, array parameter, string tag, string method)</p><p class="description">Compiles code for the execution of function plugin</p></td>
 </tr>
 </table>
 
@@ -46,11 +48,12 @@
 <tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_compilebase.html#closeTag()">closeTag</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_compilebase.html#getAttributes()">getAttributes</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_compilebase.html#openTag()">openTag</a></td></tr></table>
 
 ##Field Detail##
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_compile_private_object_function.php.md#line26" class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_private_object_function.php at line 26</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_private_object_function.php at line 26</div>
 <h3 id="optional_attributes">optional_attributes</h3>
+
 ```php
-public  array **$optional_attributes** = array('_any')```
+public  array$optional_attributes = array('_any')
+```
 <div class="details">
 <p>Attribute definition: Overwrites base class.</p><dl>
 <dt>See Also:</dt>
@@ -61,11 +64,12 @@ public  array **$optional_attributes** = array('_any')```
 - - -
 
 <h2 id="detail_method">Method Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_compile_private_object_function.php.md#line38" class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_private_object_function.php at line 38</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_private_object_function.php at line 38</div>
 <h3 id="compile()">compile</h3>
+
 ```php
-public  string **compile**(array args, object compiler, array parameter, string tag, string method)```
+public  string **compile**(array args, object compiler, array parameter, string tag, string method)
+```
 <div class="details">
 <p>Compiles code for the execution of function plugin</p><dl>
 <dt>Parameters:</dt>

@@ -1,3 +1,3 @@
 - - -
 
-# Class Hierarchy for Package Symfony\Component\DependencyInjection\Extension #
+#Class Hierarchy for Package Symfony\Component\DependencyInjection\Extension#

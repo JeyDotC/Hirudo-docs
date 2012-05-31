@@ -1,15 +1,17 @@
 - - -
 
 **Hirudo\Core\Context\SessionStates**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Core/Context/Session.php.md#line27" class="location">framework\hirudo\Hirudo\Core\Context\Session.php at line 27</a>
+<div class="location">framework\hirudo\Hirudo\Core\Context\Session.php at line 27</div>
+#Class SessionStates#
 
-# Class SessionStates #
+\PseudoEnum
+***SessionStates**
 
-<pre class="tree">\PseudoEnum\n*** SessionStates **\n</pre>
 
 - - -
 
-<p class="signature">public final  class **SessionStates**\nextends \PseudoEnum
+<p class="signature">public final  class **SessionStates**
+extends \PseudoEnum
 
 </p>
 
@@ -21,25 +23,26 @@
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td class="type"> mixed</td>
-<td class="description"><p class="name"><a href="#get()">get</a>(string key, mixed default)</p><p class="description">Gets the value for the given key, or the given default value if there is no such
+<td class="description"><p class="name"><a href="#get">get</a>(string key, mixed default)</p><p class="description">Gets the value for the given key, or the given default value if there is no such
 value that key.</p></td>
 </tr>
 <tr>
 <td class="type"> mixed</td>
-<td class="description"><p class="name"><a href="#remove()">remove</a>(string key)</p><p class="description">Attempts to remove the object associated to the given key from session.</p></td>
+<td class="description"><p class="name"><a href="#remove">remove</a>(string key)</p><p class="description">Attempts to remove the object associated to the given key from session.</p></td>
 </tr>
 <tr>
 <td class="type"> string</td>
-<td class="description"><p class="name"><a href="#state()">state</a>()</p><p class="description">Gets the current session state.</p></td>
+<td class="description"><p class="name"><a href="#state">state</a>()</p><p class="description">Gets the current session state.</p></td>
 </tr>
 </table>
 
 <h2 id="detail_method">Method Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Core/Context/Session.php.md#line43" class="location">framework\hirudo\Hirudo\Core\Context\Session.php at line 43</a>
-
+<div class="location">framework\hirudo\Hirudo\Core\Context\Session.php at line 43</div>
 <h3 id="get()">get</h3>
+
 ```php
-public  mixed **get**(string key, mixed default)```
+public  mixed **get**(string key, mixed default)
+```
 <div class="details">
 <p>Gets the value for the given key, or the given default value if there is no such
 value that key.</p><dl>
@@ -53,11 +56,12 @@ value that key.</p><dl>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Core/Context/Session.php.md#line52" class="location">framework\hirudo\Hirudo\Core\Context\Session.php at line 52</a>
-
+<div class="location">framework\hirudo\Hirudo\Core\Context\Session.php at line 52</div>
 <h3 id="remove()">remove</h3>
+
 ```php
-public  mixed **remove**(string key)```
+public  mixed **remove**(string key)
+```
 <div class="details">
 <p>Attempts to remove the object associated to the given key from session.</p><dl>
 <dt>Parameters:</dt>
@@ -69,11 +73,12 @@ public  mixed **remove**(string key)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Core/Context/Session.php.md#line62" class="location">framework\hirudo\Hirudo\Core\Context\Session.php at line 62</a>
-
+<div class="location">framework\hirudo\Hirudo\Core\Context\Session.php at line 62</div>
 <h3 id="state()">state</h3>
+
 ```php
-public  string **state**()```
+public  string **state**()
+```
 <div class="details">
 <p>Gets the current session state.</p><dl>
 <dt>Returns:</dt>

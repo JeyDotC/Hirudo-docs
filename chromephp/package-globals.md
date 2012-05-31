@@ -1,6 +1,6 @@
 - - -
 
-# Globals #
+#Globals#
 
 - - -
 
@@ -13,8 +13,7 @@
 </table>
 
 <h2 id="detail_global">Global Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/ChromePhp.php.md#line30" class="location">ChromePhp.php at line 30</a>
-
+<div class="location">ChromePhp.php at line 30</div>
 <h3 id="VERSION">VERSION</h3>
 ```php
 public final  string **VERSION** = 'columns' =&gt; array('label', 'log', 'backtrace', 'type'```

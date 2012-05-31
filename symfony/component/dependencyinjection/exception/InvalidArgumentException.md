@@ -1,11 +1,12 @@
 - - -
 
 **Symfony\Component\DependencyInjection\Exception\InvalidArgumentException**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Exception/InvalidArgumentException.php.md#line21" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Exception\InvalidArgumentException.php at line 21</a>
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Exception\InvalidArgumentException.php at line 21</div>
+#Class InvalidArgumentException#
 
-# Class InvalidArgumentException #
+BaseInvalidArgumentException
+***InvalidArgumentException**
 
-<pre class="tree">BaseInvalidArgumentException\n*** InvalidArgumentException **\n</pre>
 
 <dl>
 <dt>All Implemented Interfaces:</dt>
@@ -19,7 +20,8 @@
 
 - - -
 
-<p class="signature">public  class **InvalidArgumentException**\nextends BaseInvalidArgumentException
+<p class="signature">public  class **InvalidArgumentException**
+extends BaseInvalidArgumentException
 
 </p>
 

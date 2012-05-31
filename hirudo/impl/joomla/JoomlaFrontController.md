@@ -1,15 +1,17 @@
 - - -
 
 **Hirudo\Impl\Joomla\JoomlaFrontController**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Impl/Joomla/JoomlaFrontController.php.md#line51" class="location">framework\hirudo\Hirudo\Impl\Joomla\JoomlaFrontController.php at line 51</a>
+<div class="location">framework\hirudo\Hirudo\Impl\Joomla\JoomlaFrontController.php at line 51</div>
+#Class JoomlaFrontController#
 
-# Class JoomlaFrontController #
+\JController
+***JoomlaFrontController**
 
-<pre class="tree">\JController\n*** JoomlaFrontController **\n</pre>
 
 - - -
 
-<p class="signature">public  class **JoomlaFrontController**\nextends \JController
+<p class="signature">public  class **JoomlaFrontController**
+extends \JController
 
 </p>
 
@@ -25,7 +27,7 @@
 <tr><th colspan="2">Constructor Summary</th></tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#__construct()">__construct</a>(<a href="../../../hirudo/core/modulesmanager.html">ModulesManager</a> manager)</p><p class="description">Constructs this controller as a joomla controller.</p></td>
+<td class="description"><p class="name"><a href="#__construct">__construct</a>(<a href="../../../hirudo/core/modulesmanager.html">ModulesManager</a> manager)</p><p class="description">Constructs this controller as a joomla controller.</p></td>
 </tr>
 </table>
 
@@ -33,55 +35,59 @@
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#doTask()">doTask</a>()</p><p class="description">Executes the task taken from request data and orders the view to display.</p></td>
+<td class="description"><p class="name"><a href="#doTask">doTask</a>()</p><p class="description">Executes the task taken from request data and orders the view to display.</p></td>
 </tr>
 <tr>
 <td class="type"> mixed</td>
-<td class="description"><p class="name"><a href="#execute()">execute</a>(string task)</p><p class="description">Executes a task</p></td>
+<td class="description"><p class="name"><a href="#execute">execute</a>(string task)</p><p class="description">Executes a task</p></td>
 </tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#run()">run</a>()</p></td>
+<td class="description"><p class="name"><a href="#run">run</a>()</p></td>
 </tr>
 </table>
 
 <h2 id="detail_method">Constructor Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Impl/Joomla/JoomlaFrontController.php.md#line63" class="location">framework\hirudo\Hirudo\Impl\Joomla\JoomlaFrontController.php at line 63</a>
-
+<div class="location">framework\hirudo\Hirudo\Impl\Joomla\JoomlaFrontController.php at line 63</div>
 <h3 id="__construct()">__construct</h3>
+
 ```php
-public  void **__construct**(<a href="../../../hirudo/core/modulesmanager.html">ModulesManager</a> manager)```
+public  void **__construct**(<a href="../../../hirudo/core/modulesmanager.html">ModulesManager</a> manager)
+```
 <div class="details">
 <p>Constructs this controller as a joomla controller.</p></div>
 
 - - -
 
 <h2 id="detail_method">Method Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Impl/Joomla/JoomlaFrontController.php.md#line78" class="location">framework\hirudo\Hirudo\Impl\Joomla\JoomlaFrontController.php at line 78</a>
-
+<div class="location">framework\hirudo\Hirudo\Impl\Joomla\JoomlaFrontController.php at line 78</div>
 <h3 id="doTask()">doTask</h3>
+
 ```php
-public  void **doTask**()```
+public  void **doTask**()
+```
 <div class="details">
 <p>Executes the task taken from request data and orders the view to display.</p></div>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Impl/Joomla/JoomlaFrontController.php.md#line94" class="location">framework\hirudo\Hirudo\Impl\Joomla\JoomlaFrontController.php at line 94</a>
-
+<div class="location">framework\hirudo\Hirudo\Impl\Joomla\JoomlaFrontController.php at line 94</div>
 <h3 id="execute()">execute</h3>
+
 ```php
-public  mixed **execute**(string task)```
+public  mixed **execute**(string task)
+```
 <div class="details">
 <p>Executes a task</p></div>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Impl/Joomla/JoomlaFrontController.php.md#line107" class="location">framework\hirudo\Hirudo\Impl\Joomla\JoomlaFrontController.php at line 107</a>
-
+<div class="location">framework\hirudo\Hirudo\Impl\Joomla\JoomlaFrontController.php at line 107</div>
 <h3 id="run()">run</h3>
+
 ```php
-public  void **run**()```
+public  void **run**()
+```
 <div class="details">
 </div>
 

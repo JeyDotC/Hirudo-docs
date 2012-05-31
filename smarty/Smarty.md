@@ -1,11 +1,13 @@
 - - -
 
 **Smarty\Smarty**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/Smarty.class.php.md#line106" class="location">framework\libs\smarty\Smarty.class.php at line 106</a>
+<div class="location">framework\libs\smarty\Smarty.class.php at line 106</div>
+#Class Smarty#
 
-# Class Smarty #
+<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_data.html">Smarty_Internal_Data</a>
+    *<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_templatebase.html">Smarty_Internal_TemplateBase</a>
+        ***Smarty**
 
-<pre class="tree"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_data.html">Smarty_Internal_Data</a>\n    *<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_templatebase.html">Smarty_Internal_TemplateBase</a>\n        *** Smarty **\n</pre>
 
 <dl>
 <dt>All Known Subclasses:</dt>
@@ -14,7 +16,8 @@
 
 - - -
 
-<p class="signature">public  class **Smarty**\nextends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_templatebase.html">Smarty_Internal_TemplateBase</a>
+<p class="signature">public  class **Smarty**
+extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_templatebase.html">Smarty_Internal_TemplateBase</a>
 
 </p>
 
@@ -110,7 +113,7 @@
 <tr><th colspan="2">Constructor Summary</th></tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#__construct()">__construct</a>()</p><p class="description">Initialize new Smarty object</p></td>
+<td class="description"><p class="name"><a href="#__construct">__construct</a>()</p><p class="description">Initialize new Smarty object</p></td>
 </tr>
 </table>
 
@@ -118,153 +121,153 @@
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td class="type"> boolean</td>
-<td class="description"><p class="name"><a href="#templateExists()">templateExists</a>(string resource_name)</p><p class="description">Check if a template resource exists</p></td>
+<td class="description"><p class="name"><a href="#templateExists">templateExists</a>(string resource_name)</p><p class="description">Check if a template resource exists</p></td>
 </tr>
 <tr>
 <td class="type"> string</td>
-<td class="description"><p class="name"><a href="#getGlobal()">getGlobal</a>(object smarty, string varname)</p><p class="description">Returns a single or all global  variables</p></td>
+<td class="description"><p class="name"><a href="#getGlobal">getGlobal</a>(object smarty, string varname)</p><p class="description">Returns a single or all global  variables</p></td>
 </tr>
 <tr>
 <td class="type"> integer</td>
-<td class="description"><p class="name"><a href="#clearAllCache()">clearAllCache</a>(integer exp_time, string type)</p><p class="description">Empty cache folder</p></td>
+<td class="description"><p class="name"><a href="#clearAllCache">clearAllCache</a>(integer exp_time, string type)</p><p class="description">Empty cache folder</p></td>
 </tr>
 <tr>
 <td class="type"> integer</td>
-<td class="description"><p class="name"><a href="#clearCache()">clearCache</a>(string template_name, string cache_id, string compile_id, integer exp_time, string type)</p><p class="description">Empty cache for a specific template</p></td>
+<td class="description"><p class="name"><a href="#clearCache">clearCache</a>(string template_name, string cache_id, string compile_id, integer exp_time, string type)</p><p class="description">Empty cache for a specific template</p></td>
 </tr>
 <tr>
 <td class="type"> <a href="../smarty/smarty.html">Smarty</a></td>
-<td class="description"><p class="name"><a href="#enableSecurity()">enableSecurity</a>(string|Smarty_Security security_class)</p><p class="description">Loads security class and enables security</p></td>
+<td class="description"><p class="name"><a href="#enableSecurity">enableSecurity</a>(string|Smarty_Security security_class)</p><p class="description">Loads security class and enables security</p></td>
 </tr>
 <tr>
 <td class="type"> <a href="../smarty/smarty.html">Smarty</a></td>
-<td class="description"><p class="name"><a href="#disableSecurity()">disableSecurity</a>()</p><p class="description">Disable security</p></td>
+<td class="description"><p class="name"><a href="#disableSecurity">disableSecurity</a>()</p><p class="description">Disable security</p></td>
 </tr>
 <tr>
 <td class="type"> <a href="../smarty/smarty.html">Smarty</a></td>
-<td class="description"><p class="name"><a href="#setTemplateDir()">setTemplateDir</a>(string|array template_dir)</p><p class="description">Set template directory</p></td>
+<td class="description"><p class="name"><a href="#setTemplateDir">setTemplateDir</a>(string|array template_dir)</p><p class="description">Set template directory</p></td>
 </tr>
 <tr>
 <td class="type"> <a href="../smarty/smarty.html">Smarty</a></td>
-<td class="description"><p class="name"><a href="#addTemplateDir()">addTemplateDir</a>(string|array template_dir, string key)</p><p class="description">Add template directory(s)</p></td>
+<td class="description"><p class="name"><a href="#addTemplateDir">addTemplateDir</a>(string|array template_dir, string key)</p><p class="description">Add template directory(s)</p></td>
 </tr>
 <tr>
 <td class="type"> array|string</td>
-<td class="description"><p class="name"><a href="#getTemplateDir()">getTemplateDir</a>(mixed index)</p><p class="description">Get template directories</p></td>
+<td class="description"><p class="name"><a href="#getTemplateDir">getTemplateDir</a>(mixed index)</p><p class="description">Get template directories</p></td>
 </tr>
 <tr>
 <td class="type"> <a href="../smarty/smarty.html">Smarty</a></td>
-<td class="description"><p class="name"><a href="#setConfigDir()">setConfigDir</a>(string|array template_dir, mixed config_dir)</p><p class="description">Set config directory</p></td>
+<td class="description"><p class="name"><a href="#setConfigDir">setConfigDir</a>(string|array template_dir, mixed config_dir)</p><p class="description">Set config directory</p></td>
 </tr>
 <tr>
 <td class="type"> <a href="../smarty/smarty.html">Smarty</a></td>
-<td class="description"><p class="name"><a href="#addConfigDir()">addConfigDir</a>(string|array config_dir, string key)</p><p class="description">Add config directory(s)</p></td>
+<td class="description"><p class="name"><a href="#addConfigDir">addConfigDir</a>(string|array config_dir, string key)</p><p class="description">Add config directory(s)</p></td>
 </tr>
 <tr>
 <td class="type"> array|string</td>
-<td class="description"><p class="name"><a href="#getConfigDir()">getConfigDir</a>(mixed index)</p><p class="description">Get config directory</p></td>
+<td class="description"><p class="name"><a href="#getConfigDir">getConfigDir</a>(mixed index)</p><p class="description">Get config directory</p></td>
 </tr>
 <tr>
 <td class="type"> <a href="../smarty/smarty.html">Smarty</a></td>
-<td class="description"><p class="name"><a href="#setPluginsDir()">setPluginsDir</a>(string|array plugins_dir)</p><p class="description">Set plugins directory</p></td>
+<td class="description"><p class="name"><a href="#setPluginsDir">setPluginsDir</a>(string|array plugins_dir)</p><p class="description">Set plugins directory</p></td>
 </tr>
 <tr>
 <td class="type"> <a href="../smarty/smarty.html">Smarty</a></td>
-<td class="description"><p class="name"><a href="#addPluginsDir()">addPluginsDir</a>(object smarty, string plugins_dir)</p><p class="description">Adds directory of plugin files</p></td>
+<td class="description"><p class="name"><a href="#addPluginsDir">addPluginsDir</a>(object smarty, string plugins_dir)</p><p class="description">Adds directory of plugin files</p></td>
 </tr>
 <tr>
 <td class="type"> array</td>
-<td class="description"><p class="name"><a href="#getPluginsDir()">getPluginsDir</a>()</p><p class="description">Get plugin directories</p></td>
+<td class="description"><p class="name"><a href="#getPluginsDir">getPluginsDir</a>()</p><p class="description">Get plugin directories</p></td>
 </tr>
 <tr>
 <td class="type"> <a href="../smarty/smarty.html">Smarty</a></td>
-<td class="description"><p class="name"><a href="#setCompileDir()">setCompileDir</a>(string compile_dir)</p><p class="description">Set compile directory</p></td>
+<td class="description"><p class="name"><a href="#setCompileDir">setCompileDir</a>(string compile_dir)</p><p class="description">Set compile directory</p></td>
 </tr>
 <tr>
 <td class="type"> string</td>
-<td class="description"><p class="name"><a href="#getCompileDir()">getCompileDir</a>()</p><p class="description">Get compiled directory</p></td>
+<td class="description"><p class="name"><a href="#getCompileDir">getCompileDir</a>()</p><p class="description">Get compiled directory</p></td>
 </tr>
 <tr>
 <td class="type"> <a href="../smarty/smarty.html">Smarty</a></td>
-<td class="description"><p class="name"><a href="#setCacheDir()">setCacheDir</a>(string cache_dir)</p><p class="description">Set cache directory</p></td>
+<td class="description"><p class="name"><a href="#setCacheDir">setCacheDir</a>(string cache_dir)</p><p class="description">Set cache directory</p></td>
 </tr>
 <tr>
 <td class="type"> string</td>
-<td class="description"><p class="name"><a href="#getCacheDir()">getCacheDir</a>()</p><p class="description">Get cache directory</p></td>
+<td class="description"><p class="name"><a href="#getCacheDir">getCacheDir</a>()</p><p class="description">Get cache directory</p></td>
 </tr>
 <tr>
 <td class="type"> <a href="../smarty/smarty.html">Smarty</a></td>
-<td class="description"><p class="name"><a href="#setDefaultModifiers()">setDefaultModifiers</a>(array|string modifiers)</p><p class="description">Set default modifiers</p></td>
+<td class="description"><p class="name"><a href="#setDefaultModifiers">setDefaultModifiers</a>(array|string modifiers)</p><p class="description">Set default modifiers</p></td>
 </tr>
 <tr>
 <td class="type"> <a href="../smarty/smarty.html">Smarty</a></td>
-<td class="description"><p class="name"><a href="#addDefaultModifiers()">addDefaultModifiers</a>(array|string modifiers)</p><p class="description">Add default modifiers</p></td>
+<td class="description"><p class="name"><a href="#addDefaultModifiers">addDefaultModifiers</a>(array|string modifiers)</p><p class="description">Add default modifiers</p></td>
 </tr>
 <tr>
 <td class="type"> array</td>
-<td class="description"><p class="name"><a href="#getDefaultModifiers()">getDefaultModifiers</a>()</p><p class="description">Get default modifiers</p></td>
+<td class="description"><p class="name"><a href="#getDefaultModifiers">getDefaultModifiers</a>()</p><p class="description">Get default modifiers</p></td>
 </tr>
 <tr>
 <td class="type"> <a href="../smarty/smarty.html">Smarty</a></td>
-<td class="description"><p class="name"><a href="#setAutoloadFilters()">setAutoloadFilters</a>(array filters, string type)</p><p class="description">Set autoload filters</p></td>
+<td class="description"><p class="name"><a href="#setAutoloadFilters">setAutoloadFilters</a>(array filters, string type)</p><p class="description">Set autoload filters</p></td>
 </tr>
 <tr>
 <td class="type"> <a href="../smarty/smarty.html">Smarty</a></td>
-<td class="description"><p class="name"><a href="#addAutoloadFilters()">addAutoloadFilters</a>(array filters, string type)</p><p class="description">Add autoload filters</p></td>
+<td class="description"><p class="name"><a href="#addAutoloadFilters">addAutoloadFilters</a>(array filters, string type)</p><p class="description">Add autoload filters</p></td>
 </tr>
 <tr>
 <td class="type"> array</td>
-<td class="description"><p class="name"><a href="#getAutoloadFilters()">getAutoloadFilters</a>(string type)</p><p class="description">Get autoload filters</p></td>
+<td class="description"><p class="name"><a href="#getAutoloadFilters">getAutoloadFilters</a>(string type)</p><p class="description">Get autoload filters</p></td>
 </tr>
 <tr>
 <td class="type"> string</td>
-<td class="description"><p class="name"><a href="#getDebugTemplate()">getDebugTemplate</a>()</p><p class="description">return name of debugging template</p></td>
+<td class="description"><p class="name"><a href="#getDebugTemplate">getDebugTemplate</a>()</p><p class="description">return name of debugging template</p></td>
 </tr>
 <tr>
 <td class="type"> <a href="../smarty/smarty.html">Smarty</a></td>
-<td class="description"><p class="name"><a href="#setDebugTemplate()">setDebugTemplate</a>(string tpl_name)</p><p class="description">set the debug template</p></td>
+<td class="description"><p class="name"><a href="#setDebugTemplate">setDebugTemplate</a>(string tpl_name)</p><p class="description">set the debug template</p></td>
 </tr>
 <tr>
 <td class="type"> object</td>
-<td class="description"><p class="name"><a href="#createTemplate()">createTemplate</a>(string template, mixed cache_id, mixed compile_id, object parent, boolean do_clone)</p><p class="description">creates a template object</p></td>
+<td class="description"><p class="name"><a href="#createTemplate">createTemplate</a>(string template, mixed cache_id, mixed compile_id, object parent, boolean do_clone)</p><p class="description">creates a template object</p></td>
 </tr>
 <tr>
 <td class="type"> string</td>
-<td class="description"><p class="name"><a href="#loadPlugin()">loadPlugin</a>(string plugin_name, bool check)</p><p class="description">Takes unknown classes and loads plugin files for them
+<td class="description"><p class="name"><a href="#loadPlugin">loadPlugin</a>(string plugin_name, bool check)</p><p class="description">Takes unknown classes and loads plugin files for them
 class name format: Smarty_PluginType_PluginName
 plugin filename format: plugintype.pluginname.php</p></td>
 </tr>
 <tr>
 <td class="type"> integer</td>
-<td class="description"><p class="name"><a href="#compileAllTemplates()">compileAllTemplates</a>(string extension, bool force_compile, int time_limit, int max_errors, str extention)</p><p class="description">Compile all template files</p></td>
+<td class="description"><p class="name"><a href="#compileAllTemplates">compileAllTemplates</a>(string extension, bool force_compile, int time_limit, int max_errors, str extention)</p><p class="description">Compile all template files</p></td>
 </tr>
 <tr>
 <td class="type"> integer</td>
-<td class="description"><p class="name"><a href="#compileAllConfig()">compileAllConfig</a>(string extension, bool force_compile, int time_limit, int max_errors, str extention)</p><p class="description">Compile all config files</p></td>
+<td class="description"><p class="name"><a href="#compileAllConfig">compileAllConfig</a>(string extension, bool force_compile, int time_limit, int max_errors, str extention)</p><p class="description">Compile all config files</p></td>
 </tr>
 <tr>
 <td class="type"> integer</td>
-<td class="description"><p class="name"><a href="#clearCompiledTemplate()">clearCompiledTemplate</a>(string resource_name, string compile_id, integer exp_time)</p><p class="description">Delete compiled template file</p></td>
+<td class="description"><p class="name"><a href="#clearCompiledTemplate">clearCompiledTemplate</a>(string resource_name, string compile_id, integer exp_time)</p><p class="description">Delete compiled template file</p></td>
 </tr>
 <tr>
 <td class="type"> array</td>
-<td class="description"><p class="name"><a href="#getTags()">getTags</a>(object templae, <a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> template)</p><p class="description">Return array of tag/attributes of all tags used by an template</p></td>
+<td class="description"><p class="name"><a href="#getTags">getTags</a>(object templae, <a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> template)</p><p class="description">Return array of tag/attributes of all tags used by an template</p></td>
 </tr>
 <tr>
 <td class="type"> boolean</td>
-<td class="description"><p class="name"><a href="#testInstall()">testInstall</a>(array errors)</p><p class="description">Run installation test</p></td>
+<td class="description"><p class="name"><a href="#testInstall">testInstall</a>(array errors)</p><p class="description">Run installation test</p></td>
 </tr>
 <tr>
 <td class="type">static  boolean</td>
-<td class="description"><p class="name"><a href="#mutingErrorHandler()">mutingErrorHandler</a>(integer errno, mixed errstr, mixed errfile, mixed errline, mixed errcontext)</p><p class="description">Error Handler to mute expected messages</p></td>
+<td class="description"><p class="name"><a href="#mutingErrorHandler">mutingErrorHandler</a>(integer errno, mixed errstr, mixed errfile, mixed errline, mixed errcontext)</p><p class="description">Error Handler to mute expected messages</p></td>
 </tr>
 <tr>
 <td class="type">static  void</td>
-<td class="description"><p class="name"><a href="#muteExpectedErrors()">muteExpectedErrors</a>()</p><p class="description">Enable error handler to mute expected messages</p></td>
+<td class="description"><p class="name"><a href="#muteExpectedErrors">muteExpectedErrors</a>()</p><p class="description">Enable error handler to mute expected messages</p></td>
 </tr>
 <tr>
 <td class="type">static  void</td>
-<td class="description"><p class="name"><a href="#unmuteExpectedErrors()">unmuteExpectedErrors</a>()</p><p class="description">Disable error handler muting expected messages</p></td>
+<td class="description"><p class="name"><a href="#unmuteExpectedErrors">unmuteExpectedErrors</a>()</p><p class="description">Disable error handler muting expected messages</p></td>
 </tr>
 </table>
 
@@ -277,213 +280,234 @@ plugin filename format: plugintype.pluginname.php</p></td>
 <tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_data.html#append()">append</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_data.html#appendByRef()">appendByRef</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_data.html#assign()">assign</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_data.html#assignByRef()">assignByRef</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_data.html#assignGlobal()">assignGlobal</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_data.html#clearAllAssign()">clearAllAssign</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_data.html#clearAssign()">clearAssign</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_data.html#clearConfig()">clearConfig</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_data.html#configLoad()">configLoad</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_data.html#getConfigVariable()">getConfigVariable</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_data.html#getConfigVars()">getConfigVars</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_data.html#getStreamVariable()">getStreamVariable</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_data.html#getTemplateVars()">getTemplateVars</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_data.html#getVariable()">getVariable</a></td></tr></table>
 
 ##Field Detail##
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/Smarty.class.php.md#line150" class="location">framework\libs\smarty\Smarty.class.php at line 150</a>
-
+<div class="location">framework\libs\smarty\Smarty.class.php at line 150</div>
 <h3 id="_cacheresource_handlers">_cacheresource_handlers</h3>
+
 ```php
-public  array **$_cacheresource_handlers** = array()```
+public  array$_cacheresource_handlers = array()
+```
 <div class="details">
 <p>cache resource handler cache</p></div>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/Smarty.class.php.md#line200" class="location">framework\libs\smarty\Smarty.class.php at line 200</a>
-
+<div class="location">framework\libs\smarty\Smarty.class.php at line 200</div>
 <h3 id="_current_file">_current_file</h3>
+
 ```php
-public  string **$_current_file** = null```
+public  string$_current_file = null
+```
 <div class="details">
 <p>required by the compiler for BC</p></div>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/Smarty.class.php.md#line185" class="location">framework\libs\smarty\Smarty.class.php at line 185</a>
-
+<div class="location">framework\libs\smarty\Smarty.class.php at line 185</div>
 <h3 id="_dir_perms">_dir_perms</h3>
+
 ```php
-public  int **$_dir_perms** = 0771```
+public  int$_dir_perms = 0771
+```
 <div class="details">
 <p>default dir permissions</p></div>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/Smarty.class.php.md#line180" class="location">framework\libs\smarty\Smarty.class.php at line 180</a>
-
+<div class="location">framework\libs\smarty\Smarty.class.php at line 180</div>
 <h3 id="_file_perms">_file_perms</h3>
+
 ```php
-public  int **$_file_perms** = 0644```
+public  int$_file_perms = 0644
+```
 <div class="details">
 <p>default file permissions</p></div>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/Smarty.class.php.md#line205" class="location">framework\libs\smarty\Smarty.class.php at line 205</a>
-
+<div class="location">framework\libs\smarty\Smarty.class.php at line 205</div>
 <h3 id="_parserdebug">_parserdebug</h3>
+
 ```php
-public  bool **$_parserdebug** = false```
+public  bool$_parserdebug = false
+```
 <div class="details">
 <p>internal flag to enable parser debugging</p></div>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/Smarty.class.php.md#line140" class="location">framework\libs\smarty\Smarty.class.php at line 140</a>
-
+<div class="location">framework\libs\smarty\Smarty.class.php at line 140</div>
 <h3 id="_resource_handlers">_resource_handlers</h3>
+
 ```php
-public  array **$_resource_handlers** = array()```
+public  array$_resource_handlers = array()
+```
 <div class="details">
 <p>resource handler cache</p></div>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/Smarty.class.php.md#line170" class="location">framework\libs\smarty\Smarty.class.php at line 170</a>
-
+<div class="location">framework\libs\smarty\Smarty.class.php at line 170</div>
 <h3 id="_smarty_vars">_smarty_vars</h3>
+
 ```php
-public static  array **$_smarty_vars** = array()```
+public static  array$_smarty_vars = array()
+```
 <div class="details">
 <p>global internal smarty vars</p></div>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/Smarty.class.php.md#line190" class="location">framework\libs\smarty\Smarty.class.php at line 190</a>
-
+<div class="location">framework\libs\smarty\Smarty.class.php at line 190</div>
 <h3 id="_tag_stack">_tag_stack</h3>
+
 ```php
-public  array **$_tag_stack** = array()```
+public  array$_tag_stack = array()
+```
 <div class="details">
 <p>block tag hierarchy</p></div>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/Smarty.class.php.md#line155" class="location">framework\libs\smarty\Smarty.class.php at line 155</a>
-
+<div class="location">framework\libs\smarty\Smarty.class.php at line 155</div>
 <h3 id="autoload_filters">autoload_filters</h3>
+
 ```php
-public  array **$autoload_filters** = array()```
+public  array$autoload_filters = array()
+```
 <div class="details">
 <p>autoload filter</p></div>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/Smarty.class.php.md#line160" class="location">framework\libs\smarty\Smarty.class.php at line 160</a>
-
+<div class="location">framework\libs\smarty\Smarty.class.php at line 160</div>
 <h3 id="default_modifiers">default_modifiers</h3>
+
 ```php
-public  array **$default_modifiers** = array()```
+public  array$default_modifiers = array()
+```
 <div class="details">
 <p>default modifier</p></div>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/Smarty.class.php.md#line165" class="location">framework\libs\smarty\Smarty.class.php at line 165</a>
-
+<div class="location">framework\libs\smarty\Smarty.class.php at line 165</div>
 <h3 id="escape_html">escape_html</h3>
+
 ```php
-public  boolean **$escape_html** = false```
+public  boolean$escape_html = false
+```
 <div class="details">
 <p>autoescape variable output</p></div>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/Smarty.class.php.md#line211" class="location">framework\libs\smarty\Smarty.class.php at line 211</a>
-
+<div class="location">framework\libs\smarty\Smarty.class.php at line 211</div>
 <h3 id="merged_templates_func">merged_templates_func</h3>
+
 ```php
-public  array **$merged_templates_func** = array()```
+public  array$merged_templates_func = array()
+```
 <div class="details">
 <p>Saved parameter of merged templates during compilation</p></div>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/Smarty.class.php.md#line145" class="location">framework\libs\smarty\Smarty.class.php at line 145</a>
-
+<div class="location">framework\libs\smarty\Smarty.class.php at line 145</div>
 <h3 id="registered_cache_resources">registered_cache_resources</h3>
+
 ```php
-public  array **$registered_cache_resources** = array()```
+public  array$registered_cache_resources = array()
+```
 <div class="details">
 <p>registered cache resources</p></div>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/Smarty.class.php.md#line125" class="location">framework\libs\smarty\Smarty.class.php at line 125</a>
-
+<div class="location">framework\libs\smarty\Smarty.class.php at line 125</div>
 <h3 id="registered_classes">registered_classes</h3>
+
 ```php
-public  array **$registered_classes** = array()```
+public  array$registered_classes = array()
+```
 <div class="details">
 <p>registered classes</p></div>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/Smarty.class.php.md#line130" class="location">framework\libs\smarty\Smarty.class.php at line 130</a>
-
+<div class="location">framework\libs\smarty\Smarty.class.php at line 130</div>
 <h3 id="registered_filters">registered_filters</h3>
+
 ```php
-public  array **$registered_filters** = array()```
+public  array$registered_filters = array()
+```
 <div class="details">
 <p>registered filters</p></div>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/Smarty.class.php.md#line120" class="location">framework\libs\smarty\Smarty.class.php at line 120</a>
-
+<div class="location">framework\libs\smarty\Smarty.class.php at line 120</div>
 <h3 id="registered_objects">registered_objects</h3>
+
 ```php
-public  array **$registered_objects** = array()```
+public  array$registered_objects = array()
+```
 <div class="details">
 <p>registered objects</p></div>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/Smarty.class.php.md#line135" class="location">framework\libs\smarty\Smarty.class.php at line 135</a>
-
+<div class="location">framework\libs\smarty\Smarty.class.php at line 135</div>
 <h3 id="registered_resources">registered_resources</h3>
+
 ```php
-public  array **$registered_resources** = array()```
+public  array$registered_resources = array()
+```
 <div class="details">
 <p>registered resources</p></div>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/Smarty.class.php.md#line195" class="location">framework\libs\smarty\Smarty.class.php at line 195</a>
-
+<div class="location">framework\libs\smarty\Smarty.class.php at line 195</div>
 <h3 id="smarty">smarty</h3>
+
 ```php
-public  <a href="../smarty/smarty.html">Smarty</a> **$smarty**```
+public  <a href="../smarty/smarty.html">Smarty</a>$smarty
+```
 <div class="details">
 <p>self pointer to Smarty object</p></div>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/Smarty.class.php.md#line175" class="location">framework\libs\smarty\Smarty.class.php at line 175</a>
-
+<div class="location">framework\libs\smarty\Smarty.class.php at line 175</div>
 <h3 id="start_time">start_time</h3>
+
 ```php
-public  int **$start_time** = 0```
+public  int$start_time = 0
+```
 <div class="details">
 <p>start time for execution time calculation</p></div>
 
 - - -
 
 <h2 id="detail_method">Constructor Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/Smarty.class.php.md#line218" class="location">framework\libs\smarty\Smarty.class.php at line 218</a>
-
+<div class="location">framework\libs\smarty\Smarty.class.php at line 218</div>
 <h3 id="__construct()">__construct</h3>
+
 ```php
-public  void **__construct**()```
+public  void **__construct**()
+```
 <div class="details">
 <p>Initialize new Smarty object</p></div>
 
 - - -
 
 <h2 id="detail_method">Method Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/Smarty.class.php.md#line315" class="location">framework\libs\smarty\Smarty.class.php at line 315</a>
-
+<div class="location">framework\libs\smarty\Smarty.class.php at line 315</div>
 <h3 id="templateExists()">templateExists</h3>
+
 ```php
-public  boolean **templateExists**(string resource_name)```
+public  boolean **templateExists**(string resource_name)
+```
 <div class="details">
 <p>Check if a template resource exists</p><dl>
 <dt>Parameters:</dt>
@@ -495,11 +519,12 @@ public  boolean **templateExists**(string resource_name)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/Smarty.class.php.md#line333" class="location">framework\libs\smarty\Smarty.class.php at line 333</a>
-
+<div class="location">framework\libs\smarty\Smarty.class.php at line 333</div>
 <h3 id="getGlobal()">getGlobal</h3>
+
 ```php
-public  string **getGlobal**(object smarty, string varname)```
+public  string **getGlobal**(object smarty, string varname)
+```
 <div class="details">
 <p>Returns a single or all global  variables</p><dl>
 <dt>Parameters:</dt>
@@ -512,11 +537,12 @@ public  string **getGlobal**(object smarty, string varname)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/Smarty.class.php.md#line357" class="location">framework\libs\smarty\Smarty.class.php at line 357</a>
-
+<div class="location">framework\libs\smarty\Smarty.class.php at line 357</div>
 <h3 id="clearAllCache()">clearAllCache</h3>
+
 ```php
-public  integer **clearAllCache**(integer exp_time, string type)```
+public  integer **clearAllCache**(integer exp_time, string type)
+```
 <div class="details">
 <p>Empty cache folder</p><dl>
 <dt>Parameters:</dt>
@@ -529,11 +555,12 @@ public  integer **clearAllCache**(integer exp_time, string type)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/Smarty.class.php.md#line375" class="location">framework\libs\smarty\Smarty.class.php at line 375</a>
-
+<div class="location">framework\libs\smarty\Smarty.class.php at line 375</div>
 <h3 id="clearCache()">clearCache</h3>
+
 ```php
-public  integer **clearCache**(string template_name, string cache_id, string compile_id, integer exp_time, string type)```
+public  integer **clearCache**(string template_name, string cache_id, string compile_id, integer exp_time, string type)
+```
 <div class="details">
 <p>Empty cache for a specific template</p><dl>
 <dt>Parameters:</dt>
@@ -549,11 +576,12 @@ public  integer **clearCache**(string template_name, string cache_id, string com
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/Smarty.class.php.md#line390" class="location">framework\libs\smarty\Smarty.class.php at line 390</a>
-
+<div class="location">framework\libs\smarty\Smarty.class.php at line 390</div>
 <h3 id="enableSecurity()">enableSecurity</h3>
+
 ```php
-public  <a href="../smarty/smarty.html">Smarty</a> **enableSecurity**(string|Smarty_Security security_class)```
+public  <a href="../smarty/smarty.html">Smarty</a> **enableSecurity**(string|Smarty_Security security_class)
+```
 <div class="details">
 <p>Loads security class and enables security</p><dl>
 <dt>Parameters:</dt>
@@ -567,11 +595,12 @@ public  <a href="../smarty/smarty.html">Smarty</a> **enableSecurity**(string|Sma
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/Smarty.class.php.md#line416" class="location">framework\libs\smarty\Smarty.class.php at line 416</a>
-
+<div class="location">framework\libs\smarty\Smarty.class.php at line 416</div>
 <h3 id="disableSecurity()">disableSecurity</h3>
+
 ```php
-public  <a href="../smarty/smarty.html">Smarty</a> **disableSecurity**()```
+public  <a href="../smarty/smarty.html">Smarty</a> **disableSecurity**()
+```
 <div class="details">
 <p>Disable security</p><dl>
 <dt>Returns:</dt>
@@ -581,11 +610,12 @@ public  <a href="../smarty/smarty.html">Smarty</a> **disableSecurity**()```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/Smarty.class.php.md#line429" class="location">framework\libs\smarty\Smarty.class.php at line 429</a>
-
+<div class="location">framework\libs\smarty\Smarty.class.php at line 429</div>
 <h3 id="setTemplateDir()">setTemplateDir</h3>
+
 ```php
-public  <a href="../smarty/smarty.html">Smarty</a> **setTemplateDir**(string|array template_dir)```
+public  <a href="../smarty/smarty.html">Smarty</a> **setTemplateDir**(string|array template_dir)
+```
 <div class="details">
 <p>Set template directory</p><dl>
 <dt>Parameters:</dt>
@@ -597,11 +627,12 @@ public  <a href="../smarty/smarty.html">Smarty</a> **setTemplateDir**(string|arr
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/Smarty.class.php.md#line448" class="location">framework\libs\smarty\Smarty.class.php at line 448</a>
-
+<div class="location">framework\libs\smarty\Smarty.class.php at line 448</div>
 <h3 id="addTemplateDir()">addTemplateDir</h3>
+
 ```php
-public  <a href="../smarty/smarty.html">Smarty</a> **addTemplateDir**(string|array template_dir, string key)```
+public  <a href="../smarty/smarty.html">Smarty</a> **addTemplateDir**(string|array template_dir, string key)
+```
 <div class="details">
 <p>Add template directory(s)</p><dl>
 <dt>Parameters:</dt>
@@ -616,11 +647,12 @@ public  <a href="../smarty/smarty.html">Smarty</a> **addTemplateDir**(string|arr
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/Smarty.class.php.md#line480" class="location">framework\libs\smarty\Smarty.class.php at line 480</a>
-
+<div class="location">framework\libs\smarty\Smarty.class.php at line 480</div>
 <h3 id="getTemplateDir()">getTemplateDir</h3>
+
 ```php
-public  array|string **getTemplateDir**(mixed index)```
+public  array|string **getTemplateDir**(mixed index)
+```
 <div class="details">
 <p>Get template directories</p><dl>
 <dt>Parameters:</dt>
@@ -632,11 +664,12 @@ public  array|string **getTemplateDir**(mixed index)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/Smarty.class.php.md#line495" class="location">framework\libs\smarty\Smarty.class.php at line 495</a>
-
+<div class="location">framework\libs\smarty\Smarty.class.php at line 495</div>
 <h3 id="setConfigDir()">setConfigDir</h3>
+
 ```php
-public  <a href="../smarty/smarty.html">Smarty</a> **setConfigDir**(string|array template_dir, mixed config_dir)```
+public  <a href="../smarty/smarty.html">Smarty</a> **setConfigDir**(string|array template_dir, mixed config_dir)
+```
 <div class="details">
 <p>Set config directory</p><dl>
 <dt>Parameters:</dt>
@@ -648,11 +681,12 @@ public  <a href="../smarty/smarty.html">Smarty</a> **setConfigDir**(string|array
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/Smarty.class.php.md#line513" class="location">framework\libs\smarty\Smarty.class.php at line 513</a>
-
+<div class="location">framework\libs\smarty\Smarty.class.php at line 513</div>
 <h3 id="addConfigDir()">addConfigDir</h3>
+
 ```php
-public  <a href="../smarty/smarty.html">Smarty</a> **addConfigDir**(string|array config_dir, string key)```
+public  <a href="../smarty/smarty.html">Smarty</a> **addConfigDir**(string|array config_dir, string key)
+```
 <div class="details">
 <p>Add config directory(s)</p><dl>
 <dt>Parameters:</dt>
@@ -665,11 +699,12 @@ public  <a href="../smarty/smarty.html">Smarty</a> **addConfigDir**(string|array
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/Smarty.class.php.md#line546" class="location">framework\libs\smarty\Smarty.class.php at line 546</a>
-
+<div class="location">framework\libs\smarty\Smarty.class.php at line 546</div>
 <h3 id="getConfigDir()">getConfigDir</h3>
+
 ```php
-public  array|string **getConfigDir**(mixed index)```
+public  array|string **getConfigDir**(mixed index)
+```
 <div class="details">
 <p>Get config directory</p><dl>
 <dt>Parameters:</dt>
@@ -681,11 +716,12 @@ public  array|string **getConfigDir**(mixed index)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/Smarty.class.php.md#line561" class="location">framework\libs\smarty\Smarty.class.php at line 561</a>
-
+<div class="location">framework\libs\smarty\Smarty.class.php at line 561</div>
 <h3 id="setPluginsDir()">setPluginsDir</h3>
+
 ```php
-public  <a href="../smarty/smarty.html">Smarty</a> **setPluginsDir**(string|array plugins_dir)```
+public  <a href="../smarty/smarty.html">Smarty</a> **setPluginsDir**(string|array plugins_dir)
+```
 <div class="details">
 <p>Set plugins directory</p><dl>
 <dt>Parameters:</dt>
@@ -697,11 +733,12 @@ public  <a href="../smarty/smarty.html">Smarty</a> **setPluginsDir**(string|arra
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/Smarty.class.php.md#line578" class="location">framework\libs\smarty\Smarty.class.php at line 578</a>
-
+<div class="location">framework\libs\smarty\Smarty.class.php at line 578</div>
 <h3 id="addPluginsDir()">addPluginsDir</h3>
+
 ```php
-public  <a href="../smarty/smarty.html">Smarty</a> **addPluginsDir**(object smarty, string plugins_dir)```
+public  <a href="../smarty/smarty.html">Smarty</a> **addPluginsDir**(object smarty, string plugins_dir)
+```
 <div class="details">
 <p>Adds directory of plugin files</p><dl>
 <dt>Parameters:</dt>
@@ -714,11 +751,12 @@ public  <a href="../smarty/smarty.html">Smarty</a> **addPluginsDir**(object smar
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/Smarty.class.php.md#line607" class="location">framework\libs\smarty\Smarty.class.php at line 607</a>
-
+<div class="location">framework\libs\smarty\Smarty.class.php at line 607</div>
 <h3 id="getPluginsDir()">getPluginsDir</h3>
+
 ```php
-public  array **getPluginsDir**()```
+public  array **getPluginsDir**()
+```
 <div class="details">
 <p>Get plugin directories</p><dl>
 <dt>Returns:</dt>
@@ -728,11 +766,12 @@ public  array **getPluginsDir**()```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/Smarty.class.php.md#line618" class="location">framework\libs\smarty\Smarty.class.php at line 618</a>
-
+<div class="location">framework\libs\smarty\Smarty.class.php at line 618</div>
 <h3 id="setCompileDir()">setCompileDir</h3>
+
 ```php
-public  <a href="../smarty/smarty.html">Smarty</a> **setCompileDir**(string compile_dir)```
+public  <a href="../smarty/smarty.html">Smarty</a> **setCompileDir**(string compile_dir)
+```
 <div class="details">
 <p>Set compile directory</p><dl>
 <dt>Parameters:</dt>
@@ -744,11 +783,12 @@ public  <a href="../smarty/smarty.html">Smarty</a> **setCompileDir**(string comp
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/Smarty.class.php.md#line632" class="location">framework\libs\smarty\Smarty.class.php at line 632</a>
-
+<div class="location">framework\libs\smarty\Smarty.class.php at line 632</div>
 <h3 id="getCompileDir()">getCompileDir</h3>
+
 ```php
-public  string **getCompileDir**()```
+public  string **getCompileDir**()
+```
 <div class="details">
 <p>Get compiled directory</p><dl>
 <dt>Returns:</dt>
@@ -758,11 +798,12 @@ public  string **getCompileDir**()```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/Smarty.class.php.md#line643" class="location">framework\libs\smarty\Smarty.class.php at line 643</a>
-
+<div class="location">framework\libs\smarty\Smarty.class.php at line 643</div>
 <h3 id="setCacheDir()">setCacheDir</h3>
+
 ```php
-public  <a href="../smarty/smarty.html">Smarty</a> **setCacheDir**(string cache_dir)```
+public  <a href="../smarty/smarty.html">Smarty</a> **setCacheDir**(string cache_dir)
+```
 <div class="details">
 <p>Set cache directory</p><dl>
 <dt>Parameters:</dt>
@@ -774,11 +815,12 @@ public  <a href="../smarty/smarty.html">Smarty</a> **setCacheDir**(string cache_
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/Smarty.class.php.md#line657" class="location">framework\libs\smarty\Smarty.class.php at line 657</a>
-
+<div class="location">framework\libs\smarty\Smarty.class.php at line 657</div>
 <h3 id="getCacheDir()">getCacheDir</h3>
+
 ```php
-public  string **getCacheDir**()```
+public  string **getCacheDir**()
+```
 <div class="details">
 <p>Get cache directory</p><dl>
 <dt>Returns:</dt>
@@ -788,11 +830,12 @@ public  string **getCacheDir**()```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/Smarty.class.php.md#line668" class="location">framework\libs\smarty\Smarty.class.php at line 668</a>
-
+<div class="location">framework\libs\smarty\Smarty.class.php at line 668</div>
 <h3 id="setDefaultModifiers()">setDefaultModifiers</h3>
+
 ```php
-public  <a href="../smarty/smarty.html">Smarty</a> **setDefaultModifiers**(array|string modifiers)```
+public  <a href="../smarty/smarty.html">Smarty</a> **setDefaultModifiers**(array|string modifiers)
+```
 <div class="details">
 <p>Set default modifiers</p><dl>
 <dt>Parameters:</dt>
@@ -804,11 +847,12 @@ public  <a href="../smarty/smarty.html">Smarty</a> **setDefaultModifiers**(array
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/Smarty.class.php.md#line680" class="location">framework\libs\smarty\Smarty.class.php at line 680</a>
-
+<div class="location">framework\libs\smarty\Smarty.class.php at line 680</div>
 <h3 id="addDefaultModifiers()">addDefaultModifiers</h3>
+
 ```php
-public  <a href="../smarty/smarty.html">Smarty</a> **addDefaultModifiers**(array|string modifiers)```
+public  <a href="../smarty/smarty.html">Smarty</a> **addDefaultModifiers**(array|string modifiers)
+```
 <div class="details">
 <p>Add default modifiers</p><dl>
 <dt>Parameters:</dt>
@@ -820,11 +864,12 @@ public  <a href="../smarty/smarty.html">Smarty</a> **addDefaultModifiers**(array
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/Smarty.class.php.md#line696" class="location">framework\libs\smarty\Smarty.class.php at line 696</a>
-
+<div class="location">framework\libs\smarty\Smarty.class.php at line 696</div>
 <h3 id="getDefaultModifiers()">getDefaultModifiers</h3>
+
 ```php
-public  array **getDefaultModifiers**()```
+public  array **getDefaultModifiers**()
+```
 <div class="details">
 <p>Get default modifiers</p><dl>
 <dt>Returns:</dt>
@@ -834,11 +879,12 @@ public  array **getDefaultModifiers**()```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/Smarty.class.php.md#line709" class="location">framework\libs\smarty\Smarty.class.php at line 709</a>
-
+<div class="location">framework\libs\smarty\Smarty.class.php at line 709</div>
 <h3 id="setAutoloadFilters()">setAutoloadFilters</h3>
+
 ```php
-public  <a href="../smarty/smarty.html">Smarty</a> **setAutoloadFilters**(array filters, string type)```
+public  <a href="../smarty/smarty.html">Smarty</a> **setAutoloadFilters**(array filters, string type)
+```
 <div class="details">
 <p>Set autoload filters</p><dl>
 <dt>Parameters:</dt>
@@ -851,11 +897,12 @@ public  <a href="../smarty/smarty.html">Smarty</a> **setAutoloadFilters**(array 
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/Smarty.class.php.md#line727" class="location">framework\libs\smarty\Smarty.class.php at line 727</a>
-
+<div class="location">framework\libs\smarty\Smarty.class.php at line 727</div>
 <h3 id="addAutoloadFilters()">addAutoloadFilters</h3>
+
 ```php
-public  <a href="../smarty/smarty.html">Smarty</a> **addAutoloadFilters**(array filters, string type)```
+public  <a href="../smarty/smarty.html">Smarty</a> **addAutoloadFilters**(array filters, string type)
+```
 <div class="details">
 <p>Add autoload filters</p><dl>
 <dt>Parameters:</dt>
@@ -868,11 +915,12 @@ public  <a href="../smarty/smarty.html">Smarty</a> **addAutoloadFilters**(array 
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/Smarty.class.php.md#line754" class="location">framework\libs\smarty\Smarty.class.php at line 754</a>
-
+<div class="location">framework\libs\smarty\Smarty.class.php at line 754</div>
 <h3 id="getAutoloadFilters()">getAutoloadFilters</h3>
+
 ```php
-public  array **getAutoloadFilters**(string type)```
+public  array **getAutoloadFilters**(string type)
+```
 <div class="details">
 <p>Get autoload filters</p><dl>
 <dt>Parameters:</dt>
@@ -884,21 +932,23 @@ public  array **getAutoloadFilters**(string type)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/Smarty.class.php.md#line768" class="location">framework\libs\smarty\Smarty.class.php at line 768</a>
-
+<div class="location">framework\libs\smarty\Smarty.class.php at line 768</div>
 <h3 id="getDebugTemplate()">getDebugTemplate</h3>
+
 ```php
-public  string **getDebugTemplate**()```
+public  string **getDebugTemplate**()
+```
 <div class="details">
 <p>return name of debugging template</p></div>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/Smarty.class.php.md#line780" class="location">framework\libs\smarty\Smarty.class.php at line 780</a>
-
+<div class="location">framework\libs\smarty\Smarty.class.php at line 780</div>
 <h3 id="setDebugTemplate()">setDebugTemplate</h3>
+
 ```php
-public  <a href="../smarty/smarty.html">Smarty</a> **setDebugTemplate**(string tpl_name)```
+public  <a href="../smarty/smarty.html">Smarty</a> **setDebugTemplate**(string tpl_name)
+```
 <div class="details">
 <p>set the debug template</p><dl>
 <dt>Returns:</dt>
@@ -910,11 +960,12 @@ public  <a href="../smarty/smarty.html">Smarty</a> **setDebugTemplate**(string t
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/Smarty.class.php.md#line800" class="location">framework\libs\smarty\Smarty.class.php at line 800</a>
-
+<div class="location">framework\libs\smarty\Smarty.class.php at line 800</div>
 <h3 id="createTemplate()">createTemplate</h3>
+
 ```php
-public  object **createTemplate**(string template, mixed cache_id, mixed compile_id, object parent, boolean do_clone)```
+public  object **createTemplate**(string template, mixed cache_id, mixed compile_id, object parent, boolean do_clone)
+```
 <div class="details">
 <p>creates a template object</p><dl>
 <dt>Parameters:</dt>
@@ -930,11 +981,12 @@ public  object **createTemplate**(string template, mixed cache_id, mixed compile
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/Smarty.class.php.md#line866" class="location">framework\libs\smarty\Smarty.class.php at line 866</a>
-
+<div class="location">framework\libs\smarty\Smarty.class.php at line 866</div>
 <h3 id="loadPlugin()">loadPlugin</h3>
+
 ```php
-public  string **loadPlugin**(string plugin_name, bool check)```
+public  string **loadPlugin**(string plugin_name, bool check)
+```
 <div class="details">
 <p>Takes unknown classes and loads plugin files for them
 class name format: Smarty_PluginType_PluginName
@@ -949,11 +1001,12 @@ plugin filename format: plugintype.pluginname.php</p><dl>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/Smarty.class.php.md#line934" class="location">framework\libs\smarty\Smarty.class.php at line 934</a>
-
+<div class="location">framework\libs\smarty\Smarty.class.php at line 934</div>
 <h3 id="compileAllTemplates()">compileAllTemplates</h3>
+
 ```php
-public  integer **compileAllTemplates**(string extension, bool force_compile, int time_limit, int max_errors, str extention)```
+public  integer **compileAllTemplates**(string extension, bool force_compile, int time_limit, int max_errors, str extention)
+```
 <div class="details">
 <p>Compile all template files</p><dl>
 <dt>Parameters:</dt>
@@ -968,11 +1021,12 @@ public  integer **compileAllTemplates**(string extension, bool force_compile, in
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/Smarty.class.php.md#line948" class="location">framework\libs\smarty\Smarty.class.php at line 948</a>
-
+<div class="location">framework\libs\smarty\Smarty.class.php at line 948</div>
 <h3 id="compileAllConfig()">compileAllConfig</h3>
+
 ```php
-public  integer **compileAllConfig**(string extension, bool force_compile, int time_limit, int max_errors, str extention)```
+public  integer **compileAllConfig**(string extension, bool force_compile, int time_limit, int max_errors, str extention)
+```
 <div class="details">
 <p>Compile all config files</p><dl>
 <dt>Parameters:</dt>
@@ -987,11 +1041,12 @@ public  integer **compileAllConfig**(string extension, bool force_compile, int t
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/Smarty.class.php.md#line961" class="location">framework\libs\smarty\Smarty.class.php at line 961</a>
-
+<div class="location">framework\libs\smarty\Smarty.class.php at line 961</div>
 <h3 id="clearCompiledTemplate()">clearCompiledTemplate</h3>
+
 ```php
-public  integer **clearCompiledTemplate**(string resource_name, string compile_id, integer exp_time)```
+public  integer **clearCompiledTemplate**(string resource_name, string compile_id, integer exp_time)
+```
 <div class="details">
 <p>Delete compiled template file</p><dl>
 <dt>Parameters:</dt>
@@ -1005,11 +1060,12 @@ public  integer **clearCompiledTemplate**(string resource_name, string compile_i
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/Smarty.class.php.md#line973" class="location">framework\libs\smarty\Smarty.class.php at line 973</a>
-
+<div class="location">framework\libs\smarty\Smarty.class.php at line 973</div>
 <h3 id="getTags()">getTags</h3>
+
 ```php
-public  array **getTags**(object templae, <a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> template)```
+public  array **getTags**(object templae, <a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> template)
+```
 <div class="details">
 <p>Return array of tag/attributes of all tags used by an template</p><dl>
 <dt>Parameters:</dt>
@@ -1021,11 +1077,12 @@ public  array **getTags**(object templae, <a href="../smarty/smarty_internal_tem
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/Smarty.class.php.md#line984" class="location">framework\libs\smarty\Smarty.class.php at line 984</a>
-
+<div class="location">framework\libs\smarty\Smarty.class.php at line 984</div>
 <h3 id="testInstall()">testInstall</h3>
+
 ```php
-public  boolean **testInstall**(array errors)```
+public  boolean **testInstall**(array errors)
+```
 <div class="details">
 <p>Run installation test</p><dl>
 <dt>Parameters:</dt>
@@ -1037,11 +1094,12 @@ public  boolean **testInstall**(array errors)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/Smarty.class.php.md#line996" class="location">framework\libs\smarty\Smarty.class.php at line 996</a>
-
+<div class="location">framework\libs\smarty\Smarty.class.php at line 996</div>
 <h3 id="mutingErrorHandler()">mutingErrorHandler</h3>
+
 ```php
-public static  boolean **mutingErrorHandler**(integer errno, mixed errstr, mixed errfile, mixed errline, mixed errcontext)```
+public static  boolean **mutingErrorHandler**(integer errno, mixed errstr, mixed errfile, mixed errline, mixed errcontext)
+```
 <div class="details">
 <p>Error Handler to mute expected messages</p><dl>
 <dt>See Also:</dt>
@@ -1053,21 +1111,23 @@ public static  boolean **mutingErrorHandler**(integer errno, mixed errstr, mixed
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/Smarty.class.php.md#line1041" class="location">framework\libs\smarty\Smarty.class.php at line 1041</a>
-
+<div class="location">framework\libs\smarty\Smarty.class.php at line 1041</div>
 <h3 id="muteExpectedErrors()">muteExpectedErrors</h3>
+
 ```php
-public static  void **muteExpectedErrors**()```
+public static  void **muteExpectedErrors**()
+```
 <div class="details">
 <p>Enable error handler to mute expected messages</p></div>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/Smarty.class.php.md#line1073" class="location">framework\libs\smarty\Smarty.class.php at line 1073</a>
-
+<div class="location">framework\libs\smarty\Smarty.class.php at line 1073</div>
 <h3 id="unmuteExpectedErrors()">unmuteExpectedErrors</h3>
+
 ```php
-public static  void **unmuteExpectedErrors**()```
+public static  void **unmuteExpectedErrors**()
+```
 <div class="details">
 <p>Disable error handler muting expected messages</p></div>
 

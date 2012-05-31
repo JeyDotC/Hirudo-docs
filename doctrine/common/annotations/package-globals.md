@@ -1,6 +1,6 @@
 - - -
 
-# Globals #
+#Globals#
 
 - - -
 
@@ -13,8 +13,7 @@
 </table>
 
 <h2 id="detail_global">Global Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/doctrine-common/Doctrine/Common/Annotations/DocLexer.php.md#line35" class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\DocLexer.php at line 35</a>
-
+<div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\DocLexer.php at line 35</div>
 <h3 id="T_NONE">T_NONE</h3>
 ```php
 public final  mixed **T_NONE** = '(?:[+-]?[0-9]+(?:[\.][0-9]+)*)(?:[eE][+-]?[0-9]+)?',

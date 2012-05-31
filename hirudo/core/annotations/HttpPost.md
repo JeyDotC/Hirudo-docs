@@ -1,11 +1,11 @@
 - - -
 
 **Hirudo\Core\Annotations\HttpPost**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Core/Annotations/HttpPost.php.md#line13" class="location">framework\hirudo\Hirudo\Core\Annotations\HttpPost.php at line 13</a>
+<div class="location">framework\hirudo\Hirudo\Core\Annotations\HttpPost.php at line 13</div>
+#Class HttpPost#
 
-# Class HttpPost #
+**HttpPost**
 
-<pre class="tree">** HttpPost **\n</pre>
 
 - - -
 

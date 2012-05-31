@@ -1,11 +1,11 @@
 - - -
 
 **Symfony\Component\DependencyInjection\Compiler\MergeExtensionConfigurationPass**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/MergeExtensionConfigurationPass.php.md#line21" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\MergeExtensionConfigurationPass.php at line 21</a>
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\MergeExtensionConfigurationPass.php at line 21</div>
+#Class MergeExtensionConfigurationPass#
 
-# Class MergeExtensionConfigurationPass #
+**MergeExtensionConfigurationPass**
 
-<pre class="tree">** MergeExtensionConfigurationPass **\n</pre>
 
 <dl>
 <dt>All Implemented Interfaces:</dt>
@@ -28,16 +28,17 @@
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#process()">process</a>(<a href="../../../../symfony/component/dependencyinjection/containerbuilder.html">ContainerBuilder</a> container)</p><p class="description">You can modify the container here before it is dumped to PHP code.</p></td>
+<td class="description"><p class="name"><a href="#process">process</a>(<a href="../../../../symfony/component/dependencyinjection/containerbuilder.html">ContainerBuilder</a> container)</p><p class="description">You can modify the container here before it is dumped to PHP code.</p></td>
 </tr>
 </table>
 
 <h2 id="detail_method">Method Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/MergeExtensionConfigurationPass.php.md#line26" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\MergeExtensionConfigurationPass.php at line 26</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\MergeExtensionConfigurationPass.php at line 26</div>
 <h3 id="process()">process</h3>
+
 ```php
-public  void **process**(<a href="../../../../symfony/component/dependencyinjection/containerbuilder.html">ContainerBuilder</a> container)```
+public  void **process**(<a href="../../../../symfony/component/dependencyinjection/containerbuilder.html">ContainerBuilder</a> container)
+```
 <div class="details">
 <p>You can modify the container here before it is dumped to PHP code.</p></div>
 

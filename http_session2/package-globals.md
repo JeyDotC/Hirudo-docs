@@ -1,6 +1,6 @@
 - - -
 
-# Globals #
+#Globals#
 
 - - -
 
@@ -13,8 +13,7 @@
 </table>
 
 <h2 id="detail_global">Global Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php.md#line117" class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 117</a>
-
+<div class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 117</div>
 <h3 id="STARTED">STARTED</h3>
 ```php
 public final  mixed **STARTED** = $container_options = null```

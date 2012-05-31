@@ -1,15 +1,17 @@
 - - -
 
 **Smarty\Smarty_Internal_Compile_Private_Function_Plugin**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_compile_private_function_plugin.php.md#line18" class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_private_function_plugin.php at line 18</a>
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_private_function_plugin.php at line 18</div>
+#Class Smarty_Internal_Compile_Private_Function_Plugin#
 
-# Class Smarty_Internal_Compile_Private_Function_Plugin #
+<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_compilebase.html">Smarty_Internal_CompileBase</a>
+    ***Smarty_Internal_Compile_Private_Function_Plugin**
 
-<pre class="tree"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_compilebase.html">Smarty_Internal_CompileBase</a>\n    *** Smarty_Internal_Compile_Private_Function_Plugin **\n</pre>
 
 - - -
 
-<p class="signature">public  class **Smarty_Internal_Compile_Private_Function_Plugin**\nextends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_compilebase.html">Smarty_Internal_CompileBase</a>
+<p class="signature">public  class **Smarty_Internal_Compile_Private_Function_Plugin**
+extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_compilebase.html">Smarty_Internal_CompileBase</a>
 
 </p>
 
@@ -41,7 +43,7 @@
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td class="type"> string</td>
-<td class="description"><p class="name"><a href="#compile()">compile</a>(array args, object compiler, array parameter, string tag, string function)</p><p class="description">Compiles code for the execution of function plugin</p></td>
+<td class="description"><p class="name"><a href="#compile">compile</a>(array args, object compiler, array parameter, string tag, string function)</p><p class="description">Compiles code for the execution of function plugin</p></td>
 </tr>
 </table>
 
@@ -50,11 +52,12 @@
 <tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_compilebase.html#closeTag()">closeTag</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_compilebase.html#getAttributes()">getAttributes</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_compilebase.html#openTag()">openTag</a></td></tr></table>
 
 ##Field Detail##
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_compile_private_function_plugin.php.md#line33" class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_private_function_plugin.php at line 33</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_private_function_plugin.php at line 33</div>
 <h3 id="optional_attributes">optional_attributes</h3>
+
 ```php
-public  array **$optional_attributes** = array('_any')```
+public  array$optional_attributes = array('_any')
+```
 <div class="details">
 <p>Attribute definition: Overwrites base class.</p><dl>
 <dt>See Also:</dt>
@@ -64,11 +67,12 @@ public  array **$optional_attributes** = array('_any')```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_compile_private_function_plugin.php.md#line26" class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_private_function_plugin.php at line 26</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_private_function_plugin.php at line 26</div>
 <h3 id="required_attributes">required_attributes</h3>
+
 ```php
-public  array **$required_attributes** = array()```
+public  array$required_attributes = array()
+```
 <div class="details">
 <p>Attribute definition: Overwrites base class.</p><dl>
 <dt>See Also:</dt>
@@ -79,11 +83,12 @@ public  array **$required_attributes** = array()```
 - - -
 
 <h2 id="detail_method">Method Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_compile_private_function_plugin.php.md#line45" class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_private_function_plugin.php at line 45</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_private_function_plugin.php at line 45</div>
 <h3 id="compile()">compile</h3>
+
 ```php
-public  string **compile**(array args, object compiler, array parameter, string tag, string function)```
+public  string **compile**(array args, object compiler, array parameter, string tag, string function)
+```
 <div class="details">
 <p>Compiles code for the execution of function plugin</p><dl>
 <dt>Parameters:</dt>

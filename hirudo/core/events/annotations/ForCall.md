@@ -1,11 +1,11 @@
 - - -
 
 **Hirudo\Core\Events\Annotations\ForCall**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Core/Events/Annotations/ForCall.php.md#line30" class="location">framework\hirudo\Hirudo\Core\Events\Annotations\ForCall.php at line 30</a>
+<div class="location">framework\hirudo\Hirudo\Core\Events\Annotations\ForCall.php at line 30</div>
+#Class ForCall#
 
-# Class ForCall #
+**ForCall**
 
-<pre class="tree">** ForCall **\n</pre>
 
 - - -
 
@@ -45,31 +45,34 @@ the 'aTask' task.</p></p></div>
 </table>
 
 ##Field Detail##
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Core/Events/Annotations/ForCall.php.md#line36" class="location">framework\hirudo\Hirudo\Core\Events\Annotations\ForCall.php at line 36</a>
-
+<div class="location">framework\hirudo\Hirudo\Core\Events\Annotations\ForCall.php at line 36</div>
 <h3 id="app">app</h3>
+
 ```php
-public  string **$app** = &quot;&quot;```
+public  string$app = &quot;&quot;
+```
 <div class="details">
 <p></p></div>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Core/Events/Annotations/ForCall.php.md#line42" class="location">framework\hirudo\Hirudo\Core\Events\Annotations\ForCall.php at line 42</a>
-
+<div class="location">framework\hirudo\Hirudo\Core\Events\Annotations\ForCall.php at line 42</div>
 <h3 id="module">module</h3>
+
 ```php
-public  string **$module** = &quot;&quot;```
+public  string$module = &quot;&quot;
+```
 <div class="details">
 <p></p></div>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Core/Events/Annotations/ForCall.php.md#line48" class="location">framework\hirudo\Hirudo\Core\Events\Annotations\ForCall.php at line 48</a>
-
+<div class="location">framework\hirudo\Hirudo\Core\Events\Annotations\ForCall.php at line 48</div>
 <h3 id="task">task</h3>
+
 ```php
-public  string **$task** = &quot;&quot;```
+public  string$task = &quot;&quot;
+```
 <div class="details">
 <p></p></div>
 

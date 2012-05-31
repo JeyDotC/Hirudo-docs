@@ -1,6 +1,8 @@
 - - -
 
-# Class Hierarchy #<ul>
+#Class Hierarchy#
+
+<ul>
 <li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/alias.html">Symfony\Component\DependencyInjection\Alias</a></li>
 <li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/compiler/analyzeservicereferencespass.html">Symfony\Component\DependencyInjection\Compiler\AnalyzeServiceReferencesPass</a></li>
 <li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/annotations/annotation.html">Doctrine\Common\Annotations\Annotation</a></li>
@@ -79,7 +81,6 @@
 <li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/sampleapp/models/components/dbtestcomponent.html">SampleApp\Models\Components\DbTestComponent</a></li>
 </ul>
 </li>
-<li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/swissbilling/models/entities/debtor.html">SwissBilling\Models\Entities\Debtor</a></li>
 <li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/definition.html">Symfony\Component\DependencyInjection\Definition</a><ul>
 <li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/definitiondecorator.html">Symfony\Component\DependencyInjection\DefinitionDecorator</a></li>
 </ul>
@@ -114,7 +115,6 @@
 <li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/sampleapp/modules/frontpage.html">SampleApp\Modules\FrontPage</a></li>
 <li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/sampleapp/modules/httptester.html">SampleApp\Modules\HttpTester</a></li>
 <li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/sampleapp/modules/simplesqltest.html">SampleApp\Modules\SimpleSqlTest</a></li>
-<li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/swissbilling/modules/transactiontest.html">SwissBilling\Modules\TransactionTest</a></li>
 </ul>
 </li>
 <li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/yaml/escaper.html">Symfony\Component\Yaml\Escaper</a></li>
@@ -128,7 +128,6 @@
 <li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/annotations/export.html">Hirudo\Core\Annotations\Export</a></li>
 <li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/extension/extensioninterface.html">Symfony\Component\DependencyInjection\Extension\ExtensionInterface</a></li>
 <li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/annotations/filecachereader.html">Doctrine\Common\Annotations\FileCacheReader</a></li>
-<li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/swissbilling/models/components/fixturescomponent.html">SwissBilling\Models\Components\FixturesComponent</a></li>
 <li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/events/annotations/forcall.html">Hirudo\Core\Events\Annotations\ForCall</a></li>
 <li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/parameterbag/parameterbag.html">Symfony\Component\DependencyInjection\ParameterBag\ParameterBag</a><ul>
 <li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/parameterbag/frozenparameterbag.html">Symfony\Component\DependencyInjection\ParameterBag\FrozenParameterBag</a></li>
@@ -149,7 +148,6 @@
 <li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/annotations/indexedreader.html">Doctrine\Common\Annotations\IndexedReader</a></li>
 <li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/yaml/inline.html">Symfony\Component\Yaml\Inline</a></li>
 <li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/compiler/inlineservicedefinitionspass.html">Symfony\Component\DependencyInjection\Compiler\InlineServiceDefinitionsPass</a></li>
-<li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/swissbilling/models/entities/item.html">SwissBilling\Models\Entities\Item</a></li>
 <li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/joomla/framework/juri.html">Joomla.Framework\JURI</a></li>
 <li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/impl/joomla/joomlahelper.html">Hirudo\Impl\Joomla\JoomlaHelper</a></li>
 <li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/principal.html">Hirudo\Core\Context\Principal</a><ul>
@@ -176,7 +174,6 @@
 <li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/impl/joomla/joomlasession.html">Hirudo\Impl\Joomla\JoomlaSession</a></li>
 <li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/compiler/loggingformatter.html">Symfony\Component\DependencyInjection\Compiler\LoggingFormatter</a></li>
 <li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/classloader/mapclassloader.html">Symfony\Component\ClassLoader\MapClassLoader</a></li>
-<li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/swissbilling/models/entities/merchant.html">SwissBilling\Models\Entities\Merchant</a></li>
 <li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/compiler/mergeextensionconfigurationpass.html">Symfony\Component\DependencyInjection\Compiler\MergeExtensionConfigurationPass</a></li>
 <li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/util/message.html">Hirudo\Core\Util\Message</a></li>
 <li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/serialization/mimeserializationfactory.html">Hirudo\Serialization\MimeSerializationFactory</a></li>
@@ -334,7 +331,6 @@
 <li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/lang/str.html">Hirudo\Lang\Str</a></li>
 </ul>
 </li>
-<li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/swissbilling/models/components/swissbillinggatewaycomponent.html">SwissBilling\Models\Components\SwissBillingGatewayComponent</a></li>
 <li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/default namespace/tpc_yystackentry.html">Default namespace\TPC_yyStackEntry</a></li>
 <li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/tpc_yytoken.html">Smarty\TPC_yyToken</a></li>
 <li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/default namespace/tp_yystackentry.html">Default namespace\TP_yyStackEntry</a></li>
@@ -342,8 +338,6 @@
 <li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/annotations/annotation/target.html">Doctrine\Common\Annotations\Annotation\Target</a></li>
 <li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/task.html">Hirudo\Core\Task</a></li>
 <li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/templatinginterface.html">Hirudo\Core\TemplatingInterface</a></li>
-<li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/swissbilling/models/entities/transactionresult.html">SwissBilling\Models\Entities\TransactionResult</a></li>
-<li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/swissbilling/models/entities/transactiontype.html">SwissBilling\Models\Entities\TransactionType</a></li>
 <li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/undefined_smarty_variable.html">Smarty\Undefined_Smarty_Variable</a></li>
 <li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/yaml/unescaper.html">Symfony\Component\Yaml\Unescaper</a></li>
 <li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/userextradata.html">Hirudo\Core\Context\UserExtraData</a></li>

@@ -1,11 +1,11 @@
 - - -
 
 **Sample\Utilities\SomeUsefulClass**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/ext/libs/SampleExtension/Sample/Utilities/SomeUsefulClass.php.md#line13" class="location">ext\libs\SampleExtension\Sample\Utilities\SomeUsefulClass.php at line 13</a>
+<div class="location">ext\libs\SampleExtension\Sample\Utilities\SomeUsefulClass.php at line 13</div>
+#Class SomeUsefulClass#
 
-# Class SomeUsefulClass #
+**SomeUsefulClass**
 
-<pre class="tree">** SomeUsefulClass **\n</pre>
 
 - - -
 
@@ -24,16 +24,17 @@
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#foo()">foo</a>()</p></td>
+<td class="description"><p class="name"><a href="#foo">foo</a>()</p></td>
 </tr>
 </table>
 
 <h2 id="detail_method">Method Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/ext/libs/SampleExtension/Sample/Utilities/SomeUsefulClass.php.md#line15" class="location">ext\libs\SampleExtension\Sample\Utilities\SomeUsefulClass.php at line 15</a>
-
+<div class="location">ext\libs\SampleExtension\Sample\Utilities\SomeUsefulClass.php at line 15</div>
 <h3 id="foo()">foo</h3>
+
 ```php
-public  void **foo**()```
+public  void **foo**()
+```
 <div class="details">
 </div>
 

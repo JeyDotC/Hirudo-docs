@@ -1,6 +1,6 @@
 - - -
 
-# Namespace Symfony\Component\Yaml #
+#Namespace Symfony\Component\Yaml#
 
 <table class="title">
 <tr><th colspan="2" class="title">Class Summary</th></tr>

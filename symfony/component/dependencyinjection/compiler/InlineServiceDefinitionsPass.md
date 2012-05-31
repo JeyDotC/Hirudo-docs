@@ -1,11 +1,11 @@
 - - -
 
 **Symfony\Component\DependencyInjection\Compiler\InlineServiceDefinitionsPass**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/InlineServiceDefinitionsPass.php.md#line24" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\InlineServiceDefinitionsPass.php at line 24</a>
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\InlineServiceDefinitionsPass.php at line 24</div>
+#Class InlineServiceDefinitionsPass#
 
-# Class InlineServiceDefinitionsPass #
+**InlineServiceDefinitionsPass**
 
-<pre class="tree">** InlineServiceDefinitionsPass **\n</pre>
 
 - - -
 
@@ -23,30 +23,32 @@
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#setRepeatedPass()">setRepeatedPass</a>(<a href="../../../../symfony/component/dependencyinjection/compiler/repeatedpass.html">RepeatedPass</a> repeatedPass)</p><p class="description"></p></td>
+<td class="description"><p class="name"><a href="#setRepeatedPass">setRepeatedPass</a>(<a href="../../../../symfony/component/dependencyinjection/compiler/repeatedpass.html">RepeatedPass</a> repeatedPass)</p><p class="description"></p></td>
 </tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#process()">process</a>(<a href="../../../../symfony/component/dependencyinjection/containerbuilder.html">ContainerBuilder</a> container)</p><p class="description">Processes the ContainerBuilder for inline service definitions.</p></td>
+<td class="description"><p class="name"><a href="#process">process</a>(<a href="../../../../symfony/component/dependencyinjection/containerbuilder.html">ContainerBuilder</a> container)</p><p class="description">Processes the ContainerBuilder for inline service definitions.</p></td>
 </tr>
 </table>
 
 <h2 id="detail_method">Method Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/InlineServiceDefinitionsPass.php.md#line35" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\InlineServiceDefinitionsPass.php at line 35</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\InlineServiceDefinitionsPass.php at line 35</div>
 <h3 id="setRepeatedPass()">setRepeatedPass</h3>
+
 ```php
-public  void **setRepeatedPass**(<a href="../../../../symfony/component/dependencyinjection/compiler/repeatedpass.html">RepeatedPass</a> repeatedPass)```
+public  void **setRepeatedPass**(<a href="../../../../symfony/component/dependencyinjection/compiler/repeatedpass.html">RepeatedPass</a> repeatedPass)
+```
 <div class="details">
 <p></p></div>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/InlineServiceDefinitionsPass.php.md#line45" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\InlineServiceDefinitionsPass.php at line 45</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\InlineServiceDefinitionsPass.php at line 45</div>
 <h3 id="process()">process</h3>
+
 ```php
-public  void **process**(<a href="../../../../symfony/component/dependencyinjection/containerbuilder.html">ContainerBuilder</a> container)```
+public  void **process**(<a href="../../../../symfony/component/dependencyinjection/containerbuilder.html">ContainerBuilder</a> container)
+```
 <div class="details">
 <p>Processes the ContainerBuilder for inline service definitions.</p></div>
 

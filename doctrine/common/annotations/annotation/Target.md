@@ -1,11 +1,11 @@
 - - -
 
 **Doctrine\Common\Annotations\Annotation\Target**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/doctrine-common/Doctrine/Common/Annotations/Annotation/Target.php.md#line31" class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\Annotation\Target.php at line 31</a>
+<div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\Annotation\Target.php at line 31</div>
+#Class Target#
 
-# Class Target #
+**Target**
 
-<pre class="tree">** Target **\n</pre>
 
 - - -
 
@@ -41,47 +41,51 @@ to check the annotation target during the parsing process.</p></div>
 <tr><th colspan="2">Constructor Summary</th></tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#__construct()">__construct</a>(array values)</p><p class="description">Annotation construct</p></td>
+<td class="description"><p class="name"><a href="#__construct">__construct</a>(array values)</p><p class="description">Annotation construct</p></td>
 </tr>
 </table>
 
 ##Field Detail##
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/doctrine-common/Doctrine/Common/Annotations/Annotation/Target.php.md#line52" class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\Annotation\Target.php at line 52</a>
-
+<div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\Annotation\Target.php at line 52</div>
 <h3 id="literal">literal</h3>
+
 ```php
-public  integer **$literal**```
+public  integer$literal
+```
 <div class="details">
 <p>Literal target declaration.</p></div>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/doctrine-common/Doctrine/Common/Annotations/Annotation/Target.php.md#line45" class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\Annotation\Target.php at line 45</a>
-
+<div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\Annotation\Target.php at line 45</div>
 <h3 id="targets">targets</h3>
+
 ```php
-public  integer **$targets**```
+public  integer$targets
+```
 <div class="details">
 <p>Targets as bitmask.</p></div>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/doctrine-common/Doctrine/Common/Annotations/Annotation/Target.php.md#line38" class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\Annotation\Target.php at line 38</a>
-
+<div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\Annotation\Target.php at line 38</div>
 <h3 id="value">value</h3>
+
 ```php
-public  array **$value**```
+public  array$value
+```
 <div class="details">
 <p></p></div>
 
 - - -
 
 <h2 id="detail_method">Constructor Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/doctrine-common/Doctrine/Common/Annotations/Annotation/Target.php.md#line59" class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\Annotation\Target.php at line 59</a>
-
+<div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\Annotation\Target.php at line 59</div>
 <h3 id="__construct()">__construct</h3>
+
 ```php
-public  void **__construct**(array values)```
+public  void **__construct**(array values)
+```
 <div class="details">
 <p>Annotation construct</p></div>
 

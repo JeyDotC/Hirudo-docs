@@ -1,11 +1,11 @@
 - - -
 
 **Hirudo\Core\Context\Assets**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Core/Context/Assets.php.md#line32" class="location">framework\hirudo\Hirudo\Core\Context\Assets.php at line 32</a>
+<div class="location">framework\hirudo\Hirudo\Core\Context\Assets.php at line 32</div>
+#Class Assets#
 
-# Class Assets #
+**Assets**
 
-<pre class="tree">** Assets **\n</pre>
 
 <dl>
 <dt>All Known Subclasses:</dt>
@@ -30,30 +30,31 @@ some CMS, like Joomla.</p></p></div>
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td class="type">abstract  string</td>
-<td class="description"><p class="name"><a href="#addJavaScript()">addJavaScript</a>(string jsPath)</p><p class="description">Creates a script tag. </p></td>
+<td class="description"><p class="name"><a href="#addJavaScript">addJavaScript</a>(string jsPath)</p><p class="description">Creates a script tag. </p></td>
 </tr>
 <tr>
 <td class="type">abstract  string</td>
-<td class="description"><p class="name"><a href="#addCSS()">addCSS</a>(string cssPath)</p><p class="description">Creates a link tag. </p></td>
+<td class="description"><p class="name"><a href="#addCSS">addCSS</a>(string cssPath)</p><p class="description">Creates a link tag. </p></td>
 </tr>
 <tr>
 <td class="type">protected  string</td>
-<td class="description"><p class="name"><a href="#generateScriptTag()">generateScriptTag</a>(string jsPath)</p><p class="description">This helper function generates a script tag which src attribute will
+<td class="description"><p class="name"><a href="#generateScriptTag">generateScriptTag</a>(string jsPath)</p><p class="description">This helper function generates a script tag which src attribute will
 be set to the given path. </p></td>
 </tr>
 <tr>
 <td class="type">protected  string</td>
-<td class="description"><p class="name"><a href="#generateCSSTag()">generateCSSTag</a>(string cssPath)</p><p class="description">This helper function generates a link tag which src attribute will
+<td class="description"><p class="name"><a href="#generateCSSTag">generateCSSTag</a>(string cssPath)</p><p class="description">This helper function generates a link tag which src attribute will
 be set to the given path. </p></td>
 </tr>
 </table>
 
 <h2 id="detail_method">Method Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Core/Context/Assets.php.md#line46" class="location">framework\hirudo\Hirudo\Core\Context\Assets.php at line 46</a>
-
+<div class="location">framework\hirudo\Hirudo\Core\Context\Assets.php at line 46</div>
 <h3 id="addJavaScript()">addJavaScript</h3>
+
 ```php
-public abstract  string **addJavaScript**(string jsPath)```
+public abstract  string **addJavaScript**(string jsPath)
+```
 <div class="details">
 <p><p>Creates a script tag. Depending on the CMS it will may automatically insert
 the tag using the CMS assets system or simply returns a string representing
@@ -67,11 +68,12 @@ the tag.</p></p><dl>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Core/Context/Assets.php.md#line60" class="location">framework\hirudo\Hirudo\Core\Context\Assets.php at line 60</a>
-
+<div class="location">framework\hirudo\Hirudo\Core\Context\Assets.php at line 60</div>
 <h3 id="addCSS()">addCSS</h3>
+
 ```php
-public abstract  string **addCSS**(string cssPath)```
+public abstract  string **addCSS**(string cssPath)
+```
 <div class="details">
 <p><p>Creates a link tag. Depending on the CMS it will may automatically insert
 the tag using the CMS assets system or simply returns a string representing
@@ -85,11 +87,12 @@ the tag.</p></p><dl>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Core/Context/Assets.php.md#line70" class="location">framework\hirudo\Hirudo\Core\Context\Assets.php at line 70</a>
-
+<div class="location">framework\hirudo\Hirudo\Core\Context\Assets.php at line 70</div>
 <h3 id="generateScriptTag()">generateScriptTag</h3>
+
 ```php
-protected  string **generateScriptTag**(string jsPath)```
+protected  string **generateScriptTag**(string jsPath)
+```
 <div class="details">
 <p>This helper function generates a script tag which src attribute will
 be set to the given path. Note that the jsPath must be already adjusted
@@ -103,11 +106,12 @@ to meet the CMS conventions.</p><dl>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Core/Context/Assets.php.md#line82" class="location">framework\hirudo\Hirudo\Core\Context\Assets.php at line 82</a>
-
+<div class="location">framework\hirudo\Hirudo\Core\Context\Assets.php at line 82</div>
 <h3 id="generateCSSTag()">generateCSSTag</h3>
+
 ```php
-protected  string **generateCSSTag**(string cssPath)```
+protected  string **generateCSSTag**(string cssPath)
+```
 <div class="details">
 <p>This helper function generates a link tag which src attribute will
 be set to the given path. Note that the cssPath must be already adjusted

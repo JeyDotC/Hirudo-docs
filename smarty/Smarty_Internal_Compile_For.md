@@ -1,15 +1,17 @@
 - - -
 
 **Smarty\Smarty_Internal_Compile_For**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_compile_for.php.md#line18" class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_for.php at line 18</a>
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_for.php at line 18</div>
+#Class Smarty_Internal_Compile_For#
 
-# Class Smarty_Internal_Compile_For #
+<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_compilebase.html">Smarty_Internal_CompileBase</a>
+    ***Smarty_Internal_Compile_For**
 
-<pre class="tree"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_compilebase.html">Smarty_Internal_CompileBase</a>\n    *** Smarty_Internal_Compile_For **\n</pre>
 
 - - -
 
-<p class="signature">public  class **Smarty_Internal_Compile_For**\nextends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_compilebase.html">Smarty_Internal_CompileBase</a>
+<p class="signature">public  class **Smarty_Internal_Compile_For**
+extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_compilebase.html">Smarty_Internal_CompileBase</a>
 
 </p>
 
@@ -29,7 +31,7 @@
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td class="type"> string</td>
-<td class="description"><p class="name"><a href="#compile()">compile</a>(array args, object compiler, array parameter)</p><p class="description">Compiles code for the {for} tagSmarty 3 does implement two different sytaxes:- {for $var in $array}
+<td class="description"><p class="name"><a href="#compile">compile</a>(array args, object compiler, array parameter)</p><p class="description">Compiles code for the {for} tagSmarty 3 does implement two different sytaxes:- {for $var in $array}
 For looping over arrays or iterators- {for $x=0; $x</p></td>
 </tr>
 </table>
@@ -39,11 +41,12 @@ For looping over arrays or iterators- {for $x=0; $x</p></td>
 <tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_compilebase.html#closeTag()">closeTag</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_compilebase.html#getAttributes()">getAttributes</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_compilebase.html#openTag()">openTag</a></td></tr></table>
 
 <h2 id="detail_method">Method Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_compile_for.php.md#line39" class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_for.php at line 39</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_for.php at line 39</div>
 <h3 id="compile()">compile</h3>
+
 ```php
-public  string **compile**(array args, object compiler, array parameter)```
+public  string **compile**(array args, object compiler, array parameter)
+```
 <div class="details">
 <p>Compiles code for the {for} tag</p><p>Smarty 3 does implement two different sytaxes:</p><p>- {for $var in $array}
 For looping over arrays or iterators</p><p>- {for $x=0; $x<$y; $x++}

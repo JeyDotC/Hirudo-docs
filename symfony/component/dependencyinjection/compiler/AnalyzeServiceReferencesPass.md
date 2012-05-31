@@ -1,11 +1,11 @@
 - - -
 
 **Symfony\Component\DependencyInjection\Compiler\AnalyzeServiceReferencesPass**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/AnalyzeServiceReferencesPass.php.md#line27" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\AnalyzeServiceReferencesPass.php at line 27</a>
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\AnalyzeServiceReferencesPass.php at line 27</div>
+#Class AnalyzeServiceReferencesPass#
 
-# Class AnalyzeServiceReferencesPass #
+**AnalyzeServiceReferencesPass**
 
-<pre class="tree">** AnalyzeServiceReferencesPass **\n</pre>
 
 - - -
 
@@ -25,7 +25,7 @@ retrieve the graph in other passes from the compiler.</p></div>
 <tr><th colspan="2">Constructor Summary</th></tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#__construct()">__construct</a>(Boolean onlyConstructorArguments)</p><p class="description">Constructor.</p></td>
+<td class="description"><p class="name"><a href="#__construct">__construct</a>(Boolean onlyConstructorArguments)</p><p class="description">Constructor.</p></td>
 </tr>
 </table>
 
@@ -33,20 +33,21 @@ retrieve the graph in other passes from the compiler.</p></div>
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#setRepeatedPass()">setRepeatedPass</a>(<a href="../../../../symfony/component/dependencyinjection/compiler/repeatedpass.html">RepeatedPass</a> repeatedPass)</p><p class="description"></p></td>
+<td class="description"><p class="name"><a href="#setRepeatedPass">setRepeatedPass</a>(<a href="../../../../symfony/component/dependencyinjection/compiler/repeatedpass.html">RepeatedPass</a> repeatedPass)</p><p class="description"></p></td>
 </tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#process()">process</a>(<a href="../../../../symfony/component/dependencyinjection/containerbuilder.html">ContainerBuilder</a> container)</p><p class="description">Processes a ContainerBuilder object to populate the service reference graph.</p></td>
+<td class="description"><p class="name"><a href="#process">process</a>(<a href="../../../../symfony/component/dependencyinjection/containerbuilder.html">ContainerBuilder</a> container)</p><p class="description">Processes a ContainerBuilder object to populate the service reference graph.</p></td>
 </tr>
 </table>
 
 <h2 id="detail_method">Constructor Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/AnalyzeServiceReferencesPass.php.md#line41" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\AnalyzeServiceReferencesPass.php at line 41</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\AnalyzeServiceReferencesPass.php at line 41</div>
 <h3 id="__construct()">__construct</h3>
+
 ```php
-public  void **__construct**(Boolean onlyConstructorArguments)```
+public  void **__construct**(Boolean onlyConstructorArguments)
+```
 <div class="details">
 <p>Constructor.</p><dl>
 <dt>Parameters:</dt>
@@ -57,21 +58,23 @@ public  void **__construct**(Boolean onlyConstructorArguments)```
 - - -
 
 <h2 id="detail_method">Method Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/AnalyzeServiceReferencesPass.php.md#line49" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\AnalyzeServiceReferencesPass.php at line 49</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\AnalyzeServiceReferencesPass.php at line 49</div>
 <h3 id="setRepeatedPass()">setRepeatedPass</h3>
+
 ```php
-public  void **setRepeatedPass**(<a href="../../../../symfony/component/dependencyinjection/compiler/repeatedpass.html">RepeatedPass</a> repeatedPass)```
+public  void **setRepeatedPass**(<a href="../../../../symfony/component/dependencyinjection/compiler/repeatedpass.html">RepeatedPass</a> repeatedPass)
+```
 <div class="details">
 <p></p></div>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/AnalyzeServiceReferencesPass.php.md#line58" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\AnalyzeServiceReferencesPass.php at line 58</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\AnalyzeServiceReferencesPass.php at line 58</div>
 <h3 id="process()">process</h3>
+
 ```php
-public  void **process**(<a href="../../../../symfony/component/dependencyinjection/containerbuilder.html">ContainerBuilder</a> container)```
+public  void **process**(<a href="../../../../symfony/component/dependencyinjection/containerbuilder.html">ContainerBuilder</a> container)
+```
 <div class="details">
 <p>Processes a ContainerBuilder object to populate the service reference graph.</p></div>
 

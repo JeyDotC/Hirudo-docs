@@ -1,15 +1,18 @@
 - - -
 
 **Symfony\Component\DependencyInjection\Loader\PhpFileLoader**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Loader/PhpFileLoader.php.md#line24" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Loader\PhpFileLoader.php at line 24</a>
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Loader\PhpFileLoader.php at line 24</div>
+#Class PhpFileLoader#
 
-# Class PhpFileLoader #
+BaseFileLoader
+*<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/loader/fileloader.html">FileLoader</a>
+        ***PhpFileLoader**
 
-<pre class="tree">BaseFileLoader\n*<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/loader/fileloader.html">FileLoader</a>\n        *** PhpFileLoader **\n</pre>
 
 - - -
 
-<p class="signature">public  class **PhpFileLoader**\nextends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/loader/fileloader.html">FileLoader</a>
+<p class="signature">public  class **PhpFileLoader**
+extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/loader/fileloader.html">FileLoader</a>
 
 </p>
 
@@ -30,11 +33,11 @@ used form the file to change the container.</p></div>
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#load()">load</a>(mixed file, string type)</p><p class="description">Loads a PHP file.</p></td>
+<td class="description"><p class="name"><a href="#load">load</a>(mixed file, string type)</p><p class="description">Loads a PHP file.</p></td>
 </tr>
 <tr>
 <td class="type"> Boolean</td>
-<td class="description"><p class="name"><a href="#supports()">supports</a>(mixed resource, string type)</p><p class="description">Returns true if this class supports the given resource.</p></td>
+<td class="description"><p class="name"><a href="#supports">supports</a>(mixed resource, string type)</p><p class="description">Returns true if this class supports the given resource.</p></td>
 </tr>
 </table>
 
@@ -43,11 +46,12 @@ used form the file to change the container.</p></div>
 <tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/loader/fileloader.html#__construct()">__construct</a></td></tr></table>
 
 <h2 id="detail_method">Method Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Loader/PhpFileLoader.php.md#line32" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Loader\PhpFileLoader.php at line 32</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Loader\PhpFileLoader.php at line 32</div>
 <h3 id="load()">load</h3>
+
 ```php
-public  void **load**(mixed file, string type)```
+public  void **load**(mixed file, string type)
+```
 <div class="details">
 <p>Loads a PHP file.</p><dl>
 <dt>Parameters:</dt>
@@ -58,11 +62,12 @@ public  void **load**(mixed file, string type)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Loader/PhpFileLoader.php.md#line53" class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Loader\PhpFileLoader.php at line 53</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Loader\PhpFileLoader.php at line 53</div>
 <h3 id="supports()">supports</h3>
+
 ```php
-public  Boolean **supports**(mixed resource, string type)```
+public  Boolean **supports**(mixed resource, string type)
+```
 <div class="details">
 <p>Returns true if this class supports the given resource.</p><dl>
 <dt>Parameters:</dt>

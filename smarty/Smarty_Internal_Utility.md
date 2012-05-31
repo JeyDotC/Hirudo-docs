@@ -1,11 +1,11 @@
 - - -
 
 **Smarty\Smarty_Internal_Utility**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_utility.php.md#line41" class="location">framework\libs\smarty\sysplugins\smarty_internal_utility.php at line 41</a>
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_utility.php at line 41</div>
+#Class Smarty_Internal_Utility#
 
-# Class Smarty_Internal_Utility #
+**Smarty_Internal_Utility**
 
-<pre class="tree">** Smarty_Internal_Utility **\n</pre>
 
 - - -
 
@@ -23,7 +23,7 @@
 <tr><th colspan="2">Constructor Summary</th></tr>
 <tr>
 <td class="type">private final  void</td>
-<td class="description"><p class="name"><a href="#__construct()">__construct</a>()</p><p class="description">private constructor to prevent calls creation of new instances</p></td>
+<td class="description"><p class="name"><a href="#__construct">__construct</a>()</p><p class="description">private constructor to prevent calls creation of new instances</p></td>
 </tr>
 </table>
 
@@ -31,43 +31,45 @@
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td class="type">static  integer</td>
-<td class="description"><p class="name"><a href="#compileAllTemplates()">compileAllTemplates</a>(string extension, bool force_compile, int time_limit, int max_errors, <a href="../smarty/smarty.html">Smarty</a> smarty, mixed extention)</p><p class="description">Compile all template files</p></td>
+<td class="description"><p class="name"><a href="#compileAllTemplates">compileAllTemplates</a>(string extension, bool force_compile, int time_limit, int max_errors, <a href="../smarty/smarty.html">Smarty</a> smarty, mixed extention)</p><p class="description">Compile all template files</p></td>
 </tr>
 <tr>
 <td class="type">static  integer</td>
-<td class="description"><p class="name"><a href="#compileAllConfig()">compileAllConfig</a>(string extension, bool force_compile, int time_limit, int max_errors, <a href="../smarty/smarty.html">Smarty</a> smarty, mixed extention)</p><p class="description">Compile all config files</p></td>
+<td class="description"><p class="name"><a href="#compileAllConfig">compileAllConfig</a>(string extension, bool force_compile, int time_limit, int max_errors, <a href="../smarty/smarty.html">Smarty</a> smarty, mixed extention)</p><p class="description">Compile all config files</p></td>
 </tr>
 <tr>
 <td class="type">static  integer</td>
-<td class="description"><p class="name"><a href="#clearCompiledTemplate()">clearCompiledTemplate</a>(string resource_name, string compile_id, integer exp_time, <a href="../smarty/smarty.html">Smarty</a> smarty)</p><p class="description">Delete compiled template file</p></td>
+<td class="description"><p class="name"><a href="#clearCompiledTemplate">clearCompiledTemplate</a>(string resource_name, string compile_id, integer exp_time, <a href="../smarty/smarty.html">Smarty</a> smarty)</p><p class="description">Delete compiled template file</p></td>
 </tr>
 <tr>
 <td class="type">static  array</td>
-<td class="description"><p class="name"><a href="#getTags()">getTags</a>(<a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> templae, <a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> template)</p><p class="description">Return array of tag/attributes of all tags used by an template</p></td>
+<td class="description"><p class="name"><a href="#getTags">getTags</a>(<a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> templae, <a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> template)</p><p class="description">Return array of tag/attributes of all tags used by an template</p></td>
 </tr>
 <tr>
 <td class="type">static  bool</td>
-<td class="description"><p class="name"><a href="#testInstall()">testInstall</a>(<a href="../smarty/smarty.html">Smarty</a> smarty, array errors)</p><p class="description">diagnose Smarty setupIf $errors is secified, the diagnostic report will be appended to the array, rather than being output.</p></td>
+<td class="description"><p class="name"><a href="#testInstall">testInstall</a>(<a href="../smarty/smarty.html">Smarty</a> smarty, array errors)</p><p class="description">diagnose Smarty setupIf $errors is secified, the diagnostic report will be appended to the array, rather than being output.</p></td>
 </tr>
 </table>
 
 <h2 id="detail_method">Constructor Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_utility.php.md#line46" class="location">framework\libs\smarty\sysplugins\smarty_internal_utility.php at line 46</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_utility.php at line 46</div>
 <h3 id="__construct()">__construct</h3>
+
 ```php
-private final  void **__construct**()```
+private final  void **__construct**()
+```
 <div class="details">
 <p>private constructor to prevent calls creation of new instances</p></div>
 
 - - -
 
 <h2 id="detail_method">Method Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_utility.php.md#line61" class="location">framework\libs\smarty\sysplugins\smarty_internal_utility.php at line 61</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_utility.php at line 61</div>
 <h3 id="compileAllTemplates()">compileAllTemplates</h3>
+
 ```php
-public static  integer **compileAllTemplates**(string extension, bool force_compile, int time_limit, int max_errors, <a href="../smarty/smarty.html">Smarty</a> smarty, mixed extention)```
+public static  integer **compileAllTemplates**(string extension, bool force_compile, int time_limit, int max_errors, <a href="../smarty/smarty.html">Smarty</a> smarty, mixed extention)
+```
 <div class="details">
 <p>Compile all template files</p><dl>
 <dt>Parameters:</dt>
@@ -83,11 +85,12 @@ public static  integer **compileAllTemplates**(string extension, bool force_comp
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_utility.php.md#line124" class="location">framework\libs\smarty\sysplugins\smarty_internal_utility.php at line 124</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_utility.php at line 124</div>
 <h3 id="compileAllConfig()">compileAllConfig</h3>
+
 ```php
-public static  integer **compileAllConfig**(string extension, bool force_compile, int time_limit, int max_errors, <a href="../smarty/smarty.html">Smarty</a> smarty, mixed extention)```
+public static  integer **compileAllConfig**(string extension, bool force_compile, int time_limit, int max_errors, <a href="../smarty/smarty.html">Smarty</a> smarty, mixed extention)
+```
 <div class="details">
 <p>Compile all config files</p><dl>
 <dt>Parameters:</dt>
@@ -103,11 +106,12 @@ public static  integer **compileAllConfig**(string extension, bool force_compile
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_utility.php.md#line182" class="location">framework\libs\smarty\sysplugins\smarty_internal_utility.php at line 182</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_utility.php at line 182</div>
 <h3 id="clearCompiledTemplate()">clearCompiledTemplate</h3>
+
 ```php
-public static  integer **clearCompiledTemplate**(string resource_name, string compile_id, integer exp_time, <a href="../smarty/smarty.html">Smarty</a> smarty)```
+public static  integer **clearCompiledTemplate**(string resource_name, string compile_id, integer exp_time, <a href="../smarty/smarty.html">Smarty</a> smarty)
+```
 <div class="details">
 <p>Delete compiled template file</p><dl>
 <dt>Parameters:</dt>
@@ -122,11 +126,12 @@ public static  integer **clearCompiledTemplate**(string resource_name, string co
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_utility.php.md#line276" class="location">framework\libs\smarty\sysplugins\smarty_internal_utility.php at line 276</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_utility.php at line 276</div>
 <h3 id="getTags()">getTags</h3>
+
 ```php
-public static  array **getTags**(<a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> templae, <a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> template)```
+public static  array **getTags**(<a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> templae, <a href="../smarty/smarty_internal_template.html">Smarty_Internal_Template</a> template)
+```
 <div class="details">
 <p>Return array of tag/attributes of all tags used by an template</p><dl>
 <dt>Parameters:</dt>
@@ -138,11 +143,12 @@ public static  array **getTags**(<a href="../smarty/smarty_internal_template.htm
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_utility.php.md#line293" class="location">framework\libs\smarty\sysplugins\smarty_internal_utility.php at line 293</a>
-
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_utility.php at line 293</div>
 <h3 id="testInstall()">testInstall</h3>
+
 ```php
-public static  bool **testInstall**(<a href="../smarty/smarty.html">Smarty</a> smarty, array errors)```
+public static  bool **testInstall**(<a href="../smarty/smarty.html">Smarty</a> smarty, array errors)
+```
 <div class="details">
 <p>diagnose Smarty setup</p><p>If $errors is secified, the diagnostic report will be appended to the array, rather than being output.</p><dl>
 <dt>Parameters:</dt>

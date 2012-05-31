@@ -1,6 +1,6 @@
 - - -
 
-# Globals #
+#Globals#
 
 - - -
 
@@ -13,8 +13,7 @@
 </table>
 
 <h2 id="detail_global">Global Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/doctrine-common/Doctrine/Common/Annotations/Annotation/Target.php.md#line33" class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\Annotation\Target.php at line 33</a>
-
+<div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\Annotation\Target.php at line 33</div>
 <h3 id="TARGET_CLASS">TARGET_CLASS</h3>
 ```php
 public final  mixed **TARGET_CLASS** = 'CLASS'       =&gt; self::TARGET_CLASS,

@@ -1,6 +1,6 @@
 - - -
 
-# Functions #
+#Functions#
 
 - - -
 
@@ -8,14 +8,13 @@
 <tr><th colspan="2" class="title">Function Summary</th></tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#joomlaAutoloader()">joomlaAutoloader</a>(mixed class)</p><p class="description">«Copyright 2012 Jeysson José Guevara Mendivil(JeyDotC)»This file is part of Hirudo.
+<td class="description"><p class="name"><a href="#joomlaAutoloader">joomlaAutoloader</a>(mixed class)</p><p class="description">«Copyright 2012 Jeysson José Guevara Mendivil(JeyDotC)»This file is part of Hirudo.
 </p></td>
 </tr>
 </table>
 
 <h2 id="detail_function">Function Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Impl/Joomla/JoomlaFrontController.php.md#line30" class="location">framework\hirudo\Hirudo\Impl\Joomla\JoomlaFrontController.php at line 30</a>
-
+<div class="location">framework\hirudo\Hirudo\Impl\Joomla\JoomlaFrontController.php at line 30</div>
 <h3 id="joomlaAutoloader()">joomlaAutoloader</h3>
 ```php
 public  void **joomlaAutoloader**(mixed class)```

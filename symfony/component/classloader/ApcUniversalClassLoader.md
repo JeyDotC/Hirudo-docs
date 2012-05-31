@@ -1,15 +1,17 @@
 - - -
 
 **Symfony\Component\ClassLoader\ApcUniversalClassLoader**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/ClassLoader/ApcUniversalClassLoader.php.md#line63" class="location">framework\libs\symfony-components\Symfony\Component\ClassLoader\ApcUniversalClassLoader.php at line 63</a>
+<div class="location">framework\libs\symfony-components\Symfony\Component\ClassLoader\ApcUniversalClassLoader.php at line 63</div>
+#Class ApcUniversalClassLoader#
 
-# Class ApcUniversalClassLoader #
+<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/classloader/universalclassloader.html">UniversalClassLoader</a>
+    ***ApcUniversalClassLoader**
 
-<pre class="tree"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/classloader/universalclassloader.html">UniversalClassLoader</a>\n    *** ApcUniversalClassLoader **\n</pre>
 
 - - -
 
-<p class="signature">public  class **ApcUniversalClassLoader**\nextends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/classloader/universalclassloader.html">UniversalClassLoader</a>
+<p class="signature">public  class **ApcUniversalClassLoader**
+extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/classloader/universalclassloader.html">UniversalClassLoader</a>
 
 </p>
 
@@ -44,7 +46,7 @@ found before giving up.</p></div>
 <tr><th colspan="2">Constructor Summary</th></tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#__construct()">__construct</a>(string prefix)</p><p class="description">Constructor.</p></td>
+<td class="description"><p class="name"><a href="#__construct">__construct</a>(string prefix)</p><p class="description">Constructor.</p></td>
 </tr>
 </table>
 
@@ -52,7 +54,7 @@ found before giving up.</p></div>
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td class="type"> string|null</td>
-<td class="description"><p class="name"><a href="#findFile()">findFile</a>(string class)</p><p class="description">Finds a file by class name while caching lookups to APC.</p></td>
+<td class="description"><p class="name"><a href="#findFile">findFile</a>(string class)</p><p class="description">Finds a file by class name while caching lookups to APC.</p></td>
 </tr>
 </table>
 
@@ -61,11 +63,12 @@ found before giving up.</p></div>
 <tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/classloader/universalclassloader.html#findFile()">findFile</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/classloader/universalclassloader.html#getNamespaceFallbacks()">getNamespaceFallbacks</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/classloader/universalclassloader.html#getNamespaces()">getNamespaces</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/classloader/universalclassloader.html#getPrefixFallbacks()">getPrefixFallbacks</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/classloader/universalclassloader.html#getPrefixes()">getPrefixes</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/classloader/universalclassloader.html#getUseIncludePath()">getUseIncludePath</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/classloader/universalclassloader.html#loadClass()">loadClass</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/classloader/universalclassloader.html#register()">register</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/classloader/universalclassloader.html#registerNamespace()">registerNamespace</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/classloader/universalclassloader.html#registerNamespaceFallback()">registerNamespaceFallback</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/classloader/universalclassloader.html#registerNamespaceFallbacks()">registerNamespaceFallbacks</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/classloader/universalclassloader.html#registerNamespaces()">registerNamespaces</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/classloader/universalclassloader.html#registerPrefix()">registerPrefix</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/classloader/universalclassloader.html#registerPrefixFallback()">registerPrefixFallback</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/classloader/universalclassloader.html#registerPrefixFallbacks()">registerPrefixFallbacks</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/classloader/universalclassloader.html#registerPrefixes()">registerPrefixes</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/classloader/universalclassloader.html#useIncludePath()">useIncludePath</a></td></tr></table>
 
 <h2 id="detail_method">Constructor Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/ClassLoader/ApcUniversalClassLoader.php.md#line74" class="location">framework\libs\symfony-components\Symfony\Component\ClassLoader\ApcUniversalClassLoader.php at line 74</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\ClassLoader\ApcUniversalClassLoader.php at line 74</div>
 <h3 id="__construct()">__construct</h3>
+
 ```php
-public  void **__construct**(string prefix)```
+public  void **__construct**(string prefix)
+```
 <div class="details">
 <p>Constructor.</p><dl>
 <dt>Parameters:</dt>
@@ -77,11 +80,12 @@ public  void **__construct**(string prefix)```
 - - -
 
 <h2 id="detail_method">Method Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/ClassLoader/ApcUniversalClassLoader.php.md#line88" class="location">framework\libs\symfony-components\Symfony\Component\ClassLoader\ApcUniversalClassLoader.php at line 88</a>
-
+<div class="location">framework\libs\symfony-components\Symfony\Component\ClassLoader\ApcUniversalClassLoader.php at line 88</div>
 <h3 id="findFile()">findFile</h3>
+
 ```php
-public  string|null **findFile**(string class)```
+public  string|null **findFile**(string class)
+```
 <div class="details">
 <p>Finds a file by class name while caching lookups to APC.</p><dl>
 <dt>Parameters:</dt>

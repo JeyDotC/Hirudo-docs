@@ -1,3 +1,3 @@
 - - -
 
-# Class Hierarchy for Package Hirudo\Core\Exceptions #
+#Class Hierarchy for Package Hirudo\Core\Exceptions#

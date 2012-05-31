@@ -1,6 +1,6 @@
 - - -
 
-# Namespace Hirudo\Impl\Common\Templating #
+#Namespace Hirudo\Impl\Common\Templating#
 
 <table class="title">
 <tr><th colspan="2" class="title">Class Summary</th></tr>

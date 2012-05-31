@@ -1,6 +1,6 @@
 - - -
 
-# Namespace Hirudo\Core\Util #
+#Namespace Hirudo\Core\Util#
 
 <table class="title">
 <tr><th colspan="2" class="title">Class Summary</th></tr>

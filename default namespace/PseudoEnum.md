@@ -1,11 +1,11 @@
 - - -
 
 **Default namespace\PseudoEnum**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Lang/Enum.php.md#line37" class="location">framework\hirudo\Hirudo\Lang\Enum.php at line 37</a>
+<div class="location">framework\hirudo\Hirudo\Lang\Enum.php at line 37</div>
+#Class PseudoEnum#
 
-# Class PseudoEnum #
+**PseudoEnum**
 
-<pre class="tree">** PseudoEnum **\n</pre>
 
 - - -
 
@@ -26,32 +26,33 @@ const AND_OTHER_ENUM_VALUE = 2;
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td class="type">static  boolean</td>
-<td class="description"><p class="name"><a href="#valueBelongs()">valueBelongs</a>(string|number value)</p><p class="description">Says if the given value belongs to the set of values  of this enum.</p></td>
+<td class="description"><p class="name"><a href="#valueBelongs">valueBelongs</a>(string|number value)</p><p class="description">Says if the given value belongs to the set of values  of this enum.</p></td>
 </tr>
 <tr>
 <td class="type">static  boolean</td>
-<td class="description"><p class="name"><a href="#nameBelongs()">nameBelongs</a>(string|number value, mixed name)</p><p class="description">Says if there is a constant with the given name for this enum.</p></td>
+<td class="description"><p class="name"><a href="#nameBelongs">nameBelongs</a>(string|number value, mixed name)</p><p class="description">Says if there is a constant with the given name for this enum.</p></td>
 </tr>
 <tr>
 <td class="type">static  string</td>
-<td class="description"><p class="name"><a href="#valueToString()">valueToString</a>(string|number value)</p><p class="description">Returns the constant name corresponding to the given value.</p></td>
+<td class="description"><p class="name"><a href="#valueToString">valueToString</a>(string|number value)</p><p class="description">Returns the constant name corresponding to the given value.</p></td>
 </tr>
 <tr>
 <td class="type">static  string|number</td>
-<td class="description"><p class="name"><a href="#stringToValue()">stringToValue</a>(string string)</p><p class="description">Returns a value by the corresponding name.</p></td>
+<td class="description"><p class="name"><a href="#stringToValue">stringToValue</a>(string string)</p><p class="description">Returns a value by the corresponding name.</p></td>
 </tr>
 <tr>
 <td class="type">static  array</td>
-<td class="description"><p class="name"><a href="#values()">values</a>()</p><p class="description">Gets an array with all the constants of the enum.</p></td>
+<td class="description"><p class="name"><a href="#values">values</a>()</p><p class="description">Gets an array with all the constants of the enum.</p></td>
 </tr>
 </table>
 
 <h2 id="detail_method">Method Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Lang/Enum.php.md#line45" class="location">framework\hirudo\Hirudo\Lang\Enum.php at line 45</a>
-
+<div class="location">framework\hirudo\Hirudo\Lang\Enum.php at line 45</div>
 <h3 id="valueBelongs()">valueBelongs</h3>
+
 ```php
-public static  boolean **valueBelongs**(string|number value)```
+public static  boolean **valueBelongs**(string|number value)
+```
 <div class="details">
 <p>Says if the given value belongs to the set of values  of this enum.</p><dl>
 <dt>Parameters:</dt>
@@ -63,11 +64,12 @@ public static  boolean **valueBelongs**(string|number value)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Lang/Enum.php.md#line58" class="location">framework\hirudo\Hirudo\Lang\Enum.php at line 58</a>
-
+<div class="location">framework\hirudo\Hirudo\Lang\Enum.php at line 58</div>
 <h3 id="nameBelongs()">nameBelongs</h3>
+
 ```php
-public static  boolean **nameBelongs**(string|number value, mixed name)```
+public static  boolean **nameBelongs**(string|number value, mixed name)
+```
 <div class="details">
 <p>Says if there is a constant with the given name for this enum.</p><dl>
 <dt>Parameters:</dt>
@@ -79,11 +81,12 @@ public static  boolean **nameBelongs**(string|number value, mixed name)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Lang/Enum.php.md#line71" class="location">framework\hirudo\Hirudo\Lang\Enum.php at line 71</a>
-
+<div class="location">framework\hirudo\Hirudo\Lang\Enum.php at line 71</div>
 <h3 id="valueToString()">valueToString</h3>
+
 ```php
-public static  string **valueToString**(string|number value)```
+public static  string **valueToString**(string|number value)
+```
 <div class="details">
 <p>Returns the constant name corresponding to the given value.</p><dl>
 <dt>Parameters:</dt>
@@ -95,11 +98,12 @@ public static  string **valueToString**(string|number value)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Lang/Enum.php.md#line84" class="location">framework\hirudo\Hirudo\Lang\Enum.php at line 84</a>
-
+<div class="location">framework\hirudo\Hirudo\Lang\Enum.php at line 84</div>
 <h3 id="stringToValue()">stringToValue</h3>
+
 ```php
-public static  string|number **stringToValue**(string string)```
+public static  string|number **stringToValue**(string string)
+```
 <div class="details">
 <p>Returns a value by the corresponding name.</p><dl>
 <dt>Parameters:</dt>
@@ -111,11 +115,12 @@ public static  string|number **stringToValue**(string string)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Lang/Enum.php.md#line96" class="location">framework\hirudo\Hirudo\Lang\Enum.php at line 96</a>
-
+<div class="location">framework\hirudo\Hirudo\Lang\Enum.php at line 96</div>
 <h3 id="values()">values</h3>
+
 ```php
-public static  array **values**()```
+public static  array **values**()
+```
 <div class="details">
 <p>Gets an array with all the constants of the enum.</p><dl>
 <dt>Returns:</dt>

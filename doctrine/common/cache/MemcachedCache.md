@@ -1,15 +1,17 @@
 - - -
 
 **Doctrine\Common\Cache\MemcachedCache**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/doctrine-common/Doctrine/Common/Cache/MemcachedCache.php.md#line37" class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\MemcachedCache.php at line 37</a>
+<div class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\MemcachedCache.php at line 37</div>
+#Class MemcachedCache#
 
-# Class MemcachedCache #
+<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/cache/cacheprovider.html">CacheProvider</a>
+    ***MemcachedCache**
 
-<pre class="tree"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/cache/cacheprovider.html">CacheProvider</a>\n    *** MemcachedCache **\n</pre>
 
 - - -
 
-<p class="signature">public  class **MemcachedCache**\nextends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/cache/cacheprovider.html">CacheProvider</a>
+<p class="signature">public  class **MemcachedCache**
+extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/cache/cacheprovider.html">CacheProvider</a>
 
 </p>
 
@@ -35,35 +37,35 @@
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#setMemcached()">setMemcached</a>(Memcached memcached)</p><p class="description">Sets the memcache instance to use.</p></td>
+<td class="description"><p class="name"><a href="#setMemcached">setMemcached</a>(Memcached memcached)</p><p class="description">Sets the memcache instance to use.</p></td>
 </tr>
 <tr>
 <td class="type"> Memcached</td>
-<td class="description"><p class="name"><a href="#getMemcached()">getMemcached</a>()</p><p class="description">Gets the memcached instance used by the cache.</p></td>
+<td class="description"><p class="name"><a href="#getMemcached">getMemcached</a>()</p><p class="description">Gets the memcached instance used by the cache.</p></td>
 </tr>
 <tr>
 <td class="type">protected  string</td>
-<td class="description"><p class="name"><a href="#doFetch()">doFetch</a>(string id)</p><p class="description">Fetches an entry from the cache.</p></td>
+<td class="description"><p class="name"><a href="#doFetch">doFetch</a>(string id)</p><p class="description">Fetches an entry from the cache.</p></td>
 </tr>
 <tr>
 <td class="type">protected  boolean</td>
-<td class="description"><p class="name"><a href="#doContains()">doContains</a>(string id)</p><p class="description">Test if an entry exists in the cache.</p></td>
+<td class="description"><p class="name"><a href="#doContains">doContains</a>(string id)</p><p class="description">Test if an entry exists in the cache.</p></td>
 </tr>
 <tr>
 <td class="type">protected  boolean</td>
-<td class="description"><p class="name"><a href="#doSave()">doSave</a>(string id, string data, int lifeTime)</p><p class="description">Puts data into the cache.</p></td>
+<td class="description"><p class="name"><a href="#doSave">doSave</a>(string id, string data, int lifeTime)</p><p class="description">Puts data into the cache.</p></td>
 </tr>
 <tr>
 <td class="type">protected  boolean</td>
-<td class="description"><p class="name"><a href="#doDelete()">doDelete</a>(string id)</p><p class="description">Deletes a cache entry.</p></td>
+<td class="description"><p class="name"><a href="#doDelete">doDelete</a>(string id)</p><p class="description">Deletes a cache entry.</p></td>
 </tr>
 <tr>
 <td class="type">protected  boolean</td>
-<td class="description"><p class="name"><a href="#doFlush()">doFlush</a>()</p><p class="description">Deletes all cache entries.</p></td>
+<td class="description"><p class="name"><a href="#doFlush">doFlush</a>()</p><p class="description">Deletes all cache entries.</p></td>
 </tr>
 <tr>
 <td class="type">protected  array</td>
-<td class="description"><p class="name"><a href="#doGetStats()">doGetStats</a>()</p><p class="description">Retrieves cached information from data store</p></td>
+<td class="description"><p class="name"><a href="#doGetStats">doGetStats</a>()</p><p class="description">Retrieves cached information from data store</p></td>
 </tr>
 </table>
 
@@ -72,31 +74,34 @@
 <tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/cache/cacheprovider.html#delete()">delete</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/cache/cacheprovider.html#deleteAll()">deleteAll</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/cache/cacheprovider.html#doContains()">doContains</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/cache/cacheprovider.html#doDelete()">doDelete</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/cache/cacheprovider.html#doFetch()">doFetch</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/cache/cacheprovider.html#doFlush()">doFlush</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/cache/cacheprovider.html#doGetStats()">doGetStats</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/cache/cacheprovider.html#doSave()">doSave</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/cache/cacheprovider.html#flushAll()">flushAll</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/cache/cacheprovider.html#getStats()">getStats</a></td></tr></table>
 
 <h2 id="detail_method">Method Detail</h2>
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/doctrine-common/Doctrine/Common/Cache/MemcachedCache.php.md#line49" class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\MemcachedCache.php at line 49</a>
-
+<div class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\MemcachedCache.php at line 49</div>
 <h3 id="setMemcached()">setMemcached</h3>
+
 ```php
-public  void **setMemcached**(Memcached memcached)```
+public  void **setMemcached**(Memcached memcached)
+```
 <div class="details">
 <p>Sets the memcache instance to use.</p></div>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/doctrine-common/Doctrine/Common/Cache/MemcachedCache.php.md#line59" class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\MemcachedCache.php at line 59</a>
-
+<div class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\MemcachedCache.php at line 59</div>
 <h3 id="getMemcached()">getMemcached</h3>
+
 ```php
-public  Memcached **getMemcached**()```
+public  Memcached **getMemcached**()
+```
 <div class="details">
 <p>Gets the memcached instance used by the cache.</p></div>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/doctrine-common/Doctrine/Common/Cache/MemcachedCache.php.md#line67" class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\MemcachedCache.php at line 67</a>
-
+<div class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\MemcachedCache.php at line 67</div>
 <h3 id="doFetch()">doFetch</h3>
+
 ```php
-protected  string **doFetch**(string id)```
+protected  string **doFetch**(string id)
+```
 <div class="details">
 <p>Fetches an entry from the cache.</p><dl>
 <dt>Parameters:</dt>
@@ -108,11 +113,12 @@ protected  string **doFetch**(string id)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/doctrine-common/Doctrine/Common/Cache/MemcachedCache.php.md#line75" class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\MemcachedCache.php at line 75</a>
-
+<div class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\MemcachedCache.php at line 75</div>
 <h3 id="doContains()">doContains</h3>
+
 ```php
-protected  boolean **doContains**(string id)```
+protected  boolean **doContains**(string id)
+```
 <div class="details">
 <p>Test if an entry exists in the cache.</p><dl>
 <dt>Parameters:</dt>
@@ -124,11 +130,12 @@ protected  boolean **doContains**(string id)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/doctrine-common/Doctrine/Common/Cache/MemcachedCache.php.md#line83" class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\MemcachedCache.php at line 83</a>
-
+<div class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\MemcachedCache.php at line 83</div>
 <h3 id="doSave()">doSave</h3>
+
 ```php
-protected  boolean **doSave**(string id, string data, int lifeTime)```
+protected  boolean **doSave**(string id, string data, int lifeTime)
+```
 <div class="details">
 <p>Puts data into the cache.</p><dl>
 <dt>Parameters:</dt>
@@ -142,11 +149,12 @@ protected  boolean **doSave**(string id, string data, int lifeTime)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/doctrine-common/Doctrine/Common/Cache/MemcachedCache.php.md#line91" class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\MemcachedCache.php at line 91</a>
-
+<div class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\MemcachedCache.php at line 91</div>
 <h3 id="doDelete()">doDelete</h3>
+
 ```php
-protected  boolean **doDelete**(string id)```
+protected  boolean **doDelete**(string id)
+```
 <div class="details">
 <p>Deletes a cache entry.</p><dl>
 <dt>Parameters:</dt>
@@ -158,11 +166,12 @@ protected  boolean **doDelete**(string id)```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/doctrine-common/Doctrine/Common/Cache/MemcachedCache.php.md#line99" class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\MemcachedCache.php at line 99</a>
-
+<div class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\MemcachedCache.php at line 99</div>
 <h3 id="doFlush()">doFlush</h3>
+
 ```php
-protected  boolean **doFlush**()```
+protected  boolean **doFlush**()
+```
 <div class="details">
 <p>Deletes all cache entries.</p><dl>
 <dt>Returns:</dt>
@@ -172,11 +181,12 @@ protected  boolean **doFlush**()```
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/doctrine-common/Doctrine/Common/Cache/MemcachedCache.php.md#line107" class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\MemcachedCache.php at line 107</a>
-
+<div class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\MemcachedCache.php at line 107</div>
 <h3 id="doGetStats()">doGetStats</h3>
+
 ```php
-protected  array **doGetStats**()```
+protected  array **doGetStats**()
+```
 <div class="details">
 <p>Retrieves cached information from data store</p><dl>
 <dt>Since:</dt>

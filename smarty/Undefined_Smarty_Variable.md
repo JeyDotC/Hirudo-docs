@@ -1,11 +1,11 @@
 - - -
 
 **Smarty\Undefined_Smarty_Variable**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/smarty/sysplugins/smarty_internal_data.php.md#line522" class="location">framework\libs\smarty\sysplugins\smarty_internal_data.php at line 522</a>
+<div class="location">framework\libs\smarty\sysplugins\smarty_internal_data.php at line 522</div>
+#Class Undefined_Smarty_Variable#
 
-# Class Undefined_Smarty_Variable #
+**Undefined_Smarty_Variable**
 
-<pre class="tree">** Undefined_Smarty_Variable **\n</pre>
 
 - - -
 

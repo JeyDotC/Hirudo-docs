@@ -1,11 +1,11 @@
 - - -
 
 **Doctrine\Common\Annotations\Annotation\Attribute**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/doctrine-common/Doctrine/Common/Annotations/Annotation/Attribute.php.md#line31" class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\Annotation\Attribute.php at line 31</a>
+<div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\Annotation\Attribute.php at line 31</div>
+#Class Attribute#
 
-# Class Attribute #
+**Attribute**
 
-<pre class="tree">** Attribute **\n</pre>
 
 - - -
 
@@ -38,31 +38,34 @@ to check the attribute type during the parsing process.</p></div>
 </table>
 
 ##Field Detail##
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/doctrine-common/Doctrine/Common/Annotations/Annotation/Attribute.php.md#line36" class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\Annotation\Attribute.php at line 36</a>
-
+<div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\Annotation\Attribute.php at line 36</div>
 <h3 id="name">name</h3>
+
 ```php
-public  string **$name**```
+public  string$name
+```
 <div class="details">
 <p></p></div>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/doctrine-common/Doctrine/Common/Annotations/Annotation/Attribute.php.md#line46" class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\Annotation\Attribute.php at line 46</a>
-
+<div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\Annotation\Attribute.php at line 46</div>
 <h3 id="required">required</h3>
+
 ```php
-public  boolean **$required** = false```
+public  boolean$required = false
+```
 <div class="details">
 <p></p></div>
 
 - - -
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/doctrine-common/Doctrine/Common/Annotations/Annotation/Attribute.php.md#line41" class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\Annotation\Attribute.php at line 41</a>
-
+<div class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\Annotation\Attribute.php at line 41</div>
 <h3 id="type">type</h3>
+
 ```php
-public  string **$type**```
+public  string$type
+```
 <div class="details">
 <p></p></div>
 

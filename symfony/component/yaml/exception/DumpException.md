@@ -1,11 +1,12 @@
 - - -
 
 **Symfony\Component\Yaml\Exception\DumpException**
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/libs/symfony-components/Symfony/Component/Yaml/Exception/DumpException.php.md#line21" class="location">framework\libs\symfony-components\Symfony\Component\Yaml\Exception\DumpException.php at line 21</a>
+<div class="location">framework\libs\symfony-components\Symfony\Component\Yaml\Exception\DumpException.php at line 21</div>
+#Class DumpException#
 
-# Class DumpException #
+\RuntimeException
+***DumpException**
 
-<pre class="tree">\RuntimeException\n*** DumpException **\n</pre>
 
 <dl>
 <dt>All Implemented Interfaces:</dt>
@@ -14,7 +15,8 @@
 
 - - -
 
-<p class="signature">public  class **DumpException**\nextends \RuntimeException
+<p class="signature">public  class **DumpException**
+extends \RuntimeException
 
 </p>
 
