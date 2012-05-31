@@ -1,15 +1,17 @@
 - - -
 
-**Hirudo\Core\ModulesManager**
+**Hirudo\Core\ModulesManager** 
 <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Core/ModulesManager.php.md#line41" class="location">framework\hirudo\Hirudo\Core\ModulesManager.php at line 41</a>
 
-# Class ModulesManager #
+#Class ModulesManager
 
-<pre class="tree"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/eventdispatcher/eventdispatcher.html">EventDispatcher</a>\n    *** ModulesManager **\n</pre>
+* <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/eventdispatcher/eventdispatcher.html">EventDispatcher</a>
+    * **ModulesManager**
 
 - - -
 
-<p class="signature">public  class **ModulesManager**\nextends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/eventdispatcher/eventdispatcher.html">EventDispatcher</a>
+<p class="signature">public  class **ModulesManager**
+extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/eventdispatcher/eventdispatcher.html">EventDispatcher</a>
 
 </p>
 
@@ -21,13 +23,14 @@ point of the framework.</p></div>
 <dd>JeyDotC</dd>
 <dt>Api.</dt>
 </dl>
+
 - - -
 
 <table id="summary_constructor">
 <tr><th colspan="2">Constructor Summary</th></tr>
 <tr>
 <td class="type"> void</td>
-<td class="description"><p class="name"><a href="#__construct()">__construct</a>(array<string> implementationClasses)</p><p class="description">Creates a new modules manager.</p></td>
+<td class="description"><p class="name"><a href="#__construct">__construct</a>(array<string> implementationClasses)</p><p class="description">Creates a new modules manager.</p></td>
 </tr>
 </table>
 
@@ -35,12 +38,12 @@ point of the framework.</p></div>
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td class="type"> string</td>
-<td class="description"><p class="name"><a href="#run()">run</a>()</p><p class="description">Executes the requested action based on the request parameters or the
+<td class="description"><p class="name"><a href="#run">run</a>()</p><p class="description">Executes the requested action based on the request parameters or the
 default configuration.</p></td>
 </tr>
 <tr>
 <td class="type"> string</td>
-<td class="description"><p class="name"><a href="#executeCall()">executeCall</a>(<a href="../../hirudo/core/context/modulecall.html">ModuleCall</a> call)</p><p class="description">Executes a ModuleCall.</p></td>
+<td class="description"><p class="name"><a href="#executeCall">executeCall</a>(<a href="../../hirudo/core/context/modulecall.html">ModuleCall</a> call)</p><p class="description">Executes a ModuleCall.</p></td>
 </tr>
 <tr>
 <td class="type">static  void</td>
@@ -59,9 +62,12 @@ default configuration.</p></td>
 <h2 id="detail_method">Constructor Detail</h2>
 <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Core/ModulesManager.php.md#line73" class="location">framework\hirudo\Hirudo\Core\ModulesManager.php at line 73</a>
 
-<h3 id="__construct()">__construct</h3>
+<h3 id="__construct">__construct</h3>
+
 ```php
-public  void **__construct**(array<string> implementationClasses)```
+public  void **__construct**(array<string> implementationClasses)
+```
+
 <div class="details">
 <p>Creates a new modules manager.</p><dl>
 <dt>Parameters:</dt>
@@ -75,8 +81,11 @@ public  void **__construct**(array<string> implementationClasses)```
 <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Core/ModulesManager.php.md#line93" class="location">framework\hirudo\Hirudo\Core\ModulesManager.php at line 93</a>
 
 <h3 id="run()">run</h3>
+
 ```php
-public  string **run**()```
+public  string run()
+```
+
 <div class="details">
 <p>Executes the requested action based on the request parameters or the
 default configuration.</p><dl>
@@ -90,8 +99,11 @@ default configuration.</p><dl>
 <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/source/framework/hirudo/Hirudo/Core/ModulesManager.php.md#line123" class="location">framework\hirudo\Hirudo\Core\ModulesManager.php at line 123</a>
 
 <h3 id="executeCall()">executeCall</h3>
+
 ```php
-public  string **executeCall**(<a href="../../hirudo/core/context/modulecall.html">ModuleCall</a> call)```
+public  string executeCall(ModuleCall call)
+```
+
 <div class="details">
 <p>Executes a ModuleCall.</p><dl>
 <dt>Parameters:</dt>
