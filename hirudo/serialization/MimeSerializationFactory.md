@@ -5,7 +5,7 @@
 **Hirudo\Serialization\MimeSerializationFactory**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Serialization/MimeSerializationFactory.php#L34" >framework\hirudo\Hirudo\Serialization\MimeSerializationFactory.php at line 34</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Serialization/MimeSerializationFactory.php#L34" target='_blank'>framework\hirudo\Hirudo\Serialization\MimeSerializationFactory.php at line 34</a>
 
 #Class MimeSerializationFactory#
 
@@ -16,7 +16,7 @@
 
 - - -
 
-<p class="signature"><span class='k'>public  class</span> <span class='nx'>MimeSerializationFactory</span></p>
+<p><strong>public  class</strong> <span>MimeSerializationFactory</span></p>
 
 <div class="comment" id="overview_description"><p>A default SerializationFactory implementation. This one creates
 the serializer and the de-serializer based on a mime type.</p><p>If the mime given to request the serializer or de-serializer has a slash ('/'),
@@ -45,7 +45,7 @@ the text before it will be ignored, so if $mimeType is "application/json", only 
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Serialization/MimeSerializationFactory.php#L39" >framework\hirudo\Hirudo\Serialization\MimeSerializationFactory.php at line 39</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Serialization/MimeSerializationFactory.php#L39" target='_blank'>framework\hirudo\Hirudo\Serialization\MimeSerializationFactory.php at line 39</a>
 
 <h3 id="getMime()">getMime</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>getMime</span> (mixed mimeType)
@@ -57,7 +57,7 @@ the text before it will be ignored, so if $mimeType is "application/json", only 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Serialization/MimeSerializationFactory.php#L51" >framework\hirudo\Hirudo\Serialization\MimeSerializationFactory.php at line 51</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Serialization/MimeSerializationFactory.php#L51" target='_blank'>framework\hirudo\Hirudo\Serialization\MimeSerializationFactory.php at line 51</a>
 
 <h3 id="getSerializer()">getSerializer</h3>
 <span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/serialization/EntitySerializerBase>EntitySerializerBase</a></span> <span class='nf'>getSerializer</span> (string mimeType)
@@ -73,7 +73,7 @@ the text before it will be ignored, so if $mimeType is "application/json", only 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Serialization/MimeSerializationFactory.php#L69" >framework\hirudo\Hirudo\Serialization\MimeSerializationFactory.php at line 69</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Serialization/MimeSerializationFactory.php#L69" target='_blank'>framework\hirudo\Hirudo\Serialization\MimeSerializationFactory.php at line 69</a>
 
 <h3 id="getDeserializer()">getDeserializer</h3>
 <span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/serialization/EntityDeserializerBase>EntityDeserializerBase</a></span> <span class='nf'>getDeserializer</span> (string mimeType)

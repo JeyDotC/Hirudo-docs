@@ -5,7 +5,7 @@
 **Symfony\Component\DependencyInjection\TaggedContainerInterface**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/TaggedContainerInterface.php#L21" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\TaggedContainerInterface.php at line 21</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/TaggedContainerInterface.php#L21" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\TaggedContainerInterface.php at line 21</a>
 
 #Interface TaggedContainerInterface#
 
@@ -17,8 +17,8 @@
 
 - - -
 
-<p class="signature"><span class='k'>public  interface</span> <span class='nx'>TaggedContainerInterface</span>
-extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/ContainerInterface.md">ContainerInterface</a>
+<p><strong>public  interface</strong> <span>TaggedContainerInterface</span>
+<strong>extends</strong> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/ContainerInterface.md">ContainerInterface</a>
 
 </p>
 
@@ -47,7 +47,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/comp
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/TaggedContainerInterface.php#L32" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\TaggedContainerInterface.php at line 32</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/TaggedContainerInterface.php#L32" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\TaggedContainerInterface.php at line 32</a>
 
 <h3 id="findTaggedServiceIds()">findTaggedServiceIds</h3>
 <span class='k'></span> <span class='nx'>array</span> <span class='nf'>findTaggedServiceIds</span> (string name)

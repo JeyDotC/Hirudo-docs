@@ -1,6 +1,10 @@
 - - -
 
-#Class Hierarchy for Package Symfony\Component\DependencyInjection#<ul>
+#Class Hierarchy for Package Symfony\Component\DependencyInjection
+
+<div><a href='https://github.com/JeyDotC/Hirudo-docs/tree/master/symfony/component/dependencyinjection'>Back to package summary</a></div>
+
+<ul>
 <li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/Alias.md">Symfony\Component\DependencyInjection\Alias</a></li>
 <li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/Container.md">Symfony\Component\DependencyInjection\Container</a><ul>
 <li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/ContainerBuilder.md">Symfony\Component\DependencyInjection\ContainerBuilder</a></li>

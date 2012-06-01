@@ -5,7 +5,7 @@
 **SampleApp\Models\Components\DbTestComponent**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/SampleApp/Models/Components/DbTestComponent.php#L12" >src\SampleApp\Models\Components\DbTestComponent.php at line 12</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/SampleApp/Models/Components/DbTestComponent.php#L12" target='_blank'>src\SampleApp\Models\Components\DbTestComponent.php at line 12</a>
 
 #Class DbTestComponent#
 
@@ -17,8 +17,8 @@
 
 - - -
 
-<p class="signature"><span class='k'>public  class</span> <span class='nx'>DbTestComponent</span>
-extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/models/components/sql/SimpleSqlComponent.md">SimpleSqlComponent</a>
+<p><strong>public  class</strong> <span>DbTestComponent</span>
+<strong>extends</strong> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/models/components/sql/SimpleSqlComponent.md">SimpleSqlComponent</a>
 
 </p>
 
@@ -50,7 +50,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/model
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/SampleApp/Models/Components/DbTestComponent.php#L14" >src\SampleApp\Models\Components\DbTestComponent.php at line 14</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/SampleApp/Models/Components/DbTestComponent.php#L14" target='_blank'>src\SampleApp\Models\Components\DbTestComponent.php at line 14</a>
 
 <h3 id="getAll()">getAll</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>getAll</span> ()
@@ -62,7 +62,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/model
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/SampleApp/Models/Components/DbTestComponent.php#L22" >src\SampleApp\Models\Components\DbTestComponent.php at line 22</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/SampleApp/Models/Components/DbTestComponent.php#L22" target='_blank'>src\SampleApp\Models\Components\DbTestComponent.php at line 22</a>
 
 <h3 id="add()">add</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>add</span> (mixed name)

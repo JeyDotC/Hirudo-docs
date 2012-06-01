@@ -39,7 +39,7 @@ module and the view name, so any view from any module can be included or inherit
 
 <h2 id="detail_function">Function Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Common/Templating/SmartyTemplatingPlugins/function.bind.php#L40" >framework\hirudo\Hirudo\Impl\Common\Templating\SmartyTemplatingPlugins\function.bind.php at line 40</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Common/Templating/SmartyTemplatingPlugins/function.bind.php#L40" target='_blank'>framework\hirudo\Hirudo\Impl\Common\Templating\SmartyTemplatingPlugins\function.bind.php at line 40</a>
 
 <h3 id="smarty_function_bind()">smarty_function_bind</h3>
 <span class='k'></span> <span class='nx'>string</span> smarty_function_bind (array params, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> template)
@@ -64,7 +64,7 @@ naming, like this:
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Common/Templating/SmartyTemplatingPlugins/function.js.php#L16" >framework\hirudo\Hirudo\Impl\Common\Templating\SmartyTemplatingPlugins\function.js.php at line 16</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Common/Templating/SmartyTemplatingPlugins/function.js.php#L16" target='_blank'>framework\hirudo\Hirudo\Impl\Common\Templating\SmartyTemplatingPlugins\function.js.php at line 16</a>
 
 <h3 id="smarty_function_css()">smarty_function_css</h3>
 <span class='k'></span> <span class='nx'>string</span> smarty_function_css (array params, type template)
@@ -83,7 +83,7 @@ Usage: <code>{script file="path/to/my/jsFile.js"}</code></p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/ext/libs/SampleExtension/Sample/SmartyExtensions/function.foo.php#L29" >ext\libs\SampleExtension\Sample\SmartyExtensions\function.foo.php at line 29</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/ext/libs/SampleExtension/Sample/SmartyExtensions/function.foo.php#L29" target='_blank'>ext\libs\SampleExtension\Sample\SmartyExtensions\function.foo.php at line 29</a>
 
 <h3 id="smarty_function_foo()">smarty_function_foo</h3>
 <span class='k'></span> <span class='nx'><type></span> smarty_function_foo (array params, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> template)
@@ -95,7 +95,7 @@ Usage: <code>{script file="path/to/my/jsFile.js"}</code></p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Common/Templating/SmartyTemplatingPlugins/function.url.php#L45" >framework\hirudo\Hirudo\Impl\Common\Templating\SmartyTemplatingPlugins\function.url.php at line 45</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Common/Templating/SmartyTemplatingPlugins/function.url.php#L45" target='_blank'>framework\hirudo\Hirudo\Impl\Common\Templating\SmartyTemplatingPlugins\function.url.php at line 45</a>
 
 <h3 id="smarty_function_url()">smarty_function_url</h3>
 <span class='k'></span> <span class='nx'>string</span> smarty_function_url (array params, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> template)
@@ -125,7 +125,7 @@ array(
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Common/Templating/SmartyTemplatingPlugins/modifier.toPath.php#L39" >framework\hirudo\Hirudo\Impl\Common\Templating\SmartyTemplatingPlugins\modifier.toPath.php at line 39</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Common/Templating/SmartyTemplatingPlugins/modifier.toPath.php#L39" target='_blank'>framework\hirudo\Hirudo\Impl\Common\Templating\SmartyTemplatingPlugins\modifier.toPath.php at line 39</a>
 
 <h3 id="smarty_modifier_toPath()">smarty_modifier_toPath</h3>
 <span class='k'></span> <span class='nx'>string</span> smarty_modifier_toPath (string string, string extension)
@@ -150,7 +150,7 @@ array(
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Common/Templating/SmartyTemplatingPlugins/modifier.toViewPath.php#L39" >framework\hirudo\Hirudo\Impl\Common\Templating\SmartyTemplatingPlugins\modifier.toViewPath.php at line 39</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Common/Templating/SmartyTemplatingPlugins/modifier.toViewPath.php#L39" target='_blank'>framework\hirudo\Hirudo\Impl\Common\Templating\SmartyTemplatingPlugins\modifier.toViewPath.php at line 39</a>
 
 <h3 id="smarty_modifier_toViewPath()">smarty_modifier_toViewPath</h3>
 <span class='k'></span> <span class='nx'>string</span> smarty_modifier_toViewPath (string string)

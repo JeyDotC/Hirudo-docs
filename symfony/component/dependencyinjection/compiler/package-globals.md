@@ -14,7 +14,7 @@
 
 <h2 id="detail_global">Global Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/PassConfig.php#L25" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\PassConfig.php at line 25</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/PassConfig.php#L25" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\PassConfig.php at line 25</a>
 
 <h3 id="TYPE_AFTER_REMOVING">TYPE_AFTER_REMOVING</h3>
 ```php

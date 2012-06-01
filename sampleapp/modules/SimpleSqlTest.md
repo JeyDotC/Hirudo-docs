@@ -5,7 +5,7 @@
 **SampleApp\Modules\SimpleSqlTest**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/SampleApp/Modules/SimpleSqlTest/SimpleSqlTest.php#L12" >src\SampleApp\Modules\SimpleSqlTest\SimpleSqlTest.php at line 12</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/SampleApp/Modules/SimpleSqlTest/SimpleSqlTest.php#L12" target='_blank'>src\SampleApp\Modules\SimpleSqlTest\SimpleSqlTest.php at line 12</a>
 
 #Class SimpleSqlTest#
 
@@ -17,8 +17,8 @@
 
 - - -
 
-<p class="signature"><span class='k'>public  class</span> <span class='nx'>SimpleSqlTest</span>
-extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/Module.md">Module</a>
+<p><strong>public  class</strong> <span>SimpleSqlTest</span>
+<strong>extends</strong> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/Module.md">Module</a>
 
 </p>
 
@@ -54,7 +54,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/SampleApp/Modules/SimpleSqlTest/SimpleSqlTest.php#L14" >src\SampleApp\Modules\SimpleSqlTest\SimpleSqlTest.php at line 14</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/SampleApp/Modules/SimpleSqlTest/SimpleSqlTest.php#L14" target='_blank'>src\SampleApp\Modules\SimpleSqlTest\SimpleSqlTest.php at line 14</a>
 
 <h3 id="index()">index</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>index</span> ()
@@ -66,7 +66,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/SampleApp/Modules/SimpleSqlTest/SimpleSqlTest.php#L33" >src\SampleApp\Modules\SimpleSqlTest\SimpleSqlTest.php at line 33</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/SampleApp/Modules/SimpleSqlTest/SimpleSqlTest.php#L33" target='_blank'>src\SampleApp\Modules\SimpleSqlTest\SimpleSqlTest.php at line 33</a>
 
 <h3 id="add()">add</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>add</span> (array name)

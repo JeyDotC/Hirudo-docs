@@ -5,7 +5,7 @@
 **Hirudo\Impl\StandAlone\SAppConfig**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/SAppConfig.php#L36" >framework\hirudo\Hirudo\Impl\StandAlone\SAppConfig.php at line 36</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/SAppConfig.php#L36" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\SAppConfig.php at line 36</a>
 
 #Class SAppConfig#
 
@@ -17,8 +17,8 @@
 
 - - -
 
-<p class="signature"><span class='k'>public  class</span> <span class='nx'>SAppConfig</span>
-extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/AppConfig.md">AppConfig</a>
+<p><strong>public  class</strong> <span>SAppConfig</span>
+<strong>extends</strong> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/AppConfig.md">AppConfig</a>
 
 </p>
 
@@ -51,7 +51,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/SAppConfig.php#L44" >framework\hirudo\Hirudo\Impl\StandAlone\SAppConfig.php at line 44</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/SAppConfig.php#L44" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\SAppConfig.php at line 44</a>
 
 <h3 id="get()">get</h3>
 <span class='k'></span> <span class='nx'>mixed</span> <span class='nf'>get</span> (string key, mixed default)
@@ -70,7 +70,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/SAppConfig.php#L52" >framework\hirudo\Hirudo\Impl\StandAlone\SAppConfig.php at line 52</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/SAppConfig.php#L52" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\SAppConfig.php at line 52</a>
 
 <h3 id="load()">load</h3>
 <span class='k'>protected </span> <span class='nx'>void</span> <span class='nf'>load</span> ()

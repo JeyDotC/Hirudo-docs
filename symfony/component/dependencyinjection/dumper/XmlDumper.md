@@ -5,7 +5,7 @@
 **Symfony\Component\DependencyInjection\Dumper\XmlDumper**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Dumper/XmlDumper.php#L27" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Dumper\XmlDumper.php at line 27</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Dumper/XmlDumper.php#L27" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Dumper\XmlDumper.php at line 27</a>
 
 #Class XmlDumper#
 
@@ -17,8 +17,8 @@
 
 - - -
 
-<p class="signature"><span class='k'>public  class</span> <span class='nx'>XmlDumper</span>
-extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/dumper/Dumper.md">Dumper</a>
+<p><strong>public  class</strong> <span>XmlDumper</span>
+<strong>extends</strong> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/dumper/Dumper.md">Dumper</a>
 
 </p>
 
@@ -56,7 +56,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/comp
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Dumper/XmlDumper.php#L43" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Dumper\XmlDumper.php at line 43</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Dumper/XmlDumper.php#L43" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Dumper\XmlDumper.php at line 43</a>
 
 <h3 id="dump()">dump</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>dump</span> (array options)
@@ -75,7 +75,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/comp
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Dumper/XmlDumper.php#L288" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Dumper\XmlDumper.php at line 288</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Dumper/XmlDumper.php#L288" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Dumper\XmlDumper.php at line 288</a>
 
 <h3 id="phpToXml()">phpToXml</h3>
 <span class='k'>static </span> <span class='nx'>void</span> <span class='nf'>phpToXml</span> (mixed value)

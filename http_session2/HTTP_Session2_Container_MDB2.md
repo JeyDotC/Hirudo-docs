@@ -5,7 +5,7 @@
 **HTTP_Session2\HTTP_Session2_Container_MDB2**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/MDB2.php#L54" >framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\MDB2.php at line 54</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/MDB2.php#L54" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\MDB2.php at line 54</a>
 
 #Class HTTP_Session2_Container_MDB2#
 
@@ -17,8 +17,8 @@
 
 - - -
 
-<p class="signature"><span class='k'>public  class</span> <span class='nx'>HTTP_Session2_Container_MDB2</span>
-extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/http_session2/HTTP_Session2_Container.md">HTTP_Session2_Container</a>
+<p><strong>public  class</strong> <span>HTTP_Session2_Container_MDB2</span>
+<strong>extends</strong> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/http_session2/HTTP_Session2_Container.md">HTTP_Session2_Container</a>
 
 </p>
 
@@ -133,7 +133,7 @@ the table on garbage collection, default is 'false'.
 
 <h2 id="detail_method">Constructor Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/MDB2.php#L87" >framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\MDB2.php at line 87</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/MDB2.php#L87" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\MDB2.php at line 87</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'></span> <span class='nx'>object</span> <span class='nf'>__construct</span> (array options)
@@ -158,7 +158,7 @@ the table on garbage collection, default is 'false'.</li>
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/MDB2.php#L100" >framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\MDB2.php at line 100</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/MDB2.php#L100" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\MDB2.php at line 100</a>
 
 <h3 id="connect()">connect</h3>
 <span class='k'>protected </span> <span class='nx'>boolean</span> <span class='nf'>connect</span> (mixed dsn)
@@ -176,7 +176,7 @@ the table on garbage collection, default is 'false'.</li>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/MDB2.php#L134" >framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\MDB2.php at line 134</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/MDB2.php#L134" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\MDB2.php at line 134</a>
 
 <h3 id="setDefaults()">setDefaults</h3>
 <span class='k'>protected </span> <span class='nx'>void</span> <span class='nf'>setDefaults</span> ()
@@ -188,7 +188,7 @@ the table on garbage collection, default is 'false'.</li>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/MDB2.php#L151" >framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\MDB2.php at line 151</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/MDB2.php#L151" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\MDB2.php at line 151</a>
 
 <h3 id="open()">open</h3>
 <span class='k'></span> <span class='nx'>boolean</span> <span class='nf'>open</span> (string save_path, string session_name)
@@ -208,7 +208,7 @@ the table on garbage collection, default is 'false'.</li>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/MDB2.php#L161" >framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\MDB2.php at line 161</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/MDB2.php#L161" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\MDB2.php at line 161</a>
 
 <h3 id="close()">close</h3>
 <span class='k'></span> <span class='nx'>boolean</span> <span class='nf'>close</span> ()
@@ -220,7 +220,7 @@ the table on garbage collection, default is 'false'.</li>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/MDB2.php#L178" >framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\MDB2.php at line 178</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/MDB2.php#L178" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\MDB2.php at line 178</a>
 
 <h3 id="read()">read</h3>
 <span class='k'></span> <span class='nx'>mixed</span> <span class='nf'>read</span> (string id)
@@ -240,7 +240,7 @@ the table on garbage collection, default is 'false'.</li>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/MDB2.php#L203" >framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\MDB2.php at line 203</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/MDB2.php#L203" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\MDB2.php at line 203</a>
 
 <h3 id="write()">write</h3>
 <span class='k'></span> <span class='nx'>boolean</span> <span class='nf'>write</span> (string id, string data)
@@ -259,7 +259,7 @@ the table on garbage collection, default is 'false'.</li>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/MDB2.php#L261" >framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\MDB2.php at line 261</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/MDB2.php#L261" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\MDB2.php at line 261</a>
 
 <h3 id="destroy()">destroy</h3>
 <span class='k'></span> <span class='nx'>boolean</span> <span class='nf'>destroy</span> (string id)
@@ -277,7 +277,7 @@ the table on garbage collection, default is 'false'.</li>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/MDB2.php#L286" >framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\MDB2.php at line 286</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/MDB2.php#L286" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\MDB2.php at line 286</a>
 
 <h3 id="gc()">gc</h3>
 <span class='k'></span> <span class='nx'>boolean</span> <span class='nf'>gc</span> (int maxlifetime)
@@ -297,7 +297,7 @@ the table on garbage collection, default is 'false'.</li>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/MDB2.php#L319" >framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\MDB2.php at line 319</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/MDB2.php#L319" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\MDB2.php at line 319</a>
 
 <h3 id="replicate()">replicate</h3>
 <span class='k'></span> <span class='nx'>boolean</span> <span class='nf'>replicate</span> (string target, string id)

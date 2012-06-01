@@ -5,7 +5,7 @@
 **Hirudo\Core\Events\BeforeTaskEventListener**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Events/BeforeTaskEventListener.php#L37" >framework\hirudo\Hirudo\Core\Events\BeforeTaskEventListener.php at line 37</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Events/BeforeTaskEventListener.php#L37" target='_blank'>framework\hirudo\Hirudo\Core\Events\BeforeTaskEventListener.php at line 37</a>
 
 #Class BeforeTaskEventListener#
 
@@ -21,7 +21,7 @@
 
 - - -
 
-<p class="signature"><span class='k'>public abstract  class</span> <span class='nx'>BeforeTaskEventListener</span></p>
+<p><strong>public abstract  class</strong> <span>BeforeTaskEventListener</span></p>
 
 <div class="comment" id="overview_description"><p><p>Listens to the BeforeTaskEvent which iccurs before the task is executed and after
 the task's requirements are satisfied.</p></p><p><p>The listener only needs to implement the beforeTask method in order to work.</p></p></div>
@@ -53,7 +53,7 @@ order to work. </p></td>
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Events/BeforeTaskEventListener.php#L45" >framework\hirudo\Hirudo\Core\Events\BeforeTaskEventListener.php at line 45</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Events/BeforeTaskEventListener.php#L45" target='_blank'>framework\hirudo\Hirudo\Core\Events\BeforeTaskEventListener.php at line 45</a>
 
 <h3 id="getSubscribedEvents()">getSubscribedEvents</h3>
 <span class='k'>static </span> <span class='nx'>array</span> <span class='nf'>getSubscribedEvents</span> ()
@@ -69,7 +69,7 @@ order to work. </p></td>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Events/BeforeTaskEventListener.php#L60" >framework\hirudo\Hirudo\Core\Events\BeforeTaskEventListener.php at line 60</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Events/BeforeTaskEventListener.php#L60" target='_blank'>framework\hirudo\Hirudo\Core\Events\BeforeTaskEventListener.php at line 60</a>
 
 <h3 id="beforeTask()">beforeTask</h3>
 <span class='k'>protected abstract </span> <span class='nx'>void</span> <span class='nf'>beforeTask</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/events/BeforeTaskEvent.md">BeforeTaskEvent</a> e)
@@ -90,7 +90,7 @@ current call, thus restarting the task call process for the new ModuleCall.</p><
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Events/BeforeTaskEventListener.php#L70" >framework\hirudo\Hirudo\Core\Events\BeforeTaskEventListener.php at line 70</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Events/BeforeTaskEventListener.php#L70" target='_blank'>framework\hirudo\Hirudo\Core\Events\BeforeTaskEventListener.php at line 70</a>
 
 <h3 id="onBeforeTask()">onBeforeTask</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>onBeforeTask</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/events/BeforeTaskEvent.md">BeforeTaskEvent</a> e)

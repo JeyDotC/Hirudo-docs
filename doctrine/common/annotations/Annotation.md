@@ -5,7 +5,7 @@
 **Doctrine\Common\Annotations\Annotation**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/Annotation.php#L30" >framework\libs\doctrine-common\Doctrine\Common\Annotations\Annotation.php at line 30</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/Annotation.php#L30" target='_blank'>framework\libs\doctrine-common\Doctrine\Common\Annotations\Annotation.php at line 30</a>
 
 #Class Annotation#
 
@@ -16,7 +16,7 @@
 
 - - -
 
-<p class="signature"><span class='k'>public  class</span> <span class='nx'>Annotation</span></p>
+<p><strong>public  class</strong> <span>Annotation</span></p>
 
 <div class="comment" id="overview_description"><p>Annotations class</p></div>
 
@@ -52,7 +52,7 @@
 
 <h2 id="detail_method">Constructor Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/Annotation.php#L44" >framework\libs\doctrine-common\Doctrine\Common\Annotations\Annotation.php at line 44</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/Annotation.php#L44" target='_blank'>framework\libs\doctrine-common\Doctrine\Common\Annotations\Annotation.php at line 44</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'>final </span> <span class='nx'>void</span> <span class='nf'>__construct</span> (array data)

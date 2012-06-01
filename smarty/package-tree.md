@@ -1,6 +1,10 @@
 - - -
 
-#Class Hierarchy for Package Smarty#<ul>
+#Class Hierarchy for Package Smarty
+
+<div><a href='https://github.com/JeyDotC/Hirudo-docs/tree/master/smarty'>Back to package summary</a></div>
+
+<ul>
 <li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Data.md">Smarty\Smarty_Internal_Data</a><ul>
 <li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_TemplateBase.md">Smarty\Smarty_Internal_TemplateBase</a><ul>
 <li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty.md">Smarty\Smarty</a><ul>

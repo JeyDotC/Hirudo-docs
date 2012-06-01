@@ -5,7 +5,7 @@
 **Symfony\Component\EventDispatcher\Event**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/EventDispatcher/Event.php#L33" >framework\libs\symfony-components\Symfony\Component\EventDispatcher\Event.php at line 33</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/EventDispatcher/Event.php#L33" target='_blank'>framework\libs\symfony-components\Symfony\Component\EventDispatcher\Event.php at line 33</a>
 
 #Class Event#
 
@@ -21,7 +21,7 @@
 
 - - -
 
-<p class="signature"><span class='k'>public  class</span> <span class='nx'>Event</span></p>
+<p><strong>public  class</strong> <span>Event</span></p>
 
 <div class="comment" id="overview_description"><p>Event is the base class for classes containing event data.</p><p>This class contains no event data. It is used by events that do not pass
 state information to an event handler when an event is raised.</p><p>You can call the method stopPropagation() to abort the execution of
@@ -60,7 +60,7 @@ further listeners in your event listener.</p></div>
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/EventDispatcher/Event.php#L48" >framework\libs\symfony-components\Symfony\Component\EventDispatcher\Event.php at line 48</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/EventDispatcher/Event.php#L48" target='_blank'>framework\libs\symfony-components\Symfony\Component\EventDispatcher\Event.php at line 48</a>
 
 <h3 id="isPropagationStopped()">isPropagationStopped</h3>
 <span class='k'></span> <span class='nx'>Boolean</span> <span class='nf'>isPropagationStopped</span> ()
@@ -79,7 +79,7 @@ further listeners in your event listener.</p></div>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/EventDispatcher/Event.php#L62" >framework\libs\symfony-components\Symfony\Component\EventDispatcher\Event.php at line 62</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/EventDispatcher/Event.php#L62" target='_blank'>framework\libs\symfony-components\Symfony\Component\EventDispatcher\Event.php at line 62</a>
 
 <h3 id="stopPropagation()">stopPropagation</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>stopPropagation</span> ()

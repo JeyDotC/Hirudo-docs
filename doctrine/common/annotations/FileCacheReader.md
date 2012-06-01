@@ -5,7 +5,7 @@
 **Doctrine\Common\Annotations\FileCacheReader**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/FileCacheReader.php#L29" >framework\libs\doctrine-common\Doctrine\Common\Annotations\FileCacheReader.php at line 29</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/FileCacheReader.php#L29" target='_blank'>framework\libs\doctrine-common\Doctrine\Common\Annotations\FileCacheReader.php at line 29</a>
 
 #Class FileCacheReader#
 
@@ -16,7 +16,7 @@
 
 - - -
 
-<p class="signature"><span class='k'>public  class</span> <span class='nx'>FileCacheReader</span></p>
+<p><strong>public  class</strong> <span>FileCacheReader</span></p>
 
 <div class="comment" id="overview_description"><p>File cache reader for annotations.</p></div>
 
@@ -71,7 +71,7 @@
 
 <h2 id="detail_method">Constructor Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/FileCacheReader.php#L39" >framework\libs\doctrine-common\Doctrine\Common\Annotations\FileCacheReader.php at line 39</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/FileCacheReader.php#L39" target='_blank'>framework\libs\doctrine-common\Doctrine\Common\Annotations\FileCacheReader.php at line 39</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/doctrine/common/annotations/Reader.md">Reader</a> reader, mixed cacheDir, bool debug)
@@ -84,7 +84,7 @@
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/FileCacheReader.php#L53" >framework\libs\doctrine-common\Doctrine\Common\Annotations\FileCacheReader.php at line 53</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/FileCacheReader.php#L53" target='_blank'>framework\libs\doctrine-common\Doctrine\Common\Annotations\FileCacheReader.php at line 53</a>
 
 <h3 id="getClassAnnotations()">getClassAnnotations</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>getClassAnnotations</span> (ReflectionClass class)
@@ -96,7 +96,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/FileCacheReader.php#L81" >framework\libs\doctrine-common\Doctrine\Common\Annotations\FileCacheReader.php at line 81</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/FileCacheReader.php#L81" target='_blank'>framework\libs\doctrine-common\Doctrine\Common\Annotations\FileCacheReader.php at line 81</a>
 
 <h3 id="getPropertyAnnotations()">getPropertyAnnotations</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>getPropertyAnnotations</span> (ReflectionProperty property)
@@ -108,7 +108,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/FileCacheReader.php#L110" >framework\libs\doctrine-common\Doctrine\Common\Annotations\FileCacheReader.php at line 110</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/FileCacheReader.php#L110" target='_blank'>framework\libs\doctrine-common\Doctrine\Common\Annotations\FileCacheReader.php at line 110</a>
 
 <h3 id="getMethodAnnotations()">getMethodAnnotations</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>getMethodAnnotations</span> (ReflectionMethod method)
@@ -120,7 +120,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/FileCacheReader.php#L152" >framework\libs\doctrine-common\Doctrine\Common\Annotations\FileCacheReader.php at line 152</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/FileCacheReader.php#L152" target='_blank'>framework\libs\doctrine-common\Doctrine\Common\Annotations\FileCacheReader.php at line 152</a>
 
 <h3 id="getClassAnnotation()">getClassAnnotation</h3>
 <span class='k'></span> <span class='nx'>The</span> <span class='nf'>getClassAnnotation</span> (ReflectionClass class, string annotationName)
@@ -139,7 +139,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/FileCacheReader.php#L172" >framework\libs\doctrine-common\Doctrine\Common\Annotations\FileCacheReader.php at line 172</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/FileCacheReader.php#L172" target='_blank'>framework\libs\doctrine-common\Doctrine\Common\Annotations\FileCacheReader.php at line 172</a>
 
 <h3 id="getMethodAnnotation()">getMethodAnnotation</h3>
 <span class='k'></span> <span class='nx'>The</span> <span class='nf'>getMethodAnnotation</span> (ReflectionMethod method, string annotationName)
@@ -158,7 +158,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/FileCacheReader.php#L192" >framework\libs\doctrine-common\Doctrine\Common\Annotations\FileCacheReader.php at line 192</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/FileCacheReader.php#L192" target='_blank'>framework\libs\doctrine-common\Doctrine\Common\Annotations\FileCacheReader.php at line 192</a>
 
 <h3 id="getPropertyAnnotation()">getPropertyAnnotation</h3>
 <span class='k'></span> <span class='nx'>The</span> <span class='nf'>getPropertyAnnotation</span> (ReflectionProperty property, string annotationName)
@@ -177,7 +177,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/FileCacheReader.php#L205" >framework\libs\doctrine-common\Doctrine\Common\Annotations\FileCacheReader.php at line 205</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/FileCacheReader.php#L205" target='_blank'>framework\libs\doctrine-common\Doctrine\Common\Annotations\FileCacheReader.php at line 205</a>
 
 <h3 id="clearLoadedAnnotations()">clearLoadedAnnotations</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>clearLoadedAnnotations</span> ()

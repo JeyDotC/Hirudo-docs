@@ -5,7 +5,7 @@
 **Symfony\Component\DependencyInjection\Dumper\DumperInterface**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Dumper/DumperInterface.php#L21" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Dumper\DumperInterface.php at line 21</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Dumper/DumperInterface.php#L21" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Dumper\DumperInterface.php at line 21</a>
 
 #Interface DumperInterface#
 
@@ -16,7 +16,7 @@
 
 - - -
 
-<p class="signature"><span class='k'>public  interface</span> <span class='nx'>DumperInterface</span></p>
+<p><strong>public  interface</strong> <span>DumperInterface</span></p>
 
 <div class="comment" id="overview_description"><p>DumperInterface is the interface implemented by service container dumper classes.</p></div>
 
@@ -39,7 +39,7 @@
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Dumper/DumperInterface.php#L32" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Dumper\DumperInterface.php at line 32</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Dumper/DumperInterface.php#L32" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Dumper\DumperInterface.php at line 32</a>
 
 <h3 id="dump()">dump</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>dump</span> (array options)

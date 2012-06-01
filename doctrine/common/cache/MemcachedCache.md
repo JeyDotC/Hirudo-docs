@@ -5,7 +5,7 @@
 **Doctrine\Common\Cache\MemcachedCache**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Cache/MemcachedCache.php#L37" >framework\libs\doctrine-common\Doctrine\Common\Cache\MemcachedCache.php at line 37</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Cache/MemcachedCache.php#L37" target='_blank'>framework\libs\doctrine-common\Doctrine\Common\Cache\MemcachedCache.php at line 37</a>
 
 #Class MemcachedCache#
 
@@ -17,8 +17,8 @@
 
 - - -
 
-<p class="signature"><span class='k'>public  class</span> <span class='nx'>MemcachedCache</span>
-extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/cache/CacheProvider.md">CacheProvider</a>
+<p><strong>public  class</strong> <span>MemcachedCache</span>
+<strong>extends</strong> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/cache/CacheProvider.md">CacheProvider</a>
 
 </p>
 
@@ -84,7 +84,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/com
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Cache/MemcachedCache.php#L49" >framework\libs\doctrine-common\Doctrine\Common\Cache\MemcachedCache.php at line 49</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Cache/MemcachedCache.php#L49" target='_blank'>framework\libs\doctrine-common\Doctrine\Common\Cache\MemcachedCache.php at line 49</a>
 
 <h3 id="setMemcached()">setMemcached</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>setMemcached</span> (Memcached memcached)
@@ -96,7 +96,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/com
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Cache/MemcachedCache.php#L59" >framework\libs\doctrine-common\Doctrine\Common\Cache\MemcachedCache.php at line 59</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Cache/MemcachedCache.php#L59" target='_blank'>framework\libs\doctrine-common\Doctrine\Common\Cache\MemcachedCache.php at line 59</a>
 
 <h3 id="getMemcached()">getMemcached</h3>
 <span class='k'></span> <span class='nx'>Memcached</span> <span class='nf'>getMemcached</span> ()
@@ -108,7 +108,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/com
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Cache/MemcachedCache.php#L67" >framework\libs\doctrine-common\Doctrine\Common\Cache\MemcachedCache.php at line 67</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Cache/MemcachedCache.php#L67" target='_blank'>framework\libs\doctrine-common\Doctrine\Common\Cache\MemcachedCache.php at line 67</a>
 
 <h3 id="doFetch()">doFetch</h3>
 <span class='k'>protected </span> <span class='nx'>string</span> <span class='nf'>doFetch</span> (string id)
@@ -126,7 +126,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/com
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Cache/MemcachedCache.php#L75" >framework\libs\doctrine-common\Doctrine\Common\Cache\MemcachedCache.php at line 75</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Cache/MemcachedCache.php#L75" target='_blank'>framework\libs\doctrine-common\Doctrine\Common\Cache\MemcachedCache.php at line 75</a>
 
 <h3 id="doContains()">doContains</h3>
 <span class='k'>protected </span> <span class='nx'>boolean</span> <span class='nf'>doContains</span> (string id)
@@ -144,7 +144,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/com
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Cache/MemcachedCache.php#L83" >framework\libs\doctrine-common\Doctrine\Common\Cache\MemcachedCache.php at line 83</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Cache/MemcachedCache.php#L83" target='_blank'>framework\libs\doctrine-common\Doctrine\Common\Cache\MemcachedCache.php at line 83</a>
 
 <h3 id="doSave()">doSave</h3>
 <span class='k'>protected </span> <span class='nx'>boolean</span> <span class='nf'>doSave</span> (string id, string data, int lifeTime)
@@ -164,7 +164,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/com
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Cache/MemcachedCache.php#L91" >framework\libs\doctrine-common\Doctrine\Common\Cache\MemcachedCache.php at line 91</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Cache/MemcachedCache.php#L91" target='_blank'>framework\libs\doctrine-common\Doctrine\Common\Cache\MemcachedCache.php at line 91</a>
 
 <h3 id="doDelete()">doDelete</h3>
 <span class='k'>protected </span> <span class='nx'>boolean</span> <span class='nf'>doDelete</span> (string id)
@@ -182,7 +182,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/com
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Cache/MemcachedCache.php#L99" >framework\libs\doctrine-common\Doctrine\Common\Cache\MemcachedCache.php at line 99</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Cache/MemcachedCache.php#L99" target='_blank'>framework\libs\doctrine-common\Doctrine\Common\Cache\MemcachedCache.php at line 99</a>
 
 <h3 id="doFlush()">doFlush</h3>
 <span class='k'>protected </span> <span class='nx'>boolean</span> <span class='nf'>doFlush</span> ()
@@ -198,7 +198,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/com
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Cache/MemcachedCache.php#L107" >framework\libs\doctrine-common\Doctrine\Common\Cache\MemcachedCache.php at line 107</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Cache/MemcachedCache.php#L107" target='_blank'>framework\libs\doctrine-common\Doctrine\Common\Cache\MemcachedCache.php at line 107</a>
 
 <h3 id="doGetStats()">doGetStats</h3>
 <span class='k'>protected </span> <span class='nx'>array</span> <span class='nf'>doGetStats</span> ()

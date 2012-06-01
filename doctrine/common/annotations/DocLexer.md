@@ -5,7 +5,7 @@
 **Doctrine\Common\Annotations\DocLexer**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/DocLexer.php#L33" >framework\libs\doctrine-common\Doctrine\Common\Annotations\DocLexer.php at line 33</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/DocLexer.php#L33" target='_blank'>framework\libs\doctrine-common\Doctrine\Common\Annotations\DocLexer.php at line 33</a>
 
 #Class DocLexer#
 
@@ -17,8 +17,8 @@
 
 - - -
 
-<p class="signature"><span class='k'>public final  class</span> <span class='nx'>DocLexer</span>
-extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/Lexer.md">Lexer</a>
+<p><strong>public final  class</strong> <span>DocLexer</span>
+<strong>extends</strong> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/Lexer.md">Lexer</a>
 
 </p>
 

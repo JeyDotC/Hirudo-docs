@@ -5,7 +5,7 @@
 **Smarty\Smarty_Resource_Custom**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_resource_custom.php#L18" >framework\libs\smarty\sysplugins\smarty_resource_custom.php at line 18</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_resource_custom.php#L18" target='_blank'>framework\libs\smarty\sysplugins\smarty_resource_custom.php at line 18</a>
 
 #Class Smarty_Resource_Custom#
 
@@ -17,8 +17,8 @@
 
 - - -
 
-<p class="signature"><span class='k'>public abstract  class</span> <span class='nx'>Smarty_Resource_Custom</span>
-extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Resource.md">Smarty_Resource</a>
+<p><strong>public abstract  class</strong> <span>Smarty_Resource_Custom</span>
+<strong>extends</strong> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Resource.md">Smarty_Resource</a>
 
 </p>
 
@@ -67,7 +67,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smart
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_resource_custom.php#L27" >framework\libs\smarty\sysplugins\smarty_resource_custom.php at line 27</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_resource_custom.php#L27" target='_blank'>framework\libs\smarty\sysplugins\smarty_resource_custom.php at line 27</a>
 
 <h3 id="fetch()">fetch</h3>
 <span class='k'>protected abstract </span> <span class='nx'>void</span> <span class='nf'>fetch</span> (string name, string &$source, integer &$mtime, mixed source, mixed mtime)
@@ -85,7 +85,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smart
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_resource_custom.php#L38" >framework\libs\smarty\sysplugins\smarty_resource_custom.php at line 38</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_resource_custom.php#L38" target='_blank'>framework\libs\smarty\sysplugins\smarty_resource_custom.php at line 38</a>
 
 <h3 id="fetchTimestamp()">fetchTimestamp</h3>
 <span class='k'>protected </span> <span class='nx'>integer|boolean</span> <span class='nf'>fetchTimestamp</span> (string name)
@@ -104,7 +104,7 @@ Only implement it if modification times can be accessed faster than loading the 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_resource_custom.php#L49" >framework\libs\smarty\sysplugins\smarty_resource_custom.php at line 49</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_resource_custom.php#L49" target='_blank'>framework\libs\smarty\sysplugins\smarty_resource_custom.php at line 49</a>
 
 <h3 id="populate()">populate</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>populate</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Template_Source.md">Smarty_Template_Source</a> source, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> _template)
@@ -121,7 +121,7 @@ Only implement it if modification times can be accessed faster than loading the 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_resource_custom.php#L73" >framework\libs\smarty\sysplugins\smarty_resource_custom.php at line 73</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_resource_custom.php#L73" target='_blank'>framework\libs\smarty\sysplugins\smarty_resource_custom.php at line 73</a>
 
 <h3 id="getContent()">getContent</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>getContent</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Template_Source.md">Smarty_Template_Source</a> source)
@@ -141,7 +141,7 @@ Only implement it if modification times can be accessed faster than loading the 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_resource_custom.php#L89" >framework\libs\smarty\sysplugins\smarty_resource_custom.php at line 89</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_resource_custom.php#L89" target='_blank'>framework\libs\smarty\sysplugins\smarty_resource_custom.php at line 89</a>
 
 <h3 id="getBasename()">getBasename</h3>
 <span class='k'>protected </span> <span class='nx'>string</span> <span class='nf'>getBasename</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Template_Source.md">Smarty_Template_Source</a> source)

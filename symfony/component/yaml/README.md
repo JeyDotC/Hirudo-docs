@@ -4,6 +4,8 @@
 
 #Namespace Symfony\Component\Yaml#
 
+<div><a href='https://github.com/JeyDotC/Hirudo-docs/tree/master/symfony/component/yaml/package-tree.md'>View Class Hierarchy for this Package</a></div>
+
 <table class="title">
 <tr><th colspan="2" class="title">Class Summary</th></tr>
 <tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/yaml/Dumper.md">Dumper</a></td><td class="description">Dumper dumps PHP variables to YAML strings.</td></tr>

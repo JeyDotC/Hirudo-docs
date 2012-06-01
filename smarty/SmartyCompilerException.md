@@ -5,7 +5,7 @@
 **Smarty\SmartyCompilerException**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/Smarty.class.php#L1094" >framework\libs\smarty\Smarty.class.php at line 1094</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/Smarty.class.php#L1094" target='_blank'>framework\libs\smarty\Smarty.class.php at line 1094</a>
 
 #Class SmartyCompilerException#
 
@@ -18,8 +18,8 @@ Exception
 
 - - -
 
-<p class="signature"><span class='k'>public  class</span> <span class='nx'>SmartyCompilerException</span>
-extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/SmartyException.md">SmartyException</a>
+<p><strong>public  class</strong> <span>SmartyCompilerException</span>
+<strong>extends</strong> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/SmartyException.md">SmartyException</a>
 
 </p>
 

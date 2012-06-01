@@ -4,6 +4,8 @@
 
 #Namespace Symfony\Component\DependencyInjection\Exception#
 
+<div><a href='https://github.com/JeyDotC/Hirudo-docs/tree/master/symfony/component/dependencyinjection/exception/package-tree.md'>View Class Hierarchy for this Package</a></div>
+
 <table class="title">
 <tr><th colspan="2" class="title">Class Summary</th></tr>
 <tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/exception/InactiveScopeException.md">InactiveScopeException</a></td><td class="description">This exception is thrown when you try to create a service of an inactive scope.</td></tr>

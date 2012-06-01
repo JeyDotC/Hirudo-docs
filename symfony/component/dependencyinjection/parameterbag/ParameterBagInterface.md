@@ -5,7 +5,7 @@
 **Symfony\Component\DependencyInjection\ParameterBag\ParameterBagInterface**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ParameterBag/ParameterBagInterface.php#L23" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\ParameterBag\ParameterBagInterface.php at line 23</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ParameterBag/ParameterBagInterface.php#L23" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\ParameterBag\ParameterBagInterface.php at line 23</a>
 
 #Interface ParameterBagInterface#
 
@@ -16,7 +16,7 @@
 
 - - -
 
-<p class="signature"><span class='k'>public  interface</span> <span class='nx'>ParameterBagInterface</span></p>
+<p><strong>public  interface</strong> <span>ParameterBagInterface</span></p>
 
 <div class="comment" id="overview_description"><p>ParameterBagInterface.</p></div>
 
@@ -67,7 +67,7 @@
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ParameterBag/ParameterBagInterface.php#L30" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\ParameterBag\ParameterBagInterface.php at line 30</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ParameterBag/ParameterBagInterface.php#L30" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\ParameterBag\ParameterBagInterface.php at line 30</a>
 
 <h3 id="clear()">clear</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>clear</span> ()
@@ -82,7 +82,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ParameterBag/ParameterBagInterface.php#L39" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\ParameterBag\ParameterBagInterface.php at line 39</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ParameterBag/ParameterBagInterface.php#L39" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\ParameterBag\ParameterBagInterface.php at line 39</a>
 
 <h3 id="add()">add</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>add</span> (array parameters)
@@ -99,7 +99,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ParameterBag/ParameterBagInterface.php#L48" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\ParameterBag\ParameterBagInterface.php at line 48</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ParameterBag/ParameterBagInterface.php#L48" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\ParameterBag\ParameterBagInterface.php at line 48</a>
 
 <h3 id="all()">all</h3>
 <span class='k'></span> <span class='nx'>array</span> <span class='nf'>all</span> ()
@@ -116,7 +116,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ParameterBag/ParameterBagInterface.php#L61" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\ParameterBag\ParameterBagInterface.php at line 61</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ParameterBag/ParameterBagInterface.php#L61" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\ParameterBag\ParameterBagInterface.php at line 61</a>
 
 <h3 id="get()">get</h3>
 <span class='k'></span> <span class='nx'>mixed</span> <span class='nf'>get</span> (string name)
@@ -137,7 +137,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ParameterBag/ParameterBagInterface.php#L71" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\ParameterBag\ParameterBagInterface.php at line 71</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ParameterBag/ParameterBagInterface.php#L71" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\ParameterBag\ParameterBagInterface.php at line 71</a>
 
 <h3 id="set()">set</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>set</span> (string name, mixed value)
@@ -155,7 +155,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ParameterBag/ParameterBagInterface.php#L82" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\ParameterBag\ParameterBagInterface.php at line 82</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ParameterBag/ParameterBagInterface.php#L82" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\ParameterBag\ParameterBagInterface.php at line 82</a>
 
 <h3 id="has()">has</h3>
 <span class='k'></span> <span class='nx'>Boolean</span> <span class='nf'>has</span> (string name)
@@ -174,7 +174,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ParameterBag/ParameterBagInterface.php#L87" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\ParameterBag\ParameterBagInterface.php at line 87</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ParameterBag/ParameterBagInterface.php#L87" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\ParameterBag\ParameterBagInterface.php at line 87</a>
 
 <h3 id="resolve()">resolve</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>resolve</span> ()
@@ -186,7 +186,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ParameterBag/ParameterBagInterface.php#L96" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\ParameterBag\ParameterBagInterface.php at line 96</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ParameterBag/ParameterBagInterface.php#L96" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\ParameterBag\ParameterBagInterface.php at line 96</a>
 
 <h3 id="resolveValue()">resolveValue</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>resolveValue</span> (mixed value)

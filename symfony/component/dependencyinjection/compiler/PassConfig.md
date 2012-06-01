@@ -5,7 +5,7 @@
 **Symfony\Component\DependencyInjection\Compiler\PassConfig**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/PassConfig.php#L23" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\PassConfig.php at line 23</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/PassConfig.php#L23" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\PassConfig.php at line 23</a>
 
 #Class PassConfig#
 
@@ -16,7 +16,7 @@
 
 - - -
 
-<p class="signature"><span class='k'>public  class</span> <span class='nx'>PassConfig</span></p>
+<p><strong>public  class</strong> <span>PassConfig</span></p>
 
 <div class="comment" id="overview_description"><p>Compiler Pass Configuration</p><p>This class has a default configuration embedded.</p></div>
 

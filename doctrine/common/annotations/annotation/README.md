@@ -4,6 +4,8 @@
 
 #Namespace Doctrine\Common\Annotations\Annotation#
 
+<div><a href='https://github.com/JeyDotC/Hirudo-docs/tree/master/doctrine/common/annotations/annotation/package-tree.md'>View Class Hierarchy for this Package</a></div>
+
 <table class="title">
 <tr><th colspan="2" class="title">Class Summary</th></tr>
 <tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/annotations/annotation/Attribute.md">Attribute</a></td><td class="description">Annotation that can be used to signal to the parser

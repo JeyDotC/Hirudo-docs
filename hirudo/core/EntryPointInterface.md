@@ -5,7 +5,7 @@
 **Hirudo\Core\EntryPointInterface**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/EntryPointInterface.php#L10" >framework\hirudo\Hirudo\Core\EntryPointInterface.php at line 10</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/EntryPointInterface.php#L10" target='_blank'>framework\hirudo\Hirudo\Core\EntryPointInterface.php at line 10</a>
 
 #Class EntryPointInterface#
 
@@ -16,7 +16,7 @@
 
 - - -
 
-<p class="signature"><span class='k'>public  class</span> <span class='nx'>EntryPointInterface</span></p>
+<p><strong>public  class</strong> <span>EntryPointInterface</span></p>
 
 <div class="comment" id="overview_description"><p></p></div>
 
@@ -39,7 +39,7 @@
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/EntryPointInterface.php#L12" >framework\hirudo\Hirudo\Core\EntryPointInterface.php at line 12</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/EntryPointInterface.php#L12" target='_blank'>framework\hirudo\Hirudo\Core\EntryPointInterface.php at line 12</a>
 
 <h3 id="run()">run</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>run</span> ()

@@ -5,7 +5,7 @@
 **Default namespace\hirudoimpljoomlajoomlafrontView_**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Joomla/views/_/view.xls.php#L29" >framework\hirudo\Hirudo\Impl\Joomla\views\_\view.xls.php at line 29</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Joomla/views/_/view.xls.php#L29" target='_blank'>framework\hirudo\Hirudo\Impl\Joomla\views\_\view.xls.php at line 29</a>
 
 #Class hirudoimpljoomlajoomlafrontView_#
 
@@ -17,8 +17,8 @@ JView
 
 - - -
 
-<p class="signature"><span class='k'>public  class</span> <span class='nx'>hirudoimpljoomlajoomlafrontView_</span>
-extends JView
+<p><strong>public  class</strong> <span>hirudoimpljoomlajoomlafrontView_</span>
+<strong>extends</strong> JView
 
 </p>
 
@@ -38,7 +38,7 @@ extends JView
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Joomla/views/_/view.xls.php#L31" >framework\hirudo\Hirudo\Impl\Joomla\views\_\view.xls.php at line 31</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Joomla/views/_/view.xls.php#L31" target='_blank'>framework\hirudo\Hirudo\Impl\Joomla\views\_\view.xls.php at line 31</a>
 
 <h3 id="display()">display</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>display</span> (mixed tpl)

@@ -5,7 +5,7 @@
 **Symfony\Component\DependencyInjection\Compiler\ResolveDefinitionTemplatesPass**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/ResolveDefinitionTemplatesPass.php#L24" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\ResolveDefinitionTemplatesPass.php at line 24</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/ResolveDefinitionTemplatesPass.php#L24" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\ResolveDefinitionTemplatesPass.php at line 24</a>
 
 #Class ResolveDefinitionTemplatesPass#
 
@@ -21,7 +21,7 @@
 
 - - -
 
-<p class="signature"><span class='k'>public  class</span> <span class='nx'>ResolveDefinitionTemplatesPass</span></p>
+<p><strong>public  class</strong> <span>ResolveDefinitionTemplatesPass</span></p>
 
 <div class="comment" id="overview_description"><p>This replaces all DefinitionDecorator instances with their equivalent fully
 merged Definition instance.</p></div>
@@ -44,7 +44,7 @@ merged Definition instance.</p></div>
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/ResolveDefinitionTemplatesPass.php#L35" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\ResolveDefinitionTemplatesPass.php at line 35</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/ResolveDefinitionTemplatesPass.php#L35" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\ResolveDefinitionTemplatesPass.php at line 35</a>
 
 <h3 id="process()">process</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>process</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/ContainerBuilder.md">ContainerBuilder</a> container)

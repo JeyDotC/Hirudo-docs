@@ -5,7 +5,7 @@
 **Smarty\Smarty_Internal_Write_File**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_write_file.php#L16" >framework\libs\smarty\sysplugins\smarty_internal_write_file.php at line 16</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_write_file.php#L16" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_write_file.php at line 16</a>
 
 #Class Smarty_Internal_Write_File#
 
@@ -16,7 +16,7 @@
 
 - - -
 
-<p class="signature"><span class='k'>public  class</span> <span class='nx'>Smarty_Internal_Write_File</span></p>
+<p><strong>public  class</strong> <span>Smarty_Internal_Write_File</span></p>
 
 <div class="comment" id="overview_description"><p>Smarty Internal Write File Class</p></div>
 
@@ -38,7 +38,7 @@
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_write_file.php#L26" >framework\libs\smarty\sysplugins\smarty_internal_write_file.php at line 26</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_write_file.php#L26" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_write_file.php at line 26</a>
 
 <h3 id="writeFile()">writeFile</h3>
 <span class='k'>static </span> <span class='nx'>boolean</span> <span class='nf'>writeFile</span> (string _filepath, string _contents, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty.md">Smarty</a> smarty)

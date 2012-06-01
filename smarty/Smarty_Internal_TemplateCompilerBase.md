@@ -5,7 +5,7 @@
 **Smarty\Smarty_Internal_TemplateCompilerBase**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatecompilerbase.php#L18" >framework\libs\smarty\sysplugins\smarty_internal_templatecompilerbase.php at line 18</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatecompilerbase.php#L18" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_templatecompilerbase.php at line 18</a>
 
 #Class Smarty_Internal_TemplateCompilerBase#
 
@@ -21,7 +21,7 @@
 
 - - -
 
-<p class="signature"><span class='k'>public abstract  class</span> <span class='nx'>Smarty_Internal_TemplateCompilerBase</span></p>
+<p><strong>public abstract  class</strong> <span>Smarty_Internal_TemplateCompilerBase</span></p>
 
 <div class="comment" id="overview_description"><p>Main abstract compiler class</p></div>
 
@@ -165,7 +165,7 @@ It executes the required compile plugin for the Smarty tag</p></td>
 
 <h2 id="detail_method">Constructor Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatecompilerbase.php#L119" >framework\libs\smarty\sysplugins\smarty_internal_templatecompilerbase.php at line 119</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatecompilerbase.php#L119" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_templatecompilerbase.php at line 119</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> ()
@@ -178,7 +178,7 @@ It executes the required compile plugin for the Smarty tag</p></td>
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatecompilerbase.php#L130" >framework\libs\smarty\sysplugins\smarty_internal_templatecompilerbase.php at line 130</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatecompilerbase.php#L130" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_templatecompilerbase.php at line 130</a>
 
 <h3 id="compileTemplate()">compileTemplate</h3>
 <span class='k'></span> <span class='nx'>bool</span> <span class='nf'>compileTemplate</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> template)
@@ -196,7 +196,7 @@ It executes the required compile plugin for the Smarty tag</p></td>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatecompilerbase.php#L211" >framework\libs\smarty\sysplugins\smarty_internal_templatecompilerbase.php at line 211</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatecompilerbase.php#L211" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_templatecompilerbase.php at line 211</a>
 
 <h3 id="compileTag()">compileTag</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>compileTag</span> (string tag, array args, array parameter)
@@ -217,7 +217,7 @@ It executes the required compile plugin for the Smarty tag</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatecompilerbase.php#L424" >framework\libs\smarty\sysplugins\smarty_internal_templatecompilerbase.php at line 424</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatecompilerbase.php#L424" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_templatecompilerbase.php at line 424</a>
 
 <h3 id="callTagCompiler()">callTagCompiler</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>callTagCompiler</span> (string tag, array args, mixed param1, mixed param2, mixed param3)
@@ -241,7 +241,7 @@ plugin filename format: Smarty_Internal_Tagname.php</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatecompilerbase.php#L453" >framework\libs\smarty\sysplugins\smarty_internal_templatecompilerbase.php at line 453</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatecompilerbase.php#L453" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_templatecompilerbase.php at line 453</a>
 
 <h3 id="getPlugin()">getPlugin</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>getPlugin</span> (string pugin_name, string plugin_type, mixed plugin_name)
@@ -260,7 +260,7 @@ plugin filename format: Smarty_Internal_Tagname.php</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatecompilerbase.php#L508" >framework\libs\smarty\sysplugins\smarty_internal_templatecompilerbase.php at line 508</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatecompilerbase.php#L508" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_templatecompilerbase.php at line 508</a>
 
 <h3 id="getPluginFromDefaultHandler()">getPluginFromDefaultHandler</h3>
 <span class='k'></span> <span class='nx'>boolean</span> <span class='nf'>getPluginFromDefaultHandler</span> (string tag, string plugin_type)
@@ -279,7 +279,7 @@ plugin filename format: Smarty_Internal_Tagname.php</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatecompilerbase.php#L557" >framework\libs\smarty\sysplugins\smarty_internal_templatecompilerbase.php at line 557</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatecompilerbase.php#L557" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_templatecompilerbase.php at line 557</a>
 
 <h3 id="processNocacheCode()">processNocacheCode</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>processNocacheCode</span> (string content, boolean is_code)
@@ -300,7 +300,7 @@ into the rendered output.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatecompilerbase.php#L599" >framework\libs\smarty\sysplugins\smarty_internal_templatecompilerbase.php at line 599</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatecompilerbase.php#L599" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_templatecompilerbase.php at line 599</a>
 
 <h3 id="trigger_template_error()">trigger_template_error</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>trigger_template_error</span> (string args, string line)

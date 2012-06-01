@@ -5,7 +5,7 @@
 **Hirudo\Core\Events\Annotations\ForCall**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Events/Annotations/ForCall.php#L30" >framework\hirudo\Hirudo\Core\Events\Annotations\ForCall.php at line 30</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Events/Annotations/ForCall.php#L30" target='_blank'>framework\hirudo\Hirudo\Core\Events\Annotations\ForCall.php at line 30</a>
 
 #Class ForCall#
 
@@ -16,7 +16,7 @@
 
 - - -
 
-<p class="signature"><span class='k'>public  class</span> <span class='nx'>ForCall</span></p>
+<p><strong>public  class</strong> <span>ForCall</span></p>
 
 <div class="comment" id="overview_description"><p><p>Signals a Task event listener to only listen the event
 when the current call matches the given characteristics.</p></p><p>Example:</p><p><code>

@@ -5,7 +5,7 @@
 **Smarty\Smarty_Internal_Compile_For**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_compile_for.php#L18" >framework\libs\smarty\sysplugins\smarty_internal_compile_for.php at line 18</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_compile_for.php#L18" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_compile_for.php at line 18</a>
 
 #Class Smarty_Internal_Compile_For#
 
@@ -17,8 +17,8 @@
 
 - - -
 
-<p class="signature"><span class='k'>public  class</span> <span class='nx'>Smarty_Internal_Compile_For</span>
-extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_CompileBase.md">Smarty_Internal_CompileBase</a>
+<p><strong>public  class</strong> <span>Smarty_Internal_Compile_For</span>
+<strong>extends</strong> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_CompileBase.md">Smarty_Internal_CompileBase</a>
 
 </p>
 
@@ -51,7 +51,7 @@ For looping over arrays or iterators- {for $x=0; $x</p></td>
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_compile_for.php#L39" >framework\libs\smarty\sysplugins\smarty_internal_compile_for.php at line 39</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_compile_for.php#L39" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_compile_for.php at line 39</a>
 
 <h3 id="compile()">compile</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>compile</span> (array args, object compiler, array parameter)

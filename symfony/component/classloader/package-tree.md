@@ -1,6 +1,10 @@
 - - -
 
-#Class Hierarchy for Package Symfony\Component\ClassLoader#<ul>
+#Class Hierarchy for Package Symfony\Component\ClassLoader
+
+<div><a href='https://github.com/JeyDotC/Hirudo-docs/tree/master/symfony/component/classloader'>Back to package summary</a></div>
+
+<ul>
 <li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/classloader/UniversalClassLoader.md">Symfony\Component\ClassLoader\UniversalClassLoader</a><ul>
 <li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/classloader/ApcUniversalClassLoader.md">Symfony\Component\ClassLoader\ApcUniversalClassLoader</a></li>
 <li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/classloader/DebugUniversalClassLoader.md">Symfony\Component\ClassLoader\DebugUniversalClassLoader</a></li>

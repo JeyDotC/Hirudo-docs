@@ -1,6 +1,10 @@
 - - -
 
-#Class Hierarchy for Package Doctrine\Common\Annotations#<ul>
+#Class Hierarchy for Package Doctrine\Common\Annotations
+
+<div><a href='https://github.com/JeyDotC/Hirudo-docs/tree/master/doctrine/common/annotations'>Back to package summary</a></div>
+
+<ul>
 <li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/annotations/Annotation.md">Doctrine\Common\Annotations\Annotation</a></li>
 <li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/annotations/AnnotationReader.md">Doctrine\Common\Annotations\AnnotationReader</a></li>
 <li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/annotations/AnnotationRegistry.md">Doctrine\Common\Annotations\AnnotationRegistry</a></li>

@@ -1,6 +1,10 @@
 - - -
 
-#Class Hierarchy for Package Symfony\Component\DependencyInjection\Compiler#<ul>
+#Class Hierarchy for Package Symfony\Component\DependencyInjection\Compiler
+
+<div><a href='https://github.com/JeyDotC/Hirudo-docs/tree/master/symfony/component/dependencyinjection/compiler'>Back to package summary</a></div>
+
+<ul>
 <li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/compiler/AnalyzeServiceReferencesPass.md">Symfony\Component\DependencyInjection\Compiler\AnalyzeServiceReferencesPass</a></li>
 <li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/compiler/CheckCircularReferencesPass.md">Symfony\Component\DependencyInjection\Compiler\CheckCircularReferencesPass</a></li>
 <li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/compiler/CheckDefinitionValidityPass.md">Symfony\Component\DependencyInjection\Compiler\CheckDefinitionValidityPass</a></li>

@@ -5,7 +5,7 @@
 **Symfony\Component\DependencyInjection\Compiler\ResolveReferencesToAliasesPass**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/ResolveReferencesToAliasesPass.php#L23" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\ResolveReferencesToAliasesPass.php at line 23</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/ResolveReferencesToAliasesPass.php#L23" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\ResolveReferencesToAliasesPass.php at line 23</a>
 
 #Class ResolveReferencesToAliasesPass#
 
@@ -21,7 +21,7 @@
 
 - - -
 
-<p class="signature"><span class='k'>public  class</span> <span class='nx'>ResolveReferencesToAliasesPass</span></p>
+<p><strong>public  class</strong> <span>ResolveReferencesToAliasesPass</span></p>
 
 <div class="comment" id="overview_description"><p>Replaces all references to aliases with references to the actual service.</p></div>
 
@@ -43,7 +43,7 @@
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/ResolveReferencesToAliasesPass.php#L32" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\ResolveReferencesToAliasesPass.php at line 32</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/ResolveReferencesToAliasesPass.php#L32" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\ResolveReferencesToAliasesPass.php at line 32</a>
 
 <h3 id="process()">process</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>process</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/ContainerBuilder.md">ContainerBuilder</a> container)

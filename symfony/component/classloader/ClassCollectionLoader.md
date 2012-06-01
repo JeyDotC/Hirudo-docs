@@ -5,7 +5,7 @@
 **Symfony\Component\ClassLoader\ClassCollectionLoader**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/ClassLoader/ClassCollectionLoader.php#L19" >framework\libs\symfony-components\Symfony\Component\ClassLoader\ClassCollectionLoader.php at line 19</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/ClassLoader/ClassCollectionLoader.php#L19" target='_blank'>framework\libs\symfony-components\Symfony\Component\ClassLoader\ClassCollectionLoader.php at line 19</a>
 
 #Class ClassCollectionLoader#
 
@@ -16,7 +16,7 @@
 
 - - -
 
-<p class="signature"><span class='k'>public  class</span> <span class='nx'>ClassCollectionLoader</span></p>
+<p><strong>public  class</strong> <span>ClassCollectionLoader</span></p>
 
 <div class="comment" id="overview_description"><p>ClassCollectionLoader.</p></div>
 
@@ -42,7 +42,7 @@
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/ClassLoader/ClassCollectionLoader.php#L35" >framework\libs\symfony-components\Symfony\Component\ClassLoader\ClassCollectionLoader.php at line 35</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/ClassLoader/ClassCollectionLoader.php#L35" target='_blank'>framework\libs\symfony-components\Symfony\Component\ClassLoader\ClassCollectionLoader.php at line 35</a>
 
 <h3 id="load()">load</h3>
 <span class='k'>static </span> <span class='nx'>void</span> <span class='nf'>load</span> (array classes, string cacheDir, string name, Boolean autoReload, Boolean adaptive, string extension)
@@ -65,7 +65,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/ClassLoader/ClassCollectionLoader.php#L126" >framework\libs\symfony-components\Symfony\Component\ClassLoader\ClassCollectionLoader.php at line 126</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/ClassLoader/ClassCollectionLoader.php#L126" target='_blank'>framework\libs\symfony-components\Symfony\Component\ClassLoader\ClassCollectionLoader.php at line 126</a>
 
 <h3 id="fixNamespaceDeclarations()">fixNamespaceDeclarations</h3>
 <span class='k'>static </span> <span class='nx'>string</span> <span class='nf'>fixNamespaceDeclarations</span> (string source)

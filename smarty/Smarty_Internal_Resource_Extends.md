@@ -5,7 +5,7 @@
 **Smarty\Smarty_Internal_Resource_Extends**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_resource_extends.php#L19" >framework\libs\smarty\sysplugins\smarty_internal_resource_extends.php at line 19</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_resource_extends.php#L19" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_resource_extends.php at line 19</a>
 
 #Class Smarty_Internal_Resource_Extends#
 
@@ -17,8 +17,8 @@
 
 - - -
 
-<p class="signature"><span class='k'>public  class</span> <span class='nx'>Smarty_Internal_Resource_Extends</span>
-extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Resource.md">Smarty_Resource</a>
+<p><strong>public  class</strong> <span>Smarty_Internal_Resource_Extends</span>
+<strong>extends</strong> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Resource.md">Smarty_Resource</a>
 
 </p>
 
@@ -73,7 +73,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smart
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_resource_extends.php#L34" >framework\libs\smarty\sysplugins\smarty_internal_resource_extends.php at line 34</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_resource_extends.php#L34" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_resource_extends.php at line 34</a>
 
 <h3 id="populate()">populate</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>populate</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Template_Source.md">Smarty_Template_Source</a> source, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> _template)
@@ -90,7 +90,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smart
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_resource_extends.php#L67" >framework\libs\smarty\sysplugins\smarty_internal_resource_extends.php at line 67</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_resource_extends.php#L67" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_resource_extends.php at line 67</a>
 
 <h3 id="populateTimestamp()">populateTimestamp</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>populateTimestamp</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Template_Source.md">Smarty_Template_Source</a> source)
@@ -106,7 +106,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smart
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_resource_extends.php#L83" >framework\libs\smarty\sysplugins\smarty_internal_resource_extends.php at line 83</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_resource_extends.php#L83" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_resource_extends.php at line 83</a>
 
 <h3 id="getContent()">getContent</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>getContent</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Template_Source.md">Smarty_Template_Source</a> source)
@@ -126,7 +126,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smart
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_resource_extends.php#L150" >framework\libs\smarty\sysplugins\smarty_internal_resource_extends.php at line 150</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_resource_extends.php#L150" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_resource_extends.php at line 150</a>
 
 <h3 id="getBasename()">getBasename</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>getBasename</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Template_Source.md">Smarty_Template_Source</a> source)

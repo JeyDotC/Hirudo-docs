@@ -5,7 +5,7 @@
 **Symfony\Component\DependencyInjection\Compiler\AnalyzeServiceReferencesPass**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/AnalyzeServiceReferencesPass.php#L27" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\AnalyzeServiceReferencesPass.php at line 27</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/AnalyzeServiceReferencesPass.php#L27" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\AnalyzeServiceReferencesPass.php at line 27</a>
 
 #Class AnalyzeServiceReferencesPass#
 
@@ -16,7 +16,7 @@
 
 - - -
 
-<p class="signature"><span class='k'>public  class</span> <span class='nx'>AnalyzeServiceReferencesPass</span></p>
+<p><strong>public  class</strong> <span>AnalyzeServiceReferencesPass</span></p>
 
 <div class="comment" id="overview_description"><p>Run this pass before passes that need to know more about the relation of
 your services.</p><p>This class will populate the ServiceReferenceGraph with information. You can
@@ -52,7 +52,7 @@ retrieve the graph in other passes from the compiler.</p></div>
 
 <h2 id="detail_method">Constructor Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/AnalyzeServiceReferencesPass.php#L41" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\AnalyzeServiceReferencesPass.php at line 41</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/AnalyzeServiceReferencesPass.php#L41" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\AnalyzeServiceReferencesPass.php at line 41</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (Boolean onlyConstructorArguments)
@@ -69,7 +69,7 @@ retrieve the graph in other passes from the compiler.</p></div>
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/AnalyzeServiceReferencesPass.php#L49" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\AnalyzeServiceReferencesPass.php at line 49</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/AnalyzeServiceReferencesPass.php#L49" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\AnalyzeServiceReferencesPass.php at line 49</a>
 
 <h3 id="setRepeatedPass()">setRepeatedPass</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>setRepeatedPass</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/compiler/RepeatedPass.md">RepeatedPass</a> repeatedPass)
@@ -81,7 +81,7 @@ retrieve the graph in other passes from the compiler.</p></div>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/AnalyzeServiceReferencesPass.php#L58" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\AnalyzeServiceReferencesPass.php at line 58</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/AnalyzeServiceReferencesPass.php#L58" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\AnalyzeServiceReferencesPass.php at line 58</a>
 
 <h3 id="process()">process</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>process</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/ContainerBuilder.md">ContainerBuilder</a> container)

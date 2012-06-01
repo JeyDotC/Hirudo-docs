@@ -5,7 +5,7 @@
 **Smarty\Smarty_Internal_TemplateBase**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatebase.php#L18" >framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 18</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatebase.php#L18" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 18</a>
 
 #Class Smarty_Internal_TemplateBase#
 
@@ -22,8 +22,8 @@
 
 - - -
 
-<p class="signature"><span class='k'>public abstract  class</span> <span class='nx'>Smarty_Internal_TemplateBase</span>
-extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Data.md">Smarty_Internal_Data</a>
+<p><strong>public abstract  class</strong> <span>Smarty_Internal_TemplateBase</span>
+<strong>extends</strong> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Data.md">Smarty_Internal_Data</a>
 
 </p>
 
@@ -135,7 +135,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smart
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatebase.php#L32" >framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 32</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatebase.php#L32" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 32</a>
 
 <h3 id="fetch()">fetch</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>fetch</span> (string template, mixed cache_id, mixed compile_id, object parent, bool display, bool merge_tpl_vars, bool no_output_filter)
@@ -159,7 +159,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smart
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatebase.php#L371" >framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 371</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatebase.php#L371" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 371</a>
 
 <h3 id="display()">display</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>display</span> (string template, mixed cache_id, mixed compile_id, object parent)
@@ -178,7 +178,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smart
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatebase.php#L386" >framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 386</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatebase.php#L386" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 386</a>
 
 <h3 id="isCached()">isCached</h3>
 <span class='k'></span> <span class='nx'>boolean</span> <span class='nf'>isCached</span> (string|object template, mixed cache_id, mixed compile_id, object parent)
@@ -199,7 +199,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smart
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatebase.php#L407" >framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 407</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatebase.php#L407" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 407</a>
 
 <h3 id="createData()">createData</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>createData</span> (object parent)
@@ -217,7 +217,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smart
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatebase.php#L423" >framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 423</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatebase.php#L423" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 423</a>
 
 <h3 id="registerPlugin()">registerPlugin</h3>
 <span class='k'></span> <span class='nx'>Smarty_Internal_Templatebase</span> <span class='nf'>registerPlugin</span> (string type, string tag, callback callback, boolean cacheable, array cache_attr)
@@ -241,7 +241,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smart
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatebase.php#L443" >framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 443</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatebase.php#L443" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 443</a>
 
 <h3 id="unregisterPlugin()">unregisterPlugin</h3>
 <span class='k'></span> <span class='nx'>Smarty_Internal_Templatebase</span> <span class='nf'>unregisterPlugin</span> (string type, string tag)
@@ -260,7 +260,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smart
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatebase.php#L459" >framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 459</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatebase.php#L459" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 459</a>
 
 <h3 id="registerResource()">registerResource</h3>
 <span class='k'></span> <span class='nx'>Smarty_Internal_Templatebase</span> <span class='nf'>registerResource</span> (string type, Smarty_Resource|array callback)
@@ -279,7 +279,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smart
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatebase.php#L471" >framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 471</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatebase.php#L471" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 471</a>
 
 <h3 id="unregisterResource()">unregisterResource</h3>
 <span class='k'></span> <span class='nx'>Smarty_Internal_Templatebase</span> <span class='nf'>unregisterResource</span> (string type)
@@ -297,7 +297,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smart
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatebase.php#L487" >framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 487</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatebase.php#L487" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 487</a>
 
 <h3 id="registerCacheResource()">registerCacheResource</h3>
 <span class='k'></span> <span class='nx'>Smarty_Internal_Templatebase</span> <span class='nf'>registerCacheResource</span> (string type, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_CacheResource.md">Smarty_CacheResource</a> callback)
@@ -316,7 +316,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smart
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatebase.php#L499" >framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 499</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatebase.php#L499" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 499</a>
 
 <h3 id="unregisterCacheResource()">unregisterCacheResource</h3>
 <span class='k'></span> <span class='nx'>Smarty_Internal_Templatebase</span> <span class='nf'>unregisterCacheResource</span> (string type)
@@ -334,7 +334,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smart
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatebase.php#L520" >framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 520</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatebase.php#L520" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 520</a>
 
 <h3 id="registerObject()">registerObject</h3>
 <span class='k'></span> <span class='nx'>Smarty_Internal_Templatebase</span> <span class='nf'>registerObject</span> (string object, object object_impl, array allowed, boolean smarty_args, array block_methods, array block_functs, mixed object_name)
@@ -359,7 +359,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smart
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatebase.php#L551" >framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 551</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatebase.php#L551" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 551</a>
 
 <h3 id="getRegisteredObject()">getRegisteredObject</h3>
 <span class='k'></span> <span class='nx'>object</span> <span class='nf'>getRegisteredObject</span> (string name)
@@ -377,7 +377,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smart
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatebase.php#L568" >framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 568</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatebase.php#L568" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 568</a>
 
 <h3 id="unregisterObject()">unregisterObject</h3>
 <span class='k'></span> <span class='nx'>Smarty_Internal_Templatebase</span> <span class='nf'>unregisterObject</span> (string name)
@@ -395,7 +395,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smart
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatebase.php#L585" >framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 585</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatebase.php#L585" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 585</a>
 
 <h3 id="registerClass()">registerClass</h3>
 <span class='k'></span> <span class='nx'>Smarty_Internal_Templatebase</span> <span class='nf'>registerClass</span> (string class, string class_impl, mixed class_name)
@@ -416,7 +416,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smart
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatebase.php#L603" >framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 603</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatebase.php#L603" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 603</a>
 
 <h3 id="registerDefaultPluginHandler()">registerDefaultPluginHandler</h3>
 <span class='k'></span> <span class='nx'>Smarty_Internal_Templatebase</span> <span class='nf'>registerDefaultPluginHandler</span> (callable callback)
@@ -436,7 +436,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smart
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatebase.php#L621" >framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 621</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatebase.php#L621" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 621</a>
 
 <h3 id="registerDefaultTemplateHandler()">registerDefaultTemplateHandler</h3>
 <span class='k'></span> <span class='nx'>Smarty_Internal_Templatebase</span> <span class='nf'>registerDefaultTemplateHandler</span> (callable callback)
@@ -456,7 +456,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smart
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatebase.php#L639" >framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 639</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatebase.php#L639" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 639</a>
 
 <h3 id="registerDefaultConfigHandler()">registerDefaultConfigHandler</h3>
 <span class='k'></span> <span class='nx'>Smarty_Internal_Templatebase</span> <span class='nf'>registerDefaultConfigHandler</span> (callable callback)
@@ -476,7 +476,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smart
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatebase.php#L657" >framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 657</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatebase.php#L657" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 657</a>
 
 <h3 id="registerFilter()">registerFilter</h3>
 <span class='k'></span> <span class='nx'>Smarty_Internal_Templatebase</span> <span class='nf'>registerFilter</span> (string type, callback callback)
@@ -495,7 +495,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smart
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatebase.php#L670" >framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 670</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatebase.php#L670" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 670</a>
 
 <h3 id="unregisterFilter()">unregisterFilter</h3>
 <span class='k'></span> <span class='nx'>Smarty_Internal_Templatebase</span> <span class='nf'>unregisterFilter</span> (string type, callback callback)
@@ -514,7 +514,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smart
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatebase.php#L704" >framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 704</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatebase.php#L704" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 704</a>
 
 <h3 id="loadFilter()">loadFilter</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>loadFilter</span> (string type, string name)
@@ -533,7 +533,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smart
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatebase.php#L727" >framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 727</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatebase.php#L727" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 727</a>
 
 <h3 id="unloadFilter()">unloadFilter</h3>
 <span class='k'></span> <span class='nx'>Smarty_Internal_Templatebase</span> <span class='nf'>unloadFilter</span> (string type, string name)

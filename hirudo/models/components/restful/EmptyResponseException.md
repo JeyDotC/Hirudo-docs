@@ -5,7 +5,7 @@
 **Hirudo\Models\Components\Restful\EmptyResponseException**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Models/Components/Restful/RESTfulComponent.php#L27" >framework\hirudo\Hirudo\Models\Components\Restful\RESTfulComponent.php at line 27</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Models/Components/Restful/RESTfulComponent.php#L27" target='_blank'>framework\hirudo\Hirudo\Models\Components\Restful\RESTfulComponent.php at line 27</a>
 
 #Class EmptyResponseException#
 
@@ -17,8 +17,8 @@ Exception
 
 - - -
 
-<p class="signature"><span class='k'>public  class</span> <span class='nx'>EmptyResponseException</span>
-extends Exception
+<p><strong>public  class</strong> <span>EmptyResponseException</span>
+<strong>extends</strong> Exception
 
 </p>
 
@@ -45,7 +45,7 @@ along with Hirudo.  If not, see <http://www.gnu.org/licenses/>.</p></div>
 
 <h2 id="detail_method">Constructor Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Models/Components/Restful/RESTfulComponent.php#L29" >framework\hirudo\Hirudo\Models\Components\Restful\RESTfulComponent.php at line 29</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Models/Components/Restful/RESTfulComponent.php#L29" target='_blank'>framework\hirudo\Hirudo\Models\Components\Restful\RESTfulComponent.php at line 29</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (mixed url)

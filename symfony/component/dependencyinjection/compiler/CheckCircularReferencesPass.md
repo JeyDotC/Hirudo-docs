@@ -5,7 +5,7 @@
 **Symfony\Component\DependencyInjection\Compiler\CheckCircularReferencesPass**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/CheckCircularReferencesPass.php#L27" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\CheckCircularReferencesPass.php at line 27</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/CheckCircularReferencesPass.php#L27" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\CheckCircularReferencesPass.php at line 27</a>
 
 #Class CheckCircularReferencesPass#
 
@@ -16,7 +16,7 @@
 
 - - -
 
-<p class="signature"><span class='k'>public  class</span> <span class='nx'>CheckCircularReferencesPass</span></p>
+<p><strong>public  class</strong> <span>CheckCircularReferencesPass</span></p>
 
 <div class="comment" id="overview_description"><p>Checks your services for circular references</p><p>References from method calls are ignored since we might be able to resolve
 these references depending on the order in which services are called.</p><p>Circular reference from method calls will only be detected at run-time.</p></div>
@@ -39,7 +39,7 @@ these references depending on the order in which services are called.</p><p>Circ
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/CheckCircularReferencesPass.php#L37" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\CheckCircularReferencesPass.php at line 37</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/CheckCircularReferencesPass.php#L37" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\CheckCircularReferencesPass.php at line 37</a>
 
 <h3 id="process()">process</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>process</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/ContainerBuilder.md">ContainerBuilder</a> container)

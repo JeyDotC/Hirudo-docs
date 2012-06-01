@@ -5,7 +5,7 @@
 **Hirudo\Core\Context\AppConfig**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Context/AppConfig.php#L35" >framework\hirudo\Hirudo\Core\Context\AppConfig.php at line 35</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Context/AppConfig.php#L35" target='_blank'>framework\hirudo\Hirudo\Core\Context\AppConfig.php at line 35</a>
 
 #Class AppConfig#
 
@@ -21,7 +21,7 @@
 
 - - -
 
-<p class="signature"><span class='k'>public abstract  class</span> <span class='nx'>AppConfig</span></p>
+<p><strong>public abstract  class</strong> <span>AppConfig</span></p>
 
 <div class="comment" id="overview_description"><p><p><strong>WARNING:</strong> AS THE CONFIGURATION SYSTEM IS NOT COMPLETE, THIS
 CLASS IS SUBJECT TO DRASTIC CHANGES IN THE NEAR FUTURE.
@@ -59,7 +59,7 @@ based on the host CMS.</p></p></div>
 
 <h2 id="detail_method">Constructor Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Context/AppConfig.php#L40" >framework\hirudo\Hirudo\Core\Context\AppConfig.php at line 40</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Context/AppConfig.php#L40" target='_blank'>framework\hirudo\Hirudo\Core\Context\AppConfig.php at line 40</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> ()
@@ -72,7 +72,7 @@ based on the host CMS.</p></p></div>
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Context/AppConfig.php#L47" >framework\hirudo\Hirudo\Core\Context\AppConfig.php at line 47</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Context/AppConfig.php#L47" target='_blank'>framework\hirudo\Hirudo\Core\Context\AppConfig.php at line 47</a>
 
 <h3 id="load()">load</h3>
 <span class='k'>protected abstract </span> <span class='nx'>void</span> <span class='nf'>load</span> ()
@@ -84,7 +84,7 @@ based on the host CMS.</p></p></div>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Context/AppConfig.php#L58" >framework\hirudo\Hirudo\Core\Context\AppConfig.php at line 58</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Context/AppConfig.php#L58" target='_blank'>framework\hirudo\Hirudo\Core\Context\AppConfig.php at line 58</a>
 
 <h3 id="get()">get</h3>
 <span class='k'>abstract </span> <span class='nx'>mixed</span> <span class='nf'>get</span> (string key, mixed default)

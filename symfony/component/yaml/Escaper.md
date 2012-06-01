@@ -5,7 +5,7 @@
 **Symfony\Component\Yaml\Escaper**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/Yaml/Escaper.php#L19" >framework\libs\symfony-components\Symfony\Component\Yaml\Escaper.php at line 19</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/Yaml/Escaper.php#L19" target='_blank'>framework\libs\symfony-components\Symfony\Component\Yaml\Escaper.php at line 19</a>
 
 #Class Escaper#
 
@@ -16,7 +16,7 @@
 
 - - -
 
-<p class="signature"><span class='k'>public  class</span> <span class='nx'>Escaper</span></p>
+<p><strong>public  class</strong> <span>Escaper</span></p>
 
 <div class="comment" id="overview_description"><p>Escaper encapsulates escaping rules for single and double-quoted
 YAML strings.</p></div>
@@ -51,7 +51,7 @@ YAML strings.</p></div>
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/Yaml/Escaper.php#L32" >framework\libs\symfony-components\Symfony\Component\Yaml\Escaper.php at line 32</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/Yaml/Escaper.php#L32" target='_blank'>framework\libs\symfony-components\Symfony\Component\Yaml\Escaper.php at line 32</a>
 
 <h3 id="requiresDoubleQuoting()">requiresDoubleQuoting</h3>
 <span class='k'>static </span> <span class='nx'>Boolean</span> <span class='nf'>requiresDoubleQuoting</span> (string value)
@@ -69,7 +69,7 @@ YAML strings.</p></div>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/Yaml/Escaper.php#L44" >framework\libs\symfony-components\Symfony\Component\Yaml\Escaper.php at line 44</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/Yaml/Escaper.php#L44" target='_blank'>framework\libs\symfony-components\Symfony\Component\Yaml\Escaper.php at line 44</a>
 
 <h3 id="escapeWithDoubleQuotes()">escapeWithDoubleQuotes</h3>
 <span class='k'>static </span> <span class='nx'>string</span> <span class='nf'>escapeWithDoubleQuotes</span> (string value)
@@ -87,7 +87,7 @@ YAML strings.</p></div>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/Yaml/Escaper.php#L56" >framework\libs\symfony-components\Symfony\Component\Yaml\Escaper.php at line 56</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/Yaml/Escaper.php#L56" target='_blank'>framework\libs\symfony-components\Symfony\Component\Yaml\Escaper.php at line 56</a>
 
 <h3 id="requiresSingleQuoting()">requiresSingleQuoting</h3>
 <span class='k'>static </span> <span class='nx'>Boolean</span> <span class='nf'>requiresSingleQuoting</span> (string value)
@@ -105,7 +105,7 @@ YAML strings.</p></div>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/Yaml/Escaper.php#L68" >framework\libs\symfony-components\Symfony\Component\Yaml\Escaper.php at line 68</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/Yaml/Escaper.php#L68" target='_blank'>framework\libs\symfony-components\Symfony\Component\Yaml\Escaper.php at line 68</a>
 
 <h3 id="escapeWithSingleQuotes()">escapeWithSingleQuotes</h3>
 <span class='k'>static </span> <span class='nx'>string</span> <span class='nf'>escapeWithSingleQuotes</span> (string value)

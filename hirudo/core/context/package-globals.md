@@ -14,7 +14,7 @@
 
 <h2 id="detail_global">Global Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Context/Session.php#L32" >framework\hirudo\Hirudo\Core\Context\Session.php at line 32</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Context/Session.php#L32" target='_blank'>framework\hirudo\Hirudo\Core\Context\Session.php at line 32</a>
 
 <h3 id="ACTIVE">ACTIVE</h3>
 ```php

@@ -5,7 +5,7 @@
 **Symfony\Component\DependencyInjection\ContainerAware**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ContainerAware.php#L21" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerAware.php at line 21</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ContainerAware.php#L21" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerAware.php at line 21</a>
 
 #Class ContainerAware#
 
@@ -21,7 +21,7 @@
 
 - - -
 
-<p class="signature"><span class='k'>public  class</span> <span class='nx'>ContainerAware</span></p>
+<p><strong>public  class</strong> <span>ContainerAware</span></p>
 
 <div class="comment" id="overview_description"><p>A simple implementation of ContainerAwareInterface.</p></div>
 
@@ -55,7 +55,7 @@
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ContainerAware.php#L37" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerAware.php at line 37</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ContainerAware.php#L37" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerAware.php at line 37</a>
 
 <h3 id="setContainer()">setContainer</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>setContainer</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/ContainerInterface.md">ContainerInterface</a> container)

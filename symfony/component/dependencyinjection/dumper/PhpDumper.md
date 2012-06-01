@@ -5,7 +5,7 @@
 **Symfony\Component\DependencyInjection\Dumper\PhpDumper**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Dumper/PhpDumper.php#L31" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Dumper\PhpDumper.php at line 31</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Dumper/PhpDumper.php#L31" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Dumper\PhpDumper.php at line 31</a>
 
 #Class PhpDumper#
 
@@ -17,8 +17,8 @@
 
 - - -
 
-<p class="signature"><span class='k'>public  class</span> <span class='nx'>PhpDumper</span>
-extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/dumper/Dumper.md">Dumper</a>
+<p><strong>public  class</strong> <span>PhpDumper</span>
+<strong>extends</strong> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/dumper/Dumper.md">Dumper</a>
 
 </p>
 
@@ -65,7 +65,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/comp
 
 <h2 id="detail_method">Constructor Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Dumper/PhpDumper.php#L44" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Dumper\PhpDumper.php at line 44</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Dumper/PhpDumper.php#L44" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Dumper\PhpDumper.php at line 44</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/ContainerBuilder.md">ContainerBuilder</a> container)
@@ -83,7 +83,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/comp
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Dumper/PhpDumper.php#L65" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Dumper\PhpDumper.php at line 65</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Dumper/PhpDumper.php#L65" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Dumper\PhpDumper.php at line 65</a>
 
 <h3 id="dump()">dump</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>dump</span> (array options)
@@ -103,7 +103,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/comp
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Dumper/PhpDumper.php#L1030" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Dumper\PhpDumper.php at line 1030</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Dumper/PhpDumper.php#L1030" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Dumper\PhpDumper.php at line 1030</a>
 
 <h3 id="dumpParameter()">dumpParameter</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>dumpParameter</span> (string name)

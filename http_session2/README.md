@@ -4,6 +4,8 @@
 
 #Namespace HTTP_Session2#
 
+<div><a href='https://github.com/JeyDotC/Hirudo-docs/tree/master/http_session2/package-tree.md'>View Class Hierarchy for this Package</a></div>
+
 <table class="title">
 <tr><th colspan="2" class="title">Class Summary</th></tr>
 <tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/http_session2/HTTP_Session2.md">HTTP_Session2</a></td><td class="description">Class for managing HTTP sessionsProvides access to session-state values as well as session-level

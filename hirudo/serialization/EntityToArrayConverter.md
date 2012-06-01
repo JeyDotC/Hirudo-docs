@@ -5,7 +5,7 @@
 **Hirudo\Serialization\EntityToArrayConverter**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Serialization/EntityToArrayConverter.php#L28" >framework\hirudo\Hirudo\Serialization\EntityToArrayConverter.php at line 28</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Serialization/EntityToArrayConverter.php#L28" target='_blank'>framework\hirudo\Hirudo\Serialization\EntityToArrayConverter.php at line 28</a>
 
 #Class EntityToArrayConverter#
 
@@ -16,7 +16,7 @@
 
 - - -
 
-<p class="signature"><span class='k'>public  class</span> <span class='nx'>EntityToArrayConverter</span></p>
+<p><strong>public  class</strong> <span>EntityToArrayConverter</span></p>
 
 <div class="comment" id="overview_description"><p>An entity normilizer. Converts an entity into an array so it can be easily
 serialized into any text format.</p></div>
@@ -35,7 +35,7 @@ serialized into any text format.</p></div>
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Serialization/EntityToArrayConverter.php#L36" >framework\hirudo\Hirudo\Serialization\EntityToArrayConverter.php at line 36</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Serialization/EntityToArrayConverter.php#L36" target='_blank'>framework\hirudo\Hirudo\Serialization\EntityToArrayConverter.php at line 36</a>
 
 <h3 id="convert()">convert</h3>
 <span class='k'></span> <span class='nx'>array</span> <span class='nf'>convert</span> (mixed entity, bool ignoreUnsetValues)

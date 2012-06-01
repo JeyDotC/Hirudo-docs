@@ -5,7 +5,7 @@
 **Symfony\Component\EventDispatcher\EventSubscriberInterface**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/EventDispatcher/EventSubscriberInterface.php#L29" >framework\libs\symfony-components\Symfony\Component\EventDispatcher\EventSubscriberInterface.php at line 29</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/EventDispatcher/EventSubscriberInterface.php#L29" target='_blank'>framework\libs\symfony-components\Symfony\Component\EventDispatcher\EventSubscriberInterface.php at line 29</a>
 
 #Interface EventSubscriberInterface#
 
@@ -16,7 +16,7 @@
 
 - - -
 
-<p class="signature"><span class='k'>public  interface</span> <span class='nx'>EventSubscriberInterface</span></p>
+<p><strong>public  interface</strong> <span>EventSubscriberInterface</span></p>
 
 <div class="comment" id="overview_description"><p>An EventSubscriber knows himself what events he is interested in.
 If an EventSubscriber is added to an EventDispatcherInterface, the manager invokes
@@ -50,7 +50,7 @@ returned events.</p></div>
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/EventDispatcher/EventSubscriberInterface.php#L48" >framework\libs\symfony-components\Symfony\Component\EventDispatcher\EventSubscriberInterface.php at line 48</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/EventDispatcher/EventSubscriberInterface.php#L48" target='_blank'>framework\libs\symfony-components\Symfony\Component\EventDispatcher\EventSubscriberInterface.php at line 48</a>
 
 <h3 id="getSubscribedEvents()">getSubscribedEvents</h3>
 <span class='k'>static </span> <span class='nx'>array</span> <span class='nf'>getSubscribedEvents</span> ()

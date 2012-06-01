@@ -5,7 +5,7 @@
 **Hirudo\Core\Events\BeforeTaskEvent**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Events/BeforeTaskEvent.php#L34" >framework\hirudo\Hirudo\Core\Events\BeforeTaskEvent.php at line 34</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Events/BeforeTaskEvent.php#L34" target='_blank'>framework\hirudo\Hirudo\Core\Events\BeforeTaskEvent.php at line 34</a>
 
 #Class BeforeTaskEvent#
 
@@ -17,8 +17,8 @@
 
 - - -
 
-<p class="signature"><span class='k'>public  class</span> <span class='nx'>BeforeTaskEvent</span>
-extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/eventdispatcher/Event.md">Event</a>
+<p><strong>public  class</strong> <span>BeforeTaskEvent</span>
+<strong>extends</strong> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/eventdispatcher/Event.md">Event</a>
 
 </p>
 
@@ -71,7 +71,7 @@ process to work acordingly to the new ModuleCall.</p></td>
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Events/BeforeTaskEvent.php#L47" >framework\hirudo\Hirudo\Core\Events\BeforeTaskEvent.php at line 47</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Events/BeforeTaskEvent.php#L47" target='_blank'>framework\hirudo\Hirudo\Core\Events\BeforeTaskEvent.php at line 47</a>
 
 <h3 id="setParam()">setParam</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>setParam</span> (string name, mixed value)
@@ -88,7 +88,7 @@ process to work acordingly to the new ModuleCall.</p></td>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Events/BeforeTaskEvent.php#L58" >framework\hirudo\Hirudo\Core\Events\BeforeTaskEvent.php at line 58</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Events/BeforeTaskEvent.php#L58" target='_blank'>framework\hirudo\Hirudo\Core\Events\BeforeTaskEvent.php at line 58</a>
 
 <h3 id="getParam()">getParam</h3>
 <span class='k'></span> <span class='nx'>mixed</span> <span class='nf'>getParam</span> (string name)
@@ -106,7 +106,7 @@ process to work acordingly to the new ModuleCall.</p></td>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Events/BeforeTaskEvent.php#L68" >framework\hirudo\Hirudo\Core\Events\BeforeTaskEvent.php at line 68</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Events/BeforeTaskEvent.php#L68" target='_blank'>framework\hirudo\Hirudo\Core\Events\BeforeTaskEvent.php at line 68</a>
 
 <h3 id="replaceCall()">replaceCall</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>replaceCall</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/context/ModuleCall.md">ModuleCall</a> call)
@@ -123,7 +123,7 @@ process to work acordingly to the new ModuleCall.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Events/BeforeTaskEvent.php#L78" >framework\hirudo\Hirudo\Core\Events\BeforeTaskEvent.php at line 78</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Events/BeforeTaskEvent.php#L78" target='_blank'>framework\hirudo\Hirudo\Core\Events\BeforeTaskEvent.php at line 78</a>
 
 <h3 id="getCall()">getCall</h3>
 <span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/ModuleCall>ModuleCall</a></span> <span class='nf'>getCall</span> ()
@@ -135,7 +135,7 @@ process to work acordingly to the new ModuleCall.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Events/BeforeTaskEvent.php#L88" >framework\hirudo\Hirudo\Core\Events\BeforeTaskEvent.php at line 88</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Events/BeforeTaskEvent.php#L88" target='_blank'>framework\hirudo\Hirudo\Core\Events\BeforeTaskEvent.php at line 88</a>
 
 <h3 id="getCallReplaced()">getCallReplaced</h3>
 <span class='k'></span> <span class='nx'>boolean</span> <span class='nf'>getCallReplaced</span> ()

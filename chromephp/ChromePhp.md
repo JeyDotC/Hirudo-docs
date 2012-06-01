@@ -5,7 +5,7 @@
 **ChromePhp\ChromePhp**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/ChromePhp.php#L25" >ChromePhp.php at line 25</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/ChromePhp.php#L25" target='_blank'>ChromePhp.php at line 25</a>
 
 #Class ChromePhp#
 
@@ -16,7 +16,7 @@
 
 - - -
 
-<p class="signature"><span class='k'>public  class</span> <span class='nx'>ChromePhp</span></p>
+<p><strong>public  class</strong> <span>ChromePhp</span></p>
 
 <div class="comment" id="overview_description"><p>Server Side Chrome PHP debugger class</p></div>
 
@@ -117,7 +117,7 @@
 
 <h2 id="detail_method">Constructor Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/ChromePhp.php#L64" >ChromePhp.php at line 64</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/ChromePhp.php#L64" target='_blank'>ChromePhp.php at line 64</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'>private </span> <span class='nx'>void</span> <span class='nf'>__construct</span> ()
@@ -130,7 +130,7 @@
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/ChromePhp.php#L75" >ChromePhp.php at line 75</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/ChromePhp.php#L75" target='_blank'>ChromePhp.php at line 75</a>
 
 <h3 id="getInstance()">getInstance</h3>
 <span class='k'>static </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/chromephp/ChromePhp>ChromePhp</a></span> <span class='nf'>getInstance</span> ()
@@ -142,7 +142,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/ChromePhp.php#L90" >ChromePhp.php at line 90</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/ChromePhp.php#L90" target='_blank'>ChromePhp.php at line 90</a>
 
 <h3 id="log()">log</h3>
 <span class='k'>static </span> <span class='nx'>void</span> <span class='nf'>log</span> (string label, mixed value, string severity)
@@ -160,7 +160,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/ChromePhp.php#L109" >ChromePhp.php at line 109</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/ChromePhp.php#L109" target='_blank'>ChromePhp.php at line 109</a>
 
 <h3 id="warn()">warn</h3>
 <span class='k'>static </span> <span class='nx'>void</span> <span class='nf'>warn</span> (string label, mixed value)
@@ -172,7 +172,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/ChromePhp.php#L120" >ChromePhp.php at line 120</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/ChromePhp.php#L120" target='_blank'>ChromePhp.php at line 120</a>
 
 <h3 id="error()">error</h3>
 <span class='k'>static </span> <span class='nx'>void</span> <span class='nf'>error</span> (string label, mixed value)
@@ -184,7 +184,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/ChromePhp.php#L129" >ChromePhp.php at line 129</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/ChromePhp.php#L129" target='_blank'>ChromePhp.php at line 129</a>
 
 <h3 id="group()">group</h3>
 <span class='k'>static </span> <span class='nx'>void</span> <span class='nf'>group</span> (string value)
@@ -196,7 +196,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/ChromePhp.php#L138" >ChromePhp.php at line 138</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/ChromePhp.php#L138" target='_blank'>ChromePhp.php at line 138</a>
 
 <h3 id="info()">info</h3>
 <span class='k'>static </span> <span class='nx'>void</span> <span class='nf'>info</span> (string value)
@@ -208,7 +208,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/ChromePhp.php#L147" >ChromePhp.php at line 147</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/ChromePhp.php#L147" target='_blank'>ChromePhp.php at line 147</a>
 
 <h3 id="groupCollapsed()">groupCollapsed</h3>
 <span class='k'>static </span> <span class='nx'>void</span> <span class='nf'>groupCollapsed</span> (string value)
@@ -220,7 +220,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/ChromePhp.php#L156" >ChromePhp.php at line 156</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/ChromePhp.php#L156" target='_blank'>ChromePhp.php at line 156</a>
 
 <h3 id="groupEnd()">groupEnd</h3>
 <span class='k'>static </span> <span class='nx'>void</span> <span class='nf'>groupEnd</span> (string value)
@@ -232,7 +232,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/ChromePhp.php#L328" >ChromePhp.php at line 328</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/ChromePhp.php#L328" target='_blank'>ChromePhp.php at line 328</a>
 
 <h3 id="addSetting()">addSetting</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>addSetting</span> (string key, mixed value)
@@ -244,7 +244,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/ChromePhp.php#L338" >ChromePhp.php at line 338</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/ChromePhp.php#L338" target='_blank'>ChromePhp.php at line 338</a>
 
 <h3 id="addSettings()">addSettings</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>addSettings</span> (array settings)
@@ -256,7 +256,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/ChromePhp.php#L350" >ChromePhp.php at line 350</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/ChromePhp.php#L350" target='_blank'>ChromePhp.php at line 350</a>
 
 <h3 id="getSetting()">getSetting</h3>
 <span class='k'></span> <span class='nx'>mixed</span> <span class='nf'>getSetting</span> (string key)

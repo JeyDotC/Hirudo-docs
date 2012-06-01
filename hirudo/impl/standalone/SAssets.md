@@ -5,7 +5,7 @@
 **Hirudo\Impl\StandAlone\SAssets**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/SAssets.php#L14" >framework\hirudo\Hirudo\Impl\StandAlone\SAssets.php at line 14</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/SAssets.php#L14" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\SAssets.php at line 14</a>
 
 #Class SAssets#
 
@@ -17,8 +17,8 @@
 
 - - -
 
-<p class="signature"><span class='k'>public  class</span> <span class='nx'>SAssets</span>
-extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/Assets.md">Assets</a>
+<p><strong>public  class</strong> <span>SAssets</span>
+<strong>extends</strong> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/Assets.md">Assets</a>
 
 </p>
 
@@ -51,7 +51,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/SAssets.php#L16" >framework\hirudo\Hirudo\Impl\StandAlone\SAssets.php at line 16</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/SAssets.php#L16" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\SAssets.php at line 16</a>
 
 <h3 id="addCSS()">addCSS</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>addCSS</span> (string cssPath)
@@ -71,7 +71,7 @@ the tag.</p></p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/SAssets.php#L20" >framework\hirudo\Hirudo\Impl\StandAlone\SAssets.php at line 20</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/SAssets.php#L20" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\SAssets.php at line 20</a>
 
 <h3 id="addJavaScript()">addJavaScript</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>addJavaScript</span> (string jsPath)

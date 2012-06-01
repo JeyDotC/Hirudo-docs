@@ -5,7 +5,7 @@
 **Smarty\Smarty_Internal_SmartyTemplateCompiler**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_smartytemplatecompiler.php#L23" >framework\libs\smarty\sysplugins\smarty_internal_smartytemplatecompiler.php at line 23</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_smartytemplatecompiler.php#L23" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_smartytemplatecompiler.php at line 23</a>
 
 #Class Smarty_Internal_SmartyTemplateCompiler#
 
@@ -17,8 +17,8 @@
 
 - - -
 
-<p class="signature"><span class='k'>public  class</span> <span class='nx'>Smarty_Internal_SmartyTemplateCompiler</span>
-extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_TemplateCompilerBase.md">Smarty_Internal_TemplateCompilerBase</a>
+<p><strong>public  class</strong> <span>Smarty_Internal_SmartyTemplateCompiler</span>
+<strong>extends</strong> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_TemplateCompilerBase.md">Smarty_Internal_TemplateCompilerBase</a>
 
 </p>
 
@@ -94,7 +94,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smart
 
 <h2 id="detail_method">Constructor Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_smartytemplatecompiler.php#L74" >framework\libs\smarty\sysplugins\smarty_internal_smartytemplatecompiler.php at line 74</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_smartytemplatecompiler.php#L74" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_smartytemplatecompiler.php at line 74</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (string lexer_class, string parser_class, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty.md">Smarty</a> smarty)
@@ -113,7 +113,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smart
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_smartytemplatecompiler.php#L89" >framework\libs\smarty\sysplugins\smarty_internal_smartytemplatecompiler.php at line 89</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_smartytemplatecompiler.php#L89" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_smartytemplatecompiler.php at line 89</a>
 
 <h3 id="doCompile()">doCompile</h3>
 <span class='k'>protected </span> <span class='nx'>bool</span> <span class='nf'>doCompile</span> (mixed _content)

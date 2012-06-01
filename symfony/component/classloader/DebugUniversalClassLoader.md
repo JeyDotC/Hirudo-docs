@@ -5,7 +5,7 @@
 **Symfony\Component\ClassLoader\DebugUniversalClassLoader**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/ClassLoader/DebugUniversalClassLoader.php#L19" >framework\libs\symfony-components\Symfony\Component\ClassLoader\DebugUniversalClassLoader.php at line 19</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/ClassLoader/DebugUniversalClassLoader.php#L19" target='_blank'>framework\libs\symfony-components\Symfony\Component\ClassLoader\DebugUniversalClassLoader.php at line 19</a>
 
 #Class DebugUniversalClassLoader#
 
@@ -17,8 +17,8 @@
 
 - - -
 
-<p class="signature"><span class='k'>public  class</span> <span class='nx'>DebugUniversalClassLoader</span>
-extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/classloader/UniversalClassLoader.md">UniversalClassLoader</a>
+<p><strong>public  class</strong> <span>DebugUniversalClassLoader</span>
+<strong>extends</strong> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/classloader/UniversalClassLoader.md">UniversalClassLoader</a>
 
 </p>
 
@@ -51,7 +51,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/comp
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/ClassLoader/DebugUniversalClassLoader.php#L24" >framework\libs\symfony-components\Symfony\Component\ClassLoader\DebugUniversalClassLoader.php at line 24</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/ClassLoader/DebugUniversalClassLoader.php#L24" target='_blank'>framework\libs\symfony-components\Symfony\Component\ClassLoader\DebugUniversalClassLoader.php at line 24</a>
 
 <h3 id="enable()">enable</h3>
 <span class='k'>static </span> <span class='nx'>void</span> <span class='nf'>enable</span> ()
@@ -63,7 +63,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/comp
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/ClassLoader/DebugUniversalClassLoader.php#L52" >framework\libs\symfony-components\Symfony\Component\ClassLoader\DebugUniversalClassLoader.php at line 52</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/ClassLoader/DebugUniversalClassLoader.php#L52" target='_blank'>framework\libs\symfony-components\Symfony\Component\ClassLoader\DebugUniversalClassLoader.php at line 52</a>
 
 <h3 id="loadClass()">loadClass</h3>
 <span class='k'>static </span> <span class='nx'>void</span> <span class='nf'>loadClass</span> (string class)

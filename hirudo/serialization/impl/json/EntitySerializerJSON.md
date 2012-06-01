@@ -5,7 +5,7 @@
 **Hirudo\Serialization\Impl\Json\EntitySerializerJSON**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Serialization/Impl/Json/EntitySerializerJSON.php#L32" >framework\hirudo\Hirudo\Serialization\Impl\Json\EntitySerializerJSON.php at line 32</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Serialization/Impl/Json/EntitySerializerJSON.php#L32" target='_blank'>framework\hirudo\Hirudo\Serialization\Impl\Json\EntitySerializerJSON.php at line 32</a>
 
 #Class EntitySerializerJSON#
 
@@ -17,8 +17,8 @@
 
 - - -
 
-<p class="signature"><span class='k'>public  class</span> <span class='nx'>EntitySerializerJSON</span>
-extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/serialization/EntitySerializerBase.md">EntitySerializerBase</a>
+<p><strong>public  class</strong> <span>EntitySerializerJSON</span>
+<strong>extends</strong> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/serialization/EntitySerializerBase.md">EntitySerializerBase</a>
 
 </p>
 
@@ -49,7 +49,7 @@ string representation.</p></td>
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Serialization/Impl/Json/EntitySerializerJSON.php#L34" >framework\hirudo\Hirudo\Serialization\Impl\Json\EntitySerializerJSON.php at line 34</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Serialization/Impl/Json/EntitySerializerJSON.php#L34" target='_blank'>framework\hirudo\Hirudo\Serialization\Impl\Json\EntitySerializerJSON.php at line 34</a>
 
 <h3 id="doSerialize()">doSerialize</h3>
 <span class='k'>protected </span> <span class='nx'>string</span> <span class='nf'>doSerialize</span> (array array)

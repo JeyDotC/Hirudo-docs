@@ -5,7 +5,7 @@
 **Hirudo\Core\Module**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Module.php#L109" >framework\hirudo\Hirudo\Core\Module.php at line 109</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Module.php#L109" target='_blank'>framework\hirudo\Hirudo\Core\Module.php at line 109</a>
 
 #Class Module#
 
@@ -21,7 +21,7 @@
 
 - - -
 
-<p class="signature"><span class='k'>public abstract  class</span> <span class='nx'>Module</span></p>
+<p><strong>public abstract  class</strong> <span>Module</span></p>
 
 <div class="comment" id="overview_description"><p>A module represents a single use case in the business logic.</p></div>
 
@@ -133,7 +133,7 @@ the browser.</p></td>
 
 <h2 id="detail_method">Constructor Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Module.php#L367" >framework\hirudo\Hirudo\Core\Module.php at line 367</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Module.php#L367" target='_blank'>framework\hirudo\Hirudo\Core\Module.php at line 367</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> ()
@@ -146,7 +146,7 @@ the browser.</p></td>
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Module.php#L204" >framework\hirudo\Hirudo\Core\Module.php at line 204</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Module.php#L204" target='_blank'>framework\hirudo\Hirudo\Core\Module.php at line 204</a>
 
 <h3 id="assign()">assign</h3>
 <span class='k'>protected </span> <span class='nx'>void</span> <span class='nf'>assign</span> (string name, mixed value)
@@ -165,7 +165,7 @@ the browser.</p></td>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Module.php#L213" >framework\hirudo\Hirudo\Core\Module.php at line 213</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Module.php#L213" target='_blank'>framework\hirudo\Hirudo\Core\Module.php at line 213</a>
 
 <h3 id="assignMany()">assignMany</h3>
 <span class='k'>protected </span> <span class='nx'>void</span> <span class='nf'>assignMany</span> (array array)
@@ -181,7 +181,7 @@ the browser.</p></td>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Module.php#L227" >framework\hirudo\Hirudo\Core\Module.php at line 227</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Module.php#L227" target='_blank'>framework\hirudo\Hirudo\Core\Module.php at line 227</a>
 
 <h3 id="component()">component</h3>
 <span class='k'>protected </span> <span class='nx'>mixed</span> <span class='nf'>component</span> (string name)
@@ -199,7 +199,7 @@ the browser.</p></td>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Module.php#L257" >framework\hirudo\Hirudo\Core\Module.php at line 257</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Module.php#L257" target='_blank'>framework\hirudo\Hirudo\Core\Module.php at line 257</a>
 
 <h3 id="getTask()">getTask</h3>
 <span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/Task>Task</a></span> <span class='nf'>getTask</span> (string taskName)
@@ -218,7 +218,7 @@ method, the default task is returned, normally the "index" task.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Module.php#L277" >framework\hirudo\Hirudo\Core\Module.php at line 277</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Module.php#L277" target='_blank'>framework\hirudo\Hirudo\Core\Module.php at line 277</a>
 
 <h3 id="getRendered()">getRendered</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>getRendered</span> ()
@@ -234,7 +234,7 @@ method, the default task is returned, normally the "index" task.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Module.php#L286" >framework\hirudo\Hirudo\Core\Module.php at line 286</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Module.php#L286" target='_blank'>framework\hirudo\Hirudo\Core\Module.php at line 286</a>
 
 <h3 id="onModuleReady()">onModuleReady</h3>
 <span class='k'>protected </span> <span class='nx'>void</span> <span class='nf'>onModuleReady</span> ()
@@ -248,7 +248,7 @@ initializing objects common to all tasks.</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Module.php#L318" >framework\hirudo\Hirudo\Core\Module.php at line 318</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Module.php#L318" target='_blank'>framework\hirudo\Hirudo\Core\Module.php at line 318</a>
 
 <h3 id="display()">display</h3>
 <span class='k'>protected </span> <span class='nx'>void</span> <span class='nf'>display</span> (string view)
@@ -280,7 +280,7 @@ values:</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Module.php#L330" >framework\hirudo\Hirudo\Core\Module.php at line 330</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Module.php#L330" target='_blank'>framework\hirudo\Hirudo\Core\Module.php at line 330</a>
 
 <h3 id="renderGet()">renderGet</h3>
 <span class='k'>protected </span> <span class='nx'>string</span> <span class='nf'>renderGet</span> (string view)
@@ -301,7 +301,7 @@ the browser.</p></p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Module.php#L351" >framework\hirudo\Hirudo\Core\Module.php at line 351</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Module.php#L351" target='_blank'>framework\hirudo\Hirudo\Core\Module.php at line 351</a>
 
 <h3 id="addMessage()">addMessage</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>addMessage</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/util/Message.md">Message</a> message)
@@ -317,7 +317,7 @@ the browser.</p></p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Module.php#L360" >framework\hirudo\Hirudo\Core\Module.php at line 360</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Module.php#L360" target='_blank'>framework\hirudo\Hirudo\Core\Module.php at line 360</a>
 
 <h3 id="setDefaultTask()">setDefaultTask</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>setDefaultTask</span> (string defaultTask)
@@ -329,7 +329,7 @@ the browser.</p></p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Module.php#L405" >framework\hirudo\Hirudo\Core\Module.php at line 405</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Module.php#L405" target='_blank'>framework\hirudo\Hirudo\Core\Module.php at line 405</a>
 
 <h3 id="getModuleDir()">getModuleDir</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>getModuleDir</span> (mixed appName, mixed name)
@@ -345,7 +345,7 @@ the browser.</p></p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Module.php#L420" >framework\hirudo\Hirudo\Core\Module.php at line 420</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Module.php#L420" target='_blank'>framework\hirudo\Hirudo\Core\Module.php at line 420</a>
 
 <h3 id="getName()">getName</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>getName</span> ()
@@ -357,7 +357,7 @@ the browser.</p></p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Module.php#L429" >framework\hirudo\Hirudo\Core\Module.php at line 429</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Module.php#L429" target='_blank'>framework\hirudo\Hirudo\Core\Module.php at line 429</a>
 
 <h3 id="getAppName()">getAppName</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>getAppName</span> ()
@@ -369,7 +369,7 @@ the browser.</p></p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Module.php#L438" >framework\hirudo\Hirudo\Core\Module.php at line 438</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Module.php#L438" target='_blank'>framework\hirudo\Hirudo\Core\Module.php at line 438</a>
 
 <h3 id="setAppName()">setAppName</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>setAppName</span> (string appName)

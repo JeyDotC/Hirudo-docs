@@ -5,7 +5,7 @@
 **Doctrine\Common\Annotations\AnnotationRegistry**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/AnnotationRegistry.php#L23" >framework\libs\doctrine-common\Doctrine\Common\Annotations\AnnotationRegistry.php at line 23</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/AnnotationRegistry.php#L23" target='_blank'>framework\libs\doctrine-common\Doctrine\Common\Annotations\AnnotationRegistry.php at line 23</a>
 
 #Class AnnotationRegistry#
 
@@ -16,7 +16,7 @@
 
 - - -
 
-<p class="signature"><span class='k'>public final  class</span> <span class='nx'>AnnotationRegistry</span></p>
+<p><strong>public final  class</strong> <span>AnnotationRegistry</span></p>
 
 
 
@@ -54,7 +54,7 @@
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/AnnotationRegistry.php#L44" >framework\libs\doctrine-common\Doctrine\Common\Annotations\AnnotationRegistry.php at line 44</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/AnnotationRegistry.php#L44" target='_blank'>framework\libs\doctrine-common\Doctrine\Common\Annotations\AnnotationRegistry.php at line 44</a>
 
 <h3 id="reset()">reset</h3>
 <span class='k'>static </span> <span class='nx'>void</span> <span class='nf'>reset</span> ()
@@ -66,7 +66,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/AnnotationRegistry.php#L49" >framework\libs\doctrine-common\Doctrine\Common\Annotations\AnnotationRegistry.php at line 49</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/AnnotationRegistry.php#L49" target='_blank'>framework\libs\doctrine-common\Doctrine\Common\Annotations\AnnotationRegistry.php at line 49</a>
 
 <h3 id="registerFile()">registerFile</h3>
 <span class='k'>static </span> <span class='nx'>void</span> <span class='nf'>registerFile</span> (mixed file)
@@ -78,7 +78,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/AnnotationRegistry.php#L61" >framework\libs\doctrine-common\Doctrine\Common\Annotations\AnnotationRegistry.php at line 61</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/AnnotationRegistry.php#L61" target='_blank'>framework\libs\doctrine-common\Doctrine\Common\Annotations\AnnotationRegistry.php at line 61</a>
 
 <h3 id="registerAutoloadNamespace()">registerAutoloadNamespace</h3>
 <span class='k'>static </span> <span class='nx'>void</span> <span class='nf'>registerAutoloadNamespace</span> (string namespace, string|array|null dirs)
@@ -90,7 +90,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/AnnotationRegistry.php#L72" >framework\libs\doctrine-common\Doctrine\Common\Annotations\AnnotationRegistry.php at line 72</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/AnnotationRegistry.php#L72" target='_blank'>framework\libs\doctrine-common\Doctrine\Common\Annotations\AnnotationRegistry.php at line 72</a>
 
 <h3 id="registerAutoloadNamespaces()">registerAutoloadNamespaces</h3>
 <span class='k'>static </span> <span class='nx'>void</span> <span class='nf'>registerAutoloadNamespaces</span> (array namespaces)
@@ -102,7 +102,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/AnnotationRegistry.php#L84" >framework\libs\doctrine-common\Doctrine\Common\Annotations\AnnotationRegistry.php at line 84</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/AnnotationRegistry.php#L84" target='_blank'>framework\libs\doctrine-common\Doctrine\Common\Annotations\AnnotationRegistry.php at line 84</a>
 
 <h3 id="registerLoader()">registerLoader</h3>
 <span class='k'>static </span> <span class='nx'>void</span> <span class='nf'>registerLoader</span> (callable callable)
@@ -115,7 +115,7 @@ IMPORTANT: Loaders have to return true if they loaded a class that could contain
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/AnnotationRegistry.php#L97" >framework\libs\doctrine-common\Doctrine\Common\Annotations\AnnotationRegistry.php at line 97</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/AnnotationRegistry.php#L97" target='_blank'>framework\libs\doctrine-common\Doctrine\Common\Annotations\AnnotationRegistry.php at line 97</a>
 
 <h3 id="loadAnnotationClass()">loadAnnotationClass</h3>
 <span class='k'>static </span> <span class='nx'>void</span> <span class='nf'>loadAnnotationClass</span> (string class)

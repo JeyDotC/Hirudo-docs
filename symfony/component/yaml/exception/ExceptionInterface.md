@@ -5,7 +5,7 @@
 **Symfony\Component\Yaml\Exception\ExceptionInterface**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/Yaml/Exception/ExceptionInterface.php#L21" >framework\libs\symfony-components\Symfony\Component\Yaml\Exception\ExceptionInterface.php at line 21</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/Yaml/Exception/ExceptionInterface.php#L21" target='_blank'>framework\libs\symfony-components\Symfony\Component\Yaml\Exception\ExceptionInterface.php at line 21</a>
 
 #Interface ExceptionInterface#
 
@@ -16,7 +16,7 @@
 
 - - -
 
-<p class="signature"><span class='k'>public  interface</span> <span class='nx'>ExceptionInterface</span></p>
+<p><strong>public  interface</strong> <span>ExceptionInterface</span></p>
 
 <div class="comment" id="overview_description"><p>Exception interface for all exceptions thrown by the component.</p></div>
 

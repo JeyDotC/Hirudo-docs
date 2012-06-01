@@ -5,7 +5,7 @@
 **Hirudo\Impl\StandAlone\SASession**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/SASession.php#L32" >framework\hirudo\Hirudo\Impl\StandAlone\SASession.php at line 32</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/SASession.php#L32" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\SASession.php at line 32</a>
 
 #Class SASession#
 
@@ -16,7 +16,7 @@
 
 - - -
 
-<p class="signature"><span class='k'>public  class</span> <span class='nx'>SASession</span></p>
+<p><strong>public  class</strong> <span>SASession</span></p>
 
 <div class="comment" id="overview_description"><p></p></div>
 
@@ -65,7 +65,7 @@
 
 <h2 id="detail_method">Constructor Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/SASession.php#L34" >framework\hirudo\Hirudo\Impl\StandAlone\SASession.php at line 34</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/SASession.php#L34" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\SASession.php at line 34</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> ()
@@ -78,7 +78,7 @@
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/SASession.php#L38" >framework\hirudo\Hirudo\Impl\StandAlone\SASession.php at line 38</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/SASession.php#L38" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\SASession.php at line 38</a>
 
 <h3 id="get()">get</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>get</span> (mixed key, mixed default)
@@ -90,7 +90,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/SASession.php#L42" >framework\hirudo\Hirudo\Impl\StandAlone\SASession.php at line 42</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/SASession.php#L42" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\SASession.php at line 42</a>
 
 <h3 id="has()">has</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>has</span> (mixed key)
@@ -102,7 +102,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/SASession.php#L46" >framework\hirudo\Hirudo\Impl\StandAlone\SASession.php at line 46</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/SASession.php#L46" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\SASession.php at line 46</a>
 
 <h3 id="id()">id</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>id</span> ()
@@ -114,7 +114,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/SASession.php#L50" >framework\hirudo\Hirudo\Impl\StandAlone\SASession.php at line 50</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/SASession.php#L50" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\SASession.php at line 50</a>
 
 <h3 id="put()">put</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>put</span> (mixed key, mixed value)
@@ -126,7 +126,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/SASession.php#L54" >framework\hirudo\Hirudo\Impl\StandAlone\SASession.php at line 54</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/SASession.php#L54" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\SASession.php at line 54</a>
 
 <h3 id="remove()">remove</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>remove</span> (mixed key)
@@ -138,7 +138,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/SASession.php#L60" >framework\hirudo\Hirudo\Impl\StandAlone\SASession.php at line 60</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/SASession.php#L60" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\SASession.php at line 60</a>
 
 <h3 id="state()">state</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>state</span> ()

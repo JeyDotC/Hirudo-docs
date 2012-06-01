@@ -5,7 +5,7 @@
 **HTTP_Session2\HTTP_Session2_Container_DB**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/DB.php#L87" >framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\DB.php at line 87</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/DB.php#L87" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\DB.php at line 87</a>
 
 #Class HTTP_Session2_Container_DB#
 
@@ -17,8 +17,8 @@
 
 - - -
 
-<p class="signature"><span class='k'>public  class</span> <span class='nx'>HTTP_Session2_Container_DB</span>
-extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/http_session2/HTTP_Session2_Container.md">HTTP_Session2_Container</a>
+<p><strong>public  class</strong> <span>HTTP_Session2_Container_DB</span>
+<strong>extends</strong> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/http_session2/HTTP_Session2_Container.md">HTTP_Session2_Container</a>
 
 </p>
 
@@ -116,7 +116,7 @@ the table on garbage collection, default is 'false'.
 
 <h2 id="detail_method">Constructor Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/DB.php#L120" >framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\DB.php at line 120</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/DB.php#L120" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\DB.php at line 120</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (array options)
@@ -141,7 +141,7 @@ the table on garbage collection, default is 'false'.</li>
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/DB.php#L133" >framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\DB.php at line 133</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/DB.php#L133" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\DB.php at line 133</a>
 
 <h3 id="connect()">connect</h3>
 <span class='k'>protected </span> <span class='nx'>boolean</span> <span class='nf'>connect</span> (string dsn)
@@ -159,7 +159,7 @@ the table on garbage collection, default is 'false'.</li>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/DB.php#L155" >framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\DB.php at line 155</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/DB.php#L155" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\DB.php at line 155</a>
 
 <h3 id="setDefaults()">setDefaults</h3>
 <span class='k'>protected </span> <span class='nx'>void</span> <span class='nf'>setDefaults</span> ()
@@ -171,7 +171,7 @@ the table on garbage collection, default is 'false'.</li>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/DB.php#L172" >framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\DB.php at line 172</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/DB.php#L172" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\DB.php at line 172</a>
 
 <h3 id="open()">open</h3>
 <span class='k'></span> <span class='nx'>boolean</span> <span class='nf'>open</span> (string save_path, string session_name)
@@ -191,7 +191,7 @@ the table on garbage collection, default is 'false'.</li>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/DB.php#L182" >framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\DB.php at line 182</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/DB.php#L182" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\DB.php at line 182</a>
 
 <h3 id="close()">close</h3>
 <span class='k'></span> <span class='nx'>boolean</span> <span class='nf'>close</span> ()
@@ -203,7 +203,7 @@ the table on garbage collection, default is 'false'.</li>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/DB.php#L195" >framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\DB.php at line 195</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/DB.php#L195" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\DB.php at line 195</a>
 
 <h3 id="read()">read</h3>
 <span class='k'></span> <span class='nx'>mixed</span> <span class='nf'>read</span> (string id)
@@ -221,7 +221,7 @@ the table on garbage collection, default is 'false'.</li>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/DB.php#L220" >framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\DB.php at line 220</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/DB.php#L220" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\DB.php at line 220</a>
 
 <h3 id="write()">write</h3>
 <span class='k'></span> <span class='nx'>boolean</span> <span class='nf'>write</span> (string id, string data)
@@ -240,7 +240,7 @@ the table on garbage collection, default is 'false'.</li>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/DB.php#L277" >framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\DB.php at line 277</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/DB.php#L277" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\DB.php at line 277</a>
 
 <h3 id="destroy()">destroy</h3>
 <span class='k'></span> <span class='nx'>boolean</span> <span class='nf'>destroy</span> (string id)
@@ -256,7 +256,7 @@ the table on garbage collection, default is 'false'.</li>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/DB.php#L299" >framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\DB.php at line 299</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/DB.php#L299" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\DB.php at line 299</a>
 
 <h3 id="gc()">gc</h3>
 <span class='k'></span> <span class='nx'>boolean</span> <span class='nf'>gc</span> (int maxlifetime)
@@ -274,7 +274,7 @@ the table on garbage collection, default is 'false'.</li>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/DB.php#L343" >framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\DB.php at line 343</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/DB.php#L343" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\DB.php at line 343</a>
 
 <h3 id="replicate()">replicate</h3>
 <span class='k'></span> <span class='nx'>boolean</span> <span class='nf'>replicate</span> (string target, string id)

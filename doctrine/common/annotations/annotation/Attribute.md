@@ -5,7 +5,7 @@
 **Doctrine\Common\Annotations\Annotation\Attribute**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/Annotation/Attribute.php#L31" >framework\libs\doctrine-common\Doctrine\Common\Annotations\Annotation\Attribute.php at line 31</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/Annotation/Attribute.php#L31" target='_blank'>framework\libs\doctrine-common\Doctrine\Common\Annotations\Annotation\Attribute.php at line 31</a>
 
 #Class Attribute#
 
@@ -16,7 +16,7 @@
 
 - - -
 
-<p class="signature"><span class='k'>public final  class</span> <span class='nx'>Attribute</span></p>
+<p><strong>public final  class</strong> <span>Attribute</span></p>
 
 <div class="comment" id="overview_description"><p>Annotation that can be used to signal to the parser
 to check the attribute type during the parsing process.</p></div>

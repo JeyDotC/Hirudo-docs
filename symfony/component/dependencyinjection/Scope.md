@@ -5,7 +5,7 @@
 **Symfony\Component\DependencyInjection\Scope**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Scope.php#L21" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Scope.php at line 21</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Scope.php#L21" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Scope.php at line 21</a>
 
 #Class Scope#
 
@@ -16,7 +16,7 @@
 
 - - -
 
-<p class="signature"><span class='k'>public  class</span> <span class='nx'>Scope</span></p>
+<p><strong>public  class</strong> <span>Scope</span></p>
 
 <div class="comment" id="overview_description"><p>Scope class.</p></div>
 
@@ -51,7 +51,7 @@
 
 <h2 id="detail_method">Constructor Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Scope.php#L29" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Scope.php at line 29</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Scope.php#L29" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Scope.php at line 29</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (mixed name, mixed parentName)
@@ -67,7 +67,7 @@
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Scope.php#L38" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Scope.php at line 38</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Scope.php#L38" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Scope.php at line 38</a>
 
 <h3 id="getName()">getName</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>getName</span> ()
@@ -82,7 +82,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Scope.php#L46" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Scope.php at line 46</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Scope.php#L46" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Scope.php at line 46</a>
 
 <h3 id="getParentName()">getParentName</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>getParentName</span> ()

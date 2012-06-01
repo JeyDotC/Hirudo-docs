@@ -5,7 +5,7 @@
 **Symfony\Component\ClassLoader\UniversalClassLoader**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/ClassLoader/UniversalClassLoader.php#L61" >framework\libs\symfony-components\Symfony\Component\ClassLoader\UniversalClassLoader.php at line 61</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/ClassLoader/UniversalClassLoader.php#L61" target='_blank'>framework\libs\symfony-components\Symfony\Component\ClassLoader\UniversalClassLoader.php at line 61</a>
 
 #Class UniversalClassLoader#
 
@@ -21,7 +21,7 @@
 
 - - -
 
-<p class="signature"><span class='k'>public  class</span> <span class='nx'>UniversalClassLoader</span></p>
+<p><strong>public  class</strong> <span>UniversalClassLoader</span></p>
 
 <div class="comment" id="overview_description"><p>UniversalClassLoader implements a "universal" autoloader for PHP 5.3.</p><p>It is able to load classes that use either:</p><p>* The technical interoperability standards for PHP 5.3 namespaces and
 class names (https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-0.md);</p><p>* The PEAR naming convention for classes (http://pear.php.net/).</p><p>Classes from a sub-namespace or a sub-hierarchy of PEAR classes can be
@@ -127,7 +127,7 @@ for classes.</p></td>
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/ClassLoader/UniversalClassLoader.php#L75" >framework\libs\symfony-components\Symfony\Component\ClassLoader\UniversalClassLoader.php at line 75</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/ClassLoader/UniversalClassLoader.php#L75" target='_blank'>framework\libs\symfony-components\Symfony\Component\ClassLoader\UniversalClassLoader.php at line 75</a>
 
 <h3 id="useIncludePath()">useIncludePath</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>useIncludePath</span> (Boolean useIncludePath)
@@ -140,7 +140,7 @@ of installed PEAR packages</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/ClassLoader/UniversalClassLoader.php#L85" >framework\libs\symfony-components\Symfony\Component\ClassLoader\UniversalClassLoader.php at line 85</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/ClassLoader/UniversalClassLoader.php#L85" target='_blank'>framework\libs\symfony-components\Symfony\Component\ClassLoader\UniversalClassLoader.php at line 85</a>
 
 <h3 id="getUseIncludePath()">getUseIncludePath</h3>
 <span class='k'></span> <span class='nx'>Boolean</span> <span class='nf'>getUseIncludePath</span> ()
@@ -153,7 +153,7 @@ for classes.</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/ClassLoader/UniversalClassLoader.php#L94" >framework\libs\symfony-components\Symfony\Component\ClassLoader\UniversalClassLoader.php at line 94</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/ClassLoader/UniversalClassLoader.php#L94" target='_blank'>framework\libs\symfony-components\Symfony\Component\ClassLoader\UniversalClassLoader.php at line 94</a>
 
 <h3 id="getNamespaces()">getNamespaces</h3>
 <span class='k'></span> <span class='nx'>array</span> <span class='nf'>getNamespaces</span> ()
@@ -169,7 +169,7 @@ for classes.</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/ClassLoader/UniversalClassLoader.php#L103" >framework\libs\symfony-components\Symfony\Component\ClassLoader\UniversalClassLoader.php at line 103</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/ClassLoader/UniversalClassLoader.php#L103" target='_blank'>framework\libs\symfony-components\Symfony\Component\ClassLoader\UniversalClassLoader.php at line 103</a>
 
 <h3 id="getPrefixes()">getPrefixes</h3>
 <span class='k'></span> <span class='nx'>array</span> <span class='nf'>getPrefixes</span> ()
@@ -185,7 +185,7 @@ for classes.</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/ClassLoader/UniversalClassLoader.php#L112" >framework\libs\symfony-components\Symfony\Component\ClassLoader\UniversalClassLoader.php at line 112</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/ClassLoader/UniversalClassLoader.php#L112" target='_blank'>framework\libs\symfony-components\Symfony\Component\ClassLoader\UniversalClassLoader.php at line 112</a>
 
 <h3 id="getNamespaceFallbacks()">getNamespaceFallbacks</h3>
 <span class='k'></span> <span class='nx'>array</span> <span class='nf'>getNamespaceFallbacks</span> ()
@@ -201,7 +201,7 @@ for classes.</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/ClassLoader/UniversalClassLoader.php#L121" >framework\libs\symfony-components\Symfony\Component\ClassLoader\UniversalClassLoader.php at line 121</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/ClassLoader/UniversalClassLoader.php#L121" target='_blank'>framework\libs\symfony-components\Symfony\Component\ClassLoader\UniversalClassLoader.php at line 121</a>
 
 <h3 id="getPrefixFallbacks()">getPrefixFallbacks</h3>
 <span class='k'></span> <span class='nx'>array</span> <span class='nf'>getPrefixFallbacks</span> ()
@@ -217,7 +217,7 @@ for classes.</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/ClassLoader/UniversalClassLoader.php#L132" >framework\libs\symfony-components\Symfony\Component\ClassLoader\UniversalClassLoader.php at line 132</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/ClassLoader/UniversalClassLoader.php#L132" target='_blank'>framework\libs\symfony-components\Symfony\Component\ClassLoader\UniversalClassLoader.php at line 132</a>
 
 <h3 id="registerNamespaceFallbacks()">registerNamespaceFallbacks</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>registerNamespaceFallbacks</span> (array dirs)
@@ -234,7 +234,7 @@ for classes.</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/ClassLoader/UniversalClassLoader.php#L141" >framework\libs\symfony-components\Symfony\Component\ClassLoader\UniversalClassLoader.php at line 141</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/ClassLoader/UniversalClassLoader.php#L141" target='_blank'>framework\libs\symfony-components\Symfony\Component\ClassLoader\UniversalClassLoader.php at line 141</a>
 
 <h3 id="registerNamespaceFallback()">registerNamespaceFallback</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>registerNamespaceFallback</span> (string dir)
@@ -250,7 +250,7 @@ for classes.</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/ClassLoader/UniversalClassLoader.php#L152" >framework\libs\symfony-components\Symfony\Component\ClassLoader\UniversalClassLoader.php at line 152</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/ClassLoader/UniversalClassLoader.php#L152" target='_blank'>framework\libs\symfony-components\Symfony\Component\ClassLoader\UniversalClassLoader.php at line 152</a>
 
 <h3 id="registerPrefixFallbacks()">registerPrefixFallbacks</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>registerPrefixFallbacks</span> (array dirs)
@@ -267,7 +267,7 @@ for classes.</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/ClassLoader/UniversalClassLoader.php#L161" >framework\libs\symfony-components\Symfony\Component\ClassLoader\UniversalClassLoader.php at line 161</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/ClassLoader/UniversalClassLoader.php#L161" target='_blank'>framework\libs\symfony-components\Symfony\Component\ClassLoader\UniversalClassLoader.php at line 161</a>
 
 <h3 id="registerPrefixFallback()">registerPrefixFallback</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>registerPrefixFallback</span> (string dir)
@@ -283,7 +283,7 @@ for classes.</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/ClassLoader/UniversalClassLoader.php#L172" >framework\libs\symfony-components\Symfony\Component\ClassLoader\UniversalClassLoader.php at line 172</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/ClassLoader/UniversalClassLoader.php#L172" target='_blank'>framework\libs\symfony-components\Symfony\Component\ClassLoader\UniversalClassLoader.php at line 172</a>
 
 <h3 id="registerNamespaces()">registerNamespaces</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>registerNamespaces</span> (array namespaces)
@@ -300,7 +300,7 @@ for classes.</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/ClassLoader/UniversalClassLoader.php#L186" >framework\libs\symfony-components\Symfony\Component\ClassLoader\UniversalClassLoader.php at line 186</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/ClassLoader/UniversalClassLoader.php#L186" target='_blank'>framework\libs\symfony-components\Symfony\Component\ClassLoader\UniversalClassLoader.php at line 186</a>
 
 <h3 id="registerNamespace()">registerNamespace</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>registerNamespace</span> (string namespace, array|string paths)
@@ -318,7 +318,7 @@ for classes.</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/ClassLoader/UniversalClassLoader.php#L197" >framework\libs\symfony-components\Symfony\Component\ClassLoader\UniversalClassLoader.php at line 197</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/ClassLoader/UniversalClassLoader.php#L197" target='_blank'>framework\libs\symfony-components\Symfony\Component\ClassLoader\UniversalClassLoader.php at line 197</a>
 
 <h3 id="registerPrefixes()">registerPrefixes</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>registerPrefixes</span> (array classes)
@@ -335,7 +335,7 @@ for classes.</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/ClassLoader/UniversalClassLoader.php#L211" >framework\libs\symfony-components\Symfony\Component\ClassLoader\UniversalClassLoader.php at line 211</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/ClassLoader/UniversalClassLoader.php#L211" target='_blank'>framework\libs\symfony-components\Symfony\Component\ClassLoader\UniversalClassLoader.php at line 211</a>
 
 <h3 id="registerPrefix()">registerPrefix</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>registerPrefix</span> (string prefix, array|string paths)
@@ -353,7 +353,7 @@ for classes.</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/ClassLoader/UniversalClassLoader.php#L222" >framework\libs\symfony-components\Symfony\Component\ClassLoader\UniversalClassLoader.php at line 222</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/ClassLoader/UniversalClassLoader.php#L222" target='_blank'>framework\libs\symfony-components\Symfony\Component\ClassLoader\UniversalClassLoader.php at line 222</a>
 
 <h3 id="register()">register</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>register</span> (Boolean prepend)
@@ -370,7 +370,7 @@ for classes.</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/ClassLoader/UniversalClassLoader.php#L231" >framework\libs\symfony-components\Symfony\Component\ClassLoader\UniversalClassLoader.php at line 231</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/ClassLoader/UniversalClassLoader.php#L231" target='_blank'>framework\libs\symfony-components\Symfony\Component\ClassLoader\UniversalClassLoader.php at line 231</a>
 
 <h3 id="loadClass()">loadClass</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>loadClass</span> (string class)
@@ -386,7 +386,7 @@ for classes.</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/ClassLoader/UniversalClassLoader.php#L244" >framework\libs\symfony-components\Symfony\Component\ClassLoader\UniversalClassLoader.php at line 244</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/ClassLoader/UniversalClassLoader.php#L244" target='_blank'>framework\libs\symfony-components\Symfony\Component\ClassLoader\UniversalClassLoader.php at line 244</a>
 
 <h3 id="findFile()">findFile</h3>
 <span class='k'></span> <span class='nx'>string|null</span> <span class='nf'>findFile</span> (string class)

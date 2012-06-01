@@ -5,7 +5,7 @@
 **Hirudo\Core\ModulesManager**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/ModulesManager.php#L41" >framework\hirudo\Hirudo\Core\ModulesManager.php at line 41</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/ModulesManager.php#L41" target='_blank'>framework\hirudo\Hirudo\Core\ModulesManager.php at line 41</a>
 
 #Class ModulesManager#
 
@@ -17,8 +17,8 @@
 
 - - -
 
-<p class="signature"><span class='k'>public  class</span> <span class='nx'>ModulesManager</span>
-extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/eventdispatcher/EventDispatcher.md">EventDispatcher</a>
+<p><strong>public  class</strong> <span>ModulesManager</span>
+<strong>extends</strong> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/eventdispatcher/EventDispatcher.md">EventDispatcher</a>
 
 </p>
 
@@ -69,7 +69,7 @@ default configuration.</p></td>
 
 <h2 id="detail_method">Constructor Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/ModulesManager.php#L73" >framework\hirudo\Hirudo\Core\ModulesManager.php at line 73</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/ModulesManager.php#L73" target='_blank'>framework\hirudo\Hirudo\Core\ModulesManager.php at line 73</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (array<string> implementationClasses)
@@ -86,7 +86,7 @@ default configuration.</p></td>
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/ModulesManager.php#L93" >framework\hirudo\Hirudo\Core\ModulesManager.php at line 93</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/ModulesManager.php#L93" target='_blank'>framework\hirudo\Hirudo\Core\ModulesManager.php at line 93</a>
 
 <h3 id="run()">run</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>run</span> ()
@@ -103,7 +103,7 @@ default configuration.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/ModulesManager.php#L123" >framework\hirudo\Hirudo\Core\ModulesManager.php at line 123</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/ModulesManager.php#L123" target='_blank'>framework\hirudo\Hirudo\Core\ModulesManager.php at line 123</a>
 
 <h3 id="executeCall()">executeCall</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>executeCall</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/context/ModuleCall.md">ModuleCall</a> call)
@@ -121,7 +121,7 @@ default configuration.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/ModulesManager.php#L153" >framework\hirudo\Hirudo\Core\ModulesManager.php at line 153</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/ModulesManager.php#L153" target='_blank'>framework\hirudo\Hirudo\Core\ModulesManager.php at line 153</a>
 
 <h3 id="setAutoLoader()">setAutoLoader</h3>
 <span class='k'>static </span> <span class='nx'>void</span> <span class='nf'>setAutoLoader</span> (type loader)
@@ -133,7 +133,7 @@ default configuration.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/ModulesManager.php#L163" >framework\hirudo\Hirudo\Core\ModulesManager.php at line 163</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/ModulesManager.php#L163" target='_blank'>framework\hirudo\Hirudo\Core\ModulesManager.php at line 163</a>
 
 <h3 id="resolveTaskRequirements()">resolveTaskRequirements</h3>
 <span class='k'>protected </span> <span class='nx'>void</span> <span class='nf'>resolveTaskRequirements</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/Task.md">Task</a> task)

@@ -5,7 +5,7 @@
 **Smarty\Smarty_Data**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_data.php#L426" >framework\libs\smarty\sysplugins\smarty_internal_data.php at line 426</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_data.php#L426" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_data.php at line 426</a>
 
 #Class Smarty_Data#
 
@@ -17,8 +17,8 @@
 
 - - -
 
-<p class="signature"><span class='k'>public  class</span> <span class='nx'>Smarty_Data</span>
-extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Data.md">Smarty_Internal_Data</a>
+<p><strong>public  class</strong> <span>Smarty_Data</span>
+<strong>extends</strong> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Data.md">Smarty_Internal_Data</a>
 
 </p>
 
@@ -61,7 +61,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smart
 
 <h2 id="detail_method">Constructor Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_data.php#L441" >framework\libs\smarty\sysplugins\smarty_internal_data.php at line 441</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_data.php#L441" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_data.php at line 441</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (Smarty|array _parent, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty.md">Smarty</a> smarty)

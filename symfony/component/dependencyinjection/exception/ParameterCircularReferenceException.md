@@ -5,7 +5,7 @@
 **Symfony\Component\DependencyInjection\Exception\ParameterCircularReferenceException**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Exception/ParameterCircularReferenceException.php#L19" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Exception\ParameterCircularReferenceException.php at line 19</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Exception/ParameterCircularReferenceException.php#L19" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Exception\ParameterCircularReferenceException.php at line 19</a>
 
 #Class ParameterCircularReferenceException#
 
@@ -18,8 +18,8 @@
 
 - - -
 
-<p class="signature"><span class='k'>public  class</span> <span class='nx'>ParameterCircularReferenceException</span>
-extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/exception/RuntimeException.md">RuntimeException</a>
+<p><strong>public  class</strong> <span>ParameterCircularReferenceException</span>
+<strong>extends</strong> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/exception/RuntimeException.md">RuntimeException</a>
 
 </p>
 
@@ -51,7 +51,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/comp
 
 <h2 id="detail_method">Constructor Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Exception/ParameterCircularReferenceException.php#L23" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Exception\ParameterCircularReferenceException.php at line 23</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Exception/ParameterCircularReferenceException.php#L23" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Exception\ParameterCircularReferenceException.php at line 23</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (mixed parameters)
@@ -64,7 +64,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/comp
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Exception/ParameterCircularReferenceException.php#L30" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Exception\ParameterCircularReferenceException.php at line 30</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Exception/ParameterCircularReferenceException.php#L30" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Exception\ParameterCircularReferenceException.php at line 30</a>
 
 <h3 id="getParameters()">getParameters</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>getParameters</span> ()

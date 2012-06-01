@@ -5,7 +5,7 @@
 **Doctrine\Common\Cache\WincacheCache**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Cache/WinCacheCache.php#L35" >framework\libs\doctrine-common\Doctrine\Common\Cache\WinCacheCache.php at line 35</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Cache/WinCacheCache.php#L35" target='_blank'>framework\libs\doctrine-common\Doctrine\Common\Cache\WinCacheCache.php at line 35</a>
 
 #Class WincacheCache#
 
@@ -17,8 +17,8 @@
 
 - - -
 
-<p class="signature"><span class='k'>public  class</span> <span class='nx'>WincacheCache</span>
-extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/cache/CacheProvider.md">CacheProvider</a>
+<p><strong>public  class</strong> <span>WincacheCache</span>
+<strong>extends</strong> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/cache/CacheProvider.md">CacheProvider</a>
 
 </p>
 
@@ -76,7 +76,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/com
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Cache/WinCacheCache.php#L40" >framework\libs\doctrine-common\Doctrine\Common\Cache\WinCacheCache.php at line 40</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Cache/WinCacheCache.php#L40" target='_blank'>framework\libs\doctrine-common\Doctrine\Common\Cache\WinCacheCache.php at line 40</a>
 
 <h3 id="doFetch()">doFetch</h3>
 <span class='k'>protected </span> <span class='nx'>string</span> <span class='nf'>doFetch</span> (string id)
@@ -94,7 +94,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/com
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Cache/WinCacheCache.php#L48" >framework\libs\doctrine-common\Doctrine\Common\Cache\WinCacheCache.php at line 48</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Cache/WinCacheCache.php#L48" target='_blank'>framework\libs\doctrine-common\Doctrine\Common\Cache\WinCacheCache.php at line 48</a>
 
 <h3 id="doContains()">doContains</h3>
 <span class='k'>protected </span> <span class='nx'>boolean</span> <span class='nf'>doContains</span> (string id)
@@ -112,7 +112,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/com
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Cache/WinCacheCache.php#L56" >framework\libs\doctrine-common\Doctrine\Common\Cache\WinCacheCache.php at line 56</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Cache/WinCacheCache.php#L56" target='_blank'>framework\libs\doctrine-common\Doctrine\Common\Cache\WinCacheCache.php at line 56</a>
 
 <h3 id="doSave()">doSave</h3>
 <span class='k'>protected </span> <span class='nx'>boolean</span> <span class='nf'>doSave</span> (string id, string data, int lifeTime)
@@ -132,7 +132,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/com
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Cache/WinCacheCache.php#L64" >framework\libs\doctrine-common\Doctrine\Common\Cache\WinCacheCache.php at line 64</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Cache/WinCacheCache.php#L64" target='_blank'>framework\libs\doctrine-common\Doctrine\Common\Cache\WinCacheCache.php at line 64</a>
 
 <h3 id="doDelete()">doDelete</h3>
 <span class='k'>protected </span> <span class='nx'>boolean</span> <span class='nf'>doDelete</span> (string id)
@@ -150,7 +150,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/com
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Cache/WinCacheCache.php#L72" >framework\libs\doctrine-common\Doctrine\Common\Cache\WinCacheCache.php at line 72</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Cache/WinCacheCache.php#L72" target='_blank'>framework\libs\doctrine-common\Doctrine\Common\Cache\WinCacheCache.php at line 72</a>
 
 <h3 id="doFlush()">doFlush</h3>
 <span class='k'>protected </span> <span class='nx'>boolean</span> <span class='nf'>doFlush</span> ()
@@ -166,7 +166,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/com
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Cache/WinCacheCache.php#L80" >framework\libs\doctrine-common\Doctrine\Common\Cache\WinCacheCache.php at line 80</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Cache/WinCacheCache.php#L80" target='_blank'>framework\libs\doctrine-common\Doctrine\Common\Cache\WinCacheCache.php at line 80</a>
 
 <h3 id="doGetStats()">doGetStats</h3>
 <span class='k'>protected </span> <span class='nx'>array</span> <span class='nf'>doGetStats</span> ()

@@ -5,7 +5,7 @@
 **Sample\Plugins\ModuleEnhablePlugin**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/ext/libs/SampleExtension/Sample/Plugins/ModuleEnhablePlugin.php#L15" >ext\libs\SampleExtension\Sample\Plugins\ModuleEnhablePlugin.php at line 15</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/ext/libs/SampleExtension/Sample/Plugins/ModuleEnhablePlugin.php#L15" target='_blank'>ext\libs\SampleExtension\Sample\Plugins\ModuleEnhablePlugin.php at line 15</a>
 
 #Class ModuleEnhablePlugin#
 
@@ -17,8 +17,8 @@
 
 - - -
 
-<p class="signature"><span class='k'>public  class</span> <span class='nx'>ModuleEnhablePlugin</span>
-extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/events/BeforeTaskEventListener.md">BeforeTaskEventListener</a>
+<p><strong>public  class</strong> <span>ModuleEnhablePlugin</span>
+<strong>extends</strong> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/events/BeforeTaskEventListener.md">BeforeTaskEventListener</a>
 
 </p>
 
@@ -47,7 +47,7 @@ order to work. </p></td>
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/ext/libs/SampleExtension/Sample/Plugins/ModuleEnhablePlugin.php#L17" >ext\libs\SampleExtension\Sample\Plugins\ModuleEnhablePlugin.php at line 17</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/ext/libs/SampleExtension/Sample/Plugins/ModuleEnhablePlugin.php#L17" target='_blank'>ext\libs\SampleExtension\Sample\Plugins\ModuleEnhablePlugin.php at line 17</a>
 
 <h3 id="beforeTask()">beforeTask</h3>
 <span class='k'>protected </span> <span class='nx'>void</span> <span class='nf'>beforeTask</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/events/BeforeTaskEvent.md">BeforeTaskEvent</a> e)

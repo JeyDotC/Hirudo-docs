@@ -4,6 +4,8 @@
 
 #Namespace Hirudo\Lang#
 
+<div><a href='https://github.com/JeyDotC/Hirudo-docs/tree/master/hirudo/lang/package-tree.md'>View Class Hierarchy for this Package</a></div>
+
 <table class="title">
 <tr><th colspan="2" class="title">Class Summary</th></tr>
 <tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/lang/DirectoryHelper.md">DirectoryHelper</a></td><td class="description">A class for directory listing.</td></tr>

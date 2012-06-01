@@ -4,6 +4,8 @@
 
 #Namespace Hirudo\Core\DependencyInjection#
 
+<div><a href='https://github.com/JeyDotC/Hirudo-docs/tree/master/hirudo/core/dependencyinjection/package-tree.md'>View Class Hierarchy for this Package</a></div>
+
 <table class="title">
 <tr><th colspan="2" class="title">Class Summary</th></tr>
 <tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/dependencyinjection/AnnotationsBasedDependenciesManager.md">AnnotationsBasedDependenciesManager</a></td><td class="description">A dependencies manager that uses the doctrine's doc-block annotations system

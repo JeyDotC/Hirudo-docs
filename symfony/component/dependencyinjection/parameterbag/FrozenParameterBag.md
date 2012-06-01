@@ -5,7 +5,7 @@
 **Symfony\Component\DependencyInjection\ParameterBag\FrozenParameterBag**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ParameterBag/FrozenParameterBag.php#L20" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\ParameterBag\FrozenParameterBag.php at line 20</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ParameterBag/FrozenParameterBag.php#L20" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\ParameterBag\FrozenParameterBag.php at line 20</a>
 
 #Class FrozenParameterBag#
 
@@ -17,8 +17,8 @@
 
 - - -
 
-<p class="signature"><span class='k'>public  class</span> <span class='nx'>FrozenParameterBag</span>
-extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/parameterbag/ParameterBag.md">ParameterBag</a>
+<p><strong>public  class</strong> <span>FrozenParameterBag</span>
+<strong>extends</strong> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/parameterbag/ParameterBag.md">ParameterBag</a>
 
 </p>
 
@@ -68,7 +68,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/comp
 
 <h2 id="detail_method">Constructor Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ParameterBag/FrozenParameterBag.php#L34" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\ParameterBag\FrozenParameterBag.php at line 34</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ParameterBag/FrozenParameterBag.php#L34" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\ParameterBag\FrozenParameterBag.php at line 34</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (array parameters)
@@ -87,7 +87,7 @@ all keys are already lowercased.</p><p>This is always the case when used interna
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ParameterBag/FrozenParameterBag.php#L45" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\ParameterBag\FrozenParameterBag.php at line 45</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ParameterBag/FrozenParameterBag.php#L45" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\ParameterBag\FrozenParameterBag.php at line 45</a>
 
 <h3 id="clear()">clear</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>clear</span> ()
@@ -102,7 +102,7 @@ all keys are already lowercased.</p><p>This is always the case when used interna
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ParameterBag/FrozenParameterBag.php#L55" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\ParameterBag\FrozenParameterBag.php at line 55</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ParameterBag/FrozenParameterBag.php#L55" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\ParameterBag\FrozenParameterBag.php at line 55</a>
 
 <h3 id="add()">add</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>add</span> (array parameters)
@@ -119,7 +119,7 @@ all keys are already lowercased.</p><p>This is always the case when used interna
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ParameterBag/FrozenParameterBag.php#L65" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\ParameterBag\FrozenParameterBag.php at line 65</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ParameterBag/FrozenParameterBag.php#L65" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\ParameterBag\FrozenParameterBag.php at line 65</a>
 
 <h3 id="set()">set</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>set</span> (string name, mixed value)

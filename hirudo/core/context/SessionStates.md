@@ -5,7 +5,7 @@
 **Hirudo\Core\Context\SessionStates**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Context/Session.php#L27" >framework\hirudo\Hirudo\Core\Context\Session.php at line 27</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Context/Session.php#L27" target='_blank'>framework\hirudo\Hirudo\Core\Context\Session.php at line 27</a>
 
 #Class SessionStates#
 
@@ -17,8 +17,8 @@
 
 - - -
 
-<p class="signature"><span class='k'>public final  class</span> <span class='nx'>SessionStates</span>
-extends \PseudoEnum
+<p><strong>public final  class</strong> <span>SessionStates</span>
+<strong>extends</strong> \PseudoEnum
 
 </p>
 
@@ -47,7 +47,7 @@ value that key.</p></td>
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Context/Session.php#L43" >framework\hirudo\Hirudo\Core\Context\Session.php at line 43</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Context/Session.php#L43" target='_blank'>framework\hirudo\Hirudo\Core\Context\Session.php at line 43</a>
 
 <h3 id="get()">get</h3>
 <span class='k'></span> <span class='nx'>mixed</span> <span class='nf'>get</span> (string key, mixed default)
@@ -67,7 +67,7 @@ value that key.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Context/Session.php#L52" >framework\hirudo\Hirudo\Core\Context\Session.php at line 52</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Context/Session.php#L52" target='_blank'>framework\hirudo\Hirudo\Core\Context\Session.php at line 52</a>
 
 <h3 id="remove()">remove</h3>
 <span class='k'></span> <span class='nx'>mixed</span> <span class='nf'>remove</span> (string key)
@@ -85,7 +85,7 @@ value that key.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Context/Session.php#L62" >framework\hirudo\Hirudo\Core\Context\Session.php at line 62</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Context/Session.php#L62" target='_blank'>framework\hirudo\Hirudo\Core\Context\Session.php at line 62</a>
 
 <h3 id="state()">state</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>state</span> ()

@@ -1,6 +1,10 @@
 - - -
 
-#Class Hierarchy for Package Doctrine\Common\Cache#<ul>
+#Class Hierarchy for Package Doctrine\Common\Cache
+
+<div><a href='https://github.com/JeyDotC/Hirudo-docs/tree/master/doctrine/common/cache'>Back to package summary</a></div>
+
+<ul>
 <li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/cache/CacheProvider.md">Doctrine\Common\Cache\CacheProvider</a><ul>
 <li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/cache/ApcCache.md">Doctrine\Common\Cache\ApcCache</a></li>
 <li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/cache/ArrayCache.md">Doctrine\Common\Cache\ArrayCache</a></li>

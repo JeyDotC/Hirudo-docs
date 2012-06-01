@@ -5,7 +5,7 @@
 **Symfony\Component\DependencyInjection\DefinitionDecorator**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/DefinitionDecorator.php#L21" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\DefinitionDecorator.php at line 21</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/DefinitionDecorator.php#L21" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\DefinitionDecorator.php at line 21</a>
 
 #Class DefinitionDecorator#
 
@@ -17,8 +17,8 @@
 
 - - -
 
-<p class="signature"><span class='k'>public  class</span> <span class='nx'>DefinitionDecorator</span>
-extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/Definition.md">Definition</a>
+<p><strong>public  class</strong> <span>DefinitionDecorator</span>
+<strong>extends</strong> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/Definition.md">Definition</a>
 
 </p>
 
@@ -98,7 +98,7 @@ of the parent definition.
 
 <h2 id="detail_method">Constructor Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/DefinitionDecorator.php#L33" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\DefinitionDecorator.php at line 33</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/DefinitionDecorator.php#L33" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\DefinitionDecorator.php at line 33</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/Definition.md">Definition</a> parent, string class, array arguments)
@@ -116,7 +116,7 @@ of the parent definition.
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/DefinitionDecorator.php#L47" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\DefinitionDecorator.php at line 47</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/DefinitionDecorator.php#L47" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\DefinitionDecorator.php at line 47</a>
 
 <h3 id="getParent()">getParent</h3>
 <span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/Definition>Definition</a></span> <span class='nf'>getParent</span> ()
@@ -131,7 +131,7 @@ of the parent definition.
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/DefinitionDecorator.php#L58" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\DefinitionDecorator.php at line 58</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/DefinitionDecorator.php#L58" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\DefinitionDecorator.php at line 58</a>
 
 <h3 id="getChanges()">getChanges</h3>
 <span class='k'></span> <span class='nx'>array</span> <span class='nf'>getChanges</span> ()
@@ -148,7 +148,7 @@ of the parent definition.
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/DefinitionDecorator.php#L67" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\DefinitionDecorator.php at line 67</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/DefinitionDecorator.php#L67" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\DefinitionDecorator.php at line 67</a>
 
 <h3 id="setClass()">setClass</h3>
 <span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/Definition>Definition</a></span> <span class='nf'>setClass</span> (string class)
@@ -167,7 +167,7 @@ of the parent definition.
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/DefinitionDecorator.php#L78" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\DefinitionDecorator.php at line 78</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/DefinitionDecorator.php#L78" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\DefinitionDecorator.php at line 78</a>
 
 <h3 id="setFactoryClass()">setFactoryClass</h3>
 <span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/Definition>Definition</a></span> <span class='nf'>setFactoryClass</span> (mixed class, string factoryClass)
@@ -187,7 +187,7 @@ which will be invoked statically.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/DefinitionDecorator.php#L89" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\DefinitionDecorator.php at line 89</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/DefinitionDecorator.php#L89" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\DefinitionDecorator.php at line 89</a>
 
 <h3 id="setFactoryMethod()">setFactoryMethod</h3>
 <span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/Definition>Definition</a></span> <span class='nf'>setFactoryMethod</span> (mixed method, string factoryMethod)
@@ -206,7 +206,7 @@ which will be invoked statically.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/DefinitionDecorator.php#L100" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\DefinitionDecorator.php at line 100</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/DefinitionDecorator.php#L100" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\DefinitionDecorator.php at line 100</a>
 
 <h3 id="setFactoryService()">setFactoryService</h3>
 <span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/Definition>Definition</a></span> <span class='nf'>setFactoryService</span> (mixed service, string factoryService)
@@ -225,7 +225,7 @@ which will be invoked statically.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/DefinitionDecorator.php#L111" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\DefinitionDecorator.php at line 111</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/DefinitionDecorator.php#L111" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\DefinitionDecorator.php at line 111</a>
 
 <h3 id="setConfigurator()">setConfigurator</h3>
 <span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/Definition>Definition</a></span> <span class='nf'>setConfigurator</span> (mixed callable)
@@ -244,7 +244,7 @@ which will be invoked statically.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/DefinitionDecorator.php#L122" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\DefinitionDecorator.php at line 122</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/DefinitionDecorator.php#L122" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\DefinitionDecorator.php at line 122</a>
 
 <h3 id="setFile()">setFile</h3>
 <span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/Definition>Definition</a></span> <span class='nf'>setFile</span> (string file)
@@ -263,7 +263,7 @@ which will be invoked statically.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/DefinitionDecorator.php#L133" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\DefinitionDecorator.php at line 133</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/DefinitionDecorator.php#L133" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\DefinitionDecorator.php at line 133</a>
 
 <h3 id="setPublic()">setPublic</h3>
 <span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/Definition>Definition</a></span> <span class='nf'>setPublic</span> (Boolean boolean)
@@ -280,7 +280,7 @@ which will be invoked statically.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/DefinitionDecorator.php#L155" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\DefinitionDecorator.php at line 155</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/DefinitionDecorator.php#L155" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\DefinitionDecorator.php at line 155</a>
 
 <h3 id="replaceArgument()">replaceArgument</h3>
 <span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/DefinitionDecorator>DefinitionDecorator</a></span> <span class='nf'>replaceArgument</span> (integer index, mixed value, mixed argument)

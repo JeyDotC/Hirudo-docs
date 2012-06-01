@@ -5,7 +5,7 @@
 **Smarty\Smarty_CacheResource_Custom**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_cacheresource_custom.php#L16" >framework\libs\smarty\sysplugins\smarty_cacheresource_custom.php at line 16</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_cacheresource_custom.php#L16" target='_blank'>framework\libs\smarty\sysplugins\smarty_cacheresource_custom.php at line 16</a>
 
 #Class Smarty_CacheResource_Custom#
 
@@ -17,8 +17,8 @@
 
 - - -
 
-<p class="signature"><span class='k'>public abstract  class</span> <span class='nx'>Smarty_CacheResource_Custom</span>
-extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_CacheResource.md">Smarty_CacheResource</a>
+<p><strong>public abstract  class</strong> <span>Smarty_CacheResource_Custom</span>
+<strong>extends</strong> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_CacheResource.md">Smarty_CacheResource</a>
 
 </p>
 
@@ -101,7 +101,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smart
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_cacheresource_custom.php#L29" >framework\libs\smarty\sysplugins\smarty_cacheresource_custom.php at line 29</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_cacheresource_custom.php#L29" target='_blank'>framework\libs\smarty\sysplugins\smarty_cacheresource_custom.php at line 29</a>
 
 <h3 id="fetch()">fetch</h3>
 <span class='k'>protected abstract </span> <span class='nx'>void</span> <span class='nf'>fetch</span> (string id, string name, string cache_id, string compile_id, string content, integer mtime)
@@ -122,7 +122,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smart
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_cacheresource_custom.php#L43" >framework\libs\smarty\sysplugins\smarty_cacheresource_custom.php at line 43</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_cacheresource_custom.php#L43" target='_blank'>framework\libs\smarty\sysplugins\smarty_cacheresource_custom.php at line 43</a>
 
 <h3 id="fetchTimestamp()">fetchTimestamp</h3>
 <span class='k'>protected </span> <span class='nx'>integer|boolean</span> <span class='nf'>fetchTimestamp</span> (string id, string name, string cache_id, string compile_id)
@@ -144,7 +144,7 @@ Only implement it if modification times can be accessed faster than loading the 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_cacheresource_custom.php#L59" >framework\libs\smarty\sysplugins\smarty_cacheresource_custom.php at line 59</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_cacheresource_custom.php#L59" target='_blank'>framework\libs\smarty\sysplugins\smarty_cacheresource_custom.php at line 59</a>
 
 <h3 id="save()">save</h3>
 <span class='k'>protected abstract </span> <span class='nx'>boolean</span> <span class='nf'>save</span> (string id, string name, string cache_id, string compile_id, integer|null exp_time, string content)
@@ -167,7 +167,7 @@ Only implement it if modification times can be accessed faster than loading the 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_cacheresource_custom.php#L70" >framework\libs\smarty\sysplugins\smarty_cacheresource_custom.php at line 70</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_cacheresource_custom.php#L70" target='_blank'>framework\libs\smarty\sysplugins\smarty_cacheresource_custom.php at line 70</a>
 
 <h3 id="delete()">delete</h3>
 <span class='k'>protected abstract </span> <span class='nx'>integer</span> <span class='nf'>delete</span> (string name, string cache_id, string compile_id, integer|null exp_time)
@@ -188,7 +188,7 @@ Only implement it if modification times can be accessed faster than loading the 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_cacheresource_custom.php#L79" >framework\libs\smarty\sysplugins\smarty_cacheresource_custom.php at line 79</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_cacheresource_custom.php#L79" target='_blank'>framework\libs\smarty\sysplugins\smarty_cacheresource_custom.php at line 79</a>
 
 <h3 id="populate()">populate</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>populate</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Template_Cached.md">Smarty_Template_Cached</a> cached, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> _template)
@@ -205,7 +205,7 @@ Only implement it if modification times can be accessed faster than loading the 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_cacheresource_custom.php#L94" >framework\libs\smarty\sysplugins\smarty_cacheresource_custom.php at line 94</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_cacheresource_custom.php#L94" target='_blank'>framework\libs\smarty\sysplugins\smarty_cacheresource_custom.php at line 94</a>
 
 <h3 id="populateTimestamp()">populateTimestamp</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>populateTimestamp</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Template_Cached.md">Smarty_Template_Cached</a> source, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Template_Cached.md">Smarty_Template_Cached</a> cached)
@@ -221,7 +221,7 @@ Only implement it if modification times can be accessed faster than loading the 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_cacheresource_custom.php#L115" >framework\libs\smarty\sysplugins\smarty_cacheresource_custom.php at line 115</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_cacheresource_custom.php#L115" target='_blank'>framework\libs\smarty\sysplugins\smarty_cacheresource_custom.php at line 115</a>
 
 <h3 id="process()">process</h3>
 <span class='k'></span> <span class='nx'>booelan</span> <span class='nf'>process</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> _template, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Template_Cached.md">Smarty_Template_Cached</a> cached)
@@ -240,7 +240,7 @@ Only implement it if modification times can be accessed faster than loading the 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_cacheresource_custom.php#L147" >framework\libs\smarty\sysplugins\smarty_cacheresource_custom.php at line 147</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_cacheresource_custom.php#L147" target='_blank'>framework\libs\smarty\sysplugins\smarty_cacheresource_custom.php at line 147</a>
 
 <h3 id="writeCachedContent()">writeCachedContent</h3>
 <span class='k'></span> <span class='nx'>boolean</span> <span class='nf'>writeCachedContent</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> _template, string content)
@@ -259,7 +259,7 @@ Only implement it if modification times can be accessed faster than loading the 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_cacheresource_custom.php#L166" >framework\libs\smarty\sysplugins\smarty_cacheresource_custom.php at line 166</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_cacheresource_custom.php#L166" target='_blank'>framework\libs\smarty\sysplugins\smarty_cacheresource_custom.php at line 166</a>
 
 <h3 id="clearAll()">clearAll</h3>
 <span class='k'></span> <span class='nx'>integer</span> <span class='nf'>clearAll</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty.md">Smarty</a> smarty, integer exp_time)
@@ -278,7 +278,7 @@ Only implement it if modification times can be accessed faster than loading the 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_cacheresource_custom.php#L182" >framework\libs\smarty\sysplugins\smarty_cacheresource_custom.php at line 182</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_cacheresource_custom.php#L182" target='_blank'>framework\libs\smarty\sysplugins\smarty_cacheresource_custom.php at line 182</a>
 
 <h3 id="clear()">clear</h3>
 <span class='k'></span> <span class='nx'>integer</span> <span class='nf'>clear</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty.md">Smarty</a> smarty, string resource_name, string cache_id, string compile_id, integer exp_time)
@@ -300,7 +300,7 @@ Only implement it if modification times can be accessed faster than loading the 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_cacheresource_custom.php#L195" >framework\libs\smarty\sysplugins\smarty_cacheresource_custom.php at line 195</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_cacheresource_custom.php#L195" target='_blank'>framework\libs\smarty\sysplugins\smarty_cacheresource_custom.php at line 195</a>
 
 <h3 id="hasLock()">hasLock</h3>
 <span class='k'></span> <span class='nx'>booelan</span> <span class='nf'>hasLock</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty.md">Smarty</a> smarty, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Template_Cached.md">Smarty_Template_Cached</a> cached)
@@ -319,7 +319,7 @@ Only implement it if modification times can be accessed faster than loading the 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_cacheresource_custom.php#L214" >framework\libs\smarty\sysplugins\smarty_cacheresource_custom.php at line 214</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_cacheresource_custom.php#L214" target='_blank'>framework\libs\smarty\sysplugins\smarty_cacheresource_custom.php at line 214</a>
 
 <h3 id="acquireLock()">acquireLock</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>acquireLock</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty.md">Smarty</a> smarty, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Template_Cached.md">Smarty_Template_Cached</a> cached)
@@ -336,7 +336,7 @@ Only implement it if modification times can be accessed faster than loading the 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_cacheresource_custom.php#L229" >framework\libs\smarty\sysplugins\smarty_cacheresource_custom.php at line 229</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_cacheresource_custom.php#L229" target='_blank'>framework\libs\smarty\sysplugins\smarty_cacheresource_custom.php at line 229</a>
 
 <h3 id="releaseLock()">releaseLock</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>releaseLock</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty.md">Smarty</a> smarty, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Template_Cached.md">Smarty_Template_Cached</a> cached)

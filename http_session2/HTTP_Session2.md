@@ -5,7 +5,7 @@
 **HTTP_Session2\HTTP_Session2**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L112" >framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 112</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L112" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 112</a>
 
 #Class HTTP_Session2#
 
@@ -16,7 +16,7 @@
 
 - - -
 
-<p class="signature"><span class='k'>public  class</span> <span class='nx'>HTTP_Session2</span></p>
+<p><strong>public  class</strong> <span>HTTP_Session2</span></p>
 
 <div class="comment" id="overview_description"><p>Class for managing HTTP sessions</p><p>Provides access to session-state values as well as session-level
 settings and lifetime management methods.
@@ -209,7 +209,7 @@ and session data is cleaned upIt returns the previous value of this property</p>
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L151" >framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 151</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L151" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 151</a>
 
 <h3 id="start()">start</h3>
 <span class='k'>static </span> <span class='nx'>void</span> <span class='nf'>start</span> (string name, string id)
@@ -233,7 +233,7 @@ You can provide your own name and/or id for a session.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L184" >framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 184</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L184" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 184</a>
 
 <h3 id="pause()">pause</h3>
 <span class='k'>static </span> <span class='nx'>void</span> <span class='nf'>pause</span> ()
@@ -257,7 +257,7 @@ to session variables are done.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L202" >framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 202</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L202" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 202</a>
 
 <h3 id="destroy()">destroy</h3>
 <span class='k'>static </span> <span class='nx'>void</span> <span class='nf'>destroy</span> ()
@@ -279,7 +279,7 @@ is called. It does not unset the session cookie.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L213" >framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 213</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L213" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 213</a>
 
 <h3 id="clear()">clear</h3>
 <span class='k'>static </span> <span class='nx'>void</span> <span class='nf'>clear</span> ()
@@ -295,7 +295,7 @@ is called. It does not unset the session cookie.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L226" >framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 226</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L226" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 226</a>
 
 <h3 id="detectID()">detectID</h3>
 <span class='k'>static </span> <span class='nx'>string</span> <span class='nf'>detectID</span> ()
@@ -311,7 +311,7 @@ is called. It does not unset the session cookie.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L250" >framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 250</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L250" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 250</a>
 
 <h3 id="name()">name</h3>
 <span class='k'>static </span> <span class='nx'>string</span> <span class='nf'>name</span> (string name)
@@ -331,7 +331,7 @@ is called. It does not unset the session cookie.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L265" >framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 265</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L265" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 265</a>
 
 <h3 id="id()">id</h3>
 <span class='k'>static </span> <span class='nx'>string</span> <span class='nf'>id</span> (string id)
@@ -351,7 +351,7 @@ is called. It does not unset the session cookie.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L280" >framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 280</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L280" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 280</a>
 
 <h3 id="setExpire()">setExpire</h3>
 <span class='k'>static </span> <span class='nx'>void</span> <span class='nf'>setExpire</span> (integer time, bool add)
@@ -368,7 +368,7 @@ is called. It does not unset the session cookie.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L303" >framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 303</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L303" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 303</a>
 
 <h3 id="setIdle()">setIdle</h3>
 <span class='k'>static </span> <span class='nx'>void</span> <span class='nf'>setIdle</span> (integer time, bool add)
@@ -387,7 +387,7 @@ provider terminates the session.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L319" >framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 319</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L319" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 319</a>
 
 <h3 id="sessionValidThru()">sessionValidThru</h3>
 <span class='k'>static </span> <span class='nx'>integer</span> <span class='nf'>sessionValidThru</span> ()
@@ -403,7 +403,7 @@ provider terminates the session.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L334" >framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 334</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L334" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 334</a>
 
 <h3 id="isExpired()">isExpired</h3>
 <span class='k'>static </span> <span class='nx'>boolean</span> <span class='nf'>isExpired</span> ()
@@ -415,7 +415,7 @@ provider terminates the session.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L354" >framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 354</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L354" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 354</a>
 
 <h3 id="isIdle()">isIdle</h3>
 <span class='k'>static </span> <span class='nx'>boolean</span> <span class='nf'>isIdle</span> ()
@@ -431,7 +431,7 @@ provider terminates the session.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L373" >framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 373</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L373" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 373</a>
 
 <h3 id="updateIdle()">updateIdle</h3>
 <span class='k'>static </span> <span class='nx'>void</span> <span class='nf'>updateIdle</span> ()
@@ -443,7 +443,7 @@ provider terminates the session.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L401" >framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 401</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L401" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 401</a>
 
 <h3 id="useCookies()">useCookies</h3>
 <span class='k'>static </span> <span class='nx'>boolean</span> <span class='nf'>useCookies</span> (boolean useCookies)
@@ -469,7 +469,7 @@ property.</p><p>It returns the previous value of this property.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L435" >framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 435</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L435" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 435</a>
 
 <h3 id="isNew()">isNew</h3>
 <span class='k'>static </span> <span class='nx'>boolean</span> <span class='nf'>isNew</span> ()
@@ -491,7 +491,7 @@ the session with the HTTP_Session2::start() method.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L453" >framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 453</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L453" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 453</a>
 
 <h3 id="register()">register</h3>
 <span class='k'>static </span> <span class='nx'>void</span> <span class='nf'>register</span> (string name)
@@ -509,7 +509,7 @@ the session with the HTTP_Session2::start() method.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L465" >framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 465</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L465" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 465</a>
 
 <h3 id="unregister()">unregister</h3>
 <span class='k'>static </span> <span class='nx'>void</span> <span class='nf'>unregister</span> (string name)
@@ -527,7 +527,7 @@ the session with the HTTP_Session2::start() method.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L477" >framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 477</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L477" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 477</a>
 
 <h3 id="get()">get</h3>
 <span class='k'>static </span> <span class='nx'>mixed</span> <span class='nf'>get</span> (string name, mixed default)
@@ -546,7 +546,7 @@ the session with the HTTP_Session2::start() method.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L492" >framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 492</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L492" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 492</a>
 
 <h3 id="set()">set</h3>
 <span class='k'>static </span> <span class='nx'>mixed</span> <span class='nf'>set</span> (string name, mixed value)
@@ -565,7 +565,7 @@ the session with the HTTP_Session2::start() method.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L512" >framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 512</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L512" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 512</a>
 
 <h3 id="getLocal()">getLocal</h3>
 <span class='k'>static </span> <span class='nx'>mixed</span> <span class='nf'>getLocal</span> (string name, mixed default)
@@ -584,7 +584,7 @@ the session with the HTTP_Session2::start() method.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L532" >framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 532</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L532" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 532</a>
 
 <h3 id="setLocal()">setLocal</h3>
 <span class='k'>static </span> <span class='nx'>mixed</span> <span class='nf'>setLocal</span> (string name, mixed value)
@@ -604,7 +604,7 @@ Two scripts can have local variables with the same names.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L553" >framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 553</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L553" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 553</a>
 
 <h3 id="useTransSID()">useTransSID</h3>
 <span class='k'>static </span> <span class='nx'>boolean</span> <span class='nf'>useTransSID</span> (boolean useTransSID)
@@ -620,7 +620,7 @@ Two scripts can have local variables with the same names.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L568" >framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 568</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L568" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 568</a>
 
 <h3 id="localName()">localName</h3>
 <span class='k'>static </span> <span class='nx'>string</span> <span class='nf'>localName</span> (string name)
@@ -638,7 +638,7 @@ Two scripts can have local variables with the same names.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L584" >framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 584</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L584" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 584</a>
 
 <h3 id="init()">init</h3>
 <span class='k'>static </span> <span class='nx'>void</span> <span class='nf'>init</span> ()
@@ -650,7 +650,7 @@ Two scripts can have local variables with the same names.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L601" >framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 601</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L601" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 601</a>
 
 <h3 id="regenerateId()">regenerateId</h3>
 <span class='k'>static </span> <span class='nx'>boolean</span> <span class='nf'>regenerateId</span> (boolean deleteOldSessionData)
@@ -666,7 +666,7 @@ Two scripts can have local variables with the same names.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L630" >framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 630</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L630" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 630</a>
 
 <h3 id="replicate()">replicate</h3>
 <span class='k'>static </span> <span class='nx'>boolean</span> <span class='nf'>replicate</span> (string target, string id)
@@ -683,7 +683,7 @@ Two scripts can have local variables with the same names.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L645" >framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 645</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L645" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 645</a>
 
 <h3 id="setGcMaxLifetime()">setGcMaxLifetime</h3>
 <span class='k'>static </span> <span class='nx'>boolean</span> <span class='nf'>setGcMaxLifetime</span> (int gcMaxLifetime)
@@ -702,7 +702,7 @@ after which session data will be seen as 'garbage' and cleaned up</p><p>It retur
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L665" >framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 665</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L665" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 665</a>
 
 <h3 id="setGcProbability()">setGcProbability</h3>
 <span class='k'>static </span> <span class='nx'>boolean</span> <span class='nf'>setGcProbability</span> (int gcProbability)

@@ -1,6 +1,10 @@
 - - -
 
-#Class Hierarchy for Package Hirudo\Core\DependencyInjection#<ul>
+#Class Hierarchy for Package Hirudo\Core\DependencyInjection
+
+<div><a href='https://github.com/JeyDotC/Hirudo-docs/tree/master/hirudo/core/dependencyinjection'>Back to package summary</a></div>
+
+<ul>
 <li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/ContainerAware.md">Symfony\Component\DependencyInjection\ContainerAware</a><ul>
 <li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/dependencyinjection/AnnotationsBasedDependenciesManager.md">Hirudo\Core\DependencyInjection\AnnotationsBasedDependenciesManager</a></li>
 </ul>

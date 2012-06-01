@@ -5,7 +5,7 @@
 **Hirudo\Core\Annotations\Export**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Annotations/Export.php#L34" >framework\hirudo\Hirudo\Core\Annotations\Export.php at line 34</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Annotations/Export.php#L34" target='_blank'>framework\hirudo\Hirudo\Core\Annotations\Export.php at line 34</a>
 
 #Class Export#
 
@@ -16,7 +16,7 @@
 
 - - -
 
-<p class="signature"><span class='k'>public final  class</span> <span class='nx'>Export</span></p>
+<p><strong>public final  class</strong> <span>Export</span></p>
 
 <div class="comment" id="overview_description"><p>Signals a class, method or property as a service exporter.</p></div>
 

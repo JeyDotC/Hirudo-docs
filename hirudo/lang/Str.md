@@ -5,7 +5,7 @@
 **Hirudo\Lang\Str**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Lang/Str.php#L10" >framework\hirudo\Hirudo\Lang\Str.php at line 10</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Lang/Str.php#L10" target='_blank'>framework\hirudo\Hirudo\Lang\Str.php at line 10</a>
 
 #Class Str#
 
@@ -17,8 +17,8 @@
 
 - - -
 
-<p class="signature"><span class='k'>public abstract  class</span> <span class='nx'>Str</span>
-extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/lang/String.md">String</a>
+<p><strong>public abstract  class</strong> <span>Str</span>
+<strong>extends</strong> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/lang/String.md">String</a>
 
 </p>
 

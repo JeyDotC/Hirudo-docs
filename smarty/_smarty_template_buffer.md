@@ -5,7 +5,7 @@
 **Smarty\_smarty_template_buffer**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_parsetree.php#L244" >framework\libs\smarty\sysplugins\smarty_internal_parsetree.php at line 244</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_parsetree.php#L244" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_parsetree.php at line 244</a>
 
 #Class _smarty_template_buffer#
 
@@ -17,8 +17,8 @@
 
 - - -
 
-<p class="signature"><span class='k'>public  class</span> <span class='nx'>_smarty_template_buffer</span>
-extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/_smarty_parsetree.md">_smarty_parsetree</a>
+<p><strong>public  class</strong> <span>_smarty_template_buffer</span>
+<strong>extends</strong> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/_smarty_parsetree.md">_smarty_parsetree</a>
 
 </p>
 
@@ -74,7 +74,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/_smar
 
 <h2 id="detail_method">Constructor Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_parsetree.php#L258" >framework\libs\smarty\sysplugins\smarty_internal_parsetree.php at line 258</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_parsetree.php#L258" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_parsetree.php at line 258</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (object parser)
@@ -91,7 +91,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/_smar
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_parsetree.php#L268" >framework\libs\smarty\sysplugins\smarty_internal_parsetree.php at line 268</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_parsetree.php#L268" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_parsetree.php at line 268</a>
 
 <h3 id="append_subtree()">append_subtree</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>append_subtree</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/_smarty_parsetree.md">_smarty_parsetree</a> subtree)
@@ -103,7 +103,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/_smar
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_parsetree.php#L278" >framework\libs\smarty\sysplugins\smarty_internal_parsetree.php at line 278</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_parsetree.php#L278" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_parsetree.php at line 278</a>
 
 <h3 id="to_smarty_php()">to_smarty_php</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>to_smarty_php</span> ()

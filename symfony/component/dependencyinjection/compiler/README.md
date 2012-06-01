@@ -4,6 +4,8 @@
 
 #Namespace Symfony\Component\DependencyInjection\Compiler#
 
+<div><a href='https://github.com/JeyDotC/Hirudo-docs/tree/master/symfony/component/dependencyinjection/compiler/package-tree.md'>View Class Hierarchy for this Package</a></div>
+
 <table class="title">
 <tr><th colspan="2" class="title">Class Summary</th></tr>
 <tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/compiler/AnalyzeServiceReferencesPass.md">AnalyzeServiceReferencesPass</a></td><td class="description">Run this pass before passes that need to know more about the relation of

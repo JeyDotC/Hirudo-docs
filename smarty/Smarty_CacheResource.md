@@ -5,7 +5,7 @@
 **Smarty\Smarty_CacheResource**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_cacheresource.php#L16" >framework\libs\smarty\sysplugins\smarty_cacheresource.php at line 16</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_cacheresource.php#L16" target='_blank'>framework\libs\smarty\sysplugins\smarty_cacheresource.php at line 16</a>
 
 #Class Smarty_CacheResource#
 
@@ -21,7 +21,7 @@
 
 - - -
 
-<p class="signature"><span class='k'>public abstract  class</span> <span class='nx'>Smarty_CacheResource</span></p>
+<p><strong>public abstract  class</strong> <span>Smarty_CacheResource</span></p>
 
 <div class="comment" id="overview_description"><p>Cache Handler API</p></div>
 
@@ -109,7 +109,7 @@
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_cacheresource.php#L36" >framework\libs\smarty\sysplugins\smarty_cacheresource.php at line 36</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_cacheresource.php#L36" target='_blank'>framework\libs\smarty\sysplugins\smarty_cacheresource.php at line 36</a>
 
 <h3 id="populate()">populate</h3>
 <span class='k'>abstract </span> <span class='nx'>void</span> <span class='nf'>populate</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Template_Cached.md">Smarty_Template_Cached</a> cached, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> _template)
@@ -126,7 +126,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_cacheresource.php#L44" >framework\libs\smarty\sysplugins\smarty_cacheresource.php at line 44</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_cacheresource.php#L44" target='_blank'>framework\libs\smarty\sysplugins\smarty_cacheresource.php at line 44</a>
 
 <h3 id="populateTimestamp()">populateTimestamp</h3>
 <span class='k'>abstract </span> <span class='nx'>void</span> <span class='nf'>populateTimestamp</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Template_Cached.md">Smarty_Template_Cached</a> source, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Template_Cached.md">Smarty_Template_Cached</a> cached)
@@ -142,7 +142,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_cacheresource.php#L53" >framework\libs\smarty\sysplugins\smarty_cacheresource.php at line 53</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_cacheresource.php#L53" target='_blank'>framework\libs\smarty\sysplugins\smarty_cacheresource.php at line 53</a>
 
 <h3 id="process()">process</h3>
 <span class='k'>abstract </span> <span class='nx'>booelan</span> <span class='nf'>process</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> _template, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Template_Cached.md">Smarty_Template_Cached</a> cached)
@@ -161,7 +161,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_cacheresource.php#L62" >framework\libs\smarty\sysplugins\smarty_cacheresource.php at line 62</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_cacheresource.php#L62" target='_blank'>framework\libs\smarty\sysplugins\smarty_cacheresource.php at line 62</a>
 
 <h3 id="writeCachedContent()">writeCachedContent</h3>
 <span class='k'>abstract </span> <span class='nx'>boolean</span> <span class='nf'>writeCachedContent</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> _template, string content)
@@ -180,7 +180,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_cacheresource.php#L70" >framework\libs\smarty\sysplugins\smarty_cacheresource.php at line 70</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_cacheresource.php#L70" target='_blank'>framework\libs\smarty\sysplugins\smarty_cacheresource.php at line 70</a>
 
 <h3 id="getCachedContent()">getCachedContent</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>getCachedContent</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> _template, string content)
@@ -197,7 +197,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_cacheresource.php#L87" >framework\libs\smarty\sysplugins\smarty_cacheresource.php at line 87</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_cacheresource.php#L87" target='_blank'>framework\libs\smarty\sysplugins\smarty_cacheresource.php at line 87</a>
 
 <h3 id="clearAll()">clearAll</h3>
 <span class='k'>abstract </span> <span class='nx'>integer</span> <span class='nf'>clearAll</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty.md">Smarty</a> smarty, integer exp_time)
@@ -216,7 +216,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_cacheresource.php#L99" >framework\libs\smarty\sysplugins\smarty_cacheresource.php at line 99</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_cacheresource.php#L99" target='_blank'>framework\libs\smarty\sysplugins\smarty_cacheresource.php at line 99</a>
 
 <h3 id="clear()">clear</h3>
 <span class='k'>abstract </span> <span class='nx'>integer</span> <span class='nf'>clear</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty.md">Smarty</a> smarty, string resource_name, string cache_id, string compile_id, integer exp_time)
@@ -238,7 +238,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_cacheresource.php#L102" >framework\libs\smarty\sysplugins\smarty_cacheresource.php at line 102</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_cacheresource.php#L102" target='_blank'>framework\libs\smarty\sysplugins\smarty_cacheresource.php at line 102</a>
 
 <h3 id="locked()">locked</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>locked</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty.md">Smarty</a> smarty, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Template_Cached.md">Smarty_Template_Cached</a> cached)
@@ -250,7 +250,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_cacheresource.php#L118" >framework\libs\smarty\sysplugins\smarty_cacheresource.php at line 118</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_cacheresource.php#L118" target='_blank'>framework\libs\smarty\sysplugins\smarty_cacheresource.php at line 118</a>
 
 <h3 id="hasLock()">hasLock</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>hasLock</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty.md">Smarty</a> smarty, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Template_Cached.md">Smarty_Template_Cached</a> cached)
@@ -262,7 +262,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_cacheresource.php#L124" >framework\libs\smarty\sysplugins\smarty_cacheresource.php at line 124</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_cacheresource.php#L124" target='_blank'>framework\libs\smarty\sysplugins\smarty_cacheresource.php at line 124</a>
 
 <h3 id="acquireLock()">acquireLock</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>acquireLock</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty.md">Smarty</a> smarty, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Template_Cached.md">Smarty_Template_Cached</a> cached)
@@ -274,7 +274,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_cacheresource.php#L130" >framework\libs\smarty\sysplugins\smarty_cacheresource.php at line 130</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_cacheresource.php#L130" target='_blank'>framework\libs\smarty\sysplugins\smarty_cacheresource.php at line 130</a>
 
 <h3 id="releaseLock()">releaseLock</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>releaseLock</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty.md">Smarty</a> smarty, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Template_Cached.md">Smarty_Template_Cached</a> cached)
@@ -286,7 +286,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_cacheresource.php#L144" >framework\libs\smarty\sysplugins\smarty_cacheresource.php at line 144</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_cacheresource.php#L144" target='_blank'>framework\libs\smarty\sysplugins\smarty_cacheresource.php at line 144</a>
 
 <h3 id="load()">load</h3>
 <span class='k'>static </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_CacheResource>Smarty_CacheResource</a></span> <span class='nf'>load</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty.md">Smarty</a> smarty, string type)
@@ -305,7 +305,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_cacheresource.php#L185" >framework\libs\smarty\sysplugins\smarty_cacheresource.php at line 185</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_cacheresource.php#L185" target='_blank'>framework\libs\smarty\sysplugins\smarty_cacheresource.php at line 185</a>
 
 <h3 id="invalidLoadedCache()">invalidLoadedCache</h3>
 <span class='k'>static </span> <span class='nx'>void</span> <span class='nf'>invalidLoadedCache</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty.md">Smarty</a> smarty)

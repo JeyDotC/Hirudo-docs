@@ -5,7 +5,7 @@
 **Hirudo\Impl\Joomla\JoomlaHelper**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Joomla/JoomlaHelper.php#L29" >framework\hirudo\Hirudo\Impl\Joomla\JoomlaHelper.php at line 29</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Joomla/JoomlaHelper.php#L29" target='_blank'>framework\hirudo\Hirudo\Impl\Joomla\JoomlaHelper.php at line 29</a>
 
 #Class JoomlaHelper#
 
@@ -16,7 +16,7 @@
 
 - - -
 
-<p class="signature"><span class='k'>public  class</span> <span class='nx'>JoomlaHelper</span></p>
+<p><strong>public  class</strong> <span>JoomlaHelper</span></p>
 
 <div class="comment" id="overview_description"><p>Description of _JoomlaHelper</p></div>
 
@@ -38,7 +38,7 @@
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Joomla/JoomlaHelper.php#L35" >framework\hirudo\Hirudo\Impl\Joomla\JoomlaHelper.php at line 35</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Joomla/JoomlaHelper.php#L35" target='_blank'>framework\hirudo\Hirudo\Impl\Joomla\JoomlaHelper.php at line 35</a>
 
 <h3 id="getMainframe()">getMainframe</h3>
 <span class='k'>static </span> <span class='nx'>JApplication</span> <span class='nf'>getMainframe</span> ()

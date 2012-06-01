@@ -5,7 +5,7 @@
 **SampleApp\Models\Entities\ComplexObject**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/SampleApp/Models/Entities/ComplexObject.php#L10" >src\SampleApp\Models\Entities\ComplexObject.php at line 10</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/SampleApp/Models/Entities/ComplexObject.php#L10" target='_blank'>src\SampleApp\Models\Entities\ComplexObject.php at line 10</a>
 
 #Class ComplexObject#
 
@@ -16,7 +16,7 @@
 
 - - -
 
-<p class="signature"><span class='k'>public  class</span> <span class='nx'>ComplexObject</span></p>
+<p><strong>public  class</strong> <span>ComplexObject</span></p>
 
 <div class="comment" id="overview_description"><p>Description of ComplexObject</p></div>
 
@@ -58,7 +58,7 @@
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/SampleApp/Models/Entities/ComplexObject.php#L30" >src\SampleApp\Models\Entities\ComplexObject.php at line 30</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/SampleApp/Models/Entities/ComplexObject.php#L30" target='_blank'>src\SampleApp\Models\Entities\ComplexObject.php at line 30</a>
 
 <h3 id="getName()">getName</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>getName</span> ()
@@ -70,7 +70,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/SampleApp/Models/Entities/ComplexObject.php#L34" >src\SampleApp\Models\Entities\ComplexObject.php at line 34</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/SampleApp/Models/Entities/ComplexObject.php#L34" target='_blank'>src\SampleApp\Models\Entities\ComplexObject.php at line 34</a>
 
 <h3 id="setName()">setName</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>setName</span> (mixed name)
@@ -82,7 +82,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/SampleApp/Models/Entities/ComplexObject.php#L38" >src\SampleApp\Models\Entities\ComplexObject.php at line 38</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/SampleApp/Models/Entities/ComplexObject.php#L38" target='_blank'>src\SampleApp\Models\Entities\ComplexObject.php at line 38</a>
 
 <h3 id="getPass()">getPass</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>getPass</span> ()
@@ -94,7 +94,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/SampleApp/Models/Entities/ComplexObject.php#L42" >src\SampleApp\Models\Entities\ComplexObject.php at line 42</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/SampleApp/Models/Entities/ComplexObject.php#L42" target='_blank'>src\SampleApp\Models\Entities\ComplexObject.php at line 42</a>
 
 <h3 id="setPass()">setPass</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>setPass</span> (mixed pass)
@@ -106,7 +106,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/SampleApp/Models/Entities/ComplexObject.php#L46" >src\SampleApp\Models\Entities\ComplexObject.php at line 46</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/SampleApp/Models/Entities/ComplexObject.php#L46" target='_blank'>src\SampleApp\Models\Entities\ComplexObject.php at line 46</a>
 
 <h3 id="getSimpleObject()">getSimpleObject</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>getSimpleObject</span> ()
@@ -118,7 +118,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/SampleApp/Models/Entities/ComplexObject.php#L50" >src\SampleApp\Models\Entities\ComplexObject.php at line 50</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/SampleApp/Models/Entities/ComplexObject.php#L50" target='_blank'>src\SampleApp\Models\Entities\ComplexObject.php at line 50</a>
 
 <h3 id="setSimpleObject()">setSimpleObject</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>setSimpleObject</span> (mixed simpleObject)

@@ -5,7 +5,7 @@
 **Symfony\Component\DependencyInjection\Compiler\Compiler**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/Compiler.php#L24" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\Compiler.php at line 24</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/Compiler.php#L24" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\Compiler.php at line 24</a>
 
 #Class Compiler#
 
@@ -16,7 +16,7 @@
 
 - - -
 
-<p class="signature"><span class='k'>public  class</span> <span class='nx'>Compiler</span></p>
+<p><strong>public  class</strong> <span>Compiler</span></p>
 
 <div class="comment" id="overview_description"><p>This class is used to remove circular dependencies between individual passes.</p></div>
 
@@ -71,7 +71,7 @@
 
 <h2 id="detail_method">Constructor Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/Compiler.php#L34" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\Compiler.php at line 34</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/Compiler.php#L34" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\Compiler.php at line 34</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> ()
@@ -84,7 +84,7 @@
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/Compiler.php#L49" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\Compiler.php at line 49</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/Compiler.php#L49" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\Compiler.php at line 49</a>
 
 <h3 id="getPassConfig()">getPassConfig</h3>
 <span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/compiler/PassConfig>PassConfig</a></span> <span class='nf'>getPassConfig</span> ()
@@ -101,7 +101,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/Compiler.php#L61" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\Compiler.php at line 61</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/Compiler.php#L61" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\Compiler.php at line 61</a>
 
 <h3 id="getServiceReferenceGraph()">getServiceReferenceGraph</h3>
 <span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/compiler/ServiceReferenceGraph>ServiceReferenceGraph</a></span> <span class='nf'>getServiceReferenceGraph</span> ()
@@ -118,7 +118,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/Compiler.php#L71" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\Compiler.php at line 71</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/Compiler.php#L71" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\Compiler.php at line 71</a>
 
 <h3 id="getLoggingFormatter()">getLoggingFormatter</h3>
 <span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/compiler/LoggingFormatter>LoggingFormatter</a></span> <span class='nf'>getLoggingFormatter</span> ()
@@ -130,7 +130,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/Compiler.php#L84" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\Compiler.php at line 84</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/Compiler.php#L84" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\Compiler.php at line 84</a>
 
 <h3 id="addPass()">addPass</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>addPass</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/compiler/CompilerPassInterface.md">CompilerPassInterface</a> pass, string type)
@@ -148,7 +148,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/Compiler.php#L94" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\Compiler.php at line 94</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/Compiler.php#L94" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\Compiler.php at line 94</a>
 
 <h3 id="addLogMessage()">addLogMessage</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>addLogMessage</span> (string string)
@@ -164,7 +164,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/Compiler.php#L104" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\Compiler.php at line 104</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/Compiler.php#L104" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\Compiler.php at line 104</a>
 
 <h3 id="getLog()">getLog</h3>
 <span class='k'></span> <span class='nx'>array</span> <span class='nf'>getLog</span> ()
@@ -180,7 +180,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/Compiler.php#L116" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\Compiler.php at line 116</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/Compiler.php#L116" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\Compiler.php at line 116</a>
 
 <h3 id="compile()">compile</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>compile</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/ContainerBuilder.md">ContainerBuilder</a> container)

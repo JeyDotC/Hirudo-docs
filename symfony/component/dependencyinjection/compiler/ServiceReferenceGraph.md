@@ -5,7 +5,7 @@
 **Symfony\Component\DependencyInjection\Compiler\ServiceReferenceGraph**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/ServiceReferenceGraph.php#L22" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\ServiceReferenceGraph.php at line 22</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/ServiceReferenceGraph.php#L22" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\ServiceReferenceGraph.php at line 22</a>
 
 #Class ServiceReferenceGraph#
 
@@ -16,7 +16,7 @@
 
 - - -
 
-<p class="signature"><span class='k'>public  class</span> <span class='nx'>ServiceReferenceGraph</span></p>
+<p><strong>public  class</strong> <span>ServiceReferenceGraph</span></p>
 
 <div class="comment" id="overview_description"><p>This is a directed graph of your services.</p><p>This information can be used by your compiler passes instead of collecting
 it themselves which improves performance quite a lot.</p></div>
@@ -63,7 +63,7 @@ it themselves which improves performance quite a lot.</p></div>
 
 <h2 id="detail_method">Constructor Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/ServiceReferenceGraph.php#L29" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\ServiceReferenceGraph.php at line 29</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/ServiceReferenceGraph.php#L29" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\ServiceReferenceGraph.php at line 29</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> ()
@@ -76,7 +76,7 @@ it themselves which improves performance quite a lot.</p></div>
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/ServiceReferenceGraph.php#L39" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\ServiceReferenceGraph.php at line 39</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/ServiceReferenceGraph.php#L39" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\ServiceReferenceGraph.php at line 39</a>
 
 <h3 id="hasNode()">hasNode</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>hasNode</span> (string id)
@@ -92,7 +92,7 @@ it themselves which improves performance quite a lot.</p></div>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/ServiceReferenceGraph.php#L51" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\ServiceReferenceGraph.php at line 51</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/ServiceReferenceGraph.php#L51" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\ServiceReferenceGraph.php at line 51</a>
 
 <h3 id="getNode()">getNode</h3>
 <span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/compiler/ServiceReferenceGraphNode>ServiceReferenceGraphNode</a></span> <span class='nf'>getNode</span> (string id)
@@ -112,7 +112,7 @@ it themselves which improves performance quite a lot.</p></div>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/ServiceReferenceGraph.php#L65" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\ServiceReferenceGraph.php at line 65</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/ServiceReferenceGraph.php#L65" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\ServiceReferenceGraph.php at line 65</a>
 
 <h3 id="getNodes()">getNodes</h3>
 <span class='k'></span> <span class='nx'>array</span> <span class='nf'>getNodes</span> ()
@@ -128,7 +128,7 @@ it themselves which improves performance quite a lot.</p></div>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/ServiceReferenceGraph.php#L73" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\ServiceReferenceGraph.php at line 73</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/ServiceReferenceGraph.php#L73" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\ServiceReferenceGraph.php at line 73</a>
 
 <h3 id="clear()">clear</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>clear</span> ()
@@ -140,7 +140,7 @@ it themselves which improves performance quite a lot.</p></div>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/ServiceReferenceGraph.php#L87" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\ServiceReferenceGraph.php at line 87</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/ServiceReferenceGraph.php#L87" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\ServiceReferenceGraph.php at line 87</a>
 
 <h3 id="connect()">connect</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>connect</span> (string sourceId, string sourceValue, string destId, string destValue, string reference)

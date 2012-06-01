@@ -5,7 +5,7 @@
 **Symfony\Component\DependencyInjection\Exception\InvalidArgumentException**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Exception/InvalidArgumentException.php#L21" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Exception\InvalidArgumentException.php at line 21</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Exception/InvalidArgumentException.php#L21" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Exception\InvalidArgumentException.php at line 21</a>
 
 #Class InvalidArgumentException#
 
@@ -27,8 +27,8 @@ BaseInvalidArgumentException
 
 - - -
 
-<p class="signature"><span class='k'>public  class</span> <span class='nx'>InvalidArgumentException</span>
-extends BaseInvalidArgumentException
+<p><strong>public  class</strong> <span>InvalidArgumentException</span>
+<strong>extends</strong> BaseInvalidArgumentException
 
 </p>
 

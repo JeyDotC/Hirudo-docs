@@ -5,7 +5,7 @@
 **Hirudo\Models\Components\Restful\RequestCodes**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Models/Components/Restful/RestRequest.php#L24" >framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 24</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Models/Components/Restful/RestRequest.php#L24" target='_blank'>framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 24</a>
 
 #Class RequestCodes#
 
@@ -16,7 +16,7 @@
 
 - - -
 
-<p class="signature"><span class='k'>public  class</span> <span class='nx'>RequestCodes</span></p>
+<p><strong>public  class</strong> <span>RequestCodes</span></p>
 
 <div class="comment" id="overview_description"><p>«Copyright 2012 Jeysson José Guevara Mendivil(JeyDotC)»</p><p>This file is part of Hirudo.</p><p>Hirudo is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -125,7 +125,7 @@ along with Hirudo.  If not, see <http://www.gnu.org/licenses/>.</p></div>
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Models/Components/Restful/RestRequest.php#L35" >framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 35</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Models/Components/Restful/RestRequest.php#L35" target='_blank'>framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 35</a>
 
 <h3 id="flush()">flush</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>flush</span> ()
@@ -137,7 +137,7 @@ along with Hirudo.  If not, see <http://www.gnu.org/licenses/>.</p></div>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Models/Components/Restful/RestRequest.php#L49" >framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 49</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Models/Components/Restful/RestRequest.php#L49" target='_blank'>framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 49</a>
 
 <h3 id="execute()">execute</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>execute</span> ()
@@ -154,7 +154,7 @@ along with Hirudo.  If not, see <http://www.gnu.org/licenses/>.</p></div>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Models/Components/Restful/RestRequest.php#L100" >framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 100</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Models/Components/Restful/RestRequest.php#L100" target='_blank'>framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 100</a>
 
 <h3 id="executeGet()">executeGet</h3>
 <span class='k'>protected </span> <span class='nx'>void</span> <span class='nf'>executeGet</span> (type ch)
@@ -166,7 +166,7 @@ along with Hirudo.  If not, see <http://www.gnu.org/licenses/>.</p></div>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Models/Components/Restful/RestRequest.php#L108" >framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 108</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Models/Components/Restful/RestRequest.php#L108" target='_blank'>framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 108</a>
 
 <h3 id="executePost()">executePost</h3>
 <span class='k'>protected </span> <span class='nx'>void</span> <span class='nf'>executePost</span> (type ch)
@@ -178,7 +178,7 @@ along with Hirudo.  If not, see <http://www.gnu.org/licenses/>.</p></div>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Models/Components/Restful/RestRequest.php#L124" >framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 124</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Models/Components/Restful/RestRequest.php#L124" target='_blank'>framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 124</a>
 
 <h3 id="executePut()">executePut</h3>
 <span class='k'>protected </span> <span class='nx'>void</span> <span class='nf'>executePut</span> (type ch)
@@ -190,7 +190,7 @@ along with Hirudo.  If not, see <http://www.gnu.org/licenses/>.</p></div>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Models/Components/Restful/RestRequest.php#L147" >framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 147</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Models/Components/Restful/RestRequest.php#L147" target='_blank'>framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 147</a>
 
 <h3 id="executeDelete()">executeDelete</h3>
 <span class='k'>protected </span> <span class='nx'>void</span> <span class='nf'>executeDelete</span> (mixed ch)
@@ -202,7 +202,7 @@ along with Hirudo.  If not, see <http://www.gnu.org/licenses/>.</p></div>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Models/Components/Restful/RestRequest.php#L153" >framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 153</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Models/Components/Restful/RestRequest.php#L153" target='_blank'>framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 153</a>
 
 <h3 id="doExecute()">doExecute</h3>
 <span class='k'>protected </span> <span class='nx'>void</span> <span class='nf'>doExecute</span> (mixed curlHandle)
@@ -214,7 +214,7 @@ along with Hirudo.  If not, see <http://www.gnu.org/licenses/>.</p></div>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Models/Components/Restful/RestRequest.php#L166" >framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 166</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Models/Components/Restful/RestRequest.php#L166" target='_blank'>framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 166</a>
 
 <h3 id="setCurlOpts()">setCurlOpts</h3>
 <span class='k'>protected </span> <span class='nx'>void</span> <span class='nf'>setCurlOpts</span> (mixed curlHandle)
@@ -226,7 +226,7 @@ along with Hirudo.  If not, see <http://www.gnu.org/licenses/>.</p></div>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Models/Components/Restful/RestRequest.php#L173" >framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 173</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Models/Components/Restful/RestRequest.php#L173" target='_blank'>framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 173</a>
 
 <h3 id="setAuth()">setAuth</h3>
 <span class='k'>protected </span> <span class='nx'>void</span> <span class='nf'>setAuth</span> (mixed curlHandle)
@@ -238,7 +238,7 @@ along with Hirudo.  If not, see <http://www.gnu.org/licenses/>.</p></div>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Models/Components/Restful/RestRequest.php#L182" >framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 182</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Models/Components/Restful/RestRequest.php#L182" target='_blank'>framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 182</a>
 
 <h3 id="getPassword()">getPassword</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>getPassword</span> ()
@@ -250,7 +250,7 @@ along with Hirudo.  If not, see <http://www.gnu.org/licenses/>.</p></div>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Models/Components/Restful/RestRequest.php#L186" >framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 186</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Models/Components/Restful/RestRequest.php#L186" target='_blank'>framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 186</a>
 
 <h3 id="setPassword()">setPassword</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>setPassword</span> (mixed password)
@@ -262,7 +262,7 @@ along with Hirudo.  If not, see <http://www.gnu.org/licenses/>.</p></div>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Models/Components/Restful/RestRequest.php#L190" >framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 190</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Models/Components/Restful/RestRequest.php#L190" target='_blank'>framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 190</a>
 
 <h3 id="getResponseBody()">getResponseBody</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>getResponseBody</span> ()
@@ -274,7 +274,7 @@ along with Hirudo.  If not, see <http://www.gnu.org/licenses/>.</p></div>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Models/Components/Restful/RestRequest.php#L194" >framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 194</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Models/Components/Restful/RestRequest.php#L194" target='_blank'>framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 194</a>
 
 <h3 id="getResponseInfo()">getResponseInfo</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>getResponseInfo</span> ()
@@ -286,7 +286,7 @@ along with Hirudo.  If not, see <http://www.gnu.org/licenses/>.</p></div>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Models/Components/Restful/RestRequest.php#L198" >framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 198</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Models/Components/Restful/RestRequest.php#L198" target='_blank'>framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 198</a>
 
 <h3 id="getUrl()">getUrl</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>getUrl</span> ()
@@ -298,7 +298,7 @@ along with Hirudo.  If not, see <http://www.gnu.org/licenses/>.</p></div>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Models/Components/Restful/RestRequest.php#L202" >framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 202</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Models/Components/Restful/RestRequest.php#L202" target='_blank'>framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 202</a>
 
 <h3 id="setUrl()">setUrl</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>setUrl</span> (mixed url)
@@ -310,7 +310,7 @@ along with Hirudo.  If not, see <http://www.gnu.org/licenses/>.</p></div>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Models/Components/Restful/RestRequest.php#L206" >framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 206</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Models/Components/Restful/RestRequest.php#L206" target='_blank'>framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 206</a>
 
 <h3 id="getUsername()">getUsername</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>getUsername</span> ()
@@ -322,7 +322,7 @@ along with Hirudo.  If not, see <http://www.gnu.org/licenses/>.</p></div>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Models/Components/Restful/RestRequest.php#L210" >framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 210</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Models/Components/Restful/RestRequest.php#L210" target='_blank'>framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 210</a>
 
 <h3 id="setUsername()">setUsername</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>setUsername</span> (mixed username)
@@ -334,7 +334,7 @@ along with Hirudo.  If not, see <http://www.gnu.org/licenses/>.</p></div>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Models/Components/Restful/RestRequest.php#L214" >framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 214</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Models/Components/Restful/RestRequest.php#L214" target='_blank'>framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 214</a>
 
 <h3 id="getVerb()">getVerb</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>getVerb</span> ()
@@ -346,7 +346,7 @@ along with Hirudo.  If not, see <http://www.gnu.org/licenses/>.</p></div>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Models/Components/Restful/RestRequest.php#L218" >framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 218</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Models/Components/Restful/RestRequest.php#L218" target='_blank'>framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 218</a>
 
 <h3 id="setVerb()">setVerb</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>setVerb</span> (mixed verb)
@@ -358,7 +358,7 @@ along with Hirudo.  If not, see <http://www.gnu.org/licenses/>.</p></div>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Models/Components/Restful/RestRequest.php#L222" >framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 222</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Models/Components/Restful/RestRequest.php#L222" target='_blank'>framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 222</a>
 
 <h3 id="getRequestBody()">getRequestBody</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>getRequestBody</span> ()
@@ -370,7 +370,7 @@ along with Hirudo.  If not, see <http://www.gnu.org/licenses/>.</p></div>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Models/Components/Restful/RestRequest.php#L226" >framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 226</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Models/Components/Restful/RestRequest.php#L226" target='_blank'>framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 226</a>
 
 <h3 id="setRequestBody()">setRequestBody</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>setRequestBody</span> (mixed requestBody)
@@ -382,7 +382,7 @@ along with Hirudo.  If not, see <http://www.gnu.org/licenses/>.</p></div>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Models/Components/Restful/RestRequest.php#L230" >framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 230</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Models/Components/Restful/RestRequest.php#L230" target='_blank'>framework\hirudo\Hirudo\Models\Components\Restful\RestRequest.php at line 230</a>
 
 <h3 id="addHeaderVariable()">addHeaderVariable</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>addHeaderVariable</span> (mixed name, mixed value)

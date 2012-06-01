@@ -5,7 +5,7 @@
 **Smarty\Smarty**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/Smarty.class.php#L106" >framework\libs\smarty\Smarty.class.php at line 106</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/Smarty.class.php#L106" target='_blank'>framework\libs\smarty\Smarty.class.php at line 106</a>
 
 #Class Smarty#
 
@@ -23,8 +23,8 @@
 
 - - -
 
-<p class="signature"><span class='k'>public  class</span> <span class='nx'>Smarty</span>
-extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_TemplateBase.md">Smarty_Internal_TemplateBase</a>
+<p><strong>public  class</strong> <span>Smarty</span>
+<strong>extends</strong> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_TemplateBase.md">Smarty_Internal_TemplateBase</a>
 
 </p>
 
@@ -311,7 +311,7 @@ plugin filename format: plugintype.pluginname.php</p></td>
 
 <h2 id="detail_method">Constructor Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/Smarty.class.php#L218" >framework\libs\smarty\Smarty.class.php at line 218</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/Smarty.class.php#L218" target='_blank'>framework\libs\smarty\Smarty.class.php at line 218</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> ()
@@ -324,7 +324,7 @@ plugin filename format: plugintype.pluginname.php</p></td>
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/Smarty.class.php#L315" >framework\libs\smarty\Smarty.class.php at line 315</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/Smarty.class.php#L315" target='_blank'>framework\libs\smarty\Smarty.class.php at line 315</a>
 
 <h3 id="templateExists()">templateExists</h3>
 <span class='k'></span> <span class='nx'>boolean</span> <span class='nf'>templateExists</span> (string resource_name)
@@ -342,7 +342,7 @@ plugin filename format: plugintype.pluginname.php</p></td>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/Smarty.class.php#L333" >framework\libs\smarty\Smarty.class.php at line 333</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/Smarty.class.php#L333" target='_blank'>framework\libs\smarty\Smarty.class.php at line 333</a>
 
 <h3 id="getGlobal()">getGlobal</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>getGlobal</span> (object smarty, string varname)
@@ -361,7 +361,7 @@ plugin filename format: plugintype.pluginname.php</p></td>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/Smarty.class.php#L357" >framework\libs\smarty\Smarty.class.php at line 357</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/Smarty.class.php#L357" target='_blank'>framework\libs\smarty\Smarty.class.php at line 357</a>
 
 <h3 id="clearAllCache()">clearAllCache</h3>
 <span class='k'></span> <span class='nx'>integer</span> <span class='nf'>clearAllCache</span> (integer exp_time, string type)
@@ -380,7 +380,7 @@ plugin filename format: plugintype.pluginname.php</p></td>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/Smarty.class.php#L375" >framework\libs\smarty\Smarty.class.php at line 375</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/Smarty.class.php#L375" target='_blank'>framework\libs\smarty\Smarty.class.php at line 375</a>
 
 <h3 id="clearCache()">clearCache</h3>
 <span class='k'></span> <span class='nx'>integer</span> <span class='nf'>clearCache</span> (string template_name, string cache_id, string compile_id, integer exp_time, string type)
@@ -402,7 +402,7 @@ plugin filename format: plugintype.pluginname.php</p></td>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/Smarty.class.php#L390" >framework\libs\smarty\Smarty.class.php at line 390</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/Smarty.class.php#L390" target='_blank'>framework\libs\smarty\Smarty.class.php at line 390</a>
 
 <h3 id="enableSecurity()">enableSecurity</h3>
 <span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty>Smarty</a></span> <span class='nf'>enableSecurity</span> (string|Smarty_Security security_class)
@@ -422,7 +422,7 @@ plugin filename format: plugintype.pluginname.php</p></td>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/Smarty.class.php#L416" >framework\libs\smarty\Smarty.class.php at line 416</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/Smarty.class.php#L416" target='_blank'>framework\libs\smarty\Smarty.class.php at line 416</a>
 
 <h3 id="disableSecurity()">disableSecurity</h3>
 <span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty>Smarty</a></span> <span class='nf'>disableSecurity</span> ()
@@ -438,7 +438,7 @@ plugin filename format: plugintype.pluginname.php</p></td>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/Smarty.class.php#L429" >framework\libs\smarty\Smarty.class.php at line 429</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/Smarty.class.php#L429" target='_blank'>framework\libs\smarty\Smarty.class.php at line 429</a>
 
 <h3 id="setTemplateDir()">setTemplateDir</h3>
 <span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty>Smarty</a></span> <span class='nf'>setTemplateDir</span> (string|array template_dir)
@@ -456,7 +456,7 @@ plugin filename format: plugintype.pluginname.php</p></td>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/Smarty.class.php#L448" >framework\libs\smarty\Smarty.class.php at line 448</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/Smarty.class.php#L448" target='_blank'>framework\libs\smarty\Smarty.class.php at line 448</a>
 
 <h3 id="addTemplateDir()">addTemplateDir</h3>
 <span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty>Smarty</a></span> <span class='nf'>addTemplateDir</span> (string|array template_dir, string key)
@@ -477,7 +477,7 @@ plugin filename format: plugintype.pluginname.php</p></td>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/Smarty.class.php#L480" >framework\libs\smarty\Smarty.class.php at line 480</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/Smarty.class.php#L480" target='_blank'>framework\libs\smarty\Smarty.class.php at line 480</a>
 
 <h3 id="getTemplateDir()">getTemplateDir</h3>
 <span class='k'></span> <span class='nx'>array|string</span> <span class='nf'>getTemplateDir</span> (mixed index)
@@ -495,7 +495,7 @@ plugin filename format: plugintype.pluginname.php</p></td>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/Smarty.class.php#L495" >framework\libs\smarty\Smarty.class.php at line 495</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/Smarty.class.php#L495" target='_blank'>framework\libs\smarty\Smarty.class.php at line 495</a>
 
 <h3 id="setConfigDir()">setConfigDir</h3>
 <span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty>Smarty</a></span> <span class='nf'>setConfigDir</span> (string|array template_dir, mixed config_dir)
@@ -513,7 +513,7 @@ plugin filename format: plugintype.pluginname.php</p></td>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/Smarty.class.php#L513" >framework\libs\smarty\Smarty.class.php at line 513</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/Smarty.class.php#L513" target='_blank'>framework\libs\smarty\Smarty.class.php at line 513</a>
 
 <h3 id="addConfigDir()">addConfigDir</h3>
 <span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty>Smarty</a></span> <span class='nf'>addConfigDir</span> (string|array config_dir, string key)
@@ -532,7 +532,7 @@ plugin filename format: plugintype.pluginname.php</p></td>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/Smarty.class.php#L546" >framework\libs\smarty\Smarty.class.php at line 546</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/Smarty.class.php#L546" target='_blank'>framework\libs\smarty\Smarty.class.php at line 546</a>
 
 <h3 id="getConfigDir()">getConfigDir</h3>
 <span class='k'></span> <span class='nx'>array|string</span> <span class='nf'>getConfigDir</span> (mixed index)
@@ -550,7 +550,7 @@ plugin filename format: plugintype.pluginname.php</p></td>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/Smarty.class.php#L561" >framework\libs\smarty\Smarty.class.php at line 561</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/Smarty.class.php#L561" target='_blank'>framework\libs\smarty\Smarty.class.php at line 561</a>
 
 <h3 id="setPluginsDir()">setPluginsDir</h3>
 <span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty>Smarty</a></span> <span class='nf'>setPluginsDir</span> (string|array plugins_dir)
@@ -568,7 +568,7 @@ plugin filename format: plugintype.pluginname.php</p></td>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/Smarty.class.php#L578" >framework\libs\smarty\Smarty.class.php at line 578</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/Smarty.class.php#L578" target='_blank'>framework\libs\smarty\Smarty.class.php at line 578</a>
 
 <h3 id="addPluginsDir()">addPluginsDir</h3>
 <span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty>Smarty</a></span> <span class='nf'>addPluginsDir</span> (object smarty, string plugins_dir)
@@ -587,7 +587,7 @@ plugin filename format: plugintype.pluginname.php</p></td>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/Smarty.class.php#L607" >framework\libs\smarty\Smarty.class.php at line 607</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/Smarty.class.php#L607" target='_blank'>framework\libs\smarty\Smarty.class.php at line 607</a>
 
 <h3 id="getPluginsDir()">getPluginsDir</h3>
 <span class='k'></span> <span class='nx'>array</span> <span class='nf'>getPluginsDir</span> ()
@@ -603,7 +603,7 @@ plugin filename format: plugintype.pluginname.php</p></td>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/Smarty.class.php#L618" >framework\libs\smarty\Smarty.class.php at line 618</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/Smarty.class.php#L618" target='_blank'>framework\libs\smarty\Smarty.class.php at line 618</a>
 
 <h3 id="setCompileDir()">setCompileDir</h3>
 <span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty>Smarty</a></span> <span class='nf'>setCompileDir</span> (string compile_dir)
@@ -621,7 +621,7 @@ plugin filename format: plugintype.pluginname.php</p></td>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/Smarty.class.php#L632" >framework\libs\smarty\Smarty.class.php at line 632</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/Smarty.class.php#L632" target='_blank'>framework\libs\smarty\Smarty.class.php at line 632</a>
 
 <h3 id="getCompileDir()">getCompileDir</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>getCompileDir</span> ()
@@ -637,7 +637,7 @@ plugin filename format: plugintype.pluginname.php</p></td>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/Smarty.class.php#L643" >framework\libs\smarty\Smarty.class.php at line 643</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/Smarty.class.php#L643" target='_blank'>framework\libs\smarty\Smarty.class.php at line 643</a>
 
 <h3 id="setCacheDir()">setCacheDir</h3>
 <span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty>Smarty</a></span> <span class='nf'>setCacheDir</span> (string cache_dir)
@@ -655,7 +655,7 @@ plugin filename format: plugintype.pluginname.php</p></td>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/Smarty.class.php#L657" >framework\libs\smarty\Smarty.class.php at line 657</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/Smarty.class.php#L657" target='_blank'>framework\libs\smarty\Smarty.class.php at line 657</a>
 
 <h3 id="getCacheDir()">getCacheDir</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>getCacheDir</span> ()
@@ -671,7 +671,7 @@ plugin filename format: plugintype.pluginname.php</p></td>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/Smarty.class.php#L668" >framework\libs\smarty\Smarty.class.php at line 668</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/Smarty.class.php#L668" target='_blank'>framework\libs\smarty\Smarty.class.php at line 668</a>
 
 <h3 id="setDefaultModifiers()">setDefaultModifiers</h3>
 <span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty>Smarty</a></span> <span class='nf'>setDefaultModifiers</span> (array|string modifiers)
@@ -689,7 +689,7 @@ plugin filename format: plugintype.pluginname.php</p></td>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/Smarty.class.php#L680" >framework\libs\smarty\Smarty.class.php at line 680</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/Smarty.class.php#L680" target='_blank'>framework\libs\smarty\Smarty.class.php at line 680</a>
 
 <h3 id="addDefaultModifiers()">addDefaultModifiers</h3>
 <span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty>Smarty</a></span> <span class='nf'>addDefaultModifiers</span> (array|string modifiers)
@@ -707,7 +707,7 @@ plugin filename format: plugintype.pluginname.php</p></td>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/Smarty.class.php#L696" >framework\libs\smarty\Smarty.class.php at line 696</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/Smarty.class.php#L696" target='_blank'>framework\libs\smarty\Smarty.class.php at line 696</a>
 
 <h3 id="getDefaultModifiers()">getDefaultModifiers</h3>
 <span class='k'></span> <span class='nx'>array</span> <span class='nf'>getDefaultModifiers</span> ()
@@ -723,7 +723,7 @@ plugin filename format: plugintype.pluginname.php</p></td>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/Smarty.class.php#L709" >framework\libs\smarty\Smarty.class.php at line 709</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/Smarty.class.php#L709" target='_blank'>framework\libs\smarty\Smarty.class.php at line 709</a>
 
 <h3 id="setAutoloadFilters()">setAutoloadFilters</h3>
 <span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty>Smarty</a></span> <span class='nf'>setAutoloadFilters</span> (array filters, string type)
@@ -742,7 +742,7 @@ plugin filename format: plugintype.pluginname.php</p></td>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/Smarty.class.php#L727" >framework\libs\smarty\Smarty.class.php at line 727</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/Smarty.class.php#L727" target='_blank'>framework\libs\smarty\Smarty.class.php at line 727</a>
 
 <h3 id="addAutoloadFilters()">addAutoloadFilters</h3>
 <span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty>Smarty</a></span> <span class='nf'>addAutoloadFilters</span> (array filters, string type)
@@ -761,7 +761,7 @@ plugin filename format: plugintype.pluginname.php</p></td>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/Smarty.class.php#L754" >framework\libs\smarty\Smarty.class.php at line 754</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/Smarty.class.php#L754" target='_blank'>framework\libs\smarty\Smarty.class.php at line 754</a>
 
 <h3 id="getAutoloadFilters()">getAutoloadFilters</h3>
 <span class='k'></span> <span class='nx'>array</span> <span class='nf'>getAutoloadFilters</span> (string type)
@@ -779,7 +779,7 @@ plugin filename format: plugintype.pluginname.php</p></td>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/Smarty.class.php#L768" >framework\libs\smarty\Smarty.class.php at line 768</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/Smarty.class.php#L768" target='_blank'>framework\libs\smarty\Smarty.class.php at line 768</a>
 
 <h3 id="getDebugTemplate()">getDebugTemplate</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>getDebugTemplate</span> ()
@@ -791,7 +791,7 @@ plugin filename format: plugintype.pluginname.php</p></td>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/Smarty.class.php#L780" >framework\libs\smarty\Smarty.class.php at line 780</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/Smarty.class.php#L780" target='_blank'>framework\libs\smarty\Smarty.class.php at line 780</a>
 
 <h3 id="setDebugTemplate()">setDebugTemplate</h3>
 <span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty>Smarty</a></span> <span class='nf'>setDebugTemplate</span> (string tpl_name)
@@ -809,7 +809,7 @@ plugin filename format: plugintype.pluginname.php</p></td>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/Smarty.class.php#L800" >framework\libs\smarty\Smarty.class.php at line 800</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/Smarty.class.php#L800" target='_blank'>framework\libs\smarty\Smarty.class.php at line 800</a>
 
 <h3 id="createTemplate()">createTemplate</h3>
 <span class='k'></span> <span class='nx'>object</span> <span class='nf'>createTemplate</span> (string template, mixed cache_id, mixed compile_id, object parent, boolean do_clone)
@@ -831,7 +831,7 @@ plugin filename format: plugintype.pluginname.php</p></td>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/Smarty.class.php#L866" >framework\libs\smarty\Smarty.class.php at line 866</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/Smarty.class.php#L866" target='_blank'>framework\libs\smarty\Smarty.class.php at line 866</a>
 
 <h3 id="loadPlugin()">loadPlugin</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>loadPlugin</span> (string plugin_name, bool check)
@@ -852,7 +852,7 @@ plugin filename format: plugintype.pluginname.php</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/Smarty.class.php#L934" >framework\libs\smarty\Smarty.class.php at line 934</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/Smarty.class.php#L934" target='_blank'>framework\libs\smarty\Smarty.class.php at line 934</a>
 
 <h3 id="compileAllTemplates()">compileAllTemplates</h3>
 <span class='k'></span> <span class='nx'>integer</span> <span class='nf'>compileAllTemplates</span> (string extension, bool force_compile, int time_limit, int max_errors, str extention)
@@ -873,7 +873,7 @@ plugin filename format: plugintype.pluginname.php</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/Smarty.class.php#L948" >framework\libs\smarty\Smarty.class.php at line 948</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/Smarty.class.php#L948" target='_blank'>framework\libs\smarty\Smarty.class.php at line 948</a>
 
 <h3 id="compileAllConfig()">compileAllConfig</h3>
 <span class='k'></span> <span class='nx'>integer</span> <span class='nf'>compileAllConfig</span> (string extension, bool force_compile, int time_limit, int max_errors, str extention)
@@ -894,7 +894,7 @@ plugin filename format: plugintype.pluginname.php</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/Smarty.class.php#L961" >framework\libs\smarty\Smarty.class.php at line 961</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/Smarty.class.php#L961" target='_blank'>framework\libs\smarty\Smarty.class.php at line 961</a>
 
 <h3 id="clearCompiledTemplate()">clearCompiledTemplate</h3>
 <span class='k'></span> <span class='nx'>integer</span> <span class='nf'>clearCompiledTemplate</span> (string resource_name, string compile_id, integer exp_time)
@@ -914,7 +914,7 @@ plugin filename format: plugintype.pluginname.php</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/Smarty.class.php#L973" >framework\libs\smarty\Smarty.class.php at line 973</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/Smarty.class.php#L973" target='_blank'>framework\libs\smarty\Smarty.class.php at line 973</a>
 
 <h3 id="getTags()">getTags</h3>
 <span class='k'></span> <span class='nx'>array</span> <span class='nf'>getTags</span> (object templae, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> template)
@@ -932,7 +932,7 @@ plugin filename format: plugintype.pluginname.php</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/Smarty.class.php#L984" >framework\libs\smarty\Smarty.class.php at line 984</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/Smarty.class.php#L984" target='_blank'>framework\libs\smarty\Smarty.class.php at line 984</a>
 
 <h3 id="testInstall()">testInstall</h3>
 <span class='k'></span> <span class='nx'>boolean</span> <span class='nf'>testInstall</span> (array errors)
@@ -950,7 +950,7 @@ plugin filename format: plugintype.pluginname.php</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/Smarty.class.php#L996" >framework\libs\smarty\Smarty.class.php at line 996</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/Smarty.class.php#L996" target='_blank'>framework\libs\smarty\Smarty.class.php at line 996</a>
 
 <h3 id="mutingErrorHandler()">mutingErrorHandler</h3>
 <span class='k'>static </span> <span class='nx'>boolean</span> <span class='nf'>mutingErrorHandler</span> (integer errno, mixed errstr, mixed errfile, mixed errline, mixed errcontext)
@@ -968,7 +968,7 @@ plugin filename format: plugintype.pluginname.php</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/Smarty.class.php#L1041" >framework\libs\smarty\Smarty.class.php at line 1041</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/Smarty.class.php#L1041" target='_blank'>framework\libs\smarty\Smarty.class.php at line 1041</a>
 
 <h3 id="muteExpectedErrors()">muteExpectedErrors</h3>
 <span class='k'>static </span> <span class='nx'>void</span> <span class='nf'>muteExpectedErrors</span> ()
@@ -980,7 +980,7 @@ plugin filename format: plugintype.pluginname.php</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/Smarty.class.php#L1073" >framework\libs\smarty\Smarty.class.php at line 1073</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/Smarty.class.php#L1073" target='_blank'>framework\libs\smarty\Smarty.class.php at line 1073</a>
 
 <h3 id="unmuteExpectedErrors()">unmuteExpectedErrors</h3>
 <span class='k'>static </span> <span class='nx'>void</span> <span class='nf'>unmuteExpectedErrors</span> ()

@@ -5,7 +5,7 @@
 **Smarty\Smarty_Internal_Compile_Setfilter**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_compile_setfilter.php#L18" >framework\libs\smarty\sysplugins\smarty_internal_compile_setfilter.php at line 18</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_compile_setfilter.php#L18" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_compile_setfilter.php at line 18</a>
 
 #Class Smarty_Internal_Compile_Setfilter#
 
@@ -17,8 +17,8 @@
 
 - - -
 
-<p class="signature"><span class='k'>public  class</span> <span class='nx'>Smarty_Internal_Compile_Setfilter</span>
-extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_CompileBase.md">Smarty_Internal_CompileBase</a>
+<p><strong>public  class</strong> <span>Smarty_Internal_Compile_Setfilter</span>
+<strong>extends</strong> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_CompileBase.md">Smarty_Internal_CompileBase</a>
 
 </p>
 
@@ -50,7 +50,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smart
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_compile_setfilter.php#L28" >framework\libs\smarty\sysplugins\smarty_internal_compile_setfilter.php at line 28</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_compile_setfilter.php#L28" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_compile_setfilter.php at line 28</a>
 
 <h3 id="compile()">compile</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>compile</span> (array args, object compiler, array parameter)

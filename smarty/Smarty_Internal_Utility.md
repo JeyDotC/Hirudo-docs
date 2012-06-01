@@ -5,7 +5,7 @@
 **Smarty\Smarty_Internal_Utility**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_utility.php#L41" >framework\libs\smarty\sysplugins\smarty_internal_utility.php at line 41</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_utility.php#L41" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_utility.php at line 41</a>
 
 #Class Smarty_Internal_Utility#
 
@@ -16,7 +16,7 @@
 
 - - -
 
-<p class="signature"><span class='k'>public  class</span> <span class='nx'>Smarty_Internal_Utility</span></p>
+<p><strong>public  class</strong> <span>Smarty_Internal_Utility</span></p>
 
 <div class="comment" id="overview_description"><p>Utility class</p></div>
 
@@ -62,7 +62,7 @@
 
 <h2 id="detail_method">Constructor Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_utility.php#L46" >framework\libs\smarty\sysplugins\smarty_internal_utility.php at line 46</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_utility.php#L46" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_utility.php at line 46</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'>private final </span> <span class='nx'>void</span> <span class='nf'>__construct</span> ()
@@ -75,7 +75,7 @@
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_utility.php#L61" >framework\libs\smarty\sysplugins\smarty_internal_utility.php at line 61</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_utility.php#L61" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_utility.php at line 61</a>
 
 <h3 id="compileAllTemplates()">compileAllTemplates</h3>
 <span class='k'>static </span> <span class='nx'>integer</span> <span class='nf'>compileAllTemplates</span> (string extension, bool force_compile, int time_limit, int max_errors, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty.md">Smarty</a> smarty, mixed extention)
@@ -97,7 +97,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_utility.php#L124" >framework\libs\smarty\sysplugins\smarty_internal_utility.php at line 124</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_utility.php#L124" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_utility.php at line 124</a>
 
 <h3 id="compileAllConfig()">compileAllConfig</h3>
 <span class='k'>static </span> <span class='nx'>integer</span> <span class='nf'>compileAllConfig</span> (string extension, bool force_compile, int time_limit, int max_errors, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty.md">Smarty</a> smarty, mixed extention)
@@ -119,7 +119,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_utility.php#L182" >framework\libs\smarty\sysplugins\smarty_internal_utility.php at line 182</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_utility.php#L182" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_utility.php at line 182</a>
 
 <h3 id="clearCompiledTemplate()">clearCompiledTemplate</h3>
 <span class='k'>static </span> <span class='nx'>integer</span> <span class='nf'>clearCompiledTemplate</span> (string resource_name, string compile_id, integer exp_time, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty.md">Smarty</a> smarty)
@@ -140,7 +140,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_utility.php#L276" >framework\libs\smarty\sysplugins\smarty_internal_utility.php at line 276</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_utility.php#L276" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_utility.php at line 276</a>
 
 <h3 id="getTags()">getTags</h3>
 <span class='k'>static </span> <span class='nx'>array</span> <span class='nf'>getTags</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> templae, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> template)
@@ -158,7 +158,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_utility.php#L293" >framework\libs\smarty\sysplugins\smarty_internal_utility.php at line 293</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_utility.php#L293" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_utility.php at line 293</a>
 
 <h3 id="testInstall()">testInstall</h3>
 <span class='k'>static </span> <span class='nx'>bool</span> <span class='nf'>testInstall</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty.md">Smarty</a> smarty, array errors)

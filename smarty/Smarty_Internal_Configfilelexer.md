@@ -5,7 +5,7 @@
 **Smarty\Smarty_Internal_Configfilelexer**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_configfilelexer.php#L13" >framework\libs\smarty\sysplugins\smarty_internal_configfilelexer.php at line 13</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_configfilelexer.php#L13" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_configfilelexer.php at line 13</a>
 
 #Class Smarty_Internal_Configfilelexer#
 
@@ -16,7 +16,7 @@
 
 - - -
 
-<p class="signature"><span class='k'>public  class</span> <span class='nx'>Smarty_Internal_Configfilelexer</span></p>
+<p><strong>public  class</strong> <span>Smarty_Internal_Configfilelexer</span></p>
 
 <div class="comment" id="overview_description"><p>Smarty Internal Plugin Configfilelexer</p></div>
 
@@ -103,7 +103,7 @@
 
 <h2 id="detail_method">Constructor Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_configfilelexer.php#L26" >framework\libs\smarty\sysplugins\smarty_internal_configfilelexer.php at line 26</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_configfilelexer.php#L26" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_configfilelexer.php at line 26</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (mixed data, mixed smarty)
@@ -116,7 +116,7 @@
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_configfilelexer.php#L36" >framework\libs\smarty\sysplugins\smarty_internal_configfilelexer.php at line 36</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_configfilelexer.php#L36" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_configfilelexer.php at line 36</a>
 
 <h3 id="instance()">instance</h3>
 <span class='k'>static </span> <span class='nx'>void</span> <span class='nf'>instance</span> (mixed new_instance)
@@ -128,7 +128,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_configfilelexer.php#L49" >framework\libs\smarty\sysplugins\smarty_internal_configfilelexer.php at line 49</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_configfilelexer.php#L49" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_configfilelexer.php at line 49</a>
 
 <h3 id="yylex()">yylex</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>yylex</span> ()
@@ -140,7 +140,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_configfilelexer.php#L54" >framework\libs\smarty\sysplugins\smarty_internal_configfilelexer.php at line 54</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_configfilelexer.php#L54" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_configfilelexer.php at line 54</a>
 
 <h3 id="yypushstate()">yypushstate</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>yypushstate</span> (mixed state)
@@ -152,7 +152,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_configfilelexer.php#L60" >framework\libs\smarty\sysplugins\smarty_internal_configfilelexer.php at line 60</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_configfilelexer.php#L60" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_configfilelexer.php at line 60</a>
 
 <h3 id="yypopstate()">yypopstate</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>yypopstate</span> ()
@@ -164,7 +164,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_configfilelexer.php#L65" >framework\libs\smarty\sysplugins\smarty_internal_configfilelexer.php at line 65</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_configfilelexer.php#L65" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_configfilelexer.php at line 65</a>
 
 <h3 id="yybegin()">yybegin</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>yybegin</span> (mixed state)
@@ -176,7 +176,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_configfilelexer.php#L73" >framework\libs\smarty\sysplugins\smarty_internal_configfilelexer.php at line 73</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_configfilelexer.php#L73" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_configfilelexer.php at line 73</a>
 
 <h3 id="yylex1()">yylex1</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>yylex1</span> ()

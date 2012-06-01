@@ -1,6 +1,10 @@
 - - -
 
-#Class Hierarchy for Package SampleApp\Models\Entities#<ul>
+#Class Hierarchy for Package SampleApp\Models\Entities
+
+<div><a href='https://github.com/JeyDotC/Hirudo-docs/tree/master/sampleapp/models/entities'>Back to package summary</a></div>
+
+<ul>
 <li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/sampleapp/models/entities/ComplexObject.md">SampleApp\Models\Entities\ComplexObject</a></li>
 <li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/sampleapp/models/entities/SimpleObject.md">SampleApp\Models\Entities\SimpleObject</a></li>
 </ul>

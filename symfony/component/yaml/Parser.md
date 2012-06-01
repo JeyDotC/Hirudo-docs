@@ -5,7 +5,7 @@
 **Symfony\Component\Yaml\Parser**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/Yaml/Parser.php#L20" >framework\libs\symfony-components\Symfony\Component\Yaml\Parser.php at line 20</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/Yaml/Parser.php#L20" target='_blank'>framework\libs\symfony-components\Symfony\Component\Yaml\Parser.php at line 20</a>
 
 #Class Parser#
 
@@ -16,7 +16,7 @@
 
 - - -
 
-<p class="signature"><span class='k'>public  class</span> <span class='nx'>Parser</span></p>
+<p><strong>public  class</strong> <span>Parser</span></p>
 
 <div class="comment" id="overview_description"><p>Parser parses YAML strings to convert them to PHP arrays.</p></div>
 
@@ -46,7 +46,7 @@
 
 <h2 id="detail_method">Constructor Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/Yaml/Parser.php#L33" >framework\libs\symfony-components\Symfony\Component\Yaml\Parser.php at line 33</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/Yaml/Parser.php#L33" target='_blank'>framework\libs\symfony-components\Symfony\Component\Yaml\Parser.php at line 33</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (integer offset)
@@ -63,7 +63,7 @@
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/Yaml/Parser.php#L47" >framework\libs\symfony-components\Symfony\Component\Yaml\Parser.php at line 47</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/Yaml/Parser.php#L47" target='_blank'>framework\libs\symfony-components\Symfony\Component\Yaml\Parser.php at line 47</a>
 
 <h3 id="parse()">parse</h3>
 <span class='k'></span> <span class='nx'>mixed</span> <span class='nf'>parse</span> (string value)

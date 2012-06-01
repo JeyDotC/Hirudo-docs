@@ -5,7 +5,7 @@
 **Smarty\Smarty_Resource**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_resource.php#L18" >framework\libs\smarty\sysplugins\smarty_resource.php at line 18</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_resource.php#L18" target='_blank'>framework\libs\smarty\sysplugins\smarty_resource.php at line 18</a>
 
 #Class Smarty_Resource#
 
@@ -21,7 +21,7 @@
 
 - - -
 
-<p class="signature"><span class='k'>public abstract  class</span> <span class='nx'>Smarty_Resource</span></p>
+<p><strong>public abstract  class</strong> <span>Smarty_Resource</span></p>
 
 <div class="comment" id="overview_description"><p>Smarty Resource Plugin</p><p>Base implementation for resource plugins</p></div>
 
@@ -132,7 +132,7 @@
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_resource.php#L67" >framework\libs\smarty\sysplugins\smarty_resource.php at line 67</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_resource.php#L67" target='_blank'>framework\libs\smarty\sysplugins\smarty_resource.php at line 67</a>
 
 <h3 id="getContent()">getContent</h3>
 <span class='k'>abstract </span> <span class='nx'>string</span> <span class='nf'>getContent</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Template_Source.md">Smarty_Template_Source</a> source)
@@ -152,7 +152,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_resource.php#L75" >framework\libs\smarty\sysplugins\smarty_resource.php at line 75</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_resource.php#L75" target='_blank'>framework\libs\smarty\sysplugins\smarty_resource.php at line 75</a>
 
 <h3 id="populate()">populate</h3>
 <span class='k'>abstract </span> <span class='nx'>void</span> <span class='nf'>populate</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Template_Source.md">Smarty_Template_Source</a> source, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> _template)
@@ -169,7 +169,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_resource.php#L82" >framework\libs\smarty\sysplugins\smarty_resource.php at line 82</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_resource.php#L82" target='_blank'>framework\libs\smarty\sysplugins\smarty_resource.php at line 82</a>
 
 <h3 id="populateTimestamp()">populateTimestamp</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>populateTimestamp</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Template_Source.md">Smarty_Template_Source</a> source)
@@ -185,7 +185,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_resource.php#L95" >framework\libs\smarty\sysplugins\smarty_resource.php at line 95</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_resource.php#L95" target='_blank'>framework\libs\smarty\sysplugins\smarty_resource.php at line 95</a>
 
 <h3 id="buildUniqueResourceName()">buildUniqueResourceName</h3>
 <span class='k'>protected </span> <span class='nx'>string</span> <span class='nf'>buildUniqueResourceName</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty.md">Smarty</a> smarty, string resource_name)
@@ -204,7 +204,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_resource.php#L106" >framework\libs\smarty\sysplugins\smarty_resource.php at line 106</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_resource.php#L106" target='_blank'>framework\libs\smarty\sysplugins\smarty_resource.php at line 106</a>
 
 <h3 id="populateCompiledFilepath()">populateCompiledFilepath</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>populateCompiledFilepath</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Template_Compiled.md">Smarty_Template_Compiled</a> compiled, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> _template)
@@ -221,7 +221,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_resource.php#L149" >framework\libs\smarty\sysplugins\smarty_resource.php at line 149</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_resource.php#L149" target='_blank'>framework\libs\smarty\sysplugins\smarty_resource.php at line 149</a>
 
 <h3 id="buildFilepath()">buildFilepath</h3>
 <span class='k'>protected </span> <span class='nx'>string</span> <span class='nf'>buildFilepath</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Template_Source.md">Smarty_Template_Source</a> source, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> _template)
@@ -242,7 +242,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_resource.php#L316" >framework\libs\smarty\sysplugins\smarty_resource.php at line 316</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_resource.php#L316" target='_blank'>framework\libs\smarty\sysplugins\smarty_resource.php at line 316</a>
 
 <h3 id="fileExists()">fileExists</h3>
 <span class='k'>protected </span> <span class='nx'>bool</span> <span class='nf'>fileExists</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Template_Source.md">Smarty_Template_Source</a> source, string file)
@@ -261,7 +261,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_resource.php#L329" >framework\libs\smarty\sysplugins\smarty_resource.php at line 329</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_resource.php#L329" target='_blank'>framework\libs\smarty\sysplugins\smarty_resource.php at line 329</a>
 
 <h3 id="getBasename()">getBasename</h3>
 <span class='k'>protected </span> <span class='nx'>string</span> <span class='nf'>getBasename</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Template_Source.md">Smarty_Template_Source</a> source)
@@ -279,7 +279,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_resource.php#L341" >framework\libs\smarty\sysplugins\smarty_resource.php at line 341</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_resource.php#L341" target='_blank'>framework\libs\smarty\sysplugins\smarty_resource.php at line 341</a>
 
 <h3 id="load()">load</h3>
 <span class='k'>static </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Resource>Smarty_Resource</a></span> <span class='nf'>load</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty.md">Smarty</a> smarty, string type)
@@ -298,7 +298,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_resource.php#L427" >framework\libs\smarty\sysplugins\smarty_resource.php at line 427</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_resource.php#L427" target='_blank'>framework\libs\smarty\sysplugins\smarty_resource.php at line 427</a>
 
 <h3 id="parseResourceName()">parseResourceName</h3>
 <span class='k'>protected static </span> <span class='nx'>void</span> <span class='nf'>parseResourceName</span> (string resource_name, string default_resource, string &$name, string &$type, mixed name, mixed type)
@@ -319,7 +319,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_resource.php#L457" >framework\libs\smarty\sysplugins\smarty_resource.php at line 457</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_resource.php#L457" target='_blank'>framework\libs\smarty\sysplugins\smarty_resource.php at line 457</a>
 
 <h3 id="getUniqueTemplateName()">getUniqueTemplateName</h3>
 <span class='k'>static </span> <span class='nx'>string</span> <span class='nf'>getUniqueTemplateName</span> (string smarty, string template_resource)
@@ -338,7 +338,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_resource.php#L475" >framework\libs\smarty\sysplugins\smarty_resource.php at line 475</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_resource.php#L475" target='_blank'>framework\libs\smarty\sysplugins\smarty_resource.php at line 475</a>
 
 <h3 id="source()">source</h3>
 <span class='k'>static </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Template_Source>Smarty_Template_Source</a></span> <span class='nf'>source</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> _template, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty.md">Smarty</a> smarty, string template_resource)
@@ -358,7 +358,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_resource.php#L508" >framework\libs\smarty\sysplugins\smarty_resource.php at line 508</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_resource.php#L508" target='_blank'>framework\libs\smarty\sysplugins\smarty_resource.php at line 508</a>
 
 <h3 id="config()">config</h3>
 <span class='k'>static </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Config_Source>Smarty_Config_Source</a></span> <span class='nf'>config</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Internal_Config.md">Smarty_Internal_Config</a> _config)

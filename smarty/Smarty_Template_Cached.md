@@ -5,7 +5,7 @@
 **Smarty\Smarty_Template_Cached**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_cacheresource.php#L205" >framework\libs\smarty\sysplugins\smarty_cacheresource.php at line 205</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_cacheresource.php#L205" target='_blank'>framework\libs\smarty\sysplugins\smarty_cacheresource.php at line 205</a>
 
 #Class Smarty_Template_Cached#
 
@@ -16,7 +16,7 @@
 
 - - -
 
-<p class="signature"><span class='k'>public  class</span> <span class='nx'>Smarty_Template_Cached</span></p>
+<p><strong>public  class</strong> <span>Smarty_Template_Cached</span></p>
 
 <div class="comment" id="overview_description"><p>Smarty Resource Data Object</p><p>Cache Data Container for Template Files</p></div>
 
@@ -114,7 +114,7 @@
 
 <h2 id="detail_method">Constructor Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_cacheresource.php#L283" >framework\libs\smarty\sysplugins\smarty_cacheresource.php at line 283</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_cacheresource.php#L283" target='_blank'>framework\libs\smarty\sysplugins\smarty_cacheresource.php at line 283</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> _template)
@@ -131,7 +131,7 @@
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_cacheresource.php#L362" >framework\libs\smarty\sysplugins\smarty_cacheresource.php at line 362</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_cacheresource.php#L362" target='_blank'>framework\libs\smarty\sysplugins\smarty_cacheresource.php at line 362</a>
 
 <h3 id="write()">write</h3>
 <span class='k'></span> <span class='nx'>boolean</span> <span class='nf'>write</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> _template, string content)

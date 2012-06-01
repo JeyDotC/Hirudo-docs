@@ -5,7 +5,7 @@
 **Hirudo\Core\DependencyInjection\AnnotationsBasedDependenciesManager**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/DependencyInjection/AnnotationsBasedDependenciesManager.php#L41" >framework\hirudo\Hirudo\Core\DependencyInjection\AnnotationsBasedDependenciesManager.php at line 41</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/DependencyInjection/AnnotationsBasedDependenciesManager.php#L41" target='_blank'>framework\hirudo\Hirudo\Core\DependencyInjection\AnnotationsBasedDependenciesManager.php at line 41</a>
 
 #Class AnnotationsBasedDependenciesManager#
 
@@ -17,8 +17,8 @@
 
 - - -
 
-<p class="signature"><span class='k'>public  class</span> <span class='nx'>AnnotationsBasedDependenciesManager</span>
-extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/ContainerAware.md">ContainerAware</a>
+<p><strong>public  class</strong> <span>AnnotationsBasedDependenciesManager</span>
+<strong>extends</strong> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/ContainerAware.md">ContainerAware</a>
 
 </p>
 
@@ -89,7 +89,7 @@ in the container to inject them later. </p></td>
 
 <h2 id="detail_method">Constructor Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/DependencyInjection/AnnotationsBasedDependenciesManager.php#L49" >framework\hirudo\Hirudo\Core\DependencyInjection\AnnotationsBasedDependenciesManager.php at line 49</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/DependencyInjection/AnnotationsBasedDependenciesManager.php#L49" target='_blank'>framework\hirudo\Hirudo\Core\DependencyInjection\AnnotationsBasedDependenciesManager.php at line 49</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> ()
@@ -102,7 +102,7 @@ in the container to inject them later. </p></td>
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/DependencyInjection/AnnotationsBasedDependenciesManager.php#L63" >framework\hirudo\Hirudo\Core\DependencyInjection\AnnotationsBasedDependenciesManager.php at line 63</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/DependencyInjection/AnnotationsBasedDependenciesManager.php#L63" target='_blank'>framework\hirudo\Hirudo\Core\DependencyInjection\AnnotationsBasedDependenciesManager.php at line 63</a>
 
 <h3 id="addServices()">addServices</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>addServices</span> (array implementationClasses)
@@ -122,7 +122,7 @@ the @Export annotation in order to be injected.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/DependencyInjection/AnnotationsBasedDependenciesManager.php#L86" >framework\hirudo\Hirudo\Core\DependencyInjection\AnnotationsBasedDependenciesManager.php at line 86</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/DependencyInjection/AnnotationsBasedDependenciesManager.php#L86" target='_blank'>framework\hirudo\Hirudo\Core\DependencyInjection\AnnotationsBasedDependenciesManager.php at line 86</a>
 
 <h3 id="resolveDependencies()">resolveDependencies</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>resolveDependencies</span> (mixed object)
@@ -141,7 +141,7 @@ regardless it's access level.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/DependencyInjection/AnnotationsBasedDependenciesManager.php#L166" >framework\hirudo\Hirudo\Core\DependencyInjection\AnnotationsBasedDependenciesManager.php at line 166</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/DependencyInjection/AnnotationsBasedDependenciesManager.php#L166" target='_blank'>framework\hirudo\Hirudo\Core\DependencyInjection\AnnotationsBasedDependenciesManager.php at line 166</a>
 
 <h3 id="getClassMetadata()">getClassMetadata</h3>
 <span class='k'></span> <span class='nx'>array<mixed></span> <span class='nf'>getClassMetadata</span> (\ReflectionClass object)
@@ -153,7 +153,7 @@ regardless it's access level.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/DependencyInjection/AnnotationsBasedDependenciesManager.php#L176" >framework\hirudo\Hirudo\Core\DependencyInjection\AnnotationsBasedDependenciesManager.php at line 176</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/DependencyInjection/AnnotationsBasedDependenciesManager.php#L176" target='_blank'>framework\hirudo\Hirudo\Core\DependencyInjection\AnnotationsBasedDependenciesManager.php at line 176</a>
 
 <h3 id="getMethodMetadata()">getMethodMetadata</h3>
 <span class='k'></span> <span class='nx'>array<mixed></span> <span class='nf'>getMethodMetadata</span> (\ReflectionMethod method)
@@ -165,7 +165,7 @@ regardless it's access level.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/DependencyInjection/AnnotationsBasedDependenciesManager.php#L186" >framework\hirudo\Hirudo\Core\DependencyInjection\AnnotationsBasedDependenciesManager.php at line 186</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/DependencyInjection/AnnotationsBasedDependenciesManager.php#L186" target='_blank'>framework\hirudo\Hirudo\Core\DependencyInjection\AnnotationsBasedDependenciesManager.php at line 186</a>
 
 <h3 id="getPropertyMetadata()">getPropertyMetadata</h3>
 <span class='k'></span> <span class='nx'>array<mixed></span> <span class='nf'>getPropertyMetadata</span> (\ReflectionProperty property)
@@ -177,7 +177,7 @@ regardless it's access level.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/DependencyInjection/AnnotationsBasedDependenciesManager.php#L197" >framework\hirudo\Hirudo\Core\DependencyInjection\AnnotationsBasedDependenciesManager.php at line 197</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/DependencyInjection/AnnotationsBasedDependenciesManager.php#L197" target='_blank'>framework\hirudo\Hirudo\Core\DependencyInjection\AnnotationsBasedDependenciesManager.php at line 197</a>
 
 <h3 id="getClassMetadataById()">getClassMetadataById</h3>
 <span class='k'></span> <span class='nx'>mixed</span> <span class='nf'>getClassMetadataById</span> (\ReflectionClass object, string metaDataId)
@@ -196,7 +196,7 @@ regardless it's access level.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/DependencyInjection/AnnotationsBasedDependenciesManager.php#L208" >framework\hirudo\Hirudo\Core\DependencyInjection\AnnotationsBasedDependenciesManager.php at line 208</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/DependencyInjection/AnnotationsBasedDependenciesManager.php#L208" target='_blank'>framework\hirudo\Hirudo\Core\DependencyInjection\AnnotationsBasedDependenciesManager.php at line 208</a>
 
 <h3 id="getMethodMetadataById()">getMethodMetadataById</h3>
 <span class='k'></span> <span class='nx'>mixed</span> <span class='nf'>getMethodMetadataById</span> (\ReflectionMethod method, string metaDataId)
@@ -215,7 +215,7 @@ regardless it's access level.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/DependencyInjection/AnnotationsBasedDependenciesManager.php#L219" >framework\hirudo\Hirudo\Core\DependencyInjection\AnnotationsBasedDependenciesManager.php at line 219</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/DependencyInjection/AnnotationsBasedDependenciesManager.php#L219" target='_blank'>framework\hirudo\Hirudo\Core\DependencyInjection\AnnotationsBasedDependenciesManager.php at line 219</a>
 
 <h3 id="getPropertyMetadataById()">getPropertyMetadataById</h3>
 <span class='k'></span> <span class='nx'>mixed</span> <span class='nf'>getPropertyMetadataById</span> (\ReflectionProperty property, string metaDataId)

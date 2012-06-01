@@ -1,6 +1,10 @@
 - - -
 
-#Class Hierarchy for Package Hirudo\Impl\StandAlone#<ul>
+#Class Hierarchy for Package Hirudo\Impl\StandAlone
+
+<div><a href='https://github.com/JeyDotC/Hirudo-docs/tree/master/hirudo/impl/standalone'>Back to package summary</a></div>
+
+<ul>
 <li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/Principal.md">Hirudo\Core\Context\Principal</a><ul>
 <li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/impl/standalone/SAPrincipal.md">Hirudo\Impl\StandAlone\SAPrincipal</a></li>
 </ul>

@@ -5,7 +5,7 @@
 **Symfony\Component\DependencyInjection\Extension\ExtensionInterface**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Extension/ExtensionInterface.php#L23" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Extension\ExtensionInterface.php at line 23</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Extension/ExtensionInterface.php#L23" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Extension\ExtensionInterface.php at line 23</a>
 
 #Interface ExtensionInterface#
 
@@ -16,7 +16,7 @@
 
 - - -
 
-<p class="signature"><span class='k'>public  interface</span> <span class='nx'>ExtensionInterface</span></p>
+<p><strong>public  interface</strong> <span>ExtensionInterface</span></p>
 
 <div class="comment" id="overview_description"><p>ExtensionInterface is the interface implemented by container extension classes.</p></div>
 
@@ -52,7 +52,7 @@
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Extension/ExtensionInterface.php#L35" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Extension\ExtensionInterface.php at line 35</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Extension/ExtensionInterface.php#L35" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Extension\ExtensionInterface.php at line 35</a>
 
 <h3 id="load()">load</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>load</span> (array config, <a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/ContainerBuilder.md">ContainerBuilder</a> container)
@@ -72,7 +72,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Extension/ExtensionInterface.php#L44" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Extension\ExtensionInterface.php at line 44</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Extension/ExtensionInterface.php#L44" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Extension\ExtensionInterface.php at line 44</a>
 
 <h3 id="getNamespace()">getNamespace</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>getNamespace</span> ()
@@ -89,7 +89,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Extension/ExtensionInterface.php#L53" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Extension\ExtensionInterface.php at line 53</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Extension/ExtensionInterface.php#L53" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Extension\ExtensionInterface.php at line 53</a>
 
 <h3 id="getXsdValidationBasePath()">getXsdValidationBasePath</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>getXsdValidationBasePath</span> ()
@@ -106,7 +106,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Extension/ExtensionInterface.php#L64" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Extension\ExtensionInterface.php at line 64</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Extension/ExtensionInterface.php#L64" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Extension\ExtensionInterface.php at line 64</a>
 
 <h3 id="getAlias()">getAlias</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>getAlias</span> ()

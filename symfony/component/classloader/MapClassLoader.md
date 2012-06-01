@@ -5,7 +5,7 @@
 **Symfony\Component\ClassLoader\MapClassLoader**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/ClassLoader/MapClassLoader.php#L19" >framework\libs\symfony-components\Symfony\Component\ClassLoader\MapClassLoader.php at line 19</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/ClassLoader/MapClassLoader.php#L19" target='_blank'>framework\libs\symfony-components\Symfony\Component\ClassLoader\MapClassLoader.php at line 19</a>
 
 #Class MapClassLoader#
 
@@ -16,7 +16,7 @@
 
 - - -
 
-<p class="signature"><span class='k'>public  class</span> <span class='nx'>MapClassLoader</span></p>
+<p><strong>public  class</strong> <span>MapClassLoader</span></p>
 
 <div class="comment" id="overview_description"><p>A class loader that uses a mapping file to look up paths.</p></div>
 
@@ -54,7 +54,7 @@
 
 <h2 id="detail_method">Constructor Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/ClassLoader/MapClassLoader.php#L28" >framework\libs\symfony-components\Symfony\Component\ClassLoader\MapClassLoader.php at line 28</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/ClassLoader/MapClassLoader.php#L28" target='_blank'>framework\libs\symfony-components\Symfony\Component\ClassLoader\MapClassLoader.php at line 28</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (array map)
@@ -71,7 +71,7 @@
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/ClassLoader/MapClassLoader.php#L38" >framework\libs\symfony-components\Symfony\Component\ClassLoader\MapClassLoader.php at line 38</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/ClassLoader/MapClassLoader.php#L38" target='_blank'>framework\libs\symfony-components\Symfony\Component\ClassLoader\MapClassLoader.php at line 38</a>
 
 <h3 id="register()">register</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>register</span> (Boolean prepend)
@@ -87,7 +87,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/ClassLoader/MapClassLoader.php#L48" >framework\libs\symfony-components\Symfony\Component\ClassLoader\MapClassLoader.php at line 48</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/ClassLoader/MapClassLoader.php#L48" target='_blank'>framework\libs\symfony-components\Symfony\Component\ClassLoader\MapClassLoader.php at line 48</a>
 
 <h3 id="loadClass()">loadClass</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>loadClass</span> (string class)
@@ -103,7 +103,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/ClassLoader/MapClassLoader.php#L66" >framework\libs\symfony-components\Symfony\Component\ClassLoader\MapClassLoader.php at line 66</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/ClassLoader/MapClassLoader.php#L66" target='_blank'>framework\libs\symfony-components\Symfony\Component\ClassLoader\MapClassLoader.php at line 66</a>
 
 <h3 id="findFile()">findFile</h3>
 <span class='k'></span> <span class='nx'>string|null</span> <span class='nf'>findFile</span> (string class)

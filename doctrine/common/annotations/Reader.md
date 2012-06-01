@@ -5,7 +5,7 @@
 **Doctrine\Common\Annotations\Reader**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/Reader.php#L27" >framework\libs\doctrine-common\Doctrine\Common\Annotations\Reader.php at line 27</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/Reader.php#L27" target='_blank'>framework\libs\doctrine-common\Doctrine\Common\Annotations\Reader.php at line 27</a>
 
 #Interface Reader#
 
@@ -16,7 +16,7 @@
 
 - - -
 
-<p class="signature"><span class='k'>public  interface</span> <span class='nx'>Reader</span></p>
+<p><strong>public  interface</strong> <span>Reader</span></p>
 
 <div class="comment" id="overview_description"><p>Interface for annotation readers.</p></div>
 
@@ -58,7 +58,7 @@
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/Reader.php#L29" >framework\libs\doctrine-common\Doctrine\Common\Annotations\Reader.php at line 29</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/Reader.php#L29" target='_blank'>framework\libs\doctrine-common\Doctrine\Common\Annotations\Reader.php at line 29</a>
 
 <h3 id="getClassAnnotations()">getClassAnnotations</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>getClassAnnotations</span> (ReflectionClass class)
@@ -70,7 +70,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/Reader.php#L30" >framework\libs\doctrine-common\Doctrine\Common\Annotations\Reader.php at line 30</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/Reader.php#L30" target='_blank'>framework\libs\doctrine-common\Doctrine\Common\Annotations\Reader.php at line 30</a>
 
 <h3 id="getClassAnnotation()">getClassAnnotation</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>getClassAnnotation</span> (ReflectionClass class, mixed annotationName)
@@ -82,7 +82,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/Reader.php#L31" >framework\libs\doctrine-common\Doctrine\Common\Annotations\Reader.php at line 31</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/Reader.php#L31" target='_blank'>framework\libs\doctrine-common\Doctrine\Common\Annotations\Reader.php at line 31</a>
 
 <h3 id="getMethodAnnotations()">getMethodAnnotations</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>getMethodAnnotations</span> (ReflectionMethod method)
@@ -94,7 +94,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/Reader.php#L32" >framework\libs\doctrine-common\Doctrine\Common\Annotations\Reader.php at line 32</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/Reader.php#L32" target='_blank'>framework\libs\doctrine-common\Doctrine\Common\Annotations\Reader.php at line 32</a>
 
 <h3 id="getMethodAnnotation()">getMethodAnnotation</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>getMethodAnnotation</span> (ReflectionMethod method, mixed annotationName)
@@ -106,7 +106,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/Reader.php#L33" >framework\libs\doctrine-common\Doctrine\Common\Annotations\Reader.php at line 33</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/Reader.php#L33" target='_blank'>framework\libs\doctrine-common\Doctrine\Common\Annotations\Reader.php at line 33</a>
 
 <h3 id="getPropertyAnnotations()">getPropertyAnnotations</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>getPropertyAnnotations</span> (ReflectionProperty property)
@@ -118,7 +118,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/Reader.php#L34" >framework\libs\doctrine-common\Doctrine\Common\Annotations\Reader.php at line 34</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/Reader.php#L34" target='_blank'>framework\libs\doctrine-common\Doctrine\Common\Annotations\Reader.php at line 34</a>
 
 <h3 id="getPropertyAnnotation()">getPropertyAnnotation</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>getPropertyAnnotation</span> (ReflectionProperty property, mixed annotationName)

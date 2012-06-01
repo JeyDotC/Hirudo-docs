@@ -5,7 +5,7 @@
 **Hirudo\Lang\DirectoryHelper**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Lang/Loader.php#L193" >framework\hirudo\Hirudo\Lang\Loader.php at line 193</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Lang/Loader.php#L193" target='_blank'>framework\hirudo\Hirudo\Lang\Loader.php at line 193</a>
 
 #Class DirectoryHelper#
 
@@ -16,7 +16,7 @@
 
 - - -
 
-<p class="signature"><span class='k'>public  class</span> <span class='nx'>DirectoryHelper</span></p>
+<p><strong>public  class</strong> <span>DirectoryHelper</span></p>
 
 <div class="comment" id="overview_description"><p>A class for directory listing.</p></div>
 
@@ -43,7 +43,7 @@ at the specified depth.</p></td>
 
 <h2 id="detail_method">Constructor Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Lang/Loader.php#L202" >framework\hirudo\Hirudo\Lang\Loader.php at line 202</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Lang/Loader.php#L202" target='_blank'>framework\hirudo\Hirudo\Lang\Loader.php at line 202</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (RecursiveDirectoryIterator dir)
@@ -60,7 +60,7 @@ at the specified depth.</p></td>
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Lang/Loader.php#L221" >framework\hirudo\Hirudo\Lang\Loader.php at line 221</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Lang/Loader.php#L221" target='_blank'>framework\hirudo\Hirudo\Lang\Loader.php at line 221</a>
 
 <h3 id="listFiles()">listFiles</h3>
 <span class='k'></span> <span class='nx'>array</span> <span class='nf'>listFiles</span> (int depth)

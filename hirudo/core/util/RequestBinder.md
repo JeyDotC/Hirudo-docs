@@ -5,7 +5,7 @@
 **Hirudo\Core\Util\RequestBinder**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Util/RequestBinder.php#L32" >framework\hirudo\Hirudo\Core\Util\RequestBinder.php at line 32</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Util/RequestBinder.php#L32" target='_blank'>framework\hirudo\Hirudo\Core\Util\RequestBinder.php at line 32</a>
 
 #Class RequestBinder#
 
@@ -16,7 +16,7 @@
 
 - - -
 
-<p class="signature"><span class='k'>public  class</span> <span class='nx'>RequestBinder</span></p>
+<p><strong>public  class</strong> <span>RequestBinder</span></p>
 
 <div class="comment" id="overview_description"><p></p></div>
 
@@ -47,7 +47,7 @@
 
 <h2 id="detail_method">Constructor Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Util/RequestBinder.php#L36" >framework\hirudo\Hirudo\Core\Util\RequestBinder.php at line 36</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Util/RequestBinder.php#L36" target='_blank'>framework\hirudo\Hirudo\Core\Util\RequestBinder.php at line 36</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> ()
@@ -60,7 +60,7 @@
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Util/RequestBinder.php#L40" >framework\hirudo\Hirudo\Core\Util\RequestBinder.php at line 40</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Util/RequestBinder.php#L40" target='_blank'>framework\hirudo\Hirudo\Core\Util\RequestBinder.php at line 40</a>
 
 <h3 id="bind()">bind</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>bind</span> (mixed object, mixed bindings)

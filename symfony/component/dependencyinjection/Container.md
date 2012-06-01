@@ -5,7 +5,7 @@
 **Symfony\Component\DependencyInjection\Container**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Container.php#L60" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Container.php at line 60</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Container.php#L60" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Container.php at line 60</a>
 
 #Class Container#
 
@@ -21,7 +21,7 @@
 
 - - -
 
-<p class="signature"><span class='k'>public  class</span> <span class='nx'>Container</span></p>
+<p><strong>public  class</strong> <span>Container</span></p>
 
 <div class="comment" id="overview_description"><p>Container is a dependency injection container.</p><p>It gives access to object instances (services).</p><p>Services and parameters are simple key/pair stores.</p><p>Parameter and service keys are case insensitive.</p><p>A service id can contain lowercased letters, digits, underscores, and dots.
 Underscores are used to separate words, and dots to group services
@@ -179,7 +179,7 @@ scope.</p></td>
 
 <h2 id="detail_method">Constructor Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Container.php#L77" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Container.php at line 77</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Container.php#L77" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Container.php at line 77</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/parameterbag/ParameterBagInterface.md">ParameterBagInterface</a> parameterBag)
@@ -197,7 +197,7 @@ scope.</p></td>
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Container.php#L100" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Container.php at line 100</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Container.php#L100" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Container.php at line 100</a>
 
 <h3 id="compile()">compile</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>compile</span> ()
@@ -213,7 +213,7 @@ scope.</p></td>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Container.php#L114" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Container.php at line 114</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Container.php#L114" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Container.php at line 114</a>
 
 <h3 id="isFrozen()">isFrozen</h3>
 <span class='k'></span> <span class='nx'>Boolean</span> <span class='nf'>isFrozen</span> ()
@@ -230,7 +230,7 @@ scope.</p></td>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Container.php#L126" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Container.php at line 126</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Container.php#L126" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Container.php at line 126</a>
 
 <h3 id="getParameterBag()">getParameterBag</h3>
 <span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/parameterbag/ParameterBagInterface>ParameterBagInterface</a></span> <span class='nf'>getParameterBag</span> ()
@@ -247,7 +247,7 @@ scope.</p></td>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Container.php#L142" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Container.php at line 142</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Container.php#L142" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Container.php at line 142</a>
 
 <h3 id="getParameter()">getParameter</h3>
 <span class='k'></span> <span class='nx'>mixed</span> <span class='nf'>getParameter</span> (string name)
@@ -268,7 +268,7 @@ scope.</p></td>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Container.php#L156" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Container.php at line 156</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Container.php#L156" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Container.php at line 156</a>
 
 <h3 id="hasParameter()">hasParameter</h3>
 <span class='k'></span> <span class='nx'>Boolean</span> <span class='nf'>hasParameter</span> (string name)
@@ -287,7 +287,7 @@ scope.</p></td>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Container.php#L169" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Container.php at line 169</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Container.php#L169" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Container.php at line 169</a>
 
 <h3 id="setParameter()">setParameter</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>setParameter</span> (string name, mixed value)
@@ -305,7 +305,7 @@ scope.</p></td>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Container.php#L183" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Container.php at line 183</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Container.php#L183" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Container.php at line 183</a>
 
 <h3 id="set()">set</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>set</span> (string id, object service, string scope)
@@ -324,7 +324,7 @@ scope.</p></td>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Container.php#L211" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Container.php at line 211</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Container.php#L211" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Container.php at line 211</a>
 
 <h3 id="has()">has</h3>
 <span class='k'></span> <span class='nx'>Boolean</span> <span class='nf'>has</span> (string id)
@@ -343,7 +343,7 @@ scope.</p></td>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Container.php#L235" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Container.php at line 235</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Container.php#L235" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Container.php at line 235</a>
 
 <h3 id="get()">get</h3>
 <span class='k'></span> <span class='nx'>object</span> <span class='nf'>get</span> (string id, integer invalidBehavior)
@@ -368,7 +368,7 @@ with a set*Service() method, the former has always precedence.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Container.php#L272" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Container.php at line 272</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Container.php#L272" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Container.php at line 272</a>
 
 <h3 id="getServiceIds()">getServiceIds</h3>
 <span class='k'></span> <span class='nx'>array</span> <span class='nf'>getServiceIds</span> ()
@@ -384,7 +384,7 @@ with a set*Service() method, the former has always precedence.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Container.php#L293" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Container.php at line 293</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Container.php#L293" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Container.php at line 293</a>
 
 <h3 id="enterScope()">enterScope</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>enterScope</span> (string name)
@@ -399,7 +399,7 @@ with a set*Service() method, the former has always precedence.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Container.php#L339" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Container.php at line 339</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Container.php#L339" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Container.php at line 339</a>
 
 <h3 id="leaveScope()">leaveScope</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>leaveScope</span> (string name)
@@ -419,7 +419,7 @@ scope.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Container.php#L377" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Container.php at line 377</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Container.php#L377" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Container.php at line 377</a>
 
 <h3 id="addScope()">addScope</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>addScope</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/ScopeInterface.md">ScopeInterface</a> scope)
@@ -434,7 +434,7 @@ scope.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Container.php#L410" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Container.php at line 410</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Container.php#L410" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Container.php at line 410</a>
 
 <h3 id="hasScope()">hasScope</h3>
 <span class='k'></span> <span class='nx'>Boolean</span> <span class='nf'>hasScope</span> (string name)
@@ -451,7 +451,7 @@ scope.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Container.php#L425" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Container.php at line 425</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Container.php#L425" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Container.php at line 425</a>
 
 <h3 id="isScopeActive()">isScopeActive</h3>
 <span class='k'></span> <span class='nx'>Boolean</span> <span class='nf'>isScopeActive</span> (string name)
@@ -466,7 +466,7 @@ scope.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Container.php#L436" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Container.php at line 436</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Container.php#L436" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Container.php at line 436</a>
 
 <h3 id="camelize()">camelize</h3>
 <span class='k'>static </span> <span class='nx'>string</span> <span class='nf'>camelize</span> (string id)
@@ -484,7 +484,7 @@ scope.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Container.php#L447" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Container.php at line 447</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Container.php#L447" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Container.php at line 447</a>
 
 <h3 id="underscore()">underscore</h3>
 <span class='k'>static </span> <span class='nx'>string</span> <span class='nf'>underscore</span> (string id)

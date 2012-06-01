@@ -5,7 +5,7 @@
 **Doctrine\Common\Cache\Cache**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Cache/Cache.php#L36" >framework\libs\doctrine-common\Doctrine\Common\Cache\Cache.php at line 36</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Cache/Cache.php#L36" target='_blank'>framework\libs\doctrine-common\Doctrine\Common\Cache\Cache.php at line 36</a>
 
 #Interface Cache#
 
@@ -16,7 +16,7 @@
 
 - - -
 
-<p class="signature"><span class='k'>public  interface</span> <span class='nx'>Cache</span></p>
+<p><strong>public  interface</strong> <span>Cache</span></p>
 
 <div class="comment" id="overview_description"><p>Interface for cache drivers.</p></div>
 
@@ -54,7 +54,7 @@ Number of keys that have been requested and found present.
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Cache/Cache.php#L46" >framework\libs\doctrine-common\Doctrine\Common\Cache\Cache.php at line 46</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Cache/Cache.php#L46" target='_blank'>framework\libs\doctrine-common\Doctrine\Common\Cache\Cache.php at line 46</a>
 
 <h3 id="delete()">delete</h3>
 <span class='k'></span> <span class='nx'>boolean</span> <span class='nf'>delete</span> (string id)
@@ -72,7 +72,7 @@ Number of keys that have been requested and found present.
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Cache/Cache.php#L71" >framework\libs\doctrine-common\Doctrine\Common\Cache\Cache.php at line 71</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Cache/Cache.php#L71" target='_blank'>framework\libs\doctrine-common\Doctrine\Common\Cache\Cache.php at line 71</a>
 
 <h3 id="getStats()">getStats</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>getStats</span> ()

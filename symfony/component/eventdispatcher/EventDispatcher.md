@@ -5,7 +5,7 @@
 **Symfony\Component\EventDispatcher\EventDispatcher**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/EventDispatcher/EventDispatcher.php#L29" >framework\libs\symfony-components\Symfony\Component\EventDispatcher\EventDispatcher.php at line 29</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/EventDispatcher/EventDispatcher.php#L29" target='_blank'>framework\libs\symfony-components\Symfony\Component\EventDispatcher\EventDispatcher.php at line 29</a>
 
 #Class EventDispatcher#
 
@@ -21,7 +21,7 @@
 
 - - -
 
-<p class="signature"><span class='k'>public  class</span> <span class='nx'>EventDispatcher</span></p>
+<p><strong>public  class</strong> <span>EventDispatcher</span></p>
 
 <div class="comment" id="overview_description"><p>The EventDispatcherInterface is the central point of Symfony's event listener system.</p><p>Listeners are registered on the manager and events are dispatched through the
 manager.</p></div>
@@ -79,7 +79,7 @@ manager.</p></div>
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/EventDispatcher/EventDispatcher.php#L39" >framework\libs\symfony-components\Symfony\Component\EventDispatcher\EventDispatcher.php at line 39</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/EventDispatcher/EventDispatcher.php#L39" target='_blank'>framework\libs\symfony-components\Symfony\Component\EventDispatcher\EventDispatcher.php at line 39</a>
 
 <h3 id="dispatch()">dispatch</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>dispatch</span> (mixed eventName, <a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/eventdispatcher/Event.md">Event</a> event)
@@ -96,7 +96,7 @@ manager.</p></div>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/EventDispatcher/EventDispatcher.php#L54" >framework\libs\symfony-components\Symfony\Component\EventDispatcher\EventDispatcher.php at line 54</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/EventDispatcher/EventDispatcher.php#L54" target='_blank'>framework\libs\symfony-components\Symfony\Component\EventDispatcher\EventDispatcher.php at line 54</a>
 
 <h3 id="getListeners()">getListeners</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>getListeners</span> (mixed eventName)
@@ -112,7 +112,7 @@ manager.</p></div>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/EventDispatcher/EventDispatcher.php#L75" >framework\libs\symfony-components\Symfony\Component\EventDispatcher\EventDispatcher.php at line 75</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/EventDispatcher/EventDispatcher.php#L75" target='_blank'>framework\libs\symfony-components\Symfony\Component\EventDispatcher\EventDispatcher.php at line 75</a>
 
 <h3 id="hasListeners()">hasListeners</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>hasListeners</span> (mixed eventName)
@@ -128,7 +128,7 @@ manager.</p></div>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/EventDispatcher/EventDispatcher.php#L84" >framework\libs\symfony-components\Symfony\Component\EventDispatcher\EventDispatcher.php at line 84</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/EventDispatcher/EventDispatcher.php#L84" target='_blank'>framework\libs\symfony-components\Symfony\Component\EventDispatcher\EventDispatcher.php at line 84</a>
 
 <h3 id="addListener()">addListener</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>addListener</span> (mixed eventName, mixed listener, int priority)
@@ -145,7 +145,7 @@ manager.</p></div>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/EventDispatcher/EventDispatcher.php#L92" >framework\libs\symfony-components\Symfony\Component\EventDispatcher\EventDispatcher.php at line 92</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/EventDispatcher/EventDispatcher.php#L92" target='_blank'>framework\libs\symfony-components\Symfony\Component\EventDispatcher\EventDispatcher.php at line 92</a>
 
 <h3 id="removeListener()">removeListener</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>removeListener</span> (mixed eventName, mixed listener)
@@ -161,7 +161,7 @@ manager.</p></div>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/EventDispatcher/EventDispatcher.php#L109" >framework\libs\symfony-components\Symfony\Component\EventDispatcher\EventDispatcher.php at line 109</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/EventDispatcher/EventDispatcher.php#L109" target='_blank'>framework\libs\symfony-components\Symfony\Component\EventDispatcher\EventDispatcher.php at line 109</a>
 
 <h3 id="addSubscriber()">addSubscriber</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>addSubscriber</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/eventdispatcher/EventSubscriberInterface.md">EventSubscriberInterface</a> subscriber)
@@ -178,7 +178,7 @@ manager.</p></div>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/EventDispatcher/EventDispatcher.php#L122" >framework\libs\symfony-components\Symfony\Component\EventDispatcher\EventDispatcher.php at line 122</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/EventDispatcher/EventDispatcher.php#L122" target='_blank'>framework\libs\symfony-components\Symfony\Component\EventDispatcher\EventDispatcher.php at line 122</a>
 
 <h3 id="removeSubscriber()">removeSubscriber</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>removeSubscriber</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/eventdispatcher/EventSubscriberInterface.md">EventSubscriberInterface</a> subscriber)
@@ -194,7 +194,7 @@ manager.</p></div>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/EventDispatcher/EventDispatcher.php#L138" >framework\libs\symfony-components\Symfony\Component\EventDispatcher\EventDispatcher.php at line 138</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/EventDispatcher/EventDispatcher.php#L138" target='_blank'>framework\libs\symfony-components\Symfony\Component\EventDispatcher\EventDispatcher.php at line 138</a>
 
 <h3 id="doDispatch()">doDispatch</h3>
 <span class='k'>protected </span> <span class='nx'>void</span> <span class='nf'>doDispatch</span> (array[callback] listeners, string eventName, <a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/eventdispatcher/Event.md">Event</a> event)

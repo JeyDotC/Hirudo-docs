@@ -5,7 +5,7 @@
 **Smarty\Smarty_Internal_Resource_String**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_resource_string.php#L21" >framework\libs\smarty\sysplugins\smarty_internal_resource_string.php at line 21</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_resource_string.php#L21" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_resource_string.php at line 21</a>
 
 #Class Smarty_Internal_Resource_String#
 
@@ -17,8 +17,8 @@
 
 - - -
 
-<p class="signature"><span class='k'>public  class</span> <span class='nx'>Smarty_Internal_Resource_String</span>
-extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Resource.md">Smarty_Resource</a>
+<p><strong>public  class</strong> <span>Smarty_Internal_Resource_String</span>
+<strong>extends</strong> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Resource.md">Smarty_Resource</a>
 
 </p>
 
@@ -66,7 +66,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smart
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_resource_string.php#L30" >framework\libs\smarty\sysplugins\smarty_internal_resource_string.php at line 30</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_resource_string.php#L30" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_resource_string.php at line 30</a>
 
 <h3 id="populate()">populate</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>populate</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Template_Source.md">Smarty_Template_Source</a> source, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> _template)
@@ -83,7 +83,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smart
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_resource_string.php#L44" >framework\libs\smarty\sysplugins\smarty_internal_resource_string.php at line 44</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_resource_string.php#L44" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_resource_string.php at line 44</a>
 
 <h3 id="getContent()">getContent</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>getContent</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Template_Source.md">Smarty_Template_Source</a> source)
@@ -105,7 +105,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smart
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_resource_string.php#L55" >framework\libs\smarty\sysplugins\smarty_internal_resource_string.php at line 55</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_resource_string.php#L55" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_resource_string.php at line 55</a>
 
 <h3 id="decode()">decode</h3>
 <span class='k'>protected </span> <span class='nx'>string</span> <span class='nf'>decode</span> (string string)
@@ -123,7 +123,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smart
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_resource_string.php#L76" >framework\libs\smarty\sysplugins\smarty_internal_resource_string.php at line 76</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_resource_string.php#L76" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_resource_string.php at line 76</a>
 
 <h3 id="buildUniqueResourceName()">buildUniqueResourceName</h3>
 <span class='k'>protected </span> <span class='nx'>string</span> <span class='nf'>buildUniqueResourceName</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty.md">Smarty</a> smarty, string resource_name)
@@ -142,7 +142,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smart
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_resource_string.php#L89" >framework\libs\smarty\sysplugins\smarty_internal_resource_string.php at line 89</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_resource_string.php#L89" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_resource_string.php at line 89</a>
 
 <h3 id="getBasename()">getBasename</h3>
 <span class='k'>protected </span> <span class='nx'>string</span> <span class='nf'>getBasename</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Template_Source.md">Smarty_Template_Source</a> source)

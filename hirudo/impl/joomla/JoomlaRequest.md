@@ -5,7 +5,7 @@
 **Hirudo\Impl\Joomla\JoomlaRequest**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Joomla/JoomlaRequest.php#L36" >framework\hirudo\Hirudo\Impl\Joomla\JoomlaRequest.php at line 36</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Joomla/JoomlaRequest.php#L36" target='_blank'>framework\hirudo\Hirudo\Impl\Joomla\JoomlaRequest.php at line 36</a>
 
 #Class JoomlaRequest#
 
@@ -17,8 +17,8 @@
 
 - - -
 
-<p class="signature"><span class='k'>public  class</span> <span class='nx'>JoomlaRequest</span>
-extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/Request.md">Request</a>
+<p><strong>public  class</strong> <span>JoomlaRequest</span>
+<strong>extends</strong> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/Request.md">Request</a>
 
 </p>
 
@@ -85,7 +85,7 @@ the way this done depends on how this class interprets the URLs.</p></td>
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Joomla/JoomlaRequest.php#L48" >framework\hirudo\Hirudo\Impl\Joomla\JoomlaRequest.php at line 48</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Joomla/JoomlaRequest.php#L48" target='_blank'>framework\hirudo\Hirudo\Impl\Joomla\JoomlaRequest.php at line 48</a>
 
 <h3 id="instance()">instance</h3>
 <span class='k'>static </span> <span class='nx'></span> <span class='nf'>instance</span> ()
@@ -97,7 +97,7 @@ the way this done depends on how this class interprets the URLs.</p></td>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Joomla/JoomlaRequest.php#L56" >framework\hirudo\Hirudo\Impl\Joomla\JoomlaRequest.php at line 56</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Joomla/JoomlaRequest.php#L56" target='_blank'>framework\hirudo\Hirudo\Impl\Joomla\JoomlaRequest.php at line 56</a>
 
 <h3 id="get()">get</h3>
 <span class='k'></span> <span class='nx'>mixed</span> <span class='nf'>get</span> (string name, mixed default)
@@ -116,7 +116,7 @@ the way this done depends on how this class interprets the URLs.</p></td>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Joomla/JoomlaRequest.php#L60" >framework\hirudo\Hirudo\Impl\Joomla\JoomlaRequest.php at line 60</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Joomla/JoomlaRequest.php#L60" target='_blank'>framework\hirudo\Hirudo\Impl\Joomla\JoomlaRequest.php at line 60</a>
 
 <h3 id="post()">post</h3>
 <span class='k'></span> <span class='nx'>mixed</span> <span class='nf'>post</span> (string name, mixed default)
@@ -135,7 +135,7 @@ the way this done depends on how this class interprets the URLs.</p></td>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Joomla/JoomlaRequest.php#L64" >framework\hirudo\Hirudo\Impl\Joomla\JoomlaRequest.php at line 64</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Joomla/JoomlaRequest.php#L64" target='_blank'>framework\hirudo\Hirudo\Impl\Joomla\JoomlaRequest.php at line 64</a>
 
 <h3 id="file()">file</h3>
 <span class='k'></span> <span class='nx'>mixed</span> <span class='nf'>file</span> (string name, mixed default)
@@ -154,7 +154,7 @@ the way this done depends on how this class interprets the URLs.</p></td>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Joomla/JoomlaRequest.php#L68" >framework\hirudo\Hirudo\Impl\Joomla\JoomlaRequest.php at line 68</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Joomla/JoomlaRequest.php#L68" target='_blank'>framework\hirudo\Hirudo\Impl\Joomla\JoomlaRequest.php at line 68</a>
 
 <h3 id="cookie()">cookie</h3>
 <span class='k'></span> <span class='nx'>mixed</span> <span class='nf'>cookie</span> (string name, mixed default)
@@ -173,7 +173,7 @@ the way this done depends on how this class interprets the URLs.</p></td>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Joomla/JoomlaRequest.php#L72" >framework\hirudo\Hirudo\Impl\Joomla\JoomlaRequest.php at line 72</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Joomla/JoomlaRequest.php#L72" target='_blank'>framework\hirudo\Hirudo\Impl\Joomla\JoomlaRequest.php at line 72</a>
 
 <h3 id="env()">env</h3>
 <span class='k'></span> <span class='nx'>mixed</span> <span class='nf'>env</span> (string name, mixed default)
@@ -192,7 +192,7 @@ the way this done depends on how this class interprets the URLs.</p></td>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Joomla/JoomlaRequest.php#L76" >framework\hirudo\Hirudo\Impl\Joomla\JoomlaRequest.php at line 76</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Joomla/JoomlaRequest.php#L76" target='_blank'>framework\hirudo\Hirudo\Impl\Joomla\JoomlaRequest.php at line 76</a>
 
 <h3 id="server()">server</h3>
 <span class='k'></span> <span class='nx'>mixed</span> <span class='nf'>server</span> (string name, mixed default)
@@ -211,7 +211,7 @@ the way this done depends on how this class interprets the URLs.</p></td>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Joomla/JoomlaRequest.php#L80" >framework\hirudo\Hirudo\Impl\Joomla\JoomlaRequest.php at line 80</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Joomla/JoomlaRequest.php#L80" target='_blank'>framework\hirudo\Hirudo\Impl\Joomla\JoomlaRequest.php at line 80</a>
 
 <h3 id="getURI()">getURI</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>getURI</span> ()
@@ -227,7 +227,7 @@ the way this done depends on how this class interprets the URLs.</p></td>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Joomla/JoomlaRequest.php#L84" >framework\hirudo\Hirudo\Impl\Joomla\JoomlaRequest.php at line 84</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Joomla/JoomlaRequest.php#L84" target='_blank'>framework\hirudo\Hirudo\Impl\Joomla\JoomlaRequest.php at line 84</a>
 
 <h3 id="submitted()">submitted</h3>
 <span class='k'></span> <span class='nx'>bool</span> <span class='nf'>submitted</span> ()
@@ -245,7 +245,7 @@ the way this done depends on how this class interprets the URLs.</p></td>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Joomla/JoomlaRequest.php#L88" >framework\hirudo\Hirudo\Impl\Joomla\JoomlaRequest.php at line 88</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Joomla/JoomlaRequest.php#L88" target='_blank'>framework\hirudo\Hirudo\Impl\Joomla\JoomlaRequest.php at line 88</a>
 
 <h3 id="buildModuleCall()">buildModuleCall</h3>
 <span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/ModuleCall>ModuleCall</a></span> <span class='nf'>buildModuleCall</span> ()

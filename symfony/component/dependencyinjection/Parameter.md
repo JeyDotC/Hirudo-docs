@@ -5,7 +5,7 @@
 **Symfony\Component\DependencyInjection\Parameter**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Parameter.php#L21" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Parameter.php at line 21</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Parameter.php#L21" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Parameter.php at line 21</a>
 
 #Class Parameter#
 
@@ -16,7 +16,7 @@
 
 - - -
 
-<p class="signature"><span class='k'>public  class</span> <span class='nx'>Parameter</span></p>
+<p><strong>public  class</strong> <span>Parameter</span></p>
 
 <div class="comment" id="overview_description"><p>Parameter represents a parameter reference.</p></div>
 
@@ -39,7 +39,7 @@
 
 <h2 id="detail_method">Constructor Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Parameter.php#L30" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Parameter.php at line 30</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Parameter.php#L30" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Parameter.php at line 30</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (string id)

@@ -5,7 +5,7 @@
 **Smarty\Smarty_Internal_Compile_Private_Block_Plugin**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_compile_private_block_plugin.php#L18" >framework\libs\smarty\sysplugins\smarty_internal_compile_private_block_plugin.php at line 18</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_compile_private_block_plugin.php#L18" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_compile_private_block_plugin.php at line 18</a>
 
 #Class Smarty_Internal_Compile_Private_Block_Plugin#
 
@@ -17,8 +17,8 @@
 
 - - -
 
-<p class="signature"><span class='k'>public  class</span> <span class='nx'>Smarty_Internal_Compile_Private_Block_Plugin</span>
-extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_CompileBase.md">Smarty_Internal_CompileBase</a>
+<p><strong>public  class</strong> <span>Smarty_Internal_Compile_Private_Block_Plugin</span>
+<strong>extends</strong> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_CompileBase.md">Smarty_Internal_CompileBase</a>
 
 </p>
 
@@ -61,7 +61,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smart
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_compile_private_block_plugin.php#L38" >framework\libs\smarty\sysplugins\smarty_internal_compile_private_block_plugin.php at line 38</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_compile_private_block_plugin.php#L38" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_compile_private_block_plugin.php at line 38</a>
 
 <h3 id="compile()">compile</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>compile</span> (array args, object compiler, array parameter, string tag, string function)

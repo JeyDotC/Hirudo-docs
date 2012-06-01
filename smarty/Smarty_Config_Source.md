@@ -5,7 +5,7 @@
 **Smarty\Smarty_Config_Source**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_config_source.php#L22" >framework\libs\smarty\sysplugins\smarty_config_source.php at line 22</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_config_source.php#L22" target='_blank'>framework\libs\smarty\sysplugins\smarty_config_source.php at line 22</a>
 
 #Class Smarty_Config_Source#
 
@@ -17,8 +17,8 @@
 
 - - -
 
-<p class="signature"><span class='k'>public  class</span> <span class='nx'>Smarty_Config_Source</span>
-extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Template_Source.md">Smarty_Template_Source</a>
+<p><strong>public  class</strong> <span>Smarty_Config_Source</span>
+<strong>extends</strong> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Template_Source.md">Smarty_Template_Source</a>
 
 </p>
 
@@ -56,7 +56,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smart
 
 <h2 id="detail_method">Constructor Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_config_source.php#L34" >framework\libs\smarty\sysplugins\smarty_config_source.php at line 34</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_config_source.php#L34" target='_blank'>framework\libs\smarty\sysplugins\smarty_config_source.php at line 34</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Resource.md">Smarty_Resource</a> handler, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty.md">Smarty</a> smarty, string resource, string type, string name, string unique_resource)

@@ -5,7 +5,7 @@
 **Doctrine\Common\Annotations\AnnotationReader**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/AnnotationReader.php#L39" >framework\libs\doctrine-common\Doctrine\Common\Annotations\AnnotationReader.php at line 39</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/AnnotationReader.php#L39" target='_blank'>framework\libs\doctrine-common\Doctrine\Common\Annotations\AnnotationReader.php at line 39</a>
 
 #Class AnnotationReader#
 
@@ -16,7 +16,7 @@
 
 - - -
 
-<p class="signature"><span class='k'>public final  class</span> <span class='nx'>AnnotationReader</span></p>
+<p><strong>public final  class</strong> <span>AnnotationReader</span></p>
 
 <div class="comment" id="overview_description"><p>A reader for docblock annotations.</p></div>
 
@@ -75,7 +75,7 @@
 
 <h2 id="detail_method">Constructor Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/AnnotationReader.php#L106" >framework\libs\doctrine-common\Doctrine\Common\Annotations\AnnotationReader.php at line 106</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/AnnotationReader.php#L106" target='_blank'>framework\libs\doctrine-common\Doctrine\Common\Annotations\AnnotationReader.php at line 106</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> ()
@@ -88,7 +88,7 @@
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/AnnotationReader.php#L62" >framework\libs\doctrine-common\Doctrine\Common\Annotations\AnnotationReader.php at line 62</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/AnnotationReader.php#L62" target='_blank'>framework\libs\doctrine-common\Doctrine\Common\Annotations\AnnotationReader.php at line 62</a>
 
 <h3 id="addGlobalIgnoredName()">addGlobalIgnoredName</h3>
 <span class='k'>static </span> <span class='nx'>void</span> <span class='nf'>addGlobalIgnoredName</span> (string name)
@@ -100,7 +100,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/AnnotationReader.php#L125" >framework\libs\doctrine-common\Doctrine\Common\Annotations\AnnotationReader.php at line 125</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/AnnotationReader.php#L125" target='_blank'>framework\libs\doctrine-common\Doctrine\Common\Annotations\AnnotationReader.php at line 125</a>
 
 <h3 id="getClassAnnotations()">getClassAnnotations</h3>
 <span class='k'></span> <span class='nx'>array</span> <span class='nf'>getClassAnnotations</span> (ReflectionClass class)
@@ -118,7 +118,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/AnnotationReader.php#L141" >framework\libs\doctrine-common\Doctrine\Common\Annotations\AnnotationReader.php at line 141</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/AnnotationReader.php#L141" target='_blank'>framework\libs\doctrine-common\Doctrine\Common\Annotations\AnnotationReader.php at line 141</a>
 
 <h3 id="getClassAnnotation()">getClassAnnotation</h3>
 <span class='k'></span> <span class='nx'>The</span> <span class='nf'>getClassAnnotation</span> (ReflectionClass class, string annotationName)
@@ -137,7 +137,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/AnnotationReader.php#L160" >framework\libs\doctrine-common\Doctrine\Common\Annotations\AnnotationReader.php at line 160</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/AnnotationReader.php#L160" target='_blank'>framework\libs\doctrine-common\Doctrine\Common\Annotations\AnnotationReader.php at line 160</a>
 
 <h3 id="getPropertyAnnotations()">getPropertyAnnotations</h3>
 <span class='k'></span> <span class='nx'>array</span> <span class='nf'>getPropertyAnnotations</span> (ReflectionProperty property)
@@ -155,7 +155,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/AnnotationReader.php#L177" >framework\libs\doctrine-common\Doctrine\Common\Annotations\AnnotationReader.php at line 177</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/AnnotationReader.php#L177" target='_blank'>framework\libs\doctrine-common\Doctrine\Common\Annotations\AnnotationReader.php at line 177</a>
 
 <h3 id="getPropertyAnnotation()">getPropertyAnnotation</h3>
 <span class='k'></span> <span class='nx'>The</span> <span class='nf'>getPropertyAnnotation</span> (ReflectionProperty property, string annotationName)
@@ -174,7 +174,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/AnnotationReader.php#L196" >framework\libs\doctrine-common\Doctrine\Common\Annotations\AnnotationReader.php at line 196</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/AnnotationReader.php#L196" target='_blank'>framework\libs\doctrine-common\Doctrine\Common\Annotations\AnnotationReader.php at line 196</a>
 
 <h3 id="getMethodAnnotations()">getMethodAnnotations</h3>
 <span class='k'></span> <span class='nx'>array</span> <span class='nf'>getMethodAnnotations</span> (ReflectionMethod property, ReflectionMethod method)
@@ -192,7 +192,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/AnnotationReader.php#L213" >framework\libs\doctrine-common\Doctrine\Common\Annotations\AnnotationReader.php at line 213</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/AnnotationReader.php#L213" target='_blank'>framework\libs\doctrine-common\Doctrine\Common\Annotations\AnnotationReader.php at line 213</a>
 
 <h3 id="getMethodAnnotation()">getMethodAnnotation</h3>
 <span class='k'></span> <span class='nx'>The</span> <span class='nf'>getMethodAnnotation</span> (ReflectionMethod method, string annotationName)

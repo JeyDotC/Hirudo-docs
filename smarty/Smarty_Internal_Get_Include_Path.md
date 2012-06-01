@@ -5,7 +5,7 @@
 **Smarty\Smarty_Internal_Get_Include_Path**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_get_include_path.php#L16" >framework\libs\smarty\sysplugins\smarty_internal_get_include_path.php at line 16</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_get_include_path.php#L16" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_get_include_path.php at line 16</a>
 
 #Class Smarty_Internal_Get_Include_Path#
 
@@ -16,7 +16,7 @@
 
 - - -
 
-<p class="signature"><span class='k'>public  class</span> <span class='nx'>Smarty_Internal_Get_Include_Path</span></p>
+<p><strong>public  class</strong> <span>Smarty_Internal_Get_Include_Path</span></p>
 
 <div class="comment" id="overview_description"><p>Smarty Internal Read Include Path Class</p></div>
 
@@ -38,7 +38,7 @@
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_get_include_path.php#L24" >framework\libs\smarty\sysplugins\smarty_internal_get_include_path.php at line 24</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_get_include_path.php#L24" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_get_include_path.php at line 24</a>
 
 <h3 id="getIncludePath()">getIncludePath</h3>
 <span class='k'>static </span> <span class='nx'>string|boolean</span> <span class='nf'>getIncludePath</span> (string filepath)

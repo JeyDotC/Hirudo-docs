@@ -5,7 +5,7 @@
 **Default namespace\PseudoEnum**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Lang/Enum.php#L37" >framework\hirudo\Hirudo\Lang\Enum.php at line 37</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Lang/Enum.php#L37" target='_blank'>framework\hirudo\Hirudo\Lang\Enum.php at line 37</a>
 
 #Class PseudoEnum#
 
@@ -16,7 +16,7 @@
 
 - - -
 
-<p class="signature"><span class='k'>public abstract  class</span> <span class='nx'>PseudoEnum</span></p>
+<p><strong>public abstract  class</strong> <span>PseudoEnum</span></p>
 
 <div class="comment" id="overview_description"><p><p>A base class for simple Enum representation. It gives some utility methods
 commonly associated to the enums in other languages.</p></p><p><p>To make an enum class just extend this class and add the enum constants, like this:</p><p><code>
@@ -57,7 +57,7 @@ const AND_OTHER_ENUM_VALUE = 2;
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Lang/Enum.php#L45" >framework\hirudo\Hirudo\Lang\Enum.php at line 45</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Lang/Enum.php#L45" target='_blank'>framework\hirudo\Hirudo\Lang\Enum.php at line 45</a>
 
 <h3 id="valueBelongs()">valueBelongs</h3>
 <span class='k'>static </span> <span class='nx'>boolean</span> <span class='nf'>valueBelongs</span> (string|number value)
@@ -75,7 +75,7 @@ const AND_OTHER_ENUM_VALUE = 2;
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Lang/Enum.php#L58" >framework\hirudo\Hirudo\Lang\Enum.php at line 58</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Lang/Enum.php#L58" target='_blank'>framework\hirudo\Hirudo\Lang\Enum.php at line 58</a>
 
 <h3 id="nameBelongs()">nameBelongs</h3>
 <span class='k'>static </span> <span class='nx'>boolean</span> <span class='nf'>nameBelongs</span> (string|number value, mixed name)
@@ -93,7 +93,7 @@ const AND_OTHER_ENUM_VALUE = 2;
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Lang/Enum.php#L71" >framework\hirudo\Hirudo\Lang\Enum.php at line 71</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Lang/Enum.php#L71" target='_blank'>framework\hirudo\Hirudo\Lang\Enum.php at line 71</a>
 
 <h3 id="valueToString()">valueToString</h3>
 <span class='k'>static </span> <span class='nx'>string</span> <span class='nf'>valueToString</span> (string|number value)
@@ -111,7 +111,7 @@ const AND_OTHER_ENUM_VALUE = 2;
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Lang/Enum.php#L84" >framework\hirudo\Hirudo\Lang\Enum.php at line 84</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Lang/Enum.php#L84" target='_blank'>framework\hirudo\Hirudo\Lang\Enum.php at line 84</a>
 
 <h3 id="stringToValue()">stringToValue</h3>
 <span class='k'>static </span> <span class='nx'>string|number</span> <span class='nf'>stringToValue</span> (string string)
@@ -129,7 +129,7 @@ const AND_OTHER_ENUM_VALUE = 2;
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Lang/Enum.php#L96" >framework\hirudo\Hirudo\Lang\Enum.php at line 96</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Lang/Enum.php#L96" target='_blank'>framework\hirudo\Hirudo\Lang\Enum.php at line 96</a>
 
 <h3 id="values()">values</h3>
 <span class='k'>static </span> <span class='nx'>array</span> <span class='nf'>values</span> ()

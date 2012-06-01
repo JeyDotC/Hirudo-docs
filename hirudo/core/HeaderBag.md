@@ -5,7 +5,7 @@
 **Hirudo\Core\HeaderBag**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Module.php#L35" >framework\hirudo\Hirudo\Core\Module.php at line 35</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Module.php#L35" target='_blank'>framework\hirudo\Hirudo\Core\Module.php at line 35</a>
 
 #Class HeaderBag#
 
@@ -16,7 +16,7 @@
 
 - - -
 
-<p class="signature"><span class='k'>public  class</span> <span class='nx'>HeaderBag</span></p>
+<p><strong>public  class</strong> <span>HeaderBag</span></p>
 
 <div class="comment" id="overview_description"><p>A class that allows the edition of the response headers.</p></div>
 
@@ -43,7 +43,7 @@ instead of being rendered in browser.</p></td>
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Module.php#L44" >framework\hirudo\Hirudo\Core\Module.php at line 44</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Module.php#L44" target='_blank'>framework\hirudo\Hirudo\Core\Module.php at line 44</a>
 
 <h3 id="setHeader()">setHeader</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>setHeader</span> (string key, string|array value, boolean replace)
@@ -61,7 +61,7 @@ instead of being rendered in browser.</p></td>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Module.php#L71" >framework\hirudo\Hirudo\Core\Module.php at line 71</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Module.php#L71" target='_blank'>framework\hirudo\Hirudo\Core\Module.php at line 71</a>
 
 <h3 id="setHeaders()">setHeaders</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>setHeaders</span> (array headers)
@@ -85,7 +85,7 @@ array(
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Module.php#L88" >framework\hirudo\Hirudo\Core\Module.php at line 88</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Module.php#L88" target='_blank'>framework\hirudo\Hirudo\Core\Module.php at line 88</a>
 
 <h3 id="setContentsForDownload()">setContentsForDownload</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>setContentsForDownload</span> (string mime, string filename)

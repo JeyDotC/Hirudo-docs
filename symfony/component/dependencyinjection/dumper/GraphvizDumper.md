@@ -5,7 +5,7 @@
 **Symfony\Component\DependencyInjection\Dumper\GraphvizDumper**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Dumper/GraphvizDumper.php#L29" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Dumper\GraphvizDumper.php at line 29</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Dumper/GraphvizDumper.php#L29" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Dumper\GraphvizDumper.php at line 29</a>
 
 #Class GraphvizDumper#
 
@@ -17,8 +17,8 @@
 
 - - -
 
-<p class="signature"><span class='k'>public  class</span> <span class='nx'>GraphvizDumper</span>
-extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/dumper/Dumper.md">Dumper</a>
+<p><strong>public  class</strong> <span>GraphvizDumper</span>
+<strong>extends</strong> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/dumper/Dumper.md">Dumper</a>
 
 </p>
 
@@ -52,7 +52,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/comp
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Dumper/GraphvizDumper.php#L51" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Dumper\GraphvizDumper.php at line 51</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Dumper/GraphvizDumper.php#L51" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Dumper\GraphvizDumper.php at line 51</a>
 
 <h3 id="dump()">dump</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>dump</span> (array options)

@@ -5,7 +5,7 @@
 **Default namespace\TP_yyStackEntry**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templateparser.php#L76" >framework\libs\smarty\sysplugins\smarty_internal_templateparser.php at line 76</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templateparser.php#L76" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_templateparser.php at line 76</a>
 
 #Class TP_yyStackEntry#
 
@@ -16,7 +16,7 @@
 
 - - -
 
-<p class="signature"><span class='k'>public  class</span> <span class='nx'>TP_yyStackEntry</span></p>
+<p><strong>public  class</strong> <span>TP_yyStackEntry</span></p>
 
 
 

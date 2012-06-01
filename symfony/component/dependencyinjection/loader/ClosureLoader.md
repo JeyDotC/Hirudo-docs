@@ -5,7 +5,7 @@
 **Symfony\Component\DependencyInjection\Loader\ClosureLoader**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Loader/ClosureLoader.php#L24" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Loader\ClosureLoader.php at line 24</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Loader/ClosureLoader.php#L24" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Loader\ClosureLoader.php at line 24</a>
 
 #Class ClosureLoader#
 
@@ -17,8 +17,8 @@
 
 - - -
 
-<p class="signature"><span class='k'>public  class</span> <span class='nx'>ClosureLoader</span>
-extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/lang/Loader.md">Loader</a>
+<p><strong>public  class</strong> <span>ClosureLoader</span>
+<strong>extends</strong> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/lang/Loader.md">Loader</a>
 
 </p>
 
@@ -60,7 +60,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/lang/
 
 <h2 id="detail_method">Constructor Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Loader/ClosureLoader.php#L33" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Loader\ClosureLoader.php at line 33</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Loader/ClosureLoader.php#L33" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Loader\ClosureLoader.php at line 33</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/ContainerBuilder.md">ContainerBuilder</a> container)
@@ -77,7 +77,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/lang/
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Loader/ClosureLoader.php#L44" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Loader\ClosureLoader.php at line 44</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Loader/ClosureLoader.php#L44" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Loader\ClosureLoader.php at line 44</a>
 
 <h3 id="load()">load</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>load</span> (\Closure closure, string type)
@@ -94,7 +94,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/lang/
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Loader/ClosureLoader.php#L57" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Loader\ClosureLoader.php at line 57</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Loader/ClosureLoader.php#L57" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Loader\ClosureLoader.php at line 57</a>
 
 <h3 id="supports()">supports</h3>
 <span class='k'></span> <span class='nx'>Boolean</span> <span class='nf'>supports</span> (mixed resource, string type)

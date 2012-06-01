@@ -5,7 +5,7 @@
 **Hirudo\Serialization\ArrayToEntityConverter**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Serialization/ArrayToEntityConverter.php#L29" >framework\hirudo\Hirudo\Serialization\ArrayToEntityConverter.php at line 29</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Serialization/ArrayToEntityConverter.php#L29" target='_blank'>framework\hirudo\Hirudo\Serialization\ArrayToEntityConverter.php at line 29</a>
 
 #Class ArrayToEntityConverter#
 
@@ -16,7 +16,7 @@
 
 - - -
 
-<p class="signature"><span class='k'>public  class</span> <span class='nx'>ArrayToEntityConverter</span></p>
+<p><strong>public  class</strong> <span>ArrayToEntityConverter</span></p>
 
 <div class="comment" id="overview_description"><p>Transforms an array into an object of a given class.</p></div>
 
@@ -34,7 +34,7 @@
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Serialization/ArrayToEntityConverter.php#L44" >framework\hirudo\Hirudo\Serialization\ArrayToEntityConverter.php at line 44</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Serialization/ArrayToEntityConverter.php#L44" target='_blank'>framework\hirudo\Hirudo\Serialization\ArrayToEntityConverter.php at line 44</a>
 
 <h3 id="convert()">convert</h3>
 <span class='k'></span> <span class='nx'>mixed</span> <span class='nf'>convert</span> (array array, mixed objectOrClassName)

@@ -5,7 +5,7 @@
 **Smarty\Smarty_Variable**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_data.php#L467" >framework\libs\smarty\sysplugins\smarty_internal_data.php at line 467</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_data.php#L467" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_data.php at line 467</a>
 
 #Class Smarty_Variable#
 
@@ -16,7 +16,7 @@
 
 - - -
 
-<p class="signature"><span class='k'>public  class</span> <span class='nx'>Smarty_Variable</span></p>
+<p><strong>public  class</strong> <span>Smarty_Variable</span></p>
 
 <div class="comment" id="overview_description"><p>class for the Smarty variable object</p><p>This class defines the Smarty variable object</p></div>
 
@@ -59,7 +59,7 @@
 
 <h2 id="detail_method">Constructor Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_data.php#L495" >framework\libs\smarty\sysplugins\smarty_internal_data.php at line 495</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_data.php#L495" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_data.php at line 495</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (mixed value, boolean nocache, int scope)

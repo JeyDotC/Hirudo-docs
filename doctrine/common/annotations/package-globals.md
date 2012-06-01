@@ -14,7 +14,7 @@
 
 <h2 id="detail_global">Global Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/DocLexer.php#L35" >framework\libs\doctrine-common\Doctrine\Common\Annotations\DocLexer.php at line 35</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/DocLexer.php#L35" target='_blank'>framework\libs\doctrine-common\Doctrine\Common\Annotations\DocLexer.php at line 35</a>
 
 <h3 id="T_NONE">T_NONE</h3>
 ```php

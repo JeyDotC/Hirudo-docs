@@ -5,7 +5,7 @@
 **Symfony\Component\DependencyInjection\Loader\YamlFileLoader**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Loader/YamlFileLoader.php#L30" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Loader\YamlFileLoader.php at line 30</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Loader/YamlFileLoader.php#L30" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Loader\YamlFileLoader.php at line 30</a>
 
 #Class YamlFileLoader#
 
@@ -18,8 +18,8 @@ BaseFileLoader
 
 - - -
 
-<p class="signature"><span class='k'>public  class</span> <span class='nx'>YamlFileLoader</span>
-extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/loader/FileLoader.md">FileLoader</a>
+<p><strong>public  class</strong> <span>YamlFileLoader</span>
+<strong>extends</strong> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/loader/FileLoader.md">FileLoader</a>
 
 </p>
 
@@ -55,7 +55,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/comp
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Loader/YamlFileLoader.php#L38" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Loader\YamlFileLoader.php at line 38</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Loader/YamlFileLoader.php#L38" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Loader\YamlFileLoader.php at line 38</a>
 
 <h3 id="load()">load</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>load</span> (mixed file, string type)
@@ -72,7 +72,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/comp
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Loader/YamlFileLoader.php#L76" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Loader\YamlFileLoader.php at line 76</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Loader/YamlFileLoader.php#L76" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Loader\YamlFileLoader.php at line 76</a>
 
 <h3 id="supports()">supports</h3>
 <span class='k'></span> <span class='nx'>Boolean</span> <span class='nf'>supports</span> (mixed resource, string type)

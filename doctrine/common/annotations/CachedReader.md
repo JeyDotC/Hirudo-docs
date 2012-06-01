@@ -5,7 +5,7 @@
 **Doctrine\Common\Annotations\CachedReader**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/CachedReader.php#L30" >framework\libs\doctrine-common\Doctrine\Common\Annotations\CachedReader.php at line 30</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/CachedReader.php#L30" target='_blank'>framework\libs\doctrine-common\Doctrine\Common\Annotations\CachedReader.php at line 30</a>
 
 #Class CachedReader#
 
@@ -16,7 +16,7 @@
 
 - - -
 
-<p class="signature"><span class='k'>public final  class</span> <span class='nx'>CachedReader</span></p>
+<p><strong>public final  class</strong> <span>CachedReader</span></p>
 
 <div class="comment" id="overview_description"><p>A cache aware annotation reader.</p></div>
 
@@ -71,7 +71,7 @@
 
 <h2 id="detail_method">Constructor Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/CachedReader.php#L58" >framework\libs\doctrine-common\Doctrine\Common\Annotations\CachedReader.php at line 58</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/CachedReader.php#L58" target='_blank'>framework\libs\doctrine-common\Doctrine\Common\Annotations\CachedReader.php at line 58</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/doctrine/common/annotations/Reader.md">Reader</a> reader, <a href="https://github.com/JeyDotC/Hirudo/blob/master/doctrine/common/cache/Cache.md">Cache</a> cache, bool debug)
@@ -84,7 +84,7 @@
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/CachedReader.php#L65" >framework\libs\doctrine-common\Doctrine\Common\Annotations\CachedReader.php at line 65</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/CachedReader.php#L65" target='_blank'>framework\libs\doctrine-common\Doctrine\Common\Annotations\CachedReader.php at line 65</a>
 
 <h3 id="getClassAnnotations()">getClassAnnotations</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>getClassAnnotations</span> (ReflectionClass class)
@@ -96,7 +96,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/CachedReader.php#L81" >framework\libs\doctrine-common\Doctrine\Common\Annotations\CachedReader.php at line 81</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/CachedReader.php#L81" target='_blank'>framework\libs\doctrine-common\Doctrine\Common\Annotations\CachedReader.php at line 81</a>
 
 <h3 id="getClassAnnotation()">getClassAnnotation</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>getClassAnnotation</span> (ReflectionClass class, mixed annotationName)
@@ -108,7 +108,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/CachedReader.php#L92" >framework\libs\doctrine-common\Doctrine\Common\Annotations\CachedReader.php at line 92</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/CachedReader.php#L92" target='_blank'>framework\libs\doctrine-common\Doctrine\Common\Annotations\CachedReader.php at line 92</a>
 
 <h3 id="getPropertyAnnotations()">getPropertyAnnotations</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>getPropertyAnnotations</span> (ReflectionProperty property)
@@ -120,7 +120,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/CachedReader.php#L109" >framework\libs\doctrine-common\Doctrine\Common\Annotations\CachedReader.php at line 109</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/CachedReader.php#L109" target='_blank'>framework\libs\doctrine-common\Doctrine\Common\Annotations\CachedReader.php at line 109</a>
 
 <h3 id="getPropertyAnnotation()">getPropertyAnnotation</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>getPropertyAnnotation</span> (ReflectionProperty property, mixed annotationName)
@@ -132,7 +132,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/CachedReader.php#L120" >framework\libs\doctrine-common\Doctrine\Common\Annotations\CachedReader.php at line 120</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/CachedReader.php#L120" target='_blank'>framework\libs\doctrine-common\Doctrine\Common\Annotations\CachedReader.php at line 120</a>
 
 <h3 id="getMethodAnnotations()">getMethodAnnotations</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>getMethodAnnotations</span> (ReflectionMethod method)
@@ -144,7 +144,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/CachedReader.php#L137" >framework\libs\doctrine-common\Doctrine\Common\Annotations\CachedReader.php at line 137</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/CachedReader.php#L137" target='_blank'>framework\libs\doctrine-common\Doctrine\Common\Annotations\CachedReader.php at line 137</a>
 
 <h3 id="getMethodAnnotation()">getMethodAnnotation</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>getMethodAnnotation</span> (ReflectionMethod method, mixed annotationName)
@@ -156,7 +156,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/CachedReader.php#L148" >framework\libs\doctrine-common\Doctrine\Common\Annotations\CachedReader.php at line 148</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/CachedReader.php#L148" target='_blank'>framework\libs\doctrine-common\Doctrine\Common\Annotations\CachedReader.php at line 148</a>
 
 <h3 id="clearLoadedAnnotations()">clearLoadedAnnotations</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>clearLoadedAnnotations</span> ()

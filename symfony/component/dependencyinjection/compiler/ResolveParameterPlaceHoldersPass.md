@@ -5,7 +5,7 @@
 **Symfony\Component\DependencyInjection\Compiler\ResolveParameterPlaceHoldersPass**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/ResolveParameterPlaceHoldersPass.php#L22" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\ResolveParameterPlaceHoldersPass.php at line 22</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/ResolveParameterPlaceHoldersPass.php#L22" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\ResolveParameterPlaceHoldersPass.php at line 22</a>
 
 #Class ResolveParameterPlaceHoldersPass#
 
@@ -21,7 +21,7 @@
 
 - - -
 
-<p class="signature"><span class='k'>public  class</span> <span class='nx'>ResolveParameterPlaceHoldersPass</span></p>
+<p><strong>public  class</strong> <span>ResolveParameterPlaceHoldersPass</span></p>
 
 <div class="comment" id="overview_description"><p>Resolves all parameter placeholders "%somevalue%" to their real values.</p></div>
 
@@ -43,7 +43,7 @@
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/ResolveParameterPlaceHoldersPass.php#L31" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\ResolveParameterPlaceHoldersPass.php at line 31</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/ResolveParameterPlaceHoldersPass.php#L31" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\ResolveParameterPlaceHoldersPass.php at line 31</a>
 
 <h3 id="process()">process</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>process</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/ContainerBuilder.md">ContainerBuilder</a> container)

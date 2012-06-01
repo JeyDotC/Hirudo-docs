@@ -5,7 +5,7 @@
 **Smarty\Smarty_Internal_CacheResource_File**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_cacheresource_file.php#L19" >framework\libs\smarty\sysplugins\smarty_internal_cacheresource_file.php at line 19</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_cacheresource_file.php#L19" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_cacheresource_file.php at line 19</a>
 
 #Class Smarty_Internal_CacheResource_File#
 
@@ -17,8 +17,8 @@
 
 - - -
 
-<p class="signature"><span class='k'>public  class</span> <span class='nx'>Smarty_Internal_CacheResource_File</span>
-extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_CacheResource.md">Smarty_CacheResource</a>
+<p><strong>public  class</strong> <span>Smarty_Internal_CacheResource_File</span>
+<strong>extends</strong> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_CacheResource.md">Smarty_CacheResource</a>
 
 </p>
 
@@ -84,7 +84,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smart
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_cacheresource_file.php#L28" >framework\libs\smarty\sysplugins\smarty_internal_cacheresource_file.php at line 28</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_cacheresource_file.php#L28" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_cacheresource_file.php at line 28</a>
 
 <h3 id="populate()">populate</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>populate</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Template_Cached.md">Smarty_Template_Cached</a> cached, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> _template)
@@ -101,7 +101,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smart
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_cacheresource_file.php#L74" >framework\libs\smarty\sysplugins\smarty_internal_cacheresource_file.php at line 74</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_cacheresource_file.php#L74" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_cacheresource_file.php at line 74</a>
 
 <h3 id="populateTimestamp()">populateTimestamp</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>populateTimestamp</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Template_Cached.md">Smarty_Template_Cached</a> cached, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Template_Cached.md">Smarty_Template_Cached</a> source)
@@ -117,7 +117,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smart
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_cacheresource_file.php#L87" >framework\libs\smarty\sysplugins\smarty_internal_cacheresource_file.php at line 87</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_cacheresource_file.php#L87" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_cacheresource_file.php at line 87</a>
 
 <h3 id="process()">process</h3>
 <span class='k'></span> <span class='nx'>booelan</span> <span class='nf'>process</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> _template, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Template_Cached.md">Smarty_Template_Cached</a> cached)
@@ -136,7 +136,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smart
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_cacheresource_file.php#L100" >framework\libs\smarty\sysplugins\smarty_internal_cacheresource_file.php at line 100</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_cacheresource_file.php#L100" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_cacheresource_file.php at line 100</a>
 
 <h3 id="writeCachedContent()">writeCachedContent</h3>
 <span class='k'></span> <span class='nx'>boolean</span> <span class='nf'>writeCachedContent</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> _template, string content)
@@ -155,7 +155,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smart
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_cacheresource_file.php#L117" >framework\libs\smarty\sysplugins\smarty_internal_cacheresource_file.php at line 117</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_cacheresource_file.php#L117" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_cacheresource_file.php at line 117</a>
 
 <h3 id="clearAll()">clearAll</h3>
 <span class='k'></span> <span class='nx'>integer</span> <span class='nf'>clearAll</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> _template, integer exp_time, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty.md">Smarty</a> smarty)
@@ -174,7 +174,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smart
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_cacheresource_file.php#L132" >framework\libs\smarty\sysplugins\smarty_internal_cacheresource_file.php at line 132</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_cacheresource_file.php#L132" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_cacheresource_file.php at line 132</a>
 
 <h3 id="clear()">clear</h3>
 <span class='k'></span> <span class='nx'>integer</span> <span class='nf'>clear</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty.md">Smarty</a> _template, string resource_name, string cache_id, string compile_id, integer exp_time, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty.md">Smarty</a> smarty)
@@ -196,7 +196,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smart
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_cacheresource_file.php#L228" >framework\libs\smarty\sysplugins\smarty_internal_cacheresource_file.php at line 228</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_cacheresource_file.php#L228" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_cacheresource_file.php at line 228</a>
 
 <h3 id="hasLock()">hasLock</h3>
 <span class='k'></span> <span class='nx'>booelan</span> <span class='nf'>hasLock</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty.md">Smarty</a> smarty, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Template_Cached.md">Smarty_Template_Cached</a> cached)
@@ -215,7 +215,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smart
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_cacheresource_file.php#L245" >framework\libs\smarty\sysplugins\smarty_internal_cacheresource_file.php at line 245</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_cacheresource_file.php#L245" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_cacheresource_file.php at line 245</a>
 
 <h3 id="acquireLock()">acquireLock</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>acquireLock</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty.md">Smarty</a> smarty, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Template_Cached.md">Smarty_Template_Cached</a> cached)
@@ -232,7 +232,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smart
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_cacheresource_file.php#L257" >framework\libs\smarty\sysplugins\smarty_internal_cacheresource_file.php at line 257</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_cacheresource_file.php#L257" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_cacheresource_file.php at line 257</a>
 
 <h3 id="releaseLock()">releaseLock</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>releaseLock</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty.md">Smarty</a> smarty, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Template_Cached.md">Smarty_Template_Cached</a> cached)

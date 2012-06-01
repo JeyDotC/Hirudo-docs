@@ -5,7 +5,7 @@
 **Smarty\Smarty_Internal_Config_File_Compiler**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_config_file_compiler.php#L19" >framework\libs\smarty\sysplugins\smarty_internal_config_file_compiler.php at line 19</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_config_file_compiler.php#L19" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_config_file_compiler.php at line 19</a>
 
 #Class Smarty_Internal_Config_File_Compiler#
 
@@ -16,7 +16,7 @@
 
 - - -
 
-<p class="signature"><span class='k'>public  class</span> <span class='nx'>Smarty_Internal_Config_File_Compiler</span></p>
+<p><strong>public  class</strong> <span>Smarty_Internal_Config_File_Compiler</span></p>
 
 <div class="comment" id="overview_description"><p>Main config file compiler class</p></div>
 
@@ -82,7 +82,7 @@
 
 <h2 id="detail_method">Constructor Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_config_file_compiler.php#L61" >framework\libs\smarty\sysplugins\smarty_internal_config_file_compiler.php at line 61</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_config_file_compiler.php#L61" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_config_file_compiler.php at line 61</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty.md">Smarty</a> smarty)
@@ -99,7 +99,7 @@
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_config_file_compiler.php#L74" >framework\libs\smarty\sysplugins\smarty_internal_config_file_compiler.php at line 74</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_config_file_compiler.php#L74" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_config_file_compiler.php at line 74</a>
 
 <h3 id="compileSource()">compileSource</h3>
 <span class='k'></span> <span class='nx'>bool</span> <span class='nf'>compileSource</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Internal_Config.md">Smarty_Internal_Config</a> config)
@@ -117,7 +117,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_config_file_compiler.php#L110" >framework\libs\smarty\sysplugins\smarty_internal_config_file_compiler.php at line 110</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_config_file_compiler.php#L110" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_config_file_compiler.php at line 110</a>
 
 <h3 id="trigger_config_file_error()">trigger_config_file_error</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>trigger_config_file_error</span> (string args)

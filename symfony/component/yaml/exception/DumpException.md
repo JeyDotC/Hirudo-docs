@@ -5,7 +5,7 @@
 **Symfony\Component\Yaml\Exception\DumpException**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/Yaml/Exception/DumpException.php#L21" >framework\libs\symfony-components\Symfony\Component\Yaml\Exception\DumpException.php at line 21</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/Yaml/Exception/DumpException.php#L21" target='_blank'>framework\libs\symfony-components\Symfony\Component\Yaml\Exception\DumpException.php at line 21</a>
 
 #Class DumpException#
 
@@ -22,8 +22,8 @@
 
 - - -
 
-<p class="signature"><span class='k'>public  class</span> <span class='nx'>DumpException</span>
-extends \RuntimeException
+<p><strong>public  class</strong> <span>DumpException</span>
+<strong>extends</strong> \RuntimeException
 
 </p>
 

@@ -5,7 +5,7 @@
 **Symfony\Component\DependencyInjection\Compiler\ServiceReferenceGraphNode**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/ServiceReferenceGraphNode.php#L24" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\ServiceReferenceGraphNode.php at line 24</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/ServiceReferenceGraphNode.php#L24" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\ServiceReferenceGraphNode.php at line 24</a>
 
 #Class ServiceReferenceGraphNode#
 
@@ -16,7 +16,7 @@
 
 - - -
 
-<p class="signature"><span class='k'>public  class</span> <span class='nx'>ServiceReferenceGraphNode</span></p>
+<p><strong>public  class</strong> <span>ServiceReferenceGraphNode</span></p>
 
 <div class="comment" id="overview_description"><p>Represents a node in your service graph.</p><p>Value is typically a definition, or an alias.</p></div>
 
@@ -74,7 +74,7 @@
 
 <h2 id="detail_method">Constructor Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/ServiceReferenceGraphNode.php#L37" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\ServiceReferenceGraphNode.php at line 37</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/ServiceReferenceGraphNode.php#L37" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\ServiceReferenceGraphNode.php at line 37</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (string id, mixed value)
@@ -92,7 +92,7 @@
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/ServiceReferenceGraphNode.php#L50" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\ServiceReferenceGraphNode.php at line 50</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/ServiceReferenceGraphNode.php#L50" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\ServiceReferenceGraphNode.php at line 50</a>
 
 <h3 id="addInEdge()">addInEdge</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>addInEdge</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/compiler/ServiceReferenceGraphEdge.md">ServiceReferenceGraphEdge</a> edge)
@@ -104,7 +104,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/ServiceReferenceGraphNode.php#L60" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\ServiceReferenceGraphNode.php at line 60</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/ServiceReferenceGraphNode.php#L60" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\ServiceReferenceGraphNode.php at line 60</a>
 
 <h3 id="addOutEdge()">addOutEdge</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>addOutEdge</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/compiler/ServiceReferenceGraphEdge.md">ServiceReferenceGraphEdge</a> edge)
@@ -116,7 +116,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/ServiceReferenceGraphNode.php#L70" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\ServiceReferenceGraphNode.php at line 70</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/ServiceReferenceGraphNode.php#L70" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\ServiceReferenceGraphNode.php at line 70</a>
 
 <h3 id="isAlias()">isAlias</h3>
 <span class='k'></span> <span class='nx'>Boolean</span> <span class='nf'>isAlias</span> ()
@@ -132,7 +132,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/ServiceReferenceGraphNode.php#L80" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\ServiceReferenceGraphNode.php at line 80</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/ServiceReferenceGraphNode.php#L80" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\ServiceReferenceGraphNode.php at line 80</a>
 
 <h3 id="isDefinition()">isDefinition</h3>
 <span class='k'></span> <span class='nx'>Boolean</span> <span class='nf'>isDefinition</span> ()
@@ -148,7 +148,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/ServiceReferenceGraphNode.php#L90" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\ServiceReferenceGraphNode.php at line 90</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/ServiceReferenceGraphNode.php#L90" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\ServiceReferenceGraphNode.php at line 90</a>
 
 <h3 id="getId()">getId</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>getId</span> ()
@@ -160,7 +160,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/ServiceReferenceGraphNode.php#L100" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\ServiceReferenceGraphNode.php at line 100</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/ServiceReferenceGraphNode.php#L100" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\ServiceReferenceGraphNode.php at line 100</a>
 
 <h3 id="getInEdges()">getInEdges</h3>
 <span class='k'></span> <span class='nx'>array</span> <span class='nf'>getInEdges</span> ()
@@ -176,7 +176,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/ServiceReferenceGraphNode.php#L110" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\ServiceReferenceGraphNode.php at line 110</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/ServiceReferenceGraphNode.php#L110" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\ServiceReferenceGraphNode.php at line 110</a>
 
 <h3 id="getOutEdges()">getOutEdges</h3>
 <span class='k'></span> <span class='nx'>array</span> <span class='nf'>getOutEdges</span> ()
@@ -192,7 +192,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/ServiceReferenceGraphNode.php#L120" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\ServiceReferenceGraphNode.php at line 120</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/ServiceReferenceGraphNode.php#L120" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\ServiceReferenceGraphNode.php at line 120</a>
 
 <h3 id="getValue()">getValue</h3>
 <span class='k'></span> <span class='nx'>mixed</span> <span class='nf'>getValue</span> ()

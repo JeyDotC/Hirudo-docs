@@ -5,7 +5,7 @@
 **Symfony\Component\DependencyInjection\Exception\RuntimeException**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Exception/RuntimeException.php#L19" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Exception\RuntimeException.php at line 19</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Exception/RuntimeException.php#L19" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Exception\RuntimeException.php at line 19</a>
 
 #Class RuntimeException#
 
@@ -27,8 +27,8 @@
 
 - - -
 
-<p class="signature"><span class='k'>public  class</span> <span class='nx'>RuntimeException</span>
-extends \RuntimeException
+<p><strong>public  class</strong> <span>RuntimeException</span>
+<strong>extends</strong> \RuntimeException
 
 </p>
 
