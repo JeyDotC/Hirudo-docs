@@ -33,7 +33,7 @@
 <tr><th colspan="2">Constructor Summary</th></tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#__construct">__construct</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/doctrine/common/annotations/reader.md">Reader</a> reader, <a href="https://github.com/JeyDotC/Hirudo/blob/master/doctrine/common/cache/cache.md">Cache</a> cache, bool debug)</p><p class="description"></p></td>
+<td class="description"><p class="name"><a href="#__construct">__construct</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/doctrine/common/annotations/Reader.md">Reader</a> reader, <a href="https://github.com/JeyDotC/Hirudo/blob/master/doctrine/common/cache/Cache.md">Cache</a> cache, bool debug)</p><p class="description"></p></td>
 </tr>
 </table>
 
@@ -74,7 +74,7 @@
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/CachedReader.php#L58" >framework\libs\doctrine-common\Doctrine\Common\Annotations\CachedReader.php at line 58</a>
 
 <h3 id="__construct">__construct</h3>
-<span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/doctrine/common/annotations/reader.md">Reader</a> reader, <a href="https://github.com/JeyDotC/Hirudo/blob/master/doctrine/common/cache/cache.md">Cache</a> cache, bool debug)
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/doctrine/common/annotations/Reader.md">Reader</a> reader, <a href="https://github.com/JeyDotC/Hirudo/blob/master/doctrine/common/cache/Cache.md">Cache</a> cache, bool debug)
 
 <div class="details">
 <p></p>

@@ -33,7 +33,7 @@ these references depending on the order in which services are called.</p><p>Circ
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#process">process</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/containerbuilder.md">ContainerBuilder</a> container)</p><p class="description">Checks the ContainerBuilder object for circular references.</p></td>
+<td class="description"><p class="name"><a href="#process">process</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/ContainerBuilder.md">ContainerBuilder</a> container)</p><p class="description">Checks the ContainerBuilder object for circular references.</p></td>
 </tr>
 </table>
 
@@ -42,7 +42,7 @@ these references depending on the order in which services are called.</p><p>Circ
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/CheckCircularReferencesPass.php#L37" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\CheckCircularReferencesPass.php at line 37</a>
 
 <h3 id="process()">process</h3>
-<span class='k'></span> <span class='nx'>void</span> <span class='nf'>process</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/containerbuilder.md">ContainerBuilder</a> container)
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>process</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/ContainerBuilder.md">ContainerBuilder</a> container)
 
 <div class="details">
 <p>Checks the ContainerBuilder object for circular references.</p><dl>

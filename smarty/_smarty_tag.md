@@ -9,7 +9,7 @@
 
 #Class _smarty_tag#
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/_smarty_parsetree.html">_smarty_parsetree</a>
+<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/_smarty_parsetree.md">_smarty_parsetree</a>
     * **_smarty_tag**
 
 
@@ -18,7 +18,7 @@
 - - -
 
 <p class="signature"><span class='k'>public  class</span> <span class='nx'>_smarty_tag</span>
-extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/_smarty_parsetree.html">_smarty_parsetree</a>
+extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/_smarty_parsetree.md">_smarty_parsetree</a>
 
 </p>
 
@@ -46,7 +46,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/_smar
 
 <table class="inherit">
 <tr><th colspan="2">Fields inherited from Smarty\_smarty_parsetree</th></tr>
-<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/_smarty_parsetree.html#data">data</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/_smarty_parsetree.html#parser">parser</a></td></tr></table>
+<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/_smarty_parsetree.md">data</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/_smarty_parsetree.md">parser</a></td></tr></table>
 
 <table id="summary_constructor">
 <tr><th colspan="2">Constructor Summary</th></tr>
@@ -70,7 +70,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/_smar
 
 <table class="inherit">
 <tr><th colspan="2">Methods inherited from Smarty\_smarty_parsetree</th></tr>
-<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/_smarty_parsetree.html#to_smarty_php()">to_smarty_php</a></td></tr></table>
+<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/_smarty_parsetree.md">to_smarty_php</a></td></tr></table>
 
 <h2 id="detail_method">Constructor Detail</h2>
 

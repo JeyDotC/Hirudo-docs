@@ -32,23 +32,23 @@ the Hirudo abstract classes.</p></div>
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/context/modulecall.html>ModuleCall</a></span></td>
+<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/modulecall.html>ModuleCall</a></span></td>
 <td class="description"><p class="name"><a href="#getcurrentcall">getCurrentCall</a>()</p><p class="description">Gets the ModuleCall that is being executed.</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#setcurrentcall">setCurrentCall</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/context/modulecall.md">ModuleCall</a> currentCall)</p><p class="description"></p></td>
+<td class="description"><p class="name"><a href="#setcurrentcall">setCurrentCall</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/context/ModuleCall.md">ModuleCall</a> currentCall)</p><p class="description"></p></td>
 </tr>
 <tr>
-<td><span class='k'>static </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/context/modulescontext.html>ModulesContext</a></span></td>
+<td><span class='k'>static </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/modulescontext.html>ModulesContext</a></span></td>
 <td class="description"><p class="name"><a href="#instance">instance</a>()</p><p class="description">Gets the current ModulesContext instance. </p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#setuser">setUser</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/context/principal.md">Principal</a> user)</p><p class="description"></p></td>
+<td class="description"><p class="name"><a href="#setuser">setUser</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/context/Principal.md">Principal</a> user)</p><p class="description"></p></td>
 </tr>
 <tr>
-<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/context/principal.html>Principal</a></span></td>
+<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/principal.html>Principal</a></span></td>
 <td class="description"><p class="name"><a href="#getcurrentuser">getCurrentUser</a>()</p><p class="description">Gets the current user which is stored in session.</p></td>
 </tr>
 <tr>
@@ -61,52 +61,52 @@ the Hirudo abstract classes.</p></div>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#setrequest">setRequest</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/context/request.md">Request</a> request)</p><p class="description"></p></td>
+<td class="description"><p class="name"><a href="#setrequest">setRequest</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/context/Request.md">Request</a> request)</p><p class="description"></p></td>
 </tr>
 <tr>
-<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/context/request.html>Request</a></span></td>
+<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/request.html>Request</a></span></td>
 <td class="description"><p class="name"><a href="#getrequest">getRequest</a>()</p><p class="description">Gets the current request object.</p></td>
 </tr>
 <tr>
-<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/context/appconfig.html>AppConfig</a></span></td>
+<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/appconfig.html>AppConfig</a></span></td>
 <td class="description"><p class="name"><a href="#getconfig">getConfig</a>()</p><p class="description">Gets the current configuration object.</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#setconfig">setConfig</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/context/appconfig.md">AppConfig</a> config)</p><p class="description"></p></td>
+<td class="description"><p class="name"><a href="#setconfig">setConfig</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/context/AppConfig.md">AppConfig</a> config)</p><p class="description"></p></td>
 </tr>
 <tr>
-<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/context/routing.html>Routing</a></span></td>
+<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/routing.html>Routing</a></span></td>
 <td class="description"><p class="name"><a href="#getrouting">getRouting</a>()</p><p class="description">Gets the current implementation of the Routing class.
 </p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#setrouting">setRouting</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/context/routing.md">Routing</a> routing)</p><p class="description"></p></td>
+<td class="description"><p class="name"><a href="#setrouting">setRouting</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/context/Routing.md">Routing</a> routing)</p><p class="description"></p></td>
 </tr>
 <tr>
-<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/templatinginterface.html>TemplatingInterface</a></span></td>
+<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/templatinginterface.html>TemplatingInterface</a></span></td>
 <td class="description"><p class="name"><a href="#gettemplating">getTemplating</a>()</p><p class="description">Gets the templating system object.</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#settemplating">setTemplating</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/templatinginterface.md">TemplatingInterface</a> templating)</p><p class="description"></p></td>
+<td class="description"><p class="name"><a href="#settemplating">setTemplating</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/TemplatingInterface.md">TemplatingInterface</a> templating)</p><p class="description"></p></td>
 </tr>
 <tr>
-<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/dependencyinjection/dependenciesmanager.html>DependenciesManager</a></span></td>
+<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/dependencyinjection/dependenciesmanager.html>DependenciesManager</a></span></td>
 <td class="description"><p class="name"><a href="#getdependenciesmanager">getDependenciesManager</a>()</p><p class="description">Gets the current object responsible for the dependency injection.</p></td>
 </tr>
 <tr>
-<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/context/assets.html>Assets</a></span></td>
+<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/assets.html>Assets</a></span></td>
 <td class="description"><p class="name"><a href="#getassets">getAssets</a>()</p><p class="description">Gets the current assets management system.</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#setassets">setAssets</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/context/assets.md">Assets</a> assets)</p><p class="description"></p></td>
+<td class="description"><p class="name"><a href="#setassets">setAssets</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/context/Assets.md">Assets</a> assets)</p><p class="description"></p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#setdependenciesmanager">setDependenciesManager</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/dependencyinjection/dependenciesmanager.md">DependenciesManager</a> dependenciesManager)</p></td>
+<td class="description"><p class="name"><a href="#setdependenciesmanager">setDependenciesManager</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/dependencyinjection/DependenciesManager.md">DependenciesManager</a> dependenciesManager)</p></td>
 </tr>
 </table>
 
@@ -115,7 +115,7 @@ the Hirudo abstract classes.</p></div>
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Context/ModulesContext.php#L68" >framework\hirudo\Hirudo\Core\Context\ModulesContext.php at line 68</a>
 
 <h3 id="getCurrentCall()">getCurrentCall</h3>
-<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/context/modulecall.html>ModuleCall</a></span> <span class='nf'>getCurrentCall</span> ()
+<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/modulecall.html>ModuleCall</a></span> <span class='nf'>getCurrentCall</span> ()
 
 <div class="details">
 <p>Gets the ModuleCall that is being executed.</p><dl>
@@ -131,7 +131,7 @@ the Hirudo abstract classes.</p></div>
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Context/ModulesContext.php#L77" >framework\hirudo\Hirudo\Core\Context\ModulesContext.php at line 77</a>
 
 <h3 id="setCurrentCall()">setCurrentCall</h3>
-<span class='k'></span> <span class='nx'>void</span> <span class='nf'>setCurrentCall</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/context/modulecall.md">ModuleCall</a> currentCall)
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>setCurrentCall</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/context/ModuleCall.md">ModuleCall</a> currentCall)
 
 <div class="details">
 <p></p>
@@ -143,7 +143,7 @@ the Hirudo abstract classes.</p></div>
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Context/ModulesContext.php#L88" >framework\hirudo\Hirudo\Core\Context\ModulesContext.php at line 88</a>
 
 <h3 id="instance()">instance</h3>
-<span class='k'>static </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/context/modulescontext.html>ModulesContext</a></span> <span class='nf'>instance</span> ()
+<span class='k'>static </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/modulescontext.html>ModulesContext</a></span> <span class='nf'>instance</span> ()
 
 <div class="details">
 <p>Gets the current ModulesContext instance. Use this method to
@@ -157,7 +157,7 @@ instances.</p>
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Context/ModulesContext.php#L102" >framework\hirudo\Hirudo\Core\Context\ModulesContext.php at line 102</a>
 
 <h3 id="setUser()">setUser</h3>
-<span class='k'></span> <span class='nx'>void</span> <span class='nf'>setUser</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/context/principal.md">Principal</a> user)
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>setUser</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/context/Principal.md">Principal</a> user)
 
 <div class="details">
 <p></p><dl>
@@ -172,7 +172,7 @@ instances.</p>
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Context/ModulesContext.php#L111" >framework\hirudo\Hirudo\Core\Context\ModulesContext.php at line 111</a>
 
 <h3 id="getCurrentUser()">getCurrentUser</h3>
-<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/context/principal.html>Principal</a></span> <span class='nf'>getCurrentUser</span> ()
+<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/principal.html>Principal</a></span> <span class='nf'>getCurrentUser</span> ()
 
 <div class="details">
 <p>Gets the current user which is stored in session.</p>
@@ -211,7 +211,7 @@ instances.</p>
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Context/ModulesContext.php#L136" >framework\hirudo\Hirudo\Core\Context\ModulesContext.php at line 136</a>
 
 <h3 id="setRequest()">setRequest</h3>
-<span class='k'></span> <span class='nx'>void</span> <span class='nf'>setRequest</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/context/request.md">Request</a> request)
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>setRequest</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/context/Request.md">Request</a> request)
 
 <div class="details">
 <p></p><dl>
@@ -226,7 +226,7 @@ instances.</p>
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Context/ModulesContext.php#L145" >framework\hirudo\Hirudo\Core\Context\ModulesContext.php at line 145</a>
 
 <h3 id="getRequest()">getRequest</h3>
-<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/context/request.html>Request</a></span> <span class='nf'>getRequest</span> ()
+<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/request.html>Request</a></span> <span class='nf'>getRequest</span> ()
 
 <div class="details">
 <p>Gets the current request object.</p>
@@ -238,7 +238,7 @@ instances.</p>
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Context/ModulesContext.php#L154" >framework\hirudo\Hirudo\Core\Context\ModulesContext.php at line 154</a>
 
 <h3 id="getConfig()">getConfig</h3>
-<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/context/appconfig.html>AppConfig</a></span> <span class='nf'>getConfig</span> ()
+<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/appconfig.html>AppConfig</a></span> <span class='nf'>getConfig</span> ()
 
 <div class="details">
 <p>Gets the current configuration object.</p>
@@ -250,7 +250,7 @@ instances.</p>
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Context/ModulesContext.php#L163" >framework\hirudo\Hirudo\Core\Context\ModulesContext.php at line 163</a>
 
 <h3 id="setConfig()">setConfig</h3>
-<span class='k'></span> <span class='nx'>void</span> <span class='nf'>setConfig</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/context/appconfig.md">AppConfig</a> config)
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>setConfig</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/context/AppConfig.md">AppConfig</a> config)
 
 <div class="details">
 <p></p><dl>
@@ -265,7 +265,7 @@ instances.</p>
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Context/ModulesContext.php#L176" >framework\hirudo\Hirudo\Core\Context\ModulesContext.php at line 176</a>
 
 <h3 id="getRouting()">getRouting</h3>
-<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/context/routing.html>Routing</a></span> <span class='nf'>getRouting</span> ()
+<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/routing.html>Routing</a></span> <span class='nf'>getRouting</span> ()
 
 <div class="details">
 <p>Gets the current implementation of the Routing class.
@@ -281,7 +281,7 @@ you are getting the routing object fron this method.</p>
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Context/ModulesContext.php#L185" >framework\hirudo\Hirudo\Core\Context\ModulesContext.php at line 185</a>
 
 <h3 id="setRouting()">setRouting</h3>
-<span class='k'></span> <span class='nx'>void</span> <span class='nf'>setRouting</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/context/routing.md">Routing</a> routing)
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>setRouting</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/context/Routing.md">Routing</a> routing)
 
 <div class="details">
 <p></p><dl>
@@ -296,7 +296,7 @@ you are getting the routing object fron this method.</p>
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Context/ModulesContext.php#L194" >framework\hirudo\Hirudo\Core\Context\ModulesContext.php at line 194</a>
 
 <h3 id="getTemplating()">getTemplating</h3>
-<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/templatinginterface.html>TemplatingInterface</a></span> <span class='nf'>getTemplating</span> ()
+<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/templatinginterface.html>TemplatingInterface</a></span> <span class='nf'>getTemplating</span> ()
 
 <div class="details">
 <p>Gets the templating system object.</p>
@@ -308,7 +308,7 @@ you are getting the routing object fron this method.</p>
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Context/ModulesContext.php#L203" >framework\hirudo\Hirudo\Core\Context\ModulesContext.php at line 203</a>
 
 <h3 id="setTemplating()">setTemplating</h3>
-<span class='k'></span> <span class='nx'>void</span> <span class='nf'>setTemplating</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/templatinginterface.md">TemplatingInterface</a> templating)
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>setTemplating</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/TemplatingInterface.md">TemplatingInterface</a> templating)
 
 <div class="details">
 <p></p><dl>
@@ -323,7 +323,7 @@ you are getting the routing object fron this method.</p>
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Context/ModulesContext.php#L212" >framework\hirudo\Hirudo\Core\Context\ModulesContext.php at line 212</a>
 
 <h3 id="getDependenciesManager()">getDependenciesManager</h3>
-<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/dependencyinjection/dependenciesmanager.html>DependenciesManager</a></span> <span class='nf'>getDependenciesManager</span> ()
+<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/dependencyinjection/dependenciesmanager.html>DependenciesManager</a></span> <span class='nf'>getDependenciesManager</span> ()
 
 <div class="details">
 <p>Gets the current object responsible for the dependency injection.</p>
@@ -335,7 +335,7 @@ you are getting the routing object fron this method.</p>
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Context/ModulesContext.php#L221" >framework\hirudo\Hirudo\Core\Context\ModulesContext.php at line 221</a>
 
 <h3 id="getAssets()">getAssets</h3>
-<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/context/assets.html>Assets</a></span> <span class='nf'>getAssets</span> ()
+<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/assets.html>Assets</a></span> <span class='nf'>getAssets</span> ()
 
 <div class="details">
 <p>Gets the current assets management system.</p>
@@ -347,7 +347,7 @@ you are getting the routing object fron this method.</p>
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Context/ModulesContext.php#L230" >framework\hirudo\Hirudo\Core\Context\ModulesContext.php at line 230</a>
 
 <h3 id="setAssets()">setAssets</h3>
-<span class='k'></span> <span class='nx'>void</span> <span class='nf'>setAssets</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/context/assets.md">Assets</a> assets)
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>setAssets</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/context/Assets.md">Assets</a> assets)
 
 <div class="details">
 <p></p><dl>
@@ -362,7 +362,7 @@ you are getting the routing object fron this method.</p>
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Context/ModulesContext.php#L234" >framework\hirudo\Hirudo\Core\Context\ModulesContext.php at line 234</a>
 
 <h3 id="setDependenciesManager()">setDependenciesManager</h3>
-<span class='k'></span> <span class='nx'>void</span> <span class='nf'>setDependenciesManager</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/dependencyinjection/dependenciesmanager.md">DependenciesManager</a> dependenciesManager)
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>setDependenciesManager</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/dependencyinjection/DependenciesManager.md">DependenciesManager</a> dependenciesManager)
 
 <div class="details">
 

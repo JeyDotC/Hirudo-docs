@@ -15,7 +15,7 @@ BaseFileLoader
 
 <dl>
 <dt>All Known Subclasses:</dt>
-<dd><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/loader/inifileloader.html">IniFileLoader</a> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/loader/phpfileloader.html">PhpFileLoader</a> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/loader/xmlfileloader.html">XmlFileLoader</a> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/loader/yamlfileloader.html">YamlFileLoader</a> </dd>
+<dd><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/loader/inifileloader.md">IniFileLoader</a> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/loader/phpfileloader.md">PhpFileLoader</a> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/loader/xmlfileloader.md">XmlFileLoader</a> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/loader/yamlfileloader.md">YamlFileLoader</a> </dd>
 </dl>
 
 
@@ -52,7 +52,7 @@ extends BaseFileLoader
 <tr><th colspan="2">Constructor Summary</th></tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#__construct">__construct</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/containerbuilder.md">ContainerBuilder</a> container, FileLocator locator)</p><p class="description">Constructor.</p></td>
+<td class="description"><p class="name"><a href="#__construct">__construct</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/ContainerBuilder.md">ContainerBuilder</a> container, FileLocator locator)</p><p class="description">Constructor.</p></td>
 </tr>
 </table>
 
@@ -61,7 +61,7 @@ extends BaseFileLoader
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Loader/FileLoader.php#L33" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Loader\FileLoader.php at line 33</a>
 
 <h3 id="__construct">__construct</h3>
-<span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/containerbuilder.md">ContainerBuilder</a> container, FileLocator locator)
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/ContainerBuilder.md">ContainerBuilder</a> container, FileLocator locator)
 
 <div class="details">
 <p>Constructor.</p><dl>

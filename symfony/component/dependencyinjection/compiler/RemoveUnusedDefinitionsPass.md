@@ -32,11 +32,11 @@
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#setrepeatedpass">setRepeatedPass</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/compiler/repeatedpass.md">RepeatedPass</a> repeatedPass)</p><p class="description"></p></td>
+<td class="description"><p class="name"><a href="#setrepeatedpass">setRepeatedPass</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/compiler/RepeatedPass.md">RepeatedPass</a> repeatedPass)</p><p class="description"></p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#process">process</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/containerbuilder.md">ContainerBuilder</a> container)</p><p class="description">Processes the ContainerBuilder to remove unused definitions.</p></td>
+<td class="description"><p class="name"><a href="#process">process</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/ContainerBuilder.md">ContainerBuilder</a> container)</p><p class="description">Processes the ContainerBuilder to remove unused definitions.</p></td>
 </tr>
 </table>
 
@@ -45,7 +45,7 @@
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/RemoveUnusedDefinitionsPass.php#L31" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\RemoveUnusedDefinitionsPass.php at line 31</a>
 
 <h3 id="setRepeatedPass()">setRepeatedPass</h3>
-<span class='k'></span> <span class='nx'>void</span> <span class='nf'>setRepeatedPass</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/compiler/repeatedpass.md">RepeatedPass</a> repeatedPass)
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>setRepeatedPass</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/compiler/RepeatedPass.md">RepeatedPass</a> repeatedPass)
 
 <div class="details">
 <p></p>
@@ -57,7 +57,7 @@
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/RemoveUnusedDefinitionsPass.php#L42" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\RemoveUnusedDefinitionsPass.php at line 42</a>
 
 <h3 id="process()">process</h3>
-<span class='k'></span> <span class='nx'>void</span> <span class='nf'>process</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/containerbuilder.md">ContainerBuilder</a> container)
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>process</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/ContainerBuilder.md">ContainerBuilder</a> container)
 
 <div class="details">
 <p>Processes the ContainerBuilder to remove unused definitions.</p>

@@ -27,11 +27,11 @@
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/hirudo/serialization/entityserializerbase.html>EntitySerializerBase</a></span></td>
+<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/serialization/entityserializerbase.html>EntitySerializerBase</a></span></td>
 <td class="description"><p class="name"><a href="#getserializer">getSerializer</a>(mixed params)</p><p class="description">Gets an Entity serializer based on the given argument.</p></td>
 </tr>
 <tr>
-<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/hirudo/serialization/entitydeserializerbase.html>EntityDeserializerBase</a></span></td>
+<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/serialization/entitydeserializerbase.html>EntityDeserializerBase</a></span></td>
 <td class="description"><p class="name"><a href="#getdeserializer">getDeserializer</a>(mixed params)</p><p class="description">Gets an entity deserializer based on the given argument</p></td>
 </tr>
 </table>
@@ -41,7 +41,7 @@
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Serialization/SerializationFactory.php#L37" >framework\hirudo\Hirudo\Serialization\SerializationFactory.php at line 37</a>
 
 <h3 id="getSerializer()">getSerializer</h3>
-<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/hirudo/serialization/entityserializerbase.html>EntitySerializerBase</a></span> <span class='nf'>getSerializer</span> (mixed params)
+<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/serialization/entityserializerbase.html>EntitySerializerBase</a></span> <span class='nf'>getSerializer</span> (mixed params)
 
 <div class="details">
 <p>Gets an Entity serializer based on the given argument.</p>
@@ -53,7 +53,7 @@
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Serialization/SerializationFactory.php#L44" >framework\hirudo\Hirudo\Serialization\SerializationFactory.php at line 44</a>
 
 <h3 id="getDeserializer()">getDeserializer</h3>
-<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/hirudo/serialization/entitydeserializerbase.html>EntityDeserializerBase</a></span> <span class='nf'>getDeserializer</span> (mixed params)
+<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/serialization/entitydeserializerbase.html>EntityDeserializerBase</a></span> <span class='nf'>getDeserializer</span> (mixed params)
 
 <div class="details">
 <p>Gets an entity deserializer based on the given argument</p>

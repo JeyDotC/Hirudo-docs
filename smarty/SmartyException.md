@@ -15,7 +15,7 @@ Exception
 
 <dl>
 <dt>All Known Subclasses:</dt>
-<dd><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smartycompilerexception.html">SmartyCompilerException</a> </dd>
+<dd><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smartycompilerexception.md">SmartyCompilerException</a> </dd>
 </dl>
 
 

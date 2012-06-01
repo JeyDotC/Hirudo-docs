@@ -9,7 +9,7 @@
 
 #Class ModuleEnhablePlugin#
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/events/beforetaskeventlistener.html">BeforeTaskEventListener</a>
+<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/events/beforetaskeventlistener.md">BeforeTaskEventListener</a>
     * **ModuleEnhablePlugin**
 
 
@@ -18,7 +18,7 @@
 - - -
 
 <p class="signature"><span class='k'>public  class</span> <span class='nx'>ModuleEnhablePlugin</span>
-extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/events/beforetaskeventlistener.html">BeforeTaskEventListener</a>
+extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/events/beforetaskeventlistener.md">BeforeTaskEventListener</a>
 
 </p>
 
@@ -36,21 +36,21 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td><span class='k'>protected </span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#beforetask">beforeTask</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/events/beforetaskevent.md">BeforeTaskEvent</a> e)</p><p class="description">This is the method that needs to be implemented by the event listener in
+<td class="description"><p class="name"><a href="#beforetask">beforeTask</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/events/BeforeTaskEvent.md">BeforeTaskEvent</a> e)</p><p class="description">This is the method that needs to be implemented by the event listener in
 order to work. </p></td>
 </tr>
 </table>
 
 <table class="inherit">
 <tr><th colspan="2">Methods inherited from Hirudo\Core\Events\BeforeTaskEventListener</th></tr>
-<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/events/beforetaskeventlistener.html#beforeTask()">beforeTask</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/events/beforetaskeventlistener.html#getSubscribedEvents()">getSubscribedEvents</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/events/beforetaskeventlistener.html#onBeforeTask()">onBeforeTask</a></td></tr></table>
+<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/events/beforetaskeventlistener.md">beforeTask</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/events/beforetaskeventlistener.md">getSubscribedEvents</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/events/beforetaskeventlistener.md">onBeforeTask</a></td></tr></table>
 
 <h2 id="detail_method">Method Detail</h2>
 
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/ext/libs/SampleExtension/Sample/Plugins/ModuleEnhablePlugin.php#L17" >ext\libs\SampleExtension\Sample\Plugins\ModuleEnhablePlugin.php at line 17</a>
 
 <h3 id="beforeTask()">beforeTask</h3>
-<span class='k'>protected </span> <span class='nx'>void</span> <span class='nf'>beforeTask</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/events/beforetaskevent.md">BeforeTaskEvent</a> e)
+<span class='k'>protected </span> <span class='nx'>void</span> <span class='nf'>beforeTask</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/events/BeforeTaskEvent.md">BeforeTaskEvent</a> e)
 
 <div class="details">
 <p>This is the method that needs to be implemented by the event listener in

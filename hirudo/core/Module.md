@@ -14,7 +14,7 @@
 
 <dl>
 <dt>All Known Subclasses:</dt>
-<dd><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/sampleapp/modules/errorpage.html">SampleApp\Modules\ErrorPage</a> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/sampleapp/modules/frontpage.html">SampleApp\Modules\FrontPage</a> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/sampleapp/modules/httptester.html">SampleApp\Modules\HttpTester</a> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/sampleapp/modules/simplesqltest.html">SampleApp\Modules\SimpleSqlTest</a> </dd>
+<dd><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/sampleapp/modules/errorpage.md">SampleApp\Modules\ErrorPage</a> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/sampleapp/modules/frontpage.md">SampleApp\Modules\FrontPage</a> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/sampleapp/modules/httptester.md">SampleApp\Modules\HttpTester</a> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/sampleapp/modules/simplesqltest.md">SampleApp\Modules\SimpleSqlTest</a> </dd>
 </dl>
 
 
@@ -34,27 +34,27 @@
 <table id="summary_field">
 <tr><th colspan="2">Field Summary</th></tr>
 <tr>
-<td><span class='k'>protected </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/context/modulescontext.html'>ModulesContext</a></span></td>
+<td><span class='k'>protected </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/modulescontext.html'>ModulesContext</a></span></td>
 <td class="description"><p class="name" ><a href="#context"> $context</a>
                                 </p><p class="description">An internal ModulesContext instance.</p></td>
 </tr>
 <tr>
-<td><span class='k'>protected </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/context/principal.html'>Principal</a></span></td>
+<td><span class='k'>protected </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/principal.html'>Principal</a></span></td>
 <td class="description"><p class="name" ><a href="#currentUser"> $currentUser</a>
                                 </p><p class="description">The current user of this session.</p></td>
 </tr>
 <tr>
-<td><span class='k'>protected </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/headerbag.html'>HeaderBag</a></span></td>
+<td><span class='k'>protected </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/headerbag.html'>HeaderBag</a></span></td>
 <td class="description"><p class="name" ><a href="#headers"> $headers</a>
                                 </p><p class="description">An utility object for response header edition.</p></td>
 </tr>
 <tr>
-<td><span class='k'>protected </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/context/request.html'>Request</a></span></td>
+<td><span class='k'>protected </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/request.html'>Request</a></span></td>
 <td class="description"><p class="name" ><a href="#request"> $request</a>
                                 </p><p class="description">Gives access to the request arrays such as GET, POST or SESSION.</p></td>
 </tr>
 <tr>
-<td><span class='k'>protected </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/context/routing.html'>Routing</a></span></td>
+<td><span class='k'>protected </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/routing.html'>Routing</a></span></td>
 <td class="description"><p class="name" ><a href="#route"> $route</a>
                                 </p><p class="description">A helper class for managing urls.</p></td>
 </tr>
@@ -83,7 +83,7 @@
 <td class="description"><p class="name"><a href="#component">component</a>(string name)</p><p class="description">Retreives a component instance.</p></td>
 </tr>
 <tr>
-<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/task.html>Task</a></span></td>
+<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/task.html>Task</a></span></td>
 <td class="description"><p class="name"><a href="#gettask">getTask</a>(string taskName)</p><p class="description">Builds a task from it's name. </p></td>
 </tr>
 <tr>
@@ -107,7 +107,7 @@ the browser.</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#addmessage">addMessage</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/util/message.md">Message</a> message)</p><p class="description">Adds a message to the view which normally will be rendered as a notification.</p></td>
+<td class="description"><p class="name"><a href="#addmessage">addMessage</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/util/Message.md">Message</a> message)</p><p class="description">Adds a message to the view which normally will be rendered as a notification.</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
@@ -202,7 +202,7 @@ the browser.</p></td>
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Module.php#L257" >framework\hirudo\Hirudo\Core\Module.php at line 257</a>
 
 <h3 id="getTask()">getTask</h3>
-<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/task.html>Task</a></span> <span class='nf'>getTask</span> (string taskName)
+<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/task.html>Task</a></span> <span class='nf'>getTask</span> (string taskName)
 
 <div class="details">
 <p>Builds a task from it's name. If the module doesn't have a corresponding
@@ -304,7 +304,7 @@ the browser.</p></p><dl>
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Module.php#L351" >framework\hirudo\Hirudo\Core\Module.php at line 351</a>
 
 <h3 id="addMessage()">addMessage</h3>
-<span class='k'></span> <span class='nx'>void</span> <span class='nf'>addMessage</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/util/message.md">Message</a> message)
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>addMessage</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/util/Message.md">Message</a> message)
 
 <div class="details">
 <p>Adds a message to the view which normally will be rendered as a notification.</p><dl>

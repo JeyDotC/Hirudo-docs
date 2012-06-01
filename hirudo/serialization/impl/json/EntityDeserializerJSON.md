@@ -9,7 +9,7 @@
 
 #Class EntityDeserializerJSON#
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/serialization/entitydeserializerbase.html">EntityDeserializerBase</a>
+<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/serialization/entitydeserializerbase.md">EntityDeserializerBase</a>
     * **EntityDeserializerJSON**
 
 
@@ -18,7 +18,7 @@
 - - -
 
 <p class="signature"><span class='k'>public  class</span> <span class='nx'>EntityDeserializerJSON</span>
-extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/serialization/entitydeserializerbase.html">EntityDeserializerBase</a>
+extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/serialization/entitydeserializerbase.md">EntityDeserializerBase</a>
 
 </p>
 
@@ -45,7 +45,7 @@ the conversion into an entity.</p></td>
 
 <table class="inherit">
 <tr><th colspan="2">Methods inherited from Hirudo\Serialization\EntityDeserializerBase</th></tr>
-<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/serialization/entitydeserializerbase.html#__construct()">__construct</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/serialization/entitydeserializerbase.html#convertStringToArray()">convertStringToArray</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/serialization/entitydeserializerbase.html#deserialize()">deserialize</a></td></tr></table>
+<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/serialization/entitydeserializerbase.md">__construct</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/serialization/entitydeserializerbase.md">convertStringToArray</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/serialization/entitydeserializerbase.md">deserialize</a></td></tr></table>
 
 <h2 id="detail_method">Method Detail</h2>
 

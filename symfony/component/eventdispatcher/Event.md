@@ -14,7 +14,7 @@
 
 <dl>
 <dt>All Known Subclasses:</dt>
-<dd><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/events/beforetaskevent.html">Hirudo\Core\Events\BeforeTaskEvent</a> </dd>
+<dd><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/events/beforetaskevent.md">Hirudo\Core\Events\BeforeTaskEvent</a> </dd>
 </dl>
 
 

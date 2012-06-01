@@ -9,7 +9,7 @@
 
 #Class ClosureLoader#
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/lang/loader.html">Loader</a>
+<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/lang/loader.md">Loader</a>
     * **ClosureLoader**
 
 
@@ -18,7 +18,7 @@
 - - -
 
 <p class="signature"><span class='k'>public  class</span> <span class='nx'>ClosureLoader</span>
-extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/lang/loader.html">Loader</a>
+extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/lang/loader.md">Loader</a>
 
 </p>
 
@@ -38,7 +38,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/lang/
 <tr><th colspan="2">Constructor Summary</th></tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#__construct">__construct</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/containerbuilder.md">ContainerBuilder</a> container)</p><p class="description">Constructor.</p></td>
+<td class="description"><p class="name"><a href="#__construct">__construct</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/ContainerBuilder.md">ContainerBuilder</a> container)</p><p class="description">Constructor.</p></td>
 </tr>
 </table>
 
@@ -56,14 +56,14 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/lang/
 
 <table class="inherit">
 <tr><th colspan="2">Methods inherited from Hirudo\Lang\Loader</th></tr>
-<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/lang/loader.html#arrayToPaths()">arrayToPaths</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/lang/loader.html#isDir()">isDir</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/lang/loader.html#isFile()">isFile</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/lang/loader.html#toPaths()">toPaths</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/lang/loader.html#toSinglePath()">toSinglePath</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/lang/loader.html#using()">using</a></td></tr></table>
+<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/lang/loader.md">arrayToPaths</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/lang/loader.md">isDir</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/lang/loader.md">isFile</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/lang/loader.md">toPaths</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/lang/loader.md">toSinglePath</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/lang/loader.md">using</a></td></tr></table>
 
 <h2 id="detail_method">Constructor Detail</h2>
 
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Loader/ClosureLoader.php#L33" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Loader\ClosureLoader.php at line 33</a>
 
 <h3 id="__construct">__construct</h3>
-<span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/containerbuilder.md">ContainerBuilder</a> container)
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/ContainerBuilder.md">ContainerBuilder</a> container)
 
 <div class="details">
 <p>Constructor.</p><dl>

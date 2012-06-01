@@ -63,7 +63,7 @@
 <tr><th colspan="2">Constructor Summary</th></tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#__construct">__construct</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty.md">Smarty</a> smarty)</p><p class="description">Initialize compiler</p></td>
+<td class="description"><p class="name"><a href="#__construct">__construct</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty.md">Smarty</a> smarty)</p><p class="description">Initialize compiler</p></td>
 </tr>
 </table>
 
@@ -71,7 +71,7 @@
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>bool</span></td>
-<td class="description"><p class="name"><a href="#compilesource">compileSource</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_config.md">Smarty_Internal_Config</a> config)</p><p class="description">Method to compile a Smarty template.</p></td>
+<td class="description"><p class="name"><a href="#compilesource">compileSource</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Internal_Config.md">Smarty_Internal_Config</a> config)</p><p class="description">Method to compile a Smarty template.</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
@@ -85,7 +85,7 @@
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_config_file_compiler.php#L61" >framework\libs\smarty\sysplugins\smarty_internal_config_file_compiler.php at line 61</a>
 
 <h3 id="__construct">__construct</h3>
-<span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty.md">Smarty</a> smarty)
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty.md">Smarty</a> smarty)
 
 <div class="details">
 <p>Initialize compiler</p><dl>
@@ -102,7 +102,7 @@
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_config_file_compiler.php#L74" >framework\libs\smarty\sysplugins\smarty_internal_config_file_compiler.php at line 74</a>
 
 <h3 id="compileSource()">compileSource</h3>
-<span class='k'></span> <span class='nx'>bool</span> <span class='nf'>compileSource</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_config.md">Smarty_Internal_Config</a> config)
+<span class='k'></span> <span class='nx'>bool</span> <span class='nf'>compileSource</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Internal_Config.md">Smarty_Internal_Config</a> config)
 
 <div class="details">
 <p>Method to compile a Smarty template.</p><dl>

@@ -9,7 +9,7 @@
 
 #Class EntitySerializerJSON#
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/serialization/entityserializerbase.html">EntitySerializerBase</a>
+<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/serialization/entityserializerbase.md">EntitySerializerBase</a>
     * **EntitySerializerJSON**
 
 
@@ -18,7 +18,7 @@
 - - -
 
 <p class="signature"><span class='k'>public  class</span> <span class='nx'>EntitySerializerJSON</span>
-extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/serialization/entityserializerbase.html">EntitySerializerBase</a>
+extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/serialization/entityserializerbase.md">EntitySerializerBase</a>
 
 </p>
 
@@ -45,7 +45,7 @@ string representation.</p></td>
 
 <table class="inherit">
 <tr><th colspan="2">Methods inherited from Hirudo\Serialization\EntitySerializerBase</th></tr>
-<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/serialization/entityserializerbase.html#__construct()">__construct</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/serialization/entityserializerbase.html#doSerialize()">doSerialize</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/serialization/entityserializerbase.html#serialize()">serialize</a></td></tr></table>
+<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/serialization/entityserializerbase.md">__construct</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/serialization/entityserializerbase.md">doSerialize</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/serialization/entityserializerbase.md">serialize</a></td></tr></table>
 
 <h2 id="detail_method">Method Detail</h2>
 

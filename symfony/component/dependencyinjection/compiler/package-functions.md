@@ -8,7 +8,7 @@
 <tr><th colspan="2" class="title">Function Summary</th></tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#addPass">addPass</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/compiler/compilerpassinterface.md">CompilerPassInterface</a> pass, string type)</p><p class="description">Adds a pass.</p></td>
+<td class="description"><p class="name"><a href="#addPass">addPass</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/compiler/CompilerPassInterface.md">CompilerPassInterface</a> pass, string type)</p><p class="description">Adds a pass.</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>array</span></td>
@@ -52,7 +52,7 @@
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#setMergePass">setMergePass</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/compiler/compilerpassinterface.md">CompilerPassInterface</a> pass)</p><p class="description">Sets the Merge Pass.</p></td>
+<td class="description"><p class="name"><a href="#setMergePass">setMergePass</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/compiler/CompilerPassInterface.md">CompilerPassInterface</a> pass)</p><p class="description">Sets the Merge Pass.</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
@@ -69,7 +69,7 @@
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/PassConfig.php#L76" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\PassConfig.php at line 76</a>
 
 <h3 id="addPass()">addPass</h3>
-<span class='k'></span> <span class='nx'>void</span> addPass (<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/compiler/compilerpassinterface.md">CompilerPassInterface</a> pass, string type)
+<span class='k'></span> <span class='nx'>void</span> addPass (<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/compiler/CompilerPassInterface.md">CompilerPassInterface</a> pass, string type)
 
 <div class="details">
 <p>Adds a pass.</p>
@@ -259,7 +259,7 @@
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/PassConfig.php#L166" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\PassConfig.php at line 166</a>
 
 <h3 id="setMergePass()">setMergePass</h3>
-<span class='k'></span> <span class='nx'>void</span> setMergePass (<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/compiler/compilerpassinterface.md">CompilerPassInterface</a> pass)
+<span class='k'></span> <span class='nx'>void</span> setMergePass (<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/compiler/CompilerPassInterface.md">CompilerPassInterface</a> pass)
 
 <div class="details">
 <p>Sets the Merge Pass.</p>

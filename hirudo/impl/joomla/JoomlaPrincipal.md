@@ -9,7 +9,7 @@
 
 #Class JoomlaPrincipal#
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/principal.html">Principal</a>
+<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/principal.md">Principal</a>
     * **JoomlaPrincipal**
 
 
@@ -18,7 +18,7 @@
 - - -
 
 <p class="signature"><span class='k'>public  class</span> <span class='nx'>JoomlaPrincipal</span>
-extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/principal.html">Principal</a>
+extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/principal.md">Principal</a>
 
 </p>
 
@@ -54,7 +54,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/
 
 <table class="inherit">
 <tr><th colspan="2">Methods inherited from Hirudo\Core\Context\Principal</th></tr>
-<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/principal.html#__construct()">__construct</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/principal.html#getCredential()">getCredential</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/principal.html#getData()">getData</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/principal.html#getName()">getName</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/principal.html#getPermissions()">getPermissions</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/principal.html#isAnonimous()">isAnonimous</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/principal.html#setCredential()">setCredential</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/principal.html#setName()">setName</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/principal.html#setPermissions()">setPermissions</a></td></tr></table>
+<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/principal.md">__construct</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/principal.md">getCredential</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/principal.md">getData</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/principal.md">getName</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/principal.md">getPermissions</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/principal.md">isAnonimous</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/principal.md">setCredential</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/principal.md">setName</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/principal.md">setPermissions</a></td></tr></table>
 
 <h2 id="detail_method">Constructor Detail</h2>
 

@@ -14,7 +14,7 @@
 
 <dl>
 <dt>All Known Subclasses:</dt>
-<dd><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/containerbuilder.html">ContainerBuilder</a> </dd>
+<dd><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/containerbuilder.md">ContainerBuilder</a> </dd>
 </dl>
 
 
@@ -98,7 +98,7 @@ getXXXService(), where XXX is the camelized version of the id:</p>
 <tr><th colspan="2">Constructor Summary</th></tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#__construct">__construct</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/parameterbag/parameterbaginterface.md">ParameterBagInterface</a> parameterBag)</p><p class="description">Constructor.</p></td>
+<td class="description"><p class="name"><a href="#__construct">__construct</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/parameterbag/ParameterBagInterface.md">ParameterBagInterface</a> parameterBag)</p><p class="description">Constructor.</p></td>
 </tr>
 </table>
 
@@ -114,7 +114,7 @@ getXXXService(), where XXX is the camelized version of the id:</p>
 <td class="description"><p class="name"><a href="#isfrozen">isFrozen</a>()</p><p class="description">Returns true if the container parameter bag are frozen.</p></td>
 </tr>
 <tr>
-<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/parameterbag/parameterbaginterface.html>ParameterBagInterface</a></span></td>
+<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/parameterbag/parameterbaginterface.html>ParameterBagInterface</a></span></td>
 <td class="description"><p class="name"><a href="#getparameterbag">getParameterBag</a>()</p><p class="description">Gets the service container parameter bag.</p></td>
 </tr>
 <tr>
@@ -157,7 +157,7 @@ scope.</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#addscope">addScope</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/scopeinterface.md">ScopeInterface</a> scope)</p><p class="description">Adds a scope to the container.</p></td>
+<td class="description"><p class="name"><a href="#addscope">addScope</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/ScopeInterface.md">ScopeInterface</a> scope)</p><p class="description">Adds a scope to the container.</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>Boolean</span></td>
@@ -182,7 +182,7 @@ scope.</p></td>
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Container.php#L77" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Container.php at line 77</a>
 
 <h3 id="__construct">__construct</h3>
-<span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/parameterbag/parameterbaginterface.md">ParameterBagInterface</a> parameterBag)
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/parameterbag/ParameterBagInterface.md">ParameterBagInterface</a> parameterBag)
 
 <div class="details">
 <p>Constructor.</p><dl>
@@ -233,7 +233,7 @@ scope.</p></td>
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Container.php#L126" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Container.php at line 126</a>
 
 <h3 id="getParameterBag()">getParameterBag</h3>
-<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/parameterbag/parameterbaginterface.html>ParameterBagInterface</a></span> <span class='nf'>getParameterBag</span> ()
+<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/parameterbag/parameterbaginterface.html>ParameterBagInterface</a></span> <span class='nf'>getParameterBag</span> ()
 
 <div class="details">
 <p>Gets the service container parameter bag.</p><dl>
@@ -422,7 +422,7 @@ scope.</p><dl>
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Container.php#L377" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Container.php at line 377</a>
 
 <h3 id="addScope()">addScope</h3>
-<span class='k'></span> <span class='nx'>void</span> <span class='nf'>addScope</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/scopeinterface.md">ScopeInterface</a> scope)
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>addScope</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/ScopeInterface.md">ScopeInterface</a> scope)
 
 <div class="details">
 <p>Adds a scope to the container.</p><dl>

@@ -62,7 +62,7 @@
                                 </p><p class="description">Compiled Content Loaded</p></td>
 </tr>
 <tr>
-<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_template_source.html'>Smarty_Template_Source</a></span></td>
+<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_template_source.html'>Smarty_Template_Source</a></span></td>
 <td class="description"><p class="name" ><a href="#source"> $source</a>
                                 </p><p class="description">Source Object</p></td>
 </tr>
@@ -77,7 +77,7 @@
 <tr><th colspan="2">Constructor Summary</th></tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#__construct">__construct</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_template_source.md">Smarty_Template_Source</a> source)</p><p class="description">create Compiled Object container</p></td>
+<td class="description"><p class="name"><a href="#__construct">__construct</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Template_Source.md">Smarty_Template_Source</a> source)</p><p class="description">create Compiled Object container</p></td>
 </tr>
 </table>
 
@@ -86,7 +86,7 @@
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_resource.php#L816" >framework\libs\smarty\sysplugins\smarty_resource.php at line 816</a>
 
 <h3 id="__construct">__construct</h3>
-<span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_template_source.md">Smarty_Template_Source</a> source)
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Template_Source.md">Smarty_Template_Source</a> source)
 
 <div class="details">
 <p>create Compiled Object container</p><dl>

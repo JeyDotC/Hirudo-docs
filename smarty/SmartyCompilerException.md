@@ -10,7 +10,7 @@
 #Class SmartyCompilerException#
 
 Exception
-* <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smartyexception.html">SmartyException</a>
+* <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smartyexception.md">SmartyException</a>
         * **SmartyCompilerException**
 
 
@@ -19,7 +19,7 @@ Exception
 - - -
 
 <p class="signature"><span class='k'>public  class</span> <span class='nx'>SmartyCompilerException</span>
-extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smartyexception.html">SmartyException</a>
+extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smartyexception.md">SmartyException</a>
 
 </p>
 

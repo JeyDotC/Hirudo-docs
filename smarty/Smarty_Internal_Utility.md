@@ -40,23 +40,23 @@
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td><span class='k'>static </span> <span class='nx'>integer</span></td>
-<td class="description"><p class="name"><a href="#compilealltemplates">compileAllTemplates</a>(string extension, bool force_compile, int time_limit, int max_errors, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty.md">Smarty</a> smarty, mixed extention)</p><p class="description">Compile all template files</p></td>
+<td class="description"><p class="name"><a href="#compilealltemplates">compileAllTemplates</a>(string extension, bool force_compile, int time_limit, int max_errors, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty.md">Smarty</a> smarty, mixed extention)</p><p class="description">Compile all template files</p></td>
 </tr>
 <tr>
 <td><span class='k'>static </span> <span class='nx'>integer</span></td>
-<td class="description"><p class="name"><a href="#compileallconfig">compileAllConfig</a>(string extension, bool force_compile, int time_limit, int max_errors, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty.md">Smarty</a> smarty, mixed extention)</p><p class="description">Compile all config files</p></td>
+<td class="description"><p class="name"><a href="#compileallconfig">compileAllConfig</a>(string extension, bool force_compile, int time_limit, int max_errors, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty.md">Smarty</a> smarty, mixed extention)</p><p class="description">Compile all config files</p></td>
 </tr>
 <tr>
 <td><span class='k'>static </span> <span class='nx'>integer</span></td>
-<td class="description"><p class="name"><a href="#clearcompiledtemplate">clearCompiledTemplate</a>(string resource_name, string compile_id, integer exp_time, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty.md">Smarty</a> smarty)</p><p class="description">Delete compiled template file</p></td>
+<td class="description"><p class="name"><a href="#clearcompiledtemplate">clearCompiledTemplate</a>(string resource_name, string compile_id, integer exp_time, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty.md">Smarty</a> smarty)</p><p class="description">Delete compiled template file</p></td>
 </tr>
 <tr>
 <td><span class='k'>static </span> <span class='nx'>array</span></td>
-<td class="description"><p class="name"><a href="#gettags">getTags</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.md">Smarty_Internal_Template</a> templae, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.md">Smarty_Internal_Template</a> template)</p><p class="description">Return array of tag/attributes of all tags used by an template</p></td>
+<td class="description"><p class="name"><a href="#gettags">getTags</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> templae, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> template)</p><p class="description">Return array of tag/attributes of all tags used by an template</p></td>
 </tr>
 <tr>
 <td><span class='k'>static </span> <span class='nx'>bool</span></td>
-<td class="description"><p class="name"><a href="#testinstall">testInstall</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty.md">Smarty</a> smarty, array errors)</p><p class="description">diagnose Smarty setupIf $errors is secified, the diagnostic report will be appended to the array, rather than being output.</p></td>
+<td class="description"><p class="name"><a href="#testinstall">testInstall</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty.md">Smarty</a> smarty, array errors)</p><p class="description">diagnose Smarty setupIf $errors is secified, the diagnostic report will be appended to the array, rather than being output.</p></td>
 </tr>
 </table>
 
@@ -78,7 +78,7 @@
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_utility.php#L61" >framework\libs\smarty\sysplugins\smarty_internal_utility.php at line 61</a>
 
 <h3 id="compileAllTemplates()">compileAllTemplates</h3>
-<span class='k'>static </span> <span class='nx'>integer</span> <span class='nf'>compileAllTemplates</span> (string extension, bool force_compile, int time_limit, int max_errors, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty.md">Smarty</a> smarty, mixed extention)
+<span class='k'>static </span> <span class='nx'>integer</span> <span class='nf'>compileAllTemplates</span> (string extension, bool force_compile, int time_limit, int max_errors, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty.md">Smarty</a> smarty, mixed extention)
 
 <div class="details">
 <p>Compile all template files</p><dl>
@@ -100,7 +100,7 @@
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_utility.php#L124" >framework\libs\smarty\sysplugins\smarty_internal_utility.php at line 124</a>
 
 <h3 id="compileAllConfig()">compileAllConfig</h3>
-<span class='k'>static </span> <span class='nx'>integer</span> <span class='nf'>compileAllConfig</span> (string extension, bool force_compile, int time_limit, int max_errors, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty.md">Smarty</a> smarty, mixed extention)
+<span class='k'>static </span> <span class='nx'>integer</span> <span class='nf'>compileAllConfig</span> (string extension, bool force_compile, int time_limit, int max_errors, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty.md">Smarty</a> smarty, mixed extention)
 
 <div class="details">
 <p>Compile all config files</p><dl>
@@ -122,7 +122,7 @@
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_utility.php#L182" >framework\libs\smarty\sysplugins\smarty_internal_utility.php at line 182</a>
 
 <h3 id="clearCompiledTemplate()">clearCompiledTemplate</h3>
-<span class='k'>static </span> <span class='nx'>integer</span> <span class='nf'>clearCompiledTemplate</span> (string resource_name, string compile_id, integer exp_time, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty.md">Smarty</a> smarty)
+<span class='k'>static </span> <span class='nx'>integer</span> <span class='nf'>clearCompiledTemplate</span> (string resource_name, string compile_id, integer exp_time, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty.md">Smarty</a> smarty)
 
 <div class="details">
 <p>Delete compiled template file</p><dl>
@@ -143,7 +143,7 @@
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_utility.php#L276" >framework\libs\smarty\sysplugins\smarty_internal_utility.php at line 276</a>
 
 <h3 id="getTags()">getTags</h3>
-<span class='k'>static </span> <span class='nx'>array</span> <span class='nf'>getTags</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.md">Smarty_Internal_Template</a> templae, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.md">Smarty_Internal_Template</a> template)
+<span class='k'>static </span> <span class='nx'>array</span> <span class='nf'>getTags</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> templae, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> template)
 
 <div class="details">
 <p>Return array of tag/attributes of all tags used by an template</p><dl>
@@ -161,7 +161,7 @@
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_utility.php#L293" >framework\libs\smarty\sysplugins\smarty_internal_utility.php at line 293</a>
 
 <h3 id="testInstall()">testInstall</h3>
-<span class='k'>static </span> <span class='nx'>bool</span> <span class='nf'>testInstall</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty.md">Smarty</a> smarty, array errors)
+<span class='k'>static </span> <span class='nx'>bool</span> <span class='nf'>testInstall</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty.md">Smarty</a> smarty, array errors)
 
 <div class="details">
 <p>diagnose Smarty setup</p><p>If $errors is secified, the diagnostic report will be appended to the array, rather than being output.</p><dl>

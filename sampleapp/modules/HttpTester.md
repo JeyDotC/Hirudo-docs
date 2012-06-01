@@ -9,7 +9,7 @@
 
 #Class HttpTester#
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/module.html">Module</a>
+<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/module.md">Module</a>
     * **HttpTester**
 
 
@@ -18,7 +18,7 @@
 - - -
 
 <p class="signature"><span class='k'>public  class</span> <span class='nx'>HttpTester</span>
-extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/module.html">Module</a>
+extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/module.md">Module</a>
 
 </p>
 
@@ -34,7 +34,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/
 
 <table class="inherit">
 <tr><th colspan="2">Fields inherited from Hirudo\Core\Module</th></tr>
-<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/module.html#context">context</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/module.html#currentUser">currentUser</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/module.html#headers">headers</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/module.html#request">request</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/module.html#route">route</a></td></tr></table>
+<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/module.md">context</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/module.md">currentUser</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/module.md">headers</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/module.md">request</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/module.md">route</a></td></tr></table>
 
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
@@ -46,7 +46,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/
 
 <table class="inherit">
 <tr><th colspan="2">Methods inherited from Hirudo\Core\Module</th></tr>
-<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/module.html#__construct()">__construct</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/module.html#addMessage()">addMessage</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/module.html#assign()">assign</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/module.html#assignMany()">assignMany</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/module.html#component()">component</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/module.html#display()">display</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/module.html#getAppName()">getAppName</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/module.html#getModuleDir()">getModuleDir</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/module.html#getName()">getName</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/module.html#getRendered()">getRendered</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/module.html#getTask()">getTask</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/module.html#onModuleReady()">onModuleReady</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/module.html#renderGet()">renderGet</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/module.html#setAppName()">setAppName</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/module.html#setDefaultTask()">setDefaultTask</a></td></tr></table>
+<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/module.md">__construct</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/module.md">addMessage</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/module.md">assign</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/module.md">assignMany</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/module.md">component</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/module.md">display</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/module.md">getAppName</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/module.md">getModuleDir</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/module.md">getName</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/module.md">getRendered</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/module.md">getTask</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/module.md">onModuleReady</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/module.md">renderGet</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/module.md">setAppName</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/module.md">setDefaultTask</a></td></tr></table>
 
 <h2 id="detail_method">Method Detail</h2>
 

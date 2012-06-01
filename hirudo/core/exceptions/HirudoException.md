@@ -15,7 +15,7 @@
 
 <dl>
 <dt>All Known Subclasses:</dt>
-<dd><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/exceptions/applicationnotfoundexception.html">ApplicationNotFoundException</a> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/exceptions/modulenotfoundexception.html">ModuleNotFoundException</a> </dd>
+<dd><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/exceptions/applicationnotfoundexception.md">ApplicationNotFoundException</a> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/exceptions/modulenotfoundexception.md">ModuleNotFoundException</a> </dd>
 </dl>
 
 
@@ -45,7 +45,7 @@ are wraped into an instance of this class as the 'previous' exception.</p></p></
 <tr><th colspan="2">Constructor Summary</th></tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#__construct">__construct</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/context/modulecall.md">ModuleCall</a> call, string message, \Exception previous)</p><p class="description">Creates a HirudoException.</p></td>
+<td class="description"><p class="name"><a href="#__construct">__construct</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/context/ModuleCall.md">ModuleCall</a> call, string message, \Exception previous)</p><p class="description">Creates a HirudoException.</p></td>
 </tr>
 </table>
 
@@ -70,7 +70,7 @@ are wraped into an instance of this class as the 'previous' exception.</p></p></
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Exceptions/HirudoException.php#L52" >framework\hirudo\Hirudo\Core\Exceptions\HirudoException.php at line 52</a>
 
 <h3 id="__construct">__construct</h3>
-<span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/context/modulecall.md">ModuleCall</a> call, string message, \Exception previous)
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/context/ModuleCall.md">ModuleCall</a> call, string message, \Exception previous)
 
 <div class="details">
 <p>Creates a HirudoException.</p><dl>

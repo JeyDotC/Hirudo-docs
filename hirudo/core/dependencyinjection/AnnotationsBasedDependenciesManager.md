@@ -9,7 +9,7 @@
 
 #Class AnnotationsBasedDependenciesManager#
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/containeraware.html">ContainerAware</a>
+<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/containeraware.md">ContainerAware</a>
     * **AnnotationsBasedDependenciesManager**
 
 
@@ -18,7 +18,7 @@
 - - -
 
 <p class="signature"><span class='k'>public  class</span> <span class='nx'>AnnotationsBasedDependenciesManager</span>
-extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/containeraware.html">ContainerAware</a>
+extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/containeraware.md">ContainerAware</a>
 
 </p>
 
@@ -36,7 +36,7 @@ to determine dependencies and load services.</p></div>
 
 <table class="inherit">
 <tr><th colspan="2">Fields inherited from Symfony\Component\DependencyInjection\ContainerAware</th></tr>
-<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/containeraware.html#container">container</a></td></tr></table>
+<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/containeraware.md">container</a></td></tr></table>
 
 <table id="summary_constructor">
 <tr><th colspan="2">Constructor Summary</th></tr>
@@ -85,7 +85,7 @@ in the container to inject them later. </p></td>
 
 <table class="inherit">
 <tr><th colspan="2">Methods inherited from Symfony\Component\DependencyInjection\ContainerAware</th></tr>
-<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/containeraware.html#setContainer()">setContainer</a></td></tr></table>
+<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/containeraware.md">setContainer</a></td></tr></table>
 
 <h2 id="detail_method">Constructor Detail</h2>
 

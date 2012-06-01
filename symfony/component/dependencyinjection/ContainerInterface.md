@@ -14,7 +14,7 @@
 
 <dl>
 <dt>All Known Subclasses:</dt>
-<dd><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/taggedcontainerinterface.html">TaggedContainerInterface</a> </dd>
+<dd><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/taggedcontainerinterface.md">TaggedContainerInterface</a> </dd>
 </dl>
 
 
@@ -67,7 +67,7 @@
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#addscope">addScope</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/scopeinterface.md">ScopeInterface</a> scope)</p><p class="description">Adds a scope to the container</p></td>
+<td class="description"><p class="name"><a href="#addscope">addScope</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/ScopeInterface.md">ScopeInterface</a> scope)</p><p class="description">Adds a scope to the container</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>Boolean</span></td>
@@ -216,7 +216,7 @@
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ContainerInterface.php#L115" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerInterface.php at line 115</a>
 
 <h3 id="addScope()">addScope</h3>
-<span class='k'></span> <span class='nx'>void</span> <span class='nf'>addScope</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/scopeinterface.md">ScopeInterface</a> scope)
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>addScope</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/ScopeInterface.md">ScopeInterface</a> scope)
 
 <div class="details">
 <p>Adds a scope to the container</p><dl>

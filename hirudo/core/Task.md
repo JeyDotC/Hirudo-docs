@@ -34,7 +34,7 @@ resolve them.</p></div>
 <tr><th colspan="2">Constructor Summary</th></tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#__construct">__construct</a>(\ReflectionMethod reflectionMethod, <a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/module.md">Module</a> owner)</p><p class="description">Constructs a task.</p></td>
+<td class="description"><p class="name"><a href="#__construct">__construct</a>(\ReflectionMethod reflectionMethod, <a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/Module.md">Module</a> owner)</p><p class="description">Constructs a task.</p></td>
 </tr>
 </table>
 
@@ -73,7 +73,7 @@ resolve them.</p></div>
 <td class="description"><p class="name"><a href="#gettaskannotation">getTaskAnnotation</a>(string annotationName)</p><p class="description">Gets a single annotation from the merhod.</p></td>
 </tr>
 <tr>
-<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/module.html>Module</a></span></td>
+<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/module.html>Module</a></span></td>
 <td class="description"><p class="name"><a href="#getmodule">getModule</a>()</p><p class="description">Gets the module that owns the method to be executed.</p></td>
 </tr>
 <tr>
@@ -87,7 +87,7 @@ resolve them.</p></div>
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Task.php#L65" >framework\hirudo\Hirudo\Core\Task.php at line 65</a>
 
 <h3 id="__construct">__construct</h3>
-<span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (\ReflectionMethod reflectionMethod, <a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/module.md">Module</a> owner)
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (\ReflectionMethod reflectionMethod, <a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/Module.md">Module</a> owner)
 
 <div class="details">
 <p>Constructs a task.</p><dl>
@@ -216,7 +216,7 @@ resolve them.</p></div>
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Task.php#L162" >framework\hirudo\Hirudo\Core\Task.php at line 162</a>
 
 <h3 id="getModule()">getModule</h3>
-<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/module.html>Module</a></span> <span class='nf'>getModule</span> ()
+<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/module.html>Module</a></span> <span class='nf'>getModule</span> ()
 
 <div class="details">
 <p>Gets the module that owns the method to be executed.</p>

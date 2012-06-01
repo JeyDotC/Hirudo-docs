@@ -9,13 +9,13 @@
 
 #Class Smarty_Internal_TemplateBase#
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_data.html">Smarty_Internal_Data</a>
+<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_data.md">Smarty_Internal_Data</a>
     * **Smarty_Internal_TemplateBase**
 
 
 <dl>
 <dt>All Known Subclasses:</dt>
-<dd><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty.html">Smarty</a> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_template.html">Smarty_Internal_Template</a> </dd>
+<dd><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty.md">Smarty</a> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_template.md">Smarty_Internal_Template</a> </dd>
 </dl>
 
 
@@ -23,7 +23,7 @@
 - - -
 
 <p class="signature"><span class='k'>public abstract  class</span> <span class='nx'>Smarty_Internal_TemplateBase</span>
-extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_data.html">Smarty_Internal_Data</a>
+extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_data.md">Smarty_Internal_Data</a>
 
 </p>
 
@@ -39,7 +39,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 
 <table class="inherit">
 <tr><th colspan="2">Fields inherited from Smarty\Smarty_Internal_Data</th></tr>
-<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_data.html#config_vars">config_vars</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_data.html#parent">parent</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_data.html#template_class">template_class</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_data.html#tpl_vars">tpl_vars</a></td></tr></table>
+<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_data.md">config_vars</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_data.md">parent</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_data.md">template_class</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_data.md">tpl_vars</a></td></tr></table>
 
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
@@ -77,7 +77,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>Smarty_Internal_Templatebase</span></td>
-<td class="description"><p class="name"><a href="#registercacheresource">registerCacheResource</a>(string type, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_cacheresource.md">Smarty_CacheResource</a> callback)</p><p class="description">Registers a cache resource to cache a template's output</p></td>
+<td class="description"><p class="name"><a href="#registercacheresource">registerCacheResource</a>(string type, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_CacheResource.md">Smarty_CacheResource</a> callback)</p><p class="description">Registers a cache resource to cache a template's output</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>Smarty_Internal_Templatebase</span></td>
@@ -131,7 +131,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 
 <table class="inherit">
 <tr><th colspan="2">Methods inherited from Smarty\Smarty_Internal_Data</th></tr>
-<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_data.html#append()">append</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_data.html#appendByRef()">appendByRef</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_data.html#assign()">assign</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_data.html#assignByRef()">assignByRef</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_data.html#assignGlobal()">assignGlobal</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_data.html#clearAllAssign()">clearAllAssign</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_data.html#clearAssign()">clearAssign</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_data.html#clearConfig()">clearConfig</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_data.html#configLoad()">configLoad</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_data.html#getConfigVariable()">getConfigVariable</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_data.html#getConfigVars()">getConfigVars</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_data.html#getStreamVariable()">getStreamVariable</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_data.html#getTemplateVars()">getTemplateVars</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_data.html#getVariable()">getVariable</a></td></tr></table>
+<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_data.md">append</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_data.md">appendByRef</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_data.md">assign</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_data.md">assignByRef</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_data.md">assignGlobal</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_data.md">clearAllAssign</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_data.md">clearAssign</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_data.md">clearConfig</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_data.md">configLoad</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_data.md">getConfigVariable</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_data.md">getConfigVars</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_data.md">getStreamVariable</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_data.md">getTemplateVars</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_data.md">getVariable</a></td></tr></table>
 
 <h2 id="detail_method">Method Detail</h2>
 
@@ -300,7 +300,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatebase.php#L487" >framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 487</a>
 
 <h3 id="registerCacheResource()">registerCacheResource</h3>
-<span class='k'></span> <span class='nx'>Smarty_Internal_Templatebase</span> <span class='nf'>registerCacheResource</span> (string type, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_cacheresource.md">Smarty_CacheResource</a> callback)
+<span class='k'></span> <span class='nx'>Smarty_Internal_Templatebase</span> <span class='nf'>registerCacheResource</span> (string type, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_CacheResource.md">Smarty_CacheResource</a> callback)
 
 <div class="details">
 <p>Registers a cache resource to cache a template's output</p><dl>

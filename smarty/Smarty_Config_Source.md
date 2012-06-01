@@ -9,7 +9,7 @@
 
 #Class Smarty_Config_Source#
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_template_source.html">Smarty_Template_Source</a>
+<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_template_source.md">Smarty_Template_Source</a>
     * **Smarty_Config_Source**
 
 
@@ -18,7 +18,7 @@
 - - -
 
 <p class="signature"><span class='k'>public  class</span> <span class='nx'>Smarty_Config_Source</span>
-extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_template_source.html">Smarty_Template_Source</a>
+extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_template_source.md">Smarty_Template_Source</a>
 
 </p>
 
@@ -40,26 +40,26 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 
 <table class="inherit">
 <tr><th colspan="2">Fields inherited from Smarty\Smarty_Template_Source</th></tr>
-<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_template_source.html#compiler_class">compiler_class</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_template_source.html#components">components</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_template_source.html#filepath">filepath</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_template_source.html#handler">handler</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_template_source.html#name">name</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_template_source.html#recompiled">recompiled</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_template_source.html#resource">resource</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_template_source.html#smarty">smarty</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_template_source.html#template_lexer_class">template_lexer_class</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_template_source.html#template_parser_class">template_parser_class</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_template_source.html#type">type</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_template_source.html#uid">uid</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_template_source.html#uncompiled">uncompiled</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_template_source.html#unique_resource">unique_resource</a></td></tr></table>
+<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_template_source.md">compiler_class</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_template_source.md">components</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_template_source.md">filepath</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_template_source.md">handler</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_template_source.md">name</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_template_source.md">recompiled</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_template_source.md">resource</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_template_source.md">smarty</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_template_source.md">template_lexer_class</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_template_source.md">template_parser_class</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_template_source.md">type</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_template_source.md">uid</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_template_source.md">uncompiled</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_template_source.md">unique_resource</a></td></tr></table>
 
 <table id="summary_constructor">
 <tr><th colspan="2">Constructor Summary</th></tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#__construct">__construct</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_resource.md">Smarty_Resource</a> handler, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty.md">Smarty</a> smarty, string resource, string type, string name, string unique_resource)</p><p class="description">create Config Object container</p></td>
+<td class="description"><p class="name"><a href="#__construct">__construct</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Resource.md">Smarty_Resource</a> handler, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty.md">Smarty</a> smarty, string resource, string type, string name, string unique_resource)</p><p class="description">create Config Object container</p></td>
 </tr>
 </table>
 
 <table class="inherit">
 <tr><th colspan="2">Methods inherited from Smarty\Smarty_Template_Source</th></tr>
-<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_template_source.html#__construct()">__construct</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_template_source.html#getCompiled()">getCompiled</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_template_source.html#renderUncompiled()">renderUncompiled</a></td></tr></table>
+<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_template_source.md">__construct</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_template_source.md">getCompiled</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_template_source.md">renderUncompiled</a></td></tr></table>
 
 <h2 id="detail_method">Constructor Detail</h2>
 
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_config_source.php#L34" >framework\libs\smarty\sysplugins\smarty_config_source.php at line 34</a>
 
 <h3 id="__construct">__construct</h3>
-<span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_resource.md">Smarty_Resource</a> handler, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty.md">Smarty</a> smarty, string resource, string type, string name, string unique_resource)
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Resource.md">Smarty_Resource</a> handler, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty.md">Smarty</a> smarty, string resource, string type, string name, string unique_resource)
 
 <div class="details">
 <p>create Config Object container</p><dl>

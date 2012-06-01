@@ -32,7 +32,7 @@
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#save">save</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/sampleapp/models/entities/complexobject.md">ComplexObject</a> complexObject)</p></td>
+<td class="description"><p class="name"><a href="#save">save</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/sampleapp/models/entities/ComplexObject.md">ComplexObject</a> complexObject)</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
@@ -45,7 +45,7 @@
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/src/SampleApp/Models/Components/ComplexObjectComponent.php#L15" >src\SampleApp\Models\Components\ComplexObjectComponent.php at line 15</a>
 
 <h3 id="save()">save</h3>
-<span class='k'></span> <span class='nx'>void</span> <span class='nf'>save</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/sampleapp/models/entities/complexobject.md">ComplexObject</a> complexObject)
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>save</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/sampleapp/models/entities/ComplexObject.md">ComplexObject</a> complexObject)
 
 <div class="details">
 

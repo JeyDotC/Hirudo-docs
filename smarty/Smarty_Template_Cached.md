@@ -60,7 +60,7 @@
                                 </p><p class="description">Source Filepath</p></td>
 </tr>
 <tr>
-<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_cacheresource.html'>Smarty_CacheResource</a></span></td>
+<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_cacheresource.html'>Smarty_CacheResource</a></span></td>
 <td class="description"><p class="name" ><a href="#handler"> $handler</a>
                                 </p><p class="description">CacheResource Handler</p></td>
 </tr>
@@ -80,7 +80,7 @@
                                 </p><p class="description">Cache was processed</p></td>
 </tr>
 <tr>
-<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_template_source.html'>Smarty_Template_Source</a></span></td>
+<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_template_source.html'>Smarty_Template_Source</a></span></td>
 <td class="description"><p class="name" ><a href="#source"> $source</a>
                                 </p><p class="description">Source Object</p></td>
 </tr>
@@ -100,7 +100,7 @@
 <tr><th colspan="2">Constructor Summary</th></tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#__construct">__construct</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.md">Smarty_Internal_Template</a> _template)</p><p class="description">create Cached Object container</p></td>
+<td class="description"><p class="name"><a href="#__construct">__construct</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> _template)</p><p class="description">create Cached Object container</p></td>
 </tr>
 </table>
 
@@ -108,7 +108,7 @@
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>boolean</span></td>
-<td class="description"><p class="name"><a href="#write">write</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.md">Smarty_Internal_Template</a> _template, string content)</p><p class="description">Write this cache object to handler</p></td>
+<td class="description"><p class="name"><a href="#write">write</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> _template, string content)</p><p class="description">Write this cache object to handler</p></td>
 </tr>
 </table>
 
@@ -117,7 +117,7 @@
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_cacheresource.php#L283" >framework\libs\smarty\sysplugins\smarty_cacheresource.php at line 283</a>
 
 <h3 id="__construct">__construct</h3>
-<span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.md">Smarty_Internal_Template</a> _template)
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> _template)
 
 <div class="details">
 <p>create Cached Object container</p><dl>
@@ -134,7 +134,7 @@
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_cacheresource.php#L362" >framework\libs\smarty\sysplugins\smarty_cacheresource.php at line 362</a>
 
 <h3 id="write()">write</h3>
-<span class='k'></span> <span class='nx'>boolean</span> <span class='nf'>write</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.md">Smarty_Internal_Template</a> _template, string content)
+<span class='k'></span> <span class='nx'>boolean</span> <span class='nf'>write</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> _template, string content)
 
 <div class="details">
 <p>Write this cache object to handler</p><dl>

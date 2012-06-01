@@ -33,7 +33,7 @@
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#load">load</a>(array config, <a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/containerbuilder.md">ContainerBuilder</a> container)</p><p class="description">Loads a specific configuration.</p></td>
+<td class="description"><p class="name"><a href="#load">load</a>(array config, <a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/ContainerBuilder.md">ContainerBuilder</a> container)</p><p class="description">Loads a specific configuration.</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
@@ -55,7 +55,7 @@
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Extension/ExtensionInterface.php#L35" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Extension\ExtensionInterface.php at line 35</a>
 
 <h3 id="load()">load</h3>
-<span class='k'></span> <span class='nx'>void</span> <span class='nf'>load</span> (array config, <a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/containerbuilder.md">ContainerBuilder</a> container)
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>load</span> (array config, <a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/ContainerBuilder.md">ContainerBuilder</a> container)
 
 <div class="details">
 <p>Loads a specific configuration.</p><dl>

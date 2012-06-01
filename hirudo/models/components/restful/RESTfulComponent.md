@@ -70,11 +70,11 @@ the construction of a web service consumer.</p></div>
 <td class="description"><p class="name"><a href="#call">call</a>(str url, str verb, str data)</p></td>
 </tr>
 <tr>
-<td><span class='k'>protected </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/hirudo/serialization/entityserializerbase.html>EntitySerializerBase</a></span></td>
+<td><span class='k'>protected </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/serialization/entityserializerbase.html>EntitySerializerBase</a></span></td>
 <td class="description"><p class="name"><a href="#getserializer">getSerializer</a>()</p><p class="description"></p></td>
 </tr>
 <tr>
-<td><span class='k'>protected </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/hirudo/serialization/entitydeserializerbase.html>EntityDeserializerBase</a></span></td>
+<td><span class='k'>protected </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/serialization/entitydeserializerbase.html>EntityDeserializerBase</a></span></td>
 <td class="description"><p class="name"><a href="#getdeserializer">getDeserializer</a>()</p><p class="description">This is method getDeserializer</p></td>
 </tr>
 <tr>
@@ -133,7 +133,7 @@ the construction of a web service consumer.</p></div>
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Models/Components/Restful/RESTfulComponent.php#L82" >framework\hirudo\Hirudo\Models\Components\Restful\RESTfulComponent.php at line 82</a>
 
 <h3 id="getSerializer()">getSerializer</h3>
-<span class='k'>protected </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/hirudo/serialization/entityserializerbase.html>EntitySerializerBase</a></span> <span class='nf'>getSerializer</span> ()
+<span class='k'>protected </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/serialization/entityserializerbase.html>EntitySerializerBase</a></span> <span class='nf'>getSerializer</span> ()
 
 <div class="details">
 <p></p>
@@ -145,7 +145,7 @@ the construction of a web service consumer.</p></div>
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Models/Components/Restful/RESTfulComponent.php#L92" >framework\hirudo\Hirudo\Models\Components\Restful\RESTfulComponent.php at line 92</a>
 
 <h3 id="getDeserializer()">getDeserializer</h3>
-<span class='k'>protected </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/hirudo/serialization/entitydeserializerbase.html>EntityDeserializerBase</a></span> <span class='nf'>getDeserializer</span> ()
+<span class='k'>protected </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/serialization/entitydeserializerbase.html>EntityDeserializerBase</a></span> <span class='nf'>getDeserializer</span> ()
 
 <div class="details">
 <p>This is method getDeserializer</p><dl>

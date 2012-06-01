@@ -16,7 +16,7 @@
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name"><a href="#smarty_block_textformat">smarty_block_textformat</a>(array params, string content, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.md">Smarty_Internal_Template</a> template, boolean &$repeat, mixed repeat)</p><p class="description">Smarty {textformat}{/textformat} block pluginType:     block function
+<td class="description"><p class="name"><a href="#smarty_block_textformat">smarty_block_textformat</a>(array params, string content, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> template, boolean &$repeat, mixed repeat)</p><p class="description">Smarty {textformat}{/textformat} block pluginType:     block function
 Name:     textformat
 Purpose:  format text a certain way with preset styles
 or custom wrap/indent settings
@@ -34,13 +34,13 @@ wrap_boundary - boolean (true)
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string|null</span></td>
-<td class="description"><p class="name"><a href="#smarty_function_counter">smarty_function_counter</a>(array params, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.md">Smarty_Internal_Template</a> template)</p><p class="description">Smarty {counter} function pluginType:     function
+<td class="description"><p class="name"><a href="#smarty_function_counter">smarty_function_counter</a>(array params, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> template)</p><p class="description">Smarty {counter} function pluginType:     function
 Name:     counter
 Purpose:  print out a counter value</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string|null</span></td>
-<td class="description"><p class="name"><a href="#smarty_function_cycle">smarty_function_cycle</a>(array params, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.md">Smarty_Internal_Template</a> template)</p><p class="description">Smarty {cycle} function pluginType:     function
+<td class="description"><p class="name"><a href="#smarty_function_cycle">smarty_function_cycle</a>(array params, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> template)</p><p class="description">Smarty {cycle} function pluginType:     function
 Name:     cycle
 Date:     May 3, 2002
 Purpose:  cycle through given values
@@ -62,7 +62,7 @@ special chars except for already escaped ones</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string|null</span></td>
-<td class="description"><p class="name"><a href="#smarty_function_fetch">smarty_function_fetch</a>(array params, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.md">Smarty_Internal_Template</a> template)</p><p class="description">Smarty {fetch} pluginType:     function
+<td class="description"><p class="name"><a href="#smarty_function_fetch">smarty_function_fetch</a>(array params, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> template)</p><p class="description">Smarty {fetch} pluginType:     function
 Name:     fetch
 Purpose:  fetch file, web or ftp data and display results</p></td>
 </tr>
@@ -99,7 +99,7 @@ escape     (optional) - escape the content (not value), defaults to true
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name"><a href="#smarty_function_html_image">smarty_function_html_image</a>(array params, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.md">Smarty_Internal_Template</a> template)</p><p class="description">Smarty {html_image} function pluginType:     function
+<td class="description"><p class="name"><a href="#smarty_function_html_image">smarty_function_html_image</a>(array params, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> template)</p><p class="description">Smarty {html_image} function pluginType:     function
 Name:     html_image
 Date:     Feb 24, 2003
 Purpose:  format HTML tags for the image
@@ -118,7 +118,7 @@ path_prefix - prefix for path output (optional, default empty)
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name"><a href="#smarty_function_html_options">smarty_function_html_options</a>(array params, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.md">Smarty_Internal_Template</a> template)</p><p class="description">Smarty {html_options} function pluginType:     function
+<td class="description"><p class="name"><a href="#smarty_function_html_options">smarty_function_html_options</a>(array params, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> template)</p><p class="description">Smarty {html_options} function pluginType:     function
 Name:     html_options
 Purpose:  Prints the list of  tags generated from
 the passed parameters
@@ -145,7 +145,7 @@ class      (optional) - string default not set
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name"><a href="#smarty_function_html_radios">smarty_function_html_radios</a>(array params, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.md">Smarty_Internal_Template</a> template)</p><p class="description">Smarty {html_radios} function pluginFile:       function.html_radios.php
+<td class="description"><p class="name"><a href="#smarty_function_html_radios">smarty_function_html_radios</a>(array params, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> template)</p><p class="description">Smarty {html_radios} function pluginFile:       function.html_radios.php
 Type:       function
 Name:       html_radios
 Date:       24.Feb.2003
@@ -176,20 +176,20 @@ Examples:
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name"><a href="#smarty_function_html_select_date">smarty_function_html_select_date</a>(array params, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.md">Smarty_Internal_Template</a> template)</p><p class="description">Smarty {html_select_date} pluginType:     function
+<td class="description"><p class="name"><a href="#smarty_function_html_select_date">smarty_function_html_select_date</a>(array params, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> template)</p><p class="description">Smarty {html_select_date} pluginType:     function
 Name:     html_select_date
 Purpose:  Prints the dropdowns for date selection.
 </p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name"><a href="#smarty_function_html_select_time">smarty_function_html_select_time</a>(array params, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.md">Smarty_Internal_Template</a> template)</p><p class="description">Smarty {html_select_time} function pluginType:     function
+<td class="description"><p class="name"><a href="#smarty_function_html_select_time">smarty_function_html_select_time</a>(array params, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> template)</p><p class="description">Smarty {html_select_time} function pluginType:     function
 Name:     html_select_time
 Purpose:  Prints the dropdowns for time selection</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name"><a href="#smarty_function_html_table">smarty_function_html_table</a>(array params, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.md">Smarty_Internal_Template</a> template)</p><p class="description">Smarty {html_table} function pluginType:     function
+<td class="description"><p class="name"><a href="#smarty_function_html_table">smarty_function_html_table</a>(array params, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> template)</p><p class="description">Smarty {html_table} function pluginType:     function
 Name:     html_table
 Date:     Feb 17, 2003
 Purpose:  make an html table from an array of data
@@ -225,7 +225,7 @@ Examples:
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name"><a href="#smarty_function_mailto">smarty_function_mailto</a>(array params, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.md">Smarty_Internal_Template</a> template)</p><p class="description">Smarty {mailto} function pluginType:     function
+<td class="description"><p class="name"><a href="#smarty_function_mailto">smarty_function_mailto</a>(array params, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> template)</p><p class="description">Smarty {mailto} function pluginType:     function
 Name:     mailto
 Date:     May 21, 2002
 Purpose:  automate mailto address link creation, and optionally encode them.
@@ -259,7 +259,7 @@ Examples:
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string|null</span></td>
-<td class="description"><p class="name"><a href="#smarty_function_math">smarty_function_math</a>(array params, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.md">Smarty_Internal_Template</a> template)</p><p class="description">Smarty {math} function pluginType:     function
+<td class="description"><p class="name"><a href="#smarty_function_math">smarty_function_math</a>(array params, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> template)</p><p class="description">Smarty {math} function pluginType:     function
 Name:     math
 Purpose:  handle math computations in template</p></td>
 </tr>
@@ -460,7 +460,7 @@ Purpose:  wrap a string of text at a given length</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name"><a href="#smarty_outputfilter_trimwhitespace">smarty_outputfilter_trimwhitespace</a>(string source, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.md">Smarty_Internal_Template</a> smarty)</p><p class="description">Smarty trimwhitespace outputfilter pluginTrim unnecessary whitespace from HTML markup.</p></td>
+<td class="description"><p class="name"><a href="#smarty_outputfilter_trimwhitespace">smarty_outputfilter_trimwhitespace</a>(string source, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> smarty)</p><p class="description">Smarty trimwhitespace outputfilter pluginTrim unnecessary whitespace from HTML markup.</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
@@ -468,7 +468,7 @@ Purpose:  wrap a string of text at a given length</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name"><a href="#smarty_variablefilter_htmlspecialchars">smarty_variablefilter_htmlspecialchars</a>(string source, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.md">Smarty_Internal_Template</a> smarty)</p><p class="description">Smarty htmlspecialchars variablefilter plugin</p></td>
+<td class="description"><p class="name"><a href="#smarty_variablefilter_htmlspecialchars">smarty_variablefilter_htmlspecialchars</a>(string source, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> smarty)</p><p class="description">Smarty htmlspecialchars variablefilter plugin</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
@@ -878,7 +878,7 @@ Purpose:  wrap a string of text at a given length</p></td>
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/block.textformat.php#L35" >framework\libs\smarty\plugins\block.textformat.php at line 35</a>
 
 <h3 id="smarty_block_textformat()">smarty_block_textformat</h3>
-<span class='k'></span> <span class='nx'>string</span> smarty_block_textformat (array params, string content, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.md">Smarty_Internal_Template</a> template, boolean &$repeat, mixed repeat)
+<span class='k'></span> <span class='nx'>string</span> smarty_block_textformat (array params, string content, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> template, boolean &$repeat, mixed repeat)
 
 <div class="details">
 <p>Smarty {textformat}{/textformat} block plugin</p><p>Type:     block function<br>
@@ -917,7 +917,7 @@ Params:
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/function.counter.php#L22" >framework\libs\smarty\plugins\function.counter.php at line 22</a>
 
 <h3 id="smarty_function_counter()">smarty_function_counter</h3>
-<span class='k'></span> <span class='nx'>string|null</span> smarty_function_counter (array params, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.md">Smarty_Internal_Template</a> template)
+<span class='k'></span> <span class='nx'>string|null</span> smarty_function_counter (array params, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> template)
 
 <div class="details">
 <p>Smarty {counter} function plugin</p><p>Type:     function<br>
@@ -940,7 +940,7 @@ Purpose:  print out a counter value</p>
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/function.cycle.php#L46" >framework\libs\smarty\plugins\function.cycle.php at line 46</a>
 
 <h3 id="smarty_function_cycle()">smarty_function_cycle</h3>
-<span class='k'></span> <span class='nx'>string|null</span> smarty_function_cycle (array params, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.md">Smarty_Internal_Template</a> template)
+<span class='k'></span> <span class='nx'>string|null</span> smarty_function_cycle (array params, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> template)
 
 <div class="details">
 <p>Smarty {cycle} function plugin</p><p>Type:     function<br>
@@ -1008,7 +1008,7 @@ special chars except for already escaped ones</p>
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/function.fetch.php#L23" >framework\libs\smarty\plugins\function.fetch.php at line 23</a>
 
 <h3 id="smarty_function_fetch()">smarty_function_fetch</h3>
-<span class='k'></span> <span class='nx'>string|null</span> smarty_function_fetch (array params, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.md">Smarty_Internal_Template</a> template)
+<span class='k'></span> <span class='nx'>string|null</span> smarty_function_fetch (array params, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> template)
 
 <div class="details">
 <p>Smarty {fetch} plugin</p><p>Type:     function<br>
@@ -1093,7 +1093,7 @@ Params:
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/function.html_image.php#L37" >framework\libs\smarty\plugins\function.html_image.php at line 37</a>
 
 <h3 id="smarty_function_html_image()">smarty_function_html_image</h3>
-<span class='k'></span> <span class='nx'>string</span> smarty_function_html_image (array params, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.md">Smarty_Internal_Template</a> template)
+<span class='k'></span> <span class='nx'>string</span> smarty_function_html_image (array params, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> template)
 
 <div class="details">
 <p>Smarty {html_image} function plugin</p><p>Type:     function<br>
@@ -1134,7 +1134,7 @@ Params:
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/function.html_options.php#L36" >framework\libs\smarty\plugins\function.html_options.php at line 36</a>
 
 <h3 id="smarty_function_html_options()">smarty_function_html_options</h3>
-<span class='k'></span> <span class='nx'>string</span> smarty_function_html_options (array params, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.md">Smarty_Internal_Template</a> template)
+<span class='k'></span> <span class='nx'>string</span> smarty_function_html_options (array params, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> template)
 
 <div class="details">
 <p>Smarty {html_options} function plugin</p><p>Type:     function<br>
@@ -1195,7 +1195,7 @@ Params:
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/function.html_radios.php#L45" >framework\libs\smarty\plugins\function.html_radios.php at line 45</a>
 
 <h3 id="smarty_function_html_radios()">smarty_function_html_radios</h3>
-<span class='k'></span> <span class='nx'>string</span> smarty_function_html_radios (array params, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.md">Smarty_Internal_Template</a> template)
+<span class='k'></span> <span class='nx'>string</span> smarty_function_html_radios (array params, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> template)
 
 <div class="details">
 <p>Smarty {html_radios} function plugin</p><p>File:       function.html_radios.php<br>
@@ -1255,7 +1255,7 @@ Examples:
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/function.html_select_date.php#L54" >framework\libs\smarty\plugins\function.html_select_date.php at line 54</a>
 
 <h3 id="smarty_function_html_select_date()">smarty_function_html_select_date</h3>
-<span class='k'></span> <span class='nx'>string</span> smarty_function_html_select_date (array params, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.md">Smarty_Internal_Template</a> template)
+<span class='k'></span> <span class='nx'>string</span> smarty_function_html_select_date (array params, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> template)
 
 <div class="details">
 <p>Smarty {html_select_date} plugin</p><p>Type:     function<br>
@@ -1301,7 +1301,7 @@ added attributes month_names, *_id</li>
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/function.html_select_time.php#L34" >framework\libs\smarty\plugins\function.html_select_time.php at line 34</a>
 
 <h3 id="smarty_function_html_select_time()">smarty_function_html_select_time</h3>
-<span class='k'></span> <span class='nx'>string</span> smarty_function_html_select_time (array params, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.md">Smarty_Internal_Template</a> template)
+<span class='k'></span> <span class='nx'>string</span> smarty_function_html_select_time (array params, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> template)
 
 <div class="details">
 <p>Smarty {html_select_time} function plugin</p><p>Type:     function<br>
@@ -1327,7 +1327,7 @@ Purpose:  Prints the dropdowns for time selection</p>
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/function.html_table.php#L50" >framework\libs\smarty\plugins\function.html_table.php at line 50</a>
 
 <h3 id="smarty_function_html_table()">smarty_function_html_table</h3>
-<span class='k'></span> <span class='nx'>string</span> smarty_function_html_table (array params, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.md">Smarty_Internal_Template</a> template)
+<span class='k'></span> <span class='nx'>string</span> smarty_function_html_table (array params, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> template)
 
 <div class="details">
 <p>Smarty {html_table} function plugin</p><p>Type:     function<br>
@@ -1391,7 +1391,7 @@ Examples:
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/function.mailto.php#L51" >framework\libs\smarty\plugins\function.mailto.php at line 51</a>
 
 <h3 id="smarty_function_mailto()">smarty_function_mailto</h3>
-<span class='k'></span> <span class='nx'>string</span> smarty_function_mailto (array params, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.md">Smarty_Internal_Template</a> template)
+<span class='k'></span> <span class='nx'>string</span> smarty_function_mailto (array params, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> template)
 
 <div class="details">
 <p>Smarty {mailto} function plugin</p><p>Type:     function<br>
@@ -1445,7 +1445,7 @@ Examples:
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/function.math.php#L24" >framework\libs\smarty\plugins\function.math.php at line 24</a>
 
 <h3 id="smarty_function_math()">smarty_function_math</h3>
-<span class='k'></span> <span class='nx'>string|null</span> smarty_function_math (array params, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.md">Smarty_Internal_Template</a> template)
+<span class='k'></span> <span class='nx'>string|null</span> smarty_function_math (array params, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> template)
 
 <div class="details">
 <p>Smarty {math} function plugin</p><p>Type:     function<br>
@@ -2247,7 +2247,7 @@ Purpose:  wrap a string of text at a given length</p>
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/outputfilter.trimwhitespace.php#L20" >framework\libs\smarty\plugins\outputfilter.trimwhitespace.php at line 20</a>
 
 <h3 id="smarty_outputfilter_trimwhitespace()">smarty_outputfilter_trimwhitespace</h3>
-<span class='k'></span> <span class='nx'>string</span> smarty_outputfilter_trimwhitespace (string source, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.md">Smarty_Internal_Template</a> smarty)
+<span class='k'></span> <span class='nx'>string</span> smarty_outputfilter_trimwhitespace (string source, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> smarty)
 
 <div class="details">
 <p>Smarty trimwhitespace outputfilter plugin</p><p>Trim unnecessary whitespace from HTML markup.</p>
@@ -2291,7 +2291,7 @@ Purpose:  wrap a string of text at a given length</p>
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/variablefilter.htmlspecialchars.php#L16" >framework\libs\smarty\plugins\variablefilter.htmlspecialchars.php at line 16</a>
 
 <h3 id="smarty_variablefilter_htmlspecialchars()">smarty_variablefilter_htmlspecialchars</h3>
-<span class='k'></span> <span class='nx'>string</span> smarty_variablefilter_htmlspecialchars (string source, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.md">Smarty_Internal_Template</a> smarty)
+<span class='k'></span> <span class='nx'>string</span> smarty_variablefilter_htmlspecialchars (string source, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> smarty)
 
 <div class="details">
 <p>Smarty htmlspecialchars variablefilter plugin</p>

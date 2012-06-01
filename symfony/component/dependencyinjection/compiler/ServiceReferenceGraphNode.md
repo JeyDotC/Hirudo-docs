@@ -40,11 +40,11 @@
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#addinedge">addInEdge</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/compiler/servicereferencegraphedge.md">ServiceReferenceGraphEdge</a> edge)</p><p class="description">Adds an in edge to this node.</p></td>
+<td class="description"><p class="name"><a href="#addinedge">addInEdge</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/compiler/ServiceReferenceGraphEdge.md">ServiceReferenceGraphEdge</a> edge)</p><p class="description">Adds an in edge to this node.</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#addoutedge">addOutEdge</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/compiler/servicereferencegraphedge.md">ServiceReferenceGraphEdge</a> edge)</p><p class="description">Adds an out edge to this node.</p></td>
+<td class="description"><p class="name"><a href="#addoutedge">addOutEdge</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/compiler/ServiceReferenceGraphEdge.md">ServiceReferenceGraphEdge</a> edge)</p><p class="description">Adds an out edge to this node.</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>Boolean</span></td>
@@ -95,7 +95,7 @@
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/ServiceReferenceGraphNode.php#L50" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\ServiceReferenceGraphNode.php at line 50</a>
 
 <h3 id="addInEdge()">addInEdge</h3>
-<span class='k'></span> <span class='nx'>void</span> <span class='nf'>addInEdge</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/compiler/servicereferencegraphedge.md">ServiceReferenceGraphEdge</a> edge)
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>addInEdge</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/compiler/ServiceReferenceGraphEdge.md">ServiceReferenceGraphEdge</a> edge)
 
 <div class="details">
 <p>Adds an in edge to this node.</p>
@@ -107,7 +107,7 @@
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/ServiceReferenceGraphNode.php#L60" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\ServiceReferenceGraphNode.php at line 60</a>
 
 <h3 id="addOutEdge()">addOutEdge</h3>
-<span class='k'></span> <span class='nx'>void</span> <span class='nf'>addOutEdge</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/compiler/servicereferencegraphedge.md">ServiceReferenceGraphEdge</a> edge)
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>addOutEdge</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/compiler/ServiceReferenceGraphEdge.md">ServiceReferenceGraphEdge</a> edge)
 
 <div class="details">
 <p>Adds an out edge to this node.</p>

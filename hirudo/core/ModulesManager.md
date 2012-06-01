@@ -9,7 +9,7 @@
 
 #Class ModulesManager#
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/eventdispatcher/eventdispatcher.html">EventDispatcher</a>
+<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/eventdispatcher/eventdispatcher.md">EventDispatcher</a>
     * **ModulesManager**
 
 
@@ -18,7 +18,7 @@
 - - -
 
 <p class="signature"><span class='k'>public  class</span> <span class='nx'>ModulesManager</span>
-extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/eventdispatcher/eventdispatcher.html">EventDispatcher</a>
+extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/eventdispatcher/eventdispatcher.md">EventDispatcher</a>
 
 </p>
 
@@ -51,7 +51,7 @@ default configuration.</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name"><a href="#executecall">executeCall</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/context/modulecall.md">ModuleCall</a> call)</p><p class="description">Executes a ModuleCall.</p></td>
+<td class="description"><p class="name"><a href="#executecall">executeCall</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/context/ModuleCall.md">ModuleCall</a> call)</p><p class="description">Executes a ModuleCall.</p></td>
 </tr>
 <tr>
 <td><span class='k'>static </span> <span class='nx'>void</span></td>
@@ -59,13 +59,13 @@ default configuration.</p></td>
 </tr>
 <tr>
 <td><span class='k'>protected </span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#resolvetaskrequirements">resolveTaskRequirements</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/task.md">Task</a> task)</p><p class="description">Resolves the task's requirements from request.</p></td>
+<td class="description"><p class="name"><a href="#resolvetaskrequirements">resolveTaskRequirements</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/Task.md">Task</a> task)</p><p class="description">Resolves the task's requirements from request.</p></td>
 </tr>
 </table>
 
 <table class="inherit">
 <tr><th colspan="2">Methods inherited from Symfony\Component\EventDispatcher\EventDispatcher</th></tr>
-<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/eventdispatcher/eventdispatcher.html#addListener()">addListener</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/eventdispatcher/eventdispatcher.html#addSubscriber()">addSubscriber</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/eventdispatcher/eventdispatcher.html#dispatch()">dispatch</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/eventdispatcher/eventdispatcher.html#doDispatch()">doDispatch</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/eventdispatcher/eventdispatcher.html#getListeners()">getListeners</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/eventdispatcher/eventdispatcher.html#hasListeners()">hasListeners</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/eventdispatcher/eventdispatcher.html#removeListener()">removeListener</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/eventdispatcher/eventdispatcher.html#removeSubscriber()">removeSubscriber</a></td></tr></table>
+<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/eventdispatcher/eventdispatcher.md">addListener</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/eventdispatcher/eventdispatcher.md">addSubscriber</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/eventdispatcher/eventdispatcher.md">dispatch</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/eventdispatcher/eventdispatcher.md">doDispatch</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/eventdispatcher/eventdispatcher.md">getListeners</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/eventdispatcher/eventdispatcher.md">hasListeners</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/eventdispatcher/eventdispatcher.md">removeListener</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/eventdispatcher/eventdispatcher.md">removeSubscriber</a></td></tr></table>
 
 <h2 id="detail_method">Constructor Detail</h2>
 
@@ -106,7 +106,7 @@ default configuration.</p><dl>
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/ModulesManager.php#L123" >framework\hirudo\Hirudo\Core\ModulesManager.php at line 123</a>
 
 <h3 id="executeCall()">executeCall</h3>
-<span class='k'></span> <span class='nx'>string</span> <span class='nf'>executeCall</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/context/modulecall.md">ModuleCall</a> call)
+<span class='k'></span> <span class='nx'>string</span> <span class='nf'>executeCall</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/context/ModuleCall.md">ModuleCall</a> call)
 
 <div class="details">
 <p>Executes a ModuleCall.</p><dl>
@@ -136,7 +136,7 @@ default configuration.</p><dl>
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/ModulesManager.php#L163" >framework\hirudo\Hirudo\Core\ModulesManager.php at line 163</a>
 
 <h3 id="resolveTaskRequirements()">resolveTaskRequirements</h3>
-<span class='k'>protected </span> <span class='nx'>void</span> <span class='nf'>resolveTaskRequirements</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/task.md">Task</a> task)
+<span class='k'>protected </span> <span class='nx'>void</span> <span class='nf'>resolveTaskRequirements</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/Task.md">Task</a> task)
 
 <div class="details">
 <p>Resolves the task's requirements from request.</p><dl>

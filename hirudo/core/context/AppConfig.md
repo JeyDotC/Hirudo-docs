@@ -14,7 +14,7 @@
 
 <dl>
 <dt>All Known Subclasses:</dt>
-<dd><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/impl/joomla/joomlaappconfig.html">Hirudo\Impl\Joomla\JoomlaAppConfig</a> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/impl/standalone/sappconfig.html">Hirudo\Impl\StandAlone\SAppConfig</a> </dd>
+<dd><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/impl/joomla/joomlaappconfig.md">Hirudo\Impl\Joomla\JoomlaAppConfig</a> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/impl/standalone/sappconfig.md">Hirudo\Impl\StandAlone\SAppConfig</a> </dd>
 </dl>
 
 

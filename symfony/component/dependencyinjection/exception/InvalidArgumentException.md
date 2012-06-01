@@ -20,7 +20,7 @@ BaseInvalidArgumentException
 
 <dl>
 <dt>All Known Subclasses:</dt>
-<dd><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/exception/parameternotfoundexception.html">ParameterNotFoundException</a> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/exception/servicenotfoundexception.html">ServiceNotFoundException</a> </dd>
+<dd><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/exception/parameternotfoundexception.md">ParameterNotFoundException</a> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/exception/servicenotfoundexception.md">ServiceNotFoundException</a> </dd>
 </dl>
 
 

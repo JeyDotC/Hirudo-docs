@@ -9,7 +9,7 @@
 
 #Class FrontPage#
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/module.html">Module</a>
+<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/module.md">Module</a>
     * **FrontPage**
 
 
@@ -18,7 +18,7 @@
 - - -
 
 <p class="signature"><span class='k'>public  class</span> <span class='nx'>FrontPage</span>
-extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/module.html">Module</a>
+extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/module.md">Module</a>
 
 </p>
 
@@ -34,7 +34,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/
 
 <table class="inherit">
 <tr><th colspan="2">Fields inherited from Hirudo\Core\Module</th></tr>
-<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/module.html#context">context</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/module.html#currentUser">currentUser</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/module.html#headers">headers</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/module.html#request">request</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/module.html#route">route</a></td></tr></table>
+<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/module.md">context</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/module.md">currentUser</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/module.md">headers</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/module.md">request</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/module.md">route</a></td></tr></table>
 
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
@@ -44,7 +44,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#response">response</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/sampleapp/models/entities/complexobject.md">ComplexObject</a> myComplexObject)</p><p class="description"></p></td>
+<td class="description"><p class="name"><a href="#response">response</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/sampleapp/models/entities/ComplexObject.md">ComplexObject</a> myComplexObject)</p><p class="description"></p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
@@ -58,7 +58,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/
 
 <table class="inherit">
 <tr><th colspan="2">Methods inherited from Hirudo\Core\Module</th></tr>
-<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/module.html#__construct()">__construct</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/module.html#addMessage()">addMessage</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/module.html#assign()">assign</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/module.html#assignMany()">assignMany</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/module.html#component()">component</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/module.html#display()">display</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/module.html#getAppName()">getAppName</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/module.html#getModuleDir()">getModuleDir</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/module.html#getName()">getName</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/module.html#getRendered()">getRendered</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/module.html#getTask()">getTask</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/module.html#onModuleReady()">onModuleReady</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/module.html#renderGet()">renderGet</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/module.html#setAppName()">setAppName</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/module.html#setDefaultTask()">setDefaultTask</a></td></tr></table>
+<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/module.md">__construct</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/module.md">addMessage</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/module.md">assign</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/module.md">assignMany</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/module.md">component</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/module.md">display</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/module.md">getAppName</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/module.md">getModuleDir</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/module.md">getName</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/module.md">getRendered</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/module.md">getTask</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/module.md">onModuleReady</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/module.md">renderGet</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/module.md">setAppName</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/module.md">setDefaultTask</a></td></tr></table>
 
 <h2 id="detail_method">Method Detail</h2>
 
@@ -81,7 +81,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/src/SampleApp/Modules/FrontPage/FrontPage.php#L60" >src\SampleApp\Modules\FrontPage\FrontPage.php at line 60</a>
 
 <h3 id="response()">response</h3>
-<span class='k'></span> <span class='nx'>void</span> <span class='nf'>response</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/sampleapp/models/entities/complexobject.md">ComplexObject</a> myComplexObject)
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>response</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/sampleapp/models/entities/ComplexObject.md">ComplexObject</a> myComplexObject)
 
 <div class="details">
 <p></p><dl>

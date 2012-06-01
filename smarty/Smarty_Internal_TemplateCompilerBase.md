@@ -14,7 +14,7 @@
 
 <dl>
 <dt>All Known Subclasses:</dt>
-<dd><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_smartytemplatecompiler.html">Smarty_Internal_SmartyTemplateCompiler</a> </dd>
+<dd><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_smartytemplatecompiler.md">Smarty_Internal_SmartyTemplateCompiler</a> </dd>
 </dl>
 
 
@@ -108,7 +108,7 @@
                                 </p><p class="description">suppress template property header code in compiled template</p></td>
 </tr>
 <tr>
-<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.html'>Smarty_Internal_Template</a></span></td>
+<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_template.html'>Smarty_Internal_Template</a></span></td>
 <td class="description"><p class="name" ><a href="#template"> $template</a>
                                 </p><p class="description">current template</p></td>
 </tr>
@@ -131,7 +131,7 @@
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>bool</span></td>
-<td class="description"><p class="name"><a href="#compiletemplate">compileTemplate</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.md">Smarty_Internal_Template</a> template)</p><p class="description">Method to compile a Smarty template</p></td>
+<td class="description"><p class="name"><a href="#compiletemplate">compileTemplate</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> template)</p><p class="description">Method to compile a Smarty template</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
@@ -181,7 +181,7 @@ It executes the required compile plugin for the Smarty tag</p></td>
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatecompilerbase.php#L130" >framework\libs\smarty\sysplugins\smarty_internal_templatecompilerbase.php at line 130</a>
 
 <h3 id="compileTemplate()">compileTemplate</h3>
-<span class='k'></span> <span class='nx'>bool</span> <span class='nf'>compileTemplate</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.md">Smarty_Internal_Template</a> template)
+<span class='k'></span> <span class='nx'>bool</span> <span class='nf'>compileTemplate</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> template)
 
 <div class="details">
 <p>Method to compile a Smarty template</p><dl>

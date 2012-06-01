@@ -9,7 +9,7 @@
 
 #Class BeforeTaskEvent#
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/eventdispatcher/event.html">Event</a>
+<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/eventdispatcher/event.md">Event</a>
     * **BeforeTaskEvent**
 
 
@@ -18,7 +18,7 @@
 - - -
 
 <p class="signature"><span class='k'>public  class</span> <span class='nx'>BeforeTaskEvent</span>
-extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/eventdispatcher/event.html">Event</a>
+extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/eventdispatcher/event.md">Event</a>
 
 </p>
 
@@ -52,11 +52,11 @@ are resolved.</p></div>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#replacecall">replaceCall</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/context/modulecall.md">ModuleCall</a> call)</p><p class="description">Replaces the call to be executed thus restarting the module execution
+<td class="description"><p class="name"><a href="#replacecall">replaceCall</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/context/ModuleCall.md">ModuleCall</a> call)</p><p class="description">Replaces the call to be executed thus restarting the module execution
 process to work acordingly to the new ModuleCall.</p></td>
 </tr>
 <tr>
-<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/context/modulecall.html>ModuleCall</a></span></td>
+<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/modulecall.html>ModuleCall</a></span></td>
 <td class="description"><p class="name"><a href="#getcall">getCall</a>()</p><p class="description">Gets the current call.</p></td>
 </tr>
 <tr>
@@ -67,7 +67,7 @@ process to work acordingly to the new ModuleCall.</p></td>
 
 <table class="inherit">
 <tr><th colspan="2">Methods inherited from Symfony\Component\EventDispatcher\Event</th></tr>
-<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/eventdispatcher/event.html#isPropagationStopped()">isPropagationStopped</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/eventdispatcher/event.html#stopPropagation()">stopPropagation</a></td></tr></table>
+<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/eventdispatcher/event.md">isPropagationStopped</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/eventdispatcher/event.md">stopPropagation</a></td></tr></table>
 
 <h2 id="detail_method">Method Detail</h2>
 
@@ -109,7 +109,7 @@ process to work acordingly to the new ModuleCall.</p></td>
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Events/BeforeTaskEvent.php#L68" >framework\hirudo\Hirudo\Core\Events\BeforeTaskEvent.php at line 68</a>
 
 <h3 id="replaceCall()">replaceCall</h3>
-<span class='k'></span> <span class='nx'>void</span> <span class='nf'>replaceCall</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/context/modulecall.md">ModuleCall</a> call)
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>replaceCall</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/context/ModuleCall.md">ModuleCall</a> call)
 
 <div class="details">
 <p>Replaces the call to be executed thus restarting the module execution
@@ -126,7 +126,7 @@ process to work acordingly to the new ModuleCall.</p><dl>
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Events/BeforeTaskEvent.php#L78" >framework\hirudo\Hirudo\Core\Events\BeforeTaskEvent.php at line 78</a>
 
 <h3 id="getCall()">getCall</h3>
-<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/context/modulecall.html>ModuleCall</a></span> <span class='nf'>getCall</span> ()
+<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/modulecall.html>ModuleCall</a></span> <span class='nf'>getCall</span> ()
 
 <div class="details">
 <p>Gets the current call.</p>
