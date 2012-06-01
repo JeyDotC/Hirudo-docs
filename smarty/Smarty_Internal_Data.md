@@ -14,7 +14,7 @@
 
 <dl>
 <dt>All Known Subclasses:</dt>
-<dd><a href="">Smarty_Data</a> <a href="">Smarty_Internal_Debug</a> <a href="">Smarty_Internal_TemplateBase</a> </dd>
+<dd><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Data.md">Smarty_Data</a> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Debug.md">Smarty_Internal_Debug</a> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_TemplateBase.md">Smarty_Internal_TemplateBase</a> </dd>
 </dl>
 
 

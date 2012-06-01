@@ -9,7 +9,7 @@
 
 #Class HTTP_Session2_Container_DB#
 
-<a href="">HTTP_Session2_Container</a>
+<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/http_session2/HTTP_Session2_Container.md">HTTP_Session2_Container</a>
     * **HTTP_Session2_Container_DB**
 
 
@@ -18,7 +18,7 @@
 - - -
 
 <p class="signature"><span class='k'>public  class</span> <span class='nx'>HTTP_Session2_Container_DB</span>
-extends <a href="">HTTP_Session2_Container</a>
+extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/http_session2/HTTP_Session2_Container.md">HTTP_Session2_Container</a>
 
 </p>
 
@@ -52,7 +52,7 @@ PRIMARY KEY (`id`)
 
 <table class="inherit">
 <tr><th colspan="2">Fields inherited from HTTP_Session2\HTTP_Session2_Container</th></tr>
-<tr><td><a href="">options</a></td></tr></table>
+<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/http_session2/HTTP_Session2_Container.md#options">options</a></td></tr></table>
 
 <table id="summary_constructor">
 <tr><th colspan="2">Constructor Summary</th></tr>
@@ -112,7 +112,7 @@ the table on garbage collection, default is 'false'.
 
 <table class="inherit">
 <tr><th colspan="2">Methods inherited from HTTP_Session2\HTTP_Session2_Container</th></tr>
-<tr><td><a href="">__construct</a>, <a href="">parseOptions</a>, <a href="">set</a>, <a href="">setDefaults</a></td></tr></table>
+<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/http_session2/HTTP_Session2_Container.md#__construct">__construct</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/http_session2/HTTP_Session2_Container.md#parseOptions">parseOptions</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/http_session2/HTTP_Session2_Container.md#set">set</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/http_session2/HTTP_Session2_Container.md#setDefaults">setDefaults</a></td></tr></table>
 
 <h2 id="detail_method">Constructor Detail</h2>
 

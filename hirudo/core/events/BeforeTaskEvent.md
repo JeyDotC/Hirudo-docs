@@ -9,7 +9,7 @@
 
 #Class BeforeTaskEvent#
 
-<a href="">Event</a>
+<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/eventdispatcher/Event.md">Event</a>
     * **BeforeTaskEvent**
 
 
@@ -18,7 +18,7 @@
 - - -
 
 <p class="signature"><span class='k'>public  class</span> <span class='nx'>BeforeTaskEvent</span>
-extends <a href="">Event</a>
+extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/eventdispatcher/Event.md">Event</a>
 
 </p>
 
@@ -67,7 +67,7 @@ process to work acordingly to the new ModuleCall.</p></td>
 
 <table class="inherit">
 <tr><th colspan="2">Methods inherited from Symfony\Component\EventDispatcher\Event</th></tr>
-<tr><td><a href="">isPropagationStopped</a>, <a href="">stopPropagation</a></td></tr></table>
+<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/eventdispatcher/Event.md#isPropagationStopped">isPropagationStopped</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/eventdispatcher/Event.md#stopPropagation">stopPropagation</a></td></tr></table>
 
 <h2 id="detail_method">Method Detail</h2>
 

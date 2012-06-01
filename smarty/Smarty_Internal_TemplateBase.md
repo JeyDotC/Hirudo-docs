@@ -9,13 +9,13 @@
 
 #Class Smarty_Internal_TemplateBase#
 
-<a href="">Smarty_Internal_Data</a>
+<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Data.md">Smarty_Internal_Data</a>
     * **Smarty_Internal_TemplateBase**
 
 
 <dl>
 <dt>All Known Subclasses:</dt>
-<dd><a href="">Smarty</a> <a href="">Smarty_Internal_Template</a> </dd>
+<dd><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty.md">Smarty</a> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> </dd>
 </dl>
 
 
@@ -23,7 +23,7 @@
 - - -
 
 <p class="signature"><span class='k'>public abstract  class</span> <span class='nx'>Smarty_Internal_TemplateBase</span>
-extends <a href="">Smarty_Internal_Data</a>
+extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Data.md">Smarty_Internal_Data</a>
 
 </p>
 
@@ -39,7 +39,7 @@ extends <a href="">Smarty_Internal_Data</a>
 
 <table class="inherit">
 <tr><th colspan="2">Fields inherited from Smarty\Smarty_Internal_Data</th></tr>
-<tr><td><a href="">config_vars</a>, <a href="">parent</a>, <a href="">template_class</a>, <a href="">tpl_vars</a></td></tr></table>
+<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Data.md#config_vars">config_vars</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Data.md#parent">parent</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Data.md#template_class">template_class</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Data.md#tpl_vars">tpl_vars</a></td></tr></table>
 
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
@@ -131,7 +131,7 @@ extends <a href="">Smarty_Internal_Data</a>
 
 <table class="inherit">
 <tr><th colspan="2">Methods inherited from Smarty\Smarty_Internal_Data</th></tr>
-<tr><td><a href="">append</a>, <a href="">appendByRef</a>, <a href="">assign</a>, <a href="">assignByRef</a>, <a href="">assignGlobal</a>, <a href="">clearAllAssign</a>, <a href="">clearAssign</a>, <a href="">clearConfig</a>, <a href="">configLoad</a>, <a href="">getConfigVariable</a>, <a href="">getConfigVars</a>, <a href="">getStreamVariable</a>, <a href="">getTemplateVars</a>, <a href="">getVariable</a></td></tr></table>
+<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Data.md#append">append</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Data.md#appendByRef">appendByRef</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Data.md#assign">assign</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Data.md#assignByRef">assignByRef</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Data.md#assignGlobal">assignGlobal</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Data.md#clearAllAssign">clearAllAssign</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Data.md#clearAssign">clearAssign</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Data.md#clearConfig">clearConfig</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Data.md#configLoad">configLoad</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Data.md#getConfigVariable">getConfigVariable</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Data.md#getConfigVars">getConfigVars</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Data.md#getStreamVariable">getStreamVariable</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Data.md#getTemplateVars">getTemplateVars</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Data.md#getVariable">getVariable</a></td></tr></table>
 
 <h2 id="detail_method">Method Detail</h2>
 

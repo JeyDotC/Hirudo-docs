@@ -14,7 +14,7 @@
 
 <dl>
 <dt>All Implemented Interfaces:</dt>
-<dd><a href="">Hirudo\Models\Components\ComponentInterface</a> </dd>
+<dd><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/models/components/ComponentInterface.md">Hirudo\Models\Components\ComponentInterface</a> </dd>
 </dl>
 
 

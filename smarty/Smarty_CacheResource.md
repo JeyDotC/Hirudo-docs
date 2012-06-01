@@ -14,7 +14,7 @@
 
 <dl>
 <dt>All Known Subclasses:</dt>
-<dd><a href="">Smarty_CacheResource_Custom</a> <a href="">Smarty_CacheResource_KeyValueStore</a> <a href="">Smarty_Internal_CacheResource_File</a> </dd>
+<dd><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_CacheResource_Custom.md">Smarty_CacheResource_Custom</a> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_CacheResource_KeyValueStore.md">Smarty_CacheResource_KeyValueStore</a> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_CacheResource_File.md">Smarty_Internal_CacheResource_File</a> </dd>
 </dl>
 
 

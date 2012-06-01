@@ -14,7 +14,7 @@
 
 <dl>
 <dt>All Known Subclasses:</dt>
-<dd><a href="">SampleApp\Modules\ErrorPage</a> <a href="">SampleApp\Modules\FrontPage</a> <a href="">SampleApp\Modules\HttpTester</a> <a href="">SampleApp\Modules\SimpleSqlTest</a> </dd>
+<dd><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/sampleapp/modules/ErrorPage.md">SampleApp\Modules\ErrorPage</a> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/sampleapp/modules/FrontPage.md">SampleApp\Modules\FrontPage</a> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/sampleapp/modules/HttpTester.md">SampleApp\Modules\HttpTester</a> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/sampleapp/modules/SimpleSqlTest.md">SampleApp\Modules\SimpleSqlTest</a> </dd>
 </dl>
 
 

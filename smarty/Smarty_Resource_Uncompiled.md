@@ -9,13 +9,13 @@
 
 #Class Smarty_Resource_Uncompiled#
 
-<a href="">Smarty_Resource</a>
+<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Resource.md">Smarty_Resource</a>
     * **Smarty_Resource_Uncompiled**
 
 
 <dl>
 <dt>All Known Subclasses:</dt>
-<dd><a href="">Smarty_Internal_Resource_PHP</a> </dd>
+<dd><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Resource_PHP.md">Smarty_Internal_Resource_PHP</a> </dd>
 </dl>
 
 
@@ -23,7 +23,7 @@
 - - -
 
 <p class="signature"><span class='k'>public abstract  class</span> <span class='nx'>Smarty_Resource_Uncompiled</span>
-extends <a href="">Smarty_Resource</a>
+extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Resource.md">Smarty_Resource</a>
 
 </p>
 
@@ -39,7 +39,7 @@ extends <a href="">Smarty_Resource</a>
 
 <table class="inherit">
 <tr><th colspan="2">Fields inherited from Smarty\Smarty_Resource</th></tr>
-<tr><td><a href="">compileds</a>, <a href="">compiler_class</a>, <a href="">resources</a>, <a href="">sources</a>, <a href="">sysplugins</a>, <a href="">template_lexer_class</a>, <a href="">template_parser_class</a></td></tr></table>
+<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Resource.md#compileds">compileds</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Resource.md#compiler_class">compiler_class</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Resource.md#resources">resources</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Resource.md#sources">sources</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Resource.md#sysplugins">sysplugins</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Resource.md#template_lexer_class">template_lexer_class</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Resource.md#template_parser_class">template_parser_class</a></td></tr></table>
 
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
@@ -55,7 +55,7 @@ extends <a href="">Smarty_Resource</a>
 
 <table class="inherit">
 <tr><th colspan="2">Methods inherited from Smarty\Smarty_Resource</th></tr>
-<tr><td><a href="">buildFilepath</a>, <a href="">buildUniqueResourceName</a>, <a href="">config</a>, <a href="">fileExists</a>, <a href="">getBasename</a>, <a href="">getContent</a>, <a href="">getUniqueTemplateName</a>, <a href="">load</a>, <a href="">parseResourceName</a>, <a href="">populate</a>, <a href="">populateCompiledFilepath</a>, <a href="">populateTimestamp</a>, <a href="">source</a></td></tr></table>
+<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Resource.md#buildFilepath">buildFilepath</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Resource.md#buildUniqueResourceName">buildUniqueResourceName</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Resource.md#config">config</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Resource.md#fileExists">fileExists</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Resource.md#getBasename">getBasename</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Resource.md#getContent">getContent</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Resource.md#getUniqueTemplateName">getUniqueTemplateName</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Resource.md#load">load</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Resource.md#parseResourceName">parseResourceName</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Resource.md#populate">populate</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Resource.md#populateCompiledFilepath">populateCompiledFilepath</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Resource.md#populateTimestamp">populateTimestamp</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Resource.md#source">source</a></td></tr></table>
 
 <h2 id="detail_method">Method Detail</h2>
 

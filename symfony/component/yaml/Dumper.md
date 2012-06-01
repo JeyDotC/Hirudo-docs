@@ -14,7 +14,7 @@
 
 <dl>
 <dt>All Known Subclasses:</dt>
-<dd><a href="">Symfony\Component\DependencyInjection\Dumper\GraphvizDumper</a> <a href="">Symfony\Component\DependencyInjection\Dumper\PhpDumper</a> <a href="">Symfony\Component\DependencyInjection\Dumper\XmlDumper</a> <a href="">Symfony\Component\DependencyInjection\Dumper\YamlDumper</a> </dd>
+<dd><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/dumper/GraphvizDumper.md">Symfony\Component\DependencyInjection\Dumper\GraphvizDumper</a> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/dumper/PhpDumper.md">Symfony\Component\DependencyInjection\Dumper\PhpDumper</a> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/dumper/XmlDumper.md">Symfony\Component\DependencyInjection\Dumper\XmlDumper</a> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/dumper/YamlDumper.md">Symfony\Component\DependencyInjection\Dumper\YamlDumper</a> </dd>
 </dl>
 
 

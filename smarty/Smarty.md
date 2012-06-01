@@ -9,14 +9,14 @@
 
 #Class Smarty#
 
-<a href="">Smarty_Internal_Data</a>
-    * <a href="">Smarty_Internal_TemplateBase</a>
+<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Data.md">Smarty_Internal_Data</a>
+    * <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_TemplateBase.md">Smarty_Internal_TemplateBase</a>
         * **Smarty**
 
 
 <dl>
 <dt>All Known Subclasses:</dt>
-<dd><a href="">SmartyBC</a> </dd>
+<dd><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/SmartyBC.md">SmartyBC</a> </dd>
 </dl>
 
 
@@ -24,7 +24,7 @@
 - - -
 
 <p class="signature"><span class='k'>public  class</span> <span class='nx'>Smarty</span>
-extends <a href="">Smarty_Internal_TemplateBase</a>
+extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_TemplateBase.md">Smarty_Internal_TemplateBase</a>
 
 </p>
 
@@ -303,11 +303,11 @@ plugin filename format: plugintype.pluginname.php</p></td>
 
 <table class="inherit">
 <tr><th colspan="2">Methods inherited from Smarty\Smarty_Internal_TemplateBase</th></tr>
-<tr><td><a href="">createData</a>, <a href="">display</a>, <a href="">fetch</a>, <a href="">getRegisteredObject</a>, <a href="">isCached</a>, <a href="">loadFilter</a>, <a href="">registerCacheResource</a>, <a href="">registerClass</a>, <a href="">registerDefaultConfigHandler</a>, <a href="">registerDefaultPluginHandler</a>, <a href="">registerDefaultTemplateHandler</a>, <a href="">registerFilter</a>, <a href="">registerObject</a>, <a href="">registerPlugin</a>, <a href="">registerResource</a>, <a href="">unloadFilter</a>, <a href="">unregisterCacheResource</a>, <a href="">unregisterFilter</a>, <a href="">unregisterObject</a>, <a href="">unregisterPlugin</a>, <a href="">unregisterResource</a></td></tr></table>
+<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_TemplateBase.md#createData">createData</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_TemplateBase.md#display">display</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_TemplateBase.md#fetch">fetch</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_TemplateBase.md#getRegisteredObject">getRegisteredObject</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_TemplateBase.md#isCached">isCached</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_TemplateBase.md#loadFilter">loadFilter</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_TemplateBase.md#registerCacheResource">registerCacheResource</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_TemplateBase.md#registerClass">registerClass</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_TemplateBase.md#registerDefaultConfigHandler">registerDefaultConfigHandler</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_TemplateBase.md#registerDefaultPluginHandler">registerDefaultPluginHandler</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_TemplateBase.md#registerDefaultTemplateHandler">registerDefaultTemplateHandler</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_TemplateBase.md#registerFilter">registerFilter</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_TemplateBase.md#registerObject">registerObject</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_TemplateBase.md#registerPlugin">registerPlugin</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_TemplateBase.md#registerResource">registerResource</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_TemplateBase.md#unloadFilter">unloadFilter</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_TemplateBase.md#unregisterCacheResource">unregisterCacheResource</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_TemplateBase.md#unregisterFilter">unregisterFilter</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_TemplateBase.md#unregisterObject">unregisterObject</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_TemplateBase.md#unregisterPlugin">unregisterPlugin</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_TemplateBase.md#unregisterResource">unregisterResource</a></td></tr></table>
 
 <table class="inherit">
 <tr><th colspan="2">Methods inherited from Smarty\Smarty_Internal_Data</th></tr>
-<tr><td><a href="">append</a>, <a href="">appendByRef</a>, <a href="">assign</a>, <a href="">assignByRef</a>, <a href="">assignGlobal</a>, <a href="">clearAllAssign</a>, <a href="">clearAssign</a>, <a href="">clearConfig</a>, <a href="">configLoad</a>, <a href="">getConfigVariable</a>, <a href="">getConfigVars</a>, <a href="">getStreamVariable</a>, <a href="">getTemplateVars</a>, <a href="">getVariable</a></td></tr></table>
+<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Data.md#append">append</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Data.md#appendByRef">appendByRef</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Data.md#assign">assign</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Data.md#assignByRef">assignByRef</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Data.md#assignGlobal">assignGlobal</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Data.md#clearAllAssign">clearAllAssign</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Data.md#clearAssign">clearAssign</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Data.md#clearConfig">clearConfig</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Data.md#configLoad">configLoad</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Data.md#getConfigVariable">getConfigVariable</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Data.md#getConfigVars">getConfigVars</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Data.md#getStreamVariable">getStreamVariable</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Data.md#getTemplateVars">getTemplateVars</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Data.md#getVariable">getVariable</a></td></tr></table>
 
 <h2 id="detail_method">Constructor Detail</h2>
 

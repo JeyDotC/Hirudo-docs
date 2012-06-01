@@ -6,7 +6,7 @@
 
 <table class="title">
 <tr><th colspan="2" class="title">Class Summary</th></tr>
-<tr><td class="name"><a href="">ChromePhp</a></td><td class="description">Server Side Chrome PHP debugger class</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/chromephp/ChromePhp.md">ChromePhp</a></td><td class="description">Server Side Chrome PHP debugger class</td></tr>
 </table>
 
 <table class="title">

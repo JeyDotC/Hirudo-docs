@@ -14,7 +14,7 @@
 
 <dl>
 <dt>All Known Subclasses:</dt>
-<dd><a href="">Hirudo\Serialization\Impl\Json\EntityDeserializerJSON</a> </dd>
+<dd><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/serialization/impl/json/EntityDeserializerJSON.md">Hirudo\Serialization\Impl\Json\EntityDeserializerJSON</a> </dd>
 </dl>
 
 

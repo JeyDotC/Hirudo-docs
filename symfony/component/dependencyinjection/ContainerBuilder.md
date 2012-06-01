@@ -9,7 +9,7 @@
 
 #Class ContainerBuilder#
 
-<a href="">Container</a>
+<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/Container.md">Container</a>
     * **ContainerBuilder**
 
 
@@ -18,7 +18,7 @@
 - - -
 
 <p class="signature"><span class='k'>public  class</span> <span class='nx'>ContainerBuilder</span>
-extends <a href="">Container</a>
+extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/Container.md">Container</a>
 
 </p>
 
@@ -35,7 +35,7 @@ extends <a href="">Container</a>
 
 <table class="inherit">
 <tr><th colspan="2">Fields inherited from Symfony\Component\DependencyInjection\Container</th></tr>
-<tr><td><a href="">loading</a>, <a href="">parameterBag</a>, <a href="">scopeChildren</a>, <a href="">scopeStacks</a>, <a href="">scopedServices</a>, <a href="">scopes</a>, <a href="">services</a></td></tr></table>
+<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/Container.md#loading">loading</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/Container.md#parameterBag">parameterBag</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/Container.md#scopeChildren">scopeChildren</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/Container.md#scopeStacks">scopeStacks</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/Container.md#scopedServices">scopedServices</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/Container.md#scopes">scopes</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/Container.md#services">services</a></td></tr></table>
 
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
@@ -203,7 +203,7 @@ extends <a href="">Container</a>
 
 <table class="inherit">
 <tr><th colspan="2">Methods inherited from Symfony\Component\DependencyInjection\Container</th></tr>
-<tr><td><a href="">__construct</a>, <a href="">addScope</a>, <a href="">camelize</a>, <a href="">compile</a>, <a href="">enterScope</a>, <a href="">get</a>, <a href="">getParameter</a>, <a href="">getParameterBag</a>, <a href="">getServiceIds</a>, <a href="">has</a>, <a href="">hasParameter</a>, <a href="">hasScope</a>, <a href="">isFrozen</a>, <a href="">isScopeActive</a>, <a href="">leaveScope</a>, <a href="">set</a>, <a href="">setParameter</a>, <a href="">underscore</a></td></tr></table>
+<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/Container.md#__construct">__construct</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/Container.md#addScope">addScope</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/Container.md#camelize">camelize</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/Container.md#compile">compile</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/Container.md#enterScope">enterScope</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/Container.md#get">get</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/Container.md#getParameter">getParameter</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/Container.md#getParameterBag">getParameterBag</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/Container.md#getServiceIds">getServiceIds</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/Container.md#has">has</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/Container.md#hasParameter">hasParameter</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/Container.md#hasScope">hasScope</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/Container.md#isFrozen">isFrozen</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/Container.md#isScopeActive">isScopeActive</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/Container.md#leaveScope">leaveScope</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/Container.md#set">set</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/Container.md#setParameter">setParameter</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/Container.md#underscore">underscore</a></td></tr></table>
 
 <h2 id="detail_method">Method Detail</h2>
 

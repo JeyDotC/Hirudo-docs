@@ -14,7 +14,7 @@
 
 <dl>
 <dt>All Known Subclasses:</dt>
-<dd><a href="">Symfony\Component\DependencyInjection\Loader\ClosureLoader</a> </dd>
+<dd><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/loader/ClosureLoader.md">Symfony\Component\DependencyInjection\Loader\ClosureLoader</a> </dd>
 </dl>
 
 

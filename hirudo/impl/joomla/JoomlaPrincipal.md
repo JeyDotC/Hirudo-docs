@@ -9,7 +9,7 @@
 
 #Class JoomlaPrincipal#
 
-<a href="">Principal</a>
+<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/Principal.md">Principal</a>
     * **JoomlaPrincipal**
 
 
@@ -18,7 +18,7 @@
 - - -
 
 <p class="signature"><span class='k'>public  class</span> <span class='nx'>JoomlaPrincipal</span>
-extends <a href="">Principal</a>
+extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/Principal.md">Principal</a>
 
 </p>
 
@@ -54,7 +54,7 @@ extends <a href="">Principal</a>
 
 <table class="inherit">
 <tr><th colspan="2">Methods inherited from Hirudo\Core\Context\Principal</th></tr>
-<tr><td><a href="">__construct</a>, <a href="">getCredential</a>, <a href="">getData</a>, <a href="">getName</a>, <a href="">getPermissions</a>, <a href="">isAnonimous</a>, <a href="">setCredential</a>, <a href="">setName</a>, <a href="">setPermissions</a></td></tr></table>
+<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/Principal.md#__construct">__construct</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/Principal.md#getCredential">getCredential</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/Principal.md#getData">getData</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/Principal.md#getName">getName</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/Principal.md#getPermissions">getPermissions</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/Principal.md#isAnonimous">isAnonimous</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/Principal.md#setCredential">setCredential</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/Principal.md#setName">setName</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/Principal.md#setPermissions">setPermissions</a></td></tr></table>
 
 <h2 id="detail_method">Constructor Detail</h2>
 

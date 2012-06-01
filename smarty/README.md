@@ -6,115 +6,115 @@
 
 <table class="title">
 <tr><th colspan="2" class="title">Class Summary</th></tr>
-<tr><td class="name"><a href="">Smarty</a></td><td class="description">This is the main Smarty class</td></tr>
-<tr><td class="name"><a href="">SmartyBC</a></td><td class="description">Smarty Backward Compatability Wrapper Class</td></tr>
-<tr><td class="name"><a href="">SmartyCompilerException</a></td><td class="description">Smarty compiler exception class</td></tr>
-<tr><td class="name"><a href="">Smarty_CacheResource</a></td><td class="description">Cache Handler API</td></tr>
-<tr><td class="name"><a href="">Smarty_CacheResource_Custom</a></td><td class="description">Cache Handler API</td></tr>
-<tr><td class="name"><a href="">Smarty_CacheResource_KeyValueStore</a></td><td class="description">Smarty Cache Handler Base for Key/Value Storage ImplementationsThis class implements the functionality required to use simple key/value stores
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty.md">Smarty</a></td><td class="description">This is the main Smarty class</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/SmartyBC.md">SmartyBC</a></td><td class="description">Smarty Backward Compatability Wrapper Class</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/SmartyCompilerException.md">SmartyCompilerException</a></td><td class="description">Smarty compiler exception class</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_CacheResource.md">Smarty_CacheResource</a></td><td class="description">Cache Handler API</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_CacheResource_Custom.md">Smarty_CacheResource_Custom</a></td><td class="description">Cache Handler API</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_CacheResource_KeyValueStore.md">Smarty_CacheResource_KeyValueStore</a></td><td class="description">Smarty Cache Handler Base for Key/Value Storage ImplementationsThis class implements the functionality required to use simple key/value stores
 for hierarchical cache groups. </td></tr>
-<tr><td class="name"><a href="">Smarty_Config_Source</a></td><td class="description">Smarty Resource Data ObjectMeta Data Container for Config Files</td></tr>
-<tr><td class="name"><a href="">Smarty_Data</a></td><td class="description">class for the Smarty data objectThe Smarty data object will hold Smarty variables in the current scope</td></tr>
-<tr><td class="name"><a href="">Smarty_Internal_CacheResource_File</a></td><td class="description">This class does contain all necessary methods for the HTML cache on file systemImplements the file system as resource for the HTML cache Version ussing nocache inserts.</td></tr>
-<tr><td class="name"><a href="">Smarty_Internal_CompileBase</a></td><td class="description">This class does extend all internal compile plugins</td></tr>
-<tr><td class="name"><a href="">Smarty_Internal_Compile_Append</a></td><td class="description">Smarty Internal Plugin Compile Append Class</td></tr>
-<tr><td class="name"><a href="">Smarty_Internal_Compile_Assign</a></td><td class="description">Smarty Internal Plugin Compile Assign Class</td></tr>
-<tr><td class="name"><a href="">Smarty_Internal_Compile_Block</a></td><td class="description">Smarty Internal Plugin Compile Block Class</td></tr>
-<tr><td class="name"><a href="">Smarty_Internal_Compile_Blockclose</a></td><td class="description">Smarty Internal Plugin Compile BlockClose Class</td></tr>
-<tr><td class="name"><a href="">Smarty_Internal_Compile_Break</a></td><td class="description">Smarty Internal Plugin Compile Break Class</td></tr>
-<tr><td class="name"><a href="">Smarty_Internal_Compile_Call</a></td><td class="description">Smarty Internal Plugin Compile Function_Call Class</td></tr>
-<tr><td class="name"><a href="">Smarty_Internal_Compile_Capture</a></td><td class="description">Smarty Internal Plugin Compile Capture Class</td></tr>
-<tr><td class="name"><a href="">Smarty_Internal_Compile_CaptureClose</a></td><td class="description">Smarty Internal Plugin Compile Captureclose Class</td></tr>
-<tr><td class="name"><a href="">Smarty_Internal_Compile_Config_Load</a></td><td class="description">Smarty Internal Plugin Compile Config Load Class</td></tr>
-<tr><td class="name"><a href="">Smarty_Internal_Compile_Continue</a></td><td class="description">Smarty Internal Plugin Compile Continue Class</td></tr>
-<tr><td class="name"><a href="">Smarty_Internal_Compile_Debug</a></td><td class="description">Smarty Internal Plugin Compile Debug Class</td></tr>
-<tr><td class="name"><a href="">Smarty_Internal_Compile_Else</a></td><td class="description">Smarty Internal Plugin Compile Else Class</td></tr>
-<tr><td class="name"><a href="">Smarty_Internal_Compile_Elseif</a></td><td class="description">Smarty Internal Plugin Compile ElseIf Class</td></tr>
-<tr><td class="name"><a href="">Smarty_Internal_Compile_Eval</a></td><td class="description">Smarty Internal Plugin Compile Eval Class</td></tr>
-<tr><td class="name"><a href="">Smarty_Internal_Compile_Extends</a></td><td class="description">Smarty Internal Plugin Compile extend Class</td></tr>
-<tr><td class="name"><a href="">Smarty_Internal_Compile_For</a></td><td class="description">Smarty Internal Plugin Compile For Class</td></tr>
-<tr><td class="name"><a href="">Smarty_Internal_Compile_Forclose</a></td><td class="description">Smarty Internal Plugin Compile Forclose Class</td></tr>
-<tr><td class="name"><a href="">Smarty_Internal_Compile_Foreach</a></td><td class="description">Smarty Internal Plugin Compile Foreach Class</td></tr>
-<tr><td class="name"><a href="">Smarty_Internal_Compile_Foreachclose</a></td><td class="description">Smarty Internal Plugin Compile Foreachclose Class</td></tr>
-<tr><td class="name"><a href="">Smarty_Internal_Compile_Foreachelse</a></td><td class="description">Smarty Internal Plugin Compile Foreachelse Class</td></tr>
-<tr><td class="name"><a href="">Smarty_Internal_Compile_Forelse</a></td><td class="description">Smarty Internal Plugin Compile Forelse Class</td></tr>
-<tr><td class="name"><a href="">Smarty_Internal_Compile_Function</a></td><td class="description">Smarty Internal Plugin Compile Function Class</td></tr>
-<tr><td class="name"><a href="">Smarty_Internal_Compile_Functionclose</a></td><td class="description">Smarty Internal Plugin Compile Functionclose Class</td></tr>
-<tr><td class="name"><a href="">Smarty_Internal_Compile_If</a></td><td class="description">Smarty Internal Plugin Compile If Class</td></tr>
-<tr><td class="name"><a href="">Smarty_Internal_Compile_Ifclose</a></td><td class="description">Smarty Internal Plugin Compile Ifclose Class</td></tr>
-<tr><td class="name"><a href="">Smarty_Internal_Compile_Include</a></td><td class="description">Smarty Internal Plugin Compile Include Class</td></tr>
-<tr><td class="name"><a href="">Smarty_Internal_Compile_Include_Php</a></td><td class="description">Smarty Internal Plugin Compile Insert Class</td></tr>
-<tr><td class="name"><a href="">Smarty_Internal_Compile_Insert</a></td><td class="description">Smarty Internal Plugin Compile Insert Class</td></tr>
-<tr><td class="name"><a href="">Smarty_Internal_Compile_Ldelim</a></td><td class="description">Smarty Internal Plugin Compile Ldelim Class</td></tr>
-<tr><td class="name"><a href="">Smarty_Internal_Compile_Nocache</a></td><td class="description">Smarty Internal Plugin Compile Nocache Classv</td></tr>
-<tr><td class="name"><a href="">Smarty_Internal_Compile_Nocacheclose</a></td><td class="description">Smarty Internal Plugin Compile Nocacheclose Class</td></tr>
-<tr><td class="name"><a href="">Smarty_Internal_Compile_Private_Block_Plugin</a></td><td class="description">Smarty Internal Plugin Compile Block Plugin Class</td></tr>
-<tr><td class="name"><a href="">Smarty_Internal_Compile_Private_Function_Plugin</a></td><td class="description">Smarty Internal Plugin Compile Function Plugin Class</td></tr>
-<tr><td class="name"><a href="">Smarty_Internal_Compile_Private_Modifier</a></td><td class="description">Smarty Internal Plugin Compile Modifier Class</td></tr>
-<tr><td class="name"><a href="">Smarty_Internal_Compile_Private_Object_Block_Function</a></td><td class="description">Smarty Internal Plugin Compile Object Block Function Class</td></tr>
-<tr><td class="name"><a href="">Smarty_Internal_Compile_Private_Object_Function</a></td><td class="description">Smarty Internal Plugin Compile Object Function Class</td></tr>
-<tr><td class="name"><a href="">Smarty_Internal_Compile_Private_Print_Expression</a></td><td class="description">Smarty Internal Plugin Compile Print Expression Class</td></tr>
-<tr><td class="name"><a href="">Smarty_Internal_Compile_Private_Registered_Block</a></td><td class="description">Smarty Internal Plugin Compile Registered Block Class</td></tr>
-<tr><td class="name"><a href="">Smarty_Internal_Compile_Private_Registered_Function</a></td><td class="description">Smarty Internal Plugin Compile Registered Function Class</td></tr>
-<tr><td class="name"><a href="">Smarty_Internal_Compile_Private_Special_Variable</a></td><td class="description">Smarty Internal Plugin Compile special Smarty Variable Class</td></tr>
-<tr><td class="name"><a href="">Smarty_Internal_Compile_Rdelim</a></td><td class="description">Smarty Internal Plugin Compile Rdelim Class</td></tr>
-<tr><td class="name"><a href="">Smarty_Internal_Compile_Section</a></td><td class="description">Smarty Internal Plugin Compile Section Class</td></tr>
-<tr><td class="name"><a href="">Smarty_Internal_Compile_Sectionclose</a></td><td class="description">Smarty Internal Plugin Compile Sectionclose Class</td></tr>
-<tr><td class="name"><a href="">Smarty_Internal_Compile_Sectionelse</a></td><td class="description">Smarty Internal Plugin Compile Sectionelse Class</td></tr>
-<tr><td class="name"><a href="">Smarty_Internal_Compile_Setfilter</a></td><td class="description">Smarty Internal Plugin Compile Setfilter Class</td></tr>
-<tr><td class="name"><a href="">Smarty_Internal_Compile_Setfilterclose</a></td><td class="description">Smarty Internal Plugin Compile Setfilterclose Class</td></tr>
-<tr><td class="name"><a href="">Smarty_Internal_Compile_While</a></td><td class="description">Smarty Internal Plugin Compile While Class</td></tr>
-<tr><td class="name"><a href="">Smarty_Internal_Compile_Whileclose</a></td><td class="description">Smarty Internal Plugin Compile Whileclose Class</td></tr>
-<tr><td class="name"><a href="">Smarty_Internal_Config</a></td><td class="description">Smarty Internal Plugin ConfigMain class for config variables</td></tr>
-<tr><td class="name"><a href="">Smarty_Internal_Config_File_Compiler</a></td><td class="description">Main config file compiler class</td></tr>
-<tr><td class="name"><a href="">Smarty_Internal_Configfilelexer</a></td><td class="description">Smarty Internal Plugin Configfilelexer</td></tr>
-<tr><td class="name"><a href="">Smarty_Internal_Data</a></td><td class="description">Base class with template and variable methodes</td></tr>
-<tr><td class="name"><a href="">Smarty_Internal_Debug</a></td><td class="description">Smarty Internal Plugin Debug Class</td></tr>
-<tr><td class="name"><a href="">Smarty_Internal_Filter_Handler</a></td><td class="description">Class for filter processing</td></tr>
-<tr><td class="name"><a href="">Smarty_Internal_Function_Call_Handler</a></td><td class="description">This class does call function defined with the {function} tag</td></tr>
-<tr><td class="name"><a href="">Smarty_Internal_Get_Include_Path</a></td><td class="description">Smarty Internal Read Include Path Class</td></tr>
-<tr><td class="name"><a href="">Smarty_Internal_Nocache_Insert</a></td><td class="description">Smarty Internal Plugin Compile Insert Class</td></tr>
-<tr><td class="name"><a href="">Smarty_Internal_Resource_Eval</a></td><td class="description">Smarty Internal Plugin Resource EvalImplements the strings as resource for Smarty templateunlike string-resources the compiled state of eval-resources is NOT saved for subsequent access}</td></tr>
-<tr><td class="name"><a href="">Smarty_Internal_Resource_Extends</a></td><td class="description">Smarty Internal Plugin Resource ExtendsImplements the file system as resource for Smarty which {extend}s a chain of template files templates</td></tr>
-<tr><td class="name"><a href="">Smarty_Internal_Resource_File</a></td><td class="description">Smarty Internal Plugin Resource FileImplements the file system as resource for Smarty templates</td></tr>
-<tr><td class="name"><a href="">Smarty_Internal_Resource_PHP</a></td><td class="description">Smarty Internal Plugin Resource PHPImplements the file system as resource for PHP templates</td></tr>
-<tr><td class="name"><a href="">Smarty_Internal_Resource_Registered</a></td><td class="description">Smarty Internal Plugin Resource RegisteredImplements the registered resource for Smarty template</td></tr>
-<tr><td class="name"><a href="">Smarty_Internal_Resource_Stream</a></td><td class="description">Smarty Internal Plugin Resource StreamImplements the streams as resource for Smarty template</td></tr>
-<tr><td class="name"><a href="">Smarty_Internal_Resource_String</a></td><td class="description">Smarty Internal Plugin Resource StringImplements the strings as resource for Smarty templateunlike eval-resources the compiled state of string-resources is saved for subsequent access}</td></tr>
-<tr><td class="name"><a href="">Smarty_Internal_SmartyTemplateCompiler</a></td><td class="description">Class SmartyTemplateCompiler</td></tr>
-<tr><td class="name"><a href="">Smarty_Internal_Template</a></td><td class="description">Main class with template data structures and methods</td></tr>
-<tr><td class="name"><a href="">Smarty_Internal_TemplateBase</a></td><td class="description">Class with shared template methodes</td></tr>
-<tr><td class="name"><a href="">Smarty_Internal_TemplateCompilerBase</a></td><td class="description">Main abstract compiler class</td></tr>
-<tr><td class="name"><a href="">Smarty_Internal_Templatelexer</a></td><td class="description">Smarty Internal Plugin Templatelexer</td></tr>
-<tr><td class="name"><a href="">Smarty_Internal_Utility</a></td><td class="description">Utility class</td></tr>
-<tr><td class="name"><a href="">Smarty_Internal_Write_File</a></td><td class="description">Smarty Internal Write File Class</td></tr>
-<tr><td class="name"><a href="">Smarty_Resource</a></td><td class="description">Smarty Resource PluginBase implementation for resource plugins</td></tr>
-<tr><td class="name"><a href="">Smarty_Resource_Custom</a></td><td class="description">Smarty Resource PluginWrapper Implementation for custom resource plugins</td></tr>
-<tr><td class="name"><a href="">Smarty_Resource_Recompiled</a></td><td class="description">Smarty Resource PluginBase implementation for resource plugins that don't compile cache</td></tr>
-<tr><td class="name"><a href="">Smarty_Resource_Uncompiled</a></td><td class="description">Smarty Resource PluginBase implementation for resource plugins that don't use the compiler</td></tr>
-<tr><td class="name"><a href="">Smarty_Security</a></td><td class="description">This class does contain the security settings</td></tr>
-<tr><td class="name"><a href="">Smarty_Template_Cached</a></td><td class="description">Smarty Resource Data ObjectCache Data Container for Template Files</td></tr>
-<tr><td class="name"><a href="">Smarty_Template_Compiled</a></td><td class="description">Smarty Resource Data ObjectMeta Data Container for Template Files</td></tr>
-<tr><td class="name"><a href="">Smarty_Template_Source</a></td><td class="description">Smarty Resource Data ObjectMeta Data Container for Template Files</td></tr>
-<tr><td class="name"><a href="">Smarty_Variable</a></td><td class="description">class for the Smarty variable objectThis class defines the Smarty variable object</td></tr>
-<tr><td class="name"><a href="">TPC_yyToken</a></td><td class="description">Smarty Internal Plugin ConfigfileparserThis is the config file parser.
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Config_Source.md">Smarty_Config_Source</a></td><td class="description">Smarty Resource Data ObjectMeta Data Container for Config Files</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Data.md">Smarty_Data</a></td><td class="description">class for the Smarty data objectThe Smarty data object will hold Smarty variables in the current scope</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_CacheResource_File.md">Smarty_Internal_CacheResource_File</a></td><td class="description">This class does contain all necessary methods for the HTML cache on file systemImplements the file system as resource for the HTML cache Version ussing nocache inserts.</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_CompileBase.md">Smarty_Internal_CompileBase</a></td><td class="description">This class does extend all internal compile plugins</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Compile_Append.md">Smarty_Internal_Compile_Append</a></td><td class="description">Smarty Internal Plugin Compile Append Class</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Compile_Assign.md">Smarty_Internal_Compile_Assign</a></td><td class="description">Smarty Internal Plugin Compile Assign Class</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Compile_Block.md">Smarty_Internal_Compile_Block</a></td><td class="description">Smarty Internal Plugin Compile Block Class</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Compile_Blockclose.md">Smarty_Internal_Compile_Blockclose</a></td><td class="description">Smarty Internal Plugin Compile BlockClose Class</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Compile_Break.md">Smarty_Internal_Compile_Break</a></td><td class="description">Smarty Internal Plugin Compile Break Class</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Compile_Call.md">Smarty_Internal_Compile_Call</a></td><td class="description">Smarty Internal Plugin Compile Function_Call Class</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Compile_Capture.md">Smarty_Internal_Compile_Capture</a></td><td class="description">Smarty Internal Plugin Compile Capture Class</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Compile_CaptureClose.md">Smarty_Internal_Compile_CaptureClose</a></td><td class="description">Smarty Internal Plugin Compile Captureclose Class</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Compile_Config_Load.md">Smarty_Internal_Compile_Config_Load</a></td><td class="description">Smarty Internal Plugin Compile Config Load Class</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Compile_Continue.md">Smarty_Internal_Compile_Continue</a></td><td class="description">Smarty Internal Plugin Compile Continue Class</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Compile_Debug.md">Smarty_Internal_Compile_Debug</a></td><td class="description">Smarty Internal Plugin Compile Debug Class</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Compile_Else.md">Smarty_Internal_Compile_Else</a></td><td class="description">Smarty Internal Plugin Compile Else Class</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Compile_Elseif.md">Smarty_Internal_Compile_Elseif</a></td><td class="description">Smarty Internal Plugin Compile ElseIf Class</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Compile_Eval.md">Smarty_Internal_Compile_Eval</a></td><td class="description">Smarty Internal Plugin Compile Eval Class</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Compile_Extends.md">Smarty_Internal_Compile_Extends</a></td><td class="description">Smarty Internal Plugin Compile extend Class</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Compile_For.md">Smarty_Internal_Compile_For</a></td><td class="description">Smarty Internal Plugin Compile For Class</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Compile_Forclose.md">Smarty_Internal_Compile_Forclose</a></td><td class="description">Smarty Internal Plugin Compile Forclose Class</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Compile_Foreach.md">Smarty_Internal_Compile_Foreach</a></td><td class="description">Smarty Internal Plugin Compile Foreach Class</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Compile_Foreachclose.md">Smarty_Internal_Compile_Foreachclose</a></td><td class="description">Smarty Internal Plugin Compile Foreachclose Class</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Compile_Foreachelse.md">Smarty_Internal_Compile_Foreachelse</a></td><td class="description">Smarty Internal Plugin Compile Foreachelse Class</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Compile_Forelse.md">Smarty_Internal_Compile_Forelse</a></td><td class="description">Smarty Internal Plugin Compile Forelse Class</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Compile_Function.md">Smarty_Internal_Compile_Function</a></td><td class="description">Smarty Internal Plugin Compile Function Class</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Compile_Functionclose.md">Smarty_Internal_Compile_Functionclose</a></td><td class="description">Smarty Internal Plugin Compile Functionclose Class</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Compile_If.md">Smarty_Internal_Compile_If</a></td><td class="description">Smarty Internal Plugin Compile If Class</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Compile_Ifclose.md">Smarty_Internal_Compile_Ifclose</a></td><td class="description">Smarty Internal Plugin Compile Ifclose Class</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Compile_Include.md">Smarty_Internal_Compile_Include</a></td><td class="description">Smarty Internal Plugin Compile Include Class</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Compile_Include_Php.md">Smarty_Internal_Compile_Include_Php</a></td><td class="description">Smarty Internal Plugin Compile Insert Class</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Compile_Insert.md">Smarty_Internal_Compile_Insert</a></td><td class="description">Smarty Internal Plugin Compile Insert Class</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Compile_Ldelim.md">Smarty_Internal_Compile_Ldelim</a></td><td class="description">Smarty Internal Plugin Compile Ldelim Class</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Compile_Nocache.md">Smarty_Internal_Compile_Nocache</a></td><td class="description">Smarty Internal Plugin Compile Nocache Classv</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Compile_Nocacheclose.md">Smarty_Internal_Compile_Nocacheclose</a></td><td class="description">Smarty Internal Plugin Compile Nocacheclose Class</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Compile_Private_Block_Plugin.md">Smarty_Internal_Compile_Private_Block_Plugin</a></td><td class="description">Smarty Internal Plugin Compile Block Plugin Class</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Compile_Private_Function_Plugin.md">Smarty_Internal_Compile_Private_Function_Plugin</a></td><td class="description">Smarty Internal Plugin Compile Function Plugin Class</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Compile_Private_Modifier.md">Smarty_Internal_Compile_Private_Modifier</a></td><td class="description">Smarty Internal Plugin Compile Modifier Class</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Compile_Private_Object_Block_Function.md">Smarty_Internal_Compile_Private_Object_Block_Function</a></td><td class="description">Smarty Internal Plugin Compile Object Block Function Class</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Compile_Private_Object_Function.md">Smarty_Internal_Compile_Private_Object_Function</a></td><td class="description">Smarty Internal Plugin Compile Object Function Class</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Compile_Private_Print_Expression.md">Smarty_Internal_Compile_Private_Print_Expression</a></td><td class="description">Smarty Internal Plugin Compile Print Expression Class</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Compile_Private_Registered_Block.md">Smarty_Internal_Compile_Private_Registered_Block</a></td><td class="description">Smarty Internal Plugin Compile Registered Block Class</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Compile_Private_Registered_Function.md">Smarty_Internal_Compile_Private_Registered_Function</a></td><td class="description">Smarty Internal Plugin Compile Registered Function Class</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Compile_Private_Special_Variable.md">Smarty_Internal_Compile_Private_Special_Variable</a></td><td class="description">Smarty Internal Plugin Compile special Smarty Variable Class</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Compile_Rdelim.md">Smarty_Internal_Compile_Rdelim</a></td><td class="description">Smarty Internal Plugin Compile Rdelim Class</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Compile_Section.md">Smarty_Internal_Compile_Section</a></td><td class="description">Smarty Internal Plugin Compile Section Class</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Compile_Sectionclose.md">Smarty_Internal_Compile_Sectionclose</a></td><td class="description">Smarty Internal Plugin Compile Sectionclose Class</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Compile_Sectionelse.md">Smarty_Internal_Compile_Sectionelse</a></td><td class="description">Smarty Internal Plugin Compile Sectionelse Class</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Compile_Setfilter.md">Smarty_Internal_Compile_Setfilter</a></td><td class="description">Smarty Internal Plugin Compile Setfilter Class</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Compile_Setfilterclose.md">Smarty_Internal_Compile_Setfilterclose</a></td><td class="description">Smarty Internal Plugin Compile Setfilterclose Class</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Compile_While.md">Smarty_Internal_Compile_While</a></td><td class="description">Smarty Internal Plugin Compile While Class</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Compile_Whileclose.md">Smarty_Internal_Compile_Whileclose</a></td><td class="description">Smarty Internal Plugin Compile Whileclose Class</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Config.md">Smarty_Internal_Config</a></td><td class="description">Smarty Internal Plugin ConfigMain class for config variables</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Config_File_Compiler.md">Smarty_Internal_Config_File_Compiler</a></td><td class="description">Main config file compiler class</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Configfilelexer.md">Smarty_Internal_Configfilelexer</a></td><td class="description">Smarty Internal Plugin Configfilelexer</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Data.md">Smarty_Internal_Data</a></td><td class="description">Base class with template and variable methodes</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Debug.md">Smarty_Internal_Debug</a></td><td class="description">Smarty Internal Plugin Debug Class</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Filter_Handler.md">Smarty_Internal_Filter_Handler</a></td><td class="description">Class for filter processing</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Function_Call_Handler.md">Smarty_Internal_Function_Call_Handler</a></td><td class="description">This class does call function defined with the {function} tag</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Get_Include_Path.md">Smarty_Internal_Get_Include_Path</a></td><td class="description">Smarty Internal Read Include Path Class</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Nocache_Insert.md">Smarty_Internal_Nocache_Insert</a></td><td class="description">Smarty Internal Plugin Compile Insert Class</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Resource_Eval.md">Smarty_Internal_Resource_Eval</a></td><td class="description">Smarty Internal Plugin Resource EvalImplements the strings as resource for Smarty templateunlike string-resources the compiled state of eval-resources is NOT saved for subsequent access}</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Resource_Extends.md">Smarty_Internal_Resource_Extends</a></td><td class="description">Smarty Internal Plugin Resource ExtendsImplements the file system as resource for Smarty which {extend}s a chain of template files templates</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Resource_File.md">Smarty_Internal_Resource_File</a></td><td class="description">Smarty Internal Plugin Resource FileImplements the file system as resource for Smarty templates</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Resource_PHP.md">Smarty_Internal_Resource_PHP</a></td><td class="description">Smarty Internal Plugin Resource PHPImplements the file system as resource for PHP templates</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Resource_Registered.md">Smarty_Internal_Resource_Registered</a></td><td class="description">Smarty Internal Plugin Resource RegisteredImplements the registered resource for Smarty template</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Resource_Stream.md">Smarty_Internal_Resource_Stream</a></td><td class="description">Smarty Internal Plugin Resource StreamImplements the streams as resource for Smarty template</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Resource_String.md">Smarty_Internal_Resource_String</a></td><td class="description">Smarty Internal Plugin Resource StringImplements the strings as resource for Smarty templateunlike eval-resources the compiled state of string-resources is saved for subsequent access}</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_SmartyTemplateCompiler.md">Smarty_Internal_SmartyTemplateCompiler</a></td><td class="description">Class SmartyTemplateCompiler</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a></td><td class="description">Main class with template data structures and methods</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_TemplateBase.md">Smarty_Internal_TemplateBase</a></td><td class="description">Class with shared template methodes</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_TemplateCompilerBase.md">Smarty_Internal_TemplateCompilerBase</a></td><td class="description">Main abstract compiler class</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Templatelexer.md">Smarty_Internal_Templatelexer</a></td><td class="description">Smarty Internal Plugin Templatelexer</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Utility.md">Smarty_Internal_Utility</a></td><td class="description">Utility class</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Write_File.md">Smarty_Internal_Write_File</a></td><td class="description">Smarty Internal Write File Class</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Resource.md">Smarty_Resource</a></td><td class="description">Smarty Resource PluginBase implementation for resource plugins</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Resource_Custom.md">Smarty_Resource_Custom</a></td><td class="description">Smarty Resource PluginWrapper Implementation for custom resource plugins</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Resource_Recompiled.md">Smarty_Resource_Recompiled</a></td><td class="description">Smarty Resource PluginBase implementation for resource plugins that don't compile cache</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Resource_Uncompiled.md">Smarty_Resource_Uncompiled</a></td><td class="description">Smarty Resource PluginBase implementation for resource plugins that don't use the compiler</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Security.md">Smarty_Security</a></td><td class="description">This class does contain the security settings</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Template_Cached.md">Smarty_Template_Cached</a></td><td class="description">Smarty Resource Data ObjectCache Data Container for Template Files</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Template_Compiled.md">Smarty_Template_Compiled</a></td><td class="description">Smarty Resource Data ObjectMeta Data Container for Template Files</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Template_Source.md">Smarty_Template_Source</a></td><td class="description">Smarty Resource Data ObjectMeta Data Container for Template Files</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Variable.md">Smarty_Variable</a></td><td class="description">class for the Smarty variable objectThis class defines the Smarty variable object</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/TPC_yyToken.md">TPC_yyToken</a></td><td class="description">Smarty Internal Plugin ConfigfileparserThis is the config file parser.
 </td></tr>
-<tr><td class="name"><a href="">TP_yyToken</a></td><td class="description">Smarty Internal Plugin TemplateparserThis is the template parser.
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/TP_yyToken.md">TP_yyToken</a></td><td class="description">Smarty Internal Plugin TemplateparserThis is the template parser.
 </td></tr>
-<tr><td class="name"><a href="">Undefined_Smarty_Variable</a></td><td class="description">class for undefined variable objectThis class defines an object for undefined variable handling</td></tr>
-<tr><td class="name"><a href="">_smarty_code</a></td><td class="description">Code fragment inside a tag.</td></tr>
-<tr><td class="name"><a href="">_smarty_doublequoted</a></td><td class="description">Double quoted string inside a tag.</td></tr>
-<tr><td class="name"><a href="">_smarty_dq_content</a></td><td class="description">Raw chars as part of a double quoted string.</td></tr>
-<tr><td class="name"><a href="">_smarty_linebreak</a></td><td class="description">template linebreaks</td></tr>
-<tr><td class="name"><a href="">_smarty_parsetree</a></td><td class="description"></td></tr>
-<tr><td class="name"><a href="">_smarty_tag</a></td><td class="description">A complete smarty tag.</td></tr>
-<tr><td class="name"><a href="">_smarty_template_buffer</a></td><td class="description">Template element</td></tr>
-<tr><td class="name"><a href="">_smarty_text</a></td><td class="description">template text</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Undefined_Smarty_Variable.md">Undefined_Smarty_Variable</a></td><td class="description">class for undefined variable objectThis class defines an object for undefined variable handling</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/_smarty_code.md">_smarty_code</a></td><td class="description">Code fragment inside a tag.</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/_smarty_doublequoted.md">_smarty_doublequoted</a></td><td class="description">Double quoted string inside a tag.</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/_smarty_dq_content.md">_smarty_dq_content</a></td><td class="description">Raw chars as part of a double quoted string.</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/_smarty_linebreak.md">_smarty_linebreak</a></td><td class="description">template linebreaks</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/_smarty_parsetree.md">_smarty_parsetree</a></td><td class="description"></td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/_smarty_tag.md">_smarty_tag</a></td><td class="description">A complete smarty tag.</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/_smarty_template_buffer.md">_smarty_template_buffer</a></td><td class="description">Template element</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/_smarty_text.md">_smarty_text</a></td><td class="description">template text</td></tr>
 </table>
 
 <table class="title">
 <tr><th colspan="2" class="title">Exception Summary</th></tr>
-<tr><td class="name"><a href="">SmartyException</a></td><td class="description">Smarty exception class</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/SmartyException.md">SmartyException</a></td><td class="description">Smarty exception class</td></tr>
 </table>
 
 <table class="title">

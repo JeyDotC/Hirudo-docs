@@ -14,7 +14,7 @@
 
 <dl>
 <dt>All Known Subclasses:</dt>
-<dd><a href="">Hirudo\Impl\Joomla\JoomlaRouting</a> <a href="">Hirudo\Impl\StandAlone\SARouting</a> </dd>
+<dd><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/impl/joomla/JoomlaRouting.md">Hirudo\Impl\Joomla\JoomlaRouting</a> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/impl/standalone/SARouting.md">Hirudo\Impl\StandAlone\SARouting</a> </dd>
 </dl>
 
 

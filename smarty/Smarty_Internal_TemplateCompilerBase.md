@@ -14,7 +14,7 @@
 
 <dl>
 <dt>All Known Subclasses:</dt>
-<dd><a href="">Smarty_Internal_SmartyTemplateCompiler</a> </dd>
+<dd><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_SmartyTemplateCompiler.md">Smarty_Internal_SmartyTemplateCompiler</a> </dd>
 </dl>
 
 

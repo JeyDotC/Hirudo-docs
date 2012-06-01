@@ -14,7 +14,7 @@
 
 <dl>
 <dt>All Known Subclasses:</dt>
-<dd><a href="">HTTP_Session2_Container_DB</a> <a href="">HTTP_Session2_Container_MDB2</a> <a href="">HTTP_Session2_Container_Memcache</a> </dd>
+<dd><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/http_session2/HTTP_Session2_Container_DB.md">HTTP_Session2_Container_DB</a> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/http_session2/HTTP_Session2_Container_MDB2.md">HTTP_Session2_Container_MDB2</a> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/http_session2/HTTP_Session2_Container_Memcache.md">HTTP_Session2_Container_Memcache</a> </dd>
 </dl>
 
 

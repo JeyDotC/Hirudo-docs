@@ -14,7 +14,7 @@
 
 <dl>
 <dt>All Known Subclasses:</dt>
-<dd><a href="">Hirudo\Impl\Joomla\JoomlaPrincipal</a> <a href="">Hirudo\Impl\StandAlone\SAPrincipal</a> </dd>
+<dd><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/impl/joomla/JoomlaPrincipal.md">Hirudo\Impl\Joomla\JoomlaPrincipal</a> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/impl/standalone/SAPrincipal.md">Hirudo\Impl\StandAlone\SAPrincipal</a> </dd>
 </dl>
 
 

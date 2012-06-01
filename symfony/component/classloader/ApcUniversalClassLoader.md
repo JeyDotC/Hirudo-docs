@@ -9,7 +9,7 @@
 
 #Class ApcUniversalClassLoader#
 
-<a href="">UniversalClassLoader</a>
+<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/classloader/UniversalClassLoader.md">UniversalClassLoader</a>
     * **ApcUniversalClassLoader**
 
 
@@ -18,7 +18,7 @@
 - - -
 
 <p class="signature"><span class='k'>public  class</span> <span class='nx'>ApcUniversalClassLoader</span>
-extends <a href="">UniversalClassLoader</a>
+extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/classloader/UniversalClassLoader.md">UniversalClassLoader</a>
 
 </p>
 
@@ -69,7 +69,7 @@ found before giving up.</p></div>
 
 <table class="inherit">
 <tr><th colspan="2">Methods inherited from Symfony\Component\ClassLoader\UniversalClassLoader</th></tr>
-<tr><td><a href="">findFile</a>, <a href="">getNamespaceFallbacks</a>, <a href="">getNamespaces</a>, <a href="">getPrefixFallbacks</a>, <a href="">getPrefixes</a>, <a href="">getUseIncludePath</a>, <a href="">loadClass</a>, <a href="">register</a>, <a href="">registerNamespace</a>, <a href="">registerNamespaceFallback</a>, <a href="">registerNamespaceFallbacks</a>, <a href="">registerNamespaces</a>, <a href="">registerPrefix</a>, <a href="">registerPrefixFallback</a>, <a href="">registerPrefixFallbacks</a>, <a href="">registerPrefixes</a>, <a href="">useIncludePath</a></td></tr></table>
+<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/classloader/UniversalClassLoader.md#findFile">findFile</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/classloader/UniversalClassLoader.md#getNamespaceFallbacks">getNamespaceFallbacks</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/classloader/UniversalClassLoader.md#getNamespaces">getNamespaces</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/classloader/UniversalClassLoader.md#getPrefixFallbacks">getPrefixFallbacks</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/classloader/UniversalClassLoader.md#getPrefixes">getPrefixes</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/classloader/UniversalClassLoader.md#getUseIncludePath">getUseIncludePath</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/classloader/UniversalClassLoader.md#loadClass">loadClass</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/classloader/UniversalClassLoader.md#register">register</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/classloader/UniversalClassLoader.md#registerNamespace">registerNamespace</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/classloader/UniversalClassLoader.md#registerNamespaceFallback">registerNamespaceFallback</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/classloader/UniversalClassLoader.md#registerNamespaceFallbacks">registerNamespaceFallbacks</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/classloader/UniversalClassLoader.md#registerNamespaces">registerNamespaces</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/classloader/UniversalClassLoader.md#registerPrefix">registerPrefix</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/classloader/UniversalClassLoader.md#registerPrefixFallback">registerPrefixFallback</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/classloader/UniversalClassLoader.md#registerPrefixFallbacks">registerPrefixFallbacks</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/classloader/UniversalClassLoader.md#registerPrefixes">registerPrefixes</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/classloader/UniversalClassLoader.md#useIncludePath">useIncludePath</a></td></tr></table>
 
 <h2 id="detail_method">Constructor Detail</h2>
 

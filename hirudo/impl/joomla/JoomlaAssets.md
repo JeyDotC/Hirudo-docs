@@ -9,7 +9,7 @@
 
 #Class JoomlaAssets#
 
-<a href="">Assets</a>
+<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/Assets.md">Assets</a>
     * **JoomlaAssets**
 
 
@@ -18,7 +18,7 @@
 - - -
 
 <p class="signature"><span class='k'>public  class</span> <span class='nx'>JoomlaAssets</span>
-extends <a href="">Assets</a>
+extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/Assets.md">Assets</a>
 
 </p>
 
@@ -59,7 +59,7 @@ extends <a href="">Assets</a>
 
 <table class="inherit">
 <tr><th colspan="2">Methods inherited from Hirudo\Core\Context\Assets</th></tr>
-<tr><td><a href="">addCSS</a>, <a href="">addJavaScript</a>, <a href="">generateCSSTag</a>, <a href="">generateScriptTag</a></td></tr></table>
+<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/Assets.md#addCSS">addCSS</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/Assets.md#addJavaScript">addJavaScript</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/Assets.md#generateCSSTag">generateCSSTag</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/Assets.md#generateScriptTag">generateScriptTag</a></td></tr></table>
 
 <h2 id="detail_method">Constructor Detail</h2>
 

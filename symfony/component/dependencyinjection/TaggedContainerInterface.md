@@ -9,7 +9,7 @@
 
 #Interface TaggedContainerInterface#
 
-<a href="">ContainerInterface</a>
+<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/ContainerInterface.md">ContainerInterface</a>
     * **TaggedContainerInterface**
 
 
@@ -18,7 +18,7 @@
 - - -
 
 <p class="signature"><span class='k'>public  interface</span> <span class='nx'>TaggedContainerInterface</span>
-extends <a href="">ContainerInterface</a>
+extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/ContainerInterface.md">ContainerInterface</a>
 
 </p>
 
@@ -43,7 +43,7 @@ extends <a href="">ContainerInterface</a>
 
 <table class="inherit">
 <tr><th colspan="2">Methods inherited from Symfony\Component\DependencyInjection\ContainerInterface</th></tr>
-<tr><td><a href="">addScope</a>, <a href="">enterScope</a>, <a href="">get</a>, <a href="">getParameter</a>, <a href="">has</a>, <a href="">hasParameter</a>, <a href="">hasScope</a>, <a href="">isScopeActive</a>, <a href="">leaveScope</a>, <a href="">setParameter</a></td></tr></table>
+<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/ContainerInterface.md#addScope">addScope</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/ContainerInterface.md#enterScope">enterScope</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/ContainerInterface.md#get">get</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/ContainerInterface.md#getParameter">getParameter</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/ContainerInterface.md#has">has</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/ContainerInterface.md#hasParameter">hasParameter</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/ContainerInterface.md#hasScope">hasScope</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/ContainerInterface.md#isScopeActive">isScopeActive</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/ContainerInterface.md#leaveScope">leaveScope</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/ContainerInterface.md#setParameter">setParameter</a></td></tr></table>
 
 <h2 id="detail_method">Method Detail</h2>
 

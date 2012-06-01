@@ -13,7 +13,7 @@
 
 <table id="deprecated_class" class="detail">
 <tr><th colspan="2" class="title">Deprecated Classes</th></tr>
-<tr><td class="name"><a href="">HTTP_Session2\HTTP_Session2_Container_DB</a></td><td class="description">Database container for session dataCreate the following table to store session data
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/http_session2/HTTP_Session2_Container_DB.md">HTTP_Session2\HTTP_Session2_Container_DB</a></td><td class="description">Database container for session dataCreate the following table to store session data
 
 CREATE TABLE `sessiondata` (
 `id` CHAR(32) NOT NULL,
@@ -22,21 +22,21 @@ CREATE TABLE `sessiondata` (
 PRIMARY KEY (`id`)
 );
 </td></tr>
-<tr><td class="name"><a href="">Smarty\Smarty_Internal_Resource_Registered</a></td><td class="description">Smarty Internal Plugin Resource RegisteredImplements the registered resource for Smarty template</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Resource_Registered.md">Smarty\Smarty_Internal_Resource_Registered</a></td><td class="description">Smarty Internal Plugin Resource RegisteredImplements the registered resource for Smarty template</td></tr>
 </table>
 
 <table id="deprecated_method" class="detail">
 <tr><th colspan="2" class="title">Deprecated Methods</th></tr>
 <tr>
-<td class="name"><a href="">Hirudo\Impl\Joomla\JoomlaRequest\submitted</a></td>
+<td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/impl/joomla/JoomlaRequest.md#submitted">Hirudo\Impl\Joomla\JoomlaRequest\submitted</a></td>
 <td class="description">Determines if there is any data in the $_POST array.</td>
 </tr>
 <tr>
-<td class="name"><a href="">Hirudo\Core\Context\Request\submitted</a></td>
+<td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/Request.md#submitted">Hirudo\Core\Context\Request\submitted</a></td>
 <td class="description">Determines if there is any data in the $_POST array.</td>
 </tr>
 <tr>
-<td class="name"><a href="">Hirudo\Impl\StandAlone\SARequest\submitted</a></td>
+<td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/impl/standalone/SARequest.md#submitted">Hirudo\Impl\StandAlone\SARequest\submitted</a></td>
 <td class="description">Determines if there is any data in the $_POST array.</td>
 </tr>
 </table>
@@ -44,11 +44,11 @@ PRIMARY KEY (`id`)
 <table id="deprecated_global" class="detail">
 <tr><th colspan="2" class="title">Deprecated Globals</th></tr>
 <tr>
-<td class="name"><a href="">Default namespace\SMARTY_RESOURCE_CHAR_SET</a></td>
+<td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/default namespace/package-globals.md#SMARTY_RESOURCE_CHAR_SET">Default namespace\SMARTY_RESOURCE_CHAR_SET</a></td>
 <td class="description"></td>
 </tr>
 <tr>
-<td class="name"><a href="">Default namespace\SMARTY_RESOURCE_DATE_FORMAT</a></td>
+<td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/default namespace/package-globals.md#SMARTY_RESOURCE_DATE_FORMAT">Default namespace\SMARTY_RESOURCE_DATE_FORMAT</a></td>
 <td class="description"></td>
 </tr>
 </table>

@@ -9,7 +9,7 @@
 
 #Class FrozenParameterBag#
 
-<a href="">ParameterBag</a>
+<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/parameterbag/ParameterBag.md">ParameterBag</a>
     * **FrozenParameterBag**
 
 
@@ -18,7 +18,7 @@
 - - -
 
 <p class="signature"><span class='k'>public  class</span> <span class='nx'>FrozenParameterBag</span>
-extends <a href="">ParameterBag</a>
+extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/parameterbag/ParameterBag.md">ParameterBag</a>
 
 </p>
 
@@ -35,7 +35,7 @@ extends <a href="">ParameterBag</a>
 
 <table class="inherit">
 <tr><th colspan="2">Fields inherited from Symfony\Component\DependencyInjection\ParameterBag\ParameterBag</th></tr>
-<tr><td><a href="">parameters</a>, <a href="">resolved</a></td></tr></table>
+<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/parameterbag/ParameterBag.md#parameters">parameters</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/parameterbag/ParameterBag.md#resolved">resolved</a></td></tr></table>
 
 <table id="summary_constructor">
 <tr><th colspan="2">Constructor Summary</th></tr>
@@ -64,7 +64,7 @@ extends <a href="">ParameterBag</a>
 
 <table class="inherit">
 <tr><th colspan="2">Methods inherited from Symfony\Component\DependencyInjection\ParameterBag\ParameterBag</th></tr>
-<tr><td><a href="">__construct</a>, <a href="">add</a>, <a href="">all</a>, <a href="">clear</a>, <a href="">get</a>, <a href="">has</a>, <a href="">isResolved</a>, <a href="">resolve</a>, <a href="">resolveString</a>, <a href="">resolveValue</a>, <a href="">set</a></td></tr></table>
+<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/parameterbag/ParameterBag.md#__construct">__construct</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/parameterbag/ParameterBag.md#add">add</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/parameterbag/ParameterBag.md#all">all</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/parameterbag/ParameterBag.md#clear">clear</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/parameterbag/ParameterBag.md#get">get</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/parameterbag/ParameterBag.md#has">has</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/parameterbag/ParameterBag.md#isResolved">isResolved</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/parameterbag/ParameterBag.md#resolve">resolve</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/parameterbag/ParameterBag.md#resolveString">resolveString</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/parameterbag/ParameterBag.md#resolveValue">resolveValue</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/parameterbag/ParameterBag.md#set">set</a></td></tr></table>
 
 <h2 id="detail_method">Constructor Detail</h2>
 

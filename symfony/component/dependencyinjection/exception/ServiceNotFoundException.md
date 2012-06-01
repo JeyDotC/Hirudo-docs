@@ -10,7 +10,7 @@
 #Class ServiceNotFoundException#
 
 BaseInvalidArgumentException
-* <a href="">InvalidArgumentException</a>
+* <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/exception/InvalidArgumentException.md">InvalidArgumentException</a>
         * **ServiceNotFoundException**
 
 
@@ -19,7 +19,7 @@ BaseInvalidArgumentException
 - - -
 
 <p class="signature"><span class='k'>public  class</span> <span class='nx'>ServiceNotFoundException</span>
-extends <a href="">InvalidArgumentException</a>
+extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/exception/InvalidArgumentException.md">InvalidArgumentException</a>
 
 </p>
 

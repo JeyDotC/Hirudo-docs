@@ -9,7 +9,7 @@
 
 #Class Smarty_Internal_SmartyTemplateCompiler#
 
-<a href="">Smarty_Internal_TemplateCompilerBase</a>
+<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_TemplateCompilerBase.md">Smarty_Internal_TemplateCompilerBase</a>
     * **Smarty_Internal_SmartyTemplateCompiler**
 
 
@@ -18,7 +18,7 @@
 - - -
 
 <p class="signature"><span class='k'>public  class</span> <span class='nx'>Smarty_Internal_SmartyTemplateCompiler</span>
-extends <a href="">Smarty_Internal_TemplateCompilerBase</a>
+extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_TemplateCompilerBase.md">Smarty_Internal_TemplateCompilerBase</a>
 
 </p>
 
@@ -70,7 +70,7 @@ extends <a href="">Smarty_Internal_TemplateCompilerBase</a>
 
 <table class="inherit">
 <tr><th colspan="2">Fields inherited from Smarty\Smarty_Internal_TemplateCompilerBase</th></tr>
-<tr><td><a href="">_tag_objects</a>, <a href="">_tag_stack</a>, <a href="">called_functions</a>, <a href="">compiles_template_function</a>, <a href="">default_handler_plugins</a>, <a href="">default_modifier_list</a>, <a href="">forceNocache</a>, <a href="">inheritance</a>, <a href="">merged_templates</a>, <a href="">modifier_plugins</a>, <a href="">suppressHeader</a>, <a href="">suppressMergedTemplates</a>, <a href="">suppressNocacheProcessing</a>, <a href="">suppressTemplatePropertyHeader</a>, <a href="">template</a>, <a href="">write_compiled_code</a></td></tr></table>
+<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_TemplateCompilerBase.md#_tag_objects">_tag_objects</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_TemplateCompilerBase.md#_tag_stack">_tag_stack</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_TemplateCompilerBase.md#called_functions">called_functions</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_TemplateCompilerBase.md#compiles_template_function">compiles_template_function</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_TemplateCompilerBase.md#default_handler_plugins">default_handler_plugins</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_TemplateCompilerBase.md#default_modifier_list">default_modifier_list</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_TemplateCompilerBase.md#forceNocache">forceNocache</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_TemplateCompilerBase.md#inheritance">inheritance</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_TemplateCompilerBase.md#merged_templates">merged_templates</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_TemplateCompilerBase.md#modifier_plugins">modifier_plugins</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_TemplateCompilerBase.md#suppressHeader">suppressHeader</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_TemplateCompilerBase.md#suppressMergedTemplates">suppressMergedTemplates</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_TemplateCompilerBase.md#suppressNocacheProcessing">suppressNocacheProcessing</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_TemplateCompilerBase.md#suppressTemplatePropertyHeader">suppressTemplatePropertyHeader</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_TemplateCompilerBase.md#template">template</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_TemplateCompilerBase.md#write_compiled_code">write_compiled_code</a></td></tr></table>
 
 <table id="summary_constructor">
 <tr><th colspan="2">Constructor Summary</th></tr>
@@ -90,7 +90,7 @@ extends <a href="">Smarty_Internal_TemplateCompilerBase</a>
 
 <table class="inherit">
 <tr><th colspan="2">Methods inherited from Smarty\Smarty_Internal_TemplateCompilerBase</th></tr>
-<tr><td><a href="">__construct</a>, <a href="">callTagCompiler</a>, <a href="">compileTag</a>, <a href="">compileTemplate</a>, <a href="">getPlugin</a>, <a href="">getPluginFromDefaultHandler</a>, <a href="">processNocacheCode</a>, <a href="">trigger_template_error</a></td></tr></table>
+<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_TemplateCompilerBase.md#__construct">__construct</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_TemplateCompilerBase.md#callTagCompiler">callTagCompiler</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_TemplateCompilerBase.md#compileTag">compileTag</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_TemplateCompilerBase.md#compileTemplate">compileTemplate</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_TemplateCompilerBase.md#getPlugin">getPlugin</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_TemplateCompilerBase.md#getPluginFromDefaultHandler">getPluginFromDefaultHandler</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_TemplateCompilerBase.md#processNocacheCode">processNocacheCode</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_TemplateCompilerBase.md#trigger_template_error">trigger_template_error</a></td></tr></table>
 
 <h2 id="detail_method">Constructor Detail</h2>
 

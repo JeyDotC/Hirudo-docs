@@ -9,7 +9,7 @@
 
 #Class JoomlaRequest#
 
-<a href="">Request</a>
+<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/Request.md">Request</a>
     * **JoomlaRequest**
 
 
@@ -18,7 +18,7 @@
 - - -
 
 <p class="signature"><span class='k'>public  class</span> <span class='nx'>JoomlaRequest</span>
-extends <a href="">Request</a>
+extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/Request.md">Request</a>
 
 </p>
 
@@ -81,7 +81,7 @@ the way this done depends on how this class interprets the URLs.</p></td>
 
 <table class="inherit">
 <tr><th colspan="2">Methods inherited from Hirudo\Core\Context\Request</th></tr>
-<tr><td><a href="">bind</a>, <a href="">buildModuleCall</a>, <a href="">cookie</a>, <a href="">env</a>, <a href="">file</a>, <a href="">get</a>, <a href="">getAttribute</a>, <a href="">getSession</a>, <a href="">getURI</a>, <a href="">getVar</a>, <a href="">method</a>, <a href="">post</a>, <a href="">removeAttribute</a>, <a href="">server</a>, <a href="">setAttribute</a>, <a href="">setSession</a>, <a href="">submitted</a></td></tr></table>
+<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/Request.md#bind">bind</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/Request.md#buildModuleCall">buildModuleCall</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/Request.md#cookie">cookie</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/Request.md#env">env</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/Request.md#file">file</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/Request.md#get">get</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/Request.md#getAttribute">getAttribute</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/Request.md#getSession">getSession</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/Request.md#getURI">getURI</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/Request.md#getVar">getVar</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/Request.md#method">method</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/Request.md#post">post</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/Request.md#removeAttribute">removeAttribute</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/Request.md#server">server</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/Request.md#setAttribute">setAttribute</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/Request.md#setSession">setSession</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/Request.md#submitted">submitted</a></td></tr></table>
 
 <h2 id="detail_method">Method Detail</h2>
 

@@ -15,7 +15,7 @@
 
 <dl>
 <dt>All Known Subclasses:</dt>
-<dd><a href="">ApplicationNotFoundException</a> <a href="">ModuleNotFoundException</a> </dd>
+<dd><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/exceptions/ApplicationNotFoundException.md">ApplicationNotFoundException</a> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/exceptions/ModuleNotFoundException.md">ModuleNotFoundException</a> </dd>
 </dl>
 
 

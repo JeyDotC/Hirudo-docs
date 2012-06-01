@@ -14,7 +14,7 @@
 
 <dl>
 <dt>All Known Subclasses:</dt>
-<dd><a href="">Doctrine\Common\Annotations\DocLexer</a> </dd>
+<dd><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/annotations/DocLexer.md">Doctrine\Common\Annotations\DocLexer</a> </dd>
 </dl>
 
 

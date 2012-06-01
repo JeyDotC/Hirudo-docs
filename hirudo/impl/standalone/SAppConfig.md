@@ -9,7 +9,7 @@
 
 #Class SAppConfig#
 
-<a href="">AppConfig</a>
+<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/AppConfig.md">AppConfig</a>
     * **SAppConfig**
 
 
@@ -18,7 +18,7 @@
 - - -
 
 <p class="signature"><span class='k'>public  class</span> <span class='nx'>SAppConfig</span>
-extends <a href="">AppConfig</a>
+extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/AppConfig.md">AppConfig</a>
 
 </p>
 
@@ -47,7 +47,7 @@ extends <a href="">AppConfig</a>
 
 <table class="inherit">
 <tr><th colspan="2">Methods inherited from Hirudo\Core\Context\AppConfig</th></tr>
-<tr><td><a href="">__construct</a>, <a href="">get</a>, <a href="">load</a></td></tr></table>
+<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/AppConfig.md#__construct">__construct</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/AppConfig.md#get">get</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/AppConfig.md#load">load</a></td></tr></table>
 
 <h2 id="detail_method">Method Detail</h2>
 

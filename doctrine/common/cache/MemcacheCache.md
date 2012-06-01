@@ -9,7 +9,7 @@
 
 #Class MemcacheCache#
 
-<a href="">CacheProvider</a>
+<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/cache/CacheProvider.md">CacheProvider</a>
     * **MemcacheCache**
 
 
@@ -18,7 +18,7 @@
 - - -
 
 <p class="signature"><span class='k'>public  class</span> <span class='nx'>MemcacheCache</span>
-extends <a href="">CacheProvider</a>
+extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/cache/CacheProvider.md">CacheProvider</a>
 
 </p>
 
@@ -80,7 +80,7 @@ extends <a href="">CacheProvider</a>
 
 <table class="inherit">
 <tr><th colspan="2">Methods inherited from Doctrine\Common\Cache\CacheProvider</th></tr>
-<tr><td><a href="">delete</a>, <a href="">deleteAll</a>, <a href="">doContains</a>, <a href="">doDelete</a>, <a href="">doFetch</a>, <a href="">doFlush</a>, <a href="">doGetStats</a>, <a href="">doSave</a>, <a href="">flushAll</a>, <a href="">getStats</a></td></tr></table>
+<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/cache/CacheProvider.md#delete">delete</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/cache/CacheProvider.md#deleteAll">deleteAll</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/cache/CacheProvider.md#doContains">doContains</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/cache/CacheProvider.md#doDelete">doDelete</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/cache/CacheProvider.md#doFetch">doFetch</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/cache/CacheProvider.md#doFlush">doFlush</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/cache/CacheProvider.md#doGetStats">doGetStats</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/cache/CacheProvider.md#doSave">doSave</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/cache/CacheProvider.md#flushAll">flushAll</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/cache/CacheProvider.md#getStats">getStats</a></td></tr></table>
 
 <h2 id="detail_method">Method Detail</h2>
 

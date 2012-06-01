@@ -9,7 +9,7 @@
 
 #Class Str#
 
-<a href="">String</a>
+<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/lang/String.md">String</a>
     * **Str**
 
 
@@ -18,7 +18,7 @@
 - - -
 
 <p class="signature"><span class='k'>public abstract  class</span> <span class='nx'>Str</span>
-extends <a href="">String</a>
+extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/lang/String.md">String</a>
 
 </p>
 
@@ -34,5 +34,5 @@ extends <a href="">String</a>
 
 <table class="inherit">
 <tr><th colspan="2">Methods inherited from Hirudo\Lang\String</th></tr>
-<tr><td><a href="">indexOf</a>, <a href="">lastIndexOf</a>, <a href="">split</a>, <a href="">toLower</a>, <a href="">toUpper</a></td></tr></table>
+<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/lang/String.md#indexOf">indexOf</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/lang/String.md#lastIndexOf">lastIndexOf</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/lang/String.md#split">split</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/lang/String.md#toLower">toLower</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/lang/String.md#toUpper">toUpper</a></td></tr></table>
 

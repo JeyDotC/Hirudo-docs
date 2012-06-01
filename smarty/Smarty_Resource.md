@@ -14,7 +14,7 @@
 
 <dl>
 <dt>All Known Subclasses:</dt>
-<dd><a href="">Smarty_Internal_Resource_Extends</a> <a href="">Smarty_Internal_Resource_File</a> <a href="">Smarty_Internal_Resource_Registered</a> <a href="">Smarty_Internal_Resource_String</a> <a href="">Smarty_Resource_Custom</a> <a href="">Smarty_Resource_Recompiled</a> <a href="">Smarty_Resource_Uncompiled</a> </dd>
+<dd><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Resource_Extends.md">Smarty_Internal_Resource_Extends</a> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Resource_File.md">Smarty_Internal_Resource_File</a> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Resource_Registered.md">Smarty_Internal_Resource_Registered</a> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Resource_String.md">Smarty_Internal_Resource_String</a> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Resource_Custom.md">Smarty_Resource_Custom</a> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Resource_Recompiled.md">Smarty_Resource_Recompiled</a> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Resource_Uncompiled.md">Smarty_Resource_Uncompiled</a> </dd>
 </dl>
 
 

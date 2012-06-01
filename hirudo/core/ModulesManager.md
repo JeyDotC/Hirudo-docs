@@ -9,7 +9,7 @@
 
 #Class ModulesManager#
 
-<a href="">EventDispatcher</a>
+<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/eventdispatcher/EventDispatcher.md">EventDispatcher</a>
     * **ModulesManager**
 
 
@@ -18,7 +18,7 @@
 - - -
 
 <p class="signature"><span class='k'>public  class</span> <span class='nx'>ModulesManager</span>
-extends <a href="">EventDispatcher</a>
+extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/eventdispatcher/EventDispatcher.md">EventDispatcher</a>
 
 </p>
 
@@ -65,7 +65,7 @@ default configuration.</p></td>
 
 <table class="inherit">
 <tr><th colspan="2">Methods inherited from Symfony\Component\EventDispatcher\EventDispatcher</th></tr>
-<tr><td><a href="">addListener</a>, <a href="">addSubscriber</a>, <a href="">dispatch</a>, <a href="">doDispatch</a>, <a href="">getListeners</a>, <a href="">hasListeners</a>, <a href="">removeListener</a>, <a href="">removeSubscriber</a></td></tr></table>
+<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/eventdispatcher/EventDispatcher.md#addListener">addListener</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/eventdispatcher/EventDispatcher.md#addSubscriber">addSubscriber</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/eventdispatcher/EventDispatcher.md#dispatch">dispatch</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/eventdispatcher/EventDispatcher.md#doDispatch">doDispatch</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/eventdispatcher/EventDispatcher.md#getListeners">getListeners</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/eventdispatcher/EventDispatcher.md#hasListeners">hasListeners</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/eventdispatcher/EventDispatcher.md#removeListener">removeListener</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/eventdispatcher/EventDispatcher.md#removeSubscriber">removeSubscriber</a></td></tr></table>
 
 <h2 id="detail_method">Constructor Detail</h2>
 

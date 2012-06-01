@@ -9,7 +9,7 @@
 
 #Class PhpDumper#
 
-<a href="">Dumper</a>
+<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/dumper/Dumper.md">Dumper</a>
     * **PhpDumper**
 
 
@@ -18,7 +18,7 @@
 - - -
 
 <p class="signature"><span class='k'>public  class</span> <span class='nx'>PhpDumper</span>
-extends <a href="">Dumper</a>
+extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/dumper/Dumper.md">Dumper</a>
 
 </p>
 
@@ -36,7 +36,7 @@ extends <a href="">Dumper</a>
 
 <table class="inherit">
 <tr><th colspan="2">Fields inherited from Symfony\Component\DependencyInjection\Dumper\Dumper</th></tr>
-<tr><td><a href="">container</a></td></tr></table>
+<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/dumper/Dumper.md#container">container</a></td></tr></table>
 
 <table id="summary_constructor">
 <tr><th colspan="2">Constructor Summary</th></tr>
@@ -61,7 +61,7 @@ extends <a href="">Dumper</a>
 
 <table class="inherit">
 <tr><th colspan="2">Methods inherited from Symfony\Component\DependencyInjection\Dumper\Dumper</th></tr>
-<tr><td><a href="">__construct</a></td></tr></table>
+<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/dumper/Dumper.md#__construct">__construct</a></td></tr></table>
 
 <h2 id="detail_method">Constructor Detail</h2>
 

@@ -9,7 +9,7 @@
 
 #Class SARouting#
 
-<a href="">Routing</a>
+<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/Routing.md">Routing</a>
     * **SARouting**
 
 
@@ -18,7 +18,7 @@
 - - -
 
 <p class="signature"><span class='k'>public  class</span> <span class='nx'>SARouting</span>
-extends <a href="">Routing</a>
+extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/Routing.md">Routing</a>
 
 </p>
 
@@ -52,7 +52,7 @@ and the given module name.</p></td>
 
 <table class="inherit">
 <tr><th colspan="2">Methods inherited from Hirudo\Core\Context\Routing</th></tr>
-<tr><td><a href="">action</a>, <a href="">appAction</a>, <a href="">getAppName</a>, <a href="">getBaseURL</a>, <a href="">getModuleName</a>, <a href="">moduleAction</a>, <a href="">redirect</a>, <a href="">setAppName</a>, <a href="">setModuleName</a></td></tr></table>
+<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/Routing.md#action">action</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/Routing.md#appAction">appAction</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/Routing.md#getAppName">getAppName</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/Routing.md#getBaseURL">getBaseURL</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/Routing.md#getModuleName">getModuleName</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/Routing.md#moduleAction">moduleAction</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/Routing.md#redirect">redirect</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/Routing.md#setAppName">setAppName</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/Routing.md#setModuleName">setModuleName</a></td></tr></table>
 
 <h2 id="detail_method">Method Detail</h2>
 

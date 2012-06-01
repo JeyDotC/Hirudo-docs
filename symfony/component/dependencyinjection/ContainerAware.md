@@ -14,7 +14,7 @@
 
 <dl>
 <dt>All Known Subclasses:</dt>
-<dd><a href="">Hirudo\Core\DependencyInjection\AnnotationsBasedDependenciesManager</a> </dd>
+<dd><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/dependencyinjection/AnnotationsBasedDependenciesManager.md">Hirudo\Core\DependencyInjection\AnnotationsBasedDependenciesManager</a> </dd>
 </dl>
 
 

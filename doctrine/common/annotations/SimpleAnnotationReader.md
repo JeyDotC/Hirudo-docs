@@ -14,7 +14,7 @@
 
 <dl>
 <dt>All Implemented Interfaces:</dt>
-<dd><a href="">Reader</a> </dd>
+<dd><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/annotations/Reader.md">Reader</a> </dd>
 </dl>
 
 

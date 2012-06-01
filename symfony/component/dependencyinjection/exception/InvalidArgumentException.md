@@ -15,12 +15,12 @@ BaseInvalidArgumentException
 
 <dl>
 <dt>All Implemented Interfaces:</dt>
-<dd><a href="">ExceptionInterface</a> </dd>
+<dd><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/exception/ExceptionInterface.md">ExceptionInterface</a> </dd>
 </dl>
 
 <dl>
 <dt>All Known Subclasses:</dt>
-<dd><a href="">ParameterNotFoundException</a> <a href="">ServiceNotFoundException</a> </dd>
+<dd><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/exception/ParameterNotFoundException.md">ParameterNotFoundException</a> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/exception/ServiceNotFoundException.md">ServiceNotFoundException</a> </dd>
 </dl>
 
 

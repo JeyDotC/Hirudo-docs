@@ -14,7 +14,7 @@
 
 <dl>
 <dt>All Implemented Interfaces:</dt>
-<dd><a href="">Hirudo\Core\TemplatingInterface</a> </dd>
+<dd><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/TemplatingInterface.md">Hirudo\Core\TemplatingInterface</a> </dd>
 </dl>
 
 

@@ -14,7 +14,7 @@
 
 <dl>
 <dt>All Known Subclasses:</dt>
-<dd><a href="">Hirudo\Impl\Joomla\JoomlaRequest</a> <a href="">Hirudo\Impl\StandAlone\SARequest</a> </dd>
+<dd><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/impl/joomla/JoomlaRequest.md">Hirudo\Impl\Joomla\JoomlaRequest</a> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/impl/standalone/SARequest.md">Hirudo\Impl\StandAlone\SARequest</a> </dd>
 </dl>
 
 

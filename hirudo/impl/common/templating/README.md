@@ -6,7 +6,7 @@
 
 <table class="title">
 <tr><th colspan="2" class="title">Class Summary</th></tr>
-<tr><td class="name"><a href="">SmartyTemplating</a></td><td class="description">A Smarty based templating system.</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/impl/common/templating/SmartyTemplating.md">SmartyTemplating</a></td><td class="description">A Smarty based templating system.</td></tr>
 </table>
 
 - - -

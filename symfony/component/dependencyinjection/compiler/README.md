@@ -6,51 +6,51 @@
 
 <table class="title">
 <tr><th colspan="2" class="title">Class Summary</th></tr>
-<tr><td class="name"><a href="">AnalyzeServiceReferencesPass</a></td><td class="description">Run this pass before passes that need to know more about the relation of
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/compiler/AnalyzeServiceReferencesPass.md">AnalyzeServiceReferencesPass</a></td><td class="description">Run this pass before passes that need to know more about the relation of
 your services.
 </td></tr>
-<tr><td class="name"><a href="">CheckCircularReferencesPass</a></td><td class="description">Checks your services for circular referencesReferences from method calls are ignored since we might be able to resolve
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/compiler/CheckCircularReferencesPass.md">CheckCircularReferencesPass</a></td><td class="description">Checks your services for circular referencesReferences from method calls are ignored since we might be able to resolve
 these references depending on the order in which services are called.
 </td></tr>
-<tr><td class="name"><a href="">CheckDefinitionValidityPass</a></td><td class="description">This pass validates each definition individually only taking the information
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/compiler/CheckDefinitionValidityPass.md">CheckDefinitionValidityPass</a></td><td class="description">This pass validates each definition individually only taking the information
 into account which is contained in the definition itself.
 </td></tr>
-<tr><td class="name"><a href="">CheckExceptionOnInvalidReferenceBehaviorPass</a></td><td class="description">Checks that all references are pointing to a valid service.</td></tr>
-<tr><td class="name"><a href="">CheckReferenceValidityPass</a></td><td class="description">Checks the validity of referencesThe following checks are performed by this pass:
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/compiler/CheckExceptionOnInvalidReferenceBehaviorPass.md">CheckExceptionOnInvalidReferenceBehaviorPass</a></td><td class="description">Checks that all references are pointing to a valid service.</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/compiler/CheckReferenceValidityPass.md">CheckReferenceValidityPass</a></td><td class="description">Checks the validity of referencesThe following checks are performed by this pass:
 
 target definitions are not abstract
 target definitions are of equal or wider scope
 
 - target definitions are in the same scope hierarchy</td></tr>
-<tr><td class="name"><a href="">Compiler</a></td><td class="description">This class is used to remove circular dependencies between individual passes.</td></tr>
-<tr><td class="name"><a href="">InlineServiceDefinitionsPass</a></td><td class="description">Inline service definitions where this is possible.</td></tr>
-<tr><td class="name"><a href="">LoggingFormatter</a></td><td class="description">Used to format logging messages during the compilation.</td></tr>
-<tr><td class="name"><a href="">MergeExtensionConfigurationPass</a></td><td class="description">Merges extension configs into the container builder</td></tr>
-<tr><td class="name"><a href="">PassConfig</a></td><td class="description">Compiler Pass ConfigurationThis class has a default configuration embedded.</td></tr>
-<tr><td class="name"><a href="">RemoveAbstractDefinitionsPass</a></td><td class="description">Removes abstract Definitions</td></tr>
-<tr><td class="name"><a href="">RemovePrivateAliasesPass</a></td><td class="description">Remove private aliases from the container. </td></tr>
-<tr><td class="name"><a href="">RemoveUnusedDefinitionsPass</a></td><td class="description">Removes unused service definitions from the container.</td></tr>
-<tr><td class="name"><a href="">RepeatedPass</a></td><td class="description">A pass that might be run repeatedly.</td></tr>
-<tr><td class="name"><a href="">ReplaceAliasByActualDefinitionPass</a></td><td class="description">Replaces aliases with actual service definitions, effectively removing these
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/compiler/Compiler.md">Compiler</a></td><td class="description">This class is used to remove circular dependencies between individual passes.</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/compiler/InlineServiceDefinitionsPass.md">InlineServiceDefinitionsPass</a></td><td class="description">Inline service definitions where this is possible.</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/compiler/LoggingFormatter.md">LoggingFormatter</a></td><td class="description">Used to format logging messages during the compilation.</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/compiler/MergeExtensionConfigurationPass.md">MergeExtensionConfigurationPass</a></td><td class="description">Merges extension configs into the container builder</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/compiler/PassConfig.md">PassConfig</a></td><td class="description">Compiler Pass ConfigurationThis class has a default configuration embedded.</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/compiler/RemoveAbstractDefinitionsPass.md">RemoveAbstractDefinitionsPass</a></td><td class="description">Removes abstract Definitions</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/compiler/RemovePrivateAliasesPass.md">RemovePrivateAliasesPass</a></td><td class="description">Remove private aliases from the container. </td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/compiler/RemoveUnusedDefinitionsPass.md">RemoveUnusedDefinitionsPass</a></td><td class="description">Removes unused service definitions from the container.</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/compiler/RepeatedPass.md">RepeatedPass</a></td><td class="description">A pass that might be run repeatedly.</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/compiler/ReplaceAliasByActualDefinitionPass.md">ReplaceAliasByActualDefinitionPass</a></td><td class="description">Replaces aliases with actual service definitions, effectively removing these
 aliases.</td></tr>
-<tr><td class="name"><a href="">ResolveDefinitionTemplatesPass</a></td><td class="description">This replaces all DefinitionDecorator instances with their equivalent fully
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/compiler/ResolveDefinitionTemplatesPass.md">ResolveDefinitionTemplatesPass</a></td><td class="description">This replaces all DefinitionDecorator instances with their equivalent fully
 merged Definition instance.</td></tr>
-<tr><td class="name"><a href="">ResolveInvalidReferencesPass</a></td><td class="description">Emulates the invalid behavior if the reference is not found within the
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/compiler/ResolveInvalidReferencesPass.md">ResolveInvalidReferencesPass</a></td><td class="description">Emulates the invalid behavior if the reference is not found within the
 container.</td></tr>
-<tr><td class="name"><a href="">ResolveParameterPlaceHoldersPass</a></td><td class="description">Resolves all parameter placeholders "%somevalue%" to their real values.</td></tr>
-<tr><td class="name"><a href="">ResolveReferencesToAliasesPass</a></td><td class="description">Replaces all references to aliases with references to the actual service.</td></tr>
-<tr><td class="name"><a href="">ServiceReferenceGraph</a></td><td class="description">This is a directed graph of your services.
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/compiler/ResolveParameterPlaceHoldersPass.md">ResolveParameterPlaceHoldersPass</a></td><td class="description">Resolves all parameter placeholders "%somevalue%" to their real values.</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/compiler/ResolveReferencesToAliasesPass.md">ResolveReferencesToAliasesPass</a></td><td class="description">Replaces all references to aliases with references to the actual service.</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/compiler/ServiceReferenceGraph.md">ServiceReferenceGraph</a></td><td class="description">This is a directed graph of your services.
 </td></tr>
-<tr><td class="name"><a href="">ServiceReferenceGraphEdge</a></td><td class="description">Represents an edge in your service graph.
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/compiler/ServiceReferenceGraphEdge.md">ServiceReferenceGraphEdge</a></td><td class="description">Represents an edge in your service graph.
 </td></tr>
-<tr><td class="name"><a href="">ServiceReferenceGraphNode</a></td><td class="description">Represents a node in your service graph.
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/compiler/ServiceReferenceGraphNode.md">ServiceReferenceGraphNode</a></td><td class="description">Represents a node in your service graph.
 </td></tr>
 </table>
 
 <table class="title">
 <tr><th colspan="2" class="title">Interface Summary</th></tr>
-<tr><td class="name"><a href="">CompilerPassInterface</a></td><td class="description">Interface that must be implemented by compilation passes</td></tr>
-<tr><td class="name"><a href="">RepeatablePassInterface</a></td><td class="description">Interface that must be implemented by passes that are run as part of an
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/compiler/CompilerPassInterface.md">CompilerPassInterface</a></td><td class="description">Interface that must be implemented by compilation passes</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/compiler/RepeatablePassInterface.md">RepeatablePassInterface</a></td><td class="description">Interface that must be implemented by passes that are run as part of an
 RepeatedPass.</td></tr>
 </table>
 

@@ -14,7 +14,7 @@
 
 <dl>
 <dt>All Known Subclasses:</dt>
-<dd><a href="">DefinitionDecorator</a> </dd>
+<dd><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/DefinitionDecorator.md">DefinitionDecorator</a> </dd>
 </dl>
 
 

@@ -9,7 +9,7 @@
 
 #Class DocLexer#
 
-<a href="">Lexer</a>
+<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/Lexer.md">Lexer</a>
     * **DocLexer**
 
 
@@ -18,7 +18,7 @@
 - - -
 
 <p class="signature"><span class='k'>public final  class</span> <span class='nx'>DocLexer</span>
-extends <a href="">Lexer</a>
+extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/Lexer.md">Lexer</a>
 
 </p>
 
@@ -42,9 +42,9 @@ extends <a href="">Lexer</a>
 
 <table class="inherit">
 <tr><th colspan="2">Fields inherited from Doctrine\Common\Lexer</th></tr>
-<tr><td><a href="">lookahead</a>, <a href="">token</a></td></tr></table>
+<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/Lexer.md#lookahead">lookahead</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/Lexer.md#token">token</a></td></tr></table>
 
 <table class="inherit">
 <tr><th colspan="2">Methods inherited from Doctrine\Common\Lexer</th></tr>
-<tr><td><a href="">getCatchablePatterns</a>, <a href="">getLiteral</a>, <a href="">getNonCatchablePatterns</a>, <a href="">getType</a>, <a href="">glimpse</a>, <a href="">isA</a>, <a href="">isNextToken</a>, <a href="">isNextTokenAny</a>, <a href="">moveNext</a>, <a href="">peek</a>, <a href="">reset</a>, <a href="">resetPeek</a>, <a href="">resetPosition</a>, <a href="">scan</a>, <a href="">setInput</a>, <a href="">skipUntil</a></td></tr></table>
+<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/Lexer.md#getCatchablePatterns">getCatchablePatterns</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/Lexer.md#getLiteral">getLiteral</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/Lexer.md#getNonCatchablePatterns">getNonCatchablePatterns</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/Lexer.md#getType">getType</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/Lexer.md#glimpse">glimpse</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/Lexer.md#isA">isA</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/Lexer.md#isNextToken">isNextToken</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/Lexer.md#isNextTokenAny">isNextTokenAny</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/Lexer.md#moveNext">moveNext</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/Lexer.md#peek">peek</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/Lexer.md#reset">reset</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/Lexer.md#resetPeek">resetPeek</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/Lexer.md#resetPosition">resetPosition</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/Lexer.md#scan">scan</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/Lexer.md#setInput">setInput</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/Lexer.md#skipUntil">skipUntil</a></td></tr></table>
 
