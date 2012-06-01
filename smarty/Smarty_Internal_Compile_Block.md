@@ -1,10 +1,11 @@
 
+
 - - -
 
 **Smarty\Smarty_Internal_Compile_Block**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_compile_block.php#L18 class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_block.php at line 18</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_compile_block.php#L18" >framework\libs\smarty\sysplugins\smarty_internal_compile_block.php at line 18</a>
 
 #Class Smarty_Internal_Compile_Block#
 
@@ -16,7 +17,7 @@
 
 - - -
 
-<p class="signature">public  class **Smarty_Internal_Compile_Block**
+<p class="signature"><span class='k'>public  class</span> <span class='nx'>Smarty_Internal_Compile_Block</span>
 extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_compilebase.html">Smarty_Internal_CompileBase</a>
 
 </p>
@@ -78,7 +79,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_compile_block.php#L49 class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_block.php at line 49</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_compile_block.php#L49" >framework\libs\smarty\sysplugins\smarty_internal_compile_block.php at line 49</a>
 
 <h3 id="compile()">compile</h3>
 <span class='k'></span> <span class='nx'>boolean</span> <span class='nf'>compile</span> (array args, object compiler)
@@ -91,12 +92,13 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 <dt>Returns:</dt>
 <dd>true</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_compile_block.php#L76 class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_block.php at line 76</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_compile_block.php#L76" >framework\libs\smarty\sysplugins\smarty_internal_compile_block.php at line 76</a>
 
 <h3 id="saveBlockData()">saveBlockData</h3>
 <span class='k'>static </span> <span class='nx'>void</span> <span class='nf'>saveBlockData</span> (string block_content, string block_tag, object template, string filepath)
@@ -109,12 +111,13 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 <dd>template - template object</dd>
 <dd>filepath - filepath of template source</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_compile_block.php#L149 class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_block.php at line 149</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_compile_block.php#L149" >framework\libs\smarty\sysplugins\smarty_internal_compile_block.php at line 149</a>
 
 <h3 id="compileChildBlock()">compileChildBlock</h3>
 <span class='k'>static </span> <span class='nx'>string</span> <span class='nf'>compileChildBlock</span> (object compiler, string _name)
@@ -127,6 +130,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 <dt>Returns:</dt>
 <dd>compiled code of schild block</dd>
 </dl>
+
 </div>
 
 - - -

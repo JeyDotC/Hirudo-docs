@@ -1,10 +1,11 @@
 
+
 - - -
 
 **Doctrine\Common\Cache\ArrayCache**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/doctrine/common/cache/arraycache.php#L36 class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\ArrayCache.php at line 36</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Cache/ArrayCache.php#L36" >framework\libs\doctrine-common\Doctrine\Common\Cache\ArrayCache.php at line 36</a>
 
 #Class ArrayCache#
 
@@ -16,7 +17,7 @@
 
 - - -
 
-<p class="signature">public  class **ArrayCache**
+<p class="signature"><span class='k'>public  class</span> <span class='nx'>ArrayCache</span>
 extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/cache/cacheprovider.html">CacheProvider</a>
 
 </p>
@@ -75,7 +76,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/com
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/doctrine/common/cache/arraycache.php#L46 class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\ArrayCache.php at line 46</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Cache/ArrayCache.php#L46" >framework\libs\doctrine-common\Doctrine\Common\Cache\ArrayCache.php at line 46</a>
 
 <h3 id="doFetch()">doFetch</h3>
 <span class='k'>protected </span> <span class='nx'>string</span> <span class='nf'>doFetch</span> (string id)
@@ -87,12 +88,13 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/com
 <dt>Returns:</dt>
 <dd>The cached data or FALSE, if no cache entry exists for the given id.</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/doctrine/common/cache/arraycache.php#L54 class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\ArrayCache.php at line 54</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Cache/ArrayCache.php#L54" >framework\libs\doctrine-common\Doctrine\Common\Cache\ArrayCache.php at line 54</a>
 
 <h3 id="doContains()">doContains</h3>
 <span class='k'>protected </span> <span class='nx'>boolean</span> <span class='nf'>doContains</span> (string id)
@@ -104,12 +106,13 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/com
 <dt>Returns:</dt>
 <dd>TRUE if a cache entry exists for the given cache id, FALSE otherwise.</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/doctrine/common/cache/arraycache.php#L62 class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\ArrayCache.php at line 62</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Cache/ArrayCache.php#L62" >framework\libs\doctrine-common\Doctrine\Common\Cache\ArrayCache.php at line 62</a>
 
 <h3 id="doSave()">doSave</h3>
 <span class='k'>protected </span> <span class='nx'>boolean</span> <span class='nf'>doSave</span> (string id, string data, int lifeTime)
@@ -123,12 +126,13 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/com
 <dt>Returns:</dt>
 <dd>TRUE if the entry was successfully stored in the cache, FALSE otherwise.</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/doctrine/common/cache/arraycache.php#L72 class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\ArrayCache.php at line 72</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Cache/ArrayCache.php#L72" >framework\libs\doctrine-common\Doctrine\Common\Cache\ArrayCache.php at line 72</a>
 
 <h3 id="doDelete()">doDelete</h3>
 <span class='k'>protected </span> <span class='nx'>boolean</span> <span class='nf'>doDelete</span> (string id)
@@ -140,12 +144,13 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/com
 <dt>Returns:</dt>
 <dd>TRUE if the cache entry was successfully deleted, FALSE otherwise.</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/doctrine/common/cache/arraycache.php#L82 class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\ArrayCache.php at line 82</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Cache/ArrayCache.php#L82" >framework\libs\doctrine-common\Doctrine\Common\Cache\ArrayCache.php at line 82</a>
 
 <h3 id="doFlush()">doFlush</h3>
 <span class='k'>protected </span> <span class='nx'>boolean</span> <span class='nf'>doFlush</span> ()
@@ -155,12 +160,13 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/com
 <dt>Returns:</dt>
 <dd>TRUE if the cache entry was successfully deleted, FALSE otherwise.</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/doctrine/common/cache/arraycache.php#L92 class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\ArrayCache.php at line 92</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Cache/ArrayCache.php#L92" >framework\libs\doctrine-common\Doctrine\Common\Cache\ArrayCache.php at line 92</a>
 
 <h3 id="doGetStats()">doGetStats</h3>
 <span class='k'>protected </span> <span class='nx'>array</span> <span class='nf'>doGetStats</span> ()
@@ -172,6 +178,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/com
 <dt>Returns:</dt>
 <dd>An associative array with server's statistics if available, NULL otherwise.</dd>
 </dl>
+
 </div>
 
 - - -

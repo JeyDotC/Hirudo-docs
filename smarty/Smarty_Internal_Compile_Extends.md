@@ -1,10 +1,11 @@
 
+
 - - -
 
 **Smarty\Smarty_Internal_Compile_Extends**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_compile_extends.php#L19 class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_extends.php at line 19</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_compile_extends.php#L19" >framework\libs\smarty\sysplugins\smarty_internal_compile_extends.php at line 19</a>
 
 #Class Smarty_Internal_Compile_Extends#
 
@@ -16,7 +17,7 @@
 
 - - -
 
-<p class="signature">public  class **Smarty_Internal_Compile_Extends**
+<p class="signature"><span class='k'>public  class</span> <span class='nx'>Smarty_Internal_Compile_Extends</span>
 extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_compilebase.html">Smarty_Internal_CompileBase</a>
 
 </p>
@@ -70,7 +71,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_compile_extends.php#L49 class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_extends.php at line 49</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_compile_extends.php#L49" >framework\libs\smarty\sysplugins\smarty_internal_compile_extends.php at line 49</a>
 
 <h3 id="compile()">compile</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>compile</span> (array args, object compiler)
@@ -83,6 +84,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 <dt>Returns:</dt>
 <dd>compiled code</dd>
 </dl>
+
 </div>
 
 - - -

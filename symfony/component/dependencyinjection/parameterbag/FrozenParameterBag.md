@@ -1,10 +1,11 @@
 
+
 - - -
 
 **Symfony\Component\DependencyInjection\ParameterBag\FrozenParameterBag**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/parameterbag/frozenparameterbag.php#L20 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ParameterBag\FrozenParameterBag.php at line 20</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ParameterBag/FrozenParameterBag.php#L20" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\ParameterBag\FrozenParameterBag.php at line 20</a>
 
 #Class FrozenParameterBag#
 
@@ -16,7 +17,7 @@
 
 - - -
 
-<p class="signature">public  class **FrozenParameterBag**
+<p class="signature"><span class='k'>public  class</span> <span class='nx'>FrozenParameterBag</span>
 extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/parameterbag/parameterbag.html">ParameterBag</a>
 
 </p>
@@ -67,7 +68,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/comp
 
 <h2 id="detail_method">Constructor Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/parameterbag/frozenparameterbag.php#L34 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ParameterBag\FrozenParameterBag.php at line 34</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ParameterBag/FrozenParameterBag.php#L34" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\ParameterBag\FrozenParameterBag.php at line 34</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (array parameters)
@@ -79,13 +80,14 @@ all keys are already lowercased.</p><p>This is always the case when used interna
 <dd>parameters - An array of parameters</dd>
 <dt>Api.</dt>
 </dl>
+
 </div>
 
 - - -
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/parameterbag/frozenparameterbag.php#L45 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ParameterBag\FrozenParameterBag.php at line 45</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ParameterBag/FrozenParameterBag.php#L45" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\ParameterBag\FrozenParameterBag.php at line 45</a>
 
 <h3 id="clear()">clear</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>clear</span> ()
@@ -94,12 +96,13 @@ all keys are already lowercased.</p><p>This is always the case when used interna
 <p>Clears all parameters.</p><dl>
 <dt>Api.</dt>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/parameterbag/frozenparameterbag.php#L55 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ParameterBag\FrozenParameterBag.php at line 55</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ParameterBag/FrozenParameterBag.php#L55" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\ParameterBag\FrozenParameterBag.php at line 55</a>
 
 <h3 id="add()">add</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>add</span> (array parameters)
@@ -110,12 +113,13 @@ all keys are already lowercased.</p><p>This is always the case when used interna
 <dt>Parameters:</dt>
 <dd>parameters - An array of parameters</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/parameterbag/frozenparameterbag.php#L65 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ParameterBag\FrozenParameterBag.php at line 65</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ParameterBag/FrozenParameterBag.php#L65" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\ParameterBag\FrozenParameterBag.php at line 65</a>
 
 <h3 id="set()">set</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>set</span> (string name, mixed value)
@@ -127,6 +131,7 @@ all keys are already lowercased.</p><p>This is always the case when used interna
 <dd>name - The parameter name</dd>
 <dd>value - The parameter value</dd>
 </dl>
+
 </div>
 
 - - -

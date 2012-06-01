@@ -1,10 +1,11 @@
 
+
 - - -
 
 **Smarty\SmartyBC**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/smartybc.class.php#L42 class="location">framework\libs\smarty\SmartyBC.class.php at line 42</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/SmartyBC.class.php#L42" >framework\libs\smarty\SmartyBC.class.php at line 42</a>
 
 #Class SmartyBC#
 
@@ -18,7 +19,7 @@
 
 - - -
 
-<p class="signature">public  class **SmartyBC**
+<p class="signature"><span class='k'>public  class</span> <span class='nx'>SmartyBC</span>
 extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty.html">Smarty</a>
 
 </p>
@@ -215,7 +216,7 @@ or all compiled template files if one is not specified.
 
 <h2 id="detail_method">Constructor Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/smartybc.class.php#L55 class="location">framework\libs\smarty\SmartyBC.class.php at line 55</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/SmartyBC.class.php#L55" >framework\libs\smarty\SmartyBC.class.php at line 55</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (array options)
@@ -225,13 +226,14 @@ or all compiled template files if one is not specified.
 <dt>Parameters:</dt>
 <dd>options - options to set during initialization, e.g. array( 'forceCompile' => false )</dd>
 </dl>
+
 </div>
 
 - - -
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/smartybc.class.php#L68 class="location">framework\libs\smarty\SmartyBC.class.php at line 68</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/SmartyBC.class.php#L68" >framework\libs\smarty\SmartyBC.class.php at line 68</a>
 
 <h3 id="assign_by_ref()">assign_by_ref</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>assign_by_ref</span> (string tpl_var, mixed &$value, mixed value)
@@ -242,12 +244,13 @@ or all compiled template files if one is not specified.
 <dd>tpl_var - the template variable name</dd>
 <dd>&$value - the referenced value to assign</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/smartybc.class.php#L80 class="location">framework\libs\smarty\SmartyBC.class.php at line 80</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/SmartyBC.class.php#L80" >framework\libs\smarty\SmartyBC.class.php at line 80</a>
 
 <h3 id="append_by_ref()">append_by_ref</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>append_by_ref</span> (string tpl_var, mixed &$value, boolean merge, mixed value)
@@ -259,12 +262,13 @@ or all compiled template files if one is not specified.
 <dd>&$value - the referenced value to append</dd>
 <dd>merge - flag if array elements shall be merged</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/smartybc.class.php#L90 class="location">framework\libs\smarty\SmartyBC.class.php at line 90</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/SmartyBC.class.php#L90" >framework\libs\smarty\SmartyBC.class.php at line 90</a>
 
 <h3 id="clear_assign()">clear_assign</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>clear_assign</span> (string tpl_var)
@@ -274,12 +278,13 @@ or all compiled template files if one is not specified.
 <dt>Parameters:</dt>
 <dd>tpl_var - the template variable to clear</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/smartybc.class.php#L103 class="location">framework\libs\smarty\SmartyBC.class.php at line 103</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/SmartyBC.class.php#L103" >framework\libs\smarty\SmartyBC.class.php at line 103</a>
 
 <h3 id="register_function()">register_function</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>register_function</span> (string function, string function_impl, bool cacheable, mixed cache_attrs)
@@ -292,12 +297,13 @@ or all compiled template files if one is not specified.
 <dd></dd>
 <dd></dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/smartybc.class.php#L113 class="location">framework\libs\smarty\SmartyBC.class.php at line 113</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/SmartyBC.class.php#L113" >framework\libs\smarty\SmartyBC.class.php at line 113</a>
 
 <h3 id="unregister_function()">unregister_function</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>unregister_function</span> (string function)
@@ -307,12 +313,13 @@ or all compiled template files if one is not specified.
 <dt>Parameters:</dt>
 <dd>function - name of template function</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/smartybc.class.php#L127 class="location">framework\libs\smarty\SmartyBC.class.php at line 127</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/SmartyBC.class.php#L127" >framework\libs\smarty\SmartyBC.class.php at line 127</a>
 
 <h3 id="register_object()">register_object</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>register_object</span> (string object, object object_impl, array allowed, boolean smarty_args, array block_functs, mixed block_methods)
@@ -326,12 +333,13 @@ or all compiled template files if one is not specified.
 <dd>smarty_args - smarty argument format, else traditional</dd>
 <dd>block_functs - list of methods that are block format</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/smartybc.class.php#L139 class="location">framework\libs\smarty\SmartyBC.class.php at line 139</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/SmartyBC.class.php#L139" >framework\libs\smarty\SmartyBC.class.php at line 139</a>
 
 <h3 id="unregister_object()">unregister_object</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>unregister_object</span> (string object)
@@ -341,12 +349,13 @@ or all compiled template files if one is not specified.
 <dt>Parameters:</dt>
 <dd>object - name of template object</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/smartybc.class.php#L152 class="location">framework\libs\smarty\SmartyBC.class.php at line 152</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/SmartyBC.class.php#L152" >framework\libs\smarty\SmartyBC.class.php at line 152</a>
 
 <h3 id="register_block()">register_block</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>register_block</span> (string block, string block_impl, bool cacheable, mixed cache_attrs)
@@ -359,12 +368,13 @@ or all compiled template files if one is not specified.
 <dd></dd>
 <dd></dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/smartybc.class.php#L162 class="location">framework\libs\smarty\SmartyBC.class.php at line 162</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/SmartyBC.class.php#L162" >framework\libs\smarty\SmartyBC.class.php at line 162</a>
 
 <h3 id="unregister_block()">unregister_block</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>unregister_block</span> (string block)
@@ -374,12 +384,13 @@ or all compiled template files if one is not specified.
 <dt>Parameters:</dt>
 <dd>block - name of template function</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/smartybc.class.php#L174 class="location">framework\libs\smarty\SmartyBC.class.php at line 174</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/SmartyBC.class.php#L174" >framework\libs\smarty\SmartyBC.class.php at line 174</a>
 
 <h3 id="register_compiler_function()">register_compiler_function</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>register_compiler_function</span> (string function, string function_impl, bool cacheable)
@@ -391,12 +402,13 @@ or all compiled template files if one is not specified.
 <dd>function_impl - name of PHP function to register</dd>
 <dd></dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/smartybc.class.php#L184 class="location">framework\libs\smarty\SmartyBC.class.php at line 184</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/SmartyBC.class.php#L184" >framework\libs\smarty\SmartyBC.class.php at line 184</a>
 
 <h3 id="unregister_compiler_function()">unregister_compiler_function</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>unregister_compiler_function</span> (string function)
@@ -406,12 +418,13 @@ or all compiled template files if one is not specified.
 <dt>Parameters:</dt>
 <dd>function - name of template function</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/smartybc.class.php#L195 class="location">framework\libs\smarty\SmartyBC.class.php at line 195</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/SmartyBC.class.php#L195" >framework\libs\smarty\SmartyBC.class.php at line 195</a>
 
 <h3 id="register_modifier()">register_modifier</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>register_modifier</span> (string modifier, string modifier_impl)
@@ -422,12 +435,13 @@ or all compiled template files if one is not specified.
 <dd>modifier - name of template modifier</dd>
 <dd>modifier_impl - name of PHP function to register</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/smartybc.class.php#L205 class="location">framework\libs\smarty\SmartyBC.class.php at line 205</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/SmartyBC.class.php#L205" >framework\libs\smarty\SmartyBC.class.php at line 205</a>
 
 <h3 id="unregister_modifier()">unregister_modifier</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>unregister_modifier</span> (string modifier)
@@ -437,12 +451,13 @@ or all compiled template files if one is not specified.
 <dt>Parameters:</dt>
 <dd>modifier - name of template modifier</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/smartybc.class.php#L216 class="location">framework\libs\smarty\SmartyBC.class.php at line 216</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/SmartyBC.class.php#L216" >framework\libs\smarty\SmartyBC.class.php at line 216</a>
 
 <h3 id="register_resource()">register_resource</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>register_resource</span> (string type, array functions)
@@ -453,12 +468,13 @@ or all compiled template files if one is not specified.
 <dd>type - name of resource</dd>
 <dd>functions - array of functions to handle resource</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/smartybc.class.php#L226 class="location">framework\libs\smarty\SmartyBC.class.php at line 226</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/SmartyBC.class.php#L226" >framework\libs\smarty\SmartyBC.class.php at line 226</a>
 
 <h3 id="unregister_resource()">unregister_resource</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>unregister_resource</span> (string type)
@@ -468,81 +484,88 @@ or all compiled template files if one is not specified.
 <dt>Parameters:</dt>
 <dd>type - name of resource</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/smartybc.class.php#L237 class="location">framework\libs\smarty\SmartyBC.class.php at line 237</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/SmartyBC.class.php#L237" >framework\libs\smarty\SmartyBC.class.php at line 237</a>
 
 <h3 id="register_prefilter()">register_prefilter</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>register_prefilter</span> (callable function)
 
 <div class="details">
 <p>Registers a prefilter function to apply
-to a template before compiling</p></div>
+to a template before compiling</p>
+</div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/smartybc.class.php#L247 class="location">framework\libs\smarty\SmartyBC.class.php at line 247</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/SmartyBC.class.php#L247" >framework\libs\smarty\SmartyBC.class.php at line 247</a>
 
 <h3 id="unregister_prefilter()">unregister_prefilter</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>unregister_prefilter</span> (callable function)
 
 <div class="details">
-<p>Unregisters a prefilter function</p></div>
+<p>Unregisters a prefilter function</p>
+</div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/smartybc.class.php#L258 class="location">framework\libs\smarty\SmartyBC.class.php at line 258</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/SmartyBC.class.php#L258" >framework\libs\smarty\SmartyBC.class.php at line 258</a>
 
 <h3 id="register_postfilter()">register_postfilter</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>register_postfilter</span> (callable function)
 
 <div class="details">
 <p>Registers a postfilter function to apply
-to a compiled template after compilation</p></div>
+to a compiled template after compilation</p>
+</div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/smartybc.class.php#L268 class="location">framework\libs\smarty\SmartyBC.class.php at line 268</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/SmartyBC.class.php#L268" >framework\libs\smarty\SmartyBC.class.php at line 268</a>
 
 <h3 id="unregister_postfilter()">unregister_postfilter</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>unregister_postfilter</span> (callable function)
 
 <div class="details">
-<p>Unregisters a postfilter function</p></div>
+<p>Unregisters a postfilter function</p>
+</div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/smartybc.class.php#L279 class="location">framework\libs\smarty\SmartyBC.class.php at line 279</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/SmartyBC.class.php#L279" >framework\libs\smarty\SmartyBC.class.php at line 279</a>
 
 <h3 id="register_outputfilter()">register_outputfilter</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>register_outputfilter</span> (callable function)
 
 <div class="details">
 <p>Registers an output filter function to apply
-to a template output</p></div>
+to a template output</p>
+</div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/smartybc.class.php#L289 class="location">framework\libs\smarty\SmartyBC.class.php at line 289</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/SmartyBC.class.php#L289" >framework\libs\smarty\SmartyBC.class.php at line 289</a>
 
 <h3 id="unregister_outputfilter()">unregister_outputfilter</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>unregister_outputfilter</span> (callable function)
 
 <div class="details">
-<p>Unregisters an outputfilter function</p></div>
+<p>Unregisters an outputfilter function</p>
+</div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/smartybc.class.php#L300 class="location">framework\libs\smarty\SmartyBC.class.php at line 300</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/SmartyBC.class.php#L300" >framework\libs\smarty\SmartyBC.class.php at line 300</a>
 
 <h3 id="load_filter()">load_filter</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>load_filter</span> (string type, string name)
@@ -553,12 +576,13 @@ to a template output</p></div>
 <dd>type - filter type</dd>
 <dd>name - filter name</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/smartybc.class.php#L314 class="location">framework\libs\smarty\SmartyBC.class.php at line 314</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/SmartyBC.class.php#L314" >framework\libs\smarty\SmartyBC.class.php at line 314</a>
 
 <h3 id="clear_cache()">clear_cache</h3>
 <span class='k'></span> <span class='nx'>boolean</span> <span class='nf'>clear_cache</span> (string tpl_file, string cache_id, string compile_id, string exp_time)
@@ -571,12 +595,13 @@ to a template output</p></div>
 <dd>compile_id - name of compile_id</dd>
 <dd>exp_time - expiration time</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/smartybc.class.php#L325 class="location">framework\libs\smarty\SmartyBC.class.php at line 325</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/SmartyBC.class.php#L325" >framework\libs\smarty\SmartyBC.class.php at line 325</a>
 
 <h3 id="clear_all_cache()">clear_all_cache</h3>
 <span class='k'></span> <span class='nx'>boolean</span> <span class='nf'>clear_all_cache</span> (string exp_time)
@@ -586,12 +611,13 @@ to a template output</p></div>
 <dt>Parameters:</dt>
 <dd>exp_time - expire time</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/smartybc.class.php#L338 class="location">framework\libs\smarty\SmartyBC.class.php at line 338</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/SmartyBC.class.php#L338" >framework\libs\smarty\SmartyBC.class.php at line 338</a>
 
 <h3 id="is_cached()">is_cached</h3>
 <span class='k'></span> <span class='nx'>boolean</span> <span class='nf'>is_cached</span> (string tpl_file, string cache_id, string compile_id)
@@ -603,23 +629,25 @@ to a template output</p></div>
 <dd></dd>
 <dd></dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/smartybc.class.php#L346 class="location">framework\libs\smarty\SmartyBC.class.php at line 346</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/SmartyBC.class.php#L346" >framework\libs\smarty\SmartyBC.class.php at line 346</a>
 
 <h3 id="clear_all_assign()">clear_all_assign</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>clear_all_assign</span> ()
 
 <div class="details">
-<p>clear all the assigned template variables.</p></div>
+<p>clear all the assigned template variables.</p>
+</div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/smartybc.class.php#L361 class="location">framework\libs\smarty\SmartyBC.class.php at line 361</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/SmartyBC.class.php#L361" >framework\libs\smarty\SmartyBC.class.php at line 361</a>
 
 <h3 id="clear_compiled_tpl()">clear_compiled_tpl</h3>
 <span class='k'></span> <span class='nx'>boolean</span> <span class='nf'>clear_compiled_tpl</span> (string tpl_file, string compile_id, string exp_time)
@@ -631,84 +659,92 @@ This function is for advanced use only, not normally needed.</p><dl>
 <dt>Returns:</dt>
 <dd>results of {@link smarty_core_rm_auto()}</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/smartybc.class.php#L372 class="location">framework\libs\smarty\SmartyBC.class.php at line 372</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/SmartyBC.class.php#L372" >framework\libs\smarty\SmartyBC.class.php at line 372</a>
 
 <h3 id="template_exists()">template_exists</h3>
 <span class='k'></span> <span class='nx'>boolean</span> <span class='nf'>template_exists</span> (string tpl_file)
 
 <div class="details">
-<p>Checks whether requested template exists.</p></div>
+<p>Checks whether requested template exists.</p>
+</div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/smartybc.class.php#L383 class="location">framework\libs\smarty\SmartyBC.class.php at line 383</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/SmartyBC.class.php#L383" >framework\libs\smarty\SmartyBC.class.php at line 383</a>
 
 <h3 id="get_template_vars()">get_template_vars</h3>
 <span class='k'></span> <span class='nx'>array</span> <span class='nf'>get_template_vars</span> (string name)
 
 <div class="details">
-<p>Returns an array containing template variables</p></div>
+<p>Returns an array containing template variables</p>
+</div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/smartybc.class.php#L394 class="location">framework\libs\smarty\SmartyBC.class.php at line 394</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/SmartyBC.class.php#L394" >framework\libs\smarty\SmartyBC.class.php at line 394</a>
 
 <h3 id="get_config_vars()">get_config_vars</h3>
 <span class='k'></span> <span class='nx'>array</span> <span class='nf'>get_config_vars</span> (string name)
 
 <div class="details">
-<p>Returns an array containing config variables</p></div>
+<p>Returns an array containing config variables</p>
+</div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/smartybc.class.php#L406 class="location">framework\libs\smarty\SmartyBC.class.php at line 406</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/SmartyBC.class.php#L406" >framework\libs\smarty\SmartyBC.class.php at line 406</a>
 
 <h3 id="config_load()">config_load</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>config_load</span> (string file, string section, string scope)
 
 <div class="details">
-<p>load configuration values</p></div>
+<p>load configuration values</p>
+</div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/smartybc.class.php#L417 class="location">framework\libs\smarty\SmartyBC.class.php at line 417</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/SmartyBC.class.php#L417" >framework\libs\smarty\SmartyBC.class.php at line 417</a>
 
 <h3 id="get_registered_object()">get_registered_object</h3>
 <span class='k'></span> <span class='nx'>object</span> <span class='nf'>get_registered_object</span> (string name)
 
 <div class="details">
-<p>return a reference to a registered object</p></div>
+<p>return a reference to a registered object</p>
+</div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/smartybc.class.php#L427 class="location">framework\libs\smarty\SmartyBC.class.php at line 427</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/SmartyBC.class.php#L427" >framework\libs\smarty\SmartyBC.class.php at line 427</a>
 
 <h3 id="clear_config()">clear_config</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>clear_config</span> (string var)
 
 <div class="details">
-<p>clear configuration values</p></div>
+<p>clear configuration values</p>
+</div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/smartybc.class.php#L438 class="location">framework\libs\smarty\SmartyBC.class.php at line 438</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/SmartyBC.class.php#L438" >framework\libs\smarty\SmartyBC.class.php at line 438</a>
 
 <h3 id="trigger_error()">trigger_error</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>trigger_error</span> (string error_msg, integer error_type)
 
 <div class="details">
-<p>trigger Smarty error</p></div>
+<p>trigger Smarty error</p>
+</div>
 
 - - -
 

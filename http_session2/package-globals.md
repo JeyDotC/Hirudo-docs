@@ -14,7 +14,7 @@
 
 <h2 id="detail_global">Global Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/standalone/lib/http/session2.php#L117 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 117</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L117" >framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 117</a>
 
 <h3 id="STARTED">STARTED</h3>
 ```php

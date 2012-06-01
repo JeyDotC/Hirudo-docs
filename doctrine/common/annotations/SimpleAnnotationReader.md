@@ -1,10 +1,11 @@
 
+
 - - -
 
 **Doctrine\Common\Annotations\SimpleAnnotationReader**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/doctrine/common/annotations/simpleannotationreader.php#L34 class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\SimpleAnnotationReader.php at line 34</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/SimpleAnnotationReader.php#L34" >framework\libs\doctrine-common\Doctrine\Common\Annotations\SimpleAnnotationReader.php at line 34</a>
 
 #Class SimpleAnnotationReader#
 
@@ -13,14 +14,14 @@
 
 <dl>
 <dt>All Implemented Interfaces:</dt>
-<dd><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/annotations/reader.html">Reader</a> </dd>
+<dd><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/annotations/reader.md">Reader</a> </dd>
 </dl>
 
 
 
 - - -
 
-<p class="signature">public  class **SimpleAnnotationReader**</p>
+<p class="signature"><span class='k'>public  class</span> <span class='nx'>SimpleAnnotationReader</span></p>
 
 <div class="comment" id="overview_description"><p>Simple Annotation Reader.</p><p>This annotation reader is intended to be used in projects where you have
 full-control over all annotations that are available.</p></div>
@@ -79,30 +80,32 @@ full-control over all annotations that are available.</p></div>
 
 <h2 id="detail_method">Constructor Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/doctrine/common/annotations/simpleannotationreader.php#L46 class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\SimpleAnnotationReader.php at line 46</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/SimpleAnnotationReader.php#L46" >framework\libs\doctrine-common\Doctrine\Common\Annotations\SimpleAnnotationReader.php at line 46</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> ()
 
 <div class="details">
-<p>Constructor.</p><p>Initializes a new SimpleAnnotationReader.</p></div>
+<p>Constructor.</p><p>Initializes a new SimpleAnnotationReader.</p>
+</div>
 
 - - -
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/doctrine/common/annotations/simpleannotationreader.php#L57 class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\SimpleAnnotationReader.php at line 57</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/SimpleAnnotationReader.php#L57" >framework\libs\doctrine-common\Doctrine\Common\Annotations\SimpleAnnotationReader.php at line 57</a>
 
 <h3 id="addNamespace()">addNamespace</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>addNamespace</span> (string namespace)
 
 <div class="details">
-<p>Adds a namespace in which we will look for annotations.</p></div>
+<p>Adds a namespace in which we will look for annotations.</p>
+</div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/doctrine/common/annotations/simpleannotationreader.php#L69 class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\SimpleAnnotationReader.php at line 69</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/SimpleAnnotationReader.php#L69" >framework\libs\doctrine-common\Doctrine\Common\Annotations\SimpleAnnotationReader.php at line 69</a>
 
 <h3 id="getClassAnnotations()">getClassAnnotations</h3>
 <span class='k'></span> <span class='nx'>array</span> <span class='nf'>getClassAnnotations</span> (ReflectionClass class)
@@ -114,12 +117,13 @@ full-control over all annotations that are available.</p></div>
 <dt>Returns:</dt>
 <dd>An array of Annotations.</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/doctrine/common/annotations/simpleannotationreader.php#L81 class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\SimpleAnnotationReader.php at line 81</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/SimpleAnnotationReader.php#L81" >framework\libs\doctrine-common\Doctrine\Common\Annotations\SimpleAnnotationReader.php at line 81</a>
 
 <h3 id="getMethodAnnotations()">getMethodAnnotations</h3>
 <span class='k'></span> <span class='nx'>array</span> <span class='nf'>getMethodAnnotations</span> (ReflectionMethod property, ReflectionMethod method)
@@ -131,12 +135,13 @@ full-control over all annotations that are available.</p></div>
 <dt>Returns:</dt>
 <dd>An array of Annotations.</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/doctrine/common/annotations/simpleannotationreader.php#L93 class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\SimpleAnnotationReader.php at line 93</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/SimpleAnnotationReader.php#L93" >framework\libs\doctrine-common\Doctrine\Common\Annotations\SimpleAnnotationReader.php at line 93</a>
 
 <h3 id="getPropertyAnnotations()">getPropertyAnnotations</h3>
 <span class='k'></span> <span class='nx'>array</span> <span class='nf'>getPropertyAnnotations</span> (ReflectionProperty property)
@@ -148,12 +153,13 @@ full-control over all annotations that are available.</p></div>
 <dt>Returns:</dt>
 <dd>An array of Annotations.</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/doctrine/common/annotations/simpleannotationreader.php#L106 class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\SimpleAnnotationReader.php at line 106</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/SimpleAnnotationReader.php#L106" >framework\libs\doctrine-common\Doctrine\Common\Annotations\SimpleAnnotationReader.php at line 106</a>
 
 <h3 id="getClassAnnotation()">getClassAnnotation</h3>
 <span class='k'></span> <span class='nx'>The</span> <span class='nf'>getClassAnnotation</span> (ReflectionClass class, string annotationName)
@@ -166,12 +172,13 @@ full-control over all annotations that are available.</p></div>
 <dt>Returns:</dt>
 <dd>Annotation or NULL, if the requested annotation does not exist.</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/doctrine/common/annotations/simpleannotationreader.php#L124 class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\SimpleAnnotationReader.php at line 124</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/SimpleAnnotationReader.php#L124" >framework\libs\doctrine-common\Doctrine\Common\Annotations\SimpleAnnotationReader.php at line 124</a>
 
 <h3 id="getMethodAnnotation()">getMethodAnnotation</h3>
 <span class='k'></span> <span class='nx'>The</span> <span class='nf'>getMethodAnnotation</span> (ReflectionMethod method, string annotationName)
@@ -184,12 +191,13 @@ full-control over all annotations that are available.</p></div>
 <dt>Returns:</dt>
 <dd>Annotation or NULL, if the requested annotation does not exist.</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/doctrine/common/annotations/simpleannotationreader.php#L142 class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\SimpleAnnotationReader.php at line 142</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/SimpleAnnotationReader.php#L142" >framework\libs\doctrine-common\Doctrine\Common\Annotations\SimpleAnnotationReader.php at line 142</a>
 
 <h3 id="getPropertyAnnotation()">getPropertyAnnotation</h3>
 <span class='k'></span> <span class='nx'>The</span> <span class='nf'>getPropertyAnnotation</span> (ReflectionProperty property, string annotationName)
@@ -202,6 +210,7 @@ full-control over all annotations that are available.</p></div>
 <dt>Returns:</dt>
 <dd>Annotation or NULL, if the requested annotation does not exist.</dd>
 </dl>
+
 </div>
 
 - - -

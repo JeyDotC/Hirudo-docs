@@ -1,10 +1,11 @@
 
+
 - - -
 
 **Hirudo\Core\Exceptions\ApplicationNotFoundException**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/core/exceptions/applicationnotfoundexception.php#L29 class="location">framework\hirudo\Hirudo\Core\Exceptions\ApplicationNotFoundException.php at line 29</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Exceptions/ApplicationNotFoundException.php#L29" >framework\hirudo\Hirudo\Core\Exceptions\ApplicationNotFoundException.php at line 29</a>
 
 #Class ApplicationNotFoundException#
 
@@ -17,7 +18,7 @@
 
 - - -
 
-<p class="signature">public  class **ApplicationNotFoundException**
+<p class="signature"><span class='k'>public  class</span> <span class='nx'>ApplicationNotFoundException</span>
 extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/exceptions/hirudoexception.html">HirudoException</a>
 
 </p>
@@ -46,7 +47,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/
 
 <h2 id="detail_method">Constructor Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/core/exceptions/applicationnotfoundexception.php#L37 class="location">framework\hirudo\Hirudo\Core\Exceptions\ApplicationNotFoundException.php at line 37</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Exceptions/ApplicationNotFoundException.php#L37" >framework\hirudo\Hirudo\Core\Exceptions\ApplicationNotFoundException.php at line 37</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (string app, string path)
@@ -57,6 +58,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/
 <dd>app - The application name.</dd>
 <dd>path - The directory in which the application should be.</dd>
 </dl>
+
 </div>
 
 - - -

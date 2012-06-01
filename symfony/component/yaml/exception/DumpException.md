@@ -1,10 +1,11 @@
 
+
 - - -
 
 **Symfony\Component\Yaml\Exception\DumpException**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/yaml/exception/dumpexception.php#L21 class="location">framework\libs\symfony-components\Symfony\Component\Yaml\Exception\DumpException.php at line 21</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/Yaml/Exception/DumpException.php#L21" >framework\libs\symfony-components\Symfony\Component\Yaml\Exception\DumpException.php at line 21</a>
 
 #Class DumpException#
 
@@ -14,14 +15,14 @@
 
 <dl>
 <dt>All Implemented Interfaces:</dt>
-<dd><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/exception/exceptioninterface.html">Symfony\Component\DependencyInjection\Exception\ExceptionInterface</a> </dd>
+<dd><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/exception/exceptioninterface.md">Symfony\Component\DependencyInjection\Exception\ExceptionInterface</a> </dd>
 </dl>
 
 
 
 - - -
 
-<p class="signature">public  class **DumpException**
+<p class="signature"><span class='k'>public  class</span> <span class='nx'>DumpException</span>
 extends \RuntimeException
 
 </p>

@@ -1,10 +1,11 @@
 
+
 - - -
 
 **Hirudo\Models\Components\ComponentInterface**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/models/components/componentinterface.php#L28 class="location">framework\hirudo\Hirudo\Models\Components\ComponentInterface.php at line 28</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Models/Components/ComponentInterface.php#L28" >framework\hirudo\Hirudo\Models\Components\ComponentInterface.php at line 28</a>
 
 #Interface ComponentInterface#
 
@@ -15,7 +16,7 @@
 
 - - -
 
-<p class="signature">public  interface **ComponentInterface**</p>
+<p class="signature"><span class='k'>public  interface</span> <span class='nx'>ComponentInterface</span></p>
 
 <div class="comment" id="overview_description"><p></p></div>
 

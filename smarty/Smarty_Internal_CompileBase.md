@@ -1,10 +1,11 @@
 
+
 - - -
 
 **Smarty\Smarty_Internal_CompileBase**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_compilebase.php#L16 class="location">framework\libs\smarty\sysplugins\smarty_internal_compilebase.php at line 16</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_compilebase.php#L16" >framework\libs\smarty\sysplugins\smarty_internal_compilebase.php at line 16</a>
 
 #Class Smarty_Internal_CompileBase#
 
@@ -20,7 +21,7 @@
 
 - - -
 
-<p class="signature">public abstract  class **Smarty_Internal_CompileBase**</p>
+<p class="signature"><span class='k'>public abstract  class</span> <span class='nx'>Smarty_Internal_CompileBase</span></p>
 
 <div class="comment" id="overview_description"><p>This class does extend all internal compile plugins</p></div>
 
@@ -78,7 +79,7 @@ optional attributes. </p></td>
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_compilebase.php#L56 class="location">framework\libs\smarty\sysplugins\smarty_internal_compilebase.php at line 56</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_compilebase.php#L56" >framework\libs\smarty\sysplugins\smarty_internal_compilebase.php at line 56</a>
 
 <h3 id="getAttributes()">getAttributes</h3>
 <span class='k'></span> <span class='nx'>array</span> <span class='nf'>getAttributes</span> (object compiler, array attributes)
@@ -94,12 +95,13 @@ as valid</p><dl>
 <dt>Returns:</dt>
 <dd>of mapped attributes for further processing</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_compilebase.php#L136 class="location">framework\libs\smarty\sysplugins\smarty_internal_compilebase.php at line 136</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_compilebase.php#L136" >framework\libs\smarty\sysplugins\smarty_internal_compilebase.php at line 136</a>
 
 <h3 id="openTag()">openTag</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>openTag</span> (object compiler, string openTag, mixed data)
@@ -111,12 +113,13 @@ as valid</p><dl>
 <dd>openTag - the opening tag's name</dd>
 <dd>data - optional data saved</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_compilebase.php#L150 class="location">framework\libs\smarty\sysplugins\smarty_internal_compilebase.php at line 150</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_compilebase.php#L150" >framework\libs\smarty\sysplugins\smarty_internal_compilebase.php at line 150</a>
 
 <h3 id="closeTag()">closeTag</h3>
 <span class='k'></span> <span class='nx'>mixed</span> <span class='nf'>closeTag</span> (object compiler, array|string expectedTag)
@@ -129,6 +132,7 @@ as valid</p><dl>
 <dt>Returns:</dt>
 <dd>any type the opening tag's name or saved data</dd>
 </dl>
+
 </div>
 
 - - -

@@ -1,10 +1,11 @@
 
+
 - - -
 
 **Hirudo\Serialization\EntitySerializerBase**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/serialization/entityserializerbase.php#L29 class="location">framework\hirudo\Hirudo\Serialization\EntitySerializerBase.php at line 29</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Serialization/EntitySerializerBase.php#L29" >framework\hirudo\Hirudo\Serialization\EntitySerializerBase.php at line 29</a>
 
 #Class EntitySerializerBase#
 
@@ -20,7 +21,7 @@
 
 - - -
 
-<p class="signature">public abstract  class **EntitySerializerBase**</p>
+<p class="signature"><span class='k'>public abstract  class</span> <span class='nx'>EntitySerializerBase</span></p>
 
 <div class="comment" id="overview_description"><p>A base class for entity serialization.</p></div>
 
@@ -52,19 +53,20 @@ string representation.</p></td>
 
 <h2 id="detail_method">Constructor Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/serialization/entityserializerbase.php#L36 class="location">framework\hirudo\Hirudo\Serialization\EntitySerializerBase.php at line 36</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Serialization/EntitySerializerBase.php#L36" >framework\hirudo\Hirudo\Serialization\EntitySerializerBase.php at line 36</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> ()
 
 <div class="details">
-<p>Creates a new entity serializer.</p></div>
+<p>Creates a new entity serializer.</p>
+</div>
 
 - - -
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/serialization/entityserializerbase.php#L46 class="location">framework\hirudo\Hirudo\Serialization\EntitySerializerBase.php at line 46</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Serialization/EntitySerializerBase.php#L46" >framework\hirudo\Hirudo\Serialization\EntitySerializerBase.php at line 46</a>
 
 <h3 id="serialize()">serialize</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>serialize</span> (mixed entity)
@@ -76,12 +78,13 @@ string representation.</p></td>
 <dt>Returns:</dt>
 <dd>The string representing the entity.</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/serialization/entityserializerbase.php#L60 class="location">framework\hirudo\Hirudo\Serialization\EntitySerializerBase.php at line 60</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Serialization/EntitySerializerBase.php#L60" >framework\hirudo\Hirudo\Serialization\EntitySerializerBase.php at line 60</a>
 
 <h3 id="doSerialize()">doSerialize</h3>
 <span class='k'>protected abstract </span> <span class='nx'>string</span> <span class='nf'>doSerialize</span> (array array)
@@ -95,6 +98,7 @@ string representation.</p><dl>
 <dt>Returns:</dt>
 <dd>The string that represents the entity.</dd>
 </dl>
+
 </div>
 
 - - -

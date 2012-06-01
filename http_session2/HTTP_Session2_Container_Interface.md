@@ -1,10 +1,11 @@
 
+
 - - -
 
 **HTTP_Session2\HTTP_Session2_Container_Interface**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/standalone/lib/http/session2/container/interface.php#L57 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Interface.php at line 57</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/Interface.php#L57" >framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Interface.php at line 57</a>
 
 #Interface HTTP_Session2_Container_Interface#
 
@@ -15,7 +16,7 @@
 
 - - -
 
-<p class="signature">public  interface **HTTP_Session2_Container_Interface**</p>
+<p class="signature"><span class='k'>public  interface</span> <span class='nx'>HTTP_Session2_Container_Interface</span></p>
 
 <div class="comment" id="overview_description"><p>Container class for storing session data data</p></div>
 
@@ -69,7 +70,7 @@
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/standalone/lib/http/session2/container/interface.php#L67 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Interface.php at line 67</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/Interface.php#L67" >framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Interface.php at line 67</a>
 
 <h3 id="open()">open</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>open</span> (string save_path, string session_name)
@@ -80,23 +81,25 @@
 <dd>save_path - Path to save sessions in.</dd>
 <dd>session_name - Name of the session.</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/standalone/lib/http/session2/container/interface.php#L74 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Interface.php at line 74</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/Interface.php#L74" >framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Interface.php at line 74</a>
 
 <h3 id="close()">close</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>close</span> ()
 
 <div class="details">
-<p>close</p></div>
+<p>close</p>
+</div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/standalone/lib/http/session2/container/interface.php#L83 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Interface.php at line 83</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/Interface.php#L83" >framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Interface.php at line 83</a>
 
 <h3 id="read()">read</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>read</span> (string id)
@@ -106,12 +109,13 @@
 <dt>Parameters:</dt>
 <dd>id - The session ID.</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/standalone/lib/http/session2/container/interface.php#L93 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Interface.php at line 93</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/Interface.php#L93" >framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Interface.php at line 93</a>
 
 <h3 id="write()">write</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>write</span> (string id, string data)
@@ -122,12 +126,13 @@
 <dd>id - The session ID.</dd>
 <dd>data - The data to save/write.</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/standalone/lib/http/session2/container/interface.php#L102 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Interface.php at line 102</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/Interface.php#L102" >framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Interface.php at line 102</a>
 
 <h3 id="destroy()">destroy</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>destroy</span> (string id)
@@ -137,12 +142,13 @@
 <dt>Parameters:</dt>
 <dd>id - The session ID.</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/standalone/lib/http/session2/container/interface.php#L111 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Interface.php at line 111</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/Interface.php#L111" >framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Interface.php at line 111</a>
 
 <h3 id="gc()">gc</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>gc</span> (int maxlifetime)
@@ -152,12 +158,13 @@
 <dt>Parameters:</dt>
 <dd>maxlifetime - The session's maximum lifetime.</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/standalone/lib/http/session2/container/interface.php#L122 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Interface.php at line 122</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/Interface.php#L122" >framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Interface.php at line 122</a>
 
 <h3 id="replicate()">replicate</h3>
 <span class='k'></span> <span class='nx'>boolean</span> <span class='nf'>replicate</span> (string target, string id)
@@ -168,6 +175,7 @@
 <dd>target - Target to replicate to</dd>
 <dd>id - Id of record to replicate, if not specified current session id will be used</dd>
 </dl>
+
 </div>
 
 - - -

@@ -14,7 +14,7 @@
 
 <h2 id="detail_global">Global Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/core/util/message.php#L31 class="location">framework\hirudo\Hirudo\Core\Util\Message.php at line 31</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Util/Message.php#L31" >framework\hirudo\Hirudo\Core\Util\Message.php at line 31</a>
 
 <h3 id="INFO">INFO</h3>
 ```php

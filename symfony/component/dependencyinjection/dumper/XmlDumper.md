@@ -1,10 +1,11 @@
 
+
 - - -
 
 **Symfony\Component\DependencyInjection\Dumper\XmlDumper**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/dumper/xmldumper.php#L27 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Dumper\XmlDumper.php at line 27</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Dumper/XmlDumper.php#L27" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Dumper\XmlDumper.php at line 27</a>
 
 #Class XmlDumper#
 
@@ -16,7 +17,7 @@
 
 - - -
 
-<p class="signature">public  class **XmlDumper**
+<p class="signature"><span class='k'>public  class</span> <span class='nx'>XmlDumper</span>
 extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/dumper/dumper.html">Dumper</a>
 
 </p>
@@ -55,7 +56,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/comp
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/dumper/xmldumper.php#L43 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Dumper\XmlDumper.php at line 43</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Dumper/XmlDumper.php#L43" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Dumper\XmlDumper.php at line 43</a>
 
 <h3 id="dump()">dump</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>dump</span> (array options)
@@ -68,12 +69,13 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/comp
 <dd>An xml string representing of the service container</dd>
 <dt>Api.</dt>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/dumper/xmldumper.php#L288 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Dumper\XmlDumper.php at line 288</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Dumper/XmlDumper.php#L288" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Dumper\XmlDumper.php at line 288</a>
 
 <h3 id="phpToXml()">phpToXml</h3>
 <span class='k'>static </span> <span class='nx'>void</span> <span class='nf'>phpToXml</span> (mixed value)
@@ -85,6 +87,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/comp
 <dt>Throws:</dt>
 <dd><a href="../../../../symfony/component/dependencyinjection/exception/runtimeexception.html">\RuntimeException</a> - When trying to dump object or resource</dd>
 </dl>
+
 </div>
 
 - - -

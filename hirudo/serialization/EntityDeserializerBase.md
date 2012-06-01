@@ -1,10 +1,11 @@
 
+
 - - -
 
 **Hirudo\Serialization\EntityDeserializerBase**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/serialization/entitydeserializerbase.php#L29 class="location">framework\hirudo\Hirudo\Serialization\EntityDeserializerBase.php at line 29</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Serialization/EntityDeserializerBase.php#L29" >framework\hirudo\Hirudo\Serialization\EntityDeserializerBase.php at line 29</a>
 
 #Class EntityDeserializerBase#
 
@@ -20,7 +21,7 @@
 
 - - -
 
-<p class="signature">public abstract  class **EntityDeserializerBase**</p>
+<p class="signature"><span class='k'>public abstract  class</span> <span class='nx'>EntityDeserializerBase</span></p>
 
 <div class="comment" id="overview_description"><p>Base class for entity de-serializers.</p></div>
 
@@ -52,19 +53,20 @@ the conversion into an entity.</p></td>
 
 <h2 id="detail_method">Constructor Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/serialization/entitydeserializerbase.php#L36 class="location">framework\hirudo\Hirudo\Serialization\EntityDeserializerBase.php at line 36</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Serialization/EntityDeserializerBase.php#L36" >framework\hirudo\Hirudo\Serialization\EntityDeserializerBase.php at line 36</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> ()
 
 <div class="details">
-<p>Creates a new entity de-serializer.</p></div>
+<p>Creates a new entity de-serializer.</p>
+</div>
 
 - - -
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/serialization/entitydeserializerbase.php#L48 class="location">framework\hirudo\Hirudo\Serialization\EntityDeserializerBase.php at line 48</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Serialization/EntityDeserializerBase.php#L48" >framework\hirudo\Hirudo\Serialization\EntityDeserializerBase.php at line 48</a>
 
 <h3 id="deserialize()">deserialize</h3>
 <span class='k'></span> <span class='nx'>mixed</span> <span class='nf'>deserialize</span> (string class, string string)
@@ -77,12 +79,13 @@ the conversion into an entity.</p></td>
 <dt>Returns:</dt>
 <dd>An instance of the given class.</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/serialization/entitydeserializerbase.php#L67 class="location">framework\hirudo\Hirudo\Serialization\EntityDeserializerBase.php at line 67</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Serialization/EntityDeserializerBase.php#L67" >framework\hirudo\Hirudo\Serialization\EntityDeserializerBase.php at line 67</a>
 
 <h3 id="convertStringToArray()">convertStringToArray</h3>
 <span class='k'>protected abstract </span> <span class='nx'>array</span> <span class='nf'>convertStringToArray</span> (string string)
@@ -96,6 +99,7 @@ the conversion into an entity.</p><dl>
 <dt>Returns:</dt>
 <dd>An associative array that represents the entity.</dd>
 </dl>
+
 </div>
 
 - - -

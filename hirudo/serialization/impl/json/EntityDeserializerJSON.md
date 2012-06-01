@@ -1,10 +1,11 @@
 
+
 - - -
 
 **Hirudo\Serialization\Impl\Json\EntityDeserializerJSON**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/serialization/impl/json/entitydeserializerjson.php#L32 class="location">framework\hirudo\Hirudo\Serialization\Impl\Json\EntityDeserializerJSON.php at line 32</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Serialization/Impl/Json/EntityDeserializerJSON.php#L32" >framework\hirudo\Hirudo\Serialization\Impl\Json\EntityDeserializerJSON.php at line 32</a>
 
 #Class EntityDeserializerJSON#
 
@@ -16,7 +17,7 @@
 
 - - -
 
-<p class="signature">public  class **EntityDeserializerJSON**
+<p class="signature"><span class='k'>public  class</span> <span class='nx'>EntityDeserializerJSON</span>
 extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/serialization/entitydeserializerbase.html">EntityDeserializerBase</a>
 
 </p>
@@ -48,7 +49,7 @@ the conversion into an entity.</p></td>
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/serialization/impl/json/entitydeserializerjson.php#L34 class="location">framework\hirudo\Hirudo\Serialization\Impl\Json\EntityDeserializerJSON.php at line 34</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Serialization/Impl/Json/EntityDeserializerJSON.php#L34" >framework\hirudo\Hirudo\Serialization\Impl\Json\EntityDeserializerJSON.php at line 34</a>
 
 <h3 id="convertStringToArray()">convertStringToArray</h3>
 <span class='k'>protected </span> <span class='nx'>array</span> <span class='nf'>convertStringToArray</span> (string string)
@@ -62,6 +63,7 @@ the conversion into an entity.</p><dl>
 <dt>Returns:</dt>
 <dd>An associative array that represents the entity.</dd>
 </dl>
+
 </div>
 
 - - -

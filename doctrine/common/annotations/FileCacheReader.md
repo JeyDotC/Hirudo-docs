@@ -1,10 +1,11 @@
 
+
 - - -
 
 **Doctrine\Common\Annotations\FileCacheReader**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/doctrine/common/annotations/filecachereader.php#L29 class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\FileCacheReader.php at line 29</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/FileCacheReader.php#L29" >framework\libs\doctrine-common\Doctrine\Common\Annotations\FileCacheReader.php at line 29</a>
 
 #Class FileCacheReader#
 
@@ -15,7 +16,7 @@
 
 - - -
 
-<p class="signature">public  class **FileCacheReader**</p>
+<p class="signature"><span class='k'>public  class</span> <span class='nx'>FileCacheReader</span></p>
 
 <div class="comment" id="overview_description"><p>File cache reader for annotations.</p></div>
 
@@ -32,7 +33,7 @@
 <tr><th colspan="2">Constructor Summary</th></tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#__construct">__construct</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/doctrine/common/annotations/reader.html">Reader</a> reader, mixed cacheDir, bool debug)</p></td>
+<td class="description"><p class="name"><a href="#__construct">__construct</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/doctrine/common/annotations/reader.md">Reader</a> reader, mixed cacheDir, bool debug)</p></td>
 </tr>
 </table>
 
@@ -70,52 +71,56 @@
 
 <h2 id="detail_method">Constructor Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/doctrine/common/annotations/filecachereader.php#L39 class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\FileCacheReader.php at line 39</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/FileCacheReader.php#L39" >framework\libs\doctrine-common\Doctrine\Common\Annotations\FileCacheReader.php at line 39</a>
 
 <h3 id="__construct">__construct</h3>
-<span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/doctrine/common/annotations/reader.html">Reader</a> reader, mixed cacheDir, bool debug)
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/doctrine/common/annotations/reader.md">Reader</a> reader, mixed cacheDir, bool debug)
 
 <div class="details">
+
 </div>
 
 - - -
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/doctrine/common/annotations/filecachereader.php#L53 class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\FileCacheReader.php at line 53</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/FileCacheReader.php#L53" >framework\libs\doctrine-common\Doctrine\Common\Annotations\FileCacheReader.php at line 53</a>
 
 <h3 id="getClassAnnotations()">getClassAnnotations</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>getClassAnnotations</span> (ReflectionClass class)
 
 <div class="details">
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/doctrine/common/annotations/filecachereader.php#L81 class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\FileCacheReader.php at line 81</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/FileCacheReader.php#L81" >framework\libs\doctrine-common\Doctrine\Common\Annotations\FileCacheReader.php at line 81</a>
 
 <h3 id="getPropertyAnnotations()">getPropertyAnnotations</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>getPropertyAnnotations</span> (ReflectionProperty property)
 
 <div class="details">
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/doctrine/common/annotations/filecachereader.php#L110 class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\FileCacheReader.php at line 110</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/FileCacheReader.php#L110" >framework\libs\doctrine-common\Doctrine\Common\Annotations\FileCacheReader.php at line 110</a>
 
 <h3 id="getMethodAnnotations()">getMethodAnnotations</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>getMethodAnnotations</span> (ReflectionMethod method)
 
 <div class="details">
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/doctrine/common/annotations/filecachereader.php#L152 class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\FileCacheReader.php at line 152</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/FileCacheReader.php#L152" >framework\libs\doctrine-common\Doctrine\Common\Annotations\FileCacheReader.php at line 152</a>
 
 <h3 id="getClassAnnotation()">getClassAnnotation</h3>
 <span class='k'></span> <span class='nx'>The</span> <span class='nf'>getClassAnnotation</span> (ReflectionClass class, string annotationName)
@@ -128,12 +133,13 @@
 <dt>Returns:</dt>
 <dd>Annotation or NULL, if the requested annotation does not exist.</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/doctrine/common/annotations/filecachereader.php#L172 class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\FileCacheReader.php at line 172</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/FileCacheReader.php#L172" >framework\libs\doctrine-common\Doctrine\Common\Annotations\FileCacheReader.php at line 172</a>
 
 <h3 id="getMethodAnnotation()">getMethodAnnotation</h3>
 <span class='k'></span> <span class='nx'>The</span> <span class='nf'>getMethodAnnotation</span> (ReflectionMethod method, string annotationName)
@@ -146,12 +152,13 @@
 <dt>Returns:</dt>
 <dd>Annotation or NULL, if the requested annotation does not exist.</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/doctrine/common/annotations/filecachereader.php#L192 class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\FileCacheReader.php at line 192</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/FileCacheReader.php#L192" >framework\libs\doctrine-common\Doctrine\Common\Annotations\FileCacheReader.php at line 192</a>
 
 <h3 id="getPropertyAnnotation()">getPropertyAnnotation</h3>
 <span class='k'></span> <span class='nx'>The</span> <span class='nf'>getPropertyAnnotation</span> (ReflectionProperty property, string annotationName)
@@ -164,17 +171,19 @@
 <dt>Returns:</dt>
 <dd>Annotation or NULL, if the requested annotation does not exist.</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/doctrine/common/annotations/filecachereader.php#L205 class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\FileCacheReader.php at line 205</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/FileCacheReader.php#L205" >framework\libs\doctrine-common\Doctrine\Common\Annotations\FileCacheReader.php at line 205</a>
 
 <h3 id="clearLoadedAnnotations()">clearLoadedAnnotations</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>clearLoadedAnnotations</span> ()
 
 <div class="details">
+
 </div>
 
 - - -

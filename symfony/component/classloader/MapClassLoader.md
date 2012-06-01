@@ -1,10 +1,11 @@
 
+
 - - -
 
 **Symfony\Component\ClassLoader\MapClassLoader**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/classloader/mapclassloader.php#L19 class="location">framework\libs\symfony-components\Symfony\Component\ClassLoader\MapClassLoader.php at line 19</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/ClassLoader/MapClassLoader.php#L19" >framework\libs\symfony-components\Symfony\Component\ClassLoader\MapClassLoader.php at line 19</a>
 
 #Class MapClassLoader#
 
@@ -15,7 +16,7 @@
 
 - - -
 
-<p class="signature">public  class **MapClassLoader**</p>
+<p class="signature"><span class='k'>public  class</span> <span class='nx'>MapClassLoader</span></p>
 
 <div class="comment" id="overview_description"><p>A class loader that uses a mapping file to look up paths.</p></div>
 
@@ -53,7 +54,7 @@
 
 <h2 id="detail_method">Constructor Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/classloader/mapclassloader.php#L28 class="location">framework\libs\symfony-components\Symfony\Component\ClassLoader\MapClassLoader.php at line 28</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/ClassLoader/MapClassLoader.php#L28" >framework\libs\symfony-components\Symfony\Component\ClassLoader\MapClassLoader.php at line 28</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (array map)
@@ -63,13 +64,14 @@
 <dt>Parameters:</dt>
 <dd>map - A map where keys are classes and values the absolute file path</dd>
 </dl>
+
 </div>
 
 - - -
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/classloader/mapclassloader.php#L38 class="location">framework\libs\symfony-components\Symfony\Component\ClassLoader\MapClassLoader.php at line 38</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/ClassLoader/MapClassLoader.php#L38" >framework\libs\symfony-components\Symfony\Component\ClassLoader\MapClassLoader.php at line 38</a>
 
 <h3 id="register()">register</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>register</span> (Boolean prepend)
@@ -79,12 +81,13 @@
 <dt>Parameters:</dt>
 <dd>prepend - Whether to prepend the autoloader or not</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/classloader/mapclassloader.php#L48 class="location">framework\libs\symfony-components\Symfony\Component\ClassLoader\MapClassLoader.php at line 48</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/ClassLoader/MapClassLoader.php#L48" >framework\libs\symfony-components\Symfony\Component\ClassLoader\MapClassLoader.php at line 48</a>
 
 <h3 id="loadClass()">loadClass</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>loadClass</span> (string class)
@@ -94,12 +97,13 @@
 <dt>Parameters:</dt>
 <dd>class - The name of the class</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/classloader/mapclassloader.php#L66 class="location">framework\libs\symfony-components\Symfony\Component\ClassLoader\MapClassLoader.php at line 66</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/ClassLoader/MapClassLoader.php#L66" >framework\libs\symfony-components\Symfony\Component\ClassLoader\MapClassLoader.php at line 66</a>
 
 <h3 id="findFile()">findFile</h3>
 <span class='k'></span> <span class='nx'>string|null</span> <span class='nf'>findFile</span> (string class)
@@ -111,6 +115,7 @@
 <dt>Returns:</dt>
 <dd>The path, if found</dd>
 </dl>
+
 </div>
 
 - - -

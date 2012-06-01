@@ -1,10 +1,11 @@
 
+
 - - -
 
 **SampleApp\Modules\ErrorPage**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/sampleapp/modules/errorpage/errorpage.php#L12 class="location">src\SampleApp\Modules\ErrorPage\ErrorPage.php at line 12</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/SampleApp/Modules/ErrorPage/ErrorPage.php#L12" >src\SampleApp\Modules\ErrorPage\ErrorPage.php at line 12</a>
 
 #Class ErrorPage#
 
@@ -16,7 +17,7 @@
 
 - - -
 
-<p class="signature">public  class **ErrorPage**
+<p class="signature"><span class='k'>public  class</span> <span class='nx'>ErrorPage</span>
 extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/module.html">Module</a>
 
 </p>
@@ -49,12 +50,13 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/sampleapp/modules/errorpage/errorpage.php#L14 class="location">src\SampleApp\Modules\ErrorPage\ErrorPage.php at line 14</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/SampleApp/Modules/ErrorPage/ErrorPage.php#L14" >src\SampleApp\Modules\ErrorPage\ErrorPage.php at line 14</a>
 
 <h3 id="index()">index</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>index</span> ()
 
 <div class="details">
+
 </div>
 
 - - -

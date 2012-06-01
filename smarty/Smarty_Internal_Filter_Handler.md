@@ -1,10 +1,11 @@
 
+
 - - -
 
 **Smarty\Smarty_Internal_Filter_Handler**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_filter_handler.php#L18 class="location">framework\libs\smarty\sysplugins\smarty_internal_filter_handler.php at line 18</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_filter_handler.php#L18" >framework\libs\smarty\sysplugins\smarty_internal_filter_handler.php at line 18</a>
 
 #Class Smarty_Internal_Filter_Handler#
 
@@ -15,7 +16,7 @@
 
 - - -
 
-<p class="signature">public  class **Smarty_Internal_Filter_Handler**</p>
+<p class="signature"><span class='k'>public  class</span> <span class='nx'>Smarty_Internal_Filter_Handler</span></p>
 
 <div class="comment" id="overview_description"><p>Class for filter processing</p></div>
 
@@ -31,7 +32,7 @@
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td><span class='k'>static </span> <span class='nx'>string</span></td>
-<td class="description"><p class="name"><a href="#runfilter">runFilter</a>(string type, string content, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.html">Smarty_Internal_Template</a> template)</p><p class="description">Run filters over contentThe filters will be lazy loaded if required
+<td class="description"><p class="name"><a href="#runfilter">runFilter</a>(string type, string content, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.md">Smarty_Internal_Template</a> template)</p><p class="description">Run filters over contentThe filters will be lazy loaded if required
 class name format: Smarty_FilterType_FilterName
 plugin filename format: filtertype.filtername.php
 Smarty2 filter plugins could be used</p></td>
@@ -40,10 +41,10 @@ Smarty2 filter plugins could be used</p></td>
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_filter_handler.php#L33 class="location">framework\libs\smarty\sysplugins\smarty_internal_filter_handler.php at line 33</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_filter_handler.php#L33" >framework\libs\smarty\sysplugins\smarty_internal_filter_handler.php at line 33</a>
 
 <h3 id="runFilter()">runFilter</h3>
-<span class='k'>static </span> <span class='nx'>string</span> <span class='nf'>runFilter</span> (string type, string content, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.html">Smarty_Internal_Template</a> template)
+<span class='k'>static </span> <span class='nx'>string</span> <span class='nf'>runFilter</span> (string type, string content, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.md">Smarty_Internal_Template</a> template)
 
 <div class="details">
 <p>Run filters over content</p><p>The filters will be lazy loaded if required
@@ -57,6 +58,7 @@ Smarty2 filter plugins could be used</p><dl>
 <dt>Returns:</dt>
 <dd>the filtered content</dd>
 </dl>
+
 </div>
 
 - - -

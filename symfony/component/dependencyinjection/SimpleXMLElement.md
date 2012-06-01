@@ -1,10 +1,11 @@
 
+
 - - -
 
 **Symfony\Component\DependencyInjection\SimpleXMLElement**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/simplexmlelement.php#L19 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\SimpleXMLElement.php at line 19</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/SimpleXMLElement.php#L19" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\SimpleXMLElement.php at line 19</a>
 
 #Class SimpleXMLElement#
 
@@ -16,7 +17,7 @@
 
 - - -
 
-<p class="signature">public  class **SimpleXMLElement**
+<p class="signature"><span class='k'>public  class</span> <span class='nx'>SimpleXMLElement</span>
 extends \SimpleXMLElement
 
 </p>
@@ -49,35 +50,38 @@ extends \SimpleXMLElement
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/simplexmlelement.php#L27 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\SimpleXMLElement.php at line 27</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/SimpleXMLElement.php#L27" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\SimpleXMLElement.php at line 27</a>
 
 <h3 id="getAttributeAsPhp()">getAttributeAsPhp</h3>
 <span class='k'></span> <span class='nx'>mixed</span> <span class='nf'>getAttributeAsPhp</span> (string name)
 
 <div class="details">
-<p>Converts an attribute as a php type.</p></div>
+<p>Converts an attribute as a php type.</p>
+</div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/simplexmlelement.php#L40 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\SimpleXMLElement.php at line 40</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/SimpleXMLElement.php#L40" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\SimpleXMLElement.php at line 40</a>
 
 <h3 id="getArgumentsAsPhp()">getArgumentsAsPhp</h3>
 <span class='k'></span> <span class='nx'>mixed</span> <span class='nf'>getArgumentsAsPhp</span> (string name, Boolean lowercase)
 
 <div class="details">
-<p>Returns arguments as valid php types.</p></div>
+<p>Returns arguments as valid php types.</p>
+</div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/simplexmlelement.php#L100 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\SimpleXMLElement.php at line 100</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/SimpleXMLElement.php#L100" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\SimpleXMLElement.php at line 100</a>
 
 <h3 id="phpize()">phpize</h3>
 <span class='k'>static </span> <span class='nx'>mixed</span> <span class='nf'>phpize</span> (mixed value)
 
 <div class="details">
-<p>Converts an xml value to a php type.</p></div>
+<p>Converts an xml value to a php type.</p>
+</div>
 
 - - -
 

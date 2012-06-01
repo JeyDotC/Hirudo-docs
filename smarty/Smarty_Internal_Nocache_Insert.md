@@ -1,10 +1,11 @@
 
+
 - - -
 
 **Smarty\Smarty_Internal_Nocache_Insert**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_nocache_insert.php#L18 class="location">framework\libs\smarty\sysplugins\smarty_internal_nocache_insert.php at line 18</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_nocache_insert.php#L18" >framework\libs\smarty\sysplugins\smarty_internal_nocache_insert.php at line 18</a>
 
 #Class Smarty_Internal_Nocache_Insert#
 
@@ -15,7 +16,7 @@
 
 - - -
 
-<p class="signature">public  class **Smarty_Internal_Nocache_Insert**</p>
+<p class="signature"><span class='k'>public  class</span> <span class='nx'>Smarty_Internal_Nocache_Insert</span></p>
 
 <div class="comment" id="overview_description"><p>Smarty Internal Plugin Compile Insert Class</p></div>
 
@@ -31,16 +32,16 @@
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td><span class='k'>static </span> <span class='nx'>string</span></td>
-<td class="description"><p class="name"><a href="#compile">compile</a>(string _function, array _attr, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.html">Smarty_Internal_Template</a> _template, string _script, string _assign)</p><p class="description">Compiles code for the {insert} tag into cache file</p></td>
+<td class="description"><p class="name"><a href="#compile">compile</a>(string _function, array _attr, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.md">Smarty_Internal_Template</a> _template, string _script, string _assign)</p><p class="description">Compiles code for the {insert} tag into cache file</p></td>
 </tr>
 </table>
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_nocache_insert.php#L30 class="location">framework\libs\smarty\sysplugins\smarty_internal_nocache_insert.php at line 30</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_nocache_insert.php#L30" >framework\libs\smarty\sysplugins\smarty_internal_nocache_insert.php at line 30</a>
 
 <h3 id="compile()">compile</h3>
-<span class='k'>static </span> <span class='nx'>string</span> <span class='nf'>compile</span> (string _function, array _attr, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.html">Smarty_Internal_Template</a> _template, string _script, string _assign)
+<span class='k'>static </span> <span class='nx'>string</span> <span class='nf'>compile</span> (string _function, array _attr, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.md">Smarty_Internal_Template</a> _template, string _script, string _assign)
 
 <div class="details">
 <p>Compiles code for the {insert} tag into cache file</p><dl>
@@ -53,6 +54,7 @@
 <dt>Returns:</dt>
 <dd>compiled code</dd>
 </dl>
+
 </div>
 
 - - -

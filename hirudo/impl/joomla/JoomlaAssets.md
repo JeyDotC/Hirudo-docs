@@ -1,10 +1,11 @@
 
+
 - - -
 
 **Hirudo\Impl\Joomla\JoomlaAssets**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/joomla/joomlaassets.php#L14 class="location">framework\hirudo\Hirudo\Impl\Joomla\JoomlaAssets.php at line 14</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Joomla/JoomlaAssets.php#L14" >framework\hirudo\Hirudo\Impl\Joomla\JoomlaAssets.php at line 14</a>
 
 #Class JoomlaAssets#
 
@@ -16,7 +17,7 @@
 
 - - -
 
-<p class="signature">public  class **JoomlaAssets**
+<p class="signature"><span class='k'>public  class</span> <span class='nx'>JoomlaAssets</span>
 extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/assets.html">Assets</a>
 
 </p>
@@ -62,30 +63,32 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/
 
 <h2 id="detail_method">Constructor Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/joomla/joomlaassets.php#L18 class="location">framework\hirudo\Hirudo\Impl\Joomla\JoomlaAssets.php at line 18</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Joomla/JoomlaAssets.php#L18" >framework\hirudo\Hirudo\Impl\Joomla\JoomlaAssets.php at line 18</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> ()
 
 <div class="details">
+
 </div>
 
 - - -
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/joomla/joomlaassets.php#L23 class="location">framework\hirudo\Hirudo\Impl\Joomla\JoomlaAssets.php at line 23</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Joomla/JoomlaAssets.php#L23" >framework\hirudo\Hirudo\Impl\Joomla\JoomlaAssets.php at line 23</a>
 
 <h3 id="load()">load</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>load</span> (mixed assetPath)
 
 <div class="details">
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/joomla/joomlaassets.php#L28 class="location">framework\hirudo\Hirudo\Impl\Joomla\JoomlaAssets.php at line 28</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Joomla/JoomlaAssets.php#L28" >framework\hirudo\Hirudo\Impl\Joomla\JoomlaAssets.php at line 28</a>
 
 <h3 id="addCSS()">addCSS</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>addCSS</span> (string cssPath)
@@ -99,12 +102,13 @@ the tag.</p></p><dl>
 <dt>Returns:</dt>
 <dd>The link tag.</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/joomla/joomlaassets.php#L33 class="location">framework\hirudo\Hirudo\Impl\Joomla\JoomlaAssets.php at line 33</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Joomla/JoomlaAssets.php#L33" >framework\hirudo\Hirudo\Impl\Joomla\JoomlaAssets.php at line 33</a>
 
 <h3 id="addJavaScript()">addJavaScript</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>addJavaScript</span> (string jsPath)
@@ -118,6 +122,7 @@ the tag.</p></p><dl>
 <dt>Returns:</dt>
 <dd>The script tag.</dd>
 </dl>
+
 </div>
 
 - - -

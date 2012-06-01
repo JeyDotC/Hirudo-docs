@@ -1,10 +1,11 @@
 
+
 - - -
 
 **Hirudo\Impl\Joomla\JoomlaPrincipal**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/joomla/joomlaprincipal.php#L31 class="location">framework\hirudo\Hirudo\Impl\Joomla\JoomlaPrincipal.php at line 31</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Joomla/JoomlaPrincipal.php#L31" >framework\hirudo\Hirudo\Impl\Joomla\JoomlaPrincipal.php at line 31</a>
 
 #Class JoomlaPrincipal#
 
@@ -16,7 +17,7 @@
 
 - - -
 
-<p class="signature">public  class **JoomlaPrincipal**
+<p class="signature"><span class='k'>public  class</span> <span class='nx'>JoomlaPrincipal</span>
 extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/principal.html">Principal</a>
 
 </p>
@@ -57,30 +58,32 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/
 
 <h2 id="detail_method">Constructor Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/joomla/joomlaprincipal.php#L56 class="location">framework\hirudo\Hirudo\Impl\Joomla\JoomlaPrincipal.php at line 56</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Joomla/JoomlaPrincipal.php#L56" >framework\hirudo\Hirudo\Impl\Joomla\JoomlaPrincipal.php at line 56</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> ()
 
 <div class="details">
-<p>Creates a ne Principal object.</p></div>
+<p>Creates a ne Principal object.</p>
+</div>
 
 - - -
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/joomla/joomlaprincipal.php#L43 class="location">framework\hirudo\Hirudo\Impl\Joomla\JoomlaPrincipal.php at line 43</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Joomla/JoomlaPrincipal.php#L43" >framework\hirudo\Hirudo\Impl\Joomla\JoomlaPrincipal.php at line 43</a>
 
 <h3 id="instance()">instance</h3>
 <span class='k'>static </span> <span class='nx'>JPrincipal</span> <span class='nf'>instance</span> ()
 
 <div class="details">
-<p></p></div>
+<p></p>
+</div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/joomla/joomlaprincipal.php#L72 class="location">framework\hirudo\Hirudo\Impl\Joomla\JoomlaPrincipal.php at line 72</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Joomla/JoomlaPrincipal.php#L72" >framework\hirudo\Hirudo\Impl\Joomla\JoomlaPrincipal.php at line 72</a>
 
 <h3 id="isAnonimous()">isAnonimous</h3>
 <span class='k'></span> <span class='nx'>boolean</span> <span class='nf'>isAnonimous</span> ()
@@ -90,6 +93,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/
 <dt>Returns:</dt>
 <dd>True if this user is logged in, false otherwise.</dd>
 </dl>
+
 </div>
 
 - - -

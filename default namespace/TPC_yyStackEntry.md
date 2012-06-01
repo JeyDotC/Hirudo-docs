@@ -1,10 +1,11 @@
 
+
 - - -
 
 **Default namespace\TPC_yyStackEntry**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_configfileparser.php#L76 class="location">framework\libs\smarty\sysplugins\smarty_internal_configfileparser.php at line 76</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_configfileparser.php#L76" >framework\libs\smarty\sysplugins\smarty_internal_configfileparser.php at line 76</a>
 
 #Class TPC_yyStackEntry#
 
@@ -15,7 +16,7 @@
 
 - - -
 
-<p class="signature">public  class **TPC_yyStackEntry**</p>
+<p class="signature"><span class='k'>public  class</span> <span class='nx'>TPC_yyStackEntry</span></p>
 
 
 

@@ -1,10 +1,11 @@
 
+
 - - -
 
 **Smarty\Smarty_Internal_Compile_Nocache**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_compile_nocache.php#L18 class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_nocache.php at line 18</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_compile_nocache.php#L18" >framework\libs\smarty\sysplugins\smarty_internal_compile_nocache.php at line 18</a>
 
 #Class Smarty_Internal_Compile_Nocache#
 
@@ -16,7 +17,7 @@
 
 - - -
 
-<p class="signature">public  class **Smarty_Internal_Compile_Nocache**
+<p class="signature"><span class='k'>public  class</span> <span class='nx'>Smarty_Internal_Compile_Nocache</span>
 extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_compilebase.html">Smarty_Internal_CompileBase</a>
 
 </p>
@@ -49,7 +50,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_compile_nocache.php#L29 class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_nocache.php at line 29</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_compile_nocache.php#L29" >framework\libs\smarty\sysplugins\smarty_internal_compile_nocache.php at line 29</a>
 
 <h3 id="compile()">compile</h3>
 <span class='k'></span> <span class='nx'>bool</span> <span class='nf'>compile</span> (array args, object compiler)
@@ -60,6 +61,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 <dd>args - array with attributes from parser</dd>
 <dd>compiler - compiler object</dd>
 </dl>
+
 </div>
 
 - - -

@@ -1,10 +1,11 @@
 
+
 - - -
 
 **Hirudo\Core\Events\BeforeTaskEvent**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/core/events/beforetaskevent.php#L34 class="location">framework\hirudo\Hirudo\Core\Events\BeforeTaskEvent.php at line 34</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Events/BeforeTaskEvent.php#L34" >framework\hirudo\Hirudo\Core\Events\BeforeTaskEvent.php at line 34</a>
 
 #Class BeforeTaskEvent#
 
@@ -16,7 +17,7 @@
 
 - - -
 
-<p class="signature">public  class **BeforeTaskEvent**
+<p class="signature"><span class='k'>public  class</span> <span class='nx'>BeforeTaskEvent</span>
 extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/eventdispatcher/event.html">Event</a>
 
 </p>
@@ -51,7 +52,7 @@ are resolved.</p></div>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#replacecall">replaceCall</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/context/modulecall.html">ModuleCall</a> call)</p><p class="description">Replaces the call to be executed thus restarting the module execution
+<td class="description"><p class="name"><a href="#replacecall">replaceCall</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/context/modulecall.md">ModuleCall</a> call)</p><p class="description">Replaces the call to be executed thus restarting the module execution
 process to work acordingly to the new ModuleCall.</p></td>
 </tr>
 <tr>
@@ -70,7 +71,7 @@ process to work acordingly to the new ModuleCall.</p></td>
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/core/events/beforetaskevent.php#L47 class="location">framework\hirudo\Hirudo\Core\Events\BeforeTaskEvent.php at line 47</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Events/BeforeTaskEvent.php#L47" >framework\hirudo\Hirudo\Core\Events\BeforeTaskEvent.php at line 47</a>
 
 <h3 id="setParam()">setParam</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>setParam</span> (string name, mixed value)
@@ -81,12 +82,13 @@ process to work acordingly to the new ModuleCall.</p></td>
 <dd>name - The name of the parameter.</dd>
 <dd>value - The new parameter value.</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/core/events/beforetaskevent.php#L58 class="location">framework\hirudo\Hirudo\Core\Events\BeforeTaskEvent.php at line 58</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Events/BeforeTaskEvent.php#L58" >framework\hirudo\Hirudo\Core\Events\BeforeTaskEvent.php at line 58</a>
 
 <h3 id="getParam()">getParam</h3>
 <span class='k'></span> <span class='nx'>mixed</span> <span class='nf'>getParam</span> (string name)
@@ -98,15 +100,16 @@ process to work acordingly to the new ModuleCall.</p></td>
 <dt>Returns:</dt>
 <dd>The value of the parameter.</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/core/events/beforetaskevent.php#L68 class="location">framework\hirudo\Hirudo\Core\Events\BeforeTaskEvent.php at line 68</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Events/BeforeTaskEvent.php#L68" >framework\hirudo\Hirudo\Core\Events\BeforeTaskEvent.php at line 68</a>
 
 <h3 id="replaceCall()">replaceCall</h3>
-<span class='k'></span> <span class='nx'>void</span> <span class='nf'>replaceCall</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/context/modulecall.html">ModuleCall</a> call)
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>replaceCall</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/context/modulecall.md">ModuleCall</a> call)
 
 <div class="details">
 <p>Replaces the call to be executed thus restarting the module execution
@@ -114,23 +117,25 @@ process to work acordingly to the new ModuleCall.</p><dl>
 <dt>Parameters:</dt>
 <dd>call - The new call to be executed.</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/core/events/beforetaskevent.php#L78 class="location">framework\hirudo\Hirudo\Core\Events\BeforeTaskEvent.php at line 78</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Events/BeforeTaskEvent.php#L78" >framework\hirudo\Hirudo\Core\Events\BeforeTaskEvent.php at line 78</a>
 
 <h3 id="getCall()">getCall</h3>
 <span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/context/modulecall.html>ModuleCall</a></span> <span class='nf'>getCall</span> ()
 
 <div class="details">
-<p>Gets the current call.</p></div>
+<p>Gets the current call.</p>
+</div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/core/events/beforetaskevent.php#L88 class="location">framework\hirudo\Hirudo\Core\Events\BeforeTaskEvent.php at line 88</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Events/BeforeTaskEvent.php#L88" >framework\hirudo\Hirudo\Core\Events\BeforeTaskEvent.php at line 88</a>
 
 <h3 id="getCallReplaced()">getCallReplaced</h3>
 <span class='k'></span> <span class='nx'>boolean</span> <span class='nf'>getCallReplaced</span> ()
@@ -141,6 +146,7 @@ replaceCall method has been called.</p><dl>
 <dt>Returns:</dt>
 <dd>True if the call have been replaced, false otherwise.</dd>
 </dl>
+
 </div>
 
 - - -

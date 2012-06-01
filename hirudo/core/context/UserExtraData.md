@@ -1,10 +1,11 @@
 
+
 - - -
 
 **Hirudo\Core\Context\UserExtraData**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/core/context/principal.php#L29 class="location">framework\hirudo\Hirudo\Core\Context\Principal.php at line 29</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Context/Principal.php#L29" >framework\hirudo\Hirudo\Core\Context\Principal.php at line 29</a>
 
 #Class UserExtraData#
 
@@ -15,7 +16,7 @@
 
 - - -
 
-<p class="signature">public  class **UserExtraData**</p>
+<p class="signature"><span class='k'>public  class</span> <span class='nx'>UserExtraData</span></p>
 
 <div class="comment" id="overview_description"><p>A collection of data asociated to the user.</p><p>TODO: This class is an absurdity!</p></div>
 
@@ -41,34 +42,37 @@
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/core/context/principal.php#L33 class="location">framework\hirudo\Hirudo\Core\Context\Principal.php at line 33</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Context/Principal.php#L33" >framework\hirudo\Hirudo\Core\Context\Principal.php at line 33</a>
 
 <h3 id="add()">add</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>add</span> (mixed key, mixed value)
 
 <div class="details">
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/core/context/principal.php#L38 class="location">framework\hirudo\Hirudo\Core\Context\Principal.php at line 38</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Context/Principal.php#L38" >framework\hirudo\Hirudo\Core\Context\Principal.php at line 38</a>
 
 <h3 id="get()">get</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>get</span> (mixed key)
 
 <div class="details">
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/core/context/principal.php#L42 class="location">framework\hirudo\Hirudo\Core\Context\Principal.php at line 42</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Context/Principal.php#L42" >framework\hirudo\Hirudo\Core\Context\Principal.php at line 42</a>
 
 <h3 id="has()">has</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>has</span> (mixed key)
 
 <div class="details">
+
 </div>
 
 - - -

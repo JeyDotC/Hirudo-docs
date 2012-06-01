@@ -1,10 +1,11 @@
 
+
 - - -
 
 **Symfony\Component\DependencyInjection\Exception\ServiceCircularReferenceException**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/exception/servicecircularreferenceexception.php#L19 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Exception\ServiceCircularReferenceException.php at line 19</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Exception/ServiceCircularReferenceException.php#L19" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Exception\ServiceCircularReferenceException.php at line 19</a>
 
 #Class ServiceCircularReferenceException#
 
@@ -17,7 +18,7 @@
 
 - - -
 
-<p class="signature">public  class **ServiceCircularReferenceException**
+<p class="signature"><span class='k'>public  class</span> <span class='nx'>ServiceCircularReferenceException</span>
 extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/exception/runtimeexception.html">RuntimeException</a>
 
 </p>
@@ -54,35 +55,38 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/comp
 
 <h2 id="detail_method">Constructor Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/exception/servicecircularreferenceexception.php#L24 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Exception\ServiceCircularReferenceException.php at line 24</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Exception/ServiceCircularReferenceException.php#L24" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Exception\ServiceCircularReferenceException.php at line 24</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (mixed serviceId, mixed path)
 
 <div class="details">
+
 </div>
 
 - - -
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/exception/servicecircularreferenceexception.php#L32 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Exception\ServiceCircularReferenceException.php at line 32</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Exception/ServiceCircularReferenceException.php#L32" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Exception\ServiceCircularReferenceException.php at line 32</a>
 
 <h3 id="getServiceId()">getServiceId</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>getServiceId</span> ()
 
 <div class="details">
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/exception/servicecircularreferenceexception.php#L37 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Exception\ServiceCircularReferenceException.php at line 37</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Exception/ServiceCircularReferenceException.php#L37" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Exception\ServiceCircularReferenceException.php at line 37</a>
 
 <h3 id="getPath()">getPath</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>getPath</span> ()
 
 <div class="details">
+
 </div>
 
 - - -

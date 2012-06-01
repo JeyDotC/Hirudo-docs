@@ -1,10 +1,11 @@
 
+
 - - -
 
 **Doctrine\Common\Annotations\Annotation\Target**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/doctrine/common/annotations/annotation/target.php#L31 class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\Annotation\Target.php at line 31</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/Annotation/Target.php#L31" >framework\libs\doctrine-common\Doctrine\Common\Annotations\Annotation\Target.php at line 31</a>
 
 #Class Target#
 
@@ -15,7 +16,7 @@
 
 - - -
 
-<p class="signature">public final  class **Target**</p>
+<p class="signature"><span class='k'>public final  class</span> <span class='nx'>Target</span></p>
 
 <div class="comment" id="overview_description"><p>Annotation that can be used to signal to the parser
 to check the annotation target during the parsing process.</p></div>
@@ -60,13 +61,14 @@ to check the annotation target during the parsing process.</p></div>
 
 <h2 id="detail_method">Constructor Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/doctrine/common/annotations/annotation/target.php#L59 class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\Annotation\Target.php at line 59</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/Annotation/Target.php#L59" >framework\libs\doctrine-common\Doctrine\Common\Annotations\Annotation\Target.php at line 59</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (array values)
 
 <div class="details">
-<p>Annotation construct</p></div>
+<p>Annotation construct</p>
+</div>
 
 - - -
 

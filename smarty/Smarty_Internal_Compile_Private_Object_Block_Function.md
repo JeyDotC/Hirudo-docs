@@ -1,10 +1,11 @@
 
+
 - - -
 
 **Smarty\Smarty_Internal_Compile_Private_Object_Block_Function**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_compile_private_object_block_function.php#L18 class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_private_object_block_function.php at line 18</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_compile_private_object_block_function.php#L18" >framework\libs\smarty\sysplugins\smarty_internal_compile_private_object_block_function.php at line 18</a>
 
 #Class Smarty_Internal_Compile_Private_Object_Block_Function#
 
@@ -16,7 +17,7 @@
 
 - - -
 
-<p class="signature">public  class **Smarty_Internal_Compile_Private_Object_Block_Function**
+<p class="signature"><span class='k'>public  class</span> <span class='nx'>Smarty_Internal_Compile_Private_Object_Block_Function</span>
 extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_compilebase.html">Smarty_Internal_CompileBase</a>
 
 </p>
@@ -60,7 +61,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_compile_private_object_block_function.php#L38 class="location">framework\libs\smarty\sysplugins\smarty_internal_compile_private_object_block_function.php at line 38</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_compile_private_object_block_function.php#L38" >framework\libs\smarty\sysplugins\smarty_internal_compile_private_object_block_function.php at line 38</a>
 
 <h3 id="compile()">compile</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>compile</span> (array args, object compiler, array parameter, string tag, string method)
@@ -76,6 +77,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 <dt>Returns:</dt>
 <dd>compiled code</dd>
 </dl>
+
 </div>
 
 - - -

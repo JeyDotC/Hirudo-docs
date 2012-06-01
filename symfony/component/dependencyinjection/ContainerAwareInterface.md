@@ -1,10 +1,11 @@
 
+
 - - -
 
 **Symfony\Component\DependencyInjection\ContainerAwareInterface**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/containerawareinterface.php#L21 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerAwareInterface.php at line 21</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ContainerAwareInterface.php#L21" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerAwareInterface.php at line 21</a>
 
 #Interface ContainerAwareInterface#
 
@@ -15,7 +16,7 @@
 
 - - -
 
-<p class="signature">public  interface **ContainerAwareInterface**</p>
+<p class="signature"><span class='k'>public  interface</span> <span class='nx'>ContainerAwareInterface</span></p>
 
 <div class="comment" id="overview_description"><p>ContainerAwareInterface should be implemented by classes that depends on a Container.</p></div>
 
@@ -32,16 +33,16 @@
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#setcontainer">setContainer</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/containerinterface.html">ContainerInterface</a> container)</p><p class="description">Sets the Container.</p></td>
+<td class="description"><p class="name"><a href="#setcontainer">setContainer</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/containerinterface.md">ContainerInterface</a> container)</p><p class="description">Sets the Container.</p></td>
 </tr>
 </table>
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/containerawareinterface.php#L30 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerAwareInterface.php at line 30</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ContainerAwareInterface.php#L30" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerAwareInterface.php at line 30</a>
 
 <h3 id="setContainer()">setContainer</h3>
-<span class='k'></span> <span class='nx'>void</span> <span class='nf'>setContainer</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/containerinterface.html">ContainerInterface</a> container)
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>setContainer</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/containerinterface.md">ContainerInterface</a> container)
 
 <div class="details">
 <p>Sets the Container.</p><dl>
@@ -49,6 +50,7 @@
 <dd>container - A ContainerInterface instance</dd>
 <dt>Api.</dt>
 </dl>
+
 </div>
 
 - - -

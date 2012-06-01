@@ -1,10 +1,11 @@
 
+
 - - -
 
 **Symfony\Component\DependencyInjection\ParameterBag\ParameterBagInterface**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/parameterbag/parameterbaginterface.php#L23 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ParameterBag\ParameterBagInterface.php at line 23</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ParameterBag/ParameterBagInterface.php#L23" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\ParameterBag\ParameterBagInterface.php at line 23</a>
 
 #Interface ParameterBagInterface#
 
@@ -15,7 +16,7 @@
 
 - - -
 
-<p class="signature">public  interface **ParameterBagInterface**</p>
+<p class="signature"><span class='k'>public  interface</span> <span class='nx'>ParameterBagInterface</span></p>
 
 <div class="comment" id="overview_description"><p>ParameterBagInterface.</p></div>
 
@@ -66,7 +67,7 @@
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/parameterbag/parameterbaginterface.php#L30 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ParameterBag\ParameterBagInterface.php at line 30</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ParameterBag/ParameterBagInterface.php#L30" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\ParameterBag\ParameterBagInterface.php at line 30</a>
 
 <h3 id="clear()">clear</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>clear</span> ()
@@ -75,12 +76,13 @@
 <p>Clears all parameters.</p><dl>
 <dt>Api.</dt>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/parameterbag/parameterbaginterface.php#L39 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ParameterBag\ParameterBagInterface.php at line 39</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ParameterBag/ParameterBagInterface.php#L39" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\ParameterBag\ParameterBagInterface.php at line 39</a>
 
 <h3 id="add()">add</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>add</span> (array parameters)
@@ -91,12 +93,13 @@
 <dd>parameters - An array of parameters</dd>
 <dt>Api.</dt>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/parameterbag/parameterbaginterface.php#L48 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ParameterBag\ParameterBagInterface.php at line 48</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ParameterBag/ParameterBagInterface.php#L48" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\ParameterBag\ParameterBagInterface.php at line 48</a>
 
 <h3 id="all()">all</h3>
 <span class='k'></span> <span class='nx'>array</span> <span class='nf'>all</span> ()
@@ -107,12 +110,13 @@
 <dd>An array of parameters</dd>
 <dt>Api.</dt>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/parameterbag/parameterbaginterface.php#L61 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ParameterBag\ParameterBagInterface.php at line 61</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ParameterBag/ParameterBagInterface.php#L61" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\ParameterBag\ParameterBagInterface.php at line 61</a>
 
 <h3 id="get()">get</h3>
 <span class='k'></span> <span class='nx'>mixed</span> <span class='nf'>get</span> (string name)
@@ -127,12 +131,13 @@
 <dd><a href="../../../../symfony/component/dependencyinjection/exception/parameternotfoundexception.html">ParameterNotFoundException</a> - if the parameter is not defined</dd>
 <dt>Api.</dt>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/parameterbag/parameterbaginterface.php#L71 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ParameterBag\ParameterBagInterface.php at line 71</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ParameterBag/ParameterBagInterface.php#L71" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\ParameterBag\ParameterBagInterface.php at line 71</a>
 
 <h3 id="set()">set</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>set</span> (string name, mixed value)
@@ -144,12 +149,13 @@
 <dd>value - The parameter value</dd>
 <dt>Api.</dt>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/parameterbag/parameterbaginterface.php#L82 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ParameterBag\ParameterBagInterface.php at line 82</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ParameterBag/ParameterBagInterface.php#L82" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\ParameterBag\ParameterBagInterface.php at line 82</a>
 
 <h3 id="has()">has</h3>
 <span class='k'></span> <span class='nx'>Boolean</span> <span class='nf'>has</span> (string name)
@@ -162,23 +168,25 @@
 <dd>true if the parameter name is defined, false otherwise</dd>
 <dt>Api.</dt>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/parameterbag/parameterbaginterface.php#L87 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ParameterBag\ParameterBagInterface.php at line 87</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ParameterBag/ParameterBagInterface.php#L87" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\ParameterBag\ParameterBagInterface.php at line 87</a>
 
 <h3 id="resolve()">resolve</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>resolve</span> ()
 
 <div class="details">
-<p>Replaces parameter placeholders (%name%) by their values for all parameters.</p></div>
+<p>Replaces parameter placeholders (%name%) by their values for all parameters.</p>
+</div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/parameterbag/parameterbaginterface.php#L96 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\ParameterBag\ParameterBagInterface.php at line 96</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ParameterBag/ParameterBagInterface.php#L96" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\ParameterBag\ParameterBagInterface.php at line 96</a>
 
 <h3 id="resolveValue()">resolveValue</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>resolveValue</span> (mixed value)
@@ -190,6 +198,7 @@
 <dt>Throws:</dt>
 <dd><a href="../../../../symfony/component/dependencyinjection/exception/parameternotfoundexception.html">ParameterNotFoundException</a> - if a placeholder references a parameter that does not exist</dd>
 </dl>
+
 </div>
 
 - - -

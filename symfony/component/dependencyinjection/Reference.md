@@ -1,10 +1,11 @@
 
+
 - - -
 
 **Symfony\Component\DependencyInjection\Reference**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/reference.php#L21 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Reference.php at line 21</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Reference.php#L21" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Reference.php at line 21</a>
 
 #Class Reference#
 
@@ -15,7 +16,7 @@
 
 - - -
 
-<p class="signature">public  class **Reference**</p>
+<p class="signature"><span class='k'>public  class</span> <span class='nx'>Reference</span></p>
 
 <div class="comment" id="overview_description"><p>Reference represents a service reference.</p></div>
 
@@ -50,7 +51,7 @@
 
 <h2 id="detail_method">Constructor Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/reference.php#L36 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Reference.php at line 36</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Reference.php#L36" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Reference.php at line 36</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (string id, int invalidBehavior, Boolean strict)
@@ -64,30 +65,33 @@
 <dt>See Also:</dt>
 <dd><a href="../../../symfony/component/dependencyinjection/container.html">Container</a></dd>
 </dl>
+
 </div>
 
 - - -
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/reference.php#L58 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Reference.php at line 58</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Reference.php#L58" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Reference.php at line 58</a>
 
 <h3 id="getInvalidBehavior()">getInvalidBehavior</h3>
 <span class='k'></span> <span class='nx'>int</span> <span class='nf'>getInvalidBehavior</span> ()
 
 <div class="details">
-<p>Returns the behavior to be used when the service does not exist.</p></div>
+<p>Returns the behavior to be used when the service does not exist.</p>
+</div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/reference.php#L68 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Reference.php at line 68</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Reference.php#L68" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Reference.php at line 68</a>
 
 <h3 id="isStrict()">isStrict</h3>
 <span class='k'></span> <span class='nx'>Boolean</span> <span class='nf'>isStrict</span> ()
 
 <div class="details">
-<p>Returns true when this Reference is strict</p></div>
+<p>Returns true when this Reference is strict</p>
+</div>
 
 - - -
 

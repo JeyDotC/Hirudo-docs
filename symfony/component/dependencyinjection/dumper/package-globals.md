@@ -14,7 +14,7 @@
 
 <h2 id="detail_global">Global Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/dumper/phpdumper.php#L37 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Dumper\PhpDumper.php at line 37</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Dumper/PhpDumper.php#L37" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Dumper\PhpDumper.php at line 37</a>
 
 <h3 id="FIRST_CHARS">FIRST_CHARS</h3>
 ```php

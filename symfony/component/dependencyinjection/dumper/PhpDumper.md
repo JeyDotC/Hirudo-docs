@@ -1,10 +1,11 @@
 
+
 - - -
 
 **Symfony\Component\DependencyInjection\Dumper\PhpDumper**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/dumper/phpdumper.php#L31 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Dumper\PhpDumper.php at line 31</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Dumper/PhpDumper.php#L31" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Dumper\PhpDumper.php at line 31</a>
 
 #Class PhpDumper#
 
@@ -16,7 +17,7 @@
 
 - - -
 
-<p class="signature">public  class **PhpDumper**
+<p class="signature"><span class='k'>public  class</span> <span class='nx'>PhpDumper</span>
 extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/dumper/dumper.html">Dumper</a>
 
 </p>
@@ -41,7 +42,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/comp
 <tr><th colspan="2">Constructor Summary</th></tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#__construct">__construct</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/containerbuilder.html">ContainerBuilder</a> container)</p><p class="description">Constructor.</p></td>
+<td class="description"><p class="name"><a href="#__construct">__construct</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/containerbuilder.md">ContainerBuilder</a> container)</p><p class="description">Constructor.</p></td>
 </tr>
 </table>
 
@@ -64,10 +65,10 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/comp
 
 <h2 id="detail_method">Constructor Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/dumper/phpdumper.php#L44 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Dumper\PhpDumper.php at line 44</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Dumper/PhpDumper.php#L44" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Dumper\PhpDumper.php at line 44</a>
 
 <h3 id="__construct">__construct</h3>
-<span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/containerbuilder.html">ContainerBuilder</a> container)
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/containerbuilder.md">ContainerBuilder</a> container)
 
 <div class="details">
 <p>Constructor.</p><dl>
@@ -75,13 +76,14 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/comp
 <dt>Parameters:</dt>
 <dd>container - The service container to dump</dd>
 </dl>
+
 </div>
 
 - - -
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/dumper/phpdumper.php#L65 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Dumper\PhpDumper.php at line 65</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Dumper/PhpDumper.php#L65" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Dumper\PhpDumper.php at line 65</a>
 
 <h3 id="dump()">dump</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>dump</span> (array options)
@@ -95,18 +97,20 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/comp
 <dd>A PHP class representing of the service container</dd>
 <dt>Api.</dt>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/dumper/phpdumper.php#L1030 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Dumper\PhpDumper.php at line 1030</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Dumper/PhpDumper.php#L1030" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Dumper\PhpDumper.php at line 1030</a>
 
 <h3 id="dumpParameter()">dumpParameter</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>dumpParameter</span> (string name)
 
 <div class="details">
-<p>Dumps a parameter</p></div>
+<p>Dumps a parameter</p>
+</div>
 
 - - -
 

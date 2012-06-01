@@ -16,7 +16,7 @@
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name"><a href="#smarty_block_textformat">smarty_block_textformat</a>(array params, string content, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.html">Smarty_Internal_Template</a> template, boolean &$repeat, mixed repeat)</p><p class="description">Smarty {textformat}{/textformat} block pluginType:     block function
+<td class="description"><p class="name"><a href="#smarty_block_textformat">smarty_block_textformat</a>(array params, string content, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.md">Smarty_Internal_Template</a> template, boolean &$repeat, mixed repeat)</p><p class="description">Smarty {textformat}{/textformat} block pluginType:     block function
 Name:     textformat
 Purpose:  format text a certain way with preset styles
 or custom wrap/indent settings
@@ -34,13 +34,13 @@ wrap_boundary - boolean (true)
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string|null</span></td>
-<td class="description"><p class="name"><a href="#smarty_function_counter">smarty_function_counter</a>(array params, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.html">Smarty_Internal_Template</a> template)</p><p class="description">Smarty {counter} function pluginType:     function
+<td class="description"><p class="name"><a href="#smarty_function_counter">smarty_function_counter</a>(array params, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.md">Smarty_Internal_Template</a> template)</p><p class="description">Smarty {counter} function pluginType:     function
 Name:     counter
 Purpose:  print out a counter value</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string|null</span></td>
-<td class="description"><p class="name"><a href="#smarty_function_cycle">smarty_function_cycle</a>(array params, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.html">Smarty_Internal_Template</a> template)</p><p class="description">Smarty {cycle} function pluginType:     function
+<td class="description"><p class="name"><a href="#smarty_function_cycle">smarty_function_cycle</a>(array params, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.md">Smarty_Internal_Template</a> template)</p><p class="description">Smarty {cycle} function pluginType:     function
 Name:     cycle
 Date:     May 3, 2002
 Purpose:  cycle through given values
@@ -62,7 +62,7 @@ special chars except for already escaped ones</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string|null</span></td>
-<td class="description"><p class="name"><a href="#smarty_function_fetch">smarty_function_fetch</a>(array params, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.html">Smarty_Internal_Template</a> template)</p><p class="description">Smarty {fetch} pluginType:     function
+<td class="description"><p class="name"><a href="#smarty_function_fetch">smarty_function_fetch</a>(array params, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.md">Smarty_Internal_Template</a> template)</p><p class="description">Smarty {fetch} pluginType:     function
 Name:     fetch
 Purpose:  fetch file, web or ftp data and display results</p></td>
 </tr>
@@ -99,7 +99,7 @@ escape     (optional) - escape the content (not value), defaults to true
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name"><a href="#smarty_function_html_image">smarty_function_html_image</a>(array params, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.html">Smarty_Internal_Template</a> template)</p><p class="description">Smarty {html_image} function pluginType:     function
+<td class="description"><p class="name"><a href="#smarty_function_html_image">smarty_function_html_image</a>(array params, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.md">Smarty_Internal_Template</a> template)</p><p class="description">Smarty {html_image} function pluginType:     function
 Name:     html_image
 Date:     Feb 24, 2003
 Purpose:  format HTML tags for the image
@@ -118,7 +118,7 @@ path_prefix - prefix for path output (optional, default empty)
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name"><a href="#smarty_function_html_options">smarty_function_html_options</a>(array params, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.html">Smarty_Internal_Template</a> template)</p><p class="description">Smarty {html_options} function pluginType:     function
+<td class="description"><p class="name"><a href="#smarty_function_html_options">smarty_function_html_options</a>(array params, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.md">Smarty_Internal_Template</a> template)</p><p class="description">Smarty {html_options} function pluginType:     function
 Name:     html_options
 Purpose:  Prints the list of  tags generated from
 the passed parameters
@@ -145,7 +145,7 @@ class      (optional) - string default not set
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name"><a href="#smarty_function_html_radios">smarty_function_html_radios</a>(array params, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.html">Smarty_Internal_Template</a> template)</p><p class="description">Smarty {html_radios} function pluginFile:       function.html_radios.php
+<td class="description"><p class="name"><a href="#smarty_function_html_radios">smarty_function_html_radios</a>(array params, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.md">Smarty_Internal_Template</a> template)</p><p class="description">Smarty {html_radios} function pluginFile:       function.html_radios.php
 Type:       function
 Name:       html_radios
 Date:       24.Feb.2003
@@ -176,20 +176,20 @@ Examples:
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name"><a href="#smarty_function_html_select_date">smarty_function_html_select_date</a>(array params, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.html">Smarty_Internal_Template</a> template)</p><p class="description">Smarty {html_select_date} pluginType:     function
+<td class="description"><p class="name"><a href="#smarty_function_html_select_date">smarty_function_html_select_date</a>(array params, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.md">Smarty_Internal_Template</a> template)</p><p class="description">Smarty {html_select_date} pluginType:     function
 Name:     html_select_date
 Purpose:  Prints the dropdowns for date selection.
 </p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name"><a href="#smarty_function_html_select_time">smarty_function_html_select_time</a>(array params, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.html">Smarty_Internal_Template</a> template)</p><p class="description">Smarty {html_select_time} function pluginType:     function
+<td class="description"><p class="name"><a href="#smarty_function_html_select_time">smarty_function_html_select_time</a>(array params, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.md">Smarty_Internal_Template</a> template)</p><p class="description">Smarty {html_select_time} function pluginType:     function
 Name:     html_select_time
 Purpose:  Prints the dropdowns for time selection</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name"><a href="#smarty_function_html_table">smarty_function_html_table</a>(array params, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.html">Smarty_Internal_Template</a> template)</p><p class="description">Smarty {html_table} function pluginType:     function
+<td class="description"><p class="name"><a href="#smarty_function_html_table">smarty_function_html_table</a>(array params, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.md">Smarty_Internal_Template</a> template)</p><p class="description">Smarty {html_table} function pluginType:     function
 Name:     html_table
 Date:     Feb 17, 2003
 Purpose:  make an html table from an array of data
@@ -225,7 +225,7 @@ Examples:
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name"><a href="#smarty_function_mailto">smarty_function_mailto</a>(array params, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.html">Smarty_Internal_Template</a> template)</p><p class="description">Smarty {mailto} function pluginType:     function
+<td class="description"><p class="name"><a href="#smarty_function_mailto">smarty_function_mailto</a>(array params, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.md">Smarty_Internal_Template</a> template)</p><p class="description">Smarty {mailto} function pluginType:     function
 Name:     mailto
 Date:     May 21, 2002
 Purpose:  automate mailto address link creation, and optionally encode them.
@@ -259,7 +259,7 @@ Examples:
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string|null</span></td>
-<td class="description"><p class="name"><a href="#smarty_function_math">smarty_function_math</a>(array params, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.html">Smarty_Internal_Template</a> template)</p><p class="description">Smarty {math} function pluginType:     function
+<td class="description"><p class="name"><a href="#smarty_function_math">smarty_function_math</a>(array params, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.md">Smarty_Internal_Template</a> template)</p><p class="description">Smarty {math} function pluginType:     function
 Name:     math
 Purpose:  handle math computations in template</p></td>
 </tr>
@@ -460,7 +460,7 @@ Purpose:  wrap a string of text at a given length</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name"><a href="#smarty_outputfilter_trimwhitespace">smarty_outputfilter_trimwhitespace</a>(string source, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.html">Smarty_Internal_Template</a> smarty)</p><p class="description">Smarty trimwhitespace outputfilter pluginTrim unnecessary whitespace from HTML markup.</p></td>
+<td class="description"><p class="name"><a href="#smarty_outputfilter_trimwhitespace">smarty_outputfilter_trimwhitespace</a>(string source, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.md">Smarty_Internal_Template</a> smarty)</p><p class="description">Smarty trimwhitespace outputfilter pluginTrim unnecessary whitespace from HTML markup.</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
@@ -468,7 +468,7 @@ Purpose:  wrap a string of text at a given length</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name"><a href="#smarty_variablefilter_htmlspecialchars">smarty_variablefilter_htmlspecialchars</a>(string source, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.html">Smarty_Internal_Template</a> smarty)</p><p class="description">Smarty htmlspecialchars variablefilter plugin</p></td>
+<td class="description"><p class="name"><a href="#smarty_variablefilter_htmlspecialchars">smarty_variablefilter_htmlspecialchars</a>(string source, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.md">Smarty_Internal_Template</a> smarty)</p><p class="description">Smarty htmlspecialchars variablefilter plugin</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
@@ -846,7 +846,7 @@ Purpose:  wrap a string of text at a given length</p></td>
 
 <h2 id="detail_function">Function Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/modifier.regex_replace.php#L41 class="location">framework\libs\smarty\plugins\modifier.regex_replace.php at line 41</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/modifier.regex_replace.php#L41" >framework\libs\smarty\plugins\modifier.regex_replace.php at line 41</a>
 
 <h3 id="_smarty_regex_replace_check()">_smarty_regex_replace_check</h3>
 <span class='k'></span> <span class='nx'>string</span> _smarty_regex_replace_check (string search)
@@ -863,7 +863,7 @@ Purpose:  wrap a string of text at a given length</p></td>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/smarty.class.php#L1100 class="location">framework\libs\smarty\Smarty.class.php at line 1100</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/Smarty.class.php#L1100" >framework\libs\smarty\Smarty.class.php at line 1100</a>
 
 <h3 id="smartyAutoload()">smartyAutoload</h3>
 <span class='k'></span> <span class='nx'>void</span> smartyAutoload (mixed class)
@@ -875,10 +875,10 @@ Purpose:  wrap a string of text at a given length</p></td>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/block.textformat.php#L35 class="location">framework\libs\smarty\plugins\block.textformat.php at line 35</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/block.textformat.php#L35" >framework\libs\smarty\plugins\block.textformat.php at line 35</a>
 
 <h3 id="smarty_block_textformat()">smarty_block_textformat</h3>
-<span class='k'></span> <span class='nx'>string</span> smarty_block_textformat (array params, string content, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.html">Smarty_Internal_Template</a> template, boolean &$repeat, mixed repeat)
+<span class='k'></span> <span class='nx'>string</span> smarty_block_textformat (array params, string content, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.md">Smarty_Internal_Template</a> template, boolean &$repeat, mixed repeat)
 
 <div class="details">
 <p>Smarty {textformat}{/textformat} block plugin</p><p>Type:     block function<br>
@@ -914,10 +914,10 @@ Params:
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/function.counter.php#L22 class="location">framework\libs\smarty\plugins\function.counter.php at line 22</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/function.counter.php#L22" >framework\libs\smarty\plugins\function.counter.php at line 22</a>
 
 <h3 id="smarty_function_counter()">smarty_function_counter</h3>
-<span class='k'></span> <span class='nx'>string|null</span> smarty_function_counter (array params, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.html">Smarty_Internal_Template</a> template)
+<span class='k'></span> <span class='nx'>string|null</span> smarty_function_counter (array params, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.md">Smarty_Internal_Template</a> template)
 
 <div class="details">
 <p>Smarty {counter} function plugin</p><p>Type:     function<br>
@@ -937,10 +937,10 @@ Purpose:  print out a counter value</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/function.cycle.php#L46 class="location">framework\libs\smarty\plugins\function.cycle.php at line 46</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/function.cycle.php#L46" >framework\libs\smarty\plugins\function.cycle.php at line 46</a>
 
 <h3 id="smarty_function_cycle()">smarty_function_cycle</h3>
-<span class='k'></span> <span class='nx'>string|null</span> smarty_function_cycle (array params, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.html">Smarty_Internal_Template</a> template)
+<span class='k'></span> <span class='nx'>string|null</span> smarty_function_cycle (array params, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.md">Smarty_Internal_Template</a> template)
 
 <div class="details">
 <p>Smarty {cycle} function plugin</p><p>Type:     function<br>
@@ -985,7 +985,7 @@ Examples:<br>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/shared.escape_special_chars.php#L40 class="location">framework\libs\smarty\plugins\shared.escape_special_chars.php at line 40</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/shared.escape_special_chars.php#L40" >framework\libs\smarty\plugins\shared.escape_special_chars.php at line 40</a>
 
 <h3 id="smarty_function_escape_special_chars()">smarty_function_escape_special_chars</h3>
 <span class='k'></span> <span class='nx'>string</span> smarty_function_escape_special_chars (string string)
@@ -1005,10 +1005,10 @@ special chars except for already escaped ones</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/function.fetch.php#L23 class="location">framework\libs\smarty\plugins\function.fetch.php at line 23</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/function.fetch.php#L23" >framework\libs\smarty\plugins\function.fetch.php at line 23</a>
 
 <h3 id="smarty_function_fetch()">smarty_function_fetch</h3>
-<span class='k'></span> <span class='nx'>string|null</span> smarty_function_fetch (array params, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.html">Smarty_Internal_Template</a> template)
+<span class='k'></span> <span class='nx'>string|null</span> smarty_function_fetch (array params, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.md">Smarty_Internal_Template</a> template)
 
 <div class="details">
 <p>Smarty {fetch} plugin</p><p>Type:     function<br>
@@ -1030,7 +1030,7 @@ Purpose:  fetch file, web or ftp data and display results</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/function.html_checkboxes.php#L45 class="location">framework\libs\smarty\plugins\function.html_checkboxes.php at line 45</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/function.html_checkboxes.php#L45" >framework\libs\smarty\plugins\function.html_checkboxes.php at line 45</a>
 
 <h3 id="smarty_function_html_checkboxes()">smarty_function_html_checkboxes</h3>
 <span class='k'></span> <span class='nx'>string</span> smarty_function_html_checkboxes (array params, object template)
@@ -1079,7 +1079,7 @@ Params:
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/function.html_checkboxes.php#L153 class="location">framework\libs\smarty\plugins\function.html_checkboxes.php at line 153</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/function.html_checkboxes.php#L153" >framework\libs\smarty\plugins\function.html_checkboxes.php at line 153</a>
 
 <h3 id="smarty_function_html_checkboxes_output()">smarty_function_html_checkboxes_output</h3>
 <span class='k'></span> <span class='nx'>void</span> smarty_function_html_checkboxes_output (mixed name, mixed value, mixed output, mixed selected, mixed extra, mixed separator, mixed labels, mixed label_ids, bool escape)
@@ -1090,10 +1090,10 @@ Params:
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/function.html_image.php#L37 class="location">framework\libs\smarty\plugins\function.html_image.php at line 37</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/function.html_image.php#L37" >framework\libs\smarty\plugins\function.html_image.php at line 37</a>
 
 <h3 id="smarty_function_html_image()">smarty_function_html_image</h3>
-<span class='k'></span> <span class='nx'>string</span> smarty_function_html_image (array params, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.html">Smarty_Internal_Template</a> template)
+<span class='k'></span> <span class='nx'>string</span> smarty_function_html_image (array params, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.md">Smarty_Internal_Template</a> template)
 
 <div class="details">
 <p>Smarty {html_image} function plugin</p><p>Type:     function<br>
@@ -1131,10 +1131,10 @@ Params:
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/function.html_options.php#L36 class="location">framework\libs\smarty\plugins\function.html_options.php at line 36</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/function.html_options.php#L36" >framework\libs\smarty\plugins\function.html_options.php at line 36</a>
 
 <h3 id="smarty_function_html_options()">smarty_function_html_options</h3>
-<span class='k'></span> <span class='nx'>string</span> smarty_function_html_options (array params, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.html">Smarty_Internal_Template</a> template)
+<span class='k'></span> <span class='nx'>string</span> smarty_function_html_options (array params, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.md">Smarty_Internal_Template</a> template)
 
 <div class="details">
 <p>Smarty {html_options} function plugin</p><p>Type:     function<br>
@@ -1170,7 +1170,7 @@ Params:
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/function.html_options.php#L164 class="location">framework\libs\smarty\plugins\function.html_options.php at line 164</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/function.html_options.php#L164" >framework\libs\smarty\plugins\function.html_options.php at line 164</a>
 
 <h3 id="smarty_function_html_options_optgroup()">smarty_function_html_options_optgroup</h3>
 <span class='k'></span> <span class='nx'>void</span> smarty_function_html_options_optgroup (mixed key, mixed values, mixed selected, mixed id, mixed class, mixed idx)
@@ -1181,7 +1181,7 @@ Params:
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/function.html_options.php#L132 class="location">framework\libs\smarty\plugins\function.html_options.php at line 132</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/function.html_options.php#L132" >framework\libs\smarty\plugins\function.html_options.php at line 132</a>
 
 <h3 id="smarty_function_html_options_optoutput()">smarty_function_html_options_optoutput</h3>
 <span class='k'></span> <span class='nx'>void</span> smarty_function_html_options_optoutput (mixed key, mixed value, mixed selected, mixed id, mixed class, mixed idx)
@@ -1192,10 +1192,10 @@ Params:
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/function.html_radios.php#L45 class="location">framework\libs\smarty\plugins\function.html_radios.php at line 45</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/function.html_radios.php#L45" >framework\libs\smarty\plugins\function.html_radios.php at line 45</a>
 
 <h3 id="smarty_function_html_radios()">smarty_function_html_radios</h3>
-<span class='k'></span> <span class='nx'>string</span> smarty_function_html_radios (array params, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.html">Smarty_Internal_Template</a> template)
+<span class='k'></span> <span class='nx'>string</span> smarty_function_html_radios (array params, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.md">Smarty_Internal_Template</a> template)
 
 <div class="details">
 <p>Smarty {html_radios} function plugin</p><p>File:       function.html_radios.php<br>
@@ -1241,7 +1241,7 @@ Examples:
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/function.html_radios.php#L140 class="location">framework\libs\smarty\plugins\function.html_radios.php at line 140</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/function.html_radios.php#L140" >framework\libs\smarty\plugins\function.html_radios.php at line 140</a>
 
 <h3 id="smarty_function_html_radios_output()">smarty_function_html_radios_output</h3>
 <span class='k'></span> <span class='nx'>void</span> smarty_function_html_radios_output (mixed name, mixed value, mixed output, mixed selected, mixed extra, mixed separator, mixed labels, mixed label_ids, mixed escape)
@@ -1252,10 +1252,10 @@ Examples:
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/function.html_select_date.php#L54 class="location">framework\libs\smarty\plugins\function.html_select_date.php at line 54</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/function.html_select_date.php#L54" >framework\libs\smarty\plugins\function.html_select_date.php at line 54</a>
 
 <h3 id="smarty_function_html_select_date()">smarty_function_html_select_date</h3>
-<span class='k'></span> <span class='nx'>string</span> smarty_function_html_select_date (array params, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.html">Smarty_Internal_Template</a> template)
+<span class='k'></span> <span class='nx'>string</span> smarty_function_html_select_date (array params, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.md">Smarty_Internal_Template</a> template)
 
 <div class="details">
 <p>Smarty {html_select_date} plugin</p><p>Type:     function<br>
@@ -1298,10 +1298,10 @@ added attributes month_names, *_id</li>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/function.html_select_time.php#L34 class="location">framework\libs\smarty\plugins\function.html_select_time.php at line 34</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/function.html_select_time.php#L34" >framework\libs\smarty\plugins\function.html_select_time.php at line 34</a>
 
 <h3 id="smarty_function_html_select_time()">smarty_function_html_select_time</h3>
-<span class='k'></span> <span class='nx'>string</span> smarty_function_html_select_time (array params, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.html">Smarty_Internal_Template</a> template)
+<span class='k'></span> <span class='nx'>string</span> smarty_function_html_select_time (array params, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.md">Smarty_Internal_Template</a> template)
 
 <div class="details">
 <p>Smarty {html_select_time} function plugin</p><p>Type:     function<br>
@@ -1324,10 +1324,10 @@ Purpose:  Prints the dropdowns for time selection</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/function.html_table.php#L50 class="location">framework\libs\smarty\plugins\function.html_table.php at line 50</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/function.html_table.php#L50" >framework\libs\smarty\plugins\function.html_table.php at line 50</a>
 
 <h3 id="smarty_function_html_table()">smarty_function_html_table</h3>
-<span class='k'></span> <span class='nx'>string</span> smarty_function_html_table (array params, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.html">Smarty_Internal_Template</a> template)
+<span class='k'></span> <span class='nx'>string</span> smarty_function_html_table (array params, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.md">Smarty_Internal_Template</a> template)
 
 <div class="details">
 <p>Smarty {html_table} function plugin</p><p>Type:     function<br>
@@ -1377,7 +1377,7 @@ Examples:
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/function.html_table.php#L166 class="location">framework\libs\smarty\plugins\function.html_table.php at line 166</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/function.html_table.php#L166" >framework\libs\smarty\plugins\function.html_table.php at line 166</a>
 
 <h3 id="smarty_function_html_table_cycle()">smarty_function_html_table_cycle</h3>
 <span class='k'></span> <span class='nx'>void</span> smarty_function_html_table_cycle (mixed name, mixed var, mixed no)
@@ -1388,10 +1388,10 @@ Examples:
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/function.mailto.php#L51 class="location">framework\libs\smarty\plugins\function.mailto.php at line 51</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/function.mailto.php#L51" >framework\libs\smarty\plugins\function.mailto.php at line 51</a>
 
 <h3 id="smarty_function_mailto()">smarty_function_mailto</h3>
-<span class='k'></span> <span class='nx'>string</span> smarty_function_mailto (array params, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.html">Smarty_Internal_Template</a> template)
+<span class='k'></span> <span class='nx'>string</span> smarty_function_mailto (array params, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.md">Smarty_Internal_Template</a> template)
 
 <div class="details">
 <p>Smarty {mailto} function plugin</p><p>Type:     function<br>
@@ -1442,10 +1442,10 @@ Examples:
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/function.math.php#L24 class="location">framework\libs\smarty\plugins\function.math.php at line 24</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/function.math.php#L24" >framework\libs\smarty\plugins\function.math.php at line 24</a>
 
 <h3 id="smarty_function_math()">smarty_function_math</h3>
-<span class='k'></span> <span class='nx'>string|null</span> smarty_function_math (array params, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.html">Smarty_Internal_Template</a> template)
+<span class='k'></span> <span class='nx'>string|null</span> smarty_function_math (array params, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.md">Smarty_Internal_Template</a> template)
 
 <div class="details">
 <p>Smarty {math} function plugin</p><p>Type:     function<br>
@@ -1465,7 +1465,7 @@ Purpose:  handle math computations in template</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/shared.literal_compiler_param.php#L19 class="location">framework\libs\smarty\plugins\shared.literal_compiler_param.php at line 19</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/shared.literal_compiler_param.php#L19" >framework\libs\smarty\plugins\shared.literal_compiler_param.php at line 19</a>
 
 <h3 id="smarty_literal_compiler_param()">smarty_literal_compiler_param</h3>
 <span class='k'></span> <span class='nx'>mixed</span> smarty_literal_compiler_param (array params, integer index, mixed default)
@@ -1489,7 +1489,7 @@ Purpose:  handle math computations in template</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/shared.make_timestamp.php#L17 class="location">framework\libs\smarty\plugins\shared.make_timestamp.php at line 17</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/shared.make_timestamp.php#L17" >framework\libs\smarty\plugins\shared.make_timestamp.php at line 17</a>
 
 <h3 id="smarty_make_timestamp()">smarty_make_timestamp</h3>
 <span class='k'></span> <span class='nx'>int</span> smarty_make_timestamp (DateTime|int|string string)
@@ -1508,7 +1508,7 @@ Purpose:  used by other smarty functions to make a timestamp from a string.</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/shared.mb_unicode.php#L36 class="location">framework\libs\smarty\plugins\shared.mb_unicode.php at line 36</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/shared.mb_unicode.php#L36" >framework\libs\smarty\plugins\shared.mb_unicode.php at line 36</a>
 
 <h3 id="smarty_mb_from_unicode()">smarty_mb_from_unicode</h3>
 <span class='k'></span> <span class='nx'>string</span> smarty_mb_from_unicode (integer|array unicode, string encoding)
@@ -1531,7 +1531,7 @@ Purpose:  used by other smarty functions to make a timestamp from a string.</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/shared.mb_str_replace.php#L20 class="location">framework\libs\smarty\plugins\shared.mb_str_replace.php at line 20</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/shared.mb_str_replace.php#L20" >framework\libs\smarty\plugins\shared.mb_str_replace.php at line 20</a>
 
 <h3 id="smarty_mb_str_replace()">smarty_mb_str_replace</h3>
 <span class='k'></span> <span class='nx'>string</span> smarty_mb_str_replace (string search, string replace, string subject, int &$count, int count)
@@ -1554,7 +1554,7 @@ Purpose:  used by other smarty functions to make a timestamp from a string.</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/shared.mb_unicode.php#L18 class="location">framework\libs\smarty\plugins\shared.mb_unicode.php at line 18</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/shared.mb_unicode.php#L18" >framework\libs\smarty\plugins\shared.mb_unicode.php at line 18</a>
 
 <h3 id="smarty_mb_to_unicode()">smarty_mb_to_unicode</h3>
 <span class='k'></span> <span class='nx'>array</span> smarty_mb_to_unicode (string string, string encoding)
@@ -1577,7 +1577,7 @@ Purpose:  used by other smarty functions to make a timestamp from a string.</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/shared.mb_wordwrap.php#L22 class="location">framework\libs\smarty\plugins\shared.mb_wordwrap.php at line 22</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/shared.mb_wordwrap.php#L22" >framework\libs\smarty\plugins\shared.mb_wordwrap.php at line 22</a>
 
 <h3 id="smarty_mb_wordwrap()">smarty_mb_wordwrap</h3>
 <span class='k'></span> <span class='nx'>string</span> smarty_mb_wordwrap (string str, int width, string break, boolean cut)
@@ -1602,7 +1602,7 @@ Purpose:  used by other smarty functions to make a timestamp from a string.</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/modifier.capitalize.php#L25 class="location">framework\libs\smarty\plugins\modifier.capitalize.php at line 25</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/modifier.capitalize.php#L25" >framework\libs\smarty\plugins\modifier.capitalize.php at line 25</a>
 
 <h3 id="smarty_modifier_capitalize()">smarty_modifier_capitalize</h3>
 <span class='k'></span> <span class='nx'>string</span> smarty_modifier_capitalize (string string, boolean uc_digits, boolean lc_rest)
@@ -1627,7 +1627,7 @@ Purpose:  capitalize words in the string</p><p>{$string|capitalize:true:true is 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/modifier.date_format.php#L29 class="location">framework\libs\smarty\plugins\modifier.date_format.php at line 29</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/modifier.date_format.php#L29" >framework\libs\smarty\plugins\modifier.date_format.php at line 29</a>
 
 <h3 id="smarty_modifier_date_format()">smarty_modifier_date_format</h3>
 <span class='k'></span> <span class='nx'>string</span> smarty_modifier_date_format (string string, string format, string default_date, string formatter)
@@ -1662,7 +1662,7 @@ Input:<br></p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/modifier.debug_print_var.php#L22 class="location">framework\libs\smarty\plugins\modifier.debug_print_var.php at line 22</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/modifier.debug_print_var.php#L22" >framework\libs\smarty\plugins\modifier.debug_print_var.php at line 22</a>
 
 <h3 id="smarty_modifier_debug_print_var()">smarty_modifier_debug_print_var</h3>
 <span class='k'></span> <span class='nx'>string</span> smarty_modifier_debug_print_var (array|object var, integer depth, integer length)
@@ -1684,7 +1684,7 @@ Purpose:  formats variable contents for display in the console</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/modifier.escape.php#L24 class="location">framework\libs\smarty\plugins\modifier.escape.php at line 24</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/modifier.escape.php#L24" >framework\libs\smarty\plugins\modifier.escape.php at line 24</a>
 
 <h3 id="smarty_modifier_escape()">smarty_modifier_escape</h3>
 <span class='k'></span> <span class='nx'>string</span> smarty_modifier_escape (string string, string esc_type, string char_set, boolean double_encode)
@@ -1711,7 +1711,7 @@ Purpose:  escape string for output</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/modifier.regex_replace.php#L24 class="location">framework\libs\smarty\plugins\modifier.regex_replace.php at line 24</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/modifier.regex_replace.php#L24" >framework\libs\smarty\plugins\modifier.regex_replace.php at line 24</a>
 
 <h3 id="smarty_modifier_regex_replace()">smarty_modifier_regex_replace</h3>
 <span class='k'></span> <span class='nx'>string</span> smarty_modifier_regex_replace (string string, string|array search, string|array replace)
@@ -1735,7 +1735,7 @@ Purpose:  regular expression search/replace</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/modifier.replace.php#L23 class="location">framework\libs\smarty\plugins\modifier.replace.php at line 23</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/modifier.replace.php#L23" >framework\libs\smarty\plugins\modifier.replace.php at line 23</a>
 
 <h3 id="smarty_modifier_replace()">smarty_modifier_replace</h3>
 <span class='k'></span> <span class='nx'>string</span> smarty_modifier_replace (string string, string search, string replace)
@@ -1760,7 +1760,7 @@ Purpose:  simple search/replace</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/modifier.spacify.php#L21 class="location">framework\libs\smarty\plugins\modifier.spacify.php at line 21</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/modifier.spacify.php#L21" >framework\libs\smarty\plugins\modifier.spacify.php at line 21</a>
 
 <h3 id="smarty_modifier_spacify()">smarty_modifier_spacify</h3>
 <span class='k'></span> <span class='nx'>string</span> smarty_modifier_spacify (string string, string spacify_char)
@@ -1783,7 +1783,7 @@ Purpose:  add spaces between characters in a string</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/modifier.truncate.php#L27 class="location">framework\libs\smarty\plugins\modifier.truncate.php at line 27</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/modifier.truncate.php#L27" >framework\libs\smarty\plugins\modifier.truncate.php at line 27</a>
 
 <h3 id="smarty_modifier_truncate()">smarty_modifier_truncate</h3>
 <span class='k'></span> <span class='nx'>string</span> smarty_modifier_truncate (string string, integer length, string etc, boolean break_words, boolean middle)
@@ -1813,7 +1813,7 @@ appending the $etc string or inserting $etc into the middle.</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/modifiercompiler.cat.php#L25 class="location">framework\libs\smarty\plugins\modifiercompiler.cat.php at line 25</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/modifiercompiler.cat.php#L25" >framework\libs\smarty\plugins\modifiercompiler.cat.php at line 25</a>
 
 <h3 id="smarty_modifiercompiler_cat()">smarty_modifiercompiler_cat</h3>
 <span class='k'></span> <span class='nx'>string</span> smarty_modifiercompiler_cat (array params, mixed compiler)
@@ -1840,7 +1840,7 @@ Example:  {$var|cat:"foo"}</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/modifiercompiler.count_characters.php#L21 class="location">framework\libs\smarty\plugins\modifiercompiler.count_characters.php at line 21</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/modifiercompiler.count_characters.php#L21" >framework\libs\smarty\plugins\modifiercompiler.count_characters.php at line 21</a>
 
 <h3 id="smarty_modifiercompiler_count_characters()">smarty_modifiercompiler_count_characters</h3>
 <span class='k'></span> <span class='nx'>string</span> smarty_modifiercompiler_count_characters (array params, mixed compiler)
@@ -1864,7 +1864,7 @@ Purpose:  count the number of characters in a text</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/modifiercompiler.count_paragraphs.php#L22 class="location">framework\libs\smarty\plugins\modifiercompiler.count_paragraphs.php at line 22</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/modifiercompiler.count_paragraphs.php#L22" >framework\libs\smarty\plugins\modifiercompiler.count_paragraphs.php at line 22</a>
 
 <h3 id="smarty_modifiercompiler_count_paragraphs()">smarty_modifiercompiler_count_paragraphs</h3>
 <span class='k'></span> <span class='nx'>string</span> smarty_modifiercompiler_count_paragraphs (array params, mixed compiler)
@@ -1888,7 +1888,7 @@ Purpose:  count the number of paragraphs in a text</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/modifiercompiler.count_sentences.php#L22 class="location">framework\libs\smarty\plugins\modifiercompiler.count_sentences.php at line 22</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/modifiercompiler.count_sentences.php#L22" >framework\libs\smarty\plugins\modifiercompiler.count_sentences.php at line 22</a>
 
 <h3 id="smarty_modifiercompiler_count_sentences()">smarty_modifiercompiler_count_sentences</h3>
 <span class='k'></span> <span class='nx'>string</span> smarty_modifiercompiler_count_sentences (array params, mixed compiler)
@@ -1912,7 +1912,7 @@ Purpose:  count the number of sentences in a text</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/modifiercompiler.count_words.php#L21 class="location">framework\libs\smarty\plugins\modifiercompiler.count_words.php at line 21</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/modifiercompiler.count_words.php#L21" >framework\libs\smarty\plugins\modifiercompiler.count_words.php at line 21</a>
 
 <h3 id="smarty_modifiercompiler_count_words()">smarty_modifiercompiler_count_words</h3>
 <span class='k'></span> <span class='nx'>string</span> smarty_modifiercompiler_count_words (array params, mixed compiler)
@@ -1936,7 +1936,7 @@ Purpose:  count the number of words in a text</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/modifiercompiler.default.php#L21 class="location">framework\libs\smarty\plugins\modifiercompiler.default.php at line 21</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/modifiercompiler.default.php#L21" >framework\libs\smarty\plugins\modifiercompiler.default.php at line 21</a>
 
 <h3 id="smarty_modifiercompiler_default()">smarty_modifiercompiler_default</h3>
 <span class='k'></span> <span class='nx'>string</span> smarty_modifiercompiler_default (array params, mixed compiler)
@@ -1960,7 +1960,7 @@ Purpose:  designate default value for empty variables</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/modifiercompiler.escape.php#L26 class="location">framework\libs\smarty\plugins\modifiercompiler.escape.php at line 26</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/modifiercompiler.escape.php#L26" >framework\libs\smarty\plugins\modifiercompiler.escape.php at line 26</a>
 
 <h3 id="smarty_modifiercompiler_escape()">smarty_modifiercompiler_escape</h3>
 <span class='k'></span> <span class='nx'>string</span> smarty_modifiercompiler_escape (array params, mixed compiler)
@@ -1984,7 +1984,7 @@ Purpose:  escape string for output</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/modifiercompiler.from_charset.php#L20 class="location">framework\libs\smarty\plugins\modifiercompiler.from_charset.php at line 20</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/modifiercompiler.from_charset.php#L20" >framework\libs\smarty\plugins\modifiercompiler.from_charset.php at line 20</a>
 
 <h3 id="smarty_modifiercompiler_from_charset()">smarty_modifiercompiler_from_charset</h3>
 <span class='k'></span> <span class='nx'>string</span> smarty_modifiercompiler_from_charset (array params, mixed compiler)
@@ -2006,7 +2006,7 @@ Purpose:  convert character encoding from $charset to internal encoding</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/modifiercompiler.indent.php#L21 class="location">framework\libs\smarty\plugins\modifiercompiler.indent.php at line 21</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/modifiercompiler.indent.php#L21" >framework\libs\smarty\plugins\modifiercompiler.indent.php at line 21</a>
 
 <h3 id="smarty_modifiercompiler_indent()">smarty_modifiercompiler_indent</h3>
 <span class='k'></span> <span class='nx'>string</span> smarty_modifiercompiler_indent (array params, mixed compiler)
@@ -2030,7 +2030,7 @@ Purpose:  indent lines of text</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/modifiercompiler.lower.php#L22 class="location">framework\libs\smarty\plugins\modifiercompiler.lower.php at line 22</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/modifiercompiler.lower.php#L22" >framework\libs\smarty\plugins\modifiercompiler.lower.php at line 22</a>
 
 <h3 id="smarty_modifiercompiler_lower()">smarty_modifiercompiler_lower</h3>
 <span class='k'></span> <span class='nx'>string</span> smarty_modifiercompiler_lower (array params, mixed compiler)
@@ -2055,7 +2055,7 @@ Purpose:  convert string to lowercase</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/modifiercompiler.noprint.php#L20 class="location">framework\libs\smarty\plugins\modifiercompiler.noprint.php at line 20</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/modifiercompiler.noprint.php#L20" >framework\libs\smarty\plugins\modifiercompiler.noprint.php at line 20</a>
 
 <h3 id="smarty_modifiercompiler_noprint()">smarty_modifiercompiler_noprint</h3>
 <span class='k'></span> <span class='nx'>string</span> smarty_modifiercompiler_noprint (array params, mixed compiler)
@@ -2077,7 +2077,7 @@ Purpose:  return an empty string</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/modifiercompiler.string_format.php#L21 class="location">framework\libs\smarty\plugins\modifiercompiler.string_format.php at line 21</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/modifiercompiler.string_format.php#L21" >framework\libs\smarty\plugins\modifiercompiler.string_format.php at line 21</a>
 
 <h3 id="smarty_modifiercompiler_string_format()">smarty_modifiercompiler_string_format</h3>
 <span class='k'></span> <span class='nx'>string</span> smarty_modifiercompiler_string_format (array params, mixed compiler)
@@ -2101,7 +2101,7 @@ Purpose:  format strings via sprintf</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/modifiercompiler.strip.php#L25 class="location">framework\libs\smarty\plugins\modifiercompiler.strip.php at line 25</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/modifiercompiler.strip.php#L25" >framework\libs\smarty\plugins\modifiercompiler.strip.php at line 25</a>
 
 <h3 id="smarty_modifiercompiler_strip()">smarty_modifiercompiler_strip</h3>
 <span class='k'></span> <span class='nx'>string</span> smarty_modifiercompiler_strip (array params, mixed compiler)
@@ -2128,7 +2128,7 @@ Date:     September 25th, 2002</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/modifiercompiler.strip_tags.php#L21 class="location">framework\libs\smarty\plugins\modifiercompiler.strip_tags.php at line 21</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/modifiercompiler.strip_tags.php#L21" >framework\libs\smarty\plugins\modifiercompiler.strip_tags.php at line 21</a>
 
 <h3 id="smarty_modifiercompiler_strip_tags()">smarty_modifiercompiler_strip_tags</h3>
 <span class='k'></span> <span class='nx'>string</span> smarty_modifiercompiler_strip_tags (array params, mixed compiler)
@@ -2152,7 +2152,7 @@ Purpose:  strip html tags from text</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/modifiercompiler.to_charset.php#L20 class="location">framework\libs\smarty\plugins\modifiercompiler.to_charset.php at line 20</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/modifiercompiler.to_charset.php#L20" >framework\libs\smarty\plugins\modifiercompiler.to_charset.php at line 20</a>
 
 <h3 id="smarty_modifiercompiler_to_charset()">smarty_modifiercompiler_to_charset</h3>
 <span class='k'></span> <span class='nx'>string</span> smarty_modifiercompiler_to_charset (array params, mixed compiler)
@@ -2174,7 +2174,7 @@ Purpose:  convert character encoding from internal encoding to $charset</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/modifiercompiler.unescape.php#L20 class="location">framework\libs\smarty\plugins\modifiercompiler.unescape.php at line 20</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/modifiercompiler.unescape.php#L20" >framework\libs\smarty\plugins\modifiercompiler.unescape.php at line 20</a>
 
 <h3 id="smarty_modifiercompiler_unescape()">smarty_modifiercompiler_unescape</h3>
 <span class='k'></span> <span class='nx'>string</span> smarty_modifiercompiler_unescape (array params, mixed compiler)
@@ -2196,7 +2196,7 @@ Purpose:  unescape html entities</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/modifiercompiler.upper.php#L21 class="location">framework\libs\smarty\plugins\modifiercompiler.upper.php at line 21</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/modifiercompiler.upper.php#L21" >framework\libs\smarty\plugins\modifiercompiler.upper.php at line 21</a>
 
 <h3 id="smarty_modifiercompiler_upper()">smarty_modifiercompiler_upper</h3>
 <span class='k'></span> <span class='nx'>string</span> smarty_modifiercompiler_upper (array params, mixed compiler)
@@ -2220,7 +2220,7 @@ Purpose:  convert string to uppercase</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/modifiercompiler.wordwrap.php#L21 class="location">framework\libs\smarty\plugins\modifiercompiler.wordwrap.php at line 21</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/modifiercompiler.wordwrap.php#L21" >framework\libs\smarty\plugins\modifiercompiler.wordwrap.php at line 21</a>
 
 <h3 id="smarty_modifiercompiler_wordwrap()">smarty_modifiercompiler_wordwrap</h3>
 <span class='k'></span> <span class='nx'>string</span> smarty_modifiercompiler_wordwrap (array params, mixed compiler)
@@ -2244,10 +2244,10 @@ Purpose:  wrap a string of text at a given length</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/outputfilter.trimwhitespace.php#L20 class="location">framework\libs\smarty\plugins\outputfilter.trimwhitespace.php at line 20</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/outputfilter.trimwhitespace.php#L20" >framework\libs\smarty\plugins\outputfilter.trimwhitespace.php at line 20</a>
 
 <h3 id="smarty_outputfilter_trimwhitespace()">smarty_outputfilter_trimwhitespace</h3>
-<span class='k'></span> <span class='nx'>string</span> smarty_outputfilter_trimwhitespace (string source, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.html">Smarty_Internal_Template</a> smarty)
+<span class='k'></span> <span class='nx'>string</span> smarty_outputfilter_trimwhitespace (string source, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.md">Smarty_Internal_Template</a> smarty)
 
 <div class="details">
 <p>Smarty trimwhitespace outputfilter plugin</p><p>Trim unnecessary whitespace from HTML markup.</p>
@@ -2267,7 +2267,7 @@ Purpose:  wrap a string of text at a given length</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/smartybc.class.php#L454 class="location">framework\libs\smarty\SmartyBC.class.php at line 454</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/SmartyBC.class.php#L454" >framework\libs\smarty\SmartyBC.class.php at line 454</a>
 
 <h3 id="smarty_php_tag()">smarty_php_tag</h3>
 <span class='k'></span> <span class='nx'>string</span> smarty_php_tag (array params, string content, object template, boolean &$repeat, mixed repeat)
@@ -2288,10 +2288,10 @@ Purpose:  wrap a string of text at a given length</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/variablefilter.htmlspecialchars.php#L16 class="location">framework\libs\smarty\plugins\variablefilter.htmlspecialchars.php at line 16</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/plugins/variablefilter.htmlspecialchars.php#L16" >framework\libs\smarty\plugins\variablefilter.htmlspecialchars.php at line 16</a>
 
 <h3 id="smarty_variablefilter_htmlspecialchars()">smarty_variablefilter_htmlspecialchars</h3>
-<span class='k'></span> <span class='nx'>string</span> smarty_variablefilter_htmlspecialchars (string source, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.html">Smarty_Internal_Template</a> smarty)
+<span class='k'></span> <span class='nx'>string</span> smarty_variablefilter_htmlspecialchars (string source, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.md">Smarty_Internal_Template</a> smarty)
 
 <div class="details">
 <p>Smarty htmlspecialchars variablefilter plugin</p>
@@ -2307,7 +2307,7 @@ Purpose:  wrap a string of text at a given length</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L155 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 155</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L155" >framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 155</a>
 
 <h3 id="yy_r1_13()">yy_r1_13</h3>
 <span class='k'></span> <span class='nx'>void</span> yy_r1_13 (mixed yy_subpatterns)
@@ -2318,7 +2318,7 @@ Purpose:  wrap a string of text at a given length</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L166 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 166</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L166" >framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 166</a>
 
 <h3 id="yy_r1_14()">yy_r1_14</h3>
 <span class='k'></span> <span class='nx'>void</span> yy_r1_14 (mixed yy_subpatterns)
@@ -2329,7 +2329,7 @@ Purpose:  wrap a string of text at a given length</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L177 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 177</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L177" >framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 177</a>
 
 <h3 id="yy_r1_15()">yy_r1_15</h3>
 <span class='k'></span> <span class='nx'>void</span> yy_r1_15 (mixed yy_subpatterns)
@@ -2340,7 +2340,7 @@ Purpose:  wrap a string of text at a given length</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L188 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 188</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L188" >framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 188</a>
 
 <h3 id="yy_r1_16()">yy_r1_16</h3>
 <span class='k'></span> <span class='nx'>void</span> yy_r1_16 (mixed yy_subpatterns)
@@ -2351,7 +2351,7 @@ Purpose:  wrap a string of text at a given length</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L199 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 199</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L199" >framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 199</a>
 
 <h3 id="yy_r1_17()">yy_r1_17</h3>
 <span class='k'></span> <span class='nx'>void</span> yy_r1_17 (mixed yy_subpatterns)
@@ -2362,7 +2362,7 @@ Purpose:  wrap a string of text at a given length</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L206 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 206</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L206" >framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 206</a>
 
 <h3 id="yy_r1_18()">yy_r1_18</h3>
 <span class='k'></span> <span class='nx'>void</span> yy_r1_18 (mixed yy_subpatterns)
@@ -2373,7 +2373,7 @@ Purpose:  wrap a string of text at a given length</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L213 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 213</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L213" >framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 213</a>
 
 <h3 id="yy_r1_19()">yy_r1_19</h3>
 <span class='k'></span> <span class='nx'>void</span> yy_r1_19 (mixed yy_subpatterns)
@@ -2384,7 +2384,7 @@ Purpose:  wrap a string of text at a given length</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L225 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 225</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L225" >framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 225</a>
 
 <h3 id="yy_r1_20()">yy_r1_20</h3>
 <span class='k'></span> <span class='nx'>void</span> yy_r1_20 (mixed yy_subpatterns)
@@ -2395,7 +2395,7 @@ Purpose:  wrap a string of text at a given length</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L230 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 230</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L230" >framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 230</a>
 
 <h3 id="yy_r1_21()">yy_r1_21</h3>
 <span class='k'></span> <span class='nx'>void</span> yy_r1_21 (mixed yy_subpatterns)
@@ -2406,7 +2406,7 @@ Purpose:  wrap a string of text at a given length</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L235 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 235</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L235" >framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 235</a>
 
 <h3 id="yy_r1_22()">yy_r1_22</h3>
 <span class='k'></span> <span class='nx'>void</span> yy_r1_22 (mixed yy_subpatterns)
@@ -2417,7 +2417,7 @@ Purpose:  wrap a string of text at a given length</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L240 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 240</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L240" >framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 240</a>
 
 <h3 id="yy_r1_23()">yy_r1_23</h3>
 <span class='k'></span> <span class='nx'>void</span> yy_r1_23 (mixed yy_subpatterns)
@@ -2428,7 +2428,7 @@ Purpose:  wrap a string of text at a given length</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L438 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 438</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L438" >framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 438</a>
 
 <h3 id="yy_r2_10()">yy_r2_10</h3>
 <span class='k'></span> <span class='nx'>void</span> yy_r2_10 (mixed yy_subpatterns)
@@ -2439,7 +2439,7 @@ Purpose:  wrap a string of text at a given length</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L445 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 445</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L445" >framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 445</a>
 
 <h3 id="yy_r2_11()">yy_r2_11</h3>
 <span class='k'></span> <span class='nx'>void</span> yy_r2_11 (mixed yy_subpatterns)
@@ -2450,7 +2450,7 @@ Purpose:  wrap a string of text at a given length</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L451 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 451</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L451" >framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 451</a>
 
 <h3 id="yy_r2_12()">yy_r2_12</h3>
 <span class='k'></span> <span class='nx'>void</span> yy_r2_12 (mixed yy_subpatterns)
@@ -2461,7 +2461,7 @@ Purpose:  wrap a string of text at a given length</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L456 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 456</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L456" >framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 456</a>
 
 <h3 id="yy_r2_13()">yy_r2_13</h3>
 <span class='k'></span> <span class='nx'>void</span> yy_r2_13 (mixed yy_subpatterns)
@@ -2472,7 +2472,7 @@ Purpose:  wrap a string of text at a given length</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L461 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 461</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L461" >framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 461</a>
 
 <h3 id="yy_r2_14()">yy_r2_14</h3>
 <span class='k'></span> <span class='nx'>void</span> yy_r2_14 (mixed yy_subpatterns)
@@ -2483,7 +2483,7 @@ Purpose:  wrap a string of text at a given length</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L466 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 466</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L466" >framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 466</a>
 
 <h3 id="yy_r2_15()">yy_r2_15</h3>
 <span class='k'></span> <span class='nx'>void</span> yy_r2_15 (mixed yy_subpatterns)
@@ -2494,7 +2494,7 @@ Purpose:  wrap a string of text at a given length</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L471 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 471</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L471" >framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 471</a>
 
 <h3 id="yy_r2_16()">yy_r2_16</h3>
 <span class='k'></span> <span class='nx'>void</span> yy_r2_16 (mixed yy_subpatterns)
@@ -2505,7 +2505,7 @@ Purpose:  wrap a string of text at a given length</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L476 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 476</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L476" >framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 476</a>
 
 <h3 id="yy_r2_17()">yy_r2_17</h3>
 <span class='k'></span> <span class='nx'>void</span> yy_r2_17 (mixed yy_subpatterns)
@@ -2516,7 +2516,7 @@ Purpose:  wrap a string of text at a given length</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L481 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 481</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L481" >framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 481</a>
 
 <h3 id="yy_r2_18()">yy_r2_18</h3>
 <span class='k'></span> <span class='nx'>void</span> yy_r2_18 (mixed yy_subpatterns)
@@ -2527,7 +2527,7 @@ Purpose:  wrap a string of text at a given length</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L486 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 486</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L486" >framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 486</a>
 
 <h3 id="yy_r2_19()">yy_r2_19</h3>
 <span class='k'></span> <span class='nx'>void</span> yy_r2_19 (mixed yy_subpatterns)
@@ -2538,7 +2538,7 @@ Purpose:  wrap a string of text at a given length</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L491 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 491</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L491" >framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 491</a>
 
 <h3 id="yy_r2_20()">yy_r2_20</h3>
 <span class='k'></span> <span class='nx'>void</span> yy_r2_20 (mixed yy_subpatterns)
@@ -2549,7 +2549,7 @@ Purpose:  wrap a string of text at a given length</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L496 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 496</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L496" >framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 496</a>
 
 <h3 id="yy_r2_22()">yy_r2_22</h3>
 <span class='k'></span> <span class='nx'>void</span> yy_r2_22 (mixed yy_subpatterns)
@@ -2560,7 +2560,7 @@ Purpose:  wrap a string of text at a given length</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L501 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 501</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L501" >framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 501</a>
 
 <h3 id="yy_r2_24()">yy_r2_24</h3>
 <span class='k'></span> <span class='nx'>void</span> yy_r2_24 (mixed yy_subpatterns)
@@ -2571,7 +2571,7 @@ Purpose:  wrap a string of text at a given length</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L506 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 506</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L506" >framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 506</a>
 
 <h3 id="yy_r2_26()">yy_r2_26</h3>
 <span class='k'></span> <span class='nx'>void</span> yy_r2_26 (mixed yy_subpatterns)
@@ -2582,7 +2582,7 @@ Purpose:  wrap a string of text at a given length</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L511 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 511</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L511" >framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 511</a>
 
 <h3 id="yy_r2_27()">yy_r2_27</h3>
 <span class='k'></span> <span class='nx'>void</span> yy_r2_27 (mixed yy_subpatterns)
@@ -2593,7 +2593,7 @@ Purpose:  wrap a string of text at a given length</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L516 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 516</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L516" >framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 516</a>
 
 <h3 id="yy_r2_28()">yy_r2_28</h3>
 <span class='k'></span> <span class='nx'>void</span> yy_r2_28 (mixed yy_subpatterns)
@@ -2604,7 +2604,7 @@ Purpose:  wrap a string of text at a given length</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L521 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 521</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L521" >framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 521</a>
 
 <h3 id="yy_r2_29()">yy_r2_29</h3>
 <span class='k'></span> <span class='nx'>void</span> yy_r2_29 (mixed yy_subpatterns)
@@ -2615,7 +2615,7 @@ Purpose:  wrap a string of text at a given length</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L526 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 526</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L526" >framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 526</a>
 
 <h3 id="yy_r2_30()">yy_r2_30</h3>
 <span class='k'></span> <span class='nx'>void</span> yy_r2_30 (mixed yy_subpatterns)
@@ -2626,7 +2626,7 @@ Purpose:  wrap a string of text at a given length</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L531 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 531</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L531" >framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 531</a>
 
 <h3 id="yy_r2_31()">yy_r2_31</h3>
 <span class='k'></span> <span class='nx'>void</span> yy_r2_31 (mixed yy_subpatterns)
@@ -2637,7 +2637,7 @@ Purpose:  wrap a string of text at a given length</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L536 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 536</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L536" >framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 536</a>
 
 <h3 id="yy_r2_32()">yy_r2_32</h3>
 <span class='k'></span> <span class='nx'>void</span> yy_r2_32 (mixed yy_subpatterns)
@@ -2648,7 +2648,7 @@ Purpose:  wrap a string of text at a given length</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L541 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 541</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L541" >framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 541</a>
 
 <h3 id="yy_r2_33()">yy_r2_33</h3>
 <span class='k'></span> <span class='nx'>void</span> yy_r2_33 (mixed yy_subpatterns)
@@ -2659,7 +2659,7 @@ Purpose:  wrap a string of text at a given length</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L546 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 546</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L546" >framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 546</a>
 
 <h3 id="yy_r2_34()">yy_r2_34</h3>
 <span class='k'></span> <span class='nx'>void</span> yy_r2_34 (mixed yy_subpatterns)
@@ -2670,7 +2670,7 @@ Purpose:  wrap a string of text at a given length</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L551 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 551</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L551" >framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 551</a>
 
 <h3 id="yy_r2_35()">yy_r2_35</h3>
 <span class='k'></span> <span class='nx'>void</span> yy_r2_35 (mixed yy_subpatterns)
@@ -2681,7 +2681,7 @@ Purpose:  wrap a string of text at a given length</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L556 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 556</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L556" >framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 556</a>
 
 <h3 id="yy_r2_36()">yy_r2_36</h3>
 <span class='k'></span> <span class='nx'>void</span> yy_r2_36 (mixed yy_subpatterns)
@@ -2692,7 +2692,7 @@ Purpose:  wrap a string of text at a given length</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L561 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 561</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L561" >framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 561</a>
 
 <h3 id="yy_r2_37()">yy_r2_37</h3>
 <span class='k'></span> <span class='nx'>void</span> yy_r2_37 (mixed yy_subpatterns)
@@ -2703,7 +2703,7 @@ Purpose:  wrap a string of text at a given length</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L566 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 566</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L566" >framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 566</a>
 
 <h3 id="yy_r2_38()">yy_r2_38</h3>
 <span class='k'></span> <span class='nx'>void</span> yy_r2_38 (mixed yy_subpatterns)
@@ -2714,7 +2714,7 @@ Purpose:  wrap a string of text at a given length</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L571 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 571</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L571" >framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 571</a>
 
 <h3 id="yy_r2_39()">yy_r2_39</h3>
 <span class='k'></span> <span class='nx'>void</span> yy_r2_39 (mixed yy_subpatterns)
@@ -2725,7 +2725,7 @@ Purpose:  wrap a string of text at a given length</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L576 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 576</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L576" >framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 576</a>
 
 <h3 id="yy_r2_40()">yy_r2_40</h3>
 <span class='k'></span> <span class='nx'>void</span> yy_r2_40 (mixed yy_subpatterns)
@@ -2736,7 +2736,7 @@ Purpose:  wrap a string of text at a given length</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L581 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 581</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L581" >framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 581</a>
 
 <h3 id="yy_r2_41()">yy_r2_41</h3>
 <span class='k'></span> <span class='nx'>void</span> yy_r2_41 (mixed yy_subpatterns)
@@ -2747,7 +2747,7 @@ Purpose:  wrap a string of text at a given length</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L586 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 586</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L586" >framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 586</a>
 
 <h3 id="yy_r2_42()">yy_r2_42</h3>
 <span class='k'></span> <span class='nx'>void</span> yy_r2_42 (mixed yy_subpatterns)
@@ -2758,7 +2758,7 @@ Purpose:  wrap a string of text at a given length</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L591 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 591</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L591" >framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 591</a>
 
 <h3 id="yy_r2_43()">yy_r2_43</h3>
 <span class='k'></span> <span class='nx'>void</span> yy_r2_43 (mixed yy_subpatterns)
@@ -2769,7 +2769,7 @@ Purpose:  wrap a string of text at a given length</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L596 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 596</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L596" >framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 596</a>
 
 <h3 id="yy_r2_47()">yy_r2_47</h3>
 <span class='k'></span> <span class='nx'>void</span> yy_r2_47 (mixed yy_subpatterns)
@@ -2780,7 +2780,7 @@ Purpose:  wrap a string of text at a given length</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L601 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 601</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L601" >framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 601</a>
 
 <h3 id="yy_r2_48()">yy_r2_48</h3>
 <span class='k'></span> <span class='nx'>void</span> yy_r2_48 (mixed yy_subpatterns)
@@ -2791,7 +2791,7 @@ Purpose:  wrap a string of text at a given length</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L606 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 606</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L606" >framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 606</a>
 
 <h3 id="yy_r2_49()">yy_r2_49</h3>
 <span class='k'></span> <span class='nx'>void</span> yy_r2_49 (mixed yy_subpatterns)
@@ -2802,7 +2802,7 @@ Purpose:  wrap a string of text at a given length</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L392 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 392</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L392" >framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 392</a>
 
 <h3 id="yy_r2_5()">yy_r2_5</h3>
 <span class='k'></span> <span class='nx'>void</span> yy_r2_5 (mixed yy_subpatterns)
@@ -2813,7 +2813,7 @@ Purpose:  wrap a string of text at a given length</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L611 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 611</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L611" >framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 611</a>
 
 <h3 id="yy_r2_50()">yy_r2_50</h3>
 <span class='k'></span> <span class='nx'>void</span> yy_r2_50 (mixed yy_subpatterns)
@@ -2824,7 +2824,7 @@ Purpose:  wrap a string of text at a given length</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L616 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 616</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L616" >framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 616</a>
 
 <h3 id="yy_r2_51()">yy_r2_51</h3>
 <span class='k'></span> <span class='nx'>void</span> yy_r2_51 (mixed yy_subpatterns)
@@ -2835,7 +2835,7 @@ Purpose:  wrap a string of text at a given length</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L621 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 621</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L621" >framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 621</a>
 
 <h3 id="yy_r2_52()">yy_r2_52</h3>
 <span class='k'></span> <span class='nx'>void</span> yy_r2_52 (mixed yy_subpatterns)
@@ -2846,7 +2846,7 @@ Purpose:  wrap a string of text at a given length</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L626 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 626</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L626" >framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 626</a>
 
 <h3 id="yy_r2_53()">yy_r2_53</h3>
 <span class='k'></span> <span class='nx'>void</span> yy_r2_53 (mixed yy_subpatterns)
@@ -2857,7 +2857,7 @@ Purpose:  wrap a string of text at a given length</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L631 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 631</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L631" >framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 631</a>
 
 <h3 id="yy_r2_54()">yy_r2_54</h3>
 <span class='k'></span> <span class='nx'>void</span> yy_r2_54 (mixed yy_subpatterns)
@@ -2868,7 +2868,7 @@ Purpose:  wrap a string of text at a given length</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L636 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 636</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L636" >framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 636</a>
 
 <h3 id="yy_r2_55()">yy_r2_55</h3>
 <span class='k'></span> <span class='nx'>void</span> yy_r2_55 (mixed yy_subpatterns)
@@ -2879,7 +2879,7 @@ Purpose:  wrap a string of text at a given length</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L641 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 641</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L641" >framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 641</a>
 
 <h3 id="yy_r2_57()">yy_r2_57</h3>
 <span class='k'></span> <span class='nx'>void</span> yy_r2_57 (mixed yy_subpatterns)
@@ -2890,7 +2890,7 @@ Purpose:  wrap a string of text at a given length</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L646 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 646</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L646" >framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 646</a>
 
 <h3 id="yy_r2_59()">yy_r2_59</h3>
 <span class='k'></span> <span class='nx'>void</span> yy_r2_59 (mixed yy_subpatterns)
@@ -2901,7 +2901,7 @@ Purpose:  wrap a string of text at a given length</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L403 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 403</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L403" >framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 403</a>
 
 <h3 id="yy_r2_6()">yy_r2_6</h3>
 <span class='k'></span> <span class='nx'>void</span> yy_r2_6 (mixed yy_subpatterns)
@@ -2912,7 +2912,7 @@ Purpose:  wrap a string of text at a given length</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L651 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 651</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L651" >framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 651</a>
 
 <h3 id="yy_r2_60()">yy_r2_60</h3>
 <span class='k'></span> <span class='nx'>void</span> yy_r2_60 (mixed yy_subpatterns)
@@ -2923,7 +2923,7 @@ Purpose:  wrap a string of text at a given length</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L656 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 656</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L656" >framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 656</a>
 
 <h3 id="yy_r2_61()">yy_r2_61</h3>
 <span class='k'></span> <span class='nx'>void</span> yy_r2_61 (mixed yy_subpatterns)
@@ -2934,7 +2934,7 @@ Purpose:  wrap a string of text at a given length</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L661 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 661</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L661" >framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 661</a>
 
 <h3 id="yy_r2_62()">yy_r2_62</h3>
 <span class='k'></span> <span class='nx'>void</span> yy_r2_62 (mixed yy_subpatterns)
@@ -2945,7 +2945,7 @@ Purpose:  wrap a string of text at a given length</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L666 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 666</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L666" >framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 666</a>
 
 <h3 id="yy_r2_63()">yy_r2_63</h3>
 <span class='k'></span> <span class='nx'>void</span> yy_r2_63 (mixed yy_subpatterns)
@@ -2956,7 +2956,7 @@ Purpose:  wrap a string of text at a given length</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L671 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 671</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L671" >framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 671</a>
 
 <h3 id="yy_r2_64()">yy_r2_64</h3>
 <span class='k'></span> <span class='nx'>void</span> yy_r2_64 (mixed yy_subpatterns)
@@ -2967,7 +2967,7 @@ Purpose:  wrap a string of text at a given length</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L676 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 676</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L676" >framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 676</a>
 
 <h3 id="yy_r2_65()">yy_r2_65</h3>
 <span class='k'></span> <span class='nx'>void</span> yy_r2_65 (mixed yy_subpatterns)
@@ -2978,7 +2978,7 @@ Purpose:  wrap a string of text at a given length</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L682 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 682</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L682" >framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 682</a>
 
 <h3 id="yy_r2_66()">yy_r2_66</h3>
 <span class='k'></span> <span class='nx'>void</span> yy_r2_66 (mixed yy_subpatterns)
@@ -2989,7 +2989,7 @@ Purpose:  wrap a string of text at a given length</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L688 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 688</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L688" >framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 688</a>
 
 <h3 id="yy_r2_67()">yy_r2_67</h3>
 <span class='k'></span> <span class='nx'>void</span> yy_r2_67 (mixed yy_subpatterns)
@@ -3000,7 +3000,7 @@ Purpose:  wrap a string of text at a given length</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L693 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 693</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L693" >framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 693</a>
 
 <h3 id="yy_r2_68()">yy_r2_68</h3>
 <span class='k'></span> <span class='nx'>void</span> yy_r2_68 (mixed yy_subpatterns)
@@ -3011,7 +3011,7 @@ Purpose:  wrap a string of text at a given length</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L698 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 698</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L698" >framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 698</a>
 
 <h3 id="yy_r2_69()">yy_r2_69</h3>
 <span class='k'></span> <span class='nx'>void</span> yy_r2_69 (mixed yy_subpatterns)
@@ -3022,7 +3022,7 @@ Purpose:  wrap a string of text at a given length</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L414 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 414</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L414" >framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 414</a>
 
 <h3 id="yy_r2_7()">yy_r2_7</h3>
 <span class='k'></span> <span class='nx'>void</span> yy_r2_7 (mixed yy_subpatterns)
@@ -3033,7 +3033,7 @@ Purpose:  wrap a string of text at a given length</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L703 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 703</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L703" >framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 703</a>
 
 <h3 id="yy_r2_70()">yy_r2_70</h3>
 <span class='k'></span> <span class='nx'>void</span> yy_r2_70 (mixed yy_subpatterns)
@@ -3044,7 +3044,7 @@ Purpose:  wrap a string of text at a given length</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L708 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 708</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L708" >framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 708</a>
 
 <h3 id="yy_r2_71()">yy_r2_71</h3>
 <span class='k'></span> <span class='nx'>void</span> yy_r2_71 (mixed yy_subpatterns)
@@ -3055,7 +3055,7 @@ Purpose:  wrap a string of text at a given length</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L713 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 713</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L713" >framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 713</a>
 
 <h3 id="yy_r2_72()">yy_r2_72</h3>
 <span class='k'></span> <span class='nx'>void</span> yy_r2_72 (mixed yy_subpatterns)
@@ -3066,7 +3066,7 @@ Purpose:  wrap a string of text at a given length</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L718 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 718</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L718" >framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 718</a>
 
 <h3 id="yy_r2_73()">yy_r2_73</h3>
 <span class='k'></span> <span class='nx'>void</span> yy_r2_73 (mixed yy_subpatterns)
@@ -3077,7 +3077,7 @@ Purpose:  wrap a string of text at a given length</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L723 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 723</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L723" >framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 723</a>
 
 <h3 id="yy_r2_74()">yy_r2_74</h3>
 <span class='k'></span> <span class='nx'>void</span> yy_r2_74 (mixed yy_subpatterns)
@@ -3088,7 +3088,7 @@ Purpose:  wrap a string of text at a given length</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L728 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 728</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L728" >framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 728</a>
 
 <h3 id="yy_r2_75()">yy_r2_75</h3>
 <span class='k'></span> <span class='nx'>void</span> yy_r2_75 (mixed yy_subpatterns)
@@ -3099,7 +3099,7 @@ Purpose:  wrap a string of text at a given length</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L733 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 733</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L733" >framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 733</a>
 
 <h3 id="yy_r2_76()">yy_r2_76</h3>
 <span class='k'></span> <span class='nx'>void</span> yy_r2_76 (mixed yy_subpatterns)
@@ -3110,7 +3110,7 @@ Purpose:  wrap a string of text at a given length</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L425 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 425</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L425" >framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 425</a>
 
 <h3 id="yy_r2_8()">yy_r2_8</h3>
 <span class='k'></span> <span class='nx'>void</span> yy_r2_8 (mixed yy_subpatterns)
@@ -3121,7 +3121,7 @@ Purpose:  wrap a string of text at a given length</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L431 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 431</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L431" >framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 431</a>
 
 <h3 id="yy_r2_9()">yy_r2_9</h3>
 <span class='k'></span> <span class='nx'>void</span> yy_r2_9 (mixed yy_subpatterns)
@@ -3132,7 +3132,7 @@ Purpose:  wrap a string of text at a given length</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L811 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 811</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L811" >framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 811</a>
 
 <h3 id="yy_r3_4()">yy_r3_4</h3>
 <span class='k'></span> <span class='nx'>void</span> yy_r3_4 (mixed yy_subpatterns)
@@ -3143,7 +3143,7 @@ Purpose:  wrap a string of text at a given length</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L816 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 816</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L816" >framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 816</a>
 
 <h3 id="yy_r3_5()">yy_r3_5</h3>
 <span class='k'></span> <span class='nx'>void</span> yy_r3_5 (mixed yy_subpatterns)
@@ -3154,7 +3154,7 @@ Purpose:  wrap a string of text at a given length</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L821 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 821</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L821" >framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 821</a>
 
 <h3 id="yy_r3_6()">yy_r3_6</h3>
 <span class='k'></span> <span class='nx'>void</span> yy_r3_6 (mixed yy_subpatterns)
@@ -3165,7 +3165,7 @@ Purpose:  wrap a string of text at a given length</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L826 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 826</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L826" >framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 826</a>
 
 <h3 id="yy_r3_7()">yy_r3_7</h3>
 <span class='k'></span> <span class='nx'>void</span> yy_r3_7 (mixed yy_subpatterns)
@@ -3176,7 +3176,7 @@ Purpose:  wrap a string of text at a given length</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L979 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 979</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L979" >framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 979</a>
 
 <h3 id="yy_r4_10()">yy_r4_10</h3>
 <span class='k'></span> <span class='nx'>void</span> yy_r4_10 (mixed yy_subpatterns)
@@ -3187,7 +3187,7 @@ Purpose:  wrap a string of text at a given length</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L987 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 987</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L987" >framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 987</a>
 
 <h3 id="yy_r4_11()">yy_r4_11</h3>
 <span class='k'></span> <span class='nx'>void</span> yy_r4_11 (mixed yy_subpatterns)
@@ -3198,7 +3198,7 @@ Purpose:  wrap a string of text at a given length</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L992 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 992</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L992" >framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 992</a>
 
 <h3 id="yy_r4_12()">yy_r4_12</h3>
 <span class='k'></span> <span class='nx'>void</span> yy_r4_12 (mixed yy_subpatterns)
@@ -3209,7 +3209,7 @@ Purpose:  wrap a string of text at a given length</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L997 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 997</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L997" >framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 997</a>
 
 <h3 id="yy_r4_13()">yy_r4_13</h3>
 <span class='k'></span> <span class='nx'>void</span> yy_r4_13 (mixed yy_subpatterns)
@@ -3220,7 +3220,7 @@ Purpose:  wrap a string of text at a given length</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L1002 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 1002</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L1002" >framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 1002</a>
 
 <h3 id="yy_r4_17()">yy_r4_17</h3>
 <span class='k'></span> <span class='nx'>void</span> yy_r4_17 (mixed yy_subpatterns)
@@ -3231,7 +3231,7 @@ Purpose:  wrap a string of text at a given length</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L926 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 926</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L926" >framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 926</a>
 
 <h3 id="yy_r4_4()">yy_r4_4</h3>
 <span class='k'></span> <span class='nx'>void</span> yy_r4_4 (mixed yy_subpatterns)
@@ -3242,7 +3242,7 @@ Purpose:  wrap a string of text at a given length</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L937 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 937</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L937" >framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 937</a>
 
 <h3 id="yy_r4_5()">yy_r4_5</h3>
 <span class='k'></span> <span class='nx'>void</span> yy_r4_5 (mixed yy_subpatterns)
@@ -3253,7 +3253,7 @@ Purpose:  wrap a string of text at a given length</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L948 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 948</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L948" >framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 948</a>
 
 <h3 id="yy_r4_6()">yy_r4_6</h3>
 <span class='k'></span> <span class='nx'>void</span> yy_r4_6 (mixed yy_subpatterns)
@@ -3264,7 +3264,7 @@ Purpose:  wrap a string of text at a given length</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L959 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 959</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L959" >framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 959</a>
 
 <h3 id="yy_r4_7()">yy_r4_7</h3>
 <span class='k'></span> <span class='nx'>void</span> yy_r4_7 (mixed yy_subpatterns)
@@ -3275,7 +3275,7 @@ Purpose:  wrap a string of text at a given length</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L966 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 966</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L966" >framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 966</a>
 
 <h3 id="yy_r4_8()">yy_r4_8</h3>
 <span class='k'></span> <span class='nx'>void</span> yy_r4_8 (mixed yy_subpatterns)
@@ -3286,7 +3286,7 @@ Purpose:  wrap a string of text at a given length</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L973 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 973</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L973" >framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 973</a>
 
 <h3 id="yy_r4_9()">yy_r4_9</h3>
 <span class='k'></span> <span class='nx'>void</span> yy_r4_9 (mixed yy_subpatterns)
@@ -3297,7 +3297,7 @@ Purpose:  wrap a string of text at a given length</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L261 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 261</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L261" >framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 261</a>
 
 <h3 id="yylex2()">yylex2</h3>
 <span class='k'></span> <span class='nx'>void</span> yylex2 ()
@@ -3308,7 +3308,7 @@ Purpose:  wrap a string of text at a given length</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L741 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 741</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L741" >framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 741</a>
 
 <h3 id="yylex3()">yylex3</h3>
 <span class='k'></span> <span class='nx'>void</span> yylex3 ()
@@ -3319,7 +3319,7 @@ Purpose:  wrap a string of text at a given length</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L849 class="location">framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 849</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatelexer.php#L849" >framework\libs\smarty\sysplugins\smarty_internal_templatelexer.php at line 849</a>
 
 <h3 id="yylex4()">yylex4</h3>
 <span class='k'></span> <span class='nx'>void</span> yylex4 ()

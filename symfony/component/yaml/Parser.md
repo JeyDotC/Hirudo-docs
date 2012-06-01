@@ -1,10 +1,11 @@
 
+
 - - -
 
 **Symfony\Component\Yaml\Parser**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/yaml/parser.php#L20 class="location">framework\libs\symfony-components\Symfony\Component\Yaml\Parser.php at line 20</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/Yaml/Parser.php#L20" >framework\libs\symfony-components\Symfony\Component\Yaml\Parser.php at line 20</a>
 
 #Class Parser#
 
@@ -15,7 +16,7 @@
 
 - - -
 
-<p class="signature">public  class **Parser**</p>
+<p class="signature"><span class='k'>public  class</span> <span class='nx'>Parser</span></p>
 
 <div class="comment" id="overview_description"><p>Parser parses YAML strings to convert them to PHP arrays.</p></div>
 
@@ -45,7 +46,7 @@
 
 <h2 id="detail_method">Constructor Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/yaml/parser.php#L33 class="location">framework\libs\symfony-components\Symfony\Component\Yaml\Parser.php at line 33</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/Yaml/Parser.php#L33" >framework\libs\symfony-components\Symfony\Component\Yaml\Parser.php at line 33</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (integer offset)
@@ -55,13 +56,14 @@
 <dt>Parameters:</dt>
 <dd>offset - The offset of YAML document (used for line numbers in error messages)</dd>
 </dl>
+
 </div>
 
 - - -
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/yaml/parser.php#L47 class="location">framework\libs\symfony-components\Symfony\Component\Yaml\Parser.php at line 47</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/Yaml/Parser.php#L47" >framework\libs\symfony-components\Symfony\Component\Yaml\Parser.php at line 47</a>
 
 <h3 id="parse()">parse</h3>
 <span class='k'></span> <span class='nx'>mixed</span> <span class='nf'>parse</span> (string value)
@@ -75,6 +77,7 @@
 <dt>Throws:</dt>
 <dd><a href="../../../symfony/component/yaml/exception/parseexception.html">ParseException</a> - If the YAML is not valid</dd>
 </dl>
+
 </div>
 
 - - -

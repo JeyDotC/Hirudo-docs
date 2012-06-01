@@ -1,10 +1,11 @@
 
+
 - - -
 
 **Symfony\Component\EventDispatcher\EventDispatcherInterface**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/eventdispatcher/eventdispatcherinterface.php#L23 class="location">framework\libs\symfony-components\Symfony\Component\EventDispatcher\EventDispatcherInterface.php at line 23</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/EventDispatcher/EventDispatcherInterface.php#L23" >framework\libs\symfony-components\Symfony\Component\EventDispatcher\EventDispatcherInterface.php at line 23</a>
 
 #Interface EventDispatcherInterface#
 
@@ -15,7 +16,7 @@
 
 - - -
 
-<p class="signature">public  interface **EventDispatcherInterface**</p>
+<p class="signature"><span class='k'>public  interface</span> <span class='nx'>EventDispatcherInterface</span></p>
 
 <div class="comment" id="overview_description"><p>The EventDispatcherInterface is the central point of Symfony's event listener system.
 Listeners are registered on the manager and events are dispatched through the
@@ -34,7 +35,7 @@ manager.</p></div>
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#dispatch">dispatch</a>(string eventName, <a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/eventdispatcher/event.html">Event</a> event)</p><p class="description">Dispatches an event to all registered listeners.</p></td>
+<td class="description"><p class="name"><a href="#dispatch">dispatch</a>(string eventName, <a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/eventdispatcher/event.md">Event</a> event)</p><p class="description">Dispatches an event to all registered listeners.</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
@@ -42,7 +43,7 @@ manager.</p></div>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#addsubscriber">addSubscriber</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/eventdispatcher/eventsubscriberinterface.html">EventSubscriberInterface</a> subscriber)</p><p class="description">Adds an event subscriber. </p></td>
+<td class="description"><p class="name"><a href="#addsubscriber">addSubscriber</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/eventdispatcher/eventsubscriberinterface.md">EventSubscriberInterface</a> subscriber)</p><p class="description">Adds an event subscriber. </p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
@@ -50,7 +51,7 @@ manager.</p></div>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#removesubscriber">removeSubscriber</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/eventdispatcher/eventsubscriberinterface.html">EventSubscriberInterface</a> subscriber)</p><p class="description">Removes an event subscriber.</p></td>
+<td class="description"><p class="name"><a href="#removesubscriber">removeSubscriber</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/eventdispatcher/eventsubscriberinterface.md">EventSubscriberInterface</a> subscriber)</p><p class="description">Removes an event subscriber.</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>array</span></td>
@@ -64,10 +65,10 @@ manager.</p></div>
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/eventdispatcher/eventdispatcherinterface.php#L36 class="location">framework\libs\symfony-components\Symfony\Component\EventDispatcher\EventDispatcherInterface.php at line 36</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/EventDispatcher/EventDispatcherInterface.php#L36" >framework\libs\symfony-components\Symfony\Component\EventDispatcher\EventDispatcherInterface.php at line 36</a>
 
 <h3 id="dispatch()">dispatch</h3>
-<span class='k'></span> <span class='nx'>void</span> <span class='nf'>dispatch</span> (string eventName, <a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/eventdispatcher/event.html">Event</a> event)
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>dispatch</span> (string eventName, <a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/eventdispatcher/event.md">Event</a> event)
 
 <div class="details">
 <p>Dispatches an event to all registered listeners.</p><dl>
@@ -76,12 +77,13 @@ manager.</p></div>
 <dd>event - The event to pass to the event handlers/listeners. If not supplied, an empty Event instance is created.</dd>
 <dt>Api.</dt>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/eventdispatcher/eventdispatcherinterface.php#L48 class="location">framework\libs\symfony-components\Symfony\Component\EventDispatcher\EventDispatcherInterface.php at line 48</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/EventDispatcher/EventDispatcherInterface.php#L48" >framework\libs\symfony-components\Symfony\Component\EventDispatcher\EventDispatcherInterface.php at line 48</a>
 
 <h3 id="addListener()">addListener</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>addListener</span> (string eventName, callable listener, integer priority)
@@ -94,15 +96,16 @@ manager.</p></div>
 <dd>priority - The higher this value, the earlier an event listener will be triggered in the chain (defaults to 0)</dd>
 <dt>Api.</dt>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/eventdispatcher/eventdispatcherinterface.php#L58 class="location">framework\libs\symfony-components\Symfony\Component\EventDispatcher\EventDispatcherInterface.php at line 58</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/EventDispatcher/EventDispatcherInterface.php#L58" >framework\libs\symfony-components\Symfony\Component\EventDispatcher\EventDispatcherInterface.php at line 58</a>
 
 <h3 id="addSubscriber()">addSubscriber</h3>
-<span class='k'></span> <span class='nx'>void</span> <span class='nf'>addSubscriber</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/eventdispatcher/eventsubscriberinterface.html">EventSubscriberInterface</a> subscriber)
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>addSubscriber</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/eventdispatcher/eventsubscriberinterface.md">EventSubscriberInterface</a> subscriber)
 
 <div class="details">
 <p>Adds an event subscriber. The subscriber is asked for all the events he is
@@ -111,12 +114,13 @@ interested in and added as a listener for these events.</p><dl>
 <dd>subscriber - The subscriber.</dd>
 <dt>Api.</dt>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/eventdispatcher/eventdispatcherinterface.php#L66 class="location">framework\libs\symfony-components\Symfony\Component\EventDispatcher\EventDispatcherInterface.php at line 66</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/EventDispatcher/EventDispatcherInterface.php#L66" >framework\libs\symfony-components\Symfony\Component\EventDispatcher\EventDispatcherInterface.php at line 66</a>
 
 <h3 id="removeListener()">removeListener</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>removeListener</span> (string|array eventName, object listener)
@@ -127,27 +131,29 @@ interested in and added as a listener for these events.</p><dl>
 <dd>eventName - The event(s) to remove a listener from.</dd>
 <dd>listener - The listener object to remove.</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/eventdispatcher/eventdispatcherinterface.php#L73 class="location">framework\libs\symfony-components\Symfony\Component\EventDispatcher\EventDispatcherInterface.php at line 73</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/EventDispatcher/EventDispatcherInterface.php#L73" >framework\libs\symfony-components\Symfony\Component\EventDispatcher\EventDispatcherInterface.php at line 73</a>
 
 <h3 id="removeSubscriber()">removeSubscriber</h3>
-<span class='k'></span> <span class='nx'>void</span> <span class='nf'>removeSubscriber</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/eventdispatcher/eventsubscriberinterface.html">EventSubscriberInterface</a> subscriber)
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>removeSubscriber</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/eventdispatcher/eventsubscriberinterface.md">EventSubscriberInterface</a> subscriber)
 
 <div class="details">
 <p>Removes an event subscriber.</p><dl>
 <dt>Parameters:</dt>
 <dd>subscriber - The subscriber.</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/eventdispatcher/eventdispatcherinterface.php#L83 class="location">framework\libs\symfony-components\Symfony\Component\EventDispatcher\EventDispatcherInterface.php at line 83</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/EventDispatcher/EventDispatcherInterface.php#L83" >framework\libs\symfony-components\Symfony\Component\EventDispatcher\EventDispatcherInterface.php at line 83</a>
 
 <h3 id="getListeners()">getListeners</h3>
 <span class='k'></span> <span class='nx'>array</span> <span class='nf'>getListeners</span> (string eventName)
@@ -159,12 +165,13 @@ interested in and added as a listener for these events.</p><dl>
 <dt>Returns:</dt>
 <dd>The event listeners for the specified event, or all event listeners by event name.</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/eventdispatcher/eventdispatcherinterface.php#L93 class="location">framework\libs\symfony-components\Symfony\Component\EventDispatcher\EventDispatcherInterface.php at line 93</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/EventDispatcher/EventDispatcherInterface.php#L93" >framework\libs\symfony-components\Symfony\Component\EventDispatcher\EventDispatcherInterface.php at line 93</a>
 
 <h3 id="hasListeners()">hasListeners</h3>
 <span class='k'></span> <span class='nx'>Boolean</span> <span class='nf'>hasListeners</span> (string eventName)
@@ -176,6 +183,7 @@ interested in and added as a listener for these events.</p><dl>
 <dt>Returns:</dt>
 <dd>TRUE if the specified event has any listeners, FALSE otherwise.</dd>
 </dl>
+
 </div>
 
 - - -

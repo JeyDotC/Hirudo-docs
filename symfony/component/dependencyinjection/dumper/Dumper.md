@@ -1,10 +1,11 @@
 
+
 - - -
 
 **Symfony\Component\DependencyInjection\Dumper\Dumper**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/dumper/dumper.php#L23 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Dumper\Dumper.php at line 23</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Dumper/Dumper.php#L23" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Dumper\Dumper.php at line 23</a>
 
 #Class Dumper#
 
@@ -20,7 +21,7 @@
 
 - - -
 
-<p class="signature">public abstract  class **Dumper**</p>
+<p class="signature"><span class='k'>public abstract  class</span> <span class='nx'>Dumper</span></p>
 
 <div class="comment" id="overview_description"><p>Dumper is the abstract class for all built-in dumpers.</p></div>
 
@@ -48,16 +49,16 @@
 <tr><th colspan="2">Constructor Summary</th></tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#__construct">__construct</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/containerbuilder.html">ContainerBuilder</a> container)</p><p class="description">Constructor.</p></td>
+<td class="description"><p class="name"><a href="#__construct">__construct</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/containerbuilder.md">ContainerBuilder</a> container)</p><p class="description">Constructor.</p></td>
 </tr>
 </table>
 
 <h2 id="detail_method">Constructor Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/dumper/dumper.php#L34 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Dumper\Dumper.php at line 34</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Dumper/Dumper.php#L34" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Dumper\Dumper.php at line 34</a>
 
 <h3 id="__construct">__construct</h3>
-<span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/containerbuilder.html">ContainerBuilder</a> container)
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/containerbuilder.md">ContainerBuilder</a> container)
 
 <div class="details">
 <p>Constructor.</p><dl>
@@ -65,6 +66,7 @@
 <dd>container - The service container to dump</dd>
 <dt>Api.</dt>
 </dl>
+
 </div>
 
 - - -

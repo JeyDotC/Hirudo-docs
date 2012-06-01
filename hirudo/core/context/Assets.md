@@ -1,10 +1,11 @@
 
+
 - - -
 
 **Hirudo\Core\Context\Assets**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/core/context/assets.php#L32 class="location">framework\hirudo\Hirudo\Core\Context\Assets.php at line 32</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Context/Assets.php#L32" >framework\hirudo\Hirudo\Core\Context\Assets.php at line 32</a>
 
 #Class Assets#
 
@@ -20,7 +21,7 @@
 
 - - -
 
-<p class="signature">public abstract  class **Assets**</p>
+<p class="signature"><span class='k'>public abstract  class</span> <span class='nx'>Assets</span></p>
 
 <div class="comment" id="overview_description"><p><p>This class creates the script and link tags.</p></p><p><p><strong>Note:</strong> The entire tag is created instead of just adjusting
 the path to the asset. This is because adjusting the path is not enough in
@@ -58,7 +59,7 @@ be set to the given path. </p></td>
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/core/context/assets.php#L46 class="location">framework\hirudo\Hirudo\Core\Context\Assets.php at line 46</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Context/Assets.php#L46" >framework\hirudo\Hirudo\Core\Context\Assets.php at line 46</a>
 
 <h3 id="addJavaScript()">addJavaScript</h3>
 <span class='k'>abstract </span> <span class='nx'>string</span> <span class='nf'>addJavaScript</span> (string jsPath)
@@ -72,12 +73,13 @@ the tag.</p></p><dl>
 <dt>Returns:</dt>
 <dd>The script tag.</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/core/context/assets.php#L60 class="location">framework\hirudo\Hirudo\Core\Context\Assets.php at line 60</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Context/Assets.php#L60" >framework\hirudo\Hirudo\Core\Context\Assets.php at line 60</a>
 
 <h3 id="addCSS()">addCSS</h3>
 <span class='k'>abstract </span> <span class='nx'>string</span> <span class='nf'>addCSS</span> (string cssPath)
@@ -91,12 +93,13 @@ the tag.</p></p><dl>
 <dt>Returns:</dt>
 <dd>The link tag.</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/core/context/assets.php#L70 class="location">framework\hirudo\Hirudo\Core\Context\Assets.php at line 70</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Context/Assets.php#L70" >framework\hirudo\Hirudo\Core\Context\Assets.php at line 70</a>
 
 <h3 id="generateScriptTag()">generateScriptTag</h3>
 <span class='k'>protected </span> <span class='nx'>string</span> <span class='nf'>generateScriptTag</span> (string jsPath)
@@ -110,12 +113,13 @@ to meet the CMS conventions.</p><dl>
 <dt>Returns:</dt>
 <dd>The script tag.</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/core/context/assets.php#L82 class="location">framework\hirudo\Hirudo\Core\Context\Assets.php at line 82</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Context/Assets.php#L82" >framework\hirudo\Hirudo\Core\Context\Assets.php at line 82</a>
 
 <h3 id="generateCSSTag()">generateCSSTag</h3>
 <span class='k'>protected </span> <span class='nx'>string</span> <span class='nf'>generateCSSTag</span> (string cssPath)
@@ -129,6 +133,7 @@ to meet the CMS conventions.</p><dl>
 <dt>Returns:</dt>
 <dd>The link tag.</dd>
 </dl>
+
 </div>
 
 - - -

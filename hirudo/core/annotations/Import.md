@@ -1,10 +1,11 @@
 
+
 - - -
 
 **Hirudo\Core\Annotations\Import**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/core/annotations/import.php#L35 class="location">framework\hirudo\Hirudo\Core\Annotations\Import.php at line 35</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Annotations/Import.php#L35" >framework\hirudo\Hirudo\Core\Annotations\Import.php at line 35</a>
 
 #Class Import#
 
@@ -15,7 +16,7 @@
 
 - - -
 
-<p class="signature">public final  class **Import**</p>
+<p class="signature"><span class='k'>public final  class</span> <span class='nx'>Import</span></p>
 
 <div class="comment" id="overview_description"><p>This annotation marks a method or property as a dependency requester, a point in which
 to inject a dependency.</p></div>

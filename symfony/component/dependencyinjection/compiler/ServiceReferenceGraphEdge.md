@@ -1,10 +1,11 @@
 
+
 - - -
 
 **Symfony\Component\DependencyInjection\Compiler\ServiceReferenceGraphEdge**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/compiler/servicereferencegraphedge.php#L21 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\ServiceReferenceGraphEdge.php at line 21</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/ServiceReferenceGraphEdge.php#L21" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\ServiceReferenceGraphEdge.php at line 21</a>
 
 #Class ServiceReferenceGraphEdge#
 
@@ -15,7 +16,7 @@
 
 - - -
 
-<p class="signature">public  class **ServiceReferenceGraphEdge**</p>
+<p class="signature"><span class='k'>public  class</span> <span class='nx'>ServiceReferenceGraphEdge</span></p>
 
 <div class="comment" id="overview_description"><p>Represents an edge in your service graph.</p><p>Value is typically a reference.</p></div>
 
@@ -31,7 +32,7 @@
 <tr><th colspan="2">Constructor Summary</th></tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#__construct">__construct</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/compiler/servicereferencegraphnode.html">ServiceReferenceGraphNode</a> sourceNode, <a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/compiler/servicereferencegraphnode.html">ServiceReferenceGraphNode</a> destNode, string value)</p><p class="description">Constructor.</p></td>
+<td class="description"><p class="name"><a href="#__construct">__construct</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/compiler/servicereferencegraphnode.md">ServiceReferenceGraphNode</a> sourceNode, <a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/compiler/servicereferencegraphnode.md">ServiceReferenceGraphNode</a> destNode, string value)</p><p class="description">Constructor.</p></td>
 </tr>
 </table>
 
@@ -53,47 +54,51 @@
 
 <h2 id="detail_method">Constructor Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/compiler/servicereferencegraphedge.php#L34 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\ServiceReferenceGraphEdge.php at line 34</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/ServiceReferenceGraphEdge.php#L34" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\ServiceReferenceGraphEdge.php at line 34</a>
 
 <h3 id="__construct">__construct</h3>
-<span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/compiler/servicereferencegraphnode.html">ServiceReferenceGraphNode</a> sourceNode, <a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/compiler/servicereferencegraphnode.html">ServiceReferenceGraphNode</a> destNode, string value)
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/compiler/servicereferencegraphnode.md">ServiceReferenceGraphNode</a> sourceNode, <a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/compiler/servicereferencegraphnode.md">ServiceReferenceGraphNode</a> destNode, string value)
 
 <div class="details">
-<p>Constructor.</p></div>
+<p>Constructor.</p>
+</div>
 
 - - -
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/compiler/servicereferencegraphedge.php#L46 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\ServiceReferenceGraphEdge.php at line 46</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/ServiceReferenceGraphEdge.php#L46" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\ServiceReferenceGraphEdge.php at line 46</a>
 
 <h3 id="getValue()">getValue</h3>
 <span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/compiler/servicereferencegraphnode.html>ServiceReferenceGraphNode</a></span> <span class='nf'>getValue</span> ()
 
 <div class="details">
-<p>Returns the value of the edge</p></div>
+<p>Returns the value of the edge</p>
+</div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/compiler/servicereferencegraphedge.php#L56 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\ServiceReferenceGraphEdge.php at line 56</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/ServiceReferenceGraphEdge.php#L56" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\ServiceReferenceGraphEdge.php at line 56</a>
 
 <h3 id="getSourceNode()">getSourceNode</h3>
 <span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/compiler/servicereferencegraphnode.html>ServiceReferenceGraphNode</a></span> <span class='nf'>getSourceNode</span> ()
 
 <div class="details">
-<p>Returns the source node</p></div>
+<p>Returns the source node</p>
+</div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/compiler/servicereferencegraphedge.php#L66 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\ServiceReferenceGraphEdge.php at line 66</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/ServiceReferenceGraphEdge.php#L66" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\ServiceReferenceGraphEdge.php at line 66</a>
 
 <h3 id="getDestNode()">getDestNode</h3>
 <span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/compiler/servicereferencegraphnode.html>ServiceReferenceGraphNode</a></span> <span class='nf'>getDestNode</span> ()
 
 <div class="details">
-<p>Returns the destination node</p></div>
+<p>Returns the destination node</p>
+</div>
 
 - - -
 

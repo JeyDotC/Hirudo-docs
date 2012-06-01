@@ -1,10 +1,11 @@
 
+
 - - -
 
 **Symfony\Component\DependencyInjection\Exception\InvalidArgumentException**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/exception/invalidargumentexception.php#L21 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Exception\InvalidArgumentException.php at line 21</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Exception/InvalidArgumentException.php#L21" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Exception\InvalidArgumentException.php at line 21</a>
 
 #Class InvalidArgumentException#
 
@@ -14,7 +15,7 @@ BaseInvalidArgumentException
 
 <dl>
 <dt>All Implemented Interfaces:</dt>
-<dd><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/exception/exceptioninterface.html">ExceptionInterface</a> </dd>
+<dd><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/exception/exceptioninterface.md">ExceptionInterface</a> </dd>
 </dl>
 
 <dl>
@@ -26,7 +27,7 @@ BaseInvalidArgumentException
 
 - - -
 
-<p class="signature">public  class **InvalidArgumentException**
+<p class="signature"><span class='k'>public  class</span> <span class='nx'>InvalidArgumentException</span>
 extends BaseInvalidArgumentException
 
 </p>

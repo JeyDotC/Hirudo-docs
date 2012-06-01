@@ -1,10 +1,11 @@
 
+
 - - -
 
 **Doctrine\Common\Lexer**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/doctrine/common/lexer.php#L32 class="location">framework\libs\doctrine-common\Doctrine\Common\Lexer.php at line 32</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Lexer.php#L32" >framework\libs\doctrine-common\Doctrine\Common\Lexer.php at line 32</a>
 
 #Class Lexer#
 
@@ -20,7 +21,7 @@
 
 - - -
 
-<p class="signature">public abstract  class **Lexer**</p>
+<p class="signature"><span class='k'>public abstract  class</span> <span class='nx'>Lexer</span></p>
 
 <div class="comment" id="overview_description"><p>Base class for writing simple lexers, i.e. for creating small DSLs.</p></div>
 
@@ -126,7 +127,7 @@
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/doctrine/common/lexer.php#L67 class="location">framework\libs\doctrine-common\Doctrine\Common\Lexer.php at line 67</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Lexer.php#L67" >framework\libs\doctrine-common\Doctrine\Common\Lexer.php at line 67</a>
 
 <h3 id="setInput()">setInput</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>setInput</span> (string input)
@@ -137,34 +138,37 @@ Any unprocessed tokens from any previous input are lost.</p><dl>
 <dt>Parameters:</dt>
 <dd>input - The input to be tokenized.</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/doctrine/common/lexer.php#L76 class="location">framework\libs\doctrine-common\Doctrine\Common\Lexer.php at line 76</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Lexer.php#L76" >framework\libs\doctrine-common\Doctrine\Common\Lexer.php at line 76</a>
 
 <h3 id="reset()">reset</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>reset</span> ()
 
 <div class="details">
-<p>Resets the lexer.</p></div>
+<p>Resets the lexer.</p>
+</div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/doctrine/common/lexer.php#L86 class="location">framework\libs\doctrine-common\Doctrine\Common\Lexer.php at line 86</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Lexer.php#L86" >framework\libs\doctrine-common\Doctrine\Common\Lexer.php at line 86</a>
 
 <h3 id="resetPeek()">resetPeek</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>resetPeek</span> ()
 
 <div class="details">
-<p>Resets the peek pointer to 0.</p></div>
+<p>Resets the peek pointer to 0.</p>
+</div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/doctrine/common/lexer.php#L95 class="location">framework\libs\doctrine-common\Doctrine\Common\Lexer.php at line 95</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Lexer.php#L95" >framework\libs\doctrine-common\Doctrine\Common\Lexer.php at line 95</a>
 
 <h3 id="resetPosition()">resetPosition</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>resetPosition</span> (integer position)
@@ -174,34 +178,37 @@ Any unprocessed tokens from any previous input are lost.</p><dl>
 <dt>Parameters:</dt>
 <dd>position - Position to place the lexical scanner</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/doctrine/common/lexer.php#L105 class="location">framework\libs\doctrine-common\Doctrine\Common\Lexer.php at line 105</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Lexer.php#L105" >framework\libs\doctrine-common\Doctrine\Common\Lexer.php at line 105</a>
 
 <h3 id="isNextToken()">isNextToken</h3>
 <span class='k'></span> <span class='nx'>boolean</span> <span class='nf'>isNextToken</span> (integer|string token)
 
 <div class="details">
-<p>Checks whether a given token matches the current lookahead.</p></div>
+<p>Checks whether a given token matches the current lookahead.</p>
+</div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/doctrine/common/lexer.php#L115 class="location">framework\libs\doctrine-common\Doctrine\Common\Lexer.php at line 115</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Lexer.php#L115" >framework\libs\doctrine-common\Doctrine\Common\Lexer.php at line 115</a>
 
 <h3 id="isNextTokenAny()">isNextTokenAny</h3>
 <span class='k'></span> <span class='nx'>boolean</span> <span class='nf'>isNextTokenAny</span> (array tokens)
 
 <div class="details">
-<p>Checks whether any of the given tokens matches the current lookahead</p></div>
+<p>Checks whether any of the given tokens matches the current lookahead</p>
+</div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/doctrine/common/lexer.php#L130 class="location">framework\libs\doctrine-common\Doctrine\Common\Lexer.php at line 130</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Lexer.php#L130" >framework\libs\doctrine-common\Doctrine\Common\Lexer.php at line 130</a>
 
 <h3 id="moveNext()">moveNext</h3>
 <span class='k'></span> <span class='nx'>array|null</span> <span class='nf'>moveNext</span> ()
@@ -217,12 +224,13 @@ parameter, none)</li>
 <dt>Returns:</dt>
 <dd>the next token; null if there is no more tokens left</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/doctrine/common/lexer.php#L143 class="location">framework\libs\doctrine-common\Doctrine\Common\Lexer.php at line 143</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Lexer.php#L143" >framework\libs\doctrine-common\Doctrine\Common\Lexer.php at line 143</a>
 
 <h3 id="skipUntil()">skipUntil</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>skipUntil</span> ($type The, mixed type)
@@ -232,23 +240,25 @@ parameter, none)</li>
 <dt>Parameters:</dt>
 <dd>The - token type to skip until.</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/doctrine/common/lexer.php#L156 class="location">framework\libs\doctrine-common\Doctrine\Common\Lexer.php at line 156</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Lexer.php#L156" >framework\libs\doctrine-common\Doctrine\Common\Lexer.php at line 156</a>
 
 <h3 id="isA()">isA</h3>
 <span class='k'></span> <span class='nx'>boolean</span> <span class='nf'>isA</span> (mixed value, integer token)
 
 <div class="details">
-<p>Checks if given value is identical to the given token</p></div>
+<p>Checks if given value is identical to the given token</p>
+</div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/doctrine/common/lexer.php#L165 class="location">framework\libs\doctrine-common\Doctrine\Common\Lexer.php at line 165</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Lexer.php#L165" >framework\libs\doctrine-common\Doctrine\Common\Lexer.php at line 165</a>
 
 <h3 id="peek()">peek</h3>
 <span class='k'></span> <span class='nx'>array</span> <span class='nf'>peek</span> ()
@@ -258,12 +268,13 @@ parameter, none)</li>
 <dt>Returns:</dt>
 <dd>| null The next token or NULL if there are no more tokens ahead.</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/doctrine/common/lexer.php#L178 class="location">framework\libs\doctrine-common\Doctrine\Common\Lexer.php at line 178</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Lexer.php#L178" >framework\libs\doctrine-common\Doctrine\Common\Lexer.php at line 178</a>
 
 <h3 id="glimpse()">glimpse</h3>
 <span class='k'></span> <span class='nx'>array|null</span> <span class='nf'>glimpse</span> ()
@@ -273,12 +284,13 @@ parameter, none)</li>
 <dt>Returns:</dt>
 <dd>The next token or NULL if there are no more tokens ahead.</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/doctrine/common/lexer.php#L189 class="location">framework\libs\doctrine-common\Doctrine\Common\Lexer.php at line 189</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Lexer.php#L189" >framework\libs\doctrine-common\Doctrine\Common\Lexer.php at line 189</a>
 
 <h3 id="scan()">scan</h3>
 <span class='k'>protected </span> <span class='nx'>void</span> <span class='nf'>scan</span> (string input)
@@ -288,51 +300,56 @@ parameter, none)</li>
 <dt>Parameters:</dt>
 <dd>input - a query string</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/doctrine/common/lexer.php#L218 class="location">framework\libs\doctrine-common\Doctrine\Common\Lexer.php at line 218</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Lexer.php#L218" >framework\libs\doctrine-common\Doctrine\Common\Lexer.php at line 218</a>
 
 <h3 id="getLiteral()">getLiteral</h3>
 <span class='k'>static </span> <span class='nx'>string</span> <span class='nf'>getLiteral</span> (integer token)
 
 <div class="details">
-<p>Gets the literal for a given token.</p></div>
+<p>Gets the literal for a given token.</p>
+</div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/doctrine/common/lexer.php#L237 class="location">framework\libs\doctrine-common\Doctrine\Common\Lexer.php at line 237</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Lexer.php#L237" >framework\libs\doctrine-common\Doctrine\Common\Lexer.php at line 237</a>
 
 <h3 id="getCatchablePatterns()">getCatchablePatterns</h3>
 <span class='k'>protected abstract </span> <span class='nx'>array</span> <span class='nf'>getCatchablePatterns</span> ()
 
 <div class="details">
-<p>Lexical catchable patterns.</p></div>
+<p>Lexical catchable patterns.</p>
+</div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/doctrine/common/lexer.php#L244 class="location">framework\libs\doctrine-common\Doctrine\Common\Lexer.php at line 244</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Lexer.php#L244" >framework\libs\doctrine-common\Doctrine\Common\Lexer.php at line 244</a>
 
 <h3 id="getNonCatchablePatterns()">getNonCatchablePatterns</h3>
 <span class='k'>protected abstract </span> <span class='nx'>array</span> <span class='nf'>getNonCatchablePatterns</span> ()
 
 <div class="details">
-<p>Lexical non-catchable patterns.</p></div>
+<p>Lexical non-catchable patterns.</p>
+</div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/doctrine/common/lexer.php#L252 class="location">framework\libs\doctrine-common\Doctrine\Common\Lexer.php at line 252</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Lexer.php#L252" >framework\libs\doctrine-common\Doctrine\Common\Lexer.php at line 252</a>
 
 <h3 id="getType()">getType</h3>
 <span class='k'>protected abstract </span> <span class='nx'>integer</span> <span class='nf'>getType</span> (string value)
 
 <div class="details">
-<p>Retrieve token type. Also processes the token value if necessary.</p></div>
+<p>Retrieve token type. Also processes the token value if necessary.</p>
+</div>
 
 - - -
 

@@ -1,10 +1,11 @@
 
+
 - - -
 
 **Smarty\Smarty_Internal_SmartyTemplateCompiler**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_smartytemplatecompiler.php#L23 class="location">framework\libs\smarty\sysplugins\smarty_internal_smartytemplatecompiler.php at line 23</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_smartytemplatecompiler.php#L23" >framework\libs\smarty\sysplugins\smarty_internal_smartytemplatecompiler.php at line 23</a>
 
 #Class Smarty_Internal_SmartyTemplateCompiler#
 
@@ -16,7 +17,7 @@
 
 - - -
 
-<p class="signature">public  class **Smarty_Internal_SmartyTemplateCompiler**
+<p class="signature"><span class='k'>public  class</span> <span class='nx'>Smarty_Internal_SmartyTemplateCompiler</span>
 extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_templatecompilerbase.html">Smarty_Internal_TemplateCompilerBase</a>
 
 </p>
@@ -75,7 +76,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 <tr><th colspan="2">Constructor Summary</th></tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#__construct">__construct</a>(string lexer_class, string parser_class, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty.html">Smarty</a> smarty)</p><p class="description">Initialize compiler</p></td>
+<td class="description"><p class="name"><a href="#__construct">__construct</a>(string lexer_class, string parser_class, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty.md">Smarty</a> smarty)</p><p class="description">Initialize compiler</p></td>
 </tr>
 </table>
 
@@ -93,10 +94,10 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 
 <h2 id="detail_method">Constructor Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_smartytemplatecompiler.php#L74 class="location">framework\libs\smarty\sysplugins\smarty_internal_smartytemplatecompiler.php at line 74</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_smartytemplatecompiler.php#L74" >framework\libs\smarty\sysplugins\smarty_internal_smartytemplatecompiler.php at line 74</a>
 
 <h3 id="__construct">__construct</h3>
-<span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (string lexer_class, string parser_class, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty.html">Smarty</a> smarty)
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (string lexer_class, string parser_class, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty.md">Smarty</a> smarty)
 
 <div class="details">
 <p>Initialize compiler</p><dl>
@@ -105,13 +106,14 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 <dd>parser_class - class name</dd>
 <dd>smarty - global instance</dd>
 </dl>
+
 </div>
 
 - - -
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_smartytemplatecompiler.php#L89 class="location">framework\libs\smarty\sysplugins\smarty_internal_smartytemplatecompiler.php at line 89</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_smartytemplatecompiler.php#L89" >framework\libs\smarty\sysplugins\smarty_internal_smartytemplatecompiler.php at line 89</a>
 
 <h3 id="doCompile()">doCompile</h3>
 <span class='k'>protected </span> <span class='nx'>bool</span> <span class='nf'>doCompile</span> (mixed _content)
@@ -123,6 +125,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 <dt>Returns:</dt>
 <dd>true if compiling succeeded, false if it failed</dd>
 </dl>
+
 </div>
 
 - - -

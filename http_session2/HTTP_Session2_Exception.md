@@ -1,10 +1,11 @@
 
+
 - - -
 
 **HTTP_Session2\HTTP_Session2_Exception**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/standalone/lib/http/session2/exception.php#L58 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Exception.php at line 58</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Exception.php#L58" >framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Exception.php at line 58</a>
 
 #Class HTTP_Session2_Exception#
 
@@ -16,7 +17,7 @@ Exception
 
 - - -
 
-<p class="signature">public  class **HTTP_Session2_Exception**
+<p class="signature"><span class='k'>public  class</span> <span class='nx'>HTTP_Session2_Exception</span>
 extends Exception
 
 </p>

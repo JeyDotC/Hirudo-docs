@@ -1,10 +1,11 @@
 
+
 - - -
 
 **Smarty\Smarty_Internal_Template**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_template.php#L22 class="location">framework\libs\smarty\sysplugins\smarty_internal_template.php at line 22</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_template.php#L22" >framework\libs\smarty\sysplugins\smarty_internal_template.php at line 22</a>
 
 #Class Smarty_Internal_Template#
 
@@ -17,7 +18,7 @@
 
 - - -
 
-<p class="signature">public  class **Smarty_Internal_Template**
+<p class="signature"><span class='k'>public  class</span> <span class='nx'>Smarty_Internal_Template</span>
 extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_templatebase.html">Smarty_Internal_TemplateBase</a>
 
 </p>
@@ -121,7 +122,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 <tr><th colspan="2">Constructor Summary</th></tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#__construct">__construct</a>(string template_resource, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty.html">Smarty</a> smarty, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.html">Smarty_Internal_Template</a> _parent, mixed _cache_id, mixed _compile_id, bool _caching, int _cache_lifetime)</p><p class="description">Create template data objectSome of the global Smarty settings copied to template scope
+<td class="description"><p class="name"><a href="#__construct">__construct</a>(string template_resource, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty.md">Smarty</a> smarty, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.md">Smarty_Internal_Template</a> _parent, mixed _cache_id, mixed _compile_id, bool _caching, int _cache_lifetime)</p><p class="description">Create template data objectSome of the global Smarty settings copied to template scope
 It load the required template resources and cacher plugins</p></td>
 </tr>
 </table>
@@ -189,10 +190,10 @@ It load the required template resources and cacher plugins</p></td>
 
 <h2 id="detail_method">Constructor Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_template.php#L114 class="location">framework\libs\smarty\sysplugins\smarty_internal_template.php at line 114</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_template.php#L114" >framework\libs\smarty\sysplugins\smarty_internal_template.php at line 114</a>
 
 <h3 id="__construct">__construct</h3>
-<span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (string template_resource, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty.html">Smarty</a> smarty, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.html">Smarty_Internal_Template</a> _parent, mixed _cache_id, mixed _compile_id, bool _caching, int _cache_lifetime)
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (string template_resource, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty.md">Smarty</a> smarty, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.md">Smarty_Internal_Template</a> _parent, mixed _cache_id, mixed _compile_id, bool _caching, int _cache_lifetime)
 
 <div class="details">
 <p>Create template data object</p><p>Some of the global Smarty settings copied to template scope
@@ -206,13 +207,14 @@ It load the required template resources and cacher plugins</p><dl>
 <dd>_caching - use caching?</dd>
 <dd>_cache_lifetime - cache life-time in seconds</dd>
 </dl>
+
 </div>
 
 - - -
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_template.php#L140 class="location">framework\libs\smarty\sysplugins\smarty_internal_template.php at line 140</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_template.php#L140" >framework\libs\smarty\sysplugins\smarty_internal_template.php at line 140</a>
 
 <h3 id="mustCompile()">mustCompile</h3>
 <span class='k'></span> <span class='nx'>boolean</span> <span class='nf'>mustCompile</span> ()
@@ -222,34 +224,37 @@ It load the required template resources and cacher plugins</p><dl>
 <dt>Returns:</dt>
 <dd>true if the template must be compiled</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_template.php#L162 class="location">framework\libs\smarty\sysplugins\smarty_internal_template.php at line 162</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_template.php#L162" >framework\libs\smarty\sysplugins\smarty_internal_template.php at line 162</a>
 
 <h3 id="compileTemplateSource()">compileTemplateSource</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>compileTemplateSource</span> ()
 
 <div class="details">
-<p>Compiles the template</p><p>If the template is not evaluated the compiled template is saved on disk</p></div>
+<p>Compiles the template</p><p>If the template is not evaluated the compiled template is saved on disk</p>
+</div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_template.php#L215 class="location">framework\libs\smarty\sysplugins\smarty_internal_template.php at line 215</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_template.php#L215" >framework\libs\smarty\sysplugins\smarty_internal_template.php at line 215</a>
 
 <h3 id="writeCachedContent()">writeCachedContent</h3>
 <span class='k'></span> <span class='nx'>bool</span> <span class='nf'>writeCachedContent</span> (mixed content)
 
 <div class="details">
-<p>Writes the cached template output</p></div>
+<p>Writes the cached template output</p>
+</div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_template.php#L243 class="location">framework\libs\smarty\sysplugins\smarty_internal_template.php at line 243</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_template.php#L243" >framework\libs\smarty\sysplugins\smarty_internal_template.php at line 243</a>
 
 <h3 id="getSubTemplate()">getSubTemplate</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>getSubTemplate</span> (string template, mixed cache_id, mixed compile_id, integer caching, integer cache_lifetime, array vars, int parent_scope, mixed data)
@@ -267,12 +272,13 @@ It load the required template resources and cacher plugins</p><dl>
 <dt>Returns:</dt>
 <dd>string template content</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_template.php#L299 class="location">framework\libs\smarty\sysplugins\smarty_internal_template.php at line 299</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_template.php#L299" >framework\libs\smarty\sysplugins\smarty_internal_template.php at line 299</a>
 
 <h3 id="setupInlineSubTemplate()">setupInlineSubTemplate</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>setupInlineSubTemplate</span> (string template, mixed cache_id, mixed compile_id, integer caching, integer cache_lifetime, array vars, int parent_scope, string hash, mixed data)
@@ -291,12 +297,13 @@ It load the required template resources and cacher plugins</p><dl>
 <dt>Returns:</dt>
 <dd>string template content</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_template.php#L333 class="location">framework\libs\smarty\sysplugins\smarty_internal_template.php at line 333</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_template.php#L333" >framework\libs\smarty\sysplugins\smarty_internal_template.php at line 333</a>
 
 <h3 id="createTemplateCodeFrame()">createTemplateCodeFrame</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>createTemplateCodeFrame</span> (string content, bool cache)
@@ -307,12 +314,13 @@ It load the required template resources and cacher plugins</p><dl>
 <dd>content - optional template content</dd>
 <dd>cache - flag for cache file</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_template.php#L415 class="location">framework\libs\smarty\sysplugins\smarty_internal_template.php at line 415</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_template.php#L415" >framework\libs\smarty\sysplugins\smarty_internal_template.php at line 415</a>
 
 <h3 id="decodeProperties()">decodeProperties</h3>
 <span class='k'></span> <span class='nx'>bool</span> <span class='nf'>decodeProperties</span> (array properties, bool cache)
@@ -326,12 +334,13 @@ It load the required template resources and cacher plugins</p><dl>
 <dt>Returns:</dt>
 <dd>flag if compiled or cache file is valid</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_template.php#L476 class="location">framework\libs\smarty\sysplugins\smarty_internal_template.php at line 476</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_template.php#L476" >framework\libs\smarty\sysplugins\smarty_internal_template.php at line 476</a>
 
 <h3 id="createLocalArrayVariable()">createLocalArrayVariable</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>createLocalArrayVariable</span> (string tpl_var, bool nocache, int scope)
@@ -343,12 +352,13 @@ It load the required template resources and cacher plugins</p><dl>
 <dd>nocache - cache mode of variable</dd>
 <dd>scope - scope of variable</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_template.php#L497 class="location">framework\libs\smarty\sysplugins\smarty_internal_template.php at line 497</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_template.php#L497" >framework\libs\smarty\sysplugins\smarty_internal_template.php at line 497</a>
 
 <h3 id="getScope()">getScope</h3>
 <span class='k'></span> <span class='nx'>array</span> <span class='nf'>getScope</span> (int scope)
@@ -360,12 +370,13 @@ It load the required template resources and cacher plugins</p><dl>
 <dt>Returns:</dt>
 <dd>array of template variables</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_template.php#L520 class="location">framework\libs\smarty\sysplugins\smarty_internal_template.php at line 520</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_template.php#L520" >framework\libs\smarty\sysplugins\smarty_internal_template.php at line 520</a>
 
 <h3 id="getScopePointer()">getScopePointer</h3>
 <span class='k'></span> <span class='nx'>mixed</span> <span class='nf'>getScopePointer</span> (int scope)
@@ -377,23 +388,25 @@ It load the required template resources and cacher plugins</p><dl>
 <dt>Returns:</dt>
 <dd>object</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_template.php#L568 class="location">framework\libs\smarty\sysplugins\smarty_internal_template.php at line 568</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_template.php#L568" >framework\libs\smarty\sysplugins\smarty_internal_template.php at line 568</a>
 
 <h3 id="capture_error()">capture_error</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>capture_error</span> ()
 
 <div class="details">
-<p>runtime error not matching capture tags</p></div>
+<p>runtime error not matching capture tags</p>
+</div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_template.php#L579 class="location">framework\libs\smarty\sysplugins\smarty_internal_template.php at line 579</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_template.php#L579" >framework\libs\smarty\sysplugins\smarty_internal_template.php at line 579</a>
 
 <h3 id="clearCache()">clearCache</h3>
 <span class='k'></span> <span class='nx'>integer</span> <span class='nf'>clearCache</span> (integer exp_time)
@@ -405,6 +418,7 @@ It load the required template resources and cacher plugins</p><dl>
 <dt>Returns:</dt>
 <dd>number of cache files deleted</dd>
 </dl>
+
 </div>
 
 - - -

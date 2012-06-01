@@ -1,10 +1,11 @@
 
+
 - - -
 
 **Sample\Utilities\SomeUsefulClass**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/ext/libs/sampleextension/sample/utilities/someusefulclass.php#L13 class="location">ext\libs\SampleExtension\Sample\Utilities\SomeUsefulClass.php at line 13</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/ext/libs/SampleExtension/Sample/Utilities/SomeUsefulClass.php#L13" >ext\libs\SampleExtension\Sample\Utilities\SomeUsefulClass.php at line 13</a>
 
 #Class SomeUsefulClass#
 
@@ -15,7 +16,7 @@
 
 - - -
 
-<p class="signature">public  class **SomeUsefulClass**</p>
+<p class="signature"><span class='k'>public  class</span> <span class='nx'>SomeUsefulClass</span></p>
 
 <div class="comment" id="overview_description"><p>Description of SomeUsefulClass</p></div>
 
@@ -38,12 +39,13 @@
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/ext/libs/sampleextension/sample/utilities/someusefulclass.php#L15 class="location">ext\libs\SampleExtension\Sample\Utilities\SomeUsefulClass.php at line 15</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/ext/libs/SampleExtension/Sample/Utilities/SomeUsefulClass.php#L15" >ext\libs\SampleExtension\Sample\Utilities\SomeUsefulClass.php at line 15</a>
 
 <h3 id="foo()">foo</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>foo</span> ()
 
 <div class="details">
+
 </div>
 
 - - -

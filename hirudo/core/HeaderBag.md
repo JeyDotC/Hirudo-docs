@@ -1,10 +1,11 @@
 
+
 - - -
 
 **Hirudo\Core\HeaderBag**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/core/module.php#L35 class="location">framework\hirudo\Hirudo\Core\Module.php at line 35</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Module.php#L35" >framework\hirudo\Hirudo\Core\Module.php at line 35</a>
 
 #Class HeaderBag#
 
@@ -15,7 +16,7 @@
 
 - - -
 
-<p class="signature">public  class **HeaderBag**</p>
+<p class="signature"><span class='k'>public  class</span> <span class='nx'>HeaderBag</span></p>
 
 <div class="comment" id="overview_description"><p>A class that allows the edition of the response headers.</p></div>
 
@@ -42,7 +43,7 @@ instead of being rendered in browser.</p></td>
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/core/module.php#L44 class="location">framework\hirudo\Hirudo\Core\Module.php at line 44</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Module.php#L44" >framework\hirudo\Hirudo\Core\Module.php at line 44</a>
 
 <h3 id="setHeader()">setHeader</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>setHeader</span> (string key, string|array value, boolean replace)
@@ -54,12 +55,13 @@ instead of being rendered in browser.</p></td>
 <dd>value - The header value. If the value is an array, all of its elements are added under the same key given as the first parameter.</dd>
 <dd>replace - Tells if the new value shall replace the existing one.</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/core/module.php#L71 class="location">framework\hirudo\Hirudo\Core\Module.php at line 71</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Module.php#L71" >framework\hirudo\Hirudo\Core\Module.php at line 71</a>
 
 <h3 id="setHeaders()">setHeaders</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>setHeaders</span> (array headers)
@@ -77,12 +79,13 @@ array(
 <dt>Parameters:</dt>
 <dd>headers - List of headers.</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/core/module.php#L88 class="location">framework\hirudo\Hirudo\Core\Module.php at line 88</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Module.php#L88" >framework\hirudo\Hirudo\Core\Module.php at line 88</a>
 
 <h3 id="setContentsForDownload()">setContentsForDownload</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>setContentsForDownload</span> (string mime, string filename)
@@ -94,6 +97,7 @@ instead of being rendered in browser.</p></p><dl>
 <dd>mime - The mime type of the file to be downloaded.</dd>
 <dd>filename - A file name for the file to be downloaded.</dd>
 </dl>
+
 </div>
 
 - - -

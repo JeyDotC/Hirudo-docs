@@ -1,10 +1,11 @@
 
+
 - - -
 
 **Doctrine\Common\Cache\Cache**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/doctrine/common/cache/cache.php#L36 class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\Cache.php at line 36</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Cache/Cache.php#L36" >framework\libs\doctrine-common\Doctrine\Common\Cache\Cache.php at line 36</a>
 
 #Interface Cache#
 
@@ -15,7 +16,7 @@
 
 - - -
 
-<p class="signature">public  interface **Cache**</p>
+<p class="signature"><span class='k'>public  interface</span> <span class='nx'>Cache</span></p>
 
 <div class="comment" id="overview_description"><p>Interface for cache drivers.</p></div>
 
@@ -53,7 +54,7 @@ Number of keys that have been requested and found present.
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/doctrine/common/cache/cache.php#L46 class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\Cache.php at line 46</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Cache/Cache.php#L46" >framework\libs\doctrine-common\Doctrine\Common\Cache\Cache.php at line 46</a>
 
 <h3 id="delete()">delete</h3>
 <span class='k'></span> <span class='nx'>boolean</span> <span class='nf'>delete</span> (string id)
@@ -65,12 +66,13 @@ Number of keys that have been requested and found present.
 <dt>Returns:</dt>
 <dd>TRUE if the cache entry was successfully deleted, FALSE otherwise.</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/doctrine/common/cache/cache.php#L71 class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\Cache.php at line 71</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Cache/Cache.php#L71" >framework\libs\doctrine-common\Doctrine\Common\Cache\Cache.php at line 71</a>
 
 <h3 id="getStats()">getStats</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>getStats</span> ()
@@ -85,6 +87,7 @@ Memory allowed to use for storage.</p><dl>
 <dt>Since:</dt>
 <dd>2.2</dd>
 </dl>
+
 </div>
 
 - - -

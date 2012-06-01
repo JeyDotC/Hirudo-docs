@@ -1,10 +1,11 @@
 
+
 - - -
 
 **Hirudo\Lang\Loader**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/lang/loader.php#L46 class="location">framework\hirudo\Hirudo\Lang\Loader.php at line 46</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Lang/Loader.php#L46" >framework\hirudo\Hirudo\Lang\Loader.php at line 46</a>
 
 #Class Loader#
 
@@ -20,7 +21,7 @@
 
 - - -
 
-<p class="signature">public final  class **Loader**</p>
+<p class="signature"><span class='k'>public final  class</span> <span class='nx'>Loader</span></p>
 
 <div class="comment" id="overview_description"><p><p>A PHP file loader. It's like an enhanced require_once. The improvements
 consist on:</p></p>
@@ -72,7 +73,7 @@ resulting paths.</p></td>
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/lang/loader.php#L72 class="location">framework\hirudo\Hirudo\Lang\Loader.php at line 72</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Lang/Loader.php#L72" >framework\hirudo\Hirudo\Lang\Loader.php at line 72</a>
 
 <h3 id="using()">using</h3>
 <span class='k'>static </span> <span class='nx'>void</span> <span class='nf'>using</span> (string|array file, string extension)
@@ -90,12 +91,13 @@ directory.</p></p><dl>
 <dd><a href="../../hirudo/lang/invalidpathexception.html">InvalidPathException</a> - If $string is not a string, is null or is empty.</dd>
 <dd>LogicException - If $extension is not a string.</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/lang/loader.php#L101 class="location">framework\hirudo\Hirudo\Lang\Loader.php at line 101</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Lang/Loader.php#L101" >framework\hirudo\Hirudo\Lang\Loader.php at line 101</a>
 
 <h3 id="arrayToPaths()">arrayToPaths</h3>
 <span class='k'>static </span> <span class='nx'>array</span> <span class='nf'>arrayToPaths</span> (array array, string extension)
@@ -115,12 +117,13 @@ resulting paths.</p><dl>
 <dd><a href="../../hirudo/lang/invalidpathexception.html">InvalidPathException</a> - If $string is not a string, is null or is empty.</dd>
 <dd>LogicException - If $extension is not a string.</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/lang/loader.php#L124 class="location">framework\hirudo\Hirudo\Lang\Loader.php at line 124</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Lang/Loader.php#L124" >framework\hirudo\Hirudo\Lang\Loader.php at line 124</a>
 
 <h3 id="toPaths()">toPaths</h3>
 <span class='k'>static </span> <span class='nx'>array</span> <span class='nf'>toPaths</span> (array array, string extension, mixed string)
@@ -139,39 +142,43 @@ resulting paths.</p><dl>
 <dd><a href="../../hirudo/lang/invalidpathexception.html">InvalidPathException</a> - If $string is not a string, is null or is empty.</dd>
 <dd>LogicException - If $extension is not a string.</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/lang/loader.php#L143 class="location">framework\hirudo\Hirudo\Lang\Loader.php at line 143</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Lang/Loader.php#L143" >framework\hirudo\Hirudo\Lang\Loader.php at line 143</a>
 
 <h3 id="toSinglePath()">toSinglePath</h3>
 <span class='k'>static </span> <span class='nx'>void</span> <span class='nf'>toSinglePath</span> (mixed string, mixed extension)
 
 <div class="details">
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/lang/loader.php#L163 class="location">framework\hirudo\Hirudo\Lang\Loader.php at line 163</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Lang/Loader.php#L163" >framework\hirudo\Hirudo\Lang\Loader.php at line 163</a>
 
 <h3 id="isDir()">isDir</h3>
 <span class='k'>static </span> <span class='nx'>void</span> <span class='nf'>isDir</span> (mixed dir)
 
 <div class="details">
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/lang/loader.php#L168 class="location">framework\hirudo\Hirudo\Lang\Loader.php at line 168</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Lang/Loader.php#L168" >framework\hirudo\Hirudo\Lang\Loader.php at line 168</a>
 
 <h3 id="isFile()">isFile</h3>
 <span class='k'>static </span> <span class='nx'>void</span> <span class='nf'>isFile</span> (mixed file, mixed extension)
 
 <div class="details">
+
 </div>
 
 - - -

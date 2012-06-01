@@ -1,10 +1,11 @@
 
+
 - - -
 
 **Smarty\Smarty_Internal_Config_File_Compiler**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_config_file_compiler.php#L19 class="location">framework\libs\smarty\sysplugins\smarty_internal_config_file_compiler.php at line 19</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_config_file_compiler.php#L19" >framework\libs\smarty\sysplugins\smarty_internal_config_file_compiler.php at line 19</a>
 
 #Class Smarty_Internal_Config_File_Compiler#
 
@@ -15,7 +16,7 @@
 
 - - -
 
-<p class="signature">public  class **Smarty_Internal_Config_File_Compiler**</p>
+<p class="signature"><span class='k'>public  class</span> <span class='nx'>Smarty_Internal_Config_File_Compiler</span></p>
 
 <div class="comment" id="overview_description"><p>Main config file compiler class</p></div>
 
@@ -62,7 +63,7 @@
 <tr><th colspan="2">Constructor Summary</th></tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#__construct">__construct</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty.html">Smarty</a> smarty)</p><p class="description">Initialize compiler</p></td>
+<td class="description"><p class="name"><a href="#__construct">__construct</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty.md">Smarty</a> smarty)</p><p class="description">Initialize compiler</p></td>
 </tr>
 </table>
 
@@ -70,7 +71,7 @@
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>bool</span></td>
-<td class="description"><p class="name"><a href="#compilesource">compileSource</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_config.html">Smarty_Internal_Config</a> config)</p><p class="description">Method to compile a Smarty template.</p></td>
+<td class="description"><p class="name"><a href="#compilesource">compileSource</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_config.md">Smarty_Internal_Config</a> config)</p><p class="description">Method to compile a Smarty template.</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
@@ -81,26 +82,27 @@
 
 <h2 id="detail_method">Constructor Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_config_file_compiler.php#L61 class="location">framework\libs\smarty\sysplugins\smarty_internal_config_file_compiler.php at line 61</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_config_file_compiler.php#L61" >framework\libs\smarty\sysplugins\smarty_internal_config_file_compiler.php at line 61</a>
 
 <h3 id="__construct">__construct</h3>
-<span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty.html">Smarty</a> smarty)
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty.md">Smarty</a> smarty)
 
 <div class="details">
 <p>Initialize compiler</p><dl>
 <dt>Parameters:</dt>
 <dd>smarty - base instance</dd>
 </dl>
+
 </div>
 
 - - -
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_config_file_compiler.php#L74 class="location">framework\libs\smarty\sysplugins\smarty_internal_config_file_compiler.php at line 74</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_config_file_compiler.php#L74" >framework\libs\smarty\sysplugins\smarty_internal_config_file_compiler.php at line 74</a>
 
 <h3 id="compileSource()">compileSource</h3>
-<span class='k'></span> <span class='nx'>bool</span> <span class='nf'>compileSource</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_config.html">Smarty_Internal_Config</a> config)
+<span class='k'></span> <span class='nx'>bool</span> <span class='nf'>compileSource</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_config.md">Smarty_Internal_Config</a> config)
 
 <div class="details">
 <p>Method to compile a Smarty template.</p><dl>
@@ -109,12 +111,13 @@
 <dt>Returns:</dt>
 <dd>true if compiling succeeded, false if it failed</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_config_file_compiler.php#L110 class="location">framework\libs\smarty\sysplugins\smarty_internal_config_file_compiler.php at line 110</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_config_file_compiler.php#L110" >framework\libs\smarty\sysplugins\smarty_internal_config_file_compiler.php at line 110</a>
 
 <h3 id="trigger_config_file_error()">trigger_config_file_error</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>trigger_config_file_error</span> (string args)
@@ -125,6 +128,7 @@ In this case the parser is called to obtain information about exspected tokens.<
 <dt>Parameters:</dt>
 <dd>args - individual error message or null</dd>
 </dl>
+
 </div>
 
 - - -

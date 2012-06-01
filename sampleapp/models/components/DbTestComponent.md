@@ -1,10 +1,11 @@
 
+
 - - -
 
 **SampleApp\Models\Components\DbTestComponent**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/sampleapp/models/components/dbtestcomponent.php#L12 class="location">src\SampleApp\Models\Components\DbTestComponent.php at line 12</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/SampleApp/Models/Components/DbTestComponent.php#L12" >src\SampleApp\Models\Components\DbTestComponent.php at line 12</a>
 
 #Class DbTestComponent#
 
@@ -16,7 +17,7 @@
 
 - - -
 
-<p class="signature">public  class **DbTestComponent**
+<p class="signature"><span class='k'>public  class</span> <span class='nx'>DbTestComponent</span>
 extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/models/components/sql/simplesqlcomponent.html">SimpleSqlComponent</a>
 
 </p>
@@ -49,23 +50,25 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/model
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/sampleapp/models/components/dbtestcomponent.php#L14 class="location">src\SampleApp\Models\Components\DbTestComponent.php at line 14</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/SampleApp/Models/Components/DbTestComponent.php#L14" >src\SampleApp\Models\Components\DbTestComponent.php at line 14</a>
 
 <h3 id="getAll()">getAll</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>getAll</span> ()
 
 <div class="details">
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/sampleapp/models/components/dbtestcomponent.php#L22 class="location">src\SampleApp\Models\Components\DbTestComponent.php at line 22</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/SampleApp/Models/Components/DbTestComponent.php#L22" >src\SampleApp\Models\Components\DbTestComponent.php at line 22</a>
 
 <h3 id="add()">add</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>add</span> (mixed name)
 
 <div class="details">
+
 </div>
 
 - - -

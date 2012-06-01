@@ -1,10 +1,11 @@
 
+
 - - -
 
 **Hirudo\Impl\StandAlone\SARequest**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/standalone/sarequest.php#L35 class="location">framework\hirudo\Hirudo\Impl\StandAlone\SARequest.php at line 35</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/SARequest.php#L35" >framework\hirudo\Hirudo\Impl\StandAlone\SARequest.php at line 35</a>
 
 #Class SARequest#
 
@@ -16,7 +17,7 @@
 
 - - -
 
-<p class="signature">public  class **SARequest**
+<p class="signature"><span class='k'>public  class</span> <span class='nx'>SARequest</span>
 extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/request.html">Request</a>
 
 </p>
@@ -84,18 +85,19 @@ the way this done depends on how this class interprets the URLs.</p></td>
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/standalone/sarequest.php#L47 class="location">framework\hirudo\Hirudo\Impl\StandAlone\SARequest.php at line 47</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/SARequest.php#L47" >framework\hirudo\Hirudo\Impl\StandAlone\SARequest.php at line 47</a>
 
 <h3 id="instance()">instance</h3>
 <span class='k'>static </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/hirudo/impl/standalone/sarequest.html>SARequest</a></span> <span class='nf'>instance</span> ()
 
 <div class="details">
-<p></p></div>
+<p></p>
+</div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/standalone/sarequest.php#L55 class="location">framework\hirudo\Hirudo\Impl\StandAlone\SARequest.php at line 55</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/SARequest.php#L55" >framework\hirudo\Hirudo\Impl\StandAlone\SARequest.php at line 55</a>
 
 <h3 id="get()">get</h3>
 <span class='k'></span> <span class='nx'>mixed</span> <span class='nf'>get</span> (string name, mixed default)
@@ -108,12 +110,13 @@ the way this done depends on how this class interprets the URLs.</p></td>
 <dt>Returns:</dt>
 <dd>The value corresponding to the $name index in the GET array.</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/standalone/sarequest.php#L59 class="location">framework\hirudo\Hirudo\Impl\StandAlone\SARequest.php at line 59</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/SARequest.php#L59" >framework\hirudo\Hirudo\Impl\StandAlone\SARequest.php at line 59</a>
 
 <h3 id="post()">post</h3>
 <span class='k'></span> <span class='nx'>mixed</span> <span class='nf'>post</span> (string name, mixed default)
@@ -126,12 +129,13 @@ the way this done depends on how this class interprets the URLs.</p></td>
 <dt>Returns:</dt>
 <dd>The value corresponding to the $name index in the POST array.</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/standalone/sarequest.php#L63 class="location">framework\hirudo\Hirudo\Impl\StandAlone\SARequest.php at line 63</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/SARequest.php#L63" >framework\hirudo\Hirudo\Impl\StandAlone\SARequest.php at line 63</a>
 
 <h3 id="file()">file</h3>
 <span class='k'></span> <span class='nx'>mixed</span> <span class='nf'>file</span> (string name, mixed default)
@@ -144,12 +148,13 @@ the way this done depends on how this class interprets the URLs.</p></td>
 <dt>Returns:</dt>
 <dd>The value corresponding to the $name index in the FILE array.</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/standalone/sarequest.php#L67 class="location">framework\hirudo\Hirudo\Impl\StandAlone\SARequest.php at line 67</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/SARequest.php#L67" >framework\hirudo\Hirudo\Impl\StandAlone\SARequest.php at line 67</a>
 
 <h3 id="cookie()">cookie</h3>
 <span class='k'></span> <span class='nx'>mixed</span> <span class='nf'>cookie</span> (string name, mixed default)
@@ -162,12 +167,13 @@ the way this done depends on how this class interprets the URLs.</p></td>
 <dt>Returns:</dt>
 <dd>The value corresponding to the $name index in the COOKIE array.</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/standalone/sarequest.php#L71 class="location">framework\hirudo\Hirudo\Impl\StandAlone\SARequest.php at line 71</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/SARequest.php#L71" >framework\hirudo\Hirudo\Impl\StandAlone\SARequest.php at line 71</a>
 
 <h3 id="env()">env</h3>
 <span class='k'></span> <span class='nx'>mixed</span> <span class='nf'>env</span> (string name, mixed default)
@@ -180,12 +186,13 @@ the way this done depends on how this class interprets the URLs.</p></td>
 <dt>Returns:</dt>
 <dd>The value corresponding to the $name index in the ENV array.</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/standalone/sarequest.php#L75 class="location">framework\hirudo\Hirudo\Impl\StandAlone\SARequest.php at line 75</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/SARequest.php#L75" >framework\hirudo\Hirudo\Impl\StandAlone\SARequest.php at line 75</a>
 
 <h3 id="server()">server</h3>
 <span class='k'></span> <span class='nx'>mixed</span> <span class='nf'>server</span> (string name, mixed default)
@@ -198,12 +205,13 @@ the way this done depends on how this class interprets the URLs.</p></td>
 <dt>Returns:</dt>
 <dd>The value corresponding to the $name index in the SERVER array.</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/standalone/sarequest.php#L79 class="location">framework\hirudo\Hirudo\Impl\StandAlone\SARequest.php at line 79</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/SARequest.php#L79" >framework\hirudo\Hirudo\Impl\StandAlone\SARequest.php at line 79</a>
 
 <h3 id="getURI()">getURI</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>getURI</span> ()
@@ -213,12 +221,13 @@ the way this done depends on how this class interprets the URLs.</p></td>
 <dt>Returns:</dt>
 <dd>the current URI.</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/standalone/sarequest.php#L84 class="location">framework\hirudo\Hirudo\Impl\StandAlone\SARequest.php at line 84</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/SARequest.php#L84" >framework\hirudo\Hirudo\Impl\StandAlone\SARequest.php at line 84</a>
 
 <h3 id="submitted()">submitted</h3>
 <span class='k'></span> <span class='nx'>bool</span> <span class='nf'>submitted</span> ()
@@ -230,12 +239,13 @@ the way this done depends on how this class interprets the URLs.</p></td>
 <dt>Returns:</dt>
 <dd><code>true</code> if there is POST data.</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/standalone/sarequest.php#L88 class="location">framework\hirudo\Hirudo\Impl\StandAlone\SARequest.php at line 88</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/SARequest.php#L88" >framework\hirudo\Hirudo\Impl\StandAlone\SARequest.php at line 88</a>
 
 <h3 id="buildModuleCall()">buildModuleCall</h3>
 <span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/context/modulecall.html>ModuleCall</a></span> <span class='nf'>buildModuleCall</span> ()
@@ -246,6 +256,7 @@ the way this done depends on how this class interprets the URLs.</p><dl>
 <dt>Returns:</dt>
 <dd>An instance of ModuleCall based on this class interpretation of the URL</dd>
 </dl>
+
 </div>
 
 - - -

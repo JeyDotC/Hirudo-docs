@@ -1,10 +1,11 @@
 
+
 - - -
 
 **Symfony\Component\Yaml\Inline**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/yaml/inline.php#L21 class="location">framework\libs\symfony-components\Symfony\Component\Yaml\Inline.php at line 21</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/Yaml/Inline.php#L21" >framework\libs\symfony-components\Symfony\Component\Yaml\Inline.php at line 21</a>
 
 #Class Inline#
 
@@ -15,7 +16,7 @@
 
 - - -
 
-<p class="signature">public  class **Inline**</p>
+<p class="signature"><span class='k'>public  class</span> <span class='nx'>Inline</span></p>
 
 <div class="comment" id="overview_description"><p>Inline implements a YAML parser/dumper for the YAML inline syntax.</p></div>
 

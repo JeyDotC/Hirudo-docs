@@ -1,10 +1,11 @@
 
+
 - - -
 
 **HTTP_Session2\HTTP_Session2_Container_Memcache**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/standalone/lib/http/session2/container/memcache.php#L38 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Memcache.php at line 38</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/Memcache.php#L38" >framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Memcache.php at line 38</a>
 
 #Class HTTP_Session2_Container_Memcache#
 
@@ -16,7 +17,7 @@
 
 - - -
 
-<p class="signature">public  class **HTTP_Session2_Container_Memcache**
+<p class="signature"><span class='k'>public  class</span> <span class='nx'>HTTP_Session2_Container_Memcache</span>
 extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/http_session2/http_session2_container.html">HTTP_Session2_Container</a>
 
 </p>
@@ -117,7 +118,7 @@ The options are:
 
 <h2 id="detail_method">Constructor Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/standalone/lib/http/session2/container/memcache.php#L61 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Memcache.php at line 61</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/Memcache.php#L61" >framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Memcache.php at line 61</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'></span> <span class='nx'>object</span> <span class='nf'>__construct</span> (array options)
@@ -133,13 +134,14 @@ The options are:</p>
 <dt>Parameters:</dt>
 <dd>options - Options</dd>
 </dl>
+
 </div>
 
 - - -
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/standalone/lib/http/session2/container/memcache.php#L74 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Memcache.php at line 74</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/Memcache.php#L74" >framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Memcache.php at line 74</a>
 
 <h3 id="connect()">connect</h3>
 <span class='k'>protected </span> <span class='nx'>boolean</span> <span class='nf'>connect</span> (Memcache mc)
@@ -151,23 +153,25 @@ The options are:</p>
 <dt>Throws:</dt>
 <dd><a href="../http_session2/http_session2_exception.html">HTTP_Session2_Exception</a></dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/standalone/lib/http/session2/container/memcache.php#L91 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Memcache.php at line 91</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/Memcache.php#L91" >framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Memcache.php at line 91</a>
 
 <h3 id="setDefaults()">setDefaults</h3>
 <span class='k'>protected </span> <span class='nx'>void</span> <span class='nf'>setDefaults</span> ()
 
 <div class="details">
-<p>Set some default options</p></div>
+<p>Set some default options</p>
+</div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/standalone/lib/http/session2/container/memcache.php#L105 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Memcache.php at line 105</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/Memcache.php#L105" >framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Memcache.php at line 105</a>
 
 <h3 id="open()">open</h3>
 <span class='k'></span> <span class='nx'>boolean</span> <span class='nf'>open</span> (string save_path, string session_name)
@@ -178,23 +182,25 @@ The options are:</p>
 <dd>save_path - Save path</dd>
 <dd>session_name - Session name</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/standalone/lib/http/session2/container/memcache.php#L115 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Memcache.php at line 115</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/Memcache.php#L115" >framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Memcache.php at line 115</a>
 
 <h3 id="close()">close</h3>
 <span class='k'></span> <span class='nx'>boolean</span> <span class='nf'>close</span> ()
 
 <div class="details">
-<p>Free resources</p></div>
+<p>Free resources</p>
+</div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/standalone/lib/http/session2/container/memcache.php#L126 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Memcache.php at line 126</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/Memcache.php#L126" >framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Memcache.php at line 126</a>
 
 <h3 id="read()">read</h3>
 <span class='k'></span> <span class='nx'>mixed</span> <span class='nf'>read</span> (string id)
@@ -204,12 +210,13 @@ The options are:</p>
 <dt>Parameters:</dt>
 <dd>id - Session id</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/standalone/lib/http/session2/container/memcache.php#L139 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Memcache.php at line 139</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/Memcache.php#L139" >framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Memcache.php at line 139</a>
 
 <h3 id="write()">write</h3>
 <span class='k'></span> <span class='nx'>boolean</span> <span class='nf'>write</span> (string id, mixed data)
@@ -220,12 +227,13 @@ The options are:</p>
 <dd>id - Session id</dd>
 <dd>data - Session data</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/standalone/lib/http/session2/container/memcache.php#L156 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Memcache.php at line 156</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/Memcache.php#L156" >framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Memcache.php at line 156</a>
 
 <h3 id="destroy()">destroy</h3>
 <span class='k'></span> <span class='nx'>boolean</span> <span class='nf'>destroy</span> (string id)
@@ -235,12 +243,13 @@ The options are:</p>
 <dt>Parameters:</dt>
 <dd>id - Session id</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/standalone/lib/http/session2/container/memcache.php#L169 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Memcache.php at line 169</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/Memcache.php#L169" >framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Memcache.php at line 169</a>
 
 <h3 id="gc()">gc</h3>
 <span class='k'></span> <span class='nx'>boolean</span> <span class='nf'>gc</span> (int maxlifetime)
@@ -250,12 +259,13 @@ The options are:</p>
 <dt>Parameters:</dt>
 <dd>maxlifetime - Maximum lifetime</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/standalone/lib/http/session2/container/memcache.php#L183 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Memcache.php at line 183</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/Memcache.php#L183" >framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Memcache.php at line 183</a>
 
 <h3 id="replicate()">replicate</h3>
 <span class='k'></span> <span class='nx'>boolean</span> <span class='nf'>replicate</span> (string target, string id)
@@ -266,6 +276,7 @@ The options are:</p>
 <dd>target - Target to replicate to</dd>
 <dd>id - Id of record to replicate, if not specified current session id will be used</dd>
 </dl>
+
 </div>
 
 - - -

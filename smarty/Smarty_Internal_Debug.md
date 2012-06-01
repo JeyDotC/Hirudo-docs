@@ -1,10 +1,11 @@
 
+
 - - -
 
 **Smarty\Smarty_Internal_Debug**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_debug.php#L18 class="location">framework\libs\smarty\sysplugins\smarty_internal_debug.php at line 18</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_debug.php#L18" >framework\libs\smarty\sysplugins\smarty_internal_debug.php at line 18</a>
 
 #Class Smarty_Internal_Debug#
 
@@ -16,7 +17,7 @@
 
 - - -
 
-<p class="signature">public  class **Smarty_Internal_Debug**
+<p class="signature"><span class='k'>public  class</span> <span class='nx'>Smarty_Internal_Debug</span>
 extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_data.html">Smarty_Internal_Data</a>
 
 </p>
@@ -88,51 +89,55 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_debug.php#L32 class="location">framework\libs\smarty\sysplugins\smarty_internal_debug.php at line 32</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_debug.php#L32" >framework\libs\smarty\sysplugins\smarty_internal_debug.php at line 32</a>
 
 <h3 id="start_compile()">start_compile</h3>
 <span class='k'>static </span> <span class='nx'>void</span> <span class='nf'>start_compile</span> (object template)
 
 <div class="details">
-<p>Start logging of compile time</p></div>
+<p>Start logging of compile time</p>
+</div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_debug.php#L43 class="location">framework\libs\smarty\sysplugins\smarty_internal_debug.php at line 43</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_debug.php#L43" >framework\libs\smarty\sysplugins\smarty_internal_debug.php at line 43</a>
 
 <h3 id="end_compile()">end_compile</h3>
 <span class='k'>static </span> <span class='nx'>void</span> <span class='nf'>end_compile</span> (object template)
 
 <div class="details">
-<p>End logging of compile time</p></div>
+<p>End logging of compile time</p>
+</div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_debug.php#L54 class="location">framework\libs\smarty\sysplugins\smarty_internal_debug.php at line 54</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_debug.php#L54" >framework\libs\smarty\sysplugins\smarty_internal_debug.php at line 54</a>
 
 <h3 id="start_render()">start_render</h3>
 <span class='k'>static </span> <span class='nx'>void</span> <span class='nf'>start_render</span> (object template)
 
 <div class="details">
-<p>Start logging of render time</p></div>
+<p>Start logging of render time</p>
+</div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_debug.php#L65 class="location">framework\libs\smarty\sysplugins\smarty_internal_debug.php at line 65</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_debug.php#L65" >framework\libs\smarty\sysplugins\smarty_internal_debug.php at line 65</a>
 
 <h3 id="end_render()">end_render</h3>
 <span class='k'>static </span> <span class='nx'>void</span> <span class='nf'>end_render</span> (object template)
 
 <div class="details">
-<p>End logging of compile time</p></div>
+<p>End logging of compile time</p>
+</div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_debug.php#L76 class="location">framework\libs\smarty\sysplugins\smarty_internal_debug.php at line 76</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_debug.php#L76" >framework\libs\smarty\sysplugins\smarty_internal_debug.php at line 76</a>
 
 <h3 id="start_cache()">start_cache</h3>
 <span class='k'>static </span> <span class='nx'>void</span> <span class='nf'>start_cache</span> (object template)
@@ -142,12 +147,13 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 <dt>Parameters:</dt>
 <dd>template - cached template</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_debug.php#L87 class="location">framework\libs\smarty\sysplugins\smarty_internal_debug.php at line 87</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_debug.php#L87" >framework\libs\smarty\sysplugins\smarty_internal_debug.php at line 87</a>
 
 <h3 id="end_cache()">end_cache</h3>
 <span class='k'>static </span> <span class='nx'>void</span> <span class='nf'>end_cache</span> (object template)
@@ -157,12 +163,13 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 <dt>Parameters:</dt>
 <dd>template - cached template</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_debug.php#L98 class="location">framework\libs\smarty\sysplugins\smarty_internal_debug.php at line 98</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_debug.php#L98" >framework\libs\smarty\sysplugins\smarty_internal_debug.php at line 98</a>
 
 <h3 id="display_debug()">display_debug</h3>
 <span class='k'>static </span> <span class='nx'>void</span> <span class='nf'>display_debug</span> (Smarty_Internal_Template|Smarty obj)
@@ -172,12 +179,13 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 <dt>Parameters:</dt>
 <dd>obj - object to debug</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_debug.php#L144 class="location">framework\libs\smarty\sysplugins\smarty_internal_debug.php at line 144</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_debug.php#L144" >framework\libs\smarty\sysplugins\smarty_internal_debug.php at line 144</a>
 
 <h3 id="get_debug_vars()">get_debug_vars</h3>
 <span class='k'>static </span> <span class='nx'>StdClass</span> <span class='nf'>get_debug_vars</span> (Smarty_Internal_Template|Smarty_Data obj)
@@ -187,6 +195,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 <dt>Parameters:</dt>
 <dd>obj - object to debug</dd>
 </dl>
+
 </div>
 
 - - -

@@ -1,10 +1,11 @@
 
+
 - - -
 
 **Hirudo\Core\TemplatingInterface**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/core/templatinginterface.php#L32 class="location">framework\hirudo\Hirudo\Core\TemplatingInterface.php at line 32</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/TemplatingInterface.php#L32" >framework\hirudo\Hirudo\Core\TemplatingInterface.php at line 32</a>
 
 #Interface TemplatingInterface#
 
@@ -15,7 +16,7 @@
 
 - - -
 
-<p class="signature">public  interface **TemplatingInterface**</p>
+<p class="signature"><span class='k'>public  interface</span> <span class='nx'>TemplatingInterface</span></p>
 
 <div class="comment" id="overview_description"><p><p>An interface for any templating system such as Smarty, Twig, PATemplate, etc.</p></p><p><p>Implementors must be capable of loading and rendering the template resource
 based on the view name.</p></p></div>
@@ -47,7 +48,7 @@ it to load and use its extensions.</p></td>
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/core/templatinginterface.php#L41 class="location">framework\hirudo\Hirudo\Core\TemplatingInterface.php at line 41</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/TemplatingInterface.php#L41" >framework\hirudo\Hirudo\Core\TemplatingInterface.php at line 41</a>
 
 <h3 id="assign()">assign</h3>
 <span class='k'></span> <span class='nx'>mixed</span> <span class='nf'>assign</span> (string name, mixed value)
@@ -60,12 +61,13 @@ it to load and use its extensions.</p></td>
 <dt>Returns:</dt>
 <dd>The assigned value</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/core/templatinginterface.php#L51 class="location">framework\hirudo\Hirudo\Core\TemplatingInterface.php at line 51</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/TemplatingInterface.php#L51" >framework\hirudo\Hirudo\Core\TemplatingInterface.php at line 51</a>
 
 <h3 id="display()">display</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>display</span> (string moduleDir, string view)
@@ -78,19 +80,21 @@ it to load and use its extensions.</p></td>
 <dt>Returns:</dt>
 <dd>The output of the view as a string.</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/core/templatinginterface.php#L60 class="location">framework\hirudo\Hirudo\Core\TemplatingInterface.php at line 60</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/TemplatingInterface.php#L60" >framework\hirudo\Hirudo\Core\TemplatingInterface.php at line 60</a>
 
 <h3 id="addExtensionsPath()">addExtensionsPath</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>addExtensionsPath</span> (string path)
 
 <div class="details">
 <p>Tells to the Templating system the location of an extensions folder, allowing
-it to load and use its extensions.</p></div>
+it to load and use its extensions.</p>
+</div>
 
 - - -
 

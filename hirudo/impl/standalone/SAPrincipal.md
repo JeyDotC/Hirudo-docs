@@ -1,10 +1,11 @@
 
+
 - - -
 
 **Hirudo\Impl\StandAlone\SAPrincipal**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/standalone/saprincipal.php#L32 class="location">framework\hirudo\Hirudo\Impl\StandAlone\SAPrincipal.php at line 32</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/SAPrincipal.php#L32" >framework\hirudo\Hirudo\Impl\StandAlone\SAPrincipal.php at line 32</a>
 
 #Class SAPrincipal#
 
@@ -16,7 +17,7 @@
 
 - - -
 
-<p class="signature">public  class **SAPrincipal**
+<p class="signature"><span class='k'>public  class</span> <span class='nx'>SAPrincipal</span>
 extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/principal.html">Principal</a>
 
 </p>
@@ -61,30 +62,32 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/
 
 <h2 id="detail_method">Constructor Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/standalone/saprincipal.php#L60 class="location">framework\hirudo\Hirudo\Impl\StandAlone\SAPrincipal.php at line 60</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/SAPrincipal.php#L60" >framework\hirudo\Hirudo\Impl\StandAlone\SAPrincipal.php at line 60</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> ()
 
 <div class="details">
-<p>Creates a ne Principal object.</p></div>
+<p>Creates a ne Principal object.</p>
+</div>
 
 - - -
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/standalone/saprincipal.php#L52 class="location">framework\hirudo\Hirudo\Impl\StandAlone\SAPrincipal.php at line 52</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/SAPrincipal.php#L52" >framework\hirudo\Hirudo\Impl\StandAlone\SAPrincipal.php at line 52</a>
 
 <h3 id="instance()">instance</h3>
 <span class='k'>static </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/hirudo/impl/standalone/saprincipal.html>SAPrincipal</a></span> <span class='nf'>instance</span> ()
 
 <div class="details">
-<p></p></div>
+<p></p>
+</div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/standalone/saprincipal.php#L64 class="location">framework\hirudo\Hirudo\Impl\StandAlone\SAPrincipal.php at line 64</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/SAPrincipal.php#L64" >framework\hirudo\Hirudo\Impl\StandAlone\SAPrincipal.php at line 64</a>
 
 <h3 id="isAnonimous()">isAnonimous</h3>
 <span class='k'></span> <span class='nx'>boolean</span> <span class='nf'>isAnonimous</span> ()
@@ -94,12 +97,13 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/
 <dt>Returns:</dt>
 <dd>True if this user is logged in, false otherwise.</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/standalone/saprincipal.php#L74 class="location">framework\hirudo\Hirudo\Impl\StandAlone\SAPrincipal.php at line 74</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/SAPrincipal.php#L74" >framework\hirudo\Hirudo\Impl\StandAlone\SAPrincipal.php at line 74</a>
 
 <h3 id="setSession()">setSession</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>setSession</span> (Session session)
@@ -108,6 +112,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/
 <p></p><dl>
 <dt>Hirudo\Core\Annotations\Import(id="session").</dt>
 </dl>
+
 </div>
 
 - - -

@@ -1,10 +1,11 @@
 
+
 - - -
 
 **Doctrine\Common\Annotations\Annotation\Required**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/doctrine/common/annotations/annotation/required.php#L31 class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\Annotation\Required.php at line 31</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/Annotation/Required.php#L31" >framework\libs\doctrine-common\Doctrine\Common\Annotations\Annotation\Required.php at line 31</a>
 
 #Class Required#
 
@@ -15,7 +16,7 @@
 
 - - -
 
-<p class="signature">public final  class **Required**</p>
+<p class="signature"><span class='k'>public final  class</span> <span class='nx'>Required</span></p>
 
 <div class="comment" id="overview_description"><p>Annotation that can be used to signal to the parser
 to check if that attribute is required during the parsing process.</p></div>

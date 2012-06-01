@@ -1,10 +1,11 @@
 
+
 - - -
 
 **Doctrine\Common\Annotations\DocParser**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/doctrine/common/annotations/docparser.php#L41 class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\DocParser.php at line 41</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/DocParser.php#L41" >framework\libs\doctrine-common\Doctrine\Common\Annotations\DocParser.php at line 41</a>
 
 #Class DocParser#
 
@@ -15,7 +16,7 @@
 
 - - -
 
-<p class="signature">public final  class **DocParser**</p>
+<p class="signature"><span class='k'>public final  class</span> <span class='nx'>DocParser</span></p>
 
 <div class="comment" id="overview_description"><p>A parser for docblock annotations.</p><p>It is strongly discouraged to change the default annotation parsing process.</p></div>
 
@@ -71,75 +72,81 @@
 
 <h2 id="detail_method">Constructor Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/doctrine/common/annotations/docparser.php#L139 class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\DocParser.php at line 139</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/DocParser.php#L139" >framework\libs\doctrine-common\Doctrine\Common\Annotations\DocParser.php at line 139</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> ()
 
 <div class="details">
-<p>Constructs a new DocParser.</p></div>
+<p>Constructs a new DocParser.</p>
+</div>
 
 - - -
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/doctrine/common/annotations/docparser.php#L151 class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\DocParser.php at line 151</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/DocParser.php#L151" >framework\libs\doctrine-common\Doctrine\Common\Annotations\DocParser.php at line 151</a>
 
 <h3 id="setIgnoredAnnotationNames()">setIgnoredAnnotationNames</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>setIgnoredAnnotationNames</span> (array names)
 
 <div class="details">
 <p>Sets the annotation names that are ignored during the parsing process.</p><p>The names are supposed to be the raw names as used in the class, not the
-fully qualified class names.</p></div>
+fully qualified class names.</p>
+</div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/doctrine/common/annotations/docparser.php#L155 class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\DocParser.php at line 155</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/DocParser.php#L155" >framework\libs\doctrine-common\Doctrine\Common\Annotations\DocParser.php at line 155</a>
 
 <h3 id="setIgnoreNotImportedAnnotations()">setIgnoreNotImportedAnnotations</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>setIgnoreNotImportedAnnotations</span> (mixed bool)
 
 <div class="details">
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/doctrine/common/annotations/docparser.php#L163 class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\DocParser.php at line 163</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/DocParser.php#L163" >framework\libs\doctrine-common\Doctrine\Common\Annotations\DocParser.php at line 163</a>
 
 <h3 id="addNamespace()">addNamespace</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>addNamespace</span> (array namespaces, mixed namespace)
 
 <div class="details">
-<p>Sets the default namespaces.</p></div>
-
-- - -
-
-
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/doctrine/common/annotations/docparser.php#L170 class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\DocParser.php at line 170</a>
-
-<h3 id="setImports()">setImports</h3>
-<span class='k'></span> <span class='nx'>void</span> <span class='nf'>setImports</span> (mixed imports)
-
-<div class="details">
+<p>Sets the default namespaces.</p>
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/doctrine/common/annotations/docparser.php#L182 class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\DocParser.php at line 182</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/DocParser.php#L170" >framework\libs\doctrine-common\Doctrine\Common\Annotations\DocParser.php at line 170</a>
+
+<h3 id="setImports()">setImports</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>setImports</span> (mixed imports)
+
+<div class="details">
+
+</div>
+
+- - -
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/DocParser.php#L182" >framework\libs\doctrine-common\Doctrine\Common\Annotations\DocParser.php at line 182</a>
 
 <h3 id="setTarget()">setTarget</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>setTarget</span> (integer target)
 
 <div class="details">
-<p>Sets current target context as bitmask.</p></div>
+<p>Sets current target context as bitmask.</p>
+</div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/doctrine/common/annotations/docparser.php#L193 class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\DocParser.php at line 193</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/DocParser.php#L193" >framework\libs\doctrine-common\Doctrine\Common\Annotations\DocParser.php at line 193</a>
 
 <h3 id="parse()">parse</h3>
 <span class='k'></span> <span class='nx'>array</span> <span class='nf'>parse</span> (string input, string context)
@@ -152,6 +159,7 @@ fully qualified class names.</p></div>
 <dt>Returns:</dt>
 <dd>Array of annotations. If no annotations are found, an empty array is returned.</dd>
 </dl>
+
 </div>
 
 - - -

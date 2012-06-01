@@ -1,10 +1,11 @@
 
+
 - - -
 
 **Symfony\Component\DependencyInjection\TaggedContainerInterface**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/taggedcontainerinterface.php#L21 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\TaggedContainerInterface.php at line 21</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/TaggedContainerInterface.php#L21" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\TaggedContainerInterface.php at line 21</a>
 
 #Interface TaggedContainerInterface#
 
@@ -16,7 +17,7 @@
 
 - - -
 
-<p class="signature">public  interface **TaggedContainerInterface**
+<p class="signature"><span class='k'>public  interface</span> <span class='nx'>TaggedContainerInterface</span>
 extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/containerinterface.html">ContainerInterface</a>
 
 </p>
@@ -46,7 +47,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/comp
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/taggedcontainerinterface.php#L32 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\TaggedContainerInterface.php at line 32</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/TaggedContainerInterface.php#L32" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\TaggedContainerInterface.php at line 32</a>
 
 <h3 id="findTaggedServiceIds()">findTaggedServiceIds</h3>
 <span class='k'></span> <span class='nx'>array</span> <span class='nf'>findTaggedServiceIds</span> (string name)
@@ -59,6 +60,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/comp
 <dd>An array of tags</dd>
 <dt>Api.</dt>
 </dl>
+
 </div>
 
 - - -

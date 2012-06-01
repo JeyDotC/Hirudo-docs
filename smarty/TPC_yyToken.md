@@ -1,10 +1,11 @@
 
+
 - - -
 
 **Smarty\TPC_yyToken**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_configfileparser.php#L12 class="location">framework\libs\smarty\sysplugins\smarty_internal_configfileparser.php at line 12</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_configfileparser.php#L12" >framework\libs\smarty\sysplugins\smarty_internal_configfileparser.php at line 12</a>
 
 #Class TPC_yyToken#
 
@@ -15,7 +16,7 @@
 
 - - -
 
-<p class="signature">public  class **TPC_yyToken**</p>
+<p class="signature"><span class='k'>public  class</span> <span class='nx'>TPC_yyToken</span></p>
 
 <div class="comment" id="overview_description"><p>Smarty Internal Plugin Configfileparser</p><p>This is the config file parser.
 It is generated from the internal.configfileparser.y file</p></div>
@@ -76,57 +77,62 @@ It is generated from the internal.configfileparser.y file</p></div>
 
 <h2 id="detail_method">Constructor Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_configfileparser.php#L17 class="location">framework\libs\smarty\sysplugins\smarty_internal_configfileparser.php at line 17</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_configfileparser.php#L17" >framework\libs\smarty\sysplugins\smarty_internal_configfileparser.php at line 17</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (mixed s, mixed m)
 
 <div class="details">
+
 </div>
 
 - - -
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_configfileparser.php#L37 class="location">framework\libs\smarty\sysplugins\smarty_internal_configfileparser.php at line 37</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_configfileparser.php#L37" >framework\libs\smarty\sysplugins\smarty_internal_configfileparser.php at line 37</a>
 
 <h3 id="offsetExists()">offsetExists</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>offsetExists</span> (mixed offset)
 
 <div class="details">
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_configfileparser.php#L42 class="location">framework\libs\smarty\sysplugins\smarty_internal_configfileparser.php at line 42</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_configfileparser.php#L42" >framework\libs\smarty\sysplugins\smarty_internal_configfileparser.php at line 42</a>
 
 <h3 id="offsetGet()">offsetGet</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>offsetGet</span> (mixed offset)
 
 <div class="details">
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_configfileparser.php#L47 class="location">framework\libs\smarty\sysplugins\smarty_internal_configfileparser.php at line 47</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_configfileparser.php#L47" >framework\libs\smarty\sysplugins\smarty_internal_configfileparser.php at line 47</a>
 
 <h3 id="offsetSet()">offsetSet</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>offsetSet</span> (mixed offset, mixed value)
 
 <div class="details">
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_configfileparser.php#L70 class="location">framework\libs\smarty\sysplugins\smarty_internal_configfileparser.php at line 70</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_configfileparser.php#L70" >framework\libs\smarty\sysplugins\smarty_internal_configfileparser.php at line 70</a>
 
 <h3 id="offsetUnset()">offsetUnset</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>offsetUnset</span> (mixed offset)
 
 <div class="details">
+
 </div>
 
 - - -

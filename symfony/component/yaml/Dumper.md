@@ -1,10 +1,11 @@
 
+
 - - -
 
 **Symfony\Component\Yaml\Dumper**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/yaml/dumper.php#L19 class="location">framework\libs\symfony-components\Symfony\Component\Yaml\Dumper.php at line 19</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/Yaml/Dumper.php#L19" >framework\libs\symfony-components\Symfony\Component\Yaml\Dumper.php at line 19</a>
 
 #Class Dumper#
 
@@ -20,7 +21,7 @@
 
 - - -
 
-<p class="signature">public  class **Dumper**</p>
+<p class="signature"><span class='k'>public  class</span> <span class='nx'>Dumper</span></p>
 
 <div class="comment" id="overview_description"><p>Dumper dumps PHP variables to YAML strings.</p></div>
 
@@ -42,7 +43,7 @@
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/yaml/dumper.php#L30 class="location">framework\libs\symfony-components\Symfony\Component\Yaml\Dumper.php at line 30</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/Yaml/Dumper.php#L30" >framework\libs\symfony-components\Symfony\Component\Yaml\Dumper.php at line 30</a>
 
 <h3 id="dump()">dump</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>dump</span> (mixed input, integer inline, integer indent)
@@ -56,6 +57,7 @@
 <dt>Returns:</dt>
 <dd>The YAML representation of the PHP value</dd>
 </dl>
+
 </div>
 
 - - -

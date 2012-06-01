@@ -1,10 +1,11 @@
 
+
 - - -
 
 **Hirudo\Core\Context\SessionStates**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/core/context/session.php#L27 class="location">framework\hirudo\Hirudo\Core\Context\Session.php at line 27</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Context/Session.php#L27" >framework\hirudo\Hirudo\Core\Context\Session.php at line 27</a>
 
 #Class SessionStates#
 
@@ -16,7 +17,7 @@
 
 - - -
 
-<p class="signature">public final  class **SessionStates**
+<p class="signature"><span class='k'>public final  class</span> <span class='nx'>SessionStates</span>
 extends \PseudoEnum
 
 </p>
@@ -46,7 +47,7 @@ value that key.</p></td>
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/core/context/session.php#L43 class="location">framework\hirudo\Hirudo\Core\Context\Session.php at line 43</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Context/Session.php#L43" >framework\hirudo\Hirudo\Core\Context\Session.php at line 43</a>
 
 <h3 id="get()">get</h3>
 <span class='k'></span> <span class='nx'>mixed</span> <span class='nf'>get</span> (string key, mixed default)
@@ -60,12 +61,13 @@ value that key.</p><dl>
 <dt>Returns:</dt>
 <dd>The value stored in session or the default value if there is no value associated to the given key.</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/core/context/session.php#L52 class="location">framework\hirudo\Hirudo\Core\Context\Session.php at line 52</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Context/Session.php#L52" >framework\hirudo\Hirudo\Core\Context\Session.php at line 52</a>
 
 <h3 id="remove()">remove</h3>
 <span class='k'></span> <span class='nx'>mixed</span> <span class='nf'>remove</span> (string key)
@@ -77,12 +79,13 @@ value that key.</p><dl>
 <dt>Returns:</dt>
 <dd>The previous value. If there were no value for the given key, null is returned.</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/core/context/session.php#L62 class="location">framework\hirudo\Hirudo\Core\Context\Session.php at line 62</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Context/Session.php#L62" >framework\hirudo\Hirudo\Core\Context\Session.php at line 62</a>
 
 <h3 id="state()">state</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>state</span> ()
@@ -94,6 +97,7 @@ value that key.</p><dl>
 <dt>See Also:</dt>
 <dd><a href="../../../hirudo/core/context/sessionstates.html">To know more about the possible session states.</a></dd>
 </dl>
+
 </div>
 
 - - -

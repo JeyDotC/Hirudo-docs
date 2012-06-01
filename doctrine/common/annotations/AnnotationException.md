@@ -1,10 +1,11 @@
 
+
 - - -
 
 **Doctrine\Common\Annotations\AnnotationException**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/doctrine/common/annotations/annotationexception.php#L31 class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\AnnotationException.php at line 31</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/AnnotationException.php#L31" >framework\libs\doctrine-common\Doctrine\Common\Annotations\AnnotationException.php at line 31</a>
 
 #Class AnnotationException#
 
@@ -16,7 +17,7 @@
 
 - - -
 
-<p class="signature">public  class **AnnotationException**
+<p class="signature"><span class='k'>public  class</span> <span class='nx'>AnnotationException</span>
 extends \Exception
 
 </p>
@@ -63,7 +64,7 @@ the creation of the annotation.</p></td>
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/doctrine/common/annotations/annotationexception.php#L39 class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\AnnotationException.php at line 39</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/AnnotationException.php#L39" >framework\libs\doctrine-common\Doctrine\Common\Annotations\AnnotationException.php at line 39</a>
 
 <h3 id="syntaxError()">syntaxError</h3>
 <span class='k'>static </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/doctrine/common/annotations/annotationexception.html>AnnotationException</a></span> <span class='nf'>syntaxError</span> (string message)
@@ -73,12 +74,13 @@ the creation of the annotation.</p></td>
 <dt>Parameters:</dt>
 <dd>message - Exception message</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/doctrine/common/annotations/annotationexception.php#L50 class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\AnnotationException.php at line 50</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/AnnotationException.php#L50" >framework\libs\doctrine-common\Doctrine\Common\Annotations\AnnotationException.php at line 50</a>
 
 <h3 id="semanticalError()">semanticalError</h3>
 <span class='k'>static </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/doctrine/common/annotations/annotationexception.html>AnnotationException</a></span> <span class='nf'>semanticalError</span> (string message)
@@ -88,12 +90,13 @@ the creation of the annotation.</p></td>
 <dt>Parameters:</dt>
 <dd>message - Exception message</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/doctrine/common/annotations/annotationexception.php#L63 class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\AnnotationException.php at line 63</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/AnnotationException.php#L63" >framework\libs\doctrine-common\Doctrine\Common\Annotations\AnnotationException.php at line 63</a>
 
 <h3 id="creationError()">creationError</h3>
 <span class='k'>static </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/doctrine/common/annotations/annotationexception.html>AnnotationException</a></span> <span class='nf'>creationError</span> (string message)
@@ -104,12 +107,13 @@ the creation of the annotation.</p><dl>
 <dt>Since:</dt>
 <dd>2.2</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/doctrine/common/annotations/annotationexception.php#L79 class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\AnnotationException.php at line 79</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/AnnotationException.php#L79" >framework\libs\doctrine-common\Doctrine\Common\Annotations\AnnotationException.php at line 79</a>
 
 <h3 id="typeError()">typeError</h3>
 <span class='k'>static </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/doctrine/common/annotations/annotationexception.html>AnnotationException</a></span> <span class='nf'>typeError</span> (string attributeName, string annotationName, string context, string expected, mixed actual)
@@ -119,12 +123,13 @@ the creation of the annotation.</p><dl>
 <dt>Since:</dt>
 <dd>2.2</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/doctrine/common/annotations/annotationexception.php#L101 class="location">framework\libs\doctrine-common\Doctrine\Common\Annotations\AnnotationException.php at line 101</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/AnnotationException.php#L101" >framework\libs\doctrine-common\Doctrine\Common\Annotations\AnnotationException.php at line 101</a>
 
 <h3 id="requiredError()">requiredError</h3>
 <span class='k'>static </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/doctrine/common/annotations/annotationexception.html>AnnotationException</a></span> <span class='nf'>requiredError</span> (string attributeName, string annotationName, string context, string expected)
@@ -134,6 +139,7 @@ the creation of the annotation.</p><dl>
 <dt>Since:</dt>
 <dd>2.2</dd>
 </dl>
+
 </div>
 
 - - -

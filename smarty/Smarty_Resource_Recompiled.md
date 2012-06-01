@@ -1,10 +1,11 @@
 
+
 - - -
 
 **Smarty\Smarty_Resource_Recompiled**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_resource_recompiled.php#L18 class="location">framework\libs\smarty\sysplugins\smarty_resource_recompiled.php at line 18</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_resource_recompiled.php#L18" >framework\libs\smarty\sysplugins\smarty_resource_recompiled.php at line 18</a>
 
 #Class Smarty_Resource_Recompiled#
 
@@ -21,7 +22,7 @@
 
 - - -
 
-<p class="signature">public abstract  class **Smarty_Resource_Recompiled**
+<p class="signature"><span class='k'>public abstract  class</span> <span class='nx'>Smarty_Resource_Recompiled</span>
 extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_resource.html">Smarty_Resource</a>
 
 </p>
@@ -44,7 +45,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#populatecompiledfilepath">populateCompiledFilepath</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_template_compiled.html">Smarty_Template_Compiled</a> compiled, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.html">Smarty_Internal_Template</a> _template)</p><p class="description">populate Compiled Object with compiled filepath</p></td>
+<td class="description"><p class="name"><a href="#populatecompiledfilepath">populateCompiledFilepath</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_template_compiled.md">Smarty_Template_Compiled</a> compiled, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.md">Smarty_Internal_Template</a> _template)</p><p class="description">populate Compiled Object with compiled filepath</p></td>
 </tr>
 </table>
 
@@ -54,10 +55,10 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_resource_recompiled.php#L27 class="location">framework\libs\smarty\sysplugins\smarty_resource_recompiled.php at line 27</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_resource_recompiled.php#L27" >framework\libs\smarty\sysplugins\smarty_resource_recompiled.php at line 27</a>
 
 <h3 id="populateCompiledFilepath()">populateCompiledFilepath</h3>
-<span class='k'></span> <span class='nx'>void</span> <span class='nf'>populateCompiledFilepath</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_template_compiled.html">Smarty_Template_Compiled</a> compiled, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.html">Smarty_Internal_Template</a> _template)
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>populateCompiledFilepath</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_template_compiled.md">Smarty_Template_Compiled</a> compiled, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/smarty_internal_template.md">Smarty_Internal_Template</a> _template)
 
 <div class="details">
 <p>populate Compiled Object with compiled filepath</p><dl>
@@ -65,6 +66,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 <dd>compiled - compiled object</dd>
 <dd>_template - template object</dd>
 </dl>
+
 </div>
 
 - - -

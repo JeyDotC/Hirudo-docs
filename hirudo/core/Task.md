@@ -1,10 +1,11 @@
 
+
 - - -
 
 **Hirudo\Core\Task**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/core/task.php#L35 class="location">framework\hirudo\Hirudo\Core\Task.php at line 35</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Task.php#L35" >framework\hirudo\Hirudo\Core\Task.php at line 35</a>
 
 #Class Task#
 
@@ -15,7 +16,7 @@
 
 - - -
 
-<p class="signature">public  class **Task**</p>
+<p class="signature"><span class='k'>public  class</span> <span class='nx'>Task</span></p>
 
 <div class="comment" id="overview_description"><p>Is a representation of a module's task, it holds the information about the action
 to be executed and can be used to know which are it's requirements and also
@@ -33,7 +34,7 @@ resolve them.</p></div>
 <tr><th colspan="2">Constructor Summary</th></tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#__construct">__construct</a>(\ReflectionMethod reflectionMethod, <a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/module.html">Module</a> owner)</p><p class="description">Constructs a task.</p></td>
+<td class="description"><p class="name"><a href="#__construct">__construct</a>(\ReflectionMethod reflectionMethod, <a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/module.md">Module</a> owner)</p><p class="description">Constructs a task.</p></td>
 </tr>
 </table>
 
@@ -83,10 +84,10 @@ resolve them.</p></div>
 
 <h2 id="detail_method">Constructor Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/core/task.php#L65 class="location">framework\hirudo\Hirudo\Core\Task.php at line 65</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Task.php#L65" >framework\hirudo\Hirudo\Core\Task.php at line 65</a>
 
 <h3 id="__construct">__construct</h3>
-<span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (\ReflectionMethod reflectionMethod, <a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/module.html">Module</a> owner)
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (\ReflectionMethod reflectionMethod, <a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/module.md">Module</a> owner)
 
 <div class="details">
 <p>Constructs a task.</p><dl>
@@ -94,46 +95,50 @@ resolve them.</p></div>
 <dd>reflectionMethod - The method to be called.</dd>
 <dd>owner - The module that is the owner of the task.</dd>
 </dl>
+
 </div>
 
 - - -
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/core/task.php#L89 class="location">framework\hirudo\Hirudo\Core\Task.php at line 89</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Task.php#L89" >framework\hirudo\Hirudo\Core\Task.php at line 89</a>
 
 <h3 id="getName()">getName</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>getName</span> ()
 
 <div class="details">
-<p>Gets the method name.</p></div>
+<p>Gets the method name.</p>
+</div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/core/task.php#L98 class="location">framework\hirudo\Hirudo\Core\Task.php at line 98</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Task.php#L98" >framework\hirudo\Hirudo\Core\Task.php at line 98</a>
 
 <h3 id="getGetParams()">getGetParams</h3>
 <span class='k'></span> <span class='nx'>array<\ReflectionParameter></span> <span class='nf'>getGetParams</span> ()
 
 <div class="details">
-<p>Gets the method's parameters.</p></div>
+<p>Gets the method's parameters.</p>
+</div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/core/task.php#L107 class="location">framework\hirudo\Hirudo\Core\Task.php at line 107</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Task.php#L107" >framework\hirudo\Hirudo\Core\Task.php at line 107</a>
 
 <h3 id="getPostParams()">getPostParams</h3>
 <span class='k'></span> <span class='nx'>array<\ReflectionParameter></span> <span class='nf'>getPostParams</span> ()
 
 <div class="details">
-<p>Gets the method's parameters that should be resolved from POST.</p></div>
+<p>Gets the method's parameters that should be resolved from POST.</p>
+</div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/core/task.php#L117 class="location">framework\hirudo\Hirudo\Core\Task.php at line 117</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Task.php#L117" >framework\hirudo\Hirudo\Core\Task.php at line 117</a>
 
 <h3 id="setParamValue()">setParamValue</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>setParamValue</span> (string paramName, mixed value)
@@ -144,34 +149,37 @@ resolve them.</p></div>
 <dd>paramName - The parameter name.</dd>
 <dd>value - The value for the parameter.</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/core/task.php#L127 class="location">framework\hirudo\Hirudo\Core\Task.php at line 127</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Task.php#L127" >framework\hirudo\Hirudo\Core\Task.php at line 127</a>
 
 <h3 id="getParamValue()">getParamValue</h3>
 <span class='k'></span> <span class='nx'>type</span> <span class='nf'>getParamValue</span> (string paramName)
 
 <div class="details">
-<p>Gets the value of a method's param.</p></div>
+<p>Gets the value of a method's param.</p>
+</div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/core/task.php#L134 class="location">framework\hirudo\Hirudo\Core\Task.php at line 134</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Task.php#L134" >framework\hirudo\Hirudo\Core\Task.php at line 134</a>
 
 <h3 id="invoke()">invoke</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>invoke</span> ()
 
 <div class="details">
-<p>Executes the task.</p></div>
+<p>Executes the task.</p>
+</div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/core/task.php#L143 class="location">framework\hirudo\Hirudo\Core\Task.php at line 143</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Task.php#L143" >framework\hirudo\Hirudo\Core\Task.php at line 143</a>
 
 <h3 id="getTaskAnnotations()">getTaskAnnotations</h3>
 <span class='k'></span> <span class='nx'>array<mixed></span> <span class='nf'>getTaskAnnotations</span> ()
@@ -181,12 +189,13 @@ resolve them.</p></div>
 <dt>Returns:</dt>
 <dd>An annotations list.</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/core/task.php#L153 class="location">framework\hirudo\Hirudo\Core\Task.php at line 153</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Task.php#L153" >framework\hirudo\Hirudo\Core\Task.php at line 153</a>
 
 <h3 id="getTaskAnnotation()">getTaskAnnotation</h3>
 <span class='k'></span> <span class='nx'>mixed</span> <span class='nf'>getTaskAnnotation</span> (string annotationName)
@@ -198,23 +207,25 @@ resolve them.</p></div>
 <dt>Returns:</dt>
 <dd>The annotation</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/core/task.php#L162 class="location">framework\hirudo\Hirudo\Core\Task.php at line 162</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Task.php#L162" >framework\hirudo\Hirudo\Core\Task.php at line 162</a>
 
 <h3 id="getModule()">getModule</h3>
 <span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/module.html>Module</a></span> <span class='nf'>getModule</span> ()
 
 <div class="details">
-<p>Gets the module that owns the method to be executed.</p></div>
+<p>Gets the module that owns the method to be executed.</p>
+</div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/core/task.php#L171 class="location">framework\hirudo\Hirudo\Core\Task.php at line 171</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Task.php#L171" >framework\hirudo\Hirudo\Core\Task.php at line 171</a>
 
 <h3 id="isPostOnly()">isPostOnly</h3>
 <span class='k'></span> <span class='nx'>boolean</span> <span class='nf'>isPostOnly</span> ()
@@ -224,6 +235,7 @@ resolve them.</p></div>
 <dt>Returns:</dt>
 <dd>True if the method must be executed only if the request method is POST</dd>
 </dl>
+
 </div>
 
 - - -

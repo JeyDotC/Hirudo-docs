@@ -1,10 +1,11 @@
 
+
 - - -
 
 **Symfony\Component\DependencyInjection\Exception\RuntimeException**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/exception/runtimeexception.php#L19 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Exception\RuntimeException.php at line 19</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Exception/RuntimeException.php#L19" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Exception\RuntimeException.php at line 19</a>
 
 #Class RuntimeException#
 
@@ -14,7 +15,7 @@
 
 <dl>
 <dt>All Implemented Interfaces:</dt>
-<dd><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/exception/exceptioninterface.html">ExceptionInterface</a> </dd>
+<dd><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/exception/exceptioninterface.md">ExceptionInterface</a> </dd>
 </dl>
 
 <dl>
@@ -26,7 +27,7 @@
 
 - - -
 
-<p class="signature">public  class **RuntimeException**
+<p class="signature"><span class='k'>public  class</span> <span class='nx'>RuntimeException</span>
 extends \RuntimeException
 
 </p>

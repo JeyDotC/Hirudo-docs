@@ -1,10 +1,11 @@
 
+
 - - -
 
 **Doctrine\Common\Cache\ZendDataCache**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/doctrine/common/cache/zenddatacache.php#L31 class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\ZendDataCache.php at line 31</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Cache/ZendDataCache.php#L31" >framework\libs\doctrine-common\Doctrine\Common\Cache\ZendDataCache.php at line 31</a>
 
 #Class ZendDataCache#
 
@@ -16,7 +17,7 @@
 
 - - -
 
-<p class="signature">public  class **ZendDataCache**
+<p class="signature"><span class='k'>public  class</span> <span class='nx'>ZendDataCache</span>
 extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/cache/cacheprovider.html">CacheProvider</a>
 
 </p>
@@ -72,7 +73,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/com
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/doctrine/common/cache/zenddatacache.php#L36 class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\ZendDataCache.php at line 36</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Cache/ZendDataCache.php#L36" >framework\libs\doctrine-common\Doctrine\Common\Cache\ZendDataCache.php at line 36</a>
 
 <h3 id="doFetch()">doFetch</h3>
 <span class='k'>protected </span> <span class='nx'>string</span> <span class='nf'>doFetch</span> (string id)
@@ -84,12 +85,13 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/com
 <dt>Returns:</dt>
 <dd>The cached data or FALSE, if no cache entry exists for the given id.</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/doctrine/common/cache/zenddatacache.php#L44 class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\ZendDataCache.php at line 44</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Cache/ZendDataCache.php#L44" >framework\libs\doctrine-common\Doctrine\Common\Cache\ZendDataCache.php at line 44</a>
 
 <h3 id="doContains()">doContains</h3>
 <span class='k'>protected </span> <span class='nx'>boolean</span> <span class='nf'>doContains</span> (string id)
@@ -101,12 +103,13 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/com
 <dt>Returns:</dt>
 <dd>TRUE if a cache entry exists for the given cache id, FALSE otherwise.</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/doctrine/common/cache/zenddatacache.php#L52 class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\ZendDataCache.php at line 52</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Cache/ZendDataCache.php#L52" >framework\libs\doctrine-common\Doctrine\Common\Cache\ZendDataCache.php at line 52</a>
 
 <h3 id="doSave()">doSave</h3>
 <span class='k'>protected </span> <span class='nx'>boolean</span> <span class='nf'>doSave</span> (string id, string data, int lifeTime)
@@ -120,12 +123,13 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/com
 <dt>Returns:</dt>
 <dd>TRUE if the entry was successfully stored in the cache, FALSE otherwise.</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/doctrine/common/cache/zenddatacache.php#L60 class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\ZendDataCache.php at line 60</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Cache/ZendDataCache.php#L60" >framework\libs\doctrine-common\Doctrine\Common\Cache\ZendDataCache.php at line 60</a>
 
 <h3 id="doDelete()">doDelete</h3>
 <span class='k'>protected </span> <span class='nx'>boolean</span> <span class='nf'>doDelete</span> (string id)
@@ -137,12 +141,13 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/com
 <dt>Returns:</dt>
 <dd>TRUE if the cache entry was successfully deleted, FALSE otherwise.</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/doctrine/common/cache/zenddatacache.php#L68 class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\ZendDataCache.php at line 68</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Cache/ZendDataCache.php#L68" >framework\libs\doctrine-common\Doctrine\Common\Cache\ZendDataCache.php at line 68</a>
 
 <h3 id="doFlush()">doFlush</h3>
 <span class='k'>protected </span> <span class='nx'>boolean</span> <span class='nf'>doFlush</span> ()
@@ -152,12 +157,13 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/com
 <dt>Returns:</dt>
 <dd>TRUE if the cache entry was successfully deleted, FALSE otherwise.</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/doctrine/common/cache/zenddatacache.php#L80 class="location">framework\libs\doctrine-common\Doctrine\Common\Cache\ZendDataCache.php at line 80</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Cache/ZendDataCache.php#L80" >framework\libs\doctrine-common\Doctrine\Common\Cache\ZendDataCache.php at line 80</a>
 
 <h3 id="doGetStats()">doGetStats</h3>
 <span class='k'>protected </span> <span class='nx'>array</span> <span class='nf'>doGetStats</span> ()
@@ -169,6 +175,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/com
 <dt>Returns:</dt>
 <dd>An associative array with server's statistics if available, NULL otherwise.</dd>
 </dl>
+
 </div>
 
 - - -

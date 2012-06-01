@@ -1,10 +1,11 @@
 
+
 - - -
 
 **Symfony\Component\EventDispatcher\EventSubscriberInterface**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/eventdispatcher/eventsubscriberinterface.php#L29 class="location">framework\libs\symfony-components\Symfony\Component\EventDispatcher\EventSubscriberInterface.php at line 29</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/EventDispatcher/EventSubscriberInterface.php#L29" >framework\libs\symfony-components\Symfony\Component\EventDispatcher\EventSubscriberInterface.php at line 29</a>
 
 #Interface EventSubscriberInterface#
 
@@ -15,7 +16,7 @@
 
 - - -
 
-<p class="signature">public  interface **EventSubscriberInterface**</p>
+<p class="signature"><span class='k'>public  interface</span> <span class='nx'>EventSubscriberInterface</span></p>
 
 <div class="comment" id="overview_description"><p>An EventSubscriber knows himself what events he is interested in.
 If an EventSubscriber is added to an EventDispatcherInterface, the manager invokes
@@ -49,7 +50,7 @@ returned events.</p></div>
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/eventdispatcher/eventsubscriberinterface.php#L48 class="location">framework\libs\symfony-components\Symfony\Component\EventDispatcher\EventSubscriberInterface.php at line 48</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/EventDispatcher/EventSubscriberInterface.php#L48" >framework\libs\symfony-components\Symfony\Component\EventDispatcher\EventSubscriberInterface.php at line 48</a>
 
 <h3 id="getSubscribedEvents()">getSubscribedEvents</h3>
 <span class='k'>static </span> <span class='nx'>array</span> <span class='nf'>getSubscribedEvents</span> ()
@@ -62,6 +63,7 @@ returned events.</p></div>
 <dd>The event names to listen to</dd>
 <dt>Api.</dt>
 </dl>
+
 </div>
 
 - - -

@@ -1,10 +1,11 @@
 
+
 - - -
 
 **HTTP_Session2\HTTP_Session2_Container**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/standalone/lib/http/session2/container.php#L64 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container.php at line 64</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container.php#L64" >framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container.php at line 64</a>
 
 #Class HTTP_Session2_Container#
 
@@ -20,7 +21,7 @@
 
 - - -
 
-<p class="signature">public abstract  class **HTTP_Session2_Container**</p>
+<p class="signature"><span class='k'>public abstract  class</span> <span class='nx'>HTTP_Session2_Container</span></p>
 
 <div class="comment" id="overview_description"><p>Container class for storing session data data</p></div>
 
@@ -78,7 +79,7 @@
 
 <h2 id="detail_method">Constructor Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/standalone/lib/http/session2/container.php#L80 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container.php at line 80</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container.php#L80" >framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container.php at line 80</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (array options)
@@ -88,24 +89,26 @@
 <dt>Parameters:</dt>
 <dd>options - Additional options for the container object</dd>
 </dl>
+
 </div>
 
 - - -
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/standalone/lib/http/session2/container.php#L103 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container.php at line 103</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container.php#L103" >framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container.php at line 103</a>
 
 <h3 id="setDefaults()">setDefaults</h3>
 <span class='k'>protected </span> <span class='nx'>void</span> <span class='nf'>setDefaults</span> ()
 
 <div class="details">
-<p>Set some default options</p></div>
+<p>Set some default options</p>
+</div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/standalone/lib/http/session2/container.php#L114 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container.php at line 114</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container.php#L114" >framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container.php at line 114</a>
 
 <h3 id="parseOptions()">parseOptions</h3>
 <span class='k'>protected </span> <span class='nx'>void</span> <span class='nf'>parseOptions</span> (array options)
@@ -115,18 +118,20 @@
 <dt>Parameters:</dt>
 <dd>options - Options</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/hirudo/impl/standalone/lib/http/session2/container.php#L128 class="location">framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container.php at line 128</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container.php#L128" >framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container.php at line 128</a>
 
 <h3 id="set()">set</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>set</span> ()
 
 <div class="details">
-<p>Set session save handler</p></div>
+<p>Set session save handler</p>
+</div>
 
 - - -
 

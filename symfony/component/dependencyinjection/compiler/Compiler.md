@@ -1,10 +1,11 @@
 
+
 - - -
 
 **Symfony\Component\DependencyInjection\Compiler\Compiler**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/compiler/compiler.php#L24 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\Compiler.php at line 24</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/Compiler.php#L24" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\Compiler.php at line 24</a>
 
 #Class Compiler#
 
@@ -15,7 +16,7 @@
 
 - - -
 
-<p class="signature">public  class **Compiler**</p>
+<p class="signature"><span class='k'>public  class</span> <span class='nx'>Compiler</span></p>
 
 <div class="comment" id="overview_description"><p>This class is used to remove circular dependencies between individual passes.</p></div>
 
@@ -52,7 +53,7 @@
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#addpass">addPass</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/compiler/compilerpassinterface.html">CompilerPassInterface</a> pass, string type)</p><p class="description">Adds a pass to the PassConfig.</p></td>
+<td class="description"><p class="name"><a href="#addpass">addPass</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/compiler/compilerpassinterface.md">CompilerPassInterface</a> pass, string type)</p><p class="description">Adds a pass to the PassConfig.</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
@@ -64,25 +65,26 @@
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#compile">compile</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/containerbuilder.html">ContainerBuilder</a> container)</p><p class="description">Run the Compiler and process all Passes.</p></td>
+<td class="description"><p class="name"><a href="#compile">compile</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/containerbuilder.md">ContainerBuilder</a> container)</p><p class="description">Run the Compiler and process all Passes.</p></td>
 </tr>
 </table>
 
 <h2 id="detail_method">Constructor Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/compiler/compiler.php#L34 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\Compiler.php at line 34</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/Compiler.php#L34" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\Compiler.php at line 34</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> ()
 
 <div class="details">
-<p>Constructor.</p></div>
+<p>Constructor.</p>
+</div>
 
 - - -
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/compiler/compiler.php#L49 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\Compiler.php at line 49</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/Compiler.php#L49" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\Compiler.php at line 49</a>
 
 <h3 id="getPassConfig()">getPassConfig</h3>
 <span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/compiler/passconfig.html>PassConfig</a></span> <span class='nf'>getPassConfig</span> ()
@@ -93,12 +95,13 @@
 <dd>The PassConfig instance</dd>
 <dt>Api.</dt>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/compiler/compiler.php#L61 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\Compiler.php at line 61</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/Compiler.php#L61" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\Compiler.php at line 61</a>
 
 <h3 id="getServiceReferenceGraph()">getServiceReferenceGraph</h3>
 <span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/compiler/servicereferencegraph.html>ServiceReferenceGraph</a></span> <span class='nf'>getServiceReferenceGraph</span> ()
@@ -109,26 +112,28 @@
 <dd>The ServiceReferenceGraph instance</dd>
 <dt>Api.</dt>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/compiler/compiler.php#L71 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\Compiler.php at line 71</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/Compiler.php#L71" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\Compiler.php at line 71</a>
 
 <h3 id="getLoggingFormatter()">getLoggingFormatter</h3>
 <span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/compiler/loggingformatter.html>LoggingFormatter</a></span> <span class='nf'>getLoggingFormatter</span> ()
 
 <div class="details">
-<p>Returns the logging formatter which can be used by compilation passes.</p></div>
+<p>Returns the logging formatter which can be used by compilation passes.</p>
+</div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/compiler/compiler.php#L84 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\Compiler.php at line 84</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/Compiler.php#L84" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\Compiler.php at line 84</a>
 
 <h3 id="addPass()">addPass</h3>
-<span class='k'></span> <span class='nx'>void</span> <span class='nf'>addPass</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/compiler/compilerpassinterface.html">CompilerPassInterface</a> pass, string type)
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>addPass</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/compiler/compilerpassinterface.md">CompilerPassInterface</a> pass, string type)
 
 <div class="details">
 <p>Adds a pass to the PassConfig.</p><dl>
@@ -137,12 +142,13 @@
 <dd>type - The type of the pass</dd>
 <dt>Api.</dt>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/compiler/compiler.php#L94 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\Compiler.php at line 94</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/Compiler.php#L94" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\Compiler.php at line 94</a>
 
 <h3 id="addLogMessage()">addLogMessage</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>addLogMessage</span> (string string)
@@ -152,12 +158,13 @@
 <dt>Parameters:</dt>
 <dd>string - The log message</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/compiler/compiler.php#L104 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\Compiler.php at line 104</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/Compiler.php#L104" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\Compiler.php at line 104</a>
 
 <h3 id="getLog()">getLog</h3>
 <span class='k'></span> <span class='nx'>array</span> <span class='nf'>getLog</span> ()
@@ -167,20 +174,22 @@
 <dt>Returns:</dt>
 <dd>Log array</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/dependencyinjection/compiler/compiler.php#L116 class="location">framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\Compiler.php at line 116</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/Compiler.php#L116" >framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\Compiler.php at line 116</a>
 
 <h3 id="compile()">compile</h3>
-<span class='k'></span> <span class='nx'>void</span> <span class='nf'>compile</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/containerbuilder.html">ContainerBuilder</a> container)
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>compile</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/containerbuilder.md">ContainerBuilder</a> container)
 
 <div class="details">
 <p>Run the Compiler and process all Passes.</p><dl>
 <dt>Api.</dt>
 </dl>
+
 </div>
 
 - - -

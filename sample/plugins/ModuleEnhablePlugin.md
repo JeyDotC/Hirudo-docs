@@ -1,10 +1,11 @@
 
+
 - - -
 
 **Sample\Plugins\ModuleEnhablePlugin**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/ext/libs/sampleextension/sample/plugins/moduleenhableplugin.php#L15 class="location">ext\libs\SampleExtension\Sample\Plugins\ModuleEnhablePlugin.php at line 15</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/ext/libs/SampleExtension/Sample/Plugins/ModuleEnhablePlugin.php#L15" >ext\libs\SampleExtension\Sample\Plugins\ModuleEnhablePlugin.php at line 15</a>
 
 #Class ModuleEnhablePlugin#
 
@@ -16,7 +17,7 @@
 
 - - -
 
-<p class="signature">public  class **ModuleEnhablePlugin**
+<p class="signature"><span class='k'>public  class</span> <span class='nx'>ModuleEnhablePlugin</span>
 extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/events/beforetaskeventlistener.html">BeforeTaskEventListener</a>
 
 </p>
@@ -35,7 +36,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td><span class='k'>protected </span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#beforetask">beforeTask</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/events/beforetaskevent.html">BeforeTaskEvent</a> e)</p><p class="description">This is the method that needs to be implemented by the event listener in
+<td class="description"><p class="name"><a href="#beforetask">beforeTask</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/events/beforetaskevent.md">BeforeTaskEvent</a> e)</p><p class="description">This is the method that needs to be implemented by the event listener in
 order to work. </p></td>
 </tr>
 </table>
@@ -46,10 +47,10 @@ order to work. </p></td>
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/ext/libs/sampleextension/sample/plugins/moduleenhableplugin.php#L17 class="location">ext\libs\SampleExtension\Sample\Plugins\ModuleEnhablePlugin.php at line 17</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/ext/libs/SampleExtension/Sample/Plugins/ModuleEnhablePlugin.php#L17" >ext\libs\SampleExtension\Sample\Plugins\ModuleEnhablePlugin.php at line 17</a>
 
 <h3 id="beforeTask()">beforeTask</h3>
-<span class='k'>protected </span> <span class='nx'>void</span> <span class='nf'>beforeTask</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/events/beforetaskevent.html">BeforeTaskEvent</a> e)
+<span class='k'>protected </span> <span class='nx'>void</span> <span class='nf'>beforeTask</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/events/beforetaskevent.md">BeforeTaskEvent</a> e)
 
 <div class="details">
 <p>This is the method that needs to be implemented by the event listener in
@@ -61,6 +62,7 @@ current call, thus restarting the task call process for the new ModuleCall.</p><
 <dt>See Also:</dt>
 <dd><a href="../../hirudo/core/events/beforetaskevent.html">BeforeTaskEvent</a></dd>
 </dl>
+
 </div>
 
 - - -

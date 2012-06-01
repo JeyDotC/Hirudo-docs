@@ -14,7 +14,7 @@
 
 <h2 id="detail_global">Global Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/chromephp.php#L30 class="location">ChromePhp.php at line 30</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/ChromePhp.php#L30" >ChromePhp.php at line 30</a>
 
 <h3 id="VERSION">VERSION</h3>
 ```php

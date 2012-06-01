@@ -1,10 +1,11 @@
 
+
 - - -
 
 **Symfony\Component\ClassLoader\ApcUniversalClassLoader**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/classloader/apcuniversalclassloader.php#L63 class="location">framework\libs\symfony-components\Symfony\Component\ClassLoader\ApcUniversalClassLoader.php at line 63</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/ClassLoader/ApcUniversalClassLoader.php#L63" >framework\libs\symfony-components\Symfony\Component\ClassLoader\ApcUniversalClassLoader.php at line 63</a>
 
 #Class ApcUniversalClassLoader#
 
@@ -16,7 +17,7 @@
 
 - - -
 
-<p class="signature">public  class **ApcUniversalClassLoader**
+<p class="signature"><span class='k'>public  class</span> <span class='nx'>ApcUniversalClassLoader</span>
 extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/classloader/universalclassloader.html">UniversalClassLoader</a>
 
 </p>
@@ -72,7 +73,7 @@ found before giving up.</p></div>
 
 <h2 id="detail_method">Constructor Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/classloader/apcuniversalclassloader.php#L74 class="location">framework\libs\symfony-components\Symfony\Component\ClassLoader\ApcUniversalClassLoader.php at line 74</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/ClassLoader/ApcUniversalClassLoader.php#L74" >framework\libs\symfony-components\Symfony\Component\ClassLoader\ApcUniversalClassLoader.php at line 74</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (string prefix)
@@ -83,13 +84,14 @@ found before giving up.</p></div>
 <dd>prefix - A prefix to create a namespace in APC</dd>
 <dt>Api.</dt>
 </dl>
+
 </div>
 
 - - -
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/symfony/component/classloader/apcuniversalclassloader.php#L88 class="location">framework\libs\symfony-components\Symfony\Component\ClassLoader\ApcUniversalClassLoader.php at line 88</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/ClassLoader/ApcUniversalClassLoader.php#L88" >framework\libs\symfony-components\Symfony\Component\ClassLoader\ApcUniversalClassLoader.php at line 88</a>
 
 <h3 id="findFile()">findFile</h3>
 <span class='k'></span> <span class='nx'>string|null</span> <span class='nf'>findFile</span> (string class)
@@ -101,6 +103,7 @@ found before giving up.</p></div>
 <dt>Returns:</dt>
 <dd>The path, if found</dd>
 </dl>
+
 </div>
 
 - - -

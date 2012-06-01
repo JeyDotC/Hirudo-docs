@@ -1,10 +1,11 @@
 
+
 - - -
 
 **ChromePhp\ChromePhp**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/chromephp.php#L25 class="location">ChromePhp.php at line 25</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/ChromePhp.php#L25" >ChromePhp.php at line 25</a>
 
 #Class ChromePhp#
 
@@ -15,7 +16,7 @@
 
 - - -
 
-<p class="signature">public  class **ChromePhp**</p>
+<p class="signature"><span class='k'>public  class</span> <span class='nx'>ChromePhp</span></p>
 
 <div class="comment" id="overview_description"><p>Server Side Chrome PHP debugger class</p></div>
 
@@ -116,30 +117,32 @@
 
 <h2 id="detail_method">Constructor Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/chromephp.php#L64 class="location">ChromePhp.php at line 64</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/ChromePhp.php#L64" >ChromePhp.php at line 64</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'>private </span> <span class='nx'>void</span> <span class='nf'>__construct</span> ()
 
 <div class="details">
-<p>constructor</p></div>
+<p>constructor</p>
+</div>
 
 - - -
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/chromephp.php#L75 class="location">ChromePhp.php at line 75</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/ChromePhp.php#L75" >ChromePhp.php at line 75</a>
 
 <h3 id="getInstance()">getInstance</h3>
 <span class='k'>static </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo/blob/master/chromephp/chromephp.html>ChromePhp</a></span> <span class='nf'>getInstance</span> ()
 
 <div class="details">
-<p>gets instance of this class</p></div>
+<p>gets instance of this class</p>
+</div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/chromephp.php#L90 class="location">ChromePhp.php at line 90</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/ChromePhp.php#L90" >ChromePhp.php at line 90</a>
 
 <h3 id="log()">log</h3>
 <span class='k'>static </span> <span class='nx'>void</span> <span class='nf'>log</span> (string label, mixed value, string severity)
@@ -151,106 +154,116 @@
 <dd></dd>
 <dd>severity - ChromePhp::LOG || ChromePhp::WARN || ChromePhp::ERROR</dd>
 </dl>
+
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/chromephp.php#L109 class="location">ChromePhp.php at line 109</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/ChromePhp.php#L109" >ChromePhp.php at line 109</a>
 
 <h3 id="warn()">warn</h3>
 <span class='k'>static </span> <span class='nx'>void</span> <span class='nf'>warn</span> (string label, mixed value)
 
 <div class="details">
-<p>logs a warning to the console</p></div>
+<p>logs a warning to the console</p>
+</div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/chromephp.php#L120 class="location">ChromePhp.php at line 120</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/ChromePhp.php#L120" >ChromePhp.php at line 120</a>
 
 <h3 id="error()">error</h3>
 <span class='k'>static </span> <span class='nx'>void</span> <span class='nf'>error</span> (string label, mixed value)
 
 <div class="details">
-<p>logs an error to the console</p></div>
+<p>logs an error to the console</p>
+</div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/chromephp.php#L129 class="location">ChromePhp.php at line 129</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/ChromePhp.php#L129" >ChromePhp.php at line 129</a>
 
 <h3 id="group()">group</h3>
 <span class='k'>static </span> <span class='nx'>void</span> <span class='nf'>group</span> (string value)
 
 <div class="details">
-<p>sends a group log</p></div>
+<p>sends a group log</p>
+</div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/chromephp.php#L138 class="location">ChromePhp.php at line 138</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/ChromePhp.php#L138" >ChromePhp.php at line 138</a>
 
 <h3 id="info()">info</h3>
 <span class='k'>static </span> <span class='nx'>void</span> <span class='nf'>info</span> (string value)
 
 <div class="details">
-<p>sends an info log</p></div>
+<p>sends an info log</p>
+</div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/chromephp.php#L147 class="location">ChromePhp.php at line 147</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/ChromePhp.php#L147" >ChromePhp.php at line 147</a>
 
 <h3 id="groupCollapsed()">groupCollapsed</h3>
 <span class='k'>static </span> <span class='nx'>void</span> <span class='nf'>groupCollapsed</span> (string value)
 
 <div class="details">
-<p>sends a collapsed group log</p></div>
+<p>sends a collapsed group log</p>
+</div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/chromephp.php#L156 class="location">ChromePhp.php at line 156</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/ChromePhp.php#L156" >ChromePhp.php at line 156</a>
 
 <h3 id="groupEnd()">groupEnd</h3>
 <span class='k'>static </span> <span class='nx'>void</span> <span class='nf'>groupEnd</span> (string value)
 
 <div class="details">
-<p>ends a group log</p></div>
+<p>ends a group log</p>
+</div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/chromephp.php#L328 class="location">ChromePhp.php at line 328</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/ChromePhp.php#L328" >ChromePhp.php at line 328</a>
 
 <h3 id="addSetting()">addSetting</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>addSetting</span> (string key, mixed value)
 
 <div class="details">
-<p>adds a setting</p></div>
+<p>adds a setting</p>
+</div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/chromephp.php#L338 class="location">ChromePhp.php at line 338</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/ChromePhp.php#L338" >ChromePhp.php at line 338</a>
 
 <h3 id="addSettings()">addSettings</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>addSettings</span> (array settings)
 
 <div class="details">
-<p>add ability to set multiple settings in one call</p></div>
+<p>add ability to set multiple settings in one call</p>
+</div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/chromephp.php#L350 class="location">ChromePhp.php at line 350</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/ChromePhp.php#L350" >ChromePhp.php at line 350</a>
 
 <h3 id="getSetting()">getSetting</h3>
 <span class='k'></span> <span class='nx'>mixed</span> <span class='nf'>getSetting</span> (string key)
 
 <div class="details">
-<p>gets a setting</p></div>
+<p>gets a setting</p>
+</div>
 
 - - -
 
