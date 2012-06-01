@@ -73,7 +73,7 @@ resolve them.</p></div>
 <td class="description"><p class="name"><a href="#gettaskannotation">getTaskAnnotation</a>(string annotationName)</p><p class="description">Gets a single annotation from the merhod.</p></td>
 </tr>
 <tr>
-<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/module.html>Module</a></span></td>
+<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/Module>Module</a></span></td>
 <td class="description"><p class="name"><a href="#getmodule">getModule</a>()</p><p class="description">Gets the module that owns the method to be executed.</p></td>
 </tr>
 <tr>
@@ -216,7 +216,7 @@ resolve them.</p></div>
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Task.php#L162" >framework\hirudo\Hirudo\Core\Task.php at line 162</a>
 
 <h3 id="getModule()">getModule</h3>
-<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/module.html>Module</a></span> <span class='nf'>getModule</span> ()
+<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/Module>Module</a></span> <span class='nf'>getModule</span> ()
 
 <div class="details">
 <p>Gets the module that owns the method to be executed.</p>

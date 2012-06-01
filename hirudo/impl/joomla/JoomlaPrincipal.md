@@ -9,7 +9,7 @@
 
 #Class JoomlaPrincipal#
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/principal.md">Principal</a>
+<a href="">Principal</a>
     * **JoomlaPrincipal**
 
 
@@ -18,7 +18,7 @@
 - - -
 
 <p class="signature"><span class='k'>public  class</span> <span class='nx'>JoomlaPrincipal</span>
-extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/principal.md">Principal</a>
+extends <a href="">Principal</a>
 
 </p>
 
@@ -54,7 +54,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/
 
 <table class="inherit">
 <tr><th colspan="2">Methods inherited from Hirudo\Core\Context\Principal</th></tr>
-<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/principal.md">__construct</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/principal.md">getCredential</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/principal.md">getData</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/principal.md">getName</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/principal.md">getPermissions</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/principal.md">isAnonimous</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/principal.md">setCredential</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/principal.md">setName</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/principal.md">setPermissions</a></td></tr></table>
+<tr><td><a href="">__construct</a>, <a href="">getCredential</a>, <a href="">getData</a>, <a href="">getName</a>, <a href="">getPermissions</a>, <a href="">isAnonimous</a>, <a href="">setCredential</a>, <a href="">setName</a>, <a href="">setPermissions</a></td></tr></table>
 
 <h2 id="detail_method">Constructor Detail</h2>
 

@@ -14,7 +14,7 @@
 
 <dl>
 <dt>All Known Subclasses:</dt>
-<dd><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/_smarty_code.md">_smarty_code</a> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/_smarty_doublequoted.md">_smarty_doublequoted</a> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/_smarty_dq_content.md">_smarty_dq_content</a> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/_smarty_linebreak.md">_smarty_linebreak</a> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/_smarty_tag.md">_smarty_tag</a> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/_smarty_template_buffer.md">_smarty_template_buffer</a> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/_smarty_text.md">_smarty_text</a> </dd>
+<dd><a href="">_smarty_code</a> <a href="">_smarty_doublequoted</a> <a href="">_smarty_dq_content</a> <a href="">_smarty_linebreak</a> <a href="">_smarty_tag</a> <a href="">_smarty_template_buffer</a> <a href="">_smarty_text</a> </dd>
 </dl>
 
 

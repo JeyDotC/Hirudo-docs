@@ -9,7 +9,7 @@
 
 #Class Smarty_CacheResource_KeyValueStore#
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_cacheresource.md">Smarty_CacheResource</a>
+<a href="">Smarty_CacheResource</a>
     * **Smarty_CacheResource_KeyValueStore**
 
 
@@ -18,7 +18,7 @@
 - - -
 
 <p class="signature"><span class='k'>public abstract  class</span> <span class='nx'>Smarty_CacheResource_KeyValueStore</span>
-extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_cacheresource.md">Smarty_CacheResource</a>
+extends <a href="">Smarty_CacheResource</a>
 
 </p>
 
@@ -64,7 +64,7 @@ consider using »a|b|c|$page-$items-$whatever« instead.</p></div>
 
 <table class="inherit">
 <tr><th colspan="2">Fields inherited from Smarty\Smarty_CacheResource</th></tr>
-<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_cacheresource.md">resources</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_cacheresource.md">sysplugins</a></td></tr></table>
+<tr><td><a href="">resources</a>, <a href="">sysplugins</a></td></tr></table>
 
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
@@ -157,7 +157,7 @@ consider using »a|b|c|$page-$items-$whatever« instead.</p></div>
 
 <table class="inherit">
 <tr><th colspan="2">Methods inherited from Smarty\Smarty_CacheResource</th></tr>
-<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_cacheresource.md">acquireLock</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_cacheresource.md">clear</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_cacheresource.md">clearAll</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_cacheresource.md">getCachedContent</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_cacheresource.md">hasLock</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_cacheresource.md">invalidLoadedCache</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_cacheresource.md">load</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_cacheresource.md">locked</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_cacheresource.md">populate</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_cacheresource.md">populateTimestamp</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_cacheresource.md">process</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_cacheresource.md">releaseLock</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_cacheresource.md">writeCachedContent</a></td></tr></table>
+<tr><td><a href="">acquireLock</a>, <a href="">clear</a>, <a href="">clearAll</a>, <a href="">getCachedContent</a>, <a href="">hasLock</a>, <a href="">invalidLoadedCache</a>, <a href="">load</a>, <a href="">locked</a>, <a href="">populate</a>, <a href="">populateTimestamp</a>, <a href="">process</a>, <a href="">releaseLock</a>, <a href="">writeCachedContent</a></td></tr></table>
 
 <h2 id="detail_method">Method Detail</h2>
 

@@ -15,7 +15,7 @@
 
 <dl>
 <dt>All Implemented Interfaces:</dt>
-<dd><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/exception/exceptioninterface.md">Symfony\Component\DependencyInjection\Exception\ExceptionInterface</a> </dd>
+<dd><a href="">Symfony\Component\DependencyInjection\Exception\ExceptionInterface</a> </dd>
 </dl>
 
 

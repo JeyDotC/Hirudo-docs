@@ -6,15 +6,15 @@
 
 <table class="title">
 <tr><th colspan="2" class="title">Class Summary</th></tr>
-<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/annotations/annotation/attribute.md">Attribute</a></td><td class="description">Annotation that can be used to signal to the parser
+<tr><td class="name"><a href="">Attribute</a></td><td class="description">Annotation that can be used to signal to the parser
 to check the attribute type during the parsing process.</td></tr>
-<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/annotations/annotation/attributes.md">Attributes</a></td><td class="description">Annotation that can be used to signal to the parser
+<tr><td class="name"><a href="">Attributes</a></td><td class="description">Annotation that can be used to signal to the parser
 to check the types of all declared attributes during the parsing process.</td></tr>
-<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/annotations/annotation/ignoreannotation.md">IgnoreAnnotation</a></td><td class="description">Annotation that can be used to signal to the parser to ignore specific
+<tr><td class="name"><a href="">IgnoreAnnotation</a></td><td class="description">Annotation that can be used to signal to the parser to ignore specific
 annotations during the parsing process.</td></tr>
-<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/annotations/annotation/required.md">Required</a></td><td class="description">Annotation that can be used to signal to the parser
+<tr><td class="name"><a href="">Required</a></td><td class="description">Annotation that can be used to signal to the parser
 to check if that attribute is required during the parsing process.</td></tr>
-<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/annotations/annotation/target.md">Target</a></td><td class="description">Annotation that can be used to signal to the parser
+<tr><td class="name"><a href="">Target</a></td><td class="description">Annotation that can be used to signal to the parser
 to check the annotation target during the parsing process.</td></tr>
 </table>
 

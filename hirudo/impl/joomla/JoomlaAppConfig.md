@@ -9,7 +9,7 @@
 
 #Class JoomlaAppConfig#
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/appconfig.md">AppConfig</a>
+<a href="">AppConfig</a>
     * **JoomlaAppConfig**
 
 
@@ -18,7 +18,7 @@
 - - -
 
 <p class="signature"><span class='k'>public  class</span> <span class='nx'>JoomlaAppConfig</span>
-extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/appconfig.md">AppConfig</a>
+extends <a href="">AppConfig</a>
 
 </p>
 
@@ -52,7 +52,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/
 
 <table class="inherit">
 <tr><th colspan="2">Methods inherited from Hirudo\Core\Context\AppConfig</th></tr>
-<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/appconfig.md">__construct</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/appconfig.md">get</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/appconfig.md">load</a></td></tr></table>
+<tr><td><a href="">__construct</a>, <a href="">get</a>, <a href="">load</a></td></tr></table>
 
 <h2 id="detail_method">Method Detail</h2>
 

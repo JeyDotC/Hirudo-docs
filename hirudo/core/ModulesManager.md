@@ -9,7 +9,7 @@
 
 #Class ModulesManager#
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/eventdispatcher/eventdispatcher.md">EventDispatcher</a>
+<a href="">EventDispatcher</a>
     * **ModulesManager**
 
 
@@ -18,7 +18,7 @@
 - - -
 
 <p class="signature"><span class='k'>public  class</span> <span class='nx'>ModulesManager</span>
-extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/eventdispatcher/eventdispatcher.md">EventDispatcher</a>
+extends <a href="">EventDispatcher</a>
 
 </p>
 
@@ -65,7 +65,7 @@ default configuration.</p></td>
 
 <table class="inherit">
 <tr><th colspan="2">Methods inherited from Symfony\Component\EventDispatcher\EventDispatcher</th></tr>
-<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/eventdispatcher/eventdispatcher.md">addListener</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/eventdispatcher/eventdispatcher.md">addSubscriber</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/eventdispatcher/eventdispatcher.md">dispatch</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/eventdispatcher/eventdispatcher.md">doDispatch</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/eventdispatcher/eventdispatcher.md">getListeners</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/eventdispatcher/eventdispatcher.md">hasListeners</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/eventdispatcher/eventdispatcher.md">removeListener</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/eventdispatcher/eventdispatcher.md">removeSubscriber</a></td></tr></table>
+<tr><td><a href="">addListener</a>, <a href="">addSubscriber</a>, <a href="">dispatch</a>, <a href="">doDispatch</a>, <a href="">getListeners</a>, <a href="">hasListeners</a>, <a href="">removeListener</a>, <a href="">removeSubscriber</a></td></tr></table>
 
 <h2 id="detail_method">Constructor Detail</h2>
 

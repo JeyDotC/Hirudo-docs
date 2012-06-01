@@ -14,7 +14,7 @@
 
 <dl>
 <dt>All Known Subclasses:</dt>
-<dd><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/taggedcontainerinterface.md">TaggedContainerInterface</a> </dd>
+<dd><a href="">TaggedContainerInterface</a> </dd>
 </dl>
 
 

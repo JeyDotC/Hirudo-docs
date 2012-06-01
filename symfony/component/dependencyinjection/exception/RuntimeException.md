@@ -15,12 +15,12 @@
 
 <dl>
 <dt>All Implemented Interfaces:</dt>
-<dd><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/exception/exceptioninterface.md">ExceptionInterface</a> </dd>
+<dd><a href="">ExceptionInterface</a> </dd>
 </dl>
 
 <dl>
 <dt>All Known Subclasses:</dt>
-<dd><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/exception/inactivescopeexception.md">InactiveScopeException</a> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/exception/parametercircularreferenceexception.md">ParameterCircularReferenceException</a> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/exception/scopecrossinginjectionexception.md">ScopeCrossingInjectionException</a> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/exception/scopewideninginjectionexception.md">ScopeWideningInjectionException</a> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/exception/servicecircularreferenceexception.md">ServiceCircularReferenceException</a> </dd>
+<dd><a href="">InactiveScopeException</a> <a href="">ParameterCircularReferenceException</a> <a href="">ScopeCrossingInjectionException</a> <a href="">ScopeWideningInjectionException</a> <a href="">ServiceCircularReferenceException</a> </dd>
 </dl>
 
 

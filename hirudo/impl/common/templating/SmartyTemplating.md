@@ -14,7 +14,7 @@
 
 <dl>
 <dt>All Implemented Interfaces:</dt>
-<dd><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/templatinginterface.md">Hirudo\Core\TemplatingInterface</a> </dd>
+<dd><a href="">Hirudo\Core\TemplatingInterface</a> </dd>
 </dl>
 
 
@@ -52,7 +52,7 @@
 <td class="description"><p class="name"><a href="#display">display</a>(string moduleDir, string view)</p><p class="description">Renders the view and retuns it as a string.</p></td>
 </tr>
 <tr>
-<td><span class='k'>static </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/impl/common/templating/smartytemplating.html>SmartyTemplating</a></span></td>
+<td><span class='k'>static </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/impl/common/templating/SmartyTemplating>SmartyTemplating</a></span></td>
 <td class="description"><p class="name"><a href="#instance">instance</a>()</p><p class="description"></p></td>
 </tr>
 <tr>
@@ -117,7 +117,7 @@
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Common/Templating/SmartyTemplating.php#L88" >framework\hirudo\Hirudo\Impl\Common\Templating\SmartyTemplating.php at line 88</a>
 
 <h3 id="instance()">instance</h3>
-<span class='k'>static </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/impl/common/templating/smartytemplating.html>SmartyTemplating</a></span> <span class='nf'>instance</span> ()
+<span class='k'>static </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/impl/common/templating/SmartyTemplating>SmartyTemplating</a></span> <span class='nf'>instance</span> ()
 
 <div class="details">
 <p></p>

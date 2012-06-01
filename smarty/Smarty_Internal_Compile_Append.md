@@ -9,8 +9,8 @@
 
 #Class Smarty_Internal_Compile_Append#
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_compilebase.md">Smarty_Internal_CompileBase</a>
-    * <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_compile_assign.md">Smarty_Internal_Compile_Assign</a>
+<a href="">Smarty_Internal_CompileBase</a>
+    * <a href="">Smarty_Internal_Compile_Assign</a>
         * **Smarty_Internal_Compile_Append**
 
 
@@ -19,7 +19,7 @@
 - - -
 
 <p class="signature"><span class='k'>public  class</span> <span class='nx'>Smarty_Internal_Compile_Append</span>
-extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_compile_assign.md">Smarty_Internal_Compile_Assign</a>
+extends <a href="">Smarty_Internal_Compile_Assign</a>
 
 </p>
 
@@ -43,11 +43,11 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smart
 
 <table class="inherit">
 <tr><th colspan="2">Methods inherited from Smarty\Smarty_Internal_Compile_Assign</th></tr>
-<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_compile_assign.md">compile</a></td></tr></table>
+<tr><td><a href="">compile</a></td></tr></table>
 
 <table class="inherit">
 <tr><th colspan="2">Methods inherited from Smarty\Smarty_Internal_CompileBase</th></tr>
-<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_compilebase.md">closeTag</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_compilebase.md">getAttributes</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_compilebase.md">openTag</a></td></tr></table>
+<tr><td><a href="">closeTag</a>, <a href="">getAttributes</a>, <a href="">openTag</a></td></tr></table>
 
 <h2 id="detail_method">Method Detail</h2>
 

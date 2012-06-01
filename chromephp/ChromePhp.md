@@ -43,7 +43,7 @@
                                 </p><p class="description"></p></td>
 </tr>
 <tr>
-<td><span class='k'>protected static </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/chromephp/chromephp.html'>ChromePhp</a></span></td>
+<td><span class='k'>protected static </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/chromephp/ChromePhp'>ChromePhp</a></span></td>
 <td class="description"><p class="name" ><a href="#_instance"> $_instance</a>
                                 </p><p class="description"></p></td>
 </tr>
@@ -70,7 +70,7 @@
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td><span class='k'>static </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/chromephp/chromephp.html>ChromePhp</a></span></td>
+<td><span class='k'>static </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/chromephp/ChromePhp>ChromePhp</a></span></td>
 <td class="description"><p class="name"><a href="#getinstance">getInstance</a>()</p><p class="description">gets instance of this class</p></td>
 </tr>
 <tr>
@@ -133,7 +133,7 @@
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/ChromePhp.php#L75" >ChromePhp.php at line 75</a>
 
 <h3 id="getInstance()">getInstance</h3>
-<span class='k'>static </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/chromephp/chromephp.html>ChromePhp</a></span> <span class='nf'>getInstance</span> ()
+<span class='k'>static </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/chromephp/ChromePhp>ChromePhp</a></span> <span class='nf'>getInstance</span> ()
 
 <div class="details">
 <p>gets instance of this class</p>

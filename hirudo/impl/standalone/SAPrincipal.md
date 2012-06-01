@@ -9,7 +9,7 @@
 
 #Class SAPrincipal#
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/principal.md">Principal</a>
+<a href="">Principal</a>
     * **SAPrincipal**
 
 
@@ -18,7 +18,7 @@
 - - -
 
 <p class="signature"><span class='k'>public  class</span> <span class='nx'>SAPrincipal</span>
-extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/principal.md">Principal</a>
+extends <a href="">Principal</a>
 
 </p>
 
@@ -43,7 +43,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td><span class='k'>static </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/impl/standalone/saprincipal.html>SAPrincipal</a></span></td>
+<td><span class='k'>static </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/impl/standalone/SAPrincipal>SAPrincipal</a></span></td>
 <td class="description"><p class="name"><a href="#instance">instance</a>()</p><p class="description"></p></td>
 </tr>
 <tr>
@@ -58,7 +58,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/
 
 <table class="inherit">
 <tr><th colspan="2">Methods inherited from Hirudo\Core\Context\Principal</th></tr>
-<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/principal.md">__construct</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/principal.md">getCredential</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/principal.md">getData</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/principal.md">getName</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/principal.md">getPermissions</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/principal.md">isAnonimous</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/principal.md">setCredential</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/principal.md">setName</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/principal.md">setPermissions</a></td></tr></table>
+<tr><td><a href="">__construct</a>, <a href="">getCredential</a>, <a href="">getData</a>, <a href="">getName</a>, <a href="">getPermissions</a>, <a href="">isAnonimous</a>, <a href="">setCredential</a>, <a href="">setName</a>, <a href="">setPermissions</a></td></tr></table>
 
 <h2 id="detail_method">Constructor Detail</h2>
 
@@ -78,7 +78,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/SAPrincipal.php#L52" >framework\hirudo\Hirudo\Impl\StandAlone\SAPrincipal.php at line 52</a>
 
 <h3 id="instance()">instance</h3>
-<span class='k'>static </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/impl/standalone/saprincipal.html>SAPrincipal</a></span> <span class='nf'>instance</span> ()
+<span class='k'>static </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/impl/standalone/SAPrincipal>SAPrincipal</a></span> <span class='nf'>instance</span> ()
 
 <div class="details">
 <p></p>

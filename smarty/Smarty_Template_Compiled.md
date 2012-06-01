@@ -62,7 +62,7 @@
                                 </p><p class="description">Compiled Content Loaded</p></td>
 </tr>
 <tr>
-<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_template_source.html'>Smarty_Template_Source</a></span></td>
+<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Template_Source'>Smarty_Template_Source</a></span></td>
 <td class="description"><p class="name" ><a href="#source"> $source</a>
                                 </p><p class="description">Source Object</p></td>
 </tr>

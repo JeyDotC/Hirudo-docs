@@ -6,14 +6,14 @@
 
 <table class="title">
 <tr><th colspan="2" class="title">Class Summary</th></tr>
-<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/impl/joomla/joomlaappconfig.md">JoomlaAppConfig</a></td><td class="description">Description of JAppConfig</td></tr>
-<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/impl/joomla/joomlaassets.md">JoomlaAssets</a></td><td class="description">Description of JoomlaAssets</td></tr>
-<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/impl/joomla/joomlafrontcontroller.md">JoomlaFrontController</a></td><td class="description">The underscore front controller implementation for joomla.</td></tr>
-<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/impl/joomla/joomlahelper.md">JoomlaHelper</a></td><td class="description">Description of _JoomlaHelper</td></tr>
-<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/impl/joomla/joomlaprincipal.md">JoomlaPrincipal</a></td><td class="description"></td></tr>
-<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/impl/joomla/joomlarequest.md">JoomlaRequest</a></td><td class="description">Description of JoomlaRequest</td></tr>
-<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/impl/joomla/joomlarouting.md">JoomlaRouting</a></td><td class="description"></td></tr>
-<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/impl/joomla/joomlasession.md">JoomlaSession</a></td><td class="description">Represents a session, this implementation delegates the session management to
+<tr><td class="name"><a href="">JoomlaAppConfig</a></td><td class="description">Description of JAppConfig</td></tr>
+<tr><td class="name"><a href="">JoomlaAssets</a></td><td class="description">Description of JoomlaAssets</td></tr>
+<tr><td class="name"><a href="">JoomlaFrontController</a></td><td class="description">The underscore front controller implementation for joomla.</td></tr>
+<tr><td class="name"><a href="">JoomlaHelper</a></td><td class="description">Description of _JoomlaHelper</td></tr>
+<tr><td class="name"><a href="">JoomlaPrincipal</a></td><td class="description"></td></tr>
+<tr><td class="name"><a href="">JoomlaRequest</a></td><td class="description">Description of JoomlaRequest</td></tr>
+<tr><td class="name"><a href="">JoomlaRouting</a></td><td class="description"></td></tr>
+<tr><td class="name"><a href="">JoomlaSession</a></td><td class="description">Represents a session, this implementation delegates the session management to
 the Joomla! JSession class.</td></tr>
 </table>
 

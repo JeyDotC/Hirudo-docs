@@ -14,7 +14,7 @@
 
 <dl>
 <dt>All Known Subclasses:</dt>
-<dd><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_smartytemplatecompiler.md">Smarty_Internal_SmartyTemplateCompiler</a> </dd>
+<dd><a href="">Smarty_Internal_SmartyTemplateCompiler</a> </dd>
 </dl>
 
 
@@ -108,7 +108,7 @@
                                 </p><p class="description">suppress template property header code in compiled template</p></td>
 </tr>
 <tr>
-<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_internal_template.html'>Smarty_Internal_Template</a></span></td>
+<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Internal_Template'>Smarty_Internal_Template</a></span></td>
 <td class="description"><p class="name" ><a href="#template"> $template</a>
                                 </p><p class="description">current template</p></td>
 </tr>

@@ -14,7 +14,7 @@
 
 <dl>
 <dt>All Known Subclasses:</dt>
-<dd><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/classloader/apcuniversalclassloader.md">ApcUniversalClassLoader</a> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/classloader/debuguniversalclassloader.md">DebugUniversalClassLoader</a> </dd>
+<dd><a href="">ApcUniversalClassLoader</a> <a href="">DebugUniversalClassLoader</a> </dd>
 </dl>
 
 

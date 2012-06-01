@@ -6,17 +6,17 @@
 
 <table class="title">
 <tr><th colspan="2" class="title">Class Summary</th></tr>
-<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/dumper/dumper.md">Dumper</a></td><td class="description">Dumper is the abstract class for all built-in dumpers.</td></tr>
-<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/dumper/graphvizdumper.md">GraphvizDumper</a></td><td class="description">GraphvizDumper dumps a service container as a graphviz file.
+<tr><td class="name"><a href="">Dumper</a></td><td class="description">Dumper is the abstract class for all built-in dumpers.</td></tr>
+<tr><td class="name"><a href="">GraphvizDumper</a></td><td class="description">GraphvizDumper dumps a service container as a graphviz file.
 </td></tr>
-<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/dumper/phpdumper.md">PhpDumper</a></td><td class="description">PhpDumper dumps a service container as a PHP class.</td></tr>
-<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/dumper/xmldumper.md">XmlDumper</a></td><td class="description">XmlDumper dumps a service container as an XML string.</td></tr>
-<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/dumper/yamldumper.md">YamlDumper</a></td><td class="description">YamlDumper dumps a service container as a YAML string.</td></tr>
+<tr><td class="name"><a href="">PhpDumper</a></td><td class="description">PhpDumper dumps a service container as a PHP class.</td></tr>
+<tr><td class="name"><a href="">XmlDumper</a></td><td class="description">XmlDumper dumps a service container as an XML string.</td></tr>
+<tr><td class="name"><a href="">YamlDumper</a></td><td class="description">YamlDumper dumps a service container as a YAML string.</td></tr>
 </table>
 
 <table class="title">
 <tr><th colspan="2" class="title">Interface Summary</th></tr>
-<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/dumper/dumperinterface.md">DumperInterface</a></td><td class="description">DumperInterface is the interface implemented by service container dumper classes.</td></tr>
+<tr><td class="name"><a href="">DumperInterface</a></td><td class="description">DumperInterface is the interface implemented by service container dumper classes.</td></tr>
 </table>
 
 <table class="title">

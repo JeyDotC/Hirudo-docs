@@ -9,7 +9,7 @@
 
 #Class MemcachedCache#
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/cache/cacheprovider.md">CacheProvider</a>
+<a href="">CacheProvider</a>
     * **MemcachedCache**
 
 
@@ -18,7 +18,7 @@
 - - -
 
 <p class="signature"><span class='k'>public  class</span> <span class='nx'>MemcachedCache</span>
-extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/cache/cacheprovider.md">CacheProvider</a>
+extends <a href="">CacheProvider</a>
 
 </p>
 
@@ -80,7 +80,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/com
 
 <table class="inherit">
 <tr><th colspan="2">Methods inherited from Doctrine\Common\Cache\CacheProvider</th></tr>
-<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/cache/cacheprovider.md">delete</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/cache/cacheprovider.md">deleteAll</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/cache/cacheprovider.md">doContains</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/cache/cacheprovider.md">doDelete</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/cache/cacheprovider.md">doFetch</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/cache/cacheprovider.md">doFlush</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/cache/cacheprovider.md">doGetStats</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/cache/cacheprovider.md">doSave</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/cache/cacheprovider.md">flushAll</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/cache/cacheprovider.md">getStats</a></td></tr></table>
+<tr><td><a href="">delete</a>, <a href="">deleteAll</a>, <a href="">doContains</a>, <a href="">doDelete</a>, <a href="">doFetch</a>, <a href="">doFlush</a>, <a href="">doGetStats</a>, <a href="">doSave</a>, <a href="">flushAll</a>, <a href="">getStats</a></td></tr></table>
 
 <h2 id="detail_method">Method Detail</h2>
 

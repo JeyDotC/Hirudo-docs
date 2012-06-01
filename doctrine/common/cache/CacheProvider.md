@@ -14,12 +14,12 @@
 
 <dl>
 <dt>All Implemented Interfaces:</dt>
-<dd><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/cache/cache.md">Cache</a> </dd>
+<dd><a href="">Cache</a> </dd>
 </dl>
 
 <dl>
 <dt>All Known Subclasses:</dt>
-<dd><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/cache/apccache.md">ApcCache</a> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/cache/arraycache.md">ArrayCache</a> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/cache/memcachecache.md">MemcacheCache</a> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/cache/memcachedcache.md">MemcachedCache</a> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/cache/wincachecache.md">WincacheCache</a> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/cache/xcachecache.md">XcacheCache</a> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/doctrine/common/cache/zenddatacache.md">ZendDataCache</a> </dd>
+<dd><a href="">ApcCache</a> <a href="">ArrayCache</a> <a href="">MemcacheCache</a> <a href="">MemcachedCache</a> <a href="">WincacheCache</a> <a href="">XcacheCache</a> <a href="">ZendDataCache</a> </dd>
 </dl>
 
 

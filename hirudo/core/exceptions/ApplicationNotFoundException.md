@@ -10,7 +10,7 @@
 #Class ApplicationNotFoundException#
 
 \Exception
-* <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/exceptions/hirudoexception.md">HirudoException</a>
+* <a href="">HirudoException</a>
         * **ApplicationNotFoundException**
 
 
@@ -19,7 +19,7 @@
 - - -
 
 <p class="signature"><span class='k'>public  class</span> <span class='nx'>ApplicationNotFoundException</span>
-extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/exceptions/hirudoexception.md">HirudoException</a>
+extends <a href="">HirudoException</a>
 
 </p>
 
@@ -43,7 +43,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/
 
 <table class="inherit">
 <tr><th colspan="2">Methods inherited from Hirudo\Core\Exceptions\HirudoException</th></tr>
-<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/exceptions/hirudoexception.md">__construct</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/exceptions/hirudoexception.md">getApp</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/exceptions/hirudoexception.md">getModule</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/exceptions/hirudoexception.md">getTask</a></td></tr></table>
+<tr><td><a href="">__construct</a>, <a href="">getApp</a>, <a href="">getModule</a>, <a href="">getTask</a></td></tr></table>
 
 <h2 id="detail_method">Constructor Detail</h2>
 

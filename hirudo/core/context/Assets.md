@@ -14,7 +14,7 @@
 
 <dl>
 <dt>All Known Subclasses:</dt>
-<dd><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/impl/joomla/joomlaassets.md">Hirudo\Impl\Joomla\JoomlaAssets</a> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/impl/standalone/sassets.md">Hirudo\Impl\StandAlone\SAssets</a> </dd>
+<dd><a href="">Hirudo\Impl\Joomla\JoomlaAssets</a> <a href="">Hirudo\Impl\StandAlone\SAssets</a> </dd>
 </dl>
 
 

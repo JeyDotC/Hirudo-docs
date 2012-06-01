@@ -9,7 +9,7 @@
 
 #Class SAssets#
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/assets.md">Assets</a>
+<a href="">Assets</a>
     * **SAssets**
 
 
@@ -18,7 +18,7 @@
 - - -
 
 <p class="signature"><span class='k'>public  class</span> <span class='nx'>SAssets</span>
-extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/assets.md">Assets</a>
+extends <a href="">Assets</a>
 
 </p>
 
@@ -47,7 +47,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/
 
 <table class="inherit">
 <tr><th colspan="2">Methods inherited from Hirudo\Core\Context\Assets</th></tr>
-<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/assets.md">addCSS</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/assets.md">addJavaScript</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/assets.md">generateCSSTag</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/context/assets.md">generateScriptTag</a></td></tr></table>
+<tr><td><a href="">addCSS</a>, <a href="">addJavaScript</a>, <a href="">generateCSSTag</a>, <a href="">generateScriptTag</a></td></tr></table>
 
 <h2 id="detail_method">Method Detail</h2>
 

@@ -9,7 +9,7 @@
 
 #Class DbTestComponent#
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/models/components/sql/simplesqlcomponent.md">SimpleSqlComponent</a>
+<a href="">SimpleSqlComponent</a>
     * **DbTestComponent**
 
 
@@ -18,7 +18,7 @@
 - - -
 
 <p class="signature"><span class='k'>public  class</span> <span class='nx'>DbTestComponent</span>
-extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/models/components/sql/simplesqlcomponent.md">SimpleSqlComponent</a>
+extends <a href="">SimpleSqlComponent</a>
 
 </p>
 
@@ -46,7 +46,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/model
 
 <table class="inherit">
 <tr><th colspan="2">Methods inherited from Hirudo\Models\Components\Sql\SimpleSqlComponent</th></tr>
-<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/models/components/sql/simplesqlcomponent.md">getQuery</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/models/components/sql/simplesqlcomponent.md">setQueryFactory</a></td></tr></table>
+<tr><td><a href="">getQuery</a>, <a href="">setQueryFactory</a></td></tr></table>
 
 <h2 id="detail_method">Method Detail</h2>
 

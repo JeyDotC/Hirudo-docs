@@ -9,7 +9,7 @@
 
 #Class ModuleEnhablePlugin#
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/events/beforetaskeventlistener.md">BeforeTaskEventListener</a>
+<a href="">BeforeTaskEventListener</a>
     * **ModuleEnhablePlugin**
 
 
@@ -18,7 +18,7 @@
 - - -
 
 <p class="signature"><span class='k'>public  class</span> <span class='nx'>ModuleEnhablePlugin</span>
-extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/events/beforetaskeventlistener.md">BeforeTaskEventListener</a>
+extends <a href="">BeforeTaskEventListener</a>
 
 </p>
 
@@ -43,7 +43,7 @@ order to work. </p></td>
 
 <table class="inherit">
 <tr><th colspan="2">Methods inherited from Hirudo\Core\Events\BeforeTaskEventListener</th></tr>
-<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/events/beforetaskeventlistener.md">beforeTask</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/events/beforetaskeventlistener.md">getSubscribedEvents</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/events/beforetaskeventlistener.md">onBeforeTask</a></td></tr></table>
+<tr><td><a href="">beforeTask</a>, <a href="">getSubscribedEvents</a>, <a href="">onBeforeTask</a></td></tr></table>
 
 <h2 id="detail_method">Method Detail</h2>
 

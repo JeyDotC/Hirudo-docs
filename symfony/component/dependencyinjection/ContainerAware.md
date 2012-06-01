@@ -14,7 +14,7 @@
 
 <dl>
 <dt>All Known Subclasses:</dt>
-<dd><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/dependencyinjection/annotationsbaseddependenciesmanager.md">Hirudo\Core\DependencyInjection\AnnotationsBasedDependenciesManager</a> </dd>
+<dd><a href="">Hirudo\Core\DependencyInjection\AnnotationsBasedDependenciesManager</a> </dd>
 </dl>
 
 
@@ -39,7 +39,7 @@
 <table id="summary_field">
 <tr><th colspan="2">Field Summary</th></tr>
 <tr>
-<td><span class='k'>protected </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/containerinterface.html'>ContainerInterface</a></span></td>
+<td><span class='k'>protected </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/ContainerInterface'>ContainerInterface</a></span></td>
 <td class="description"><p class="name" ><a href="#container"> $container</a>
                                 </p><p class="description"></p></td>
 </tr>

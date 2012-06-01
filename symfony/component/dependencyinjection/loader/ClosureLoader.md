@@ -9,7 +9,7 @@
 
 #Class ClosureLoader#
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/lang/loader.md">Loader</a>
+<a href="">Loader</a>
     * **ClosureLoader**
 
 
@@ -18,7 +18,7 @@
 - - -
 
 <p class="signature"><span class='k'>public  class</span> <span class='nx'>ClosureLoader</span>
-extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/lang/loader.md">Loader</a>
+extends <a href="">Loader</a>
 
 </p>
 
@@ -56,7 +56,7 @@ extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/lang/
 
 <table class="inherit">
 <tr><th colspan="2">Methods inherited from Hirudo\Lang\Loader</th></tr>
-<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/lang/loader.md">arrayToPaths</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/lang/loader.md">isDir</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/lang/loader.md">isFile</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/lang/loader.md">toPaths</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/lang/loader.md">toSinglePath</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/lang/loader.md">using</a></td></tr></table>
+<tr><td><a href="">arrayToPaths</a>, <a href="">isDir</a>, <a href="">isFile</a>, <a href="">toPaths</a>, <a href="">toSinglePath</a>, <a href="">using</a></td></tr></table>
 
 <h2 id="detail_method">Constructor Detail</h2>
 

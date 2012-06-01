@@ -9,7 +9,7 @@
 
 #Interface RepeatablePassInterface#
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/compiler/compilerpassinterface.md">CompilerPassInterface</a>
+<a href="">CompilerPassInterface</a>
     * **RepeatablePassInterface**
 
 
@@ -18,7 +18,7 @@
 - - -
 
 <p class="signature"><span class='k'>public  interface</span> <span class='nx'>RepeatablePassInterface</span>
-extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/compiler/compilerpassinterface.md">CompilerPassInterface</a>
+extends <a href="">CompilerPassInterface</a>
 
 </p>
 
@@ -44,7 +44,7 @@ RepeatedPass.</p></div>
 
 <table class="inherit">
 <tr><th colspan="2">Methods inherited from Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface</th></tr>
-<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/compiler/compilerpassinterface.md">process</a></td></tr></table>
+<tr><td><a href="">process</a></td></tr></table>
 
 <h2 id="detail_method">Method Detail</h2>
 

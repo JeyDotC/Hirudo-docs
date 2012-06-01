@@ -10,7 +10,7 @@
 #Class ParameterNotFoundException#
 
 BaseInvalidArgumentException
-* <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/exception/invalidargumentexception.md">InvalidArgumentException</a>
+* <a href="">InvalidArgumentException</a>
         * **ParameterNotFoundException**
 
 
@@ -19,7 +19,7 @@ BaseInvalidArgumentException
 - - -
 
 <p class="signature"><span class='k'>public  class</span> <span class='nx'>ParameterNotFoundException</span>
-extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/exception/invalidargumentexception.md">InvalidArgumentException</a>
+extends <a href="">InvalidArgumentException</a>
 
 </p>
 

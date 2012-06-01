@@ -10,7 +10,7 @@
 #Class ScopeWideningInjectionException#
 
 \RuntimeException
-* <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/exception/runtimeexception.md">RuntimeException</a>
+* <a href="">RuntimeException</a>
         * **ScopeWideningInjectionException**
 
 
@@ -19,7 +19,7 @@
 - - -
 
 <p class="signature"><span class='k'>public  class</span> <span class='nx'>ScopeWideningInjectionException</span>
-extends <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/exception/runtimeexception.md">RuntimeException</a>
+extends <a href="">RuntimeException</a>
 
 </p>
 

@@ -14,7 +14,7 @@
 
 <dl>
 <dt>All Implemented Interfaces:</dt>
-<dd><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/symfony/component/dependencyinjection/compiler/compilerpassinterface.md">CompilerPassInterface</a> </dd>
+<dd><a href="">CompilerPassInterface</a> </dd>
 </dl>
 
 

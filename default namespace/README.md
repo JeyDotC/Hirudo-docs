@@ -6,12 +6,12 @@
 
 <table class="title">
 <tr><th colspan="2" class="title">Class Summary</th></tr>
-<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/default namespace/pseudoenum.md">PseudoEnum</a></td><td class="description">A base class for simple Enum representation. </td></tr>
-<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/default namespace/smarty_internal_configfileparser.md">Smarty_Internal_Configfileparser</a></td><td class="description"></td></tr>
-<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/default namespace/smarty_internal_templateparser.md">Smarty_Internal_Templateparser</a></td><td class="description"></td></tr>
-<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/default namespace/tpc_yystackentry.md">TPC_yyStackEntry</a></td><td class="description"></td></tr>
-<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/default namespace/tp_yystackentry.md">TP_yyStackEntry</a></td><td class="description"></td></tr>
-<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/default namespace/hirudoimpljoomlajoomlafrontview_.md">hirudoimpljoomlajoomlafrontView_</a></td><td class="description">HTML View class for the underscore component</td></tr>
+<tr><td class="name"><a href="">PseudoEnum</a></td><td class="description">A base class for simple Enum representation. </td></tr>
+<tr><td class="name"><a href="">Smarty_Internal_Configfileparser</a></td><td class="description"></td></tr>
+<tr><td class="name"><a href="">Smarty_Internal_Templateparser</a></td><td class="description"></td></tr>
+<tr><td class="name"><a href="">TPC_yyStackEntry</a></td><td class="description"></td></tr>
+<tr><td class="name"><a href="">TP_yyStackEntry</a></td><td class="description"></td></tr>
+<tr><td class="name"><a href="">hirudoimpljoomlajoomlafrontView_</a></td><td class="description">HTML View class for the underscore component</td></tr>
 </table>
 
 <table class="title">

@@ -14,7 +14,7 @@
 
 <dl>
 <dt>All Known Subclasses:</dt>
-<dd><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/hirudo/core/modulesmanager.md">Hirudo\Core\ModulesManager</a> </dd>
+<dd><a href="">Hirudo\Core\ModulesManager</a> </dd>
 </dl>
 
 

@@ -6,11 +6,11 @@
 
 <table class="title">
 <tr><th colspan="2" class="title">Class Summary</th></tr>
-<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/http_session2/http_session2.md">HTTP_Session2</a></td><td class="description">Class for managing HTTP sessionsProvides access to session-state values as well as session-level
+<tr><td class="name"><a href="">HTTP_Session2</a></td><td class="description">Class for managing HTTP sessionsProvides access to session-state values as well as session-level
 settings and lifetime management methods.
 </td></tr>
-<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/http_session2/http_session2_container.md">HTTP_Session2_Container</a></td><td class="description">Container class for storing session data data</td></tr>
-<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/http_session2/http_session2_container_db.md">HTTP_Session2_Container_DB</a></td><td class="description">Database container for session dataCreate the following table to store session data
+<tr><td class="name"><a href="">HTTP_Session2_Container</a></td><td class="description">Container class for storing session data data</td></tr>
+<tr><td class="name"><a href="">HTTP_Session2_Container_DB</a></td><td class="description">Database container for session dataCreate the following table to store session data
 
 CREATE TABLE `sessiondata` (
 `id` CHAR(32) NOT NULL,
@@ -19,7 +19,7 @@ CREATE TABLE `sessiondata` (
 PRIMARY KEY (`id`)
 );
 </td></tr>
-<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/http_session2/http_session2_container_mdb2.md">HTTP_Session2_Container_MDB2</a></td><td class="description">Database container for session dataCreate the following table to store session data
+<tr><td class="name"><a href="">HTTP_Session2_Container_MDB2</a></td><td class="description">Database container for session dataCreate the following table to store session data
 
 CREATE TABLE `sessiondata` (
 `id` CHAR(32) NOT NULL,
@@ -28,17 +28,17 @@ CREATE TABLE `sessiondata` (
 PRIMARY KEY (`id`)
 );
 </td></tr>
-<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/http_session2/http_session2_container_memcache.md">HTTP_Session2_Container_Memcache</a></td><td class="description">Memcache container for session data</td></tr>
+<tr><td class="name"><a href="">HTTP_Session2_Container_Memcache</a></td><td class="description">Memcache container for session data</td></tr>
 </table>
 
 <table class="title">
 <tr><th colspan="2" class="title">Interface Summary</th></tr>
-<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/http_session2/http_session2_container_interface.md">HTTP_Session2_Container_Interface</a></td><td class="description">Container class for storing session data data</td></tr>
+<tr><td class="name"><a href="">HTTP_Session2_Container_Interface</a></td><td class="description">Container class for storing session data data</td></tr>
 </table>
 
 <table class="title">
 <tr><th colspan="2" class="title">Exception Summary</th></tr>
-<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/http_session2/http_session2_exception.md">HTTP_Session2_Exception</a></td><td class="description">HTTP_Session2_ExceptionPHP version 5</td></tr>
+<tr><td class="name"><a href="">HTTP_Session2_Exception</a></td><td class="description">HTTP_Session2_ExceptionPHP version 5</td></tr>
 </table>
 
 <table class="title">

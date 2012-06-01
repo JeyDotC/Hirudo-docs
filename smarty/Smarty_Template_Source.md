@@ -14,7 +14,7 @@
 
 <dl>
 <dt>All Known Subclasses:</dt>
-<dd><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_config_source.md">Smarty_Config_Source</a> </dd>
+<dd><a href="">Smarty_Config_Source</a> </dd>
 </dl>
 
 
@@ -60,7 +60,7 @@
                                 </p><p class="description">Source Filepath</p></td>
 </tr>
 <tr>
-<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_resource.html'>Smarty_Resource</a></span></td>
+<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Resource'>Smarty_Resource</a></span></td>
 <td class="description"><p class="name" ><a href="#handler"> $handler</a>
                                 </p><p class="description">Resource Handler</p></td>
 </tr>
@@ -80,7 +80,7 @@
                                 </p><p class="description">Template Resource (Smarty_Internal_Template::$template_resource)</p></td>
 </tr>
 <tr>
-<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty.html'>Smarty</a></span></td>
+<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty'>Smarty</a></span></td>
 <td class="description"><p class="name" ><a href="#smarty"> $smarty</a>
                                 </p><p class="description">Smarty instance</p></td>
 </tr>
@@ -127,7 +127,7 @@
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_template_compiled.html>Smarty_Template_Compiled</a></span></td>
+<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Template_Compiled>Smarty_Template_Compiled</a></span></td>
 <td class="description"><p class="name"><a href="#getcompiled">getCompiled</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> _template)</p><p class="description">get a Compiled Object of this source</p></td>
 </tr>
 <tr>
@@ -163,7 +163,7 @@
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_resource.php#L676" >framework\libs\smarty\sysplugins\smarty_resource.php at line 676</a>
 
 <h3 id="getCompiled()">getCompiled</h3>
-<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/smarty_template_compiled.html>Smarty_Template_Compiled</a></span> <span class='nf'>getCompiled</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> _template)
+<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/smarty/Smarty_Template_Compiled>Smarty_Template_Compiled</a></span> <span class='nf'>getCompiled</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> _template)
 
 <div class="details">
 <p>get a Compiled Object of this source</p><dl>
