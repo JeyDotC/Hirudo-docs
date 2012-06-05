@@ -40,12 +40,12 @@
 <tr><th colspan="2">Field Summary</th></tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>mixed</span></td>
-<td class="description"><p class="name" ><a href="#data"> $data</a>
+<td class="description"><p class="name" ><a href="data"> $data</a>
                                 </p><p class="description">Buffer content</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>object</span></td>
-<td class="description"><p class="name" ><a href="#parser"> $parser</a>
+<td class="description"><p class="name" ><a href="parser"> $parser</a>
                                 </p><p class="description">Parser object</p></td>
 </tr>
 </table>
@@ -57,6 +57,29 @@
 <td class="description"><p class="name"><a href="#to_smarty_php">to_smarty_php</a>()</p><p class="description">Return buffer</p></td>
 </tr>
 </table>
+
+##Field Detail##
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_parsetree.php#L29" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_parsetree.php at line 29</a>
+
+<h3 id="data">data</h3>
+<span class='k'></span> <span class='nx'>mixed</span><span class='no'> $data</span><div class="details">
+<p>Buffer content</p>
+</div>
+
+- - -
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_parsetree.php#L24" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_parsetree.php at line 24</a>
+
+<h3 id="parser">parser</h3>
+<span class='k'></span> <span class='nx'>object</span><span class='no'> $parser</span><span class='o'> = null</span>
+
+<div class="details">
+<p>Parser object</p>
+</div>
+
+- - -
 
 <h2 id="detail_method">Method Detail</h2>
 

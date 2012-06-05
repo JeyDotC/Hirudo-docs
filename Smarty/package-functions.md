@@ -12,7 +12,7 @@
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#smartyAutoload">smartyAutoload</a>(mixed class)</p><p class="description">Autoloader</p></td>
+<td class="description"><p class="name"><a href="#smartyautoload">smartyAutoload</a>(mixed class)</p><p class="description">Autoloader</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>

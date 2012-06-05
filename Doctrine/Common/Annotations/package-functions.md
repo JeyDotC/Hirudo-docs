@@ -8,11 +8,11 @@
 <tr><th colspan="2" class="title">Function Summary</th></tr>
 <tr>
 <td><span class='k'>protected </span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#getNonCatchablePatterns">getNonCatchablePatterns</a>()</p><p class="description"></p></td>
+<td class="description"><p class="name"><a href="#getnoncatchablepatterns">getNonCatchablePatterns</a>()</p><p class="description"></p></td>
 </tr>
 <tr>
 <td><span class='k'>protected </span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#getType">getType</a>(mixed value)</p><p class="description"></p></td>
+<td class="description"><p class="name"><a href="#gettype">getType</a>(mixed value)</p><p class="description"></p></td>
 </tr>
 </table>
 

@@ -39,23 +39,23 @@
 <tr><th colspan="2">Field Summary</th></tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>array</span></td>
-<td class="description"><p class="name" ><a href="#option_flags"> $option_flags</a>
+<td class="description"><p class="name" ><a href="option_flags"> $option_flags</a>
                                 </p><p class="description">Array of names of valid option flags</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>array</span></td>
-<td class="description"><p class="name" ><a href="#optional_attributes"> $optional_attributes</a>
+<td class="description"><p class="name" ><a href="optional_attributes"> $optional_attributes</a>
                                 </p><p class="description">Array of names of optional attribute required by tag
 use array('_any') if there is no restriction of attributes names</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>array</span></td>
-<td class="description"><p class="name" ><a href="#required_attributes"> $required_attributes</a>
+<td class="description"><p class="name" ><a href="required_attributes"> $required_attributes</a>
                                 </p><p class="description">Array of names of required attribute required by tag</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>array</span></td>
-<td class="description"><p class="name" ><a href="#shorttag_order"> $shorttag_order</a>
+<td class="description"><p class="name" ><a href="shorttag_order"> $shorttag_order</a>
                                 </p><p class="description">Shorttag attribute order defined by its names</p></td>
 </tr>
 </table>
@@ -76,6 +76,56 @@ optional attributes. </p></td>
 <td class="description"><p class="name"><a href="#closetag">closeTag</a>(object compiler, array|string expectedTag)</p><p class="description">Pop closing tagRaise an error if this stack-top doesn't match with expected opening tags</p></td>
 </tr>
 </table>
+
+##Field Detail##
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_compilebase.php#L42" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_compilebase.php at line 42</a>
+
+<h3 id="option_flags">option_flags</h3>
+<span class='k'></span> <span class='nx'>array</span><span class='no'> $option_flags</span><span class='o'> = array('nocache')</span>
+
+<div class="details">
+<p>Array of names of valid option flags</p>
+</div>
+
+- - -
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_compilebase.php#L30" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_compilebase.php at line 30</a>
+
+<h3 id="optional_attributes">optional_attributes</h3>
+<span class='k'></span> <span class='nx'>array</span><span class='no'> $optional_attributes</span><span class='o'> = array()</span>
+
+<div class="details">
+<p>Array of names of optional attribute required by tag
+use array('_any') if there is no restriction of attributes names</p>
+</div>
+
+- - -
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_compilebase.php#L23" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_compilebase.php at line 23</a>
+
+<h3 id="required_attributes">required_attributes</h3>
+<span class='k'></span> <span class='nx'>array</span><span class='no'> $required_attributes</span><span class='o'> = array()</span>
+
+<div class="details">
+<p>Array of names of required attribute required by tag</p>
+</div>
+
+- - -
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_compilebase.php#L36" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_compilebase.php at line 36</a>
+
+<h3 id="shorttag_order">shorttag_order</h3>
+<span class='k'></span> <span class='nx'>array</span><span class='no'> $shorttag_order</span><span class='o'> = array()</span>
+
+<div class="details">
+<p>Shorttag attribute order defined by its names</p>
+</div>
+
+- - -
 
 <h2 id="detail_method">Method Detail</h2>
 

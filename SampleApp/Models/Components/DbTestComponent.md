@@ -46,7 +46,7 @@
 
 <table class="inherit">
 <tr><th colspan="2">Methods inherited from Hirudo\Models\Components\Sql\SimpleSqlComponent</th></tr>
-<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/SimpleSqlComponent.md#getQuery">getQuery</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/SimpleSqlComponent.md#setQueryFactory">setQueryFactory</a></td></tr></table>
+<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/SimpleSqlComponent.md#getquery">getQuery</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/SimpleSqlComponent.md#setqueryfactory">setQueryFactory</a></td></tr></table>
 
 <h2 id="detail_method">Method Detail</h2>
 

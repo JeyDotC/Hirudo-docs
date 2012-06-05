@@ -36,7 +36,7 @@ annotations during the parsing process.</p></div>
 <tr><th colspan="2">Field Summary</th></tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>mixed</span></td>
-<td class="description"><p class="name" ><a href="#names"> $names</a>
+<td class="description"><p class="name" ><a href="names"> $names</a>
                                 </p></td>
 </tr>
 </table>
@@ -48,6 +48,17 @@ annotations during the parsing process.</p></div>
 <td class="description"><p class="name"><a href="#__construct">__construct</a>(mixed values)</p></td>
 </tr>
 </table>
+
+##Field Detail##
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/Annotation/IgnoreAnnotation.php#L31" target='_blank'>framework\libs\doctrine-common\Doctrine\Common\Annotations\Annotation\IgnoreAnnotation.php at line 31</a>
+
+<h3 id="names">names</h3>
+<span class='k'></span> <span class='nx'>mixed</span><span class='no'> $names</span><div class="details">
+
+</div>
+
+- - -
 
 <h2 id="detail_method">Constructor Detail</h2>
 

@@ -69,7 +69,7 @@ system implementation.</p></td>
 <td class="description"><p class="name"><a href="#setpermissions">setPermissions</a>(array permissions)</p><p class="description">Sets the array of roles associated to this user.</p></td>
 </tr>
 <tr>
-<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/Principal.md#getData>UserExtraData</a></span></td>
+<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/Principal.md#getdata>UserExtraData</a></span></td>
 <td class="description"><p class="name"><a href="#getdata">getData</a>()</p><p class="description"></p></td>
 </tr>
 </table>
@@ -201,7 +201,7 @@ system implementation.</p>
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Context/Principal.php#L133" target='_blank'>framework\hirudo\Hirudo\Core\Context\Principal.php at line 133</a>
 
 <h3 id="getData()">getData</h3>
-<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/Principal.md#getData>UserExtraData</a></span> <span class='nf'>getData</span> ()
+<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/Principal.md#getdata>UserExtraData</a></span> <span class='nf'>getData</span> ()
 
 <div class="details">
 <p></p>

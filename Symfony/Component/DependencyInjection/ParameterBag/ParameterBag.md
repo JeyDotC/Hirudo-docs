@@ -40,12 +40,12 @@
 <tr><th colspan="2">Field Summary</th></tr>
 <tr>
 <td><span class='k'>protected </span> <span class='nx'>mixed</span></td>
-<td class="description"><p class="name" ><a href="#parameters"> $parameters</a>
+<td class="description"><p class="name" ><a href="parameters"> $parameters</a>
                                 </p></td>
 </tr>
 <tr>
 <td><span class='k'>protected </span> <span class='nx'>mixed</span></td>
-<td class="description"><p class="name" ><a href="#resolved"> $resolved</a>
+<td class="description"><p class="name" ><a href="resolved"> $resolved</a>
                                 </p></td>
 </tr>
 </table>
@@ -101,6 +101,29 @@
 <td class="description"><p class="name"><a href="#isresolved">isResolved</a>()</p></td>
 </tr>
 </table>
+
+##Field Detail##
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ParameterBag/ParameterBag.php#L26" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\ParameterBag\ParameterBag.php at line 26</a>
+
+<h3 id="parameters">parameters</h3>
+<span class='k'>protected </span> <span class='nx'>mixed</span><span class='no'> $parameters</span><span class='o'> = null</span>
+
+<div class="details">
+
+</div>
+
+- - -
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ParameterBag/ParameterBag.php#L27" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\ParameterBag\ParameterBag.php at line 27</a>
+
+<h3 id="resolved">resolved</h3>
+<span class='k'>protected </span> <span class='nx'>mixed</span><span class='no'> $resolved</span><div class="details">
+
+</div>
+
+- - -
 
 <h2 id="detail_method">Constructor Detail</h2>
 

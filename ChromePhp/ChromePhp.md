@@ -34,27 +34,27 @@
 <tr><th colspan="2">Field Summary</th></tr>
 <tr>
 <td><span class='k'>protected </span> <span class='nx'>array</span></td>
-<td class="description"><p class="name" ><a href="#_backtraces"> $_backtraces</a>
+<td class="description"><p class="name" ><a href="_backtraces"> $_backtraces</a>
                                 </p><p class="description"></p></td>
 </tr>
 <tr>
 <td><span class='k'>protected </span> <span class='nx'>bool</span></td>
-<td class="description"><p class="name" ><a href="#_error_triggered"> $_error_triggered</a>
+<td class="description"><p class="name" ><a href="_error_triggered"> $_error_triggered</a>
                                 </p><p class="description"></p></td>
 </tr>
 <tr>
 <td><span class='k'>protected static </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/ChromePhp/ChromePhp.md#_instance'>ChromePhp</a></span></td>
-<td class="description"><p class="name" ><a href="#_instance"> $_instance</a>
+<td class="description"><p class="name" ><a href="_instance"> $_instance</a>
                                 </p><p class="description"></p></td>
 </tr>
 <tr>
 <td><span class='k'>protected </span> <span class='nx'>array</span></td>
-<td class="description"><p class="name" ><a href="#_processed"> $_processed</a>
+<td class="description"><p class="name" ><a href="_processed"> $_processed</a>
                                 </p><p class="description">Prevent recursion when working with objects referring to each other</p></td>
 </tr>
 <tr>
 <td><span class='k'>protected </span> <span class='nx'>array</span></td>
-<td class="description"><p class="name" ><a href="#_settings"> $_settings</a>
+<td class="description"><p class="name" ><a href="_settings"> $_settings</a>
                                 </p><p class="description"></p></td>
 </tr>
 </table>
@@ -70,7 +70,7 @@
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td><span class='k'>static </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/ChromePhp/ChromePhp.md#getInstance>ChromePhp</a></span></td>
+<td><span class='k'>static </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/ChromePhp/ChromePhp.md#getinstance>ChromePhp</a></span></td>
 <td class="description"><p class="name"><a href="#getinstance">getInstance</a>()</p><p class="description">gets instance of this class</p></td>
 </tr>
 <tr>
@@ -115,6 +115,65 @@
 </tr>
 </table>
 
+##Field Detail##
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/ChromePhp.php#L37" target='_blank'>ChromePhp.php at line 37</a>
+
+<h3 id="_backtraces">_backtraces</h3>
+<span class='k'>protected </span> <span class='nx'>array</span><span class='no'> $_backtraces</span><span class='o'> = array()</span>
+
+<div class="details">
+<p></p>
+</div>
+
+- - -
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/ChromePhp.php#L42" target='_blank'>ChromePhp.php at line 42</a>
+
+<h3 id="_error_triggered">_error_triggered</h3>
+<span class='k'>protected </span> <span class='nx'>bool</span><span class='no'> $_error_triggered</span><span class='o'> = false</span>
+
+<div class="details">
+<p></p>
+</div>
+
+- - -
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/ChromePhp.php#L52" target='_blank'>ChromePhp.php at line 52</a>
+
+<h3 id="_instance">_instance</h3>
+<span class='k'>protected static </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/ChromePhp/ChromePhp.md#_instance'>ChromePhp</a></span><span class='no'> $_instance</span><div class="details">
+<p></p>
+</div>
+
+- - -
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/ChromePhp.php#L59" target='_blank'>ChromePhp.php at line 59</a>
+
+<h3 id="_processed">_processed</h3>
+<span class='k'>protected </span> <span class='nx'>array</span><span class='no'> $_processed</span><span class='o'> = array()</span>
+
+<div class="details">
+<p>Prevent recursion when working with objects referring to each other</p>
+</div>
+
+- - -
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/ChromePhp.php#L47" target='_blank'>ChromePhp.php at line 47</a>
+
+<h3 id="_settings">_settings</h3>
+<span class='k'>protected </span> <span class='nx'>array</span><span class='no'> $_settings</span><span class='o'> = array(...)</span>
+
+<div class="details">
+<p></p>
+</div>
+
+- - -
+
 <h2 id="detail_method">Constructor Detail</h2>
 
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/ChromePhp.php#L64" target='_blank'>ChromePhp.php at line 64</a>
@@ -133,7 +192,7 @@
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/ChromePhp.php#L75" target='_blank'>ChromePhp.php at line 75</a>
 
 <h3 id="getInstance()">getInstance</h3>
-<span class='k'>static </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/ChromePhp/ChromePhp.md#getInstance>ChromePhp</a></span> <span class='nf'>getInstance</span> ()
+<span class='k'>static </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/ChromePhp/ChromePhp.md#getinstance>ChromePhp</a></span> <span class='nf'>getInstance</span> ()
 
 <div class="details">
 <p>gets instance of this class</p>

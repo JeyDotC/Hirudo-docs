@@ -34,27 +34,27 @@
 <tr><th colspan="2">Field Summary</th></tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>Smarty_Internal_Config object</span></td>
-<td class="description"><p class="name" ><a href="#config"> $config</a>
+<td class="description"><p class="name" ><a href="config"> $config</a>
                                 </p><p class="description">Smarty object</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>array</span></td>
-<td class="description"><p class="name" ><a href="#config_data"> $config_data</a>
+<td class="description"><p class="name" ><a href="config_data"> $config_data</a>
                                 </p><p class="description">Compiled config data sections and variables</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>object</span></td>
-<td class="description"><p class="name" ><a href="#lex"> $lex</a>
+<td class="description"><p class="name" ><a href="lex"> $lex</a>
                                 </p><p class="description">Lexer object</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>object</span></td>
-<td class="description"><p class="name" ><a href="#parser"> $parser</a>
+<td class="description"><p class="name" ><a href="parser"> $parser</a>
                                 </p><p class="description">Parser object</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>Smarty object</span></td>
-<td class="description"><p class="name" ><a href="#smarty"> $smarty</a>
+<td class="description"><p class="name" ><a href="smarty"> $smarty</a>
                                 </p><p class="description">Smarty object</p></td>
 </tr>
 </table>
@@ -79,6 +79,61 @@
 </p></td>
 </tr>
 </table>
+
+##Field Detail##
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_config_file_compiler.php#L47" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_config_file_compiler.php at line 47</a>
+
+<h3 id="config">config</h3>
+<span class='k'></span> <span class='nx'>Smarty_Internal_Config object</span><span class='no'> $config</span><div class="details">
+<p>Smarty object</p>
+</div>
+
+- - -
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_config_file_compiler.php#L54" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_config_file_compiler.php at line 54</a>
+
+<h3 id="config_data">config_data</h3>
+<span class='k'></span> <span class='nx'>array</span><span class='no'> $config_data</span><span class='o'> = array()</span>
+
+<div class="details">
+<p>Compiled config data sections and variables</p>
+</div>
+
+- - -
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_config_file_compiler.php#L26" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_config_file_compiler.php at line 26</a>
+
+<h3 id="lex">lex</h3>
+<span class='k'></span> <span class='nx'>object</span><span class='no'> $lex</span><span class='o'> = 'local'</span>
+
+<div class="details">
+<p>Lexer object</p>
+</div>
+
+- - -
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_config_file_compiler.php#L33" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_config_file_compiler.php at line 33</a>
+
+<h3 id="parser">parser</h3>
+<span class='k'></span> <span class='nx'>object</span><span class='no'> $parser</span><div class="details">
+<p>Parser object</p>
+</div>
+
+- - -
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_config_file_compiler.php#L40" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_config_file_compiler.php at line 40</a>
+
+<h3 id="smarty">smarty</h3>
+<span class='k'></span> <span class='nx'>Smarty object</span><span class='no'> $smarty</span><div class="details">
+<p>Smarty object</p>
+</div>
+
+- - -
 
 <h2 id="detail_method">Constructor Detail</h2>
 

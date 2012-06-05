@@ -44,7 +44,7 @@ it themselves which improves performance quite a lot.</p></div>
 <td class="description"><p class="name"><a href="#hasnode">hasNode</a>(string id)</p><p class="description">Checks if the graph has a specific node.</p></td>
 </tr>
 <tr>
-<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Compiler/ServiceReferenceGraph.md#getNode>ServiceReferenceGraphNode</a></span></td>
+<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Compiler/ServiceReferenceGraph.md#getnode>ServiceReferenceGraphNode</a></span></td>
 <td class="description"><p class="name"><a href="#getnode">getNode</a>(string id)</p><p class="description">Gets a node by identifier.</p></td>
 </tr>
 <tr>
@@ -95,7 +95,7 @@ it themselves which improves performance quite a lot.</p></div>
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/ServiceReferenceGraph.php#L51" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\ServiceReferenceGraph.php at line 51</a>
 
 <h3 id="getNode()">getNode</h3>
-<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Compiler/ServiceReferenceGraph.md#getNode>ServiceReferenceGraphNode</a></span> <span class='nf'>getNode</span> (string id)
+<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Compiler/ServiceReferenceGraph.md#getnode>ServiceReferenceGraphNode</a></span> <span class='nf'>getNode</span> (string id)
 
 <div class="details">
 <p>Gets a node by identifier.</p><dl>

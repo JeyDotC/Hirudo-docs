@@ -38,42 +38,42 @@
 <tr><th colspan="2">Field Summary</th></tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name" ><a href="#compiled_config"> $compiled_config</a>
+<td class="description"><p class="name" ><a href="compiled_config"> $compiled_config</a>
                                 </p><p class="description">Compiled config file</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name" ><a href="#compiled_filepath"> $compiled_filepath</a>
+<td class="description"><p class="name" ><a href="compiled_filepath"> $compiled_filepath</a>
                                 </p><p class="description">filepath of compiled config file</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>int</span></td>
-<td class="description"><p class="name" ><a href="#compiled_timestamp"> $compiled_timestamp</a>
+<td class="description"><p class="name" ><a href="compiled_timestamp"> $compiled_timestamp</a>
                                 </p><p class="description">Filemtime of compiled config Filemtime</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>Smarty_Internal_Config_File_Compiler object</span></td>
-<td class="description"><p class="name" ><a href="#compiler_object"> $compiler_object</a>
+<td class="description"><p class="name" ><a href="compiler_object"> $compiler_object</a>
                                 </p><p class="description">Config file compiler object</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name" ><a href="#config_resource"> $config_resource</a>
+<td class="description"><p class="name" ><a href="config_resource"> $config_resource</a>
                                 </p><p class="description">Config resource</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>object</span></td>
-<td class="description"><p class="name" ><a href="#data"> $data</a>
+<td class="description"><p class="name" ><a href="data"> $data</a>
                                 </p><p class="description">Object of config var storage</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>bool</span></td>
-<td class="description"><p class="name" ><a href="#mustCompile"> $mustCompile</a>
+<td class="description"><p class="name" ><a href="mustcompile"> $mustCompile</a>
                                 </p><p class="description">flag if compiled config file is invalid and must be (re)compiled</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>Smarty object</span></td>
-<td class="description"><p class="name" ><a href="#smarty"> $smarty</a>
+<td class="description"><p class="name" ><a href="smarty"> $smarty</a>
                                 </p><p class="description">Samrty instance</p></td>
 </tr>
 </table>
@@ -117,6 +117,103 @@
 <td class="description"><p class="name"><a href="#loadconfigvars">loadConfigVars</a>(mixed sections, object scope)</p><p class="description">load config variables</p></td>
 </tr>
 </table>
+
+##Field Detail##
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_config.php#L46" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_config.php at line 46</a>
+
+<h3 id="compiled_config">compiled_config</h3>
+<span class='k'></span> <span class='nx'>string</span><span class='no'> $compiled_config</span><span class='o'> = null</span>
+
+<div class="details">
+<p>Compiled config file</p>
+</div>
+
+- - -
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_config.php#L52" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_config.php at line 52</a>
+
+<h3 id="compiled_filepath">compiled_filepath</h3>
+<span class='k'></span> <span class='nx'>string</span><span class='no'> $compiled_filepath</span><span class='o'> = null</span>
+
+<div class="details">
+<p>filepath of compiled config file</p>
+</div>
+
+- - -
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_config.php#L58" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_config.php at line 58</a>
+
+<h3 id="compiled_timestamp">compiled_timestamp</h3>
+<span class='k'></span> <span class='nx'>int</span><span class='no'> $compiled_timestamp</span><span class='o'> = null</span>
+
+<div class="details">
+<p>Filemtime of compiled config Filemtime</p>
+</div>
+
+- - -
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_config.php#L69" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_config.php at line 69</a>
+
+<h3 id="compiler_object">compiler_object</h3>
+<span class='k'></span> <span class='nx'>Smarty_Internal_Config_File_Compiler object</span><span class='no'> $compiler_object</span><span class='o'> = null</span>
+
+<div class="details">
+<p>Config file compiler object</p>
+</div>
+
+- - -
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_config.php#L40" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_config.php at line 40</a>
+
+<h3 id="config_resource">config_resource</h3>
+<span class='k'></span> <span class='nx'>string</span><span class='no'> $config_resource</span><span class='o'> = null</span>
+
+<div class="details">
+<p>Config resource</p>
+</div>
+
+- - -
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_config.php#L35" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_config.php at line 35</a>
+
+<h3 id="data">data</h3>
+<span class='k'></span> <span class='nx'>object</span><span class='no'> $data</span><span class='o'> = null</span>
+
+<div class="details">
+<p>Object of config var storage</p>
+</div>
+
+- - -
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_config.php#L63" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_config.php at line 63</a>
+
+<h3 id="mustCompile">mustCompile</h3>
+<span class='k'></span> <span class='nx'>bool</span><span class='no'> $mustCompile</span><span class='o'> = null</span>
+
+<div class="details">
+<p>flag if compiled config file is invalid and must be (re)compiled</p>
+</div>
+
+- - -
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_config.php#L29" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_config.php at line 29</a>
+
+<h3 id="smarty">smarty</h3>
+<span class='k'></span> <span class='nx'>Smarty object</span><span class='no'> $smarty</span><span class='o'> = null</span>
+
+<div class="details">
+<p>Samrty instance</p>
+</div>
+
+- - -
 
 <h2 id="detail_method">Constructor Detail</h2>
 

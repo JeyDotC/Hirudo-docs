@@ -39,37 +39,37 @@
 <tr><th colspan="2">Field Summary</th></tr>
 <tr>
 <td><span class='k'>static </span> <span class='nx'>array</span></td>
-<td class="description"><p class="name" ><a href="#compileds"> $compileds</a>
+<td class="description"><p class="name" ><a href="compileds"> $compileds</a>
                                 </p><p class="description">cache for Smarty_Template_Compiled instances</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name" ><a href="#compiler_class"> $compiler_class</a>
+<td class="description"><p class="name" ><a href="compiler_class"> $compiler_class</a>
                                 </p><p class="description">Name of the Class to compile this resource's contents with</p></td>
 </tr>
 <tr>
 <td><span class='k'>static </span> <span class='nx'>array</span></td>
-<td class="description"><p class="name" ><a href="#resources"> $resources</a>
+<td class="description"><p class="name" ><a href="resources"> $resources</a>
                                 </p><p class="description">cache for Smarty_Resource instances</p></td>
 </tr>
 <tr>
 <td><span class='k'>static </span> <span class='nx'>array</span></td>
-<td class="description"><p class="name" ><a href="#sources"> $sources</a>
+<td class="description"><p class="name" ><a href="sources"> $sources</a>
                                 </p><p class="description">cache for Smarty_Template_Source instances</p></td>
 </tr>
 <tr>
 <td><span class='k'>protected static </span> <span class='nx'>array</span></td>
-<td class="description"><p class="name" ><a href="#sysplugins"> $sysplugins</a>
+<td class="description"><p class="name" ><a href="sysplugins"> $sysplugins</a>
                                 </p><p class="description">resource types provided by the core</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name" ><a href="#template_lexer_class"> $template_lexer_class</a>
+<td class="description"><p class="name" ><a href="template_lexer_class"> $template_lexer_class</a>
                                 </p><p class="description">Name of the Class to tokenize this resource's contents with</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name" ><a href="#template_parser_class"> $template_parser_class</a>
+<td class="description"><p class="name" ><a href="template_parser_class"> $template_parser_class</a>
                                 </p><p class="description">Name of the Class to parse this resource's contents with</p></td>
 </tr>
 </table>
@@ -129,6 +129,91 @@
 <td class="description"><p class="name"><a href="#config">config</a>(<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_Config.md">Smarty_Internal_Config</a> _config)</p><p class="description">initialize Config Source Object for given resource</p></td>
 </tr>
 </table>
+
+##Field Detail##
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_resource.php#L28" target='_blank'>framework\libs\smarty\sysplugins\smarty_resource.php at line 28</a>
+
+<h3 id="compileds">compileds</h3>
+<span class='k'>static </span> <span class='nx'>array</span><span class='no'> $compileds</span><span class='o'> = array()</span>
+
+<div class="details">
+<p>cache for Smarty_Template_Compiled instances</p>
+</div>
+
+- - -
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_resource.php#L44" target='_blank'>framework\libs\smarty\sysplugins\smarty_resource.php at line 44</a>
+
+<h3 id="compiler_class">compiler_class</h3>
+<span class='k'></span> <span class='nx'>string</span><span class='no'> $compiler_class</span><span class='o'> = 'Smarty_Internal_SmartyTemplateCompiler'</span>
+
+<div class="details">
+<p>Name of the Class to compile this resource's contents with</p>
+</div>
+
+- - -
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_resource.php#L33" target='_blank'>framework\libs\smarty\sysplugins\smarty_resource.php at line 33</a>
+
+<h3 id="resources">resources</h3>
+<span class='k'>static </span> <span class='nx'>array</span><span class='no'> $resources</span><span class='o'> = array()</span>
+
+<div class="details">
+<p>cache for Smarty_Resource instances</p>
+</div>
+
+- - -
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_resource.php#L23" target='_blank'>framework\libs\smarty\sysplugins\smarty_resource.php at line 23</a>
+
+<h3 id="sources">sources</h3>
+<span class='k'>static </span> <span class='nx'>array</span><span class='no'> $sources</span><span class='o'> = array()</span>
+
+<div class="details">
+<p>cache for Smarty_Template_Source instances</p>
+</div>
+
+- - -
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_resource.php#L38" target='_blank'>framework\libs\smarty\sysplugins\smarty_resource.php at line 38</a>
+
+<h3 id="sysplugins">sysplugins</h3>
+<span class='k'>protected static </span> <span class='nx'>array</span><span class='no'> $sysplugins</span><span class='o'> = array(...)</span>
+
+<div class="details">
+<p>resource types provided by the core</p>
+</div>
+
+- - -
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_resource.php#L50" target='_blank'>framework\libs\smarty\sysplugins\smarty_resource.php at line 50</a>
+
+<h3 id="template_lexer_class">template_lexer_class</h3>
+<span class='k'></span> <span class='nx'>string</span><span class='no'> $template_lexer_class</span><span class='o'> = 'Smarty_Internal_Templatelexer'</span>
+
+<div class="details">
+<p>Name of the Class to tokenize this resource's contents with</p>
+</div>
+
+- - -
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_resource.php#L56" target='_blank'>framework\libs\smarty\sysplugins\smarty_resource.php at line 56</a>
+
+<h3 id="template_parser_class">template_parser_class</h3>
+<span class='k'></span> <span class='nx'>string</span><span class='no'> $template_parser_class</span><span class='o'> = 'Smarty_Internal_Templateparser'</span>
+
+<div class="details">
+<p>Name of the Class to parse this resource's contents with</p>
+</div>
+
+- - -
 
 <h2 id="detail_method">Method Detail</h2>
 

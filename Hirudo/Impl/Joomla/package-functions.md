@@ -8,7 +8,7 @@
 <tr><th colspan="2" class="title">Function Summary</th></tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#joomlaAutoloader">joomlaAutoloader</a>(mixed class)</p><p class="description">«Copyright 2012 Jeysson José Guevara Mendivil(JeyDotC)»This file is part of Hirudo.
+<td class="description"><p class="name"><a href="#joomlaautoloader">joomlaAutoloader</a>(mixed class)</p><p class="description">«Copyright 2012 Jeysson José Guevara Mendivil(JeyDotC)»This file is part of Hirudo.
 </p></td>
 </tr>
 </table>

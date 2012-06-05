@@ -48,7 +48,7 @@
 <tr><th colspan="2">Field Summary</th></tr>
 <tr>
 <td><span class='k'>protected </span> <span class='nx'>array</span></td>
-<td class="description"><p class="name" ><a href="#options"> $options</a>
+<td class="description"><p class="name" ><a href="options"> $options</a>
                                 </p><p class="description">Additional options for the container object</p></td>
 </tr>
 </table>
@@ -76,6 +76,19 @@
 <td class="description"><p class="name"><a href="#set">set</a>()</p><p class="description">Set session save handler</p></td>
 </tr>
 </table>
+
+##Field Detail##
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container.php#L71" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container.php at line 71</a>
+
+<h3 id="options">options</h3>
+<span class='k'>protected </span> <span class='nx'>array</span><span class='no'> $options</span><span class='o'> = array()</span>
+
+<div class="details">
+<p>Additional options for the container object</p>
+</div>
+
+- - -
 
 <h2 id="detail_method">Constructor Detail</h2>
 

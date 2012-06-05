@@ -39,7 +39,7 @@
 <tr><th colspan="2">Field Summary</th></tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>array</span></td>
-<td class="description"><p class="name" ><a href="#subtrees"> $subtrees</a>
+<td class="description"><p class="name" ><a href="subtrees"> $subtrees</a>
                                 </p><p class="description">Array of template elements</p></td>
 </tr>
 </table>
@@ -71,6 +71,19 @@
 <table class="inherit">
 <tr><th colspan="2">Methods inherited from Smarty\_smarty_parsetree</th></tr>
 <tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/_smarty_parsetree.md#to_smarty_php">to_smarty_php</a></td></tr></table>
+
+##Field Detail##
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_parsetree.php#L251" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_parsetree.php at line 251</a>
+
+<h3 id="subtrees">subtrees</h3>
+<span class='k'></span> <span class='nx'>array</span><span class='no'> $subtrees</span><span class='o'> = Array()</span>
+
+<div class="details">
+<p>Array of template elements</p>
+</div>
+
+- - -
 
 <h2 id="detail_method">Constructor Detail</h2>
 

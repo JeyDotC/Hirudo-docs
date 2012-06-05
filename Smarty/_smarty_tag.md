@@ -39,7 +39,7 @@
 <tr><th colspan="2">Field Summary</th></tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>int</span></td>
-<td class="description"><p class="name" ><a href="#saved_block_nesting"> $saved_block_nesting</a>
+<td class="description"><p class="name" ><a href="saved_block_nesting"> $saved_block_nesting</a>
                                 </p><p class="description">Saved block nesting level</p></td>
 </tr>
 </table>
@@ -71,6 +71,17 @@
 <table class="inherit">
 <tr><th colspan="2">Methods inherited from Smarty\_smarty_parsetree</th></tr>
 <tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/_smarty_parsetree.md#to_smarty_php">to_smarty_php</a></td></tr></table>
+
+##Field Detail##
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_parsetree.php#L53" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_parsetree.php at line 53</a>
+
+<h3 id="saved_block_nesting">saved_block_nesting</h3>
+<span class='k'></span> <span class='nx'>int</span><span class='no'> $saved_block_nesting</span><div class="details">
+<p>Saved block nesting level</p>
+</div>
+
+- - -
 
 <h2 id="detail_method">Constructor Detail</h2>
 

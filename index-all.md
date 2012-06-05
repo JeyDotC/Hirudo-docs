@@ -28,7 +28,7 @@
 
 <h1 id="letter_">_</h1>
 <dl>
-<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-globals.md#_CHARSET">_CHARSET</a> - Global in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty//README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-globals.md#_charset">_CHARSET</a> - Global in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty//README.md">Smarty</a></dt>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/_smarty_code.md">_smarty_code</a> - Class in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty//README.md">Smarty</a></dt>
 <dd>Code fragment inside a tag.</dd>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/_smarty_doublequoted.md">_smarty_doublequoted</a> - Class in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty//README.md">Smarty</a></dt>
@@ -53,7 +53,7 @@
 <h1 id="letterA">A</h1>
 <dl>
 <dd>Session is active.</dd>
-<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Compiler/package-functions.md#addPass">addPass()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Compiler//README.md">Symfony\Component\DependencyInjection\Compiler</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Compiler/package-functions.md#addpass">addPass()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Compiler//README.md">Symfony\Component\DependencyInjection\Compiler</a></dt>
 <dd>Adds a pass.</dd>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Alias.md">Alias</a> - Class in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection//README.md">Symfony\Component\DependencyInjection</a></dt>
 <dd></dd>
@@ -93,7 +93,7 @@
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Doctrine/Common/Annotations/Annotation/Attributes.md">Attributes</a> - Class in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Doctrine/Common/Annotations/Annotation//README.md">Doctrine\Common\Annotations\Annotation</a></dt>
 <dd>Annotation that can be used to signal to the parser
  to check the types of all declared attributes during the parsing process.</dd>
-<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-globals.md#autoloadPath">autoloadPath</a> - Global in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace//README.md">Default namespace</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-globals.md#autoloadpath">autoloadPath</a> - Global in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace//README.md">Default namespace</a></dt>
 </dl>
 <h1 id="letterB">B</h1>
 <dl>
@@ -139,14 +139,14 @@
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Loader/ClosureLoader.md">ClosureLoader</a> - Class in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Loader//README.md">Symfony\Component\DependencyInjection\Loader</a></dt>
 <dd>ClosureLoader loads service definitions from a PHP closure.
 </dd>
-<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-globals.md#COMMENT">COMMENT</a> - Global in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty//README.md">Smarty</a></dt>
-<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#compileDelete">compileDelete()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql//README.md">Hirudo\Models\Components\Sql</a></dt>
-<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#compileInsert">compileInsert()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql//README.md">Hirudo\Models\Components\Sql</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-globals.md#comment">COMMENT</a> - Global in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty//README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#compiledelete">compileDelete()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql//README.md">Hirudo\Models\Components\Sql</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#compileinsert">compileInsert()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql//README.md">Hirudo\Models\Components\Sql</a></dt>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Compiler/Compiler.md">Compiler</a> - Class in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Compiler//README.md">Symfony\Component\DependencyInjection\Compiler</a></dt>
 <dd>This class is used to remove circular dependencies between individual passes.</dd>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Compiler/CompilerPassInterface.md">CompilerPassInterface</a> - Interface in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Compiler//README.md">Symfony\Component\DependencyInjection\Compiler</a></dt>
 <dd>Interface that must be implemented by compilation passes</dd>
-<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#compileUpdate">compileUpdate()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql//README.md">Hirudo\Models\Components\Sql</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#compileupdate">compileUpdate()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql//README.md">Hirudo\Models\Components\Sql</a></dt>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/SampleApp/Models/Entities/ComplexObject.md">ComplexObject</a> - Class in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/SampleApp/Models/Entities//README.md">SampleApp\Models\Entities</a></dt>
 <dd>Description of ComplexObject</dd>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/SampleApp/Models/Components/ComplexObjectComponent.md">ComplexObjectComponent</a> - Class in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/SampleApp/Models/Components//README.md">SampleApp\Models\Components</a></dt>
@@ -169,11 +169,11 @@
  
  This file is part of Hirudo.
 </dd>
-<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#countAllResults">countAllResults()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql//README.md">Hirudo\Models\Components\Sql</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#countallresults">countAllResults()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql//README.md">Hirudo\Models\Components\Sql</a></dt>
 </dl>
 <h1 id="letterD">D</h1>
 <dl>
-<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#dbPrefix">dbPrefix()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql//README.md">Hirudo\Models\Components\Sql</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#dbprefix">dbPrefix()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql//README.md">Hirudo\Models\Components\Sql</a></dt>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/SampleApp/Models/Components/DbTestComponent.md">DbTestComponent</a> - Class in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/SampleApp/Models/Components//README.md">SampleApp\Models\Components</a></dt>
 <dd>Description of DbTestComponent</dd>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/ClassLoader/DebugUniversalClassLoader.md">DebugUniversalClassLoader</a> - Class in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/ClassLoader//README.md">Symfony\Component\ClassLoader</a></dt>
@@ -193,10 +193,10 @@
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Doctrine/Common/Annotations/DocParser.md">DocParser</a> - Class in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Doctrine/Common/Annotations//README.md">Doctrine\Common\Annotations</a></dt>
 <dd>A parser for docblock annotations.
 </dd>
-<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-globals.md#DOUBLEQUOTEDSTRING">DOUBLEQUOTEDSTRING</a> - Global in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty//README.md">Smarty</a></dt>
-<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-globals.md#DS">DS</a> - Global in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty//README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-globals.md#doublequotedstring">DOUBLEQUOTEDSTRING</a> - Global in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty//README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-globals.md#ds">DS</a> - Global in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty//README.md">Smarty</a></dt>
 <dd>define shorthand directory separator constant</dd>
-<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-globals.md#DS">DS</a> - Global in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace//README.md">Default namespace</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-globals.md#ds">DS</a> - Global in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace//README.md">Default namespace</a></dt>
 <dd>«Copyright 2012 Jeysson José Guevara Mendivil(JeyDotC)» 
  
  This file is part of Hirudo.
@@ -217,7 +217,7 @@
  
  This file is part of Hirudo.
 </dd>
-<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#emptyTable">emptyTable()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql//README.md">Hirudo\Models\Components\Sql</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#emptytable">emptyTable()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql//README.md">Hirudo\Models\Components\Sql</a></dt>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Serialization/EntityDeserializerBase.md">EntityDeserializerBase</a> - Class in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Serialization//README.md">Hirudo\Serialization</a></dt>
 <dd>Base class for entity de-serializers.</dd>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Serialization/Impl/Json/EntityDeserializerJSON.md">EntityDeserializerJSON</a> - Class in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Serialization/Impl/Json//README.md">Hirudo\Serialization\Impl\Json</a></dt>
@@ -251,9 +251,9 @@
 <dd>Exception interface for all exceptions thrown by the component.</dd>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Exception/ExceptionInterface.md">ExceptionInterface</a> - Interface in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Exception//README.md">Symfony\Component\DependencyInjection\Exception</a></dt>
 <dd>ExceptionInterface</dd>
-<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#executeSelect">executeSelect()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql//README.md">Hirudo\Models\Components\Sql</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#executeselect">executeSelect()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql//README.md">Hirudo\Models\Components\Sql</a></dt>
 <dd></dd>
-<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#executeWrite">executeWrite()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql//README.md">Hirudo\Models\Components\Sql</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#executewrite">executeWrite()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql//README.md">Hirudo\Models\Components\Sql</a></dt>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Annotations/Export.md">Export</a> - Class in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Annotations//README.md">Hirudo\Core\Annotations</a></dt>
 <dd>Signals a class, method or property as a service exporter.</dd>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Extension/ExtensionInterface.md">ExtensionInterface</a> - Interface in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Extension//README.md">Symfony\Component\DependencyInjection\Extension</a></dt>
@@ -279,35 +279,35 @@
 <dl>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#get">get()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql//README.md">Hirudo\Models\Components\Sql</a></dt>
 <dd></dd>
-<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Compiler/package-functions.md#getAfterRemovingPasses">getAfterRemovingPasses()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Compiler//README.md">Symfony\Component\DependencyInjection\Compiler</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Compiler/package-functions.md#getafterremovingpasses">getAfterRemovingPasses()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Compiler//README.md">Symfony\Component\DependencyInjection\Compiler</a></dt>
 <dd>Gets all passes for the AfterRemoving pass.</dd>
-<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Compiler/package-functions.md#getBeforeOptimizationPasses">getBeforeOptimizationPasses()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Compiler//README.md">Symfony\Component\DependencyInjection\Compiler</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Compiler/package-functions.md#getbeforeoptimizationpasses">getBeforeOptimizationPasses()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Compiler//README.md">Symfony\Component\DependencyInjection\Compiler</a></dt>
 <dd>Gets all passes for the BeforeOptimization pass.</dd>
-<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Compiler/package-functions.md#getBeforeRemovingPasses">getBeforeRemovingPasses()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Compiler//README.md">Symfony\Component\DependencyInjection\Compiler</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Compiler/package-functions.md#getbeforeremovingpasses">getBeforeRemovingPasses()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Compiler//README.md">Symfony\Component\DependencyInjection\Compiler</a></dt>
 <dd>Gets all passes for the BeforeRemoving pass.</dd>
-<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Compiler/package-functions.md#getMergePass">getMergePass()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Compiler//README.md">Symfony\Component\DependencyInjection\Compiler</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Compiler/package-functions.md#getmergepass">getMergePass()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Compiler//README.md">Symfony\Component\DependencyInjection\Compiler</a></dt>
 <dd>Gets all passes for the Merge pass.</dd>
-<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Doctrine/Common/Annotations/package-functions.md#getNonCatchablePatterns">getNonCatchablePatterns()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Doctrine/Common/Annotations//README.md">Doctrine\Common\Annotations</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Doctrine/Common/Annotations/package-functions.md#getnoncatchablepatterns">getNonCatchablePatterns()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Doctrine/Common/Annotations//README.md">Doctrine\Common\Annotations</a></dt>
 <dd></dd>
-<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Compiler/package-functions.md#getOptimizationPasses">getOptimizationPasses()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Compiler//README.md">Symfony\Component\DependencyInjection\Compiler</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Compiler/package-functions.md#getoptimizationpasses">getOptimizationPasses()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Compiler//README.md">Symfony\Component\DependencyInjection\Compiler</a></dt>
 <dd>Gets all passes for the Optimization pass.</dd>
-<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Compiler/package-functions.md#getPasses">getPasses()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Compiler//README.md">Symfony\Component\DependencyInjection\Compiler</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Compiler/package-functions.md#getpasses">getPasses()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Compiler//README.md">Symfony\Component\DependencyInjection\Compiler</a></dt>
 <dd>Returns all passes in order to be processed.</dd>
-<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Compiler/package-functions.md#getRemovingPasses">getRemovingPasses()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Compiler//README.md">Symfony\Component\DependencyInjection\Compiler</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Compiler/package-functions.md#getremovingpasses">getRemovingPasses()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Compiler//README.md">Symfony\Component\DependencyInjection\Compiler</a></dt>
 <dd>Gets all passes for the Removing pass.</dd>
-<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Doctrine/Common/Annotations/package-functions.md#getType">getType()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Doctrine/Common/Annotations//README.md">Doctrine\Common\Annotations</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Doctrine/Common/Annotations/package-functions.md#gettype">getType()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Doctrine/Common/Annotations//README.md">Doctrine\Common\Annotations</a></dt>
 <dd></dd>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Dumper/GraphvizDumper.md">GraphvizDumper</a> - Class in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Dumper//README.md">Symfony\Component\DependencyInjection\Dumper</a></dt>
 <dd>GraphvizDumper dumps a service container as a graphviz file.
 </dd>
-<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#groupBy">groupBy()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql//README.md">Hirudo\Models\Components\Sql</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#groupby">groupBy()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql//README.md">Hirudo\Models\Components\Sql</a></dt>
 </dl>
 <h1 id="letterH">H</h1>
 <dl>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#having">having()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql//README.md">Hirudo\Models\Components\Sql</a></dt>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/HeaderBag.md">HeaderBag</a> - Class in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core//README.md">Hirudo\Core</a></dt>
 <dd>A class that allows the edition of the response headers.</dd>
-<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-globals.md#HIRUDO_ROOT">HIRUDO_ROOT</a> - Global in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace//README.md">Default namespace</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-globals.md#hirudo_root">HIRUDO_ROOT</a> - Global in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace//README.md">Default namespace</a></dt>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Exceptions/HirudoException.md">HirudoException</a> - Class in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Exceptions//README.md">Hirudo\Core\Exceptions</a></dt>
 <dd><p>Base class for exceptions occurred on Hirudo. </dd>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/hirudoimpljoomlajoomlafrontView_.md">hirudoimpljoomlajoomlafrontView_</a> - Class in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace//README.md">Default namespace</a></dt>
@@ -375,7 +375,7 @@
 <dd>Inline implements a YAML parser/dumper for the YAML inline syntax.</dd>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Compiler/InlineServiceDefinitionsPass.md">InlineServiceDefinitionsPass</a> - Class in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Compiler//README.md">Symfony\Component\DependencyInjection\Compiler</a></dt>
 <dd>Inline service definitions where this is possible.</dd>
-<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#insertInto">insertInto()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql//README.md">Hirudo\Models\Components\Sql</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#insertinto">insertInto()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql//README.md">Hirudo\Models\Components\Sql</a></dt>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Exception/InvalidArgumentException.md">InvalidArgumentException</a> - Class in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Exception//README.md">Symfony\Component\DependencyInjection\Exception</a></dt>
 <dd>InvalidArgumentException</dd>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Lang/InvalidPathException.md">InvalidPathException</a> - Class in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Lang//README.md">Hirudo\Lang</a></dt>
@@ -391,7 +391,7 @@
 <dd>Description of JAppConfig</dd>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Impl/Joomla/JoomlaAssets.md">JoomlaAssets</a> - Class in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Impl/Joomla//README.md">Hirudo\Impl\Joomla</a></dt>
 <dd>Description of JoomlaAssets</dd>
-<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Impl/Joomla/package-functions.md#joomlaAutoloader">joomlaAutoloader()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Impl/Joomla//README.md">Hirudo\Impl\Joomla</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Impl/Joomla/package-functions.md#joomlaautoloader">joomlaAutoloader()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Impl/Joomla//README.md">Hirudo\Impl\Joomla</a></dt>
 <dd>«Copyright 2012 Jeysson José Guevara Mendivil(JeyDotC)» 
  
  This file is part of Hirudo.
@@ -426,7 +426,7 @@
 <dd>Base class for writing simple lexers, i.e. </dd>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#like">like()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql//README.md">Hirudo\Models\Components\Sql</a></dt>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#limit">limit()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql//README.md">Hirudo\Models\Components\Sql</a></dt>
-<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-globals.md#LITERAL">LITERAL</a> - Global in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty//README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-globals.md#literal">LITERAL</a> - Global in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty//README.md">Smarty</a></dt>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Lang/Loader.md">Loader</a> - Class in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Lang//README.md">Hirudo\Lang</a></dt>
 <dd><p>A PHP file loader. </dd>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-globals.md#loader">loader</a> - Global in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace//README.md">Default namespace</a></dt>
@@ -472,20 +472,20 @@
 </dl>
 <h1 id="letterN">N</h1>
 <dl>
-<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-globals.md#NAKED_STRING_VALUE">NAKED_STRING_VALUE</a> - Global in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty//README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-globals.md#naked_string_value">NAKED_STRING_VALUE</a> - Global in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty//README.md">Smarty</a></dt>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-globals.md#namespaces">namespaces</a> - Global in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace//README.md">Default namespace</a></dt>
-<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#notLike">notLike()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql//README.md">Hirudo\Models\Components\Sql</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#notlike">notLike()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql//README.md">Hirudo\Models\Components\Sql</a></dt>
 </dl>
 <h1 id="letterO">O</h1>
 <dl>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#offset">offset()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql//README.md">Hirudo\Models\Components\Sql</a></dt>
-<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#orderBy">orderBy()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql//README.md">Hirudo\Models\Components\Sql</a></dt>
-<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#orHaving">orHaving()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql//README.md">Hirudo\Models\Components\Sql</a></dt>
-<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#orLike">orLike()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql//README.md">Hirudo\Models\Components\Sql</a></dt>
-<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#orNotLike">orNotLike()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql//README.md">Hirudo\Models\Components\Sql</a></dt>
-<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#orWhere">orWhere()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql//README.md">Hirudo\Models\Components\Sql</a></dt>
-<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#orWhereIn">orWhereIn()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql//README.md">Hirudo\Models\Components\Sql</a></dt>
-<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#orWhereNotIn">orWhereNotIn()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql//README.md">Hirudo\Models\Components\Sql</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#orderby">orderBy()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql//README.md">Hirudo\Models\Components\Sql</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#orhaving">orHaving()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql//README.md">Hirudo\Models\Components\Sql</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#orlike">orLike()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql//README.md">Hirudo\Models\Components\Sql</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#ornotlike">orNotLike()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql//README.md">Hirudo\Models\Components\Sql</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#orwhere">orWhere()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql//README.md">Hirudo\Models\Components\Sql</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#orwherein">orWhereIn()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql//README.md">Hirudo\Models\Components\Sql</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#orwherenotin">orWhereNotIn()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql//README.md">Hirudo\Models\Components\Sql</a></dt>
 </dl>
 <h1 id="letterP">P</h1>
 <dl>
@@ -503,7 +503,7 @@
 <dd>Exception class thrown when an error occurs during parsing.</dd>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/Yaml/Parser.md">Parser</a> - Class in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/Yaml//README.md">Symfony\Component\Yaml</a></dt>
 <dd>Parser parses YAML strings to convert them to PHP arrays.</dd>
-<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/Yaml/package-functions.md#parseScalar">parseScalar()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/Yaml//README.md">Symfony\Component\Yaml</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/Yaml/package-functions.md#parsescalar">parseScalar()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/Yaml//README.md">Symfony\Component\Yaml</a></dt>
 <dd>Parses a scalar to a YAML string.</dd>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Compiler/PassConfig.md">PassConfig</a> - Class in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Compiler//README.md">Symfony\Component\DependencyInjection\Compiler</a></dt>
 <dd>Compiler Pass Configuration
@@ -538,7 +538,7 @@
 <dd>Interface for annotation readers.</dd>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Reference.md">Reference</a> - Class in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection//README.md">Symfony\Component\DependencyInjection</a></dt>
 <dd>Reference represents a service reference.</dd>
-<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-globals.md#registeredAutoLoadFunctions">registeredAutoLoadFunctions</a> - Global in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace//README.md">Default namespace</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-globals.md#registeredautoloadfunctions">registeredAutoLoadFunctions</a> - Global in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace//README.md">Default namespace</a></dt>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Compiler/RemoveAbstractDefinitionsPass.md">RemoveAbstractDefinitionsPass</a> - Class in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Compiler//README.md">Symfony\Component\DependencyInjection\Compiler</a></dt>
 <dd>Removes abstract Definitions</dd>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Compiler/RemovePrivateAliasesPass.md">RemovePrivateAliasesPass</a> - Class in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Compiler//README.md">Symfony\Component\DependencyInjection\Compiler</a></dt>
@@ -615,12 +615,12 @@
 <dd>Scope Interface.</dd>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Exception/ScopeWideningInjectionException.md">ScopeWideningInjectionException</a> - Class in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Exception//README.md">Symfony\Component\DependencyInjection\Exception</a></dt>
 <dd>Thrown when a scope widening injection is detected.</dd>
-<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-globals.md#SECTION">SECTION</a> - Global in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty//README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-globals.md#section">SECTION</a> - Global in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty//README.md">Smarty</a></dt>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#select">select()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql//README.md">Hirudo\Models\Components\Sql</a></dt>
-<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#selectAvg">selectAvg()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql//README.md">Hirudo\Models\Components\Sql</a></dt>
-<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#selectMax">selectMax()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql//README.md">Hirudo\Models\Components\Sql</a></dt>
-<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#selectMin">selectMin()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql//README.md">Hirudo\Models\Components\Sql</a></dt>
-<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#selectSum">selectSum()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql//README.md">Hirudo\Models\Components\Sql</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#selectavg">selectAvg()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql//README.md">Hirudo\Models\Components\Sql</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#selectmax">selectMax()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql//README.md">Hirudo\Models\Components\Sql</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#selectmin">selectMin()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql//README.md">Hirudo\Models\Components\Sql</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#selectsum">selectSum()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql//README.md">Hirudo\Models\Components\Sql</a></dt>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Serialization/SerializationFactory.md">SerializationFactory</a> - Interface in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Serialization//README.md">Hirudo\Serialization</a></dt>
 <dd>An interface to serialization and deserialization factories.</dd>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Exception/ServiceCircularReferenceException.md">ServiceCircularReferenceException</a> - Class in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Exception//README.md">Symfony\Component\DependencyInjection\Exception</a></dt>
@@ -639,17 +639,17 @@
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/SessionStates.md">SessionStates</a> - Class in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context//README.md">Hirudo\Core\Context</a></dt>
 <dd>An enum representing the different sessions states.</dd>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#set">set()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql//README.md">Hirudo\Models\Components\Sql</a></dt>
-<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Compiler/package-functions.md#setAfterRemovingPasses">setAfterRemovingPasses()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Compiler//README.md">Symfony\Component\DependencyInjection\Compiler</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Compiler/package-functions.md#setafterremovingpasses">setAfterRemovingPasses()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Compiler//README.md">Symfony\Component\DependencyInjection\Compiler</a></dt>
 <dd>Sets the AfterRemoving passes.</dd>
-<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Compiler/package-functions.md#setBeforeOptimizationPasses">setBeforeOptimizationPasses()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Compiler//README.md">Symfony\Component\DependencyInjection\Compiler</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Compiler/package-functions.md#setbeforeoptimizationpasses">setBeforeOptimizationPasses()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Compiler//README.md">Symfony\Component\DependencyInjection\Compiler</a></dt>
 <dd>Sets the BeforeOptimization passes.</dd>
-<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Compiler/package-functions.md#setBeforeRemovingPasses">setBeforeRemovingPasses()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Compiler//README.md">Symfony\Component\DependencyInjection\Compiler</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Compiler/package-functions.md#setbeforeremovingpasses">setBeforeRemovingPasses()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Compiler//README.md">Symfony\Component\DependencyInjection\Compiler</a></dt>
 <dd>Sets the BeforeRemoving passes.</dd>
-<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Compiler/package-functions.md#setMergePass">setMergePass()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Compiler//README.md">Symfony\Component\DependencyInjection\Compiler</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Compiler/package-functions.md#setmergepass">setMergePass()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Compiler//README.md">Symfony\Component\DependencyInjection\Compiler</a></dt>
 <dd>Sets the Merge Pass.</dd>
-<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Compiler/package-functions.md#setOptimizationPasses">setOptimizationPasses()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Compiler//README.md">Symfony\Component\DependencyInjection\Compiler</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Compiler/package-functions.md#setoptimizationpasses">setOptimizationPasses()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Compiler//README.md">Symfony\Component\DependencyInjection\Compiler</a></dt>
 <dd>Sets the Optimization passes.</dd>
-<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Compiler/package-functions.md#setRemovingPasses">setRemovingPasses()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Compiler//README.md">Symfony\Component\DependencyInjection\Compiler</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Compiler/package-functions.md#setremovingpasses">setRemovingPasses()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Compiler//README.md">Symfony\Component\DependencyInjection\Compiler</a></dt>
 <dd>Sets the Removing passes.</dd>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Doctrine/Common/Annotations/SimpleAnnotationReader.md">SimpleAnnotationReader</a> - Class in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Doctrine/Common/Annotations//README.md">Doctrine\Common\Annotations</a></dt>
 <dd>Simple Annotation Reader.
@@ -664,7 +664,7 @@
 <dd>SimpleXMLElement class.</dd>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty.md">Smarty</a> - Class in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty//README.md">Smarty</a></dt>
 <dd>This is the main Smarty class</dd>
-<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-globals.md#SMARTY">SMARTY</a> - Global in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty//README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-globals.md#smarty">SMARTY</a> - Global in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty//README.md">Smarty</a></dt>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_block_textformat">smarty_block_textformat()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty//README.md">Smarty</a></dt>
 <dd>Smarty {textformat}{/textformat} block plugin
 
@@ -698,7 +698,7 @@
 <dd>class for the Smarty data object
 
  The Smarty data object will hold Smarty variables in the current scope</dd>
-<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-globals.md#SMARTY_DIR">SMARTY_DIR</a> - Global in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace//README.md">Default namespace</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-globals.md#smarty_dir">SMARTY_DIR</a> - Global in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace//README.md">Default namespace</a></dt>
 <dd>set SMARTY_DIR to absolute path to Smarty library files.
 </dd>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-functions.md#smarty_function_bind">smarty_function_bind()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace//README.md">Default namespace</a></dt>
@@ -1096,7 +1096,7 @@
 <dd>convert characters to their decimal unicode equivalents</dd>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_mb_wordwrap">smarty_mb_wordwrap()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty//README.md">Smarty</a></dt>
 <dd>Wrap a string to a given number of characters</dd>
-<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-globals.md#SMARTY_MBSTRING">SMARTY_MBSTRING</a> - Global in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace//README.md">Default namespace</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-globals.md#smarty_mbstring">SMARTY_MBSTRING</a> - Global in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace//README.md">Default namespace</a></dt>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_modifier_capitalize">smarty_modifier_capitalize()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty//README.md">Smarty</a></dt>
 <dd>Smarty capitalize modifier plugin
  
@@ -1145,10 +1145,10 @@
  Type:     modifier<br>
  Name:     spacify<br>
  Purpose:  add spaces between characters in a string</dd>
-<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-functions.md#smarty_modifier_toPath">smarty_modifier_toPath()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace//README.md">Default namespace</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-functions.md#smarty_modifier_topath">smarty_modifier_toPath()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace//README.md">Default namespace</a></dt>
 <dd><p>Converts the given string into a valid absolute path using the 
  <code><a href="../hirudo/lang/loader.html#toSinglePath()">Loader::toSinglePath()</a></code> method.</p></dd>
-<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-functions.md#smarty_modifier_toViewPath">smarty_modifier_toViewPath()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace//README.md">Default namespace</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-functions.md#smarty_modifier_toviewpath">smarty_modifier_toViewPath()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace//README.md">Default namespace</a></dt>
 <dd><p>Converts the given string into a valid absolute path like smarty_modifier_toPath
  plugin, but in this time the path has only three parts, the application, the 
  module and the view name, so any view from any module can be included or inherited.</dd>
@@ -1280,18 +1280,18 @@
  Trim unnecessary whitespace from HTML markup.</dd>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_php_tag">smarty_php_tag()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty//README.md">Smarty</a></dt>
 <dd>Smarty {php}{/php} block function</dd>
-<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-globals.md#SMARTY_PLUGINS_DIR">SMARTY_PLUGINS_DIR</a> - Global in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace//README.md">Default namespace</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-globals.md#smarty_plugins_dir">SMARTY_PLUGINS_DIR</a> - Global in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace//README.md">Default namespace</a></dt>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Resource.md">Smarty_Resource</a> - Class in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty//README.md">Smarty</a></dt>
 <dd>Smarty Resource Plugin
 
  Base implementation for resource plugins</dd>
-<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-globals.md#SMARTY_RESOURCE_CHAR_SET">SMARTY_RESOURCE_CHAR_SET</a> - Global in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace//README.md">Default namespace</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-globals.md#smarty_resource_char_set">SMARTY_RESOURCE_CHAR_SET</a> - Global in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace//README.md">Default namespace</a></dt>
 <dd></dd>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Resource_Custom.md">Smarty_Resource_Custom</a> - Class in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty//README.md">Smarty</a></dt>
 <dd>Smarty Resource Plugin
 
  Wrapper Implementation for custom resource plugins</dd>
-<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-globals.md#SMARTY_RESOURCE_DATE_FORMAT">SMARTY_RESOURCE_DATE_FORMAT</a> - Global in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace//README.md">Default namespace</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-globals.md#smarty_resource_date_format">SMARTY_RESOURCE_DATE_FORMAT</a> - Global in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace//README.md">Default namespace</a></dt>
 <dd></dd>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Resource_Recompiled.md">Smarty_Resource_Recompiled</a> - Class in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty//README.md">Smarty</a></dt>
 <dd>Smarty Resource Plugin
@@ -1303,9 +1303,9 @@
  Base implementation for resource plugins that don't use the compiler</dd>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Security.md">Smarty_Security</a> - Class in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty//README.md">Smarty</a></dt>
 <dd>This class does contain the security settings</dd>
-<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-globals.md#SMARTY_SPL_AUTOLOAD">SMARTY_SPL_AUTOLOAD</a> - Global in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace//README.md">Default namespace</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-globals.md#smarty_spl_autoload">SMARTY_SPL_AUTOLOAD</a> - Global in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace//README.md">Default namespace</a></dt>
 <dd>register the class autoloader</dd>
-<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-globals.md#SMARTY_SYSPLUGINS_DIR">SMARTY_SYSPLUGINS_DIR</a> - Global in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace//README.md">Default namespace</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-globals.md#smarty_sysplugins_dir">SMARTY_SYSPLUGINS_DIR</a> - Global in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace//README.md">Default namespace</a></dt>
 <dd>set SMARTY_SYSPLUGINS_DIR to absolute path to Smarty internal plugins.
 </dd>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Template_Cached.md">Smarty_Template_Cached</a> - Class in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty//README.md">Smarty</a></dt>
@@ -1327,7 +1327,7 @@
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_variablefilter_htmlspecialchars">smarty_variablefilter_htmlspecialchars()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty//README.md">Smarty</a></dt>
 <dd>Smarty htmlspecialchars variablefilter plugin</dd>
 <dd>smarty version</dd>
-<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smartyAutoload">smartyAutoload()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty//README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smartyautoload">smartyAutoload()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty//README.md">Smarty</a></dt>
 <dd>Autoloader</dd>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/SmartyBC.md">SmartyBC</a> - Class in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty//README.md">Smarty</a></dt>
 <dd>Smarty Backward Compatability Wrapper Class</dd>
@@ -1363,7 +1363,7 @@
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-globals.md#this">this</a> - Global in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty//README.md">Smarty</a></dt>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-globals.md#this">this</a> - Global in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql//README.md">Hirudo\Models\Components\Sql</a></dt>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-globals.md#to">to</a> - Global in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty//README.md">Smarty</a></dt>
-<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-globals.md#tokenMap">tokenMap</a> - Global in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty//README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-globals.md#tokenmap">tokenMap</a> - Global in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty//README.md">Smarty</a></dt>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/TP_yyStackEntry.md">TP_yyStackEntry</a> - Class in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace//README.md">Default namespace</a></dt>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/TP_yyToken.md">TP_yyToken</a> - Class in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty//README.md">Smarty</a></dt>
 <dd>Smarty Internal Plugin Templateparser
@@ -1376,7 +1376,7 @@
 
  This is the config file parser.
 </dd>
-<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-globals.md#TRIPPLE">TRIPPLE</a> - Global in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty//README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-globals.md#tripple">TRIPPLE</a> - Global in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty//README.md">Smarty</a></dt>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#truncate">truncate()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql//README.md">Hirudo\Models\Components\Sql</a></dt>
 </dl>
 <h1 id="letterU">U</h1>
@@ -1385,9 +1385,9 @@
 <dd>class for undefined variable object
 
  This class defines an object for undefined variable handling</dd>
-<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/Yaml/package-functions.md#unescapeCharacter">unescapeCharacter()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/Yaml//README.md">Symfony\Component\Yaml</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/Yaml/package-functions.md#unescapecharacter">unescapeCharacter()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/Yaml//README.md">Symfony\Component\Yaml</a></dt>
 <dd>Unescapes a character that was found in a double-quoted string</dd>
-<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/Yaml/package-functions.md#unescapeDoubleQuotedString">unescapeDoubleQuotedString()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/Yaml//README.md">Symfony\Component\Yaml</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/Yaml/package-functions.md#unescapedoublequotedstring">unescapeDoubleQuotedString()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/Yaml//README.md">Symfony\Component\Yaml</a></dt>
 <dd>Unescapes a double quoted string.</dd>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/Yaml/Unescaper.md">Unescaper</a> - Class in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/Yaml//README.md">Symfony\Component\Yaml</a></dt>
 <dd>Unescaper encapsulates unescaping rules for single and double-quoted
@@ -1403,7 +1403,7 @@
 <h1 id="letterV">V</h1>
 <dl>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-globals.md#value">value</a> - Global in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace//README.md">Default namespace</a></dt>
-<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-globals.md#VALUE">VALUE</a> - Global in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty//README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-globals.md#value">VALUE</a> - Global in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty//README.md">Smarty</a></dt>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Variable.md">Variable</a> - Class in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection//README.md">Symfony\Component\DependencyInjection</a></dt>
 <dd>Represents a variable.
 </dd>
@@ -1412,8 +1412,8 @@
 <h1 id="letterW">W</h1>
 <dl>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#where">where()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql//README.md">Hirudo\Models\Components\Sql</a></dt>
-<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#whereIn">whereIn()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql//README.md">Hirudo\Models\Components\Sql</a></dt>
-<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#whereNotIn">whereNotIn()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql//README.md">Hirudo\Models\Components\Sql</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#wherein">whereIn()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql//README.md">Hirudo\Models\Components\Sql</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#wherenotin">whereNotIn()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql//README.md">Hirudo\Models\Components\Sql</a></dt>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Doctrine/Common/Cache/WincacheCache.md">WincacheCache</a> - Class in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Doctrine/Common/Cache//README.md">Doctrine\Common\Cache</a></dt>
 <dd>WinCache cache provider.</dd>
 </dl>

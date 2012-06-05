@@ -8,7 +8,7 @@
 <tr><th colspan="2" class="title">Global Summary</th></tr>
 <tr>
 <td>final  mixed</td>
-<td class="description"><p class="name"><a href="#EXCEPTION_ON_INVALID_REFERENCE">EXCEPTION_ON_INVALID_REFERENCE</a></p></td>
+<td class="description"><p class="name"><a href="#exception_on_invalid_reference">EXCEPTION_ON_INVALID_REFERENCE</a></p></td>
 </tr>
 </table>
 

@@ -40,7 +40,7 @@
 <tr><th colspan="2">Field Summary</th></tr>
 <tr>
 <td><span class='k'>protected </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/ContainerAware.md#container'>ContainerInterface</a></span></td>
-<td class="description"><p class="name" ><a href="#container"> $container</a>
+<td class="description"><p class="name" ><a href="container"> $container</a>
                                 </p><p class="description"></p></td>
 </tr>
 </table>
@@ -52,6 +52,22 @@
 <td class="description"><p class="name"><a href="#setcontainer">setContainer</a>(<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/ContainerInterface.md">ContainerInterface</a> container)</p><p class="description">Sets the Container associated with this Controller.</p></td>
 </tr>
 </table>
+
+##Field Detail##
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ContainerAware.php#L28" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerAware.php at line 28</a>
+
+<h3 id="container">container</h3>
+<span class='k'>protected </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/ContainerAware.md#container'>ContainerInterface</a></span><span class='no'> $container</span><span class='o'> = EXCEPTION_ON_INVALID_REFERENCE</span>
+
+<div class="details">
+<p></p><dl>
+<dt>Api.</dt>
+</dl>
+
+</div>
+
+- - -
 
 <h2 id="detail_method">Method Detail</h2>
 

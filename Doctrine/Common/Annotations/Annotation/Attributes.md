@@ -36,8 +36,19 @@ to check the types of all declared attributes during the parsing process.</p></d
 <tr><th colspan="2">Field Summary</th></tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>array<Doctrine\Common\Annotations\Annotation\Attribute></span></td>
-<td class="description"><p class="name" ><a href="#value"> $value</a>
+<td class="description"><p class="name" ><a href="value"> $value</a>
                                 </p><p class="description"></p></td>
 </tr>
 </table>
+
+##Field Detail##
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/Annotation/Attributes.php#L36" target='_blank'>framework\libs\doctrine-common\Doctrine\Common\Annotations\Annotation\Attributes.php at line 36</a>
+
+<h3 id="value">value</h3>
+<span class='k'></span> <span class='nx'>array<Doctrine\Common\Annotations\Annotation\Attribute></span><span class='no'> $value</span><div class="details">
+<p></p>
+</div>
+
+- - -
 

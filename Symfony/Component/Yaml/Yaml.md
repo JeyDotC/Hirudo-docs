@@ -35,7 +35,7 @@
 <tr><th colspan="2">Field Summary</th></tr>
 <tr>
 <td><span class='k'>static </span> <span class='nx'>mixed</span></td>
-<td class="description"><p class="name" ><a href="#enablePhpParsing"> $enablePhpParsing</a>
+<td class="description"><p class="name" ><a href="enablephpparsing"> $enablePhpParsing</a>
                                 </p></td>
 </tr>
 </table>
@@ -57,6 +57,19 @@
 </p></td>
 </tr>
 </table>
+
+##Field Detail##
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/Yaml/Yaml.php#L25" target='_blank'>framework\libs\symfony-components\Symfony\Component\Yaml\Yaml.php at line 25</a>
+
+<h3 id="enablePhpParsing">enablePhpParsing</h3>
+<span class='k'>static </span> <span class='nx'>mixed</span><span class='no'> $enablePhpParsing</span><span class='o'> = false</span>
+
+<div class="details">
+
+</div>
+
+- - -
 
 <h2 id="detail_method">Method Detail</h2>
 

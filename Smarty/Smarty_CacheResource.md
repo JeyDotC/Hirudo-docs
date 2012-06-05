@@ -41,12 +41,12 @@
 <tr><th colspan="2">Field Summary</th></tr>
 <tr>
 <td><span class='k'>static </span> <span class='nx'>array</span></td>
-<td class="description"><p class="name" ><a href="#resources"> $resources</a>
+<td class="description"><p class="name" ><a href="resources"> $resources</a>
                                 </p><p class="description">cache for Smarty_CacheResource instances</p></td>
 </tr>
 <tr>
 <td><span class='k'>protected static </span> <span class='nx'>array</span></td>
-<td class="description"><p class="name" ><a href="#sysplugins"> $sysplugins</a>
+<td class="description"><p class="name" ><a href="sysplugins"> $sysplugins</a>
                                 </p><p class="description">resource types provided by the core</p></td>
 </tr>
 </table>
@@ -106,6 +106,31 @@
 <td class="description"><p class="name"><a href="#invalidloadedcache">invalidLoadedCache</a>(<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty.md">Smarty</a> smarty)</p><p class="description">Invalid Loaded Cache Files</p></td>
 </tr>
 </table>
+
+##Field Detail##
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_cacheresource.php#L21" target='_blank'>framework\libs\smarty\sysplugins\smarty_cacheresource.php at line 21</a>
+
+<h3 id="resources">resources</h3>
+<span class='k'>static </span> <span class='nx'>array</span><span class='no'> $resources</span><span class='o'> = array()</span>
+
+<div class="details">
+<p>cache for Smarty_CacheResource instances</p>
+</div>
+
+- - -
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_cacheresource.php#L27" target='_blank'>framework\libs\smarty\sysplugins\smarty_cacheresource.php at line 27</a>
+
+<h3 id="sysplugins">sysplugins</h3>
+<span class='k'>protected static </span> <span class='nx'>array</span><span class='no'> $sysplugins</span><span class='o'> = array(...)</span>
+
+<div class="details">
+<p>resource types provided by the core</p>
+</div>
+
+- - -
 
 <h2 id="detail_method">Method Detail</h2>
 

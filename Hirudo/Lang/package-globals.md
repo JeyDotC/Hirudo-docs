@@ -8,7 +8,7 @@
 <tr><th colspan="2" class="title">Global Summary</th></tr>
 <tr>
 <td>final  mixed</td>
-<td class="description"><p class="name"><a href="#DEFAULT_EXT">DEFAULT_EXT</a></p></td>
+<td class="description"><p class="name"><a href="#default_ext">DEFAULT_EXT</a></p></td>
 </tr>
 </table>
 

@@ -57,12 +57,12 @@ PRIMARY KEY (`id`)
 <tr><th colspan="2">Field Summary</th></tr>
 <tr>
 <td><span class='k'>protected </span> <span class='nx'>mixed</span></td>
-<td class="description"><p class="name" ><a href="#crc"> $crc</a>
+<td class="description"><p class="name" ><a href="crc"> $crc</a>
                                 </p><p class="description">Session data cache id</p></td>
 </tr>
 <tr>
 <td><span class='k'>protected </span> <span class='nx'>object DB</span></td>
-<td class="description"><p class="name" ><a href="#db"> $db</a>
+<td class="description"><p class="name" ><a href="db"> $db</a>
                                 </p><p class="description">MDB2 connection object</p></td>
 </tr>
 </table>
@@ -129,7 +129,32 @@ the table on garbage collection, default is 'false'.
 
 <table class="inherit">
 <tr><th colspan="2">Methods inherited from HTTP_Session2\HTTP_Session2_Container</th></tr>
-<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/HTTP_Session2/HTTP_Session2_Container.md#__construct">__construct</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/HTTP_Session2/HTTP_Session2_Container.md#parseOptions">parseOptions</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/HTTP_Session2/HTTP_Session2_Container.md#set">set</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/HTTP_Session2/HTTP_Session2_Container.md#setDefaults">setDefaults</a></td></tr></table>
+<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/HTTP_Session2/HTTP_Session2_Container.md#__construct">__construct</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/HTTP_Session2/HTTP_Session2_Container.md#parseoptions">parseOptions</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/HTTP_Session2/HTTP_Session2_Container.md#set">set</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/HTTP_Session2/HTTP_Session2_Container.md#setdefaults">setDefaults</a></td></tr></table>
+
+##Field Detail##
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/MDB2.php#L69" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\MDB2.php at line 69</a>
+
+<h3 id="crc">crc</h3>
+<span class='k'>protected </span> <span class='nx'>mixed</span><span class='no'> $crc</span><span class='o'> = false</span>
+
+<div class="details">
+<p>Session data cache id</p>
+</div>
+
+- - -
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/MDB2.php#L62" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\MDB2.php at line 62</a>
+
+<h3 id="db">db</h3>
+<span class='k'>protected </span> <span class='nx'>object DB</span><span class='no'> $db</span><span class='o'> = null</span>
+
+<div class="details">
+<p>MDB2 connection object</p>
+</div>
+
+- - -
 
 <h2 id="detail_method">Constructor Detail</h2>
 

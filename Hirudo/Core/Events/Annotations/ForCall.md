@@ -43,18 +43,55 @@ the 'aTask' task.</p></p></div>
 <tr><th colspan="2">Field Summary</th></tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name" ><a href="#app"> $app</a>
+<td class="description"><p class="name" ><a href="app"> $app</a>
                                 </p><p class="description"></p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name" ><a href="#module"> $module</a>
+<td class="description"><p class="name" ><a href="module"> $module</a>
                                 </p><p class="description"></p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name" ><a href="#task"> $task</a>
+<td class="description"><p class="name" ><a href="task"> $task</a>
                                 </p><p class="description"></p></td>
 </tr>
 </table>
+
+##Field Detail##
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Events/Annotations/ForCall.php#L36" target='_blank'>framework\hirudo\Hirudo\Core\Events\Annotations\ForCall.php at line 36</a>
+
+<h3 id="app">app</h3>
+<span class='k'></span> <span class='nx'>string</span><span class='no'> $app</span><span class='o'> = &quot;&quot;</span>
+
+<div class="details">
+<p></p>
+</div>
+
+- - -
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Events/Annotations/ForCall.php#L42" target='_blank'>framework\hirudo\Hirudo\Core\Events\Annotations\ForCall.php at line 42</a>
+
+<h3 id="module">module</h3>
+<span class='k'></span> <span class='nx'>string</span><span class='no'> $module</span><span class='o'> = &quot;&quot;</span>
+
+<div class="details">
+<p></p>
+</div>
+
+- - -
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Events/Annotations/ForCall.php#L48" target='_blank'>framework\hirudo\Hirudo\Core\Events\Annotations\ForCall.php at line 48</a>
+
+<h3 id="task">task</h3>
+<span class='k'></span> <span class='nx'>string</span><span class='no'> $task</span><span class='o'> = &quot;&quot;</span>
+
+<div class="details">
+<p></p>
+</div>
+
+- - -
 

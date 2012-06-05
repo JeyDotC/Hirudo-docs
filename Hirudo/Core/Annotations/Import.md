@@ -38,14 +38,48 @@ to inject a dependency.</p></div>
 <tr><th colspan="2">Field Summary</th></tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string The fully qualified name of the class to be imported.</span></td>
-<td class="description"><p class="name" ><a href="#className"> $className</a>
+<td class="description"><p class="name" ><a href="classname"> $className</a>
                                 </p><p class="description">A dependency class name. </p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name" ><a href="#id"> $id</a>
+<td class="description"><p class="name" ><a href="id"> $id</a>
                                 </p><p class="description">The id of the dependency to be injected.
 </p></td>
 </tr>
 </table>
+
+##Field Detail##
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Annotations/Import.php#L64" target='_blank'>framework\hirudo\Hirudo\Core\Annotations\Import.php at line 64</a>
+
+<h3 id="className">className</h3>
+<span class='k'></span> <span class='nx'>string The fully qualified name of the class to be imported.</span><span class='no'> $className</span><span class='o'> = null</span>
+
+<div class="details">
+<p>A dependency class name. This is useful if the dependency class is instantiable
+and direct instantiation is acceptable. To import interfaces, abstract
+classes or classes with some kind of special instatiation issue
+(like factory methods), use Import::$id instead and export the dependency
+class with the @Export annotation.</p>
+</div>
+
+- - -
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Annotations/Import.php#L53" target='_blank'>framework\hirudo\Hirudo\Core\Annotations\Import.php at line 53</a>
+
+<h3 id="id">id</h3>
+<span class='k'></span> <span class='nx'>string</span><span class='no'> $id</span><span class='o'> = null</span>
+
+<div class="details">
+<p>The id of the dependency to be injected.</p><p>If this attribute is null, the dependency injector shall determine the class
+of the requested object and create a new instance to inject it. The way the class is
+determined is like below:</p><p>If this annotation is applied to a method, the method's type hinting will be used
+to determine the class of the dependency.</p><p>If this nanotation is applied to a property, the className property of this annotation
+must be set to the fully qualified class name, this is a way to avoid the efford
+of determining the class name based on the doc blocks.</p>
+</div>
+
+- - -
 

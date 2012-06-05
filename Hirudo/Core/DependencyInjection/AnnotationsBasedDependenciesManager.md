@@ -85,7 +85,7 @@ in the container to inject them later. </p></td>
 
 <table class="inherit">
 <tr><th colspan="2">Methods inherited from Symfony\Component\DependencyInjection\ContainerAware</th></tr>
-<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/ContainerAware.md#setContainer">setContainer</a></td></tr></table>
+<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/ContainerAware.md#setcontainer">setContainer</a></td></tr></table>
 
 <h2 id="detail_method">Constructor Detail</h2>
 

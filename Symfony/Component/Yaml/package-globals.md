@@ -8,15 +8,15 @@
 <tr><th colspan="2" class="title">Global Summary</th></tr>
 <tr>
 <td>final  mixed</td>
-<td class="description"><p class="name"><a href="#ENCODING">ENCODING</a></p></td>
+<td class="description"><p class="name"><a href="#encoding">ENCODING</a></p></td>
 </tr>
 <tr>
 <td>final  mixed</td>
-<td class="description"><p class="name"><a href="#REGEX_CHARACTER_TO_ESCAPE">REGEX_CHARACTER_TO_ESCAPE</a></p></td>
+<td class="description"><p class="name"><a href="#regex_character_to_escape">REGEX_CHARACTER_TO_ESCAPE</a></p></td>
 </tr>
 <tr>
 <td>final  mixed</td>
-<td class="description"><p class="name"><a href="#REGEX_QUOTED_STRING">REGEX_QUOTED_STRING</a></p></td>
+<td class="description"><p class="name"><a href="#regex_quoted_string">REGEX_QUOTED_STRING</a></p></td>
 </tr>
 </table>
 

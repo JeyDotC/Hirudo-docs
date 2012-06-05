@@ -35,27 +35,27 @@
 <tr><th colspan="2">Field Summary</th></tr>
 <tr>
 <td><span class='k'>protected </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Module.md#context'>ModulesContext</a></span></td>
-<td class="description"><p class="name" ><a href="#context"> $context</a>
+<td class="description"><p class="name" ><a href="context"> $context</a>
                                 </p><p class="description">An internal ModulesContext instance.</p></td>
 </tr>
 <tr>
-<td><span class='k'>protected </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Module.md#currentUser'>Principal</a></span></td>
-<td class="description"><p class="name" ><a href="#currentUser"> $currentUser</a>
+<td><span class='k'>protected </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Module.md#currentuser'>Principal</a></span></td>
+<td class="description"><p class="name" ><a href="currentuser"> $currentUser</a>
                                 </p><p class="description">The current user of this session.</p></td>
 </tr>
 <tr>
 <td><span class='k'>protected </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Module.md#headers'>HeaderBag</a></span></td>
-<td class="description"><p class="name" ><a href="#headers"> $headers</a>
+<td class="description"><p class="name" ><a href="headers"> $headers</a>
                                 </p><p class="description">An utility object for response header edition.</p></td>
 </tr>
 <tr>
 <td><span class='k'>protected </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Module.md#request'>Request</a></span></td>
-<td class="description"><p class="name" ><a href="#request"> $request</a>
+<td class="description"><p class="name" ><a href="request"> $request</a>
                                 </p><p class="description">Gives access to the request arrays such as GET, POST or SESSION.</p></td>
 </tr>
 <tr>
 <td><span class='k'>protected </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Module.md#route'>Routing</a></span></td>
-<td class="description"><p class="name" ><a href="#route"> $route</a>
+<td class="description"><p class="name" ><a href="route"> $route</a>
                                 </p><p class="description">A helper class for managing urls.</p></td>
 </tr>
 </table>
@@ -83,7 +83,7 @@
 <td class="description"><p class="name"><a href="#component">component</a>(string name)</p><p class="description">Retreives a component instance.</p></td>
 </tr>
 <tr>
-<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Module.md#getTask>Task</a></span></td>
+<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Module.md#gettask>Task</a></span></td>
 <td class="description"><p class="name"><a href="#gettask">getTask</a>(string taskName)</p><p class="description">Builds a task from it's name. </p></td>
 </tr>
 <tr>
@@ -130,6 +130,57 @@ the browser.</p></td>
 <td class="description"><p class="name"><a href="#setappname">setAppName</a>(string appName)</p><p class="description">Sets the name of the app this module belongs to.</p></td>
 </tr>
 </table>
+
+##Field Detail##
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Module.php#L180" target='_blank'>framework\hirudo\Hirudo\Core\Module.php at line 180</a>
+
+<h3 id="context">context</h3>
+<span class='k'>protected </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Module.md#context'>ModulesContext</a></span><span class='no'> $context</span><div class="details">
+<p>An internal ModulesContext instance.</p>
+</div>
+
+- - -
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Module.php#L159" target='_blank'>framework\hirudo\Hirudo\Core\Module.php at line 159</a>
+
+<h3 id="currentUser">currentUser</h3>
+<span class='k'>protected </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Module.md#currentuser'>Principal</a></span><span class='no'> $currentUser</span><div class="details">
+<p>The current user of this session.</p>
+</div>
+
+- - -
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Module.php#L187" target='_blank'>framework\hirudo\Hirudo\Core\Module.php at line 187</a>
+
+<h3 id="headers">headers</h3>
+<span class='k'>protected </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Module.md#headers'>HeaderBag</a></span><span class='no'> $headers</span><div class="details">
+<p>An utility object for response header edition.</p>
+</div>
+
+- - -
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Module.php#L173" target='_blank'>framework\hirudo\Hirudo\Core\Module.php at line 173</a>
+
+<h3 id="request">request</h3>
+<span class='k'>protected </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Module.md#request'>Request</a></span><span class='no'> $request</span><div class="details">
+<p>Gives access to the request arrays such as GET, POST or SESSION.</p>
+</div>
+
+- - -
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Module.php#L166" target='_blank'>framework\hirudo\Hirudo\Core\Module.php at line 166</a>
+
+<h3 id="route">route</h3>
+<span class='k'>protected </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Module.md#route'>Routing</a></span><span class='no'> $route</span><div class="details">
+<p>A helper class for managing urls.</p>
+</div>
+
+- - -
 
 <h2 id="detail_method">Constructor Detail</h2>
 
@@ -202,7 +253,7 @@ the browser.</p></td>
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Module.php#L257" target='_blank'>framework\hirudo\Hirudo\Core\Module.php at line 257</a>
 
 <h3 id="getTask()">getTask</h3>
-<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Module.md#getTask>Task</a></span> <span class='nf'>getTask</span> (string taskName)
+<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Module.md#gettask>Task</a></span> <span class='nf'>getTask</span> (string taskName)
 
 <div class="details">
 <p>Builds a task from it's name. If the module doesn't have a corresponding

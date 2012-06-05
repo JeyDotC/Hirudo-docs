@@ -8,70 +8,70 @@
 <tr><th colspan="2" class="title">Global Summary</th></tr>
 <tr>
 <td>final  mixed</td>
-<td class="description"><p class="name"><a href="#DS">DS</a></p><p class="description">«Copyright 2012 Jeysson José Guevara Mendivil(JeyDotC)»This file is part of Hirudo.
+<td class="description"><p class="name"><a href="#ds">DS</a></p><p class="description">«Copyright 2012 Jeysson José Guevara Mendivil(JeyDotC)»This file is part of Hirudo.
 </p></td>
 </tr>
 <tr>
 <td>final  mixed</td>
-<td class="description"><p class="name"><a href="#Err1">Err1</a></p></td>
+<td class="description"><p class="name"><a href="#err1">Err1</a></p></td>
 </tr>
 <tr>
 <td>final  mixed</td>
-<td class="description"><p class="name"><a href="#HIRUDO_ROOT">HIRUDO_ROOT</a></p></td>
+<td class="description"><p class="name"><a href="#hirudo_root">HIRUDO_ROOT</a></p></td>
 </tr>
 <tr>
 <td>final  mixed</td>
-<td class="description"><p class="name"><a href="#SMARTY_DIR">SMARTY_DIR</a></p><p class="description">set SMARTY_DIR to absolute path to Smarty library files.
+<td class="description"><p class="name"><a href="#smarty_dir">SMARTY_DIR</a></p><p class="description">set SMARTY_DIR to absolute path to Smarty library files.
 </p></td>
 </tr>
 <tr>
 <td>final  mixed</td>
-<td class="description"><p class="name"><a href="#SMARTY_MBSTRING">SMARTY_MBSTRING</a></p></td>
+<td class="description"><p class="name"><a href="#smarty_mbstring">SMARTY_MBSTRING</a></p></td>
 </tr>
 <tr>
 <td>final  mixed</td>
-<td class="description"><p class="name"><a href="#SMARTY_PLUGINS_DIR">SMARTY_PLUGINS_DIR</a></p></td>
+<td class="description"><p class="name"><a href="#smarty_plugins_dir">SMARTY_PLUGINS_DIR</a></p></td>
 </tr>
 <tr>
 <td>final  mixed</td>
-<td class="description"><p class="name"><a href="#SMARTY_RESOURCE_CHAR_SET">SMARTY_RESOURCE_CHAR_SET</a></p><p class="description"></p></td>
+<td class="description"><p class="name"><a href="#smarty_resource_char_set">SMARTY_RESOURCE_CHAR_SET</a></p><p class="description"></p></td>
 </tr>
 <tr>
 <td>final  str</td>
-<td class="description"><p class="name"><a href="#SMARTY_RESOURCE_DATE_FORMAT">SMARTY_RESOURCE_DATE_FORMAT</a></p><p class="description"></p></td>
+<td class="description"><p class="name"><a href="#smarty_resource_date_format">SMARTY_RESOURCE_DATE_FORMAT</a></p><p class="description"></p></td>
 </tr>
 <tr>
 <td>final  int</td>
-<td class="description"><p class="name"><a href="#SMARTY_SPL_AUTOLOAD">SMARTY_SPL_AUTOLOAD</a></p><p class="description">register the class autoloader</p></td>
+<td class="description"><p class="name"><a href="#smarty_spl_autoload">SMARTY_SPL_AUTOLOAD</a></p><p class="description">register the class autoloader</p></td>
 </tr>
 <tr>
 <td>final  mixed</td>
-<td class="description"><p class="name"><a href="#SMARTY_SYSPLUGINS_DIR">SMARTY_SYSPLUGINS_DIR</a></p><p class="description">set SMARTY_SYSPLUGINS_DIR to absolute path to Smarty internal plugins.
+<td class="description"><p class="name"><a href="#smarty_sysplugins_dir">SMARTY_SYSPLUGINS_DIR</a></p><p class="description">set SMARTY_SYSPLUGINS_DIR to absolute path to Smarty internal plugins.
 </p></td>
 </tr>
 <tr>
 <td>final  mixed</td>
-<td class="description"><p class="name"><a href="#TPC_OPENB">TPC_OPENB</a></p></td>
+<td class="description"><p class="name"><a href="#tpc_openb">TPC_OPENB</a></p></td>
 </tr>
 <tr>
 <td>final  mixed</td>
-<td class="description"><p class="name"><a href="#TP_VERT">TP_VERT</a></p></td>
+<td class="description"><p class="name"><a href="#tp_vert">TP_VERT</a></p></td>
 </tr>
 <tr>
 <td>final  mixed</td>
-<td class="description"><p class="name"><a href="#YYNOCODE">YYNOCODE</a></p></td>
+<td class="description"><p class="name"><a href="#yynocode">YYNOCODE</a></p></td>
 </tr>
 <tr>
 <td>final  mixed</td>
-<td class="description"><p class="name"><a href="#YY_REDUCE_USE_DFLT">YY_REDUCE_USE_DFLT</a></p></td>
+<td class="description"><p class="name"><a href="#yy_reduce_use_dflt">YY_REDUCE_USE_DFLT</a></p></td>
 </tr>
 <tr>
 <td>final  mixed</td>
-<td class="description"><p class="name"><a href="#YY_SHIFT_USE_DFLT">YY_SHIFT_USE_DFLT</a></p></td>
+<td class="description"><p class="name"><a href="#yy_shift_use_dflt">YY_SHIFT_USE_DFLT</a></p></td>
 </tr>
 <tr>
 <td> mixed</td>
-<td class="description"><p class="name"><a href="#autoloadPath">autoloadPath</a></p></td>
+<td class="description"><p class="name"><a href="#autoloadpath">autoloadPath</a></p></td>
 </tr>
 <tr>
 <td> mixed</td>
@@ -93,7 +93,7 @@
 </tr>
 <tr>
 <td> mixed</td>
-<td class="description"><p class="name"><a href="#registeredAutoLoadFunctions">registeredAutoLoadFunctions</a></p></td>
+<td class="description"><p class="name"><a href="#registeredautoloadfunctions">registeredAutoLoadFunctions</a></p></td>
 </tr>
 <tr>
 <td> mixed</td>

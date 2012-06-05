@@ -8,59 +8,59 @@
 <tr><th colspan="2" class="title">Global Summary</th></tr>
 <tr>
 <td>final  str</td>
-<td class="description"><p class="name"><a href="#CACHING_NOCACHE_CODE">CACHING_NOCACHE_CODE</a></p><p class="description">caching mode to create nocache code but no cache file</p></td>
+<td class="description"><p class="name"><a href="#caching_nocache_code">CACHING_NOCACHE_CODE</a></p><p class="description">caching mode to create nocache code but no cache file</p></td>
 </tr>
 <tr>
 <td>final  mixed</td>
-<td class="description"><p class="name"><a href="#COMMENT">COMMENT</a></p></td>
+<td class="description"><p class="name"><a href="#comment">COMMENT</a></p></td>
 </tr>
 <tr>
 <td>final  mixed</td>
-<td class="description"><p class="name"><a href="#DOUBLEQUOTEDSTRING">DOUBLEQUOTEDSTRING</a></p></td>
+<td class="description"><p class="name"><a href="#doublequotedstring">DOUBLEQUOTEDSTRING</a></p></td>
 </tr>
 <tr>
 <td>final  mixed</td>
-<td class="description"><p class="name"><a href="#DS">DS</a></p><p class="description">define shorthand directory separator constant</p></td>
+<td class="description"><p class="name"><a href="#ds">DS</a></p><p class="description">define shorthand directory separator constant</p></td>
 </tr>
 <tr>
 <td>final  mixed</td>
-<td class="description"><p class="name"><a href="#LITERAL">LITERAL</a></p></td>
+<td class="description"><p class="name"><a href="#literal">LITERAL</a></p></td>
 </tr>
 <tr>
 <td>final  mixed</td>
-<td class="description"><p class="name"><a href="#NAKED_STRING_VALUE">NAKED_STRING_VALUE</a></p></td>
+<td class="description"><p class="name"><a href="#naked_string_value">NAKED_STRING_VALUE</a></p></td>
 </tr>
 <tr>
 <td>final  mixed</td>
-<td class="description"><p class="name"><a href="#SECTION">SECTION</a></p></td>
+<td class="description"><p class="name"><a href="#section">SECTION</a></p></td>
 </tr>
 <tr>
 <td>final  mixed</td>
-<td class="description"><p class="name"><a href="#SMARTY">SMARTY</a></p></td>
+<td class="description"><p class="name"><a href="#smarty">SMARTY</a></p></td>
 </tr>
 <tr>
 <td>final  str</td>
-<td class="description"><p class="name"><a href="#SMARTY_VERSION">SMARTY_VERSION</a></p><p class="description">smarty version</p></td>
+<td class="description"><p class="name"><a href="#smarty_version">SMARTY_VERSION</a></p><p class="description">smarty version</p></td>
 </tr>
 <tr>
 <td>final  mixed</td>
-<td class="description"><p class="name"><a href="#START">START</a></p></td>
+<td class="description"><p class="name"><a href="#start">START</a></p></td>
 </tr>
 <tr>
 <td>final  mixed</td>
-<td class="description"><p class="name"><a href="#TEXT">TEXT</a></p></td>
+<td class="description"><p class="name"><a href="#text">TEXT</a></p></td>
 </tr>
 <tr>
 <td>final  str</td>
-<td class="description"><p class="name"><a href="#TRIPPLE">TRIPPLE</a></p></td>
+<td class="description"><p class="name"><a href="#tripple">TRIPPLE</a></p></td>
 </tr>
 <tr>
 <td>final  mixed</td>
-<td class="description"><p class="name"><a href="#VALUE">VALUE</a></p></td>
+<td class="description"><p class="name"><a href="#value">VALUE</a></p></td>
 </tr>
 <tr>
 <td> mixed</td>
-<td class="description"><p class="name"><a href="#_CHARSET">_CHARSET</a></p></td>
+<td class="description"><p class="name"><a href="#_charset">_CHARSET</a></p></td>
 </tr>
 <tr>
 <td> mixed</td>
@@ -80,7 +80,7 @@
 </tr>
 <tr>
 <td> mixed</td>
-<td class="description"><p class="name"><a href="#tokenMap">tokenMap</a></p></td>
+<td class="description"><p class="name"><a href="#tokenmap">tokenMap</a></p></td>
 </tr>
 <tr>
 <td> mixed</td>

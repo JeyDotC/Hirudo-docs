@@ -8,15 +8,15 @@
 <tr><th colspan="2" class="title">Function Summary</th></tr>
 <tr>
 <td><span class='k'>static </span> <span class='nx'>string</span></td>
-<td class="description"><p class="name"><a href="#parseScalar">parseScalar</a>(scalar scalar, string delimiters, array stringDelimiters, integer &$i, Boolean evaluate)</p><p class="description">Parses a scalar to a YAML string.</p></td>
+<td class="description"><p class="name"><a href="#parsescalar">parseScalar</a>(scalar scalar, string delimiters, array stringDelimiters, integer &$i, Boolean evaluate)</p><p class="description">Parses a scalar to a YAML string.</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name"><a href="#unescapeCharacter">unescapeCharacter</a>(string value)</p><p class="description">Unescapes a character that was found in a double-quoted string</p></td>
+<td class="description"><p class="name"><a href="#unescapecharacter">unescapeCharacter</a>(string value)</p><p class="description">Unescapes a character that was found in a double-quoted string</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name"><a href="#unescapeDoubleQuotedString">unescapeDoubleQuotedString</a>(string value)</p><p class="description">Unescapes a double quoted string.</p></td>
+<td class="description"><p class="name"><a href="#unescapedoublequotedstring">unescapeDoubleQuotedString</a>(string value)</p><p class="description">Unescapes a double quoted string.</p></td>
 </tr>
 </table>
 

@@ -45,12 +45,12 @@
 <tr><th colspan="2">Field Summary</th></tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>array The next token in the input.</span></td>
-<td class="description"><p class="name" ><a href="#lookahead"> $lookahead</a>
+<td class="description"><p class="name" ><a href="lookahead"> $lookahead</a>
                                 </p><p class="description"></p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>array The last matched/seen token.</span></td>
-<td class="description"><p class="name" ><a href="#token"> $token</a>
+<td class="description"><p class="name" ><a href="token"> $token</a>
                                 </p><p class="description"></p></td>
 </tr>
 </table>
@@ -124,6 +124,27 @@
 <td class="description"><p class="name"><a href="#gettype">getType</a>(string value)</p><p class="description">Retrieve token type. </p></td>
 </tr>
 </table>
+
+##Field Detail##
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Lexer.php#L52" target='_blank'>framework\libs\doctrine-common\Doctrine\Common\Lexer.php at line 52</a>
+
+<h3 id="lookahead">lookahead</h3>
+<span class='k'></span> <span class='nx'>array The next token in the input.</span><span class='no'> $lookahead</span><div class="details">
+<p></p>
+</div>
+
+- - -
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Lexer.php#L57" target='_blank'>framework\libs\doctrine-common\Doctrine\Common\Lexer.php at line 57</a>
+
+<h3 id="token">token</h3>
+<span class='k'></span> <span class='nx'>array The last matched/seen token.</span><span class='no'> $token</span><div class="details">
+<p></p>
+</div>
+
+- - -
 
 <h2 id="detail_method">Method Detail</h2>
 

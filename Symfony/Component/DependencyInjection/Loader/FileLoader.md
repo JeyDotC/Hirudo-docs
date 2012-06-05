@@ -42,7 +42,7 @@ BaseFileLoader &gt; **FileLoader**
 <tr><th colspan="2">Field Summary</th></tr>
 <tr>
 <td><span class='k'>protected </span> <span class='nx'>mixed</span></td>
-<td class="description"><p class="name" ><a href="#container"> $container</a>
+<td class="description"><p class="name" ><a href="container"> $container</a>
                                 </p></td>
 </tr>
 </table>
@@ -54,6 +54,19 @@ BaseFileLoader &gt; **FileLoader**
 <td class="description"><p class="name"><a href="#__construct">__construct</a>(<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/ContainerBuilder.md">ContainerBuilder</a> container, FileLocator locator)</p><p class="description">Constructor.</p></td>
 </tr>
 </table>
+
+##Field Detail##
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Loader/FileLoader.php#L25" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Loader\FileLoader.php at line 25</a>
+
+<h3 id="container">container</h3>
+<span class='k'>protected </span> <span class='nx'>mixed</span><span class='no'> $container</span><span class='o'> = null</span>
+
+<div class="details">
+
+</div>
+
+- - -
 
 <h2 id="detail_method">Constructor Detail</h2>
 

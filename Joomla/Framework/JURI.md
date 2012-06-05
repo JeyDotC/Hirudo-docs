@@ -46,7 +46,7 @@ the current executing script from the server regardless of server.</p></div>
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td><span class='k'>static </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Joomla/Framework/JURI.md#getInstance>JURI</a></span></td>
+<td><span class='k'>static </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Joomla/Framework/JURI.md#getinstance>JURI</a></span></td>
 <td class="description"><p class="name"><a href="#getinstance">getInstance</a>(string uri)</p><p class="description">Returns a reference to a global JURI object, only creating it
 if it doesn't already exist.
 </p></td>
@@ -190,7 +190,7 @@ You can pass a URI string to the constructor to initialize a specific URI.</p><d
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/JURI.php#L130" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\lib\JURI.php at line 130</a>
 
 <h3 id="getInstance()">getInstance</h3>
-<span class='k'>static </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Joomla/Framework/JURI.md#getInstance>JURI</a></span> <span class='nf'>getInstance</span> (string uri)
+<span class='k'>static </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Joomla/Framework/JURI.md#getinstance>JURI</a></span> <span class='nf'>getInstance</span> (string uri)
 
 <div class="details">
 <p>Returns a reference to a global JURI object, only creating it

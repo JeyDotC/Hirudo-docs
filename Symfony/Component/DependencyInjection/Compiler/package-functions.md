@@ -8,59 +8,59 @@
 <tr><th colspan="2" class="title">Function Summary</th></tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#addPass">addPass</a>(<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Compiler/CompilerPassInterface.md">CompilerPassInterface</a> pass, string type)</p><p class="description">Adds a pass.</p></td>
+<td class="description"><p class="name"><a href="#addpass">addPass</a>(<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Compiler/CompilerPassInterface.md">CompilerPassInterface</a> pass, string type)</p><p class="description">Adds a pass.</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>array</span></td>
-<td class="description"><p class="name"><a href="#getAfterRemovingPasses">getAfterRemovingPasses</a>()</p><p class="description">Gets all passes for the AfterRemoving pass.</p></td>
+<td class="description"><p class="name"><a href="#getafterremovingpasses">getAfterRemovingPasses</a>()</p><p class="description">Gets all passes for the AfterRemoving pass.</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>array</span></td>
-<td class="description"><p class="name"><a href="#getBeforeOptimizationPasses">getBeforeOptimizationPasses</a>()</p><p class="description">Gets all passes for the BeforeOptimization pass.</p></td>
+<td class="description"><p class="name"><a href="#getbeforeoptimizationpasses">getBeforeOptimizationPasses</a>()</p><p class="description">Gets all passes for the BeforeOptimization pass.</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>array</span></td>
-<td class="description"><p class="name"><a href="#getBeforeRemovingPasses">getBeforeRemovingPasses</a>()</p><p class="description">Gets all passes for the BeforeRemoving pass.</p></td>
+<td class="description"><p class="name"><a href="#getbeforeremovingpasses">getBeforeRemovingPasses</a>()</p><p class="description">Gets all passes for the BeforeRemoving pass.</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>array</span></td>
-<td class="description"><p class="name"><a href="#getMergePass">getMergePass</a>()</p><p class="description">Gets all passes for the Merge pass.</p></td>
+<td class="description"><p class="name"><a href="#getmergepass">getMergePass</a>()</p><p class="description">Gets all passes for the Merge pass.</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>array</span></td>
-<td class="description"><p class="name"><a href="#getOptimizationPasses">getOptimizationPasses</a>()</p><p class="description">Gets all passes for the Optimization pass.</p></td>
+<td class="description"><p class="name"><a href="#getoptimizationpasses">getOptimizationPasses</a>()</p><p class="description">Gets all passes for the Optimization pass.</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>array</span></td>
-<td class="description"><p class="name"><a href="#getPasses">getPasses</a>()</p><p class="description">Returns all passes in order to be processed.</p></td>
+<td class="description"><p class="name"><a href="#getpasses">getPasses</a>()</p><p class="description">Returns all passes in order to be processed.</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>array</span></td>
-<td class="description"><p class="name"><a href="#getRemovingPasses">getRemovingPasses</a>()</p><p class="description">Gets all passes for the Removing pass.</p></td>
+<td class="description"><p class="name"><a href="#getremovingpasses">getRemovingPasses</a>()</p><p class="description">Gets all passes for the Removing pass.</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#setAfterRemovingPasses">setAfterRemovingPasses</a>(array passes)</p><p class="description">Sets the AfterRemoving passes.</p></td>
+<td class="description"><p class="name"><a href="#setafterremovingpasses">setAfterRemovingPasses</a>(array passes)</p><p class="description">Sets the AfterRemoving passes.</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#setBeforeOptimizationPasses">setBeforeOptimizationPasses</a>(array passes)</p><p class="description">Sets the BeforeOptimization passes.</p></td>
+<td class="description"><p class="name"><a href="#setbeforeoptimizationpasses">setBeforeOptimizationPasses</a>(array passes)</p><p class="description">Sets the BeforeOptimization passes.</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#setBeforeRemovingPasses">setBeforeRemovingPasses</a>(array passes)</p><p class="description">Sets the BeforeRemoving passes.</p></td>
+<td class="description"><p class="name"><a href="#setbeforeremovingpasses">setBeforeRemovingPasses</a>(array passes)</p><p class="description">Sets the BeforeRemoving passes.</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#setMergePass">setMergePass</a>(<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Compiler/CompilerPassInterface.md">CompilerPassInterface</a> pass)</p><p class="description">Sets the Merge Pass.</p></td>
+<td class="description"><p class="name"><a href="#setmergepass">setMergePass</a>(<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Compiler/CompilerPassInterface.md">CompilerPassInterface</a> pass)</p><p class="description">Sets the Merge Pass.</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#setOptimizationPasses">setOptimizationPasses</a>(array passes)</p><p class="description">Sets the Optimization passes.</p></td>
+<td class="description"><p class="name"><a href="#setoptimizationpasses">setOptimizationPasses</a>(array passes)</p><p class="description">Sets the Optimization passes.</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#setRemovingPasses">setRemovingPasses</a>(array passes)</p><p class="description">Sets the Removing passes.</p></td>
+<td class="description"><p class="name"><a href="#setremovingpasses">setRemovingPasses</a>(array passes)</p><p class="description">Sets the Removing passes.</p></td>
 </tr>
 </table>
 

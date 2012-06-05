@@ -49,7 +49,7 @@
 <tr><th colspan="2">Field Summary</th></tr>
 <tr>
 <td><span class='k'>protected </span> <span class='nx'>object Memcache</span></td>
-<td class="description"><p class="name" ><a href="#mc"> $mc</a>
+<td class="description"><p class="name" ><a href="mc"> $mc</a>
                                 </p><p class="description">Memcache connection object</p></td>
 </tr>
 </table>
@@ -114,7 +114,20 @@ The options are:
 
 <table class="inherit">
 <tr><th colspan="2">Methods inherited from HTTP_Session2\HTTP_Session2_Container</th></tr>
-<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/HTTP_Session2/HTTP_Session2_Container.md#__construct">__construct</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/HTTP_Session2/HTTP_Session2_Container.md#parseOptions">parseOptions</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/HTTP_Session2/HTTP_Session2_Container.md#set">set</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/HTTP_Session2/HTTP_Session2_Container.md#setDefaults">setDefaults</a></td></tr></table>
+<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/HTTP_Session2/HTTP_Session2_Container.md#__construct">__construct</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/HTTP_Session2/HTTP_Session2_Container.md#parseoptions">parseOptions</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/HTTP_Session2/HTTP_Session2_Container.md#set">set</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/HTTP_Session2/HTTP_Session2_Container.md#setdefaults">setDefaults</a></td></tr></table>
+
+##Field Detail##
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/Memcache.php#L45" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Memcache.php at line 45</a>
+
+<h3 id="mc">mc</h3>
+<span class='k'>protected </span> <span class='nx'>object Memcache</span><span class='no'> $mc</span><span class='o'> = null</span>
+
+<div class="details">
+<p>Memcache connection object</p>
+</div>
+
+- - -
 
 <h2 id="detail_method">Constructor Detail</h2>
 

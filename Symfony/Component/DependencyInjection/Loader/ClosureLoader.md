@@ -56,7 +56,7 @@
 
 <table class="inherit">
 <tr><th colspan="2">Methods inherited from Hirudo\Lang\Loader</th></tr>
-<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Lang/Loader.md#arrayToPaths">arrayToPaths</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Lang/Loader.md#isDir">isDir</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Lang/Loader.md#isFile">isFile</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Lang/Loader.md#toPaths">toPaths</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Lang/Loader.md#toSinglePath">toSinglePath</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Lang/Loader.md#using">using</a></td></tr></table>
+<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Lang/Loader.md#arraytopaths">arrayToPaths</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Lang/Loader.md#isdir">isDir</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Lang/Loader.md#isfile">isFile</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Lang/Loader.md#topaths">toPaths</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Lang/Loader.md#tosinglepath">toSinglePath</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Lang/Loader.md#using">using</a></td></tr></table>
 
 <h2 id="detail_method">Constructor Detail</h2>
 

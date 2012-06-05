@@ -28,72 +28,72 @@
 <tr><th colspan="2">Field Summary</th></tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>mixed</span></td>
-<td class="description"><p class="name" ><a href="#retvalue"> $retvalue</a>
+<td class="description"><p class="name" ><a href="retvalue"> $retvalue</a>
                                 </p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>mixed</span></td>
-<td class="description"><p class="name" ><a href="#successful"> $successful</a>
+<td class="description"><p class="name" ><a href="successful"> $successful</a>
                                 </p></td>
 </tr>
 <tr>
 <td><span class='k'>static </span> <span class='nx'>mixed</span></td>
-<td class="description"><p class="name" ><a href="#yyExpectedTokens"> $yyExpectedTokens</a>
+<td class="description"><p class="name" ><a href="yyexpectedtokens"> $yyExpectedTokens</a>
                                 </p></td>
 </tr>
 <tr>
 <td><span class='k'>static </span> <span class='nx'>mixed</span></td>
-<td class="description"><p class="name" ><a href="#yyReduceMap"> $yyReduceMap</a>
+<td class="description"><p class="name" ><a href="yyreducemap"> $yyReduceMap</a>
                                 </p></td>
 </tr>
 <tr>
 <td><span class='k'>static </span> <span class='nx'>mixed</span></td>
-<td class="description"><p class="name" ><a href="#yyRuleInfo"> $yyRuleInfo</a>
+<td class="description"><p class="name" ><a href="yyruleinfo"> $yyRuleInfo</a>
                                 </p></td>
 </tr>
 <tr>
 <td><span class='k'>static </span> <span class='nx'>mixed</span></td>
-<td class="description"><p class="name" ><a href="#yyRuleName"> $yyRuleName</a>
+<td class="description"><p class="name" ><a href="yyrulename"> $yyRuleName</a>
                                 </p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>mixed</span></td>
-<td class="description"><p class="name" ><a href="#yyTokenName"> $yyTokenName</a>
+<td class="description"><p class="name" ><a href="yytokenname"> $yyTokenName</a>
                                 </p></td>
 </tr>
 <tr>
 <td><span class='k'>static </span> <span class='nx'>mixed</span></td>
-<td class="description"><p class="name" ><a href="#yyTraceFILE"> $yyTraceFILE</a>
+<td class="description"><p class="name" ><a href="yytracefile"> $yyTraceFILE</a>
                                 </p></td>
 </tr>
 <tr>
 <td><span class='k'>static </span> <span class='nx'>mixed</span></td>
-<td class="description"><p class="name" ><a href="#yyTracePrompt"> $yyTracePrompt</a>
+<td class="description"><p class="name" ><a href="yytraceprompt"> $yyTracePrompt</a>
                                 </p></td>
 </tr>
 <tr>
 <td><span class='k'>static </span> <span class='nx'>mixed</span></td>
-<td class="description"><p class="name" ><a href="#yy_default"> $yy_default</a>
+<td class="description"><p class="name" ><a href="yy_default"> $yy_default</a>
                                 </p></td>
 </tr>
 <tr>
 <td><span class='k'>static </span> <span class='nx'>mixed</span></td>
-<td class="description"><p class="name" ><a href="#yy_lookahead"> $yy_lookahead</a>
+<td class="description"><p class="name" ><a href="yy_lookahead"> $yy_lookahead</a>
                                 </p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>mixed</span></td>
-<td class="description"><p class="name" ><a href="#yyerrcnt"> $yyerrcnt</a>
+<td class="description"><p class="name" ><a href="yyerrcnt"> $yyerrcnt</a>
                                 </p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>mixed</span></td>
-<td class="description"><p class="name" ><a href="#yyidx"> $yyidx</a>
+<td class="description"><p class="name" ><a href="yyidx"> $yyidx</a>
                                 </p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>mixed</span></td>
-<td class="description"><p class="name" ><a href="#yystack"> $yystack</a>
+<td class="description"><p class="name" ><a href="yystack"> $yystack</a>
                                 </p></td>
 </tr>
 </table>
@@ -233,6 +233,167 @@
 <td class="description"><p class="name"><a href="#doparse">doParse</a>(mixed yymajor, mixed yytokenvalue)</p></td>
 </tr>
 </table>
+
+##Field Detail##
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_configfileparser.php#L93" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_configfileparser.php at line 93</a>
+
+<h3 id="retvalue">retvalue</h3>
+<span class='k'></span> <span class='nx'>mixed</span><span class='no'> $retvalue</span><span class='o'> = 0</span>
+
+<div class="details">
+
+</div>
+
+- - -
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_configfileparser.php#L92" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_configfileparser.php at line 92</a>
+
+<h3 id="successful">successful</h3>
+<span class='k'></span> <span class='nx'>mixed</span><span class='no'> $successful</span><span class='o'> = true</span>
+
+<div class="details">
+
+</div>
+
+- - -
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_configfileparser.php#L185" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_configfileparser.php at line 185</a>
+
+<h3 id="yyExpectedTokens">yyExpectedTokens</h3>
+<span class='k'>static </span> <span class='nx'>mixed</span><span class='no'> $yyExpectedTokens</span><span class='o'> = array(...)</span>
+
+<div class="details">
+
+</div>
+
+- - -
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_configfileparser.php#L493" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_configfileparser.php at line 493</a>
+
+<h3 id="yyReduceMap">yyReduceMap</h3>
+<span class='k'>static </span> <span class='nx'>mixed</span><span class='no'> $yyReduceMap</span><span class='o'> = array(...)</span>
+
+<div class="details">
+
+</div>
+
+- - -
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_configfileparser.php#L491" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_configfileparser.php at line 491</a>
+
+<h3 id="yyRuleInfo">yyRuleInfo</h3>
+<span class='k'>static </span> <span class='nx'>mixed</span><span class='no'> $yyRuleInfo</span><span class='o'> = array(...)</span>
+
+<div class="details">
+
+</div>
+
+- - -
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_configfileparser.php#L212" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_configfileparser.php at line 212</a>
+
+<h3 id="yyRuleName">yyRuleName</h3>
+<span class='k'>static </span> <span class='nx'>mixed</span><span class='no'> $yyRuleName</span><span class='o'> = array(...)</span>
+
+<div class="details">
+
+</div>
+
+- - -
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_configfileparser.php#L210" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_configfileparser.php at line 210</a>
+
+<h3 id="yyTokenName">yyTokenName</h3>
+<span class='k'></span> <span class='nx'>mixed</span><span class='no'> $yyTokenName</span><span class='o'> = array(...)</span>
+
+<div class="details">
+
+</div>
+
+- - -
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_configfileparser.php#L204" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_configfileparser.php at line 204</a>
+
+<h3 id="yyTraceFILE">yyTraceFILE</h3>
+<span class='k'>static </span> <span class='nx'>mixed</span><span class='no'> $yyTraceFILE</span><div class="details">
+
+</div>
+
+- - -
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_configfileparser.php#L205" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_configfileparser.php at line 205</a>
+
+<h3 id="yyTracePrompt">yyTracePrompt</h3>
+<span class='k'>static </span> <span class='nx'>mixed</span><span class='no'> $yyTracePrompt</span><div class="details">
+
+</div>
+
+- - -
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_configfileparser.php#L186" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_configfileparser.php at line 186</a>
+
+<h3 id="yy_default">yy_default</h3>
+<span class='k'>static </span> <span class='nx'>mixed</span><span class='no'> $yy_default</span><span class='o'> = array(...)</span>
+
+<div class="details">
+
+</div>
+
+- - -
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_configfileparser.php#L182" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_configfileparser.php at line 182</a>
+
+<h3 id="yy_lookahead">yy_lookahead</h3>
+<span class='k'>static </span> <span class='nx'>mixed</span><span class='no'> $yy_lookahead</span><span class='o'> = array(...)</span>
+
+<div class="details">
+
+</div>
+
+- - -
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_configfileparser.php#L207" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_configfileparser.php at line 207</a>
+
+<h3 id="yyerrcnt">yyerrcnt</h3>
+<span class='k'></span> <span class='nx'>mixed</span><span class='no'> $yyerrcnt</span><div class="details">
+
+</div>
+
+- - -
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_configfileparser.php#L206" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_configfileparser.php at line 206</a>
+
+<h3 id="yyidx">yyidx</h3>
+<span class='k'></span> <span class='nx'>mixed</span><span class='no'> $yyidx</span><div class="details">
+
+</div>
+
+- - -
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_configfileparser.php#L208" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_configfileparser.php at line 208</a>
+
+<h3 id="yystack">yystack</h3>
+<span class='k'></span> <span class='nx'>mixed</span><span class='no'> $yystack</span><span class='o'> = array()</span>
+
+<div class="details">
+
+</div>
+
+- - -
 
 <h2 id="detail_method">Constructor Detail</h2>
 

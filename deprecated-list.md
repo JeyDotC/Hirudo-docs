@@ -12,7 +12,7 @@
 * <a href="#deprecated_global">Deprecated Globals</a>
 
 <table id="deprecated_class" class="detail">
-<tr><th colspan="2" class="title">Deprecated Classes</th></tr>
+<tr><th colspan="2">Deprecated Classes</th></tr>
 <tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/HTTP_Session2/HTTP_Session2_Container_DB.md">HTTP_Session2\HTTP_Session2_Container_DB</a></td><td class="description">Database container for session dataCreate the following table to store session data
 
 CREATE TABLE `sessiondata` (
@@ -44,11 +44,11 @@ PRIMARY KEY (`id`)
 <table id="deprecated_global" class="detail">
 <tr><th colspan="2" class="title">Deprecated Globals</th></tr>
 <tr>
-<td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-globals.md#SMARTY_RESOURCE_CHAR_SET">Default namespace\SMARTY_RESOURCE_CHAR_SET</a></td>
+<td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-globals.md#smarty_resource_char_set">Default namespace\SMARTY_RESOURCE_CHAR_SET</a></td>
 <td class="description"></td>
 </tr>
 <tr>
-<td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-globals.md#SMARTY_RESOURCE_DATE_FORMAT">Default namespace\SMARTY_RESOURCE_DATE_FORMAT</a></td>
+<td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-globals.md#smarty_resource_date_format">Default namespace\SMARTY_RESOURCE_DATE_FORMAT</a></td>
 <td class="description"></td>
 </tr>
 </table>

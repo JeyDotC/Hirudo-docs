@@ -37,12 +37,12 @@ It is generated from the internal.templateparser.y file</p></div>
 <tr><th colspan="2">Field Summary</th></tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>mixed</span></td>
-<td class="description"><p class="name" ><a href="#metadata"> $metadata</a>
+<td class="description"><p class="name" ><a href="metadata"> $metadata</a>
                                 </p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>mixed</span></td>
-<td class="description"><p class="name" ><a href="#string"> $string</a>
+<td class="description"><p class="name" ><a href="string"> $string</a>
                                 </p></td>
 </tr>
 </table>
@@ -74,6 +74,31 @@ It is generated from the internal.templateparser.y file</p></div>
 <td class="description"><p class="name"><a href="#offsetunset">offsetUnset</a>(mixed offset)</p></td>
 </tr>
 </table>
+
+##Field Detail##
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templateparser.php#L15" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_templateparser.php at line 15</a>
+
+<h3 id="metadata">metadata</h3>
+<span class='k'></span> <span class='nx'>mixed</span><span class='no'> $metadata</span><span class='o'> = array()</span>
+
+<div class="details">
+
+</div>
+
+- - -
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templateparser.php#L14" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_templateparser.php at line 14</a>
+
+<h3 id="string">string</h3>
+<span class='k'></span> <span class='nx'>mixed</span><span class='no'> $string</span><span class='o'> = ''</span>
+
+<div class="details">
+
+</div>
+
+- - -
 
 <h2 id="detail_method">Constructor Detail</h2>
 
