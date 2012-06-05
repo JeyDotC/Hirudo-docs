@@ -21,8 +21,10 @@
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Cache/CacheProvider.php#L35" target='_blank'>framework\libs\doctrine-common\Doctrine\Common\Cache\CacheProvider.php at line 35</a>
 
 <h3 id="DOCTRINE_NAMESPACE_CACHEKEY">DOCTRINE_NAMESPACE_CACHEKEY</h3>
-```php
-public final  mixed **DOCTRINE_NAMESPACE_CACHEKEY** = $data, $lifeTime = 0```
+
+
+public final  mixed **DOCTRINE_NAMESPACE_CACHEKEY** = $data, $lifeTime = 0
+
 <div class="details">
 </div>
 
@@ -32,8 +34,10 @@ public final  mixed **DOCTRINE_NAMESPACE_CACHEKEY** = $data, $lifeTime = 0```
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Cache/Cache.php#L38" target='_blank'>framework\libs\doctrine-common\Doctrine\Common\Cache\Cache.php at line 38</a>
 
 <h3 id="STATS_HITS">STATS_HITS</h3>
-```php
-public final  mixed **STATS_HITS** = $data, $lifeTime = 0```
+
+
+public final  mixed **STATS_HITS** = $data, $lifeTime = 0
+
 <div class="details">
 </div>
 

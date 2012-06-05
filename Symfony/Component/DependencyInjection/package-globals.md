@@ -17,8 +17,10 @@
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ContainerInterface.php#L24" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerInterface.php at line 24</a>
 
 <h3 id="EXCEPTION_ON_INVALID_REFERENCE">EXCEPTION_ON_INVALID_REFERENCE</h3>
-```php
-public final  mixed **EXCEPTION_ON_INVALID_REFERENCE** = $service, $scope = self::SCOPE_CONTAINER```
+
+
+public final  mixed **EXCEPTION_ON_INVALID_REFERENCE** = $service, $scope = self::SCOPE_CONTAINER
+
 <div class="details">
 </div>
 

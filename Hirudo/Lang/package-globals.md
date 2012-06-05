@@ -17,8 +17,10 @@
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Lang/Loader.php#L48" target='_blank'>framework\hirudo\Hirudo\Lang\Loader.php at line 48</a>
 
 <h3 id="DEFAULT_EXT">DEFAULT_EXT</h3>
-```php
-public final  mixed **DEFAULT_EXT** = $DS```
+
+
+public final  mixed **DEFAULT_EXT** = $DS
+
 <div class="details">
 </div>
 

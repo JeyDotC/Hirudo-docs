@@ -17,8 +17,10 @@
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Util/Message.php#L31" target='_blank'>framework\hirudo\Hirudo\Core\Util\Message.php at line 31</a>
 
 <h3 id="INFO">INFO</h3>
-```php
-public final  mixed **INFO** = $title = &quot;&quot;, $type = self::INFO```
+
+
+public final  mixed **INFO** = $title = &quot;&quot;, $type = self::INFO
+
 <div class="details">
 </div>
 

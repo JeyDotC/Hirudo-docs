@@ -17,8 +17,10 @@
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Events/BeforeTaskEvent.php#L36" target='_blank'>framework\hirudo\Hirudo\Core\Events\BeforeTaskEvent.php at line 36</a>
 
 <h3 id="NAME">NAME</h3>
-```php
-public final  mixed **NAME** = ModuleCall $call```
+
+
+public final  mixed **NAME** = ModuleCall $call
+
 <div class="details">
 </div>
 

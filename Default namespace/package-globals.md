@@ -110,8 +110,10 @@
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/init.php#L25" target='_blank'>init.php at line 25</a>
 
 <h3 id="DS">DS</h3>
-```php
-public final  mixed **DS** = DIRECTORY_SEPARATOR```
+
+
+public final  mixed **DS** = DIRECTORY_SEPARATOR
+
 <div class="details">
 <p>«Copyright 2012 Jeysson José Guevara Mendivil(JeyDotC)»</p><p>This file is part of Hirudo.</p><p>Hirudo is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -129,8 +131,10 @@ along with Hirudo.  If not, see <http://www.gnu.org/licenses/>.</p>
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templateparser.php#L91" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_templateparser.php at line 91</a>
 
 <h3 id="Err1">Err1</h3>
-```php
-public final  mixed **Err1** = $compiler```
+
+
+public final  mixed **Err1** = $compiler
+
 <div class="details">
 </div>
 
@@ -140,8 +144,10 @@ public final  mixed **Err1** = $compiler```
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/init.php#L29" target='_blank'>init.php at line 29</a>
 
 <h3 id="HIRUDO_ROOT">HIRUDO_ROOT</h3>
-```php
-public final  mixed **HIRUDO_ROOT** = dirname(__FILE__```
+
+
+public final  mixed **HIRUDO_ROOT** = dirname(__FILE__
+
 <div class="details">
 </div>
 
@@ -151,8 +157,10 @@ public final  mixed **HIRUDO_ROOT** = dirname(__FILE__```
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/Smarty.class.php#L46" target='_blank'>framework\libs\smarty\Smarty.class.php at line 46</a>
 
 <h3 id="SMARTY_DIR">SMARTY_DIR</h3>
-```php
-public final  mixed **SMARTY_DIR** = dirname(__FILE__```
+
+
+public final  mixed **SMARTY_DIR** = dirname(__FILE__
+
 <div class="details">
 <p>set SMARTY_DIR to absolute path to Smarty library files.
 Sets SMARTY_DIR only if user application has not already defined it.</p>
@@ -164,8 +172,10 @@ Sets SMARTY_DIR only if user application has not already defined it.</p>
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/Smarty.class.php#L60" target='_blank'>framework\libs\smarty\Smarty.class.php at line 60</a>
 
 <h3 id="SMARTY_MBSTRING">SMARTY_MBSTRING</h3>
-```php
-public final  mixed **SMARTY_MBSTRING** = function_exists('mb_strlen'```
+
+
+public final  mixed **SMARTY_MBSTRING** = function_exists('mb_strlen'
+
 <div class="details">
 </div>
 
@@ -175,8 +185,10 @@ public final  mixed **SMARTY_MBSTRING** = function_exists('mb_strlen'```
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/Smarty.class.php#L57" target='_blank'>framework\libs\smarty\Smarty.class.php at line 57</a>
 
 <h3 id="SMARTY_PLUGINS_DIR">SMARTY_PLUGINS_DIR</h3>
-```php
-public final  mixed **SMARTY_PLUGINS_DIR** = SMARTY_DIR . 'plugins' . DS```
+
+
+public final  mixed **SMARTY_PLUGINS_DIR** = SMARTY_DIR . 'plugins' . DS
+
 <div class="details">
 </div>
 
@@ -186,8 +198,10 @@ public final  mixed **SMARTY_PLUGINS_DIR** = SMARTY_DIR . 'plugins' . DS```
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/Smarty.class.php#L67" target='_blank'>framework\libs\smarty\Smarty.class.php at line 67</a>
 
 <h3 id="SMARTY_RESOURCE_CHAR_SET">SMARTY_RESOURCE_CHAR_SET</h3>
-```php
-public final  mixed **SMARTY_RESOURCE_CHAR_SET** = SMARTY_MBSTRING ? 'UTF-8' : 'ISO-8859-1'```
+
+
+public final  mixed **SMARTY_RESOURCE_CHAR_SET** = SMARTY_MBSTRING ? 'UTF-8' : 'ISO-8859-1'
+
 <div class="details">
 <p></p>
 </div>
@@ -202,8 +216,10 @@ public final  mixed **SMARTY_RESOURCE_CHAR_SET** = SMARTY_MBSTRING ? 'UTF-8' : '
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/Smarty.class.php#L73" target='_blank'>framework\libs\smarty\Smarty.class.php at line 73</a>
 
 <h3 id="SMARTY_RESOURCE_DATE_FORMAT">SMARTY_RESOURCE_DATE_FORMAT</h3>
-```php
-public final  str **SMARTY_RESOURCE_DATE_FORMAT** = '%b %e, %Y'```
+
+
+public final  str **SMARTY_RESOURCE_DATE_FORMAT** = '%b %e, %Y'
+
 <div class="details">
 <p></p>
 </div>
@@ -218,8 +234,10 @@ public final  str **SMARTY_RESOURCE_DATE_FORMAT** = '%b %e, %Y'```
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/Smarty.class.php#L80" target='_blank'>framework\libs\smarty\Smarty.class.php at line 80</a>
 
 <h3 id="SMARTY_SPL_AUTOLOAD">SMARTY_SPL_AUTOLOAD</h3>
-```php
-public final  int **SMARTY_SPL_AUTOLOAD**```
+
+
+public final  int **SMARTY_SPL_AUTOLOAD**
+
 <div class="details">
 <p>register the class autoloader</p>
 </div>
@@ -230,8 +248,10 @@ public final  int **SMARTY_SPL_AUTOLOAD**```
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/Smarty.class.php#L54" target='_blank'>framework\libs\smarty\Smarty.class.php at line 54</a>
 
 <h3 id="SMARTY_SYSPLUGINS_DIR">SMARTY_SYSPLUGINS_DIR</h3>
-```php
-public final  mixed **SMARTY_SYSPLUGINS_DIR** = SMARTY_DIR . 'sysplugins' . DS```
+
+
+public final  mixed **SMARTY_SYSPLUGINS_DIR** = SMARTY_DIR . 'sysplugins' . DS
+
 <div class="details">
 <p>set SMARTY_SYSPLUGINS_DIR to absolute path to Smarty internal plugins.
 Sets SMARTY_SYSPLUGINS_DIR only if user application has not already defined it.</p>
@@ -243,11 +263,13 @@ Sets SMARTY_SYSPLUGINS_DIR only if user application has not already defined it.<
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_configfileparser.php#L181" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_configfileparser.php at line 181</a>
 
 <h3 id="TPC_OPENB">TPC_OPENB</h3>
-```php
+
+
 public final  mixed **TPC_OPENB** = 30,   34,   33,   24,   13,   19,   25,   35,   21,
  /*    10 */    59,    8,    3,    1,   20,   12,   14,   31,   20,   12,
  /*    20 */    15,   17,   23,   18,   27,   26,    4,    5,    6,   32,
- /*    30 */     2,   11,   28,   22,   16,    9,    7,   10,```
+ /*    30 */     2,   11,   28,   22,   16,    9,    7,   10,
+
 <div class="details">
 </div>
 
@@ -257,7 +279,8 @@ public final  mixed **TPC_OPENB** = 30,   34,   33,   24,   13,   19,   25,   35
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templateparser.php#L131" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_templateparser.php at line 131</a>
 
 <h3 id="TP_VERT">TP_VERT</h3>
-```php
+
+
 public final  mixed **TP_VERT** = 317,  318,  320,  319,  316,  315,  311,  310,  312,
  /*    10 */   313,  314,  321,  322,  197,  193,  187,   43,  591,   95,
  /*    20 */   255,  318,  320,    6,  107,  292,   38,   11,   42,  154,
@@ -514,7 +537,8 @@ public final  mixed **TP_VERT** = 317,  318,  320,  319,  316,  315,  311,  310,
  /*  2530 */   326,   24,   22,  326,  190,  169,  326,  326,  200,  326,
  /*  2540 */   326,  326,  326,  326,  292,  200,  326,   24,   22,  326,
  /*  2550 */   326,  326,  326,  326,  326,  326,  326,  326,  326,  326,
- /*  2560 */   326,  200,```
+ /*  2560 */   326,  200,
+
 <div class="details">
 </div>
 
@@ -524,8 +548,10 @@ public final  mixed **TP_VERT** = 317,  318,  320,  319,  316,  315,  311,  310,
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_configfileparser.php#L187" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_configfileparser.php at line 187</a>
 
 <h3 id="YYNOCODE">YYNOCODE</h3>
-```php
-public final  mixed **YYNOCODE** = $zTracePrompt```
+
+
+public final  mixed **YYNOCODE** = $zTracePrompt
+
 <div class="details">
 </div>
 
@@ -535,9 +561,11 @@ public final  mixed **YYNOCODE** = $zTracePrompt```
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_configfileparser.php#L184" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_configfileparser.php at line 184</a>
 
 <h3 id="YY_REDUCE_USE_DFLT">YY_REDUCE_USE_DFLT</h3>
-```php
+
+
 public final  mixed **YY_REDUCE_USE_DFLT** = -1,   -1,   -1,  -20,   10,   12,    8,   14,    7,
- /*    10 */   -11,```
+ /*    10 */   -11,
+
 <div class="details">
 </div>
 
@@ -547,9 +575,11 @@ public final  mixed **YY_REDUCE_USE_DFLT** = -1,   -1,   -1,  -20,   10,   12,  
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_configfileparser.php#L183" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_configfileparser.php at line 183</a>
 
 <h3 id="YY_SHIFT_USE_DFLT">YY_SHIFT_USE_DFLT</h3>
-```php
+
+
 public final  mixed **YY_SHIFT_USE_DFLT** = 1,    1,    1,   -7,   -3,   -3,   30,   -8,   -8,
- /*    10 */    -8,   19,    5,    3,   15,   16,   24,   25,   32,   20,```
+ /*    10 */    -8,   19,    5,    3,   15,   16,   24,   25,   32,   20,
+
 <div class="details">
 </div>
 
@@ -559,8 +589,10 @@ public final  mixed **YY_SHIFT_USE_DFLT** = 1,    1,    1,   -7,   -3,   -3,   3
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/init.php#L50" target='_blank'>init.php at line 50</a>
 
 <h3 id="autoloadPath">autoloadPath</h3>
-```php
-public  mixed **autoloadPath** = Loader::toSinglePath(&quot;ext::config::Autoload&quot;```
+
+
+public  mixed **autoloadPath** = Loader::toSinglePath(&quot;ext::config::Autoload&quot;
+
 <div class="details">
 </div>
 
@@ -570,10 +602,12 @@ public  mixed **autoloadPath** = Loader::toSinglePath(&quot;ext::config::Autoloa
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo.php#L27" target='_blank'>hirudo.php at line 27</a>
 
 <h3 id="controller">controller</h3>
-```php
+
+
 public  mixed **controller** = new JoomlaFrontController(new ModulesManager(array(
                     //The request data.
-                    &quot;Hirudo\Impl\Joomla\JoomlaRequest&quot;```
+                    &quot;Hirudo\Impl\Joomla\JoomlaRequest&quot;
+
 <div class="details">
 <p>«Copyright 2012 Jeysson José Guevara Mendivil(JeyDotC)»</p><p>This file is part of Hirudo.</p><p>Hirudo is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -591,8 +625,10 @@ along with Hirudo.  If not, see <http://www.gnu.org/licenses/>.</p>
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/init.php#L56" target='_blank'>init.php at line 56</a>
 
 <h3 id="loader">loader</h3>
-```php
-public  mixed **loader** = new UniversalClassLoader```
+
+
+public  mixed **loader** = new UniversalClassLoader
+
 <div class="details">
 </div>
 
@@ -602,10 +638,12 @@ public  mixed **loader** = new UniversalClassLoader```
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/index.php#L26" target='_blank'>index.php at line 26</a>
 
 <h3 id="manager">manager</h3>
-```php
+
+
 public  mixed **manager** = new ModulesManager(array(
             //The request data.
-            'Hirudo\Impl\StandAlone\SARequest'```
+            'Hirudo\Impl\StandAlone\SARequest'
+
 <div class="details">
 <p>«Copyright 2012 Jeysson José Guevara Mendivil(JeyDotC)»</p><p>This file is part of Hirudo.</p><p>Hirudo is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -623,8 +661,10 @@ along with Hirudo.  If not, see <http://www.gnu.org/licenses/>.</p>
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/init.php#L51" target='_blank'>init.php at line 51</a>
 
 <h3 id="namespaces">namespaces</h3>
-```php
-public  mixed **namespaces** = Yaml::parse($autoloadPath```
+
+
+public  mixed **namespaces** = Yaml::parse($autoloadPath
+
 <div class="details">
 </div>
 
@@ -634,8 +674,10 @@ public  mixed **namespaces** = Yaml::parse($autoloadPath```
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/Smarty.class.php#L84" target='_blank'>framework\libs\smarty\Smarty.class.php at line 84</a>
 
 <h3 id="registeredAutoLoadFunctions">registeredAutoLoadFunctions</h3>
-```php
-public  mixed **registeredAutoLoadFunctions** = spl_autoload_functions```
+
+
+public  mixed **registeredAutoLoadFunctions** = spl_autoload_functions
+
 <div class="details">
 </div>
 
@@ -645,8 +687,10 @@ public  mixed **registeredAutoLoadFunctions** = spl_autoload_functions```
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Joomla/views/_/tmpl/default.php#L3" target='_blank'>framework\hirudo\Hirudo\Impl\Joomla\views\_\tmpl\default.php at line 3</a>
 
 <h3 id="this">this</h3>
-```php
-public  mixed **this**```
+
+
+public  mixed **this**
+
 <div class="details">
 </div>
 
@@ -656,8 +700,10 @@ public  mixed **this**```
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/init.php#L53" target='_blank'>init.php at line 53</a>
 
 <h3 id="value">value</h3>
-```php
-public  mixed **value**```
+
+
+public  mixed **value**
+
 <div class="details">
 </div>
 

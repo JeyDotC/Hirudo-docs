@@ -17,8 +17,10 @@
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L117" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 117</a>
 
 <h3 id="STARTED">STARTED</h3>
-```php
-public final  mixed **STARTED** = $container_options = null```
+
+
+public final  mixed **STARTED** = $container_options = null
+
 <div class="details">
 <p></p>
 </div>

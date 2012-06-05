@@ -17,8 +17,10 @@
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Context/Session.php#L32" target='_blank'>framework\hirudo\Hirudo\Core\Context\Session.php at line 32</a>
 
 <h3 id="ACTIVE">ACTIVE</h3>
-```php
-public final  mixed **ACTIVE** = $value```
+
+
+public final  mixed **ACTIVE** = $value
+
 <div class="details">
 <p>Session is active.</p>
 </div>

@@ -17,11 +17,13 @@
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/Annotation/Target.php#L33" target='_blank'>framework\libs\doctrine-common\Doctrine\Common\Annotations\Annotation\Target.php at line 33</a>
 
 <h3 id="TARGET_CLASS">TARGET_CLASS</h3>
-```php
+
+
 public final  mixed **TARGET_CLASS** = 'CLASS'       =&gt; self::TARGET_CLASS,
         'METHOD'      =&gt; self::TARGET_METHOD,
         'PROPERTY'    =&gt; self::TARGET_PROPERTY,
-        'ANNOTATION'  =&gt; self::TARGET_ANNOTATION,```
+        'ANNOTATION'  =&gt; self::TARGET_ANNOTATION,
+
 <div class="details">
 </div>
 

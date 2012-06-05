@@ -17,8 +17,10 @@
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/ChromePhp.php#L30" target='_blank'>ChromePhp.php at line 30</a>
 
 <h3 id="VERSION">VERSION</h3>
-```php
-public final  string **VERSION** = 'columns' =&gt; array('label', 'log', 'backtrace', 'type'```
+
+
+public final  string **VERSION** = 'columns' =&gt; array('label', 'log', 'backtrace', 'type'
+
 <div class="details">
 <p></p>
 </div>
