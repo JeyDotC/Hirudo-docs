@@ -38,7 +38,7 @@
 <tr><th colspan="2">Field Summary</th></tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>int</span></td>
-<td class="description"><p class="name" ><a href="mbstring_overload"> $mbstring_overload</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_Resource_Extends.md#mbstring_overload"> $mbstring_overload</a>
                                 </p><p class="description">mbstring.overload flag</p></td>
 </tr>
 </table>

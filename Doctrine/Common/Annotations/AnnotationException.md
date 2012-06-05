@@ -39,24 +39,24 @@
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td><span class='k'>static </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Doctrine/Common/Annotations/AnnotationException.md#syntaxerror>AnnotationException</a></span></td>
+<td><span class='k'>static </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Doctrine/Common/Annotations/AnnotationException.md>AnnotationException</a></span></td>
 <td class="description"><p class="name"><a href="#syntaxerror">syntaxError</a>(string message)</p><p class="description">Creates a new AnnotationException describing a Syntax error.</p></td>
 </tr>
 <tr>
-<td><span class='k'>static </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Doctrine/Common/Annotations/AnnotationException.md#semanticalerror>AnnotationException</a></span></td>
+<td><span class='k'>static </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Doctrine/Common/Annotations/AnnotationException.md>AnnotationException</a></span></td>
 <td class="description"><p class="name"><a href="#semanticalerror">semanticalError</a>(string message)</p><p class="description">Creates a new AnnotationException describing a Semantical error.</p></td>
 </tr>
 <tr>
-<td><span class='k'>static </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Doctrine/Common/Annotations/AnnotationException.md#creationerror>AnnotationException</a></span></td>
+<td><span class='k'>static </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Doctrine/Common/Annotations/AnnotationException.md>AnnotationException</a></span></td>
 <td class="description"><p class="name"><a href="#creationerror">creationError</a>(string message)</p><p class="description">Creates a new AnnotationException describing an error which occurred during
 the creation of the annotation.</p></td>
 </tr>
 <tr>
-<td><span class='k'>static </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Doctrine/Common/Annotations/AnnotationException.md#typeerror>AnnotationException</a></span></td>
+<td><span class='k'>static </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Doctrine/Common/Annotations/AnnotationException.md>AnnotationException</a></span></td>
 <td class="description"><p class="name"><a href="#typeerror">typeError</a>(string attributeName, string annotationName, string context, string expected, mixed actual)</p><p class="description">Creates a new AnnotationException describing an type error of an attribute.</p></td>
 </tr>
 <tr>
-<td><span class='k'>static </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Doctrine/Common/Annotations/AnnotationException.md#requirederror>AnnotationException</a></span></td>
+<td><span class='k'>static </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Doctrine/Common/Annotations/AnnotationException.md>AnnotationException</a></span></td>
 <td class="description"><p class="name"><a href="#requirederror">requiredError</a>(string attributeName, string annotationName, string context, string expected)</p><p class="description">Creates a new AnnotationException describing an required error of an attribute.</p></td>
 </tr>
 </table>
@@ -66,7 +66,7 @@ the creation of the annotation.</p></td>
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/AnnotationException.php#L39" target='_blank'>framework\libs\doctrine-common\Doctrine\Common\Annotations\AnnotationException.php at line 39</a>
 
 <h3 id="syntaxError()">syntaxError</h3>
-<span class='k'>static </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Doctrine/Common/Annotations/AnnotationException.md#syntaxerror>AnnotationException</a></span> <span class='nf'>syntaxError</span> (string message)
+<span class='k'>static </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Doctrine/Common/Annotations/AnnotationException.md>AnnotationException</a></span> <span class='nf'>syntaxError</span> (string message)
 
 <div class="details">
 <p>Creates a new AnnotationException describing a Syntax error.</p><dl>
@@ -82,7 +82,7 @@ the creation of the annotation.</p></td>
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/AnnotationException.php#L50" target='_blank'>framework\libs\doctrine-common\Doctrine\Common\Annotations\AnnotationException.php at line 50</a>
 
 <h3 id="semanticalError()">semanticalError</h3>
-<span class='k'>static </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Doctrine/Common/Annotations/AnnotationException.md#semanticalerror>AnnotationException</a></span> <span class='nf'>semanticalError</span> (string message)
+<span class='k'>static </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Doctrine/Common/Annotations/AnnotationException.md>AnnotationException</a></span> <span class='nf'>semanticalError</span> (string message)
 
 <div class="details">
 <p>Creates a new AnnotationException describing a Semantical error.</p><dl>
@@ -98,7 +98,7 @@ the creation of the annotation.</p></td>
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/AnnotationException.php#L63" target='_blank'>framework\libs\doctrine-common\Doctrine\Common\Annotations\AnnotationException.php at line 63</a>
 
 <h3 id="creationError()">creationError</h3>
-<span class='k'>static </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Doctrine/Common/Annotations/AnnotationException.md#creationerror>AnnotationException</a></span> <span class='nf'>creationError</span> (string message)
+<span class='k'>static </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Doctrine/Common/Annotations/AnnotationException.md>AnnotationException</a></span> <span class='nf'>creationError</span> (string message)
 
 <div class="details">
 <p>Creates a new AnnotationException describing an error which occurred during
@@ -115,7 +115,7 @@ the creation of the annotation.</p><dl>
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/AnnotationException.php#L79" target='_blank'>framework\libs\doctrine-common\Doctrine\Common\Annotations\AnnotationException.php at line 79</a>
 
 <h3 id="typeError()">typeError</h3>
-<span class='k'>static </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Doctrine/Common/Annotations/AnnotationException.md#typeerror>AnnotationException</a></span> <span class='nf'>typeError</span> (string attributeName, string annotationName, string context, string expected, mixed actual)
+<span class='k'>static </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Doctrine/Common/Annotations/AnnotationException.md>AnnotationException</a></span> <span class='nf'>typeError</span> (string attributeName, string annotationName, string context, string expected, mixed actual)
 
 <div class="details">
 <p>Creates a new AnnotationException describing an type error of an attribute.</p><dl>
@@ -131,7 +131,7 @@ the creation of the annotation.</p><dl>
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/doctrine-common/Doctrine/Common/Annotations/AnnotationException.php#L101" target='_blank'>framework\libs\doctrine-common\Doctrine\Common\Annotations\AnnotationException.php at line 101</a>
 
 <h3 id="requiredError()">requiredError</h3>
-<span class='k'>static </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Doctrine/Common/Annotations/AnnotationException.md#requirederror>AnnotationException</a></span> <span class='nf'>requiredError</span> (string attributeName, string annotationName, string context, string expected)
+<span class='k'>static </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Doctrine/Common/Annotations/AnnotationException.md>AnnotationException</a></span> <span class='nf'>requiredError</span> (string attributeName, string annotationName, string context, string expected)
 
 <div class="details">
 <p>Creates a new AnnotationException describing an required error of an attribute.</p><dl>

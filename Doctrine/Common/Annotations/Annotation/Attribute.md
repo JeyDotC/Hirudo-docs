@@ -36,17 +36,17 @@ to check the attribute type during the parsing process.</p></div>
 <tr><th colspan="2">Field Summary</th></tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name" ><a href="name"> $name</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Doctrine/Common/Annotations/Annotation/Attribute.md#name"> $name</a>
                                 </p><p class="description"></p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>boolean</span></td>
-<td class="description"><p class="name" ><a href="required"> $required</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Doctrine/Common/Annotations/Annotation/Attribute.md#required"> $required</a>
                                 </p><p class="description"></p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name" ><a href="type"> $type</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Doctrine/Common/Annotations/Annotation/Attribute.md#type"> $type</a>
                                 </p><p class="description"></p></td>
 </tr>
 </table>

@@ -36,62 +36,62 @@
 <tr><th colspan="2">Field Summary</th></tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name" ><a href="cache_id"> $cache_id</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Template_Cached.md#cache_id"> $cache_id</a>
                                 </p><p class="description">Template Cache Id (Smarty_Internal_Template::$cache_id)</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name" ><a href="compile_id"> $compile_id</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Template_Cached.md#compile_id"> $compile_id</a>
                                 </p><p class="description">Template Compile Id (Smarty_Internal_Template::$compile_id)</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name" ><a href="content"> $content</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Template_Cached.md#content"> $content</a>
                                 </p><p class="description">Source Content</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>boolean</span></td>
-<td class="description"><p class="name" ><a href="exists"> $exists</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Template_Cached.md#exists"> $exists</a>
                                 </p><p class="description">Source Existance</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name" ><a href="filepath"> $filepath</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Template_Cached.md#filepath"> $filepath</a>
                                 </p><p class="description">Source Filepath</p></td>
 </tr>
 <tr>
-<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Template_Cached.md#handler'>Smarty_CacheResource</a></span></td>
-<td class="description"><p class="name" ><a href="handler"> $handler</a>
+<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_CacheResource.md'>Smarty_CacheResource</a></span></td>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Template_Cached.md#handler"> $handler</a>
                                 </p><p class="description">CacheResource Handler</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>bool</span></td>
-<td class="description"><p class="name" ><a href="is_locked"> $is_locked</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Template_Cached.md#is_locked"> $is_locked</a>
                                 </p><p class="description">flag that cache is locked by this instance</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name" ><a href="lock_id"> $lock_id</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Template_Cached.md#lock_id"> $lock_id</a>
                                 </p><p class="description">Id for cache locking</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>boolean</span></td>
-<td class="description"><p class="name" ><a href="processed"> $processed</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Template_Cached.md#processed"> $processed</a>
                                 </p><p class="description">Cache was processed</p></td>
 </tr>
 <tr>
-<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Template_Cached.md#source'>Smarty_Template_Source</a></span></td>
-<td class="description"><p class="name" ><a href="source"> $source</a>
+<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Template_Source.md'>Smarty_Template_Source</a></span></td>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Template_Cached.md#source"> $source</a>
                                 </p><p class="description">Source Object</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>integer</span></td>
-<td class="description"><p class="name" ><a href="timestamp"> $timestamp</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Template_Cached.md#timestamp"> $timestamp</a>
                                 </p><p class="description">Source Timestamp</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>boolean</span></td>
-<td class="description"><p class="name" ><a href="valid"> $valid</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Template_Cached.md#valid"> $valid</a>
                                 </p><p class="description">Cache Is Valid</p></td>
 </tr>
 </table>
@@ -177,7 +177,7 @@
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_cacheresource.php#L246" target='_blank'>framework\libs\smarty\sysplugins\smarty_cacheresource.php at line 246</a>
 
 <h3 id="handler">handler</h3>
-<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Template_Cached.md#handler'>Smarty_CacheResource</a></span><span class='no'> $handler</span><span class='o'> = null</span>
+<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_CacheResource.md'>Smarty_CacheResource</a></span><span class='no'> $handler</span><span class='o'> = null</span>
 
 <div class="details">
 <p>CacheResource Handler</p>
@@ -225,7 +225,7 @@
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_cacheresource.php#L276" target='_blank'>framework\libs\smarty\sysplugins\smarty_cacheresource.php at line 276</a>
 
 <h3 id="source">source</h3>
-<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Template_Cached.md#source'>Smarty_Template_Source</a></span><span class='no'> $source</span><span class='o'> = null</span>
+<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Template_Source.md'>Smarty_Template_Source</a></span><span class='no'> $source</span><span class='o'> = null</span>
 
 <div class="details">
 <p>Source Object</p>

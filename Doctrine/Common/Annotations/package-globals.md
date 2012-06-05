@@ -8,7 +8,7 @@
 <tr><th colspan="2" class="title">Global Summary</th></tr>
 <tr>
 <td>final  mixed</td>
-<td class="description"><p class="name"><a href="#t_none">T_NONE</a></p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Doctrine/Common/Annotations/DocLexer.md#t_none">T_NONE</a></p></td>
 </tr>
 </table>
 

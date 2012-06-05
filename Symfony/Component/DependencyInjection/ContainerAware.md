@@ -39,8 +39,8 @@
 <table id="summary_field">
 <tr><th colspan="2">Field Summary</th></tr>
 <tr>
-<td><span class='k'>protected </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/ContainerAware.md#container'>ContainerInterface</a></span></td>
-<td class="description"><p class="name" ><a href="container"> $container</a>
+<td><span class='k'>protected </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/ContainerInterface.md'>ContainerInterface</a></span></td>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/ContainerAware.md#container"> $container</a>
                                 </p><p class="description"></p></td>
 </tr>
 </table>
@@ -58,7 +58,7 @@
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ContainerAware.php#L28" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerAware.php at line 28</a>
 
 <h3 id="container">container</h3>
-<span class='k'>protected </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/ContainerAware.md#container'>ContainerInterface</a></span><span class='no'> $container</span><span class='o'> = EXCEPTION_ON_INVALID_REFERENCE</span>
+<span class='k'>protected </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/ContainerInterface.md'>ContainerInterface</a></span><span class='no'> $container</span><span class='o'> = EXCEPTION_ON_INVALID_REFERENCE</span>
 
 <div class="details">
 <p></p><dl>

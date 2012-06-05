@@ -30,112 +30,112 @@
 <tr><th colspan="2">Field Summary</th></tr>
 <tr>
 <td><span class='k'>protected </span> <span class='nx'>array</span></td>
-<td class="description"><p class="name" ><a href="_config_dir"> $_config_dir</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Security.md#_config_dir"> $_config_dir</a>
                                 </p><p class="description">Cache for $config_dir lookups</p></td>
 </tr>
 <tr>
 <td><span class='k'>protected </span> <span class='nx'>array</span></td>
-<td class="description"><p class="name" ><a href="_php_resource_dir"> $_php_resource_dir</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Security.md#_php_resource_dir"> $_php_resource_dir</a>
                                 </p><p class="description">Cache for $php_resource_dir lookups</p></td>
 </tr>
 <tr>
 <td><span class='k'>protected </span> <span class='nx'>array</span></td>
-<td class="description"><p class="name" ><a href="_resource_dir"> $_resource_dir</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Security.md#_resource_dir"> $_resource_dir</a>
                                 </p><p class="description">Cache for $resource_dir lookups</p></td>
 </tr>
 <tr>
 <td><span class='k'>protected </span> <span class='nx'>array</span></td>
-<td class="description"><p class="name" ><a href="_secure_dir"> $_secure_dir</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Security.md#_secure_dir"> $_secure_dir</a>
                                 </p><p class="description">Cache for $secure_dir lookups</p></td>
 </tr>
 <tr>
 <td><span class='k'>protected </span> <span class='nx'>array</span></td>
-<td class="description"><p class="name" ><a href="_template_dir"> $_template_dir</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Security.md#_template_dir"> $_template_dir</a>
                                 </p><p class="description">Cache for $template_dir lookups</p></td>
 </tr>
 <tr>
 <td><span class='k'>protected </span> <span class='nx'>array</span></td>
-<td class="description"><p class="name" ><a href="_trusted_dir"> $_trusted_dir</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Security.md#_trusted_dir"> $_trusted_dir</a>
                                 </p><p class="description">Cache for $trusted_dir lookups</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>boolean</span></td>
-<td class="description"><p class="name" ><a href="allow_constants"> $allow_constants</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Security.md#allow_constants"> $allow_constants</a>
                                 </p><p class="description">+ flag if constants can be accessed from template</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>boolean</span></td>
-<td class="description"><p class="name" ><a href="allow_super_globals"> $allow_super_globals</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Security.md#allow_super_globals"> $allow_super_globals</a>
                                 </p><p class="description">+ flag if super globals can be accessed from template</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>array</span></td>
-<td class="description"><p class="name" ><a href="allowed_modifiers"> $allowed_modifiers</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Security.md#allowed_modifiers"> $allowed_modifiers</a>
                                 </p><p class="description">This is an array of allowed modifier plugins.
 </p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>array</span></td>
-<td class="description"><p class="name" ><a href="allowed_tags"> $allowed_tags</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Security.md#allowed_tags"> $allowed_tags</a>
                                 </p><p class="description">This is an array of allowed tags.
 </p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>array</span></td>
-<td class="description"><p class="name" ><a href="disabled_modifiers"> $disabled_modifiers</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Security.md#disabled_modifiers"> $disabled_modifiers</a>
                                 </p><p class="description">This is an array of disabled modifier plugins.
 </p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>array</span></td>
-<td class="description"><p class="name" ><a href="disabled_tags"> $disabled_tags</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Security.md#disabled_tags"> $disabled_tags</a>
                                 </p><p class="description">This is an array of disabled tags.
 </p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>array</span></td>
-<td class="description"><p class="name" ><a href="php_functions"> $php_functions</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Security.md#php_functions"> $php_functions</a>
                                 </p><p class="description">This is an array of trusted PHP functions.
 </p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>integer</span></td>
-<td class="description"><p class="name" ><a href="php_handling"> $php_handling</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Security.md#php_handling"> $php_handling</a>
                                 </p><p class="description">This determines how Smarty handles "</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>array</span></td>
-<td class="description"><p class="name" ><a href="php_modifiers"> $php_modifiers</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Security.md#php_modifiers"> $php_modifiers</a>
                                 </p><p class="description">This is an array of trusted PHP modifers.
 </p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>array</span></td>
-<td class="description"><p class="name" ><a href="secure_dir"> $secure_dir</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Security.md#secure_dir"> $secure_dir</a>
                                 </p><p class="description">This is the list of template directories that are considered secure.
 </p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>array</span></td>
-<td class="description"><p class="name" ><a href="static_classes"> $static_classes</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Security.md#static_classes"> $static_classes</a>
                                 </p><p class="description">This is an array of trusted static classes.
 </p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>array</span></td>
-<td class="description"><p class="name" ><a href="streams"> $streams</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Security.md#streams"> $streams</a>
                                 </p><p class="description">This is an array of trusted streams.
 </p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>array</span></td>
-<td class="description"><p class="name" ><a href="trusted_dir"> $trusted_dir</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Security.md#trusted_dir"> $trusted_dir</a>
                                 </p><p class="description">This is an array of directories where trusted php scripts reside.
 </p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>array</span></td>
-<td class="description"><p class="name" ><a href="trusted_uri"> $trusted_uri</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Security.md#trusted_uri"> $trusted_uri</a>
                                 </p><p class="description">List of regular expressions (PCRE) that include trusted URIs</p></td>
 </tr>
 </table>

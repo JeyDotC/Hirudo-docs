@@ -37,13 +37,13 @@
 <tr><th colspan="2">Field Summary</th></tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name" ><a href="factory"> $factory</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Annotations/Export.md#factory"> $factory</a>
                                 </p><p class="description">An optional factory method which is in charge of returning
 an instance of the service.</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name" ><a href="id"> $id</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Annotations/Export.md#id"> $id</a>
                                 </p><p class="description">The id of the service to be exported.</p></td>
 </tr>
 </table>

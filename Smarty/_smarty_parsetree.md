@@ -40,12 +40,12 @@
 <tr><th colspan="2">Field Summary</th></tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>mixed</span></td>
-<td class="description"><p class="name" ><a href="data"> $data</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/_smarty_parsetree.md#data"> $data</a>
                                 </p><p class="description">Buffer content</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>object</span></td>
-<td class="description"><p class="name" ><a href="parser"> $parser</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/_smarty_parsetree.md#parser"> $parser</a>
                                 </p><p class="description">Parser object</p></td>
 </tr>
 </table>

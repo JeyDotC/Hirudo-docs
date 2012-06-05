@@ -8,30 +8,30 @@
 <tr><th colspan="2" class="title">Function Summary</th></tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name"><a href="#smarty_function_bind">smarty_function_bind</a>(array params, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> template)</p><p class="description">Binds a field to an entity property, Generally a parameter
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-functions.md#smarty_function_bind">smarty_function_bind</a>(array params, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> template)</p><p class="description">Binds a field to an entity property, Generally a parameter
 of a task. </p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name"><a href="#smarty_function_css">smarty_function_css</a>(array params, type template)</p><p class="description">Generates a script tag. </p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-functions.md#smarty_function_css">smarty_function_css</a>(array params, type template)</p><p class="description">Generates a script tag. </p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'><type></span></td>
-<td class="description"><p class="name"><a href="#smarty_function_foo">smarty_function_foo</a>(array params, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> template)</p><p class="description"></p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-functions.md#smarty_function_foo">smarty_function_foo</a>(array params, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> template)</p><p class="description"></p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name"><a href="#smarty_function_url">smarty_function_url</a>(array params, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> template)</p><p class="description">Returns a URL based on the string given in the call attribute.
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-functions.md#smarty_function_url">smarty_function_url</a>(array params, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> template)</p><p class="description">Returns a URL based on the string given in the call attribute.
 </p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name"><a href="#smarty_modifier_topath">smarty_modifier_toPath</a>(string string, string extension)</p><p class="description">Converts the given string into a valid absolute path using the
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-functions.md#smarty_modifier_topath">smarty_modifier_toPath</a>(string string, string extension)</p><p class="description">Converts the given string into a valid absolute path using the
 <a href="../hirudo/lang/loader.html#toSinglePath()">Loader::toSinglePath()</a> method.</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name"><a href="#smarty_modifier_toviewpath">smarty_modifier_toViewPath</a>(string string)</p><p class="description">Converts the given string into a valid absolute path like smarty_modifier_toPath
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-functions.md#smarty_modifier_toviewpath">smarty_modifier_toViewPath</a>(string string)</p><p class="description">Converts the given string into a valid absolute path like smarty_modifier_toPath
 plugin, but in this time the path has only three parts, the application, the
 module and the view name, so any view from any module can be included or inherited.</p></td>
 </tr>

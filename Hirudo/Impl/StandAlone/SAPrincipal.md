@@ -43,7 +43,7 @@
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td><span class='k'>static </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Impl/StandAlone/SAPrincipal.md#instance>SAPrincipal</a></span></td>
+<td><span class='k'>static </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Impl/StandAlone/SAPrincipal.md>SAPrincipal</a></span></td>
 <td class="description"><p class="name"><a href="#instance">instance</a>()</p><p class="description"></p></td>
 </tr>
 <tr>
@@ -78,7 +78,7 @@
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/SAPrincipal.php#L52" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\SAPrincipal.php at line 52</a>
 
 <h3 id="instance()">instance</h3>
-<span class='k'>static </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Impl/StandAlone/SAPrincipal.md#instance>SAPrincipal</a></span> <span class='nf'>instance</span> ()
+<span class='k'>static </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Impl/StandAlone/SAPrincipal.md>SAPrincipal</a></span> <span class='nf'>instance</span> ()
 
 <div class="details">
 <p></p>

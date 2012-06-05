@@ -34,27 +34,27 @@
 <tr><th colspan="2">Field Summary</th></tr>
 <tr>
 <td><span class='k'>protected </span> <span class='nx'>array</span></td>
-<td class="description"><p class="name" ><a href="_backtraces"> $_backtraces</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/ChromePhp/ChromePhp.md#_backtraces"> $_backtraces</a>
                                 </p><p class="description"></p></td>
 </tr>
 <tr>
 <td><span class='k'>protected </span> <span class='nx'>bool</span></td>
-<td class="description"><p class="name" ><a href="_error_triggered"> $_error_triggered</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/ChromePhp/ChromePhp.md#_error_triggered"> $_error_triggered</a>
                                 </p><p class="description"></p></td>
 </tr>
 <tr>
-<td><span class='k'>protected static </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/ChromePhp/ChromePhp.md#_instance'>ChromePhp</a></span></td>
-<td class="description"><p class="name" ><a href="_instance"> $_instance</a>
+<td><span class='k'>protected static </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/ChromePhp/ChromePhp.md'>ChromePhp</a></span></td>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/ChromePhp/ChromePhp.md#_instance"> $_instance</a>
                                 </p><p class="description"></p></td>
 </tr>
 <tr>
 <td><span class='k'>protected </span> <span class='nx'>array</span></td>
-<td class="description"><p class="name" ><a href="_processed"> $_processed</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/ChromePhp/ChromePhp.md#_processed"> $_processed</a>
                                 </p><p class="description">Prevent recursion when working with objects referring to each other</p></td>
 </tr>
 <tr>
 <td><span class='k'>protected </span> <span class='nx'>array</span></td>
-<td class="description"><p class="name" ><a href="_settings"> $_settings</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/ChromePhp/ChromePhp.md#_settings"> $_settings</a>
                                 </p><p class="description"></p></td>
 </tr>
 </table>
@@ -70,7 +70,7 @@
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td><span class='k'>static </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/ChromePhp/ChromePhp.md#getinstance>ChromePhp</a></span></td>
+<td><span class='k'>static </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/ChromePhp/ChromePhp.md>ChromePhp</a></span></td>
 <td class="description"><p class="name"><a href="#getinstance">getInstance</a>()</p><p class="description">gets instance of this class</p></td>
 </tr>
 <tr>
@@ -144,7 +144,7 @@
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/ChromePhp.php#L52" target='_blank'>ChromePhp.php at line 52</a>
 
 <h3 id="_instance">_instance</h3>
-<span class='k'>protected static </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/ChromePhp/ChromePhp.md#_instance'>ChromePhp</a></span><span class='no'> $_instance</span><div class="details">
+<span class='k'>protected static </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/ChromePhp/ChromePhp.md'>ChromePhp</a></span><span class='no'> $_instance</span><div class="details">
 <p></p>
 </div>
 
@@ -192,7 +192,7 @@
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/ChromePhp.php#L75" target='_blank'>ChromePhp.php at line 75</a>
 
 <h3 id="getInstance()">getInstance</h3>
-<span class='k'>static </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/ChromePhp/ChromePhp.md#getinstance>ChromePhp</a></span> <span class='nf'>getInstance</span> ()
+<span class='k'>static </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/ChromePhp/ChromePhp.md>ChromePhp</a></span> <span class='nf'>getInstance</span> ()
 
 <div class="details">
 <p>gets instance of this class</p>

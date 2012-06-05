@@ -49,7 +49,7 @@
 <tr><th colspan="2">Field Summary</th></tr>
 <tr>
 <td><span class='k'>protected </span> <span class='nx'>object Memcache</span></td>
-<td class="description"><p class="name" ><a href="mc"> $mc</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/HTTP_Session2/HTTP_Session2_Container_Memcache.md#mc"> $mc</a>
                                 </p><p class="description">Memcache connection object</p></td>
 </tr>
 </table>

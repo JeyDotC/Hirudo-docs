@@ -56,7 +56,7 @@ are resolved.</p></div>
 process to work acordingly to the new ModuleCall.</p></td>
 </tr>
 <tr>
-<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Events/BeforeTaskEvent.md#getcall>ModuleCall</a></span></td>
+<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/ModuleCall.md>ModuleCall</a></span></td>
 <td class="description"><p class="name"><a href="#getcall">getCall</a>()</p><p class="description">Gets the current call.</p></td>
 </tr>
 <tr>
@@ -126,7 +126,7 @@ process to work acordingly to the new ModuleCall.</p><dl>
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Events/BeforeTaskEvent.php#L78" target='_blank'>framework\hirudo\Hirudo\Core\Events\BeforeTaskEvent.php at line 78</a>
 
 <h3 id="getCall()">getCall</h3>
-<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Events/BeforeTaskEvent.md#getcall>ModuleCall</a></span> <span class='nf'>getCall</span> ()
+<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/ModuleCall.md>ModuleCall</a></span> <span class='nf'>getCall</span> ()
 
 <div class="details">
 <p>Gets the current call.</p>

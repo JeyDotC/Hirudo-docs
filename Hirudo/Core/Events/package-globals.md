@@ -8,7 +8,7 @@
 <tr><th colspan="2" class="title">Global Summary</th></tr>
 <tr>
 <td>final  mixed</td>
-<td class="description"><p class="name"><a href="#name">NAME</a></p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Events/BeforeTaskEvent.md#name">NAME</a></p></td>
 </tr>
 </table>
 

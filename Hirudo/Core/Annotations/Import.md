@@ -38,12 +38,12 @@ to inject a dependency.</p></div>
 <tr><th colspan="2">Field Summary</th></tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string The fully qualified name of the class to be imported.</span></td>
-<td class="description"><p class="name" ><a href="classname"> $className</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Annotations/Import.md#classname"> $className</a>
                                 </p><p class="description">A dependency class name. </p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name" ><a href="id"> $id</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Annotations/Import.md#id"> $id</a>
                                 </p><p class="description">The id of the dependency to be injected.
 </p></td>
 </tr>

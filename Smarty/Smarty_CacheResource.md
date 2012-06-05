@@ -41,12 +41,12 @@
 <tr><th colspan="2">Field Summary</th></tr>
 <tr>
 <td><span class='k'>static </span> <span class='nx'>array</span></td>
-<td class="description"><p class="name" ><a href="resources"> $resources</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_CacheResource.md#resources"> $resources</a>
                                 </p><p class="description">cache for Smarty_CacheResource instances</p></td>
 </tr>
 <tr>
 <td><span class='k'>protected static </span> <span class='nx'>array</span></td>
-<td class="description"><p class="name" ><a href="sysplugins"> $sysplugins</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_CacheResource.md#sysplugins"> $sysplugins</a>
                                 </p><p class="description">resource types provided by the core</p></td>
 </tr>
 </table>
@@ -98,7 +98,7 @@
 <td class="description"><p class="name"><a href="#releaselock">releaseLock</a>(<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty.md">Smarty</a> smarty, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Template_Cached.md">Smarty_Template_Cached</a> cached)</p></td>
 </tr>
 <tr>
-<td><span class='k'>static </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_CacheResource.md#load>Smarty_CacheResource</a></span></td>
+<td><span class='k'>static </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_CacheResource.md>Smarty_CacheResource</a></span></td>
 <td class="description"><p class="name"><a href="#load">load</a>(<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty.md">Smarty</a> smarty, string type)</p><p class="description">Load Cache Resource Handler</p></td>
 </tr>
 <tr>
@@ -314,7 +314,7 @@
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_cacheresource.php#L144" target='_blank'>framework\libs\smarty\sysplugins\smarty_cacheresource.php at line 144</a>
 
 <h3 id="load()">load</h3>
-<span class='k'>static </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_CacheResource.md#load>Smarty_CacheResource</a></span> <span class='nf'>load</span> (<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty.md">Smarty</a> smarty, string type)
+<span class='k'>static </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_CacheResource.md>Smarty_CacheResource</a></span> <span class='nf'>load</span> (<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty.md">Smarty</a> smarty, string type)
 
 <div class="details">
 <p>Load Cache Resource Handler</p><dl>

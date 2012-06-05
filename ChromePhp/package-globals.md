@@ -8,7 +8,7 @@
 <tr><th colspan="2" class="title">Global Summary</th></tr>
 <tr>
 <td>final  string</td>
-<td class="description"><p class="name"><a href="#version">VERSION</a></p><p class="description"></p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/ChromePhp/ChromePhp.md#version">VERSION</a></p><p class="description"></p></td>
 </tr>
 </table>
 

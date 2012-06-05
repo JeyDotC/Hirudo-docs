@@ -40,12 +40,12 @@
 <tr><th colspan="2">Field Summary</th></tr>
 <tr>
 <td><span class='k'>protected </span> <span class='nx'>mixed</span></td>
-<td class="description"><p class="name" ><a href="parameters"> $parameters</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/ParameterBag/ParameterBag.md#parameters"> $parameters</a>
                                 </p></td>
 </tr>
 <tr>
 <td><span class='k'>protected </span> <span class='nx'>mixed</span></td>
-<td class="description"><p class="name" ><a href="resolved"> $resolved</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/ParameterBag/ParameterBag.md#resolved"> $resolved</a>
                                 </p></td>
 </tr>
 </table>

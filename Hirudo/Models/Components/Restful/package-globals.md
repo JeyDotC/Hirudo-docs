@@ -8,7 +8,7 @@
 <tr><th colspan="2" class="title">Global Summary</th></tr>
 <tr>
 <td>final  mixed</td>
-<td class="description"><p class="name"><a href="#ok">OK</a></p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Restful/RequestCodes.md#ok">OK</a></p></td>
 </tr>
 </table>
 

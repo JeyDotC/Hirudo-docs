@@ -42,7 +42,7 @@
 <tr><th colspan="2">Field Summary</th></tr>
 <tr>
 <td><span class='k'>protected </span> <span class='nx'>string</span></td>
-<td class="description"><p class="name" ><a href="short_open_tag"> $short_open_tag</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_Resource_PHP.md#short_open_tag"> $short_open_tag</a>
                                 </p><p class="description">container for short_open_tag directive's value before executing PHP templates</p></td>
 </tr>
 </table>

@@ -85,7 +85,7 @@ the setAttribute() method.</p></td>
 <td class="description"><p class="name"><a href="#method">method</a>()</p><p class="description">Gets the current HTTP method (GET, POST, PUT, DELETE).</p></td>
 </tr>
 <tr>
-<td><span class='k'>abstract </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/Request.md#buildmodulecall>ModuleCall</a></span></td>
+<td><span class='k'>abstract </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/ModuleCall.md>ModuleCall</a></span></td>
 <td class="description"><p class="name"><a href="#buildmodulecall">buildModuleCall</a>()</p><p class="description">Creates a ModuleCall from request parameters, generally from the URL,
 the way this done depends on how this class interprets the URLs.</p></td>
 </tr>
@@ -327,7 +327,7 @@ the setAttribute() method.</p><dl>
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Context/Request.php#L169" target='_blank'>framework\hirudo\Hirudo\Core\Context\Request.php at line 169</a>
 
 <h3 id="buildModuleCall()">buildModuleCall</h3>
-<span class='k'>abstract </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/Request.md#buildmodulecall>ModuleCall</a></span> <span class='nf'>buildModuleCall</span> ()
+<span class='k'>abstract </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/ModuleCall.md>ModuleCall</a></span> <span class='nf'>buildModuleCall</span> ()
 
 <div class="details">
 <p>Creates a ModuleCall from request parameters, generally from the URL,

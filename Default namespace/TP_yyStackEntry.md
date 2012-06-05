@@ -28,17 +28,17 @@
 <tr><th colspan="2">Field Summary</th></tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>mixed</span></td>
-<td class="description"><p class="name" ><a href="major"> $major</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/TP_yyStackEntry.md#major"> $major</a>
                                 </p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>mixed</span></td>
-<td class="description"><p class="name" ><a href="minor"> $minor</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/TP_yyStackEntry.md#minor"> $minor</a>
                                 </p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>mixed</span></td>
-<td class="description"><p class="name" ><a href="stateno"> $stateno</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/TP_yyStackEntry.md#stateno"> $stateno</a>
                                 </p></td>
 </tr>
 </table>

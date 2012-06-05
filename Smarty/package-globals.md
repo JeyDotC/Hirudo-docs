@@ -8,91 +8,91 @@
 <tr><th colspan="2" class="title">Global Summary</th></tr>
 <tr>
 <td>final  str</td>
-<td class="description"><p class="name"><a href="#caching_nocache_code">CACHING_NOCACHE_CODE</a></p><p class="description">caching mode to create nocache code but no cache file</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_Compile_Include.md#caching_nocache_code">CACHING_NOCACHE_CODE</a></p><p class="description">caching mode to create nocache code but no cache file</p></td>
 </tr>
 <tr>
 <td>final  mixed</td>
-<td class="description"><p class="name"><a href="#comment">COMMENT</a></p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-globals.md#comment">COMMENT</a></p></td>
 </tr>
 <tr>
 <td>final  mixed</td>
-<td class="description"><p class="name"><a href="#doublequotedstring">DOUBLEQUOTEDSTRING</a></p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-globals.md#doublequotedstring">DOUBLEQUOTEDSTRING</a></p></td>
 </tr>
 <tr>
 <td>final  mixed</td>
-<td class="description"><p class="name"><a href="#ds">DS</a></p><p class="description">define shorthand directory separator constant</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-globals.md#ds">DS</a></p><p class="description">define shorthand directory separator constant</p></td>
 </tr>
 <tr>
 <td>final  mixed</td>
-<td class="description"><p class="name"><a href="#literal">LITERAL</a></p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-globals.md#literal">LITERAL</a></p></td>
 </tr>
 <tr>
 <td>final  mixed</td>
-<td class="description"><p class="name"><a href="#naked_string_value">NAKED_STRING_VALUE</a></p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-globals.md#naked_string_value">NAKED_STRING_VALUE</a></p></td>
 </tr>
 <tr>
 <td>final  mixed</td>
-<td class="description"><p class="name"><a href="#section">SECTION</a></p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-globals.md#section">SECTION</a></p></td>
 </tr>
 <tr>
 <td>final  mixed</td>
-<td class="description"><p class="name"><a href="#smarty">SMARTY</a></p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-globals.md#smarty">SMARTY</a></p></td>
 </tr>
 <tr>
 <td>final  str</td>
-<td class="description"><p class="name"><a href="#smarty_version">SMARTY_VERSION</a></p><p class="description">smarty version</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty.md#smarty_version">SMARTY_VERSION</a></p><p class="description">smarty version</p></td>
 </tr>
 <tr>
 <td>final  mixed</td>
-<td class="description"><p class="name"><a href="#start">START</a></p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_Configfilelexer.md#start">START</a></p></td>
 </tr>
 <tr>
 <td>final  mixed</td>
-<td class="description"><p class="name"><a href="#text">TEXT</a></p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_Templatelexer.md#text">TEXT</a></p></td>
 </tr>
 <tr>
 <td>final  str</td>
-<td class="description"><p class="name"><a href="#tripple">TRIPPLE</a></p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-globals.md#tripple">TRIPPLE</a></p></td>
 </tr>
 <tr>
 <td>final  mixed</td>
-<td class="description"><p class="name"><a href="#value">VALUE</a></p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-globals.md#value">VALUE</a></p></td>
 </tr>
 <tr>
 <td> mixed</td>
-<td class="description"><p class="name"><a href="#_charset">_CHARSET</a></p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-globals.md#_charset">_CHARSET</a></p></td>
 </tr>
 <tr>
 <td> mixed</td>
-<td class="description"><p class="name"><a href="#match">match</a></p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-globals.md#match">match</a></p></td>
 </tr>
 <tr>
 <td> mixed</td>
-<td class="description"><p class="name"><a href="#r">r</a></p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-globals.md#r">r</a></p></td>
 </tr>
 <tr>
 <td> mixed</td>
-<td class="description"><p class="name"><a href="#this">this</a></p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-globals.md#this">this</a></p></td>
 </tr>
 <tr>
 <td> mixed</td>
-<td class="description"><p class="name"><a href="#to">to</a></p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-globals.md#to">to</a></p></td>
 </tr>
 <tr>
 <td> mixed</td>
-<td class="description"><p class="name"><a href="#tokenmap">tokenMap</a></p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-globals.md#tokenmap">tokenMap</a></p></td>
 </tr>
 <tr>
 <td> mixed</td>
-<td class="description"><p class="name"><a href="#yy_global_pattern">yy_global_pattern</a></p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-globals.md#yy_global_pattern">yy_global_pattern</a></p></td>
 </tr>
 <tr>
 <td> mixed</td>
-<td class="description"><p class="name"><a href="#yymatches">yymatches</a></p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-globals.md#yymatches">yymatches</a></p></td>
 </tr>
 <tr>
 <td> mixed</td>
-<td class="description"><p class="name"><a href="#yysubmatches">yysubmatches</a></p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-globals.md#yysubmatches">yysubmatches</a></p></td>
 </tr>
 </table>
 

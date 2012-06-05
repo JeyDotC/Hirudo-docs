@@ -36,7 +36,7 @@ annotations during the parsing process.</p></div>
 <tr><th colspan="2">Field Summary</th></tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>mixed</span></td>
-<td class="description"><p class="name" ><a href="names"> $names</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Doctrine/Common/Annotations/Annotation/IgnoreAnnotation.md#names"> $names</a>
                                 </p></td>
 </tr>
 </table>

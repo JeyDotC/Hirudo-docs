@@ -38,17 +38,17 @@
 <tr><th colspan="2">Field Summary</th></tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>int</span></td>
-<td class="description"><p class="name" ><a href="mbstring_overload"> $mbstring_overload</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_Compile_Extends.md#mbstring_overload"> $mbstring_overload</a>
                                 </p><p class="description">mbstring.overload flag</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>array</span></td>
-<td class="description"><p class="name" ><a href="required_attributes"> $required_attributes</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_Compile_Extends.md#required_attributes"> $required_attributes</a>
                                 </p><p class="description">Attribute definition: Overwrites base class.</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>array</span></td>
-<td class="description"><p class="name" ><a href="shorttag_order"> $shorttag_order</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_Compile_Extends.md#shorttag_order"> $shorttag_order</a>
                                 </p><p class="description">Attribute definition: Overwrites base class.</p></td>
 </tr>
 </table>

@@ -46,72 +46,72 @@
 <tr><th colspan="2">Field Summary</th></tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name" ><a href="compiler_class"> $compiler_class</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Template_Source.md#compiler_class"> $compiler_class</a>
                                 </p><p class="description">Name of the Class to compile this resource's contents with</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>array</span></td>
-<td class="description"><p class="name" ><a href="components"> $components</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Template_Source.md#components"> $components</a>
                                 </p><p class="description">The Components an extended template is made of</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name" ><a href="filepath"> $filepath</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Template_Source.md#filepath"> $filepath</a>
                                 </p><p class="description">Source Filepath</p></td>
 </tr>
 <tr>
-<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Template_Source.md#handler'>Smarty_Resource</a></span></td>
-<td class="description"><p class="name" ><a href="handler"> $handler</a>
+<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Resource.md'>Smarty_Resource</a></span></td>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Template_Source.md#handler"> $handler</a>
                                 </p><p class="description">Resource Handler</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name" ><a href="name"> $name</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Template_Source.md#name"> $name</a>
                                 </p><p class="description">Resource Name</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>boolean</span></td>
-<td class="description"><p class="name" ><a href="recompiled"> $recompiled</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Template_Source.md#recompiled"> $recompiled</a>
                                 </p><p class="description">Source must be recompiled on every occasion</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name" ><a href="resource"> $resource</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Template_Source.md#resource"> $resource</a>
                                 </p><p class="description">Template Resource (Smarty_Internal_Template::$template_resource)</p></td>
 </tr>
 <tr>
-<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Template_Source.md#smarty'>Smarty</a></span></td>
-<td class="description"><p class="name" ><a href="smarty"> $smarty</a>
+<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty.md'>Smarty</a></span></td>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Template_Source.md#smarty"> $smarty</a>
                                 </p><p class="description">Smarty instance</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name" ><a href="template_lexer_class"> $template_lexer_class</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Template_Source.md#template_lexer_class"> $template_lexer_class</a>
                                 </p><p class="description">Name of the Class to tokenize this resource's contents with</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name" ><a href="template_parser_class"> $template_parser_class</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Template_Source.md#template_parser_class"> $template_parser_class</a>
                                 </p><p class="description">Name of the Class to parse this resource's contents with</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name" ><a href="type"> $type</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Template_Source.md#type"> $type</a>
                                 </p><p class="description">Resource Type</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name" ><a href="uid"> $uid</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Template_Source.md#uid"> $uid</a>
                                 </p><p class="description">Unique Template ID</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>boolean</span></td>
-<td class="description"><p class="name" ><a href="uncompiled"> $uncompiled</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Template_Source.md#uncompiled"> $uncompiled</a>
                                 </p><p class="description">Source is bypassing compiler</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name" ><a href="unique_resource"> $unique_resource</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Template_Source.md#unique_resource"> $unique_resource</a>
                                 </p><p class="description">Unique Resource Name</p></td>
 </tr>
 </table>
@@ -127,7 +127,7 @@
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Template_Source.md#getcompiled>Smarty_Template_Compiled</a></span></td>
+<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Template_Compiled.md>Smarty_Template_Compiled</a></span></td>
 <td class="description"><p class="name"><a href="#getcompiled">getCompiled</a>(<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> _template)</p><p class="description">get a Compiled Object of this source</p></td>
 </tr>
 <tr>
@@ -177,7 +177,7 @@
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_resource.php#L635" target='_blank'>framework\libs\smarty\sysplugins\smarty_resource.php at line 635</a>
 
 <h3 id="handler">handler</h3>
-<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Template_Source.md#handler'>Smarty_Resource</a></span><span class='no'> $handler</span><span class='o'> = null</span>
+<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Resource.md'>Smarty_Resource</a></span><span class='no'> $handler</span><span class='o'> = null</span>
 
 <div class="details">
 <p>Resource Handler</p>
@@ -225,7 +225,7 @@
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_resource.php#L641" target='_blank'>framework\libs\smarty\sysplugins\smarty_resource.php at line 641</a>
 
 <h3 id="smarty">smarty</h3>
-<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Template_Source.md#smarty'>Smarty</a></span><span class='no'> $smarty</span><span class='o'> = null</span>
+<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty.md'>Smarty</a></span><span class='no'> $smarty</span><span class='o'> = null</span>
 
 <div class="details">
 <p>Smarty instance</p>
@@ -332,7 +332,7 @@
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_resource.php#L676" target='_blank'>framework\libs\smarty\sysplugins\smarty_resource.php at line 676</a>
 
 <h3 id="getCompiled()">getCompiled</h3>
-<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Template_Source.md#getcompiled>Smarty_Template_Compiled</a></span> <span class='nf'>getCompiled</span> (<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> _template)
+<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Template_Compiled.md>Smarty_Template_Compiled</a></span> <span class='nf'>getCompiled</span> (<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> _template)
 
 <div class="details">
 <p>get a Compiled Object of this source</p><dl>

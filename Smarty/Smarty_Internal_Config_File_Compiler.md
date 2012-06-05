@@ -34,27 +34,27 @@
 <tr><th colspan="2">Field Summary</th></tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>Smarty_Internal_Config object</span></td>
-<td class="description"><p class="name" ><a href="config"> $config</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_Config_File_Compiler.md#config"> $config</a>
                                 </p><p class="description">Smarty object</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>array</span></td>
-<td class="description"><p class="name" ><a href="config_data"> $config_data</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_Config_File_Compiler.md#config_data"> $config_data</a>
                                 </p><p class="description">Compiled config data sections and variables</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>object</span></td>
-<td class="description"><p class="name" ><a href="lex"> $lex</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_Config_File_Compiler.md#lex"> $lex</a>
                                 </p><p class="description">Lexer object</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>object</span></td>
-<td class="description"><p class="name" ><a href="parser"> $parser</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_Config_File_Compiler.md#parser"> $parser</a>
                                 </p><p class="description">Parser object</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>Smarty object</span></td>
-<td class="description"><p class="name" ><a href="smarty"> $smarty</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_Config_File_Compiler.md#smarty"> $smarty</a>
                                 </p><p class="description">Smarty object</p></td>
 </tr>
 </table>

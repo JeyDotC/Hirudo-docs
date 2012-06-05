@@ -8,7 +8,7 @@
 <tr><th colspan="2" class="title">Global Summary</th></tr>
 <tr>
 <td>final  string</td>
-<td class="description"><p class="name"><a href="#first_chars">FIRST_CHARS</a></p><p class="description">Characters that might appear in the generated variable name as first character</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Dumper/PhpDumper.md#first_chars">FIRST_CHARS</a></p><p class="description">Characters that might appear in the generated variable name as first character</p></td>
 </tr>
 </table>
 

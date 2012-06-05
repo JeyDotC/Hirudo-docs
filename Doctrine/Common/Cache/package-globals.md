@@ -8,11 +8,11 @@
 <tr><th colspan="2" class="title">Global Summary</th></tr>
 <tr>
 <td>final  mixed</td>
-<td class="description"><p class="name"><a href="#doctrine_namespace_cachekey">DOCTRINE_NAMESPACE_CACHEKEY</a></p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Doctrine/Common/Cache/CacheProvider.md#doctrine_namespace_cachekey">DOCTRINE_NAMESPACE_CACHEKEY</a></p></td>
 </tr>
 <tr>
 <td>final  mixed</td>
-<td class="description"><p class="name"><a href="#stats_hits">STATS_HITS</a></p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Doctrine/Common/Cache/Cache.md#stats_hits">STATS_HITS</a></p></td>
 </tr>
 </table>
 

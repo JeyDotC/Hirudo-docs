@@ -39,7 +39,7 @@
 <tr><th colspan="2">Field Summary</th></tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>array</span></td>
-<td class="description"><p class="name" ><a href="subtrees"> $subtrees</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/_smarty_template_buffer.md#subtrees"> $subtrees</a>
                                 </p><p class="description">Array of template elements</p></td>
 </tr>
 </table>

@@ -8,7 +8,7 @@
 <tr><th colspan="2" class="title">Function Summary</th></tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#_using">_using</a>(string|array file, string extension)</p><p class="description">Alias for <a href="../../hirudo/lang/loader.html#using()">Loader::using()</a> function.</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Lang/package-functions.md#_using">_using</a>(string|array file, string extension)</p><p class="description">Alias for <a href="../../hirudo/lang/loader.html#using()">Loader::using()</a> function.</p></td>
 </tr>
 </table>
 

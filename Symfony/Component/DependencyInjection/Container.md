@@ -59,37 +59,37 @@ getXXXService(), where XXX is the camelized version of the id:</p>
 <tr><th colspan="2">Field Summary</th></tr>
 <tr>
 <td><span class='k'>protected </span> <span class='nx'>mixed</span></td>
-<td class="description"><p class="name" ><a href="loading"> $loading</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Container.md#loading"> $loading</a>
                                 </p></td>
 </tr>
 <tr>
 <td><span class='k'>protected </span> <span class='nx'>mixed</span></td>
-<td class="description"><p class="name" ><a href="parameterbag"> $parameterBag</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Container.md#parameterbag"> $parameterBag</a>
                                 </p></td>
 </tr>
 <tr>
 <td><span class='k'>protected </span> <span class='nx'>mixed</span></td>
-<td class="description"><p class="name" ><a href="scopechildren"> $scopeChildren</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Container.md#scopechildren"> $scopeChildren</a>
                                 </p></td>
 </tr>
 <tr>
 <td><span class='k'>protected </span> <span class='nx'>mixed</span></td>
-<td class="description"><p class="name" ><a href="scopestacks"> $scopeStacks</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Container.md#scopestacks"> $scopeStacks</a>
                                 </p></td>
 </tr>
 <tr>
 <td><span class='k'>protected </span> <span class='nx'>mixed</span></td>
-<td class="description"><p class="name" ><a href="scopedservices"> $scopedServices</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Container.md#scopedservices"> $scopedServices</a>
                                 </p></td>
 </tr>
 <tr>
 <td><span class='k'>protected </span> <span class='nx'>mixed</span></td>
-<td class="description"><p class="name" ><a href="scopes"> $scopes</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Container.md#scopes"> $scopes</a>
                                 </p></td>
 </tr>
 <tr>
 <td><span class='k'>protected </span> <span class='nx'>mixed</span></td>
-<td class="description"><p class="name" ><a href="services"> $services</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Container.md#services"> $services</a>
                                 </p></td>
 </tr>
 </table>
@@ -114,7 +114,7 @@ getXXXService(), where XXX is the camelized version of the id:</p>
 <td class="description"><p class="name"><a href="#isfrozen">isFrozen</a>()</p><p class="description">Returns true if the container parameter bag are frozen.</p></td>
 </tr>
 <tr>
-<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Container.md#getparameterbag>ParameterBagInterface</a></span></td>
+<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/ParameterBag/ParameterBagInterface.md>ParameterBagInterface</a></span></td>
 <td class="description"><p class="name"><a href="#getparameterbag">getParameterBag</a>()</p><p class="description">Gets the service container parameter bag.</p></td>
 </tr>
 <tr>
@@ -308,7 +308,7 @@ scope.</p></td>
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Container.php#L126" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Container.php at line 126</a>
 
 <h3 id="getParameterBag()">getParameterBag</h3>
-<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Container.md#getparameterbag>ParameterBagInterface</a></span> <span class='nf'>getParameterBag</span> ()
+<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/ParameterBag/ParameterBagInterface.md>ParameterBagInterface</a></span> <span class='nf'>getParameterBag</span> ()
 
 <div class="details">
 <p>Gets the service container parameter bag.</p><dl>

@@ -39,7 +39,7 @@
 <tr><th colspan="2">Field Summary</th></tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>int</span></td>
-<td class="description"><p class="name" ><a href="saved_block_nesting"> $saved_block_nesting</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/_smarty_tag.md#saved_block_nesting"> $saved_block_nesting</a>
                                 </p><p class="description">Saved block nesting level</p></td>
 </tr>
 </table>

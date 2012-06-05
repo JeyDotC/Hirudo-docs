@@ -39,82 +39,82 @@
 <tr><th colspan="2">Field Summary</th></tr>
 <tr>
 <td><span class='k'>static </span> <span class='nx'>array</span></td>
-<td class="description"><p class="name" ><a href="_tag_objects"> $_tag_objects</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_TemplateCompilerBase.md#_tag_objects"> $_tag_objects</a>
                                 </p><p class="description">compile tag objects</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>array</span></td>
-<td class="description"><p class="name" ><a href="_tag_stack"> $_tag_stack</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_TemplateCompilerBase.md#_tag_stack"> $_tag_stack</a>
                                 </p><p class="description">tag stack</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>array</span></td>
-<td class="description"><p class="name" ><a href="called_functions"> $called_functions</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_TemplateCompilerBase.md#called_functions"> $called_functions</a>
                                 </p><p class="description">called subfuntions from template function</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>bool</span></td>
-<td class="description"><p class="name" ><a href="compiles_template_function"> $compiles_template_function</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_TemplateCompilerBase.md#compiles_template_function"> $compiles_template_function</a>
                                 </p><p class="description">flag if currently a template function is compiled</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>array</span></td>
-<td class="description"><p class="name" ><a href="default_handler_plugins"> $default_handler_plugins</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_TemplateCompilerBase.md#default_handler_plugins"> $default_handler_plugins</a>
                                 </p><p class="description">plugins loaded by default plugin handler</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>mixed</span></td>
-<td class="description"><p class="name" ><a href="default_modifier_list"> $default_modifier_list</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_TemplateCompilerBase.md#default_modifier_list"> $default_modifier_list</a>
                                 </p><p class="description">saved preprocessed modifier list</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>boolean</span></td>
-<td class="description"><p class="name" ><a href="forcenocache"> $forceNocache</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_TemplateCompilerBase.md#forcenocache"> $forceNocache</a>
                                 </p><p class="description">force compilation of complete template as nocache</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>bool</span></td>
-<td class="description"><p class="name" ><a href="inheritance"> $inheritance</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_TemplateCompilerBase.md#inheritance"> $inheritance</a>
                                 </p><p class="description">flag when compiling {block}</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>array</span></td>
-<td class="description"><p class="name" ><a href="merged_templates"> $merged_templates</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_TemplateCompilerBase.md#merged_templates"> $merged_templates</a>
                                 </p><p class="description">merged templates</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>array</span></td>
-<td class="description"><p class="name" ><a href="modifier_plugins"> $modifier_plugins</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_TemplateCompilerBase.md#modifier_plugins"> $modifier_plugins</a>
                                 </p><p class="description">flags for used modifier plugins</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>bool</span></td>
-<td class="description"><p class="name" ><a href="suppressheader"> $suppressHeader</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_TemplateCompilerBase.md#suppressheader"> $suppressHeader</a>
                                 </p><p class="description">suppress Smarty header code in compiled template</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>bool</span></td>
-<td class="description"><p class="name" ><a href="suppressmergedtemplates"> $suppressMergedTemplates</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_TemplateCompilerBase.md#suppressmergedtemplates"> $suppressMergedTemplates</a>
                                 </p><p class="description">suppress generation of merged template code</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>bool</span></td>
-<td class="description"><p class="name" ><a href="suppressnocacheprocessing"> $suppressNocacheProcessing</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_TemplateCompilerBase.md#suppressnocacheprocessing"> $suppressNocacheProcessing</a>
                                 </p><p class="description">suppress generation of nocache code</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>bool</span></td>
-<td class="description"><p class="name" ><a href="suppresstemplatepropertyheader"> $suppressTemplatePropertyHeader</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_TemplateCompilerBase.md#suppresstemplatepropertyheader"> $suppressTemplatePropertyHeader</a>
                                 </p><p class="description">suppress template property header code in compiled template</p></td>
 </tr>
 <tr>
-<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_TemplateCompilerBase.md#template'>Smarty_Internal_Template</a></span></td>
-<td class="description"><p class="name" ><a href="template"> $template</a>
+<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_Template.md'>Smarty_Internal_Template</a></span></td>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_TemplateCompilerBase.md#template"> $template</a>
                                 </p><p class="description">current template</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>bool</span></td>
-<td class="description"><p class="name" ><a href="write_compiled_code"> $write_compiled_code</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_TemplateCompilerBase.md#write_compiled_code"> $write_compiled_code</a>
                                 </p><p class="description">flag if compiled template file shall we written</p></td>
 </tr>
 </table>
@@ -336,7 +336,7 @@ It executes the required compile plugin for the Smarty tag</p></td>
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatecompilerbase.php#L55" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_templatecompilerbase.php at line 55</a>
 
 <h3 id="template">template</h3>
-<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_TemplateCompilerBase.md#template'>Smarty_Internal_Template</a></span><span class='no'> $template</span><span class='o'> = null</span>
+<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_Template.md'>Smarty_Internal_Template</a></span><span class='no'> $template</span><span class='o'> = null</span>
 
 <div class="details">
 <p>current template</p>

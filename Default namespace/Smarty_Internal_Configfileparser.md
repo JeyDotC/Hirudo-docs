@@ -28,72 +28,72 @@
 <tr><th colspan="2">Field Summary</th></tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>mixed</span></td>
-<td class="description"><p class="name" ><a href="retvalue"> $retvalue</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/Smarty_Internal_Configfileparser.md#retvalue"> $retvalue</a>
                                 </p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>mixed</span></td>
-<td class="description"><p class="name" ><a href="successful"> $successful</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/Smarty_Internal_Configfileparser.md#successful"> $successful</a>
                                 </p></td>
 </tr>
 <tr>
 <td><span class='k'>static </span> <span class='nx'>mixed</span></td>
-<td class="description"><p class="name" ><a href="yyexpectedtokens"> $yyExpectedTokens</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/Smarty_Internal_Configfileparser.md#yyexpectedtokens"> $yyExpectedTokens</a>
                                 </p></td>
 </tr>
 <tr>
 <td><span class='k'>static </span> <span class='nx'>mixed</span></td>
-<td class="description"><p class="name" ><a href="yyreducemap"> $yyReduceMap</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/Smarty_Internal_Configfileparser.md#yyreducemap"> $yyReduceMap</a>
                                 </p></td>
 </tr>
 <tr>
 <td><span class='k'>static </span> <span class='nx'>mixed</span></td>
-<td class="description"><p class="name" ><a href="yyruleinfo"> $yyRuleInfo</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/Smarty_Internal_Configfileparser.md#yyruleinfo"> $yyRuleInfo</a>
                                 </p></td>
 </tr>
 <tr>
 <td><span class='k'>static </span> <span class='nx'>mixed</span></td>
-<td class="description"><p class="name" ><a href="yyrulename"> $yyRuleName</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/Smarty_Internal_Configfileparser.md#yyrulename"> $yyRuleName</a>
                                 </p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>mixed</span></td>
-<td class="description"><p class="name" ><a href="yytokenname"> $yyTokenName</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/Smarty_Internal_Configfileparser.md#yytokenname"> $yyTokenName</a>
                                 </p></td>
 </tr>
 <tr>
 <td><span class='k'>static </span> <span class='nx'>mixed</span></td>
-<td class="description"><p class="name" ><a href="yytracefile"> $yyTraceFILE</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/Smarty_Internal_Configfileparser.md#yytracefile"> $yyTraceFILE</a>
                                 </p></td>
 </tr>
 <tr>
 <td><span class='k'>static </span> <span class='nx'>mixed</span></td>
-<td class="description"><p class="name" ><a href="yytraceprompt"> $yyTracePrompt</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/Smarty_Internal_Configfileparser.md#yytraceprompt"> $yyTracePrompt</a>
                                 </p></td>
 </tr>
 <tr>
 <td><span class='k'>static </span> <span class='nx'>mixed</span></td>
-<td class="description"><p class="name" ><a href="yy_default"> $yy_default</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/Smarty_Internal_Configfileparser.md#yy_default"> $yy_default</a>
                                 </p></td>
 </tr>
 <tr>
 <td><span class='k'>static </span> <span class='nx'>mixed</span></td>
-<td class="description"><p class="name" ><a href="yy_lookahead"> $yy_lookahead</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/Smarty_Internal_Configfileparser.md#yy_lookahead"> $yy_lookahead</a>
                                 </p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>mixed</span></td>
-<td class="description"><p class="name" ><a href="yyerrcnt"> $yyerrcnt</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/Smarty_Internal_Configfileparser.md#yyerrcnt"> $yyerrcnt</a>
                                 </p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>mixed</span></td>
-<td class="description"><p class="name" ><a href="yyidx"> $yyidx</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/Smarty_Internal_Configfileparser.md#yyidx"> $yyidx</a>
                                 </p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>mixed</span></td>
-<td class="description"><p class="name" ><a href="yystack"> $yystack</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/Smarty_Internal_Configfileparser.md#yystack"> $yystack</a>
                                 </p></td>
 </tr>
 </table>

@@ -45,12 +45,12 @@
 <tr><th colspan="2">Field Summary</th></tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>array The next token in the input.</span></td>
-<td class="description"><p class="name" ><a href="lookahead"> $lookahead</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Doctrine/Common/Lexer.md#lookahead"> $lookahead</a>
                                 </p><p class="description"></p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>array The last matched/seen token.</span></td>
-<td class="description"><p class="name" ><a href="token"> $token</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Doctrine/Common/Lexer.md#token"> $token</a>
                                 </p><p class="description"></p></td>
 </tr>
 </table>

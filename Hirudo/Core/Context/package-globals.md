@@ -8,7 +8,7 @@
 <tr><th colspan="2" class="title">Global Summary</th></tr>
 <tr>
 <td>final  mixed</td>
-<td class="description"><p class="name"><a href="#active">ACTIVE</a></p><p class="description">Session is active.</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/SessionStates.md#active">ACTIVE</a></p><p class="description">Session is active.</p></td>
 </tr>
 </table>
 

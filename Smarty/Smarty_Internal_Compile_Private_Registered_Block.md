@@ -38,7 +38,7 @@
 <tr><th colspan="2">Field Summary</th></tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>array</span></td>
-<td class="description"><p class="name" ><a href="optional_attributes"> $optional_attributes</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_Compile_Private_Registered_Block.md#optional_attributes"> $optional_attributes</a>
                                 </p><p class="description">Attribute definition: Overwrites base class.</p></td>
 </tr>
 </table>

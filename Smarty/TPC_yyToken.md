@@ -37,12 +37,12 @@ It is generated from the internal.configfileparser.y file</p></div>
 <tr><th colspan="2">Field Summary</th></tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>mixed</span></td>
-<td class="description"><p class="name" ><a href="metadata"> $metadata</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/TPC_yyToken.md#metadata"> $metadata</a>
                                 </p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>mixed</span></td>
-<td class="description"><p class="name" ><a href="string"> $string</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/TPC_yyToken.md#string"> $string</a>
                                 </p></td>
 </tr>
 </table>

@@ -40,7 +40,7 @@ belongs to an application.</p></div>
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td><span class='k'>static </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/ModuleCall.md#fromstring>ModuleCall</a></span></td>
+<td><span class='k'>static </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/ModuleCall.md>ModuleCall</a></span></td>
 <td class="description"><p class="name"><a href="#fromstring">fromString</a>(string string)</p><p class="description">A factory method to create a module call from a string with the "AppName::ModuleName::taskName"
 format.</p></td>
 </tr>
@@ -69,7 +69,7 @@ format.</p></td>
 <td class="description"><p class="name"><a href="#settask">setTask</a>(string task)</p><p class="description">Sets the name of the requested task.</p></td>
 </tr>
 <tr>
-<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/ModuleCall.md#getlastunhandledexception>HirudoException</a></span></td>
+<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Exceptions/HirudoException.md>HirudoException</a></span></td>
 <td class="description"><p class="name"><a href="#getlastunhandledexception">getLastUnhandledException</a>()</p><p class="description">Gets the last Unhandled exception from a previous module execution.</p></td>
 </tr>
 <tr>
@@ -107,7 +107,7 @@ format.</p></td>
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Context/ModuleCall.php#L65" target='_blank'>framework\hirudo\Hirudo\Core\Context\ModuleCall.php at line 65</a>
 
 <h3 id="fromString()">fromString</h3>
-<span class='k'>static </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/ModuleCall.md#fromstring>ModuleCall</a></span> <span class='nf'>fromString</span> (string string)
+<span class='k'>static </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/ModuleCall.md>ModuleCall</a></span> <span class='nf'>fromString</span> (string string)
 
 <div class="details">
 <p>A factory method to create a module call from a string with the "AppName::ModuleName::taskName"
@@ -222,7 +222,7 @@ format.</p><dl>
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Context/ModuleCall.php#L129" target='_blank'>framework\hirudo\Hirudo\Core\Context\ModuleCall.php at line 129</a>
 
 <h3 id="getLastUnhandledException()">getLastUnhandledException</h3>
-<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/ModuleCall.md#getlastunhandledexception>HirudoException</a></span> <span class='nf'>getLastUnhandledException</span> ()
+<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Exceptions/HirudoException.md>HirudoException</a></span> <span class='nf'>getLastUnhandledException</span> ()
 
 <div class="details">
 <p>Gets the last Unhandled exception from a previous module execution.</p><dl>

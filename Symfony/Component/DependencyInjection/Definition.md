@@ -40,7 +40,7 @@
 <tr><th colspan="2">Field Summary</th></tr>
 <tr>
 <td><span class='k'>protected </span> <span class='nx'>mixed</span></td>
-<td class="description"><p class="name" ><a href="arguments"> $arguments</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Definition.md#arguments"> $arguments</a>
                                 </p></td>
 </tr>
 </table>
@@ -56,7 +56,7 @@
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Definition.md#setfactoryclass>Definition</a></span></td>
+<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Definition.md>Definition</a></span></td>
 <td class="description"><p class="name"><a href="#setfactoryclass">setFactoryClass</a>(string factoryClass)</p><p class="description">Sets the name of the class that acts as a factory using the factory method,
 which will be invoked statically.</p></td>
 </tr>
@@ -65,7 +65,7 @@ which will be invoked statically.</p></td>
 <td class="description"><p class="name"><a href="#getfactoryclass">getFactoryClass</a>()</p><p class="description">Gets the factory class.</p></td>
 </tr>
 <tr>
-<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Definition.md#setfactorymethod>Definition</a></span></td>
+<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Definition.md>Definition</a></span></td>
 <td class="description"><p class="name"><a href="#setfactorymethod">setFactoryMethod</a>(string factoryMethod)</p><p class="description">Sets the factory method able to create an instance of this class.</p></td>
 </tr>
 <tr>
@@ -73,7 +73,7 @@ which will be invoked statically.</p></td>
 <td class="description"><p class="name"><a href="#getfactorymethod">getFactoryMethod</a>()</p><p class="description">Gets the factory method.</p></td>
 </tr>
 <tr>
-<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Definition.md#setfactoryservice>Definition</a></span></td>
+<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Definition.md>Definition</a></span></td>
 <td class="description"><p class="name"><a href="#setfactoryservice">setFactoryService</a>(string factoryService)</p><p class="description">Sets the name of the service that acts as a factory using the factory method.</p></td>
 </tr>
 <tr>
@@ -81,7 +81,7 @@ which will be invoked statically.</p></td>
 <td class="description"><p class="name"><a href="#getfactoryservice">getFactoryService</a>()</p><p class="description">Gets the factory service id.</p></td>
 </tr>
 <tr>
-<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Definition.md#setclass>Definition</a></span></td>
+<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Definition.md>Definition</a></span></td>
 <td class="description"><p class="name"><a href="#setclass">setClass</a>(string class)</p><p class="description">Sets the service class.</p></td>
 </tr>
 <tr>
@@ -89,7 +89,7 @@ which will be invoked statically.</p></td>
 <td class="description"><p class="name"><a href="#getclass">getClass</a>()</p><p class="description">Sets the service class.</p></td>
 </tr>
 <tr>
-<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Definition.md#setarguments>Definition</a></span></td>
+<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Definition.md>Definition</a></span></td>
 <td class="description"><p class="name"><a href="#setarguments">setArguments</a>(array arguments)</p><p class="description">Sets the arguments to pass to the service constructor/factory method.</p></td>
 </tr>
 <tr>
@@ -105,11 +105,11 @@ which will be invoked statically.</p></td>
 <td class="description"><p class="name"><a href="#setproperty">setProperty</a>(mixed name, mixed value)</p><p class="description"></p></td>
 </tr>
 <tr>
-<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Definition.md#addargument>Definition</a></span></td>
+<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Definition.md>Definition</a></span></td>
 <td class="description"><p class="name"><a href="#addargument">addArgument</a>(mixed argument)</p><p class="description">Adds an argument to pass to the service constructor/factory method.</p></td>
 </tr>
 <tr>
-<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Definition.md#replaceargument>Definition</a></span></td>
+<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Definition.md>Definition</a></span></td>
 <td class="description"><p class="name"><a href="#replaceargument">replaceArgument</a>(integer index, mixed argument)</p><p class="description">Sets a specific argument</p></td>
 </tr>
 <tr>
@@ -121,15 +121,15 @@ which will be invoked statically.</p></td>
 <td class="description"><p class="name"><a href="#getargument">getArgument</a>(integer index)</p><p class="description">Gets an argument to pass to the service constructor/factory method.</p></td>
 </tr>
 <tr>
-<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Definition.md#setmethodcalls>Definition</a></span></td>
+<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Definition.md>Definition</a></span></td>
 <td class="description"><p class="name"><a href="#setmethodcalls">setMethodCalls</a>(array calls)</p><p class="description">Sets the methods to call after service initialization.</p></td>
 </tr>
 <tr>
-<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Definition.md#addmethodcall>Definition</a></span></td>
+<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Definition.md>Definition</a></span></td>
 <td class="description"><p class="name"><a href="#addmethodcall">addMethodCall</a>(string method, array arguments)</p><p class="description">Adds a method to call after service initialization.</p></td>
 </tr>
 <tr>
-<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Definition.md#removemethodcall>Definition</a></span></td>
+<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Definition.md>Definition</a></span></td>
 <td class="description"><p class="name"><a href="#removemethodcall">removeMethodCall</a>(string method)</p><p class="description">Removes a method to call after service initialization.</p></td>
 </tr>
 <tr>
@@ -141,7 +141,7 @@ which will be invoked statically.</p></td>
 <td class="description"><p class="name"><a href="#getmethodcalls">getMethodCalls</a>()</p><p class="description">Gets the methods to call after service initialization.</p></td>
 </tr>
 <tr>
-<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Definition.md#settags>Definition</a></span></td>
+<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Definition.md>Definition</a></span></td>
 <td class="description"><p class="name"><a href="#settags">setTags</a>(array tags)</p><p class="description">Sets tags for this definition</p></td>
 </tr>
 <tr>
@@ -153,7 +153,7 @@ which will be invoked statically.</p></td>
 <td class="description"><p class="name"><a href="#gettag">getTag</a>(string name)</p><p class="description">Gets a tag by name.</p></td>
 </tr>
 <tr>
-<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Definition.md#addtag>Definition</a></span></td>
+<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Definition.md>Definition</a></span></td>
 <td class="description"><p class="name"><a href="#addtag">addTag</a>(string name, array attributes)</p><p class="description">Adds a tag for this definition.</p></td>
 </tr>
 <tr>
@@ -161,11 +161,11 @@ which will be invoked statically.</p></td>
 <td class="description"><p class="name"><a href="#hastag">hasTag</a>(string name)</p><p class="description">Whether this definition has a tag with the given name</p></td>
 </tr>
 <tr>
-<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Definition.md#cleartags>Definition</a></span></td>
+<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Definition.md>Definition</a></span></td>
 <td class="description"><p class="name"><a href="#cleartags">clearTags</a>()</p><p class="description">Clears the tags for this definition.</p></td>
 </tr>
 <tr>
-<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Definition.md#setfile>Definition</a></span></td>
+<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Definition.md>Definition</a></span></td>
 <td class="description"><p class="name"><a href="#setfile">setFile</a>(string file)</p><p class="description">Sets a file to require before creating the service.</p></td>
 </tr>
 <tr>
@@ -173,7 +173,7 @@ which will be invoked statically.</p></td>
 <td class="description"><p class="name"><a href="#getfile">getFile</a>()</p><p class="description">Gets the file to require before creating the service.</p></td>
 </tr>
 <tr>
-<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Definition.md#setscope>Definition</a></span></td>
+<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Definition.md>Definition</a></span></td>
 <td class="description"><p class="name"><a href="#setscope">setScope</a>(string scope)</p><p class="description">Sets the scope of the service</p></td>
 </tr>
 <tr>
@@ -181,7 +181,7 @@ which will be invoked statically.</p></td>
 <td class="description"><p class="name"><a href="#getscope">getScope</a>()</p><p class="description">Returns the scope of the service</p></td>
 </tr>
 <tr>
-<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Definition.md#setpublic>Definition</a></span></td>
+<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Definition.md>Definition</a></span></td>
 <td class="description"><p class="name"><a href="#setpublic">setPublic</a>(Boolean boolean)</p><p class="description">Sets the visibility of this service.</p></td>
 </tr>
 <tr>
@@ -189,7 +189,7 @@ which will be invoked statically.</p></td>
 <td class="description"><p class="name"><a href="#ispublic">isPublic</a>()</p><p class="description">Whether this service is public facing</p></td>
 </tr>
 <tr>
-<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Definition.md#setsynthetic>Definition</a></span></td>
+<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Definition.md>Definition</a></span></td>
 <td class="description"><p class="name"><a href="#setsynthetic">setSynthetic</a>(Boolean boolean)</p><p class="description">Sets whether this definition is synthetic, that is not constructed by the
 container, but dynamically injected.</p></td>
 </tr>
@@ -199,7 +199,7 @@ container, but dynamically injected.</p></td>
 container, but dynamically injected.</p></td>
 </tr>
 <tr>
-<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Definition.md#setabstract>Definition</a></span></td>
+<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Definition.md>Definition</a></span></td>
 <td class="description"><p class="name"><a href="#setabstract">setAbstract</a>(Boolean boolean)</p><p class="description">Whether this definition is abstract, that means it merely serves as a
 template for other definitions.</p></td>
 </tr>
@@ -209,7 +209,7 @@ template for other definitions.</p></td>
 template for other definitions.</p></td>
 </tr>
 <tr>
-<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Definition.md#setconfigurator>Definition</a></span></td>
+<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Definition.md>Definition</a></span></td>
 <td class="description"><p class="name"><a href="#setconfigurator">setConfigurator</a>(mixed callable)</p><p class="description">Sets a configurator to call after the service is fully initialized.</p></td>
 </tr>
 <tr>
@@ -253,7 +253,7 @@ template for other definitions.</p></td>
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Definition.php#L70" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Definition.php at line 70</a>
 
 <h3 id="setFactoryClass()">setFactoryClass</h3>
-<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Definition.md#setfactoryclass>Definition</a></span> <span class='nf'>setFactoryClass</span> (string factoryClass)
+<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Definition.md>Definition</a></span> <span class='nf'>setFactoryClass</span> (string factoryClass)
 
 <div class="details">
 <p>Sets the name of the class that acts as a factory using the factory method,
@@ -290,7 +290,7 @@ which will be invoked statically.</p><dl>
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Definition.php#L98" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Definition.php at line 98</a>
 
 <h3 id="setFactoryMethod()">setFactoryMethod</h3>
-<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Definition.md#setfactorymethod>Definition</a></span> <span class='nf'>setFactoryMethod</span> (string factoryMethod)
+<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Definition.md>Definition</a></span> <span class='nf'>setFactoryMethod</span> (string factoryMethod)
 
 <div class="details">
 <p>Sets the factory method able to create an instance of this class.</p><dl>
@@ -326,7 +326,7 @@ which will be invoked statically.</p><dl>
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Definition.php#L126" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Definition.php at line 126</a>
 
 <h3 id="setFactoryService()">setFactoryService</h3>
-<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Definition.md#setfactoryservice>Definition</a></span> <span class='nf'>setFactoryService</span> (string factoryService)
+<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Definition.md>Definition</a></span> <span class='nf'>setFactoryService</span> (string factoryService)
 
 <div class="details">
 <p>Sets the name of the service that acts as a factory using the factory method.</p><dl>
@@ -362,7 +362,7 @@ which will be invoked statically.</p><dl>
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Definition.php#L154" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Definition.php at line 154</a>
 
 <h3 id="setClass()">setClass</h3>
-<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Definition.md#setclass>Definition</a></span> <span class='nf'>setClass</span> (string class)
+<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Definition.md>Definition</a></span> <span class='nf'>setClass</span> (string class)
 
 <div class="details">
 <p>Sets the service class.</p><dl>
@@ -398,7 +398,7 @@ which will be invoked statically.</p><dl>
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Definition.php#L182" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Definition.php at line 182</a>
 
 <h3 id="setArguments()">setArguments</h3>
-<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Definition.md#setarguments>Definition</a></span> <span class='nf'>setArguments</span> (array arguments)
+<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Definition.md>Definition</a></span> <span class='nf'>setArguments</span> (array arguments)
 
 <div class="details">
 <p>Sets the arguments to pass to the service constructor/factory method.</p><dl>
@@ -462,7 +462,7 @@ which will be invoked statically.</p><dl>
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Definition.php#L226" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Definition.php at line 226</a>
 
 <h3 id="addArgument()">addArgument</h3>
-<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Definition.md#addargument>Definition</a></span> <span class='nf'>addArgument</span> (mixed argument)
+<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Definition.md>Definition</a></span> <span class='nf'>addArgument</span> (mixed argument)
 
 <div class="details">
 <p>Adds an argument to pass to the service constructor/factory method.</p><dl>
@@ -481,7 +481,7 @@ which will be invoked statically.</p><dl>
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Definition.php#L243" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Definition.php at line 243</a>
 
 <h3 id="replaceArgument()">replaceArgument</h3>
-<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Definition.md#replaceargument>Definition</a></span> <span class='nf'>replaceArgument</span> (integer index, mixed argument)
+<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Definition.md>Definition</a></span> <span class='nf'>replaceArgument</span> (integer index, mixed argument)
 
 <div class="details">
 <p>Sets a specific argument</p><dl>
@@ -532,7 +532,7 @@ which will be invoked statically.</p><dl>
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Definition.php#L293" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Definition.php at line 293</a>
 
 <h3 id="setMethodCalls()">setMethodCalls</h3>
-<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Definition.md#setmethodcalls>Definition</a></span> <span class='nf'>setMethodCalls</span> (array calls)
+<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Definition.md>Definition</a></span> <span class='nf'>setMethodCalls</span> (array calls)
 
 <div class="details">
 <p>Sets the methods to call after service initialization.</p><dl>
@@ -551,7 +551,7 @@ which will be invoked statically.</p><dl>
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Definition.php#L313" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Definition.php at line 313</a>
 
 <h3 id="addMethodCall()">addMethodCall</h3>
-<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Definition.md#addmethodcall>Definition</a></span> <span class='nf'>addMethodCall</span> (string method, array arguments)
+<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Definition.md>Definition</a></span> <span class='nf'>addMethodCall</span> (string method, array arguments)
 
 <div class="details">
 <p>Adds a method to call after service initialization.</p><dl>
@@ -571,7 +571,7 @@ which will be invoked statically.</p><dl>
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Definition.php#L329" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Definition.php at line 329</a>
 
 <h3 id="removeMethodCall()">removeMethodCall</h3>
-<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Definition.md#removemethodcall>Definition</a></span> <span class='nf'>removeMethodCall</span> (string method)
+<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Definition.md>Definition</a></span> <span class='nf'>removeMethodCall</span> (string method)
 
 <div class="details">
 <p>Removes a method to call after service initialization.</p><dl>
@@ -624,7 +624,7 @@ which will be invoked statically.</p><dl>
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Definition.php#L382" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Definition.php at line 382</a>
 
 <h3 id="setTags()">setTags</h3>
-<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Definition.md#settags>Definition</a></span> <span class='nf'>setTags</span> (array tags)
+<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Definition.md>Definition</a></span> <span class='nf'>setTags</span> (array tags)
 
 <div class="details">
 <p>Sets tags for this definition</p><dl>
@@ -677,7 +677,7 @@ which will be invoked statically.</p><dl>
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Definition.php#L425" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Definition.php at line 425</a>
 
 <h3 id="addTag()">addTag</h3>
-<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Definition.md#addtag>Definition</a></span> <span class='nf'>addTag</span> (string name, array attributes)
+<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Definition.md>Definition</a></span> <span class='nf'>addTag</span> (string name, array attributes)
 
 <div class="details">
 <p>Adds a tag for this definition.</p><dl>
@@ -712,7 +712,7 @@ which will be invoked statically.</p><dl>
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Definition.php#L453" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Definition.php at line 453</a>
 
 <h3 id="clearTags()">clearTags</h3>
-<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Definition.md#cleartags>Definition</a></span> <span class='nf'>clearTags</span> ()
+<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Definition.md>Definition</a></span> <span class='nf'>clearTags</span> ()
 
 <div class="details">
 <p>Clears the tags for this definition.</p><dl>
@@ -729,7 +729,7 @@ which will be invoked statically.</p><dl>
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Definition.php#L469" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Definition.php at line 469</a>
 
 <h3 id="setFile()">setFile</h3>
-<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Definition.md#setfile>Definition</a></span> <span class='nf'>setFile</span> (string file)
+<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Definition.md>Definition</a></span> <span class='nf'>setFile</span> (string file)
 
 <div class="details">
 <p>Sets a file to require before creating the service.</p><dl>
@@ -765,7 +765,7 @@ which will be invoked statically.</p><dl>
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Definition.php#L497" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Definition.php at line 497</a>
 
 <h3 id="setScope()">setScope</h3>
-<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Definition.md#setscope>Definition</a></span> <span class='nf'>setScope</span> (string scope)
+<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Definition.md>Definition</a></span> <span class='nf'>setScope</span> (string scope)
 
 <div class="details">
 <p>Sets the scope of the service</p><dl>
@@ -799,7 +799,7 @@ which will be invoked statically.</p><dl>
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Definition.php#L524" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Definition.php at line 524</a>
 
 <h3 id="setPublic()">setPublic</h3>
-<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Definition.md#setpublic>Definition</a></span> <span class='nf'>setPublic</span> (Boolean boolean)
+<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Definition.md>Definition</a></span> <span class='nf'>setPublic</span> (Boolean boolean)
 
 <div class="details">
 <p>Sets the visibility of this service.</p><dl>
@@ -831,7 +831,7 @@ which will be invoked statically.</p><dl>
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Definition.php#L553" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Definition.php at line 553</a>
 
 <h3 id="setSynthetic()">setSynthetic</h3>
-<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Definition.md#setsynthetic>Definition</a></span> <span class='nf'>setSynthetic</span> (Boolean boolean)
+<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Definition.md>Definition</a></span> <span class='nf'>setSynthetic</span> (Boolean boolean)
 
 <div class="details">
 <p>Sets whether this definition is synthetic, that is not constructed by the
@@ -865,7 +865,7 @@ container, but dynamically injected.</p><dl>
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Definition.php#L583" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Definition.php at line 583</a>
 
 <h3 id="setAbstract()">setAbstract</h3>
-<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Definition.md#setabstract>Definition</a></span> <span class='nf'>setAbstract</span> (Boolean boolean)
+<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Definition.md>Definition</a></span> <span class='nf'>setAbstract</span> (Boolean boolean)
 
 <div class="details">
 <p>Whether this definition is abstract, that means it merely serves as a
@@ -899,7 +899,7 @@ template for other definitions.</p><dl>
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Definition.php#L612" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Definition.php at line 612</a>
 
 <h3 id="setConfigurator()">setConfigurator</h3>
-<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Definition.md#setconfigurator>Definition</a></span> <span class='nf'>setConfigurator</span> (mixed callable)
+<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Definition.md>Definition</a></span> <span class='nf'>setConfigurator</span> (mixed callable)
 
 <div class="details">
 <p>Sets a configurator to call after the service is fully initialized.</p><dl>

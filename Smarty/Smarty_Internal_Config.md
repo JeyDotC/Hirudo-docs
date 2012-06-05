@@ -38,42 +38,42 @@
 <tr><th colspan="2">Field Summary</th></tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name" ><a href="compiled_config"> $compiled_config</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_Config.md#compiled_config"> $compiled_config</a>
                                 </p><p class="description">Compiled config file</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name" ><a href="compiled_filepath"> $compiled_filepath</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_Config.md#compiled_filepath"> $compiled_filepath</a>
                                 </p><p class="description">filepath of compiled config file</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>int</span></td>
-<td class="description"><p class="name" ><a href="compiled_timestamp"> $compiled_timestamp</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_Config.md#compiled_timestamp"> $compiled_timestamp</a>
                                 </p><p class="description">Filemtime of compiled config Filemtime</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>Smarty_Internal_Config_File_Compiler object</span></td>
-<td class="description"><p class="name" ><a href="compiler_object"> $compiler_object</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_Config.md#compiler_object"> $compiler_object</a>
                                 </p><p class="description">Config file compiler object</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name" ><a href="config_resource"> $config_resource</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_Config.md#config_resource"> $config_resource</a>
                                 </p><p class="description">Config resource</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>object</span></td>
-<td class="description"><p class="name" ><a href="data"> $data</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_Config.md#data"> $data</a>
                                 </p><p class="description">Object of config var storage</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>bool</span></td>
-<td class="description"><p class="name" ><a href="mustcompile"> $mustCompile</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_Config.md#mustcompile"> $mustCompile</a>
                                 </p><p class="description">flag if compiled config file is invalid and must be (re)compiled</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>Smarty object</span></td>
-<td class="description"><p class="name" ><a href="smarty"> $smarty</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_Config.md#smarty"> $smarty</a>
                                 </p><p class="description">Samrty instance</p></td>
 </tr>
 </table>

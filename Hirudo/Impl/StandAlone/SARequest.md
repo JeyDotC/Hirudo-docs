@@ -37,7 +37,7 @@
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td><span class='k'>static </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Impl/StandAlone/SARequest.md#instance>SARequest</a></span></td>
+<td><span class='k'>static </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Impl/StandAlone/SARequest.md>SARequest</a></span></td>
 <td class="description"><p class="name"><a href="#instance">instance</a>()</p><p class="description"></p></td>
 </tr>
 <tr>
@@ -73,7 +73,7 @@
 <td class="description"><p class="name"><a href="#submitted">submitted</a>()</p><p class="description">Determines if there is any data in the $_POST array.</p></td>
 </tr>
 <tr>
-<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Impl/StandAlone/SARequest.md#buildmodulecall>ModuleCall</a></span></td>
+<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/ModuleCall.md>ModuleCall</a></span></td>
 <td class="description"><p class="name"><a href="#buildmodulecall">buildModuleCall</a>()</p><p class="description">Creates a ModuleCall from request parameters, generally from the URL,
 the way this done depends on how this class interprets the URLs.</p></td>
 </tr>
@@ -88,7 +88,7 @@ the way this done depends on how this class interprets the URLs.</p></td>
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/SARequest.php#L47" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\SARequest.php at line 47</a>
 
 <h3 id="instance()">instance</h3>
-<span class='k'>static </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Impl/StandAlone/SARequest.md#instance>SARequest</a></span> <span class='nf'>instance</span> ()
+<span class='k'>static </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Impl/StandAlone/SARequest.md>SARequest</a></span> <span class='nf'>instance</span> ()
 
 <div class="details">
 <p></p>
@@ -248,7 +248,7 @@ the way this done depends on how this class interprets the URLs.</p></td>
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/SARequest.php#L88" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\SARequest.php at line 88</a>
 
 <h3 id="buildModuleCall()">buildModuleCall</h3>
-<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Impl/StandAlone/SARequest.md#buildmodulecall>ModuleCall</a></span> <span class='nf'>buildModuleCall</span> ()
+<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/ModuleCall.md>ModuleCall</a></span> <span class='nf'>buildModuleCall</span> ()
 
 <div class="details">
 <p>Creates a ModuleCall from request parameters, generally from the URL,

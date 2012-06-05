@@ -42,7 +42,7 @@ BaseFileLoader &gt; **FileLoader**
 <tr><th colspan="2">Field Summary</th></tr>
 <tr>
 <td><span class='k'>protected </span> <span class='nx'>mixed</span></td>
-<td class="description"><p class="name" ><a href="container"> $container</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Loader/FileLoader.md#container"> $container</a>
                                 </p></td>
 </tr>
 </table>

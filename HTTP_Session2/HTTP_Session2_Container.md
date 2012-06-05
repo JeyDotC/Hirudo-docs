@@ -48,7 +48,7 @@
 <tr><th colspan="2">Field Summary</th></tr>
 <tr>
 <td><span class='k'>protected </span> <span class='nx'>array</span></td>
-<td class="description"><p class="name" ><a href="options"> $options</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/HTTP_Session2/HTTP_Session2_Container.md#options"> $options</a>
                                 </p><p class="description">Additional options for the container object</p></td>
 </tr>
 </table>

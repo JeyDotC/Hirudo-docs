@@ -38,7 +38,7 @@
 <tr><th colspan="2">Field Summary</th></tr>
 <tr>
 <td><span class='k'>static </span> <span class='nx'>array</span></td>
-<td class="description"><p class="name" ><a href="template_data"> $template_data</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_Debug.md#template_data"> $template_data</a>
                                 </p><p class="description">template data</p></td>
 </tr>
 </table>

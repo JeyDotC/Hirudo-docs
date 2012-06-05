@@ -39,23 +39,23 @@
 <tr><th colspan="2">Field Summary</th></tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>array</span></td>
-<td class="description"><p class="name" ><a href="option_flags"> $option_flags</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_CompileBase.md#option_flags"> $option_flags</a>
                                 </p><p class="description">Array of names of valid option flags</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>array</span></td>
-<td class="description"><p class="name" ><a href="optional_attributes"> $optional_attributes</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_CompileBase.md#optional_attributes"> $optional_attributes</a>
                                 </p><p class="description">Array of names of optional attribute required by tag
 use array('_any') if there is no restriction of attributes names</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>array</span></td>
-<td class="description"><p class="name" ><a href="required_attributes"> $required_attributes</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_CompileBase.md#required_attributes"> $required_attributes</a>
                                 </p><p class="description">Array of names of required attribute required by tag</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>array</span></td>
-<td class="description"><p class="name" ><a href="shorttag_order"> $shorttag_order</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_CompileBase.md#shorttag_order"> $shorttag_order</a>
                                 </p><p class="description">Shorttag attribute order defined by its names</p></td>
 </tr>
 </table>

@@ -38,32 +38,32 @@
 <tr><th colspan="2">Field Summary</th></tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>object</span></td>
-<td class="description"><p class="name" ><a href="lex"> $lex</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_SmartyTemplateCompiler.md#lex"> $lex</a>
                                 </p><p class="description">Lexer object</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name" ><a href="lexer_class"> $lexer_class</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_SmartyTemplateCompiler.md#lexer_class"> $lexer_class</a>
                                 </p><p class="description">Lexer class name</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>array</span></td>
-<td class="description"><p class="name" ><a href="local_var"> $local_var</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_SmartyTemplateCompiler.md#local_var"> $local_var</a>
                                 </p><p class="description">array of vars which can be compiled in local scope</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>object</span></td>
-<td class="description"><p class="name" ><a href="parser"> $parser</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_SmartyTemplateCompiler.md#parser"> $parser</a>
                                 </p><p class="description">Parser object</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name" ><a href="parser_class"> $parser_class</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_SmartyTemplateCompiler.md#parser_class"> $parser_class</a>
                                 </p><p class="description">Parser class name</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>object</span></td>
-<td class="description"><p class="name" ><a href="smarty"> $smarty</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_SmartyTemplateCompiler.md#smarty"> $smarty</a>
                                 </p><p class="description">Smarty object</p></td>
 </tr>
 </table>

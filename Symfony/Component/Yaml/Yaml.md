@@ -35,7 +35,7 @@
 <tr><th colspan="2">Field Summary</th></tr>
 <tr>
 <td><span class='k'>static </span> <span class='nx'>mixed</span></td>
-<td class="description"><p class="name" ><a href="enablephpparsing"> $enablePhpParsing</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/Yaml/Yaml.md#enablephpparsing"> $enablePhpParsing</a>
                                 </p></td>
 </tr>
 </table>

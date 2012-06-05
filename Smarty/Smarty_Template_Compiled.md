@@ -38,37 +38,37 @@
 <tr><th colspan="2">Field Summary</th></tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>array</span></td>
-<td class="description"><p class="name" ><a href="_properties"> $_properties</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Template_Compiled.md#_properties"> $_properties</a>
                                 </p><p class="description">Metadata propertiespopulated by Smarty_Internal_Template::decodeProperties()</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>boolean</span></td>
-<td class="description"><p class="name" ><a href="exists"> $exists</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Template_Compiled.md#exists"> $exists</a>
                                 </p><p class="description">Compiled Existance</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name" ><a href="filepath"> $filepath</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Template_Compiled.md#filepath"> $filepath</a>
                                 </p><p class="description">Compiled Filepath</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>boolean</span></td>
-<td class="description"><p class="name" ><a href="iscompiled"> $isCompiled</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Template_Compiled.md#iscompiled"> $isCompiled</a>
                                 </p><p class="description">Template was compiled</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>boolean</span></td>
-<td class="description"><p class="name" ><a href="loaded"> $loaded</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Template_Compiled.md#loaded"> $loaded</a>
                                 </p><p class="description">Compiled Content Loaded</p></td>
 </tr>
 <tr>
-<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Template_Compiled.md#source'>Smarty_Template_Source</a></span></td>
-<td class="description"><p class="name" ><a href="source"> $source</a>
+<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Template_Source.md'>Smarty_Template_Source</a></span></td>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Template_Compiled.md#source"> $source</a>
                                 </p><p class="description">Source Object</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>integer</span></td>
-<td class="description"><p class="name" ><a href="timestamp"> $timestamp</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Template_Compiled.md#timestamp"> $timestamp</a>
                                 </p><p class="description">Compiled Timestamp</p></td>
 </tr>
 </table>
@@ -146,7 +146,7 @@
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_resource.php#L801" target='_blank'>framework\libs\smarty\sysplugins\smarty_resource.php at line 801</a>
 
 <h3 id="source">source</h3>
-<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Template_Compiled.md#source'>Smarty_Template_Source</a></span><span class='no'> $source</span><span class='o'> = null</span>
+<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Template_Source.md'>Smarty_Template_Source</a></span><span class='no'> $source</span><span class='o'> = null</span>
 
 <div class="details">
 <p>Source Object</p>

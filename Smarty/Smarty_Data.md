@@ -37,8 +37,8 @@
 <table id="summary_field">
 <tr><th colspan="2">Field Summary</th></tr>
 <tr>
-<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Data.md#smarty'>Smarty</a></span></td>
-<td class="description"><p class="name" ><a href="smarty"> $smarty</a>
+<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty.md'>Smarty</a></span></td>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Data.md#smarty"> $smarty</a>
                                 </p><p class="description">Smarty object</p></td>
 </tr>
 </table>
@@ -64,7 +64,7 @@
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_data.php#L433" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_data.php at line 433</a>
 
 <h3 id="smarty">smarty</h3>
-<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Data.md#smarty'>Smarty</a></span><span class='no'> $smarty</span><span class='o'> = null</span>
+<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty.md'>Smarty</a></span><span class='no'> $smarty</span><span class='o'> = null</span>
 
 <div class="details">
 <p>Smarty object</p>

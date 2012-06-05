@@ -8,100 +8,100 @@
 <tr><th colspan="2" class="title">Global Summary</th></tr>
 <tr>
 <td>final  mixed</td>
-<td class="description"><p class="name"><a href="#ds">DS</a></p><p class="description">«Copyright 2012 Jeysson José Guevara Mendivil(JeyDotC)»This file is part of Hirudo.
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-globals.md#ds">DS</a></p><p class="description">«Copyright 2012 Jeysson José Guevara Mendivil(JeyDotC)»This file is part of Hirudo.
 </p></td>
 </tr>
 <tr>
 <td>final  mixed</td>
-<td class="description"><p class="name"><a href="#err1">Err1</a></p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/Smarty_Internal_Templateparser.md#err1">Err1</a></p></td>
 </tr>
 <tr>
 <td>final  mixed</td>
-<td class="description"><p class="name"><a href="#hirudo_root">HIRUDO_ROOT</a></p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-globals.md#hirudo_root">HIRUDO_ROOT</a></p></td>
 </tr>
 <tr>
 <td>final  mixed</td>
-<td class="description"><p class="name"><a href="#smarty_dir">SMARTY_DIR</a></p><p class="description">set SMARTY_DIR to absolute path to Smarty library files.
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-globals.md#smarty_dir">SMARTY_DIR</a></p><p class="description">set SMARTY_DIR to absolute path to Smarty library files.
 </p></td>
 </tr>
 <tr>
 <td>final  mixed</td>
-<td class="description"><p class="name"><a href="#smarty_mbstring">SMARTY_MBSTRING</a></p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-globals.md#smarty_mbstring">SMARTY_MBSTRING</a></p></td>
 </tr>
 <tr>
 <td>final  mixed</td>
-<td class="description"><p class="name"><a href="#smarty_plugins_dir">SMARTY_PLUGINS_DIR</a></p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-globals.md#smarty_plugins_dir">SMARTY_PLUGINS_DIR</a></p></td>
 </tr>
 <tr>
 <td>final  mixed</td>
-<td class="description"><p class="name"><a href="#smarty_resource_char_set">SMARTY_RESOURCE_CHAR_SET</a></p><p class="description"></p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-globals.md#smarty_resource_char_set">SMARTY_RESOURCE_CHAR_SET</a></p><p class="description"></p></td>
 </tr>
 <tr>
 <td>final  str</td>
-<td class="description"><p class="name"><a href="#smarty_resource_date_format">SMARTY_RESOURCE_DATE_FORMAT</a></p><p class="description"></p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-globals.md#smarty_resource_date_format">SMARTY_RESOURCE_DATE_FORMAT</a></p><p class="description"></p></td>
 </tr>
 <tr>
 <td>final  int</td>
-<td class="description"><p class="name"><a href="#smarty_spl_autoload">SMARTY_SPL_AUTOLOAD</a></p><p class="description">register the class autoloader</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-globals.md#smarty_spl_autoload">SMARTY_SPL_AUTOLOAD</a></p><p class="description">register the class autoloader</p></td>
 </tr>
 <tr>
 <td>final  mixed</td>
-<td class="description"><p class="name"><a href="#smarty_sysplugins_dir">SMARTY_SYSPLUGINS_DIR</a></p><p class="description">set SMARTY_SYSPLUGINS_DIR to absolute path to Smarty internal plugins.
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-globals.md#smarty_sysplugins_dir">SMARTY_SYSPLUGINS_DIR</a></p><p class="description">set SMARTY_SYSPLUGINS_DIR to absolute path to Smarty internal plugins.
 </p></td>
 </tr>
 <tr>
 <td>final  mixed</td>
-<td class="description"><p class="name"><a href="#tpc_openb">TPC_OPENB</a></p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/Smarty_Internal_Configfileparser.md#tpc_openb">TPC_OPENB</a></p></td>
 </tr>
 <tr>
 <td>final  mixed</td>
-<td class="description"><p class="name"><a href="#tp_vert">TP_VERT</a></p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/Smarty_Internal_Templateparser.md#tp_vert">TP_VERT</a></p></td>
 </tr>
 <tr>
 <td>final  mixed</td>
-<td class="description"><p class="name"><a href="#yynocode">YYNOCODE</a></p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/Smarty_Internal_Configfileparser.md#yynocode">YYNOCODE</a></p></td>
 </tr>
 <tr>
 <td>final  mixed</td>
-<td class="description"><p class="name"><a href="#yy_reduce_use_dflt">YY_REDUCE_USE_DFLT</a></p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/Smarty_Internal_Configfileparser.md#yy_reduce_use_dflt">YY_REDUCE_USE_DFLT</a></p></td>
 </tr>
 <tr>
 <td>final  mixed</td>
-<td class="description"><p class="name"><a href="#yy_shift_use_dflt">YY_SHIFT_USE_DFLT</a></p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/Smarty_Internal_Configfileparser.md#yy_shift_use_dflt">YY_SHIFT_USE_DFLT</a></p></td>
 </tr>
 <tr>
 <td> mixed</td>
-<td class="description"><p class="name"><a href="#autoloadpath">autoloadPath</a></p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-globals.md#autoloadpath">autoloadPath</a></p></td>
 </tr>
 <tr>
 <td> mixed</td>
-<td class="description"><p class="name"><a href="#controller">controller</a></p><p class="description">«Copyright 2012 Jeysson José Guevara Mendivil(JeyDotC)»This file is part of Hirudo.
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-globals.md#controller">controller</a></p><p class="description">«Copyright 2012 Jeysson José Guevara Mendivil(JeyDotC)»This file is part of Hirudo.
 </p></td>
 </tr>
 <tr>
 <td> mixed</td>
-<td class="description"><p class="name"><a href="#loader">loader</a></p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-globals.md#loader">loader</a></p></td>
 </tr>
 <tr>
 <td> mixed</td>
-<td class="description"><p class="name"><a href="#manager">manager</a></p><p class="description">«Copyright 2012 Jeysson José Guevara Mendivil(JeyDotC)»This file is part of Hirudo.
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-globals.md#manager">manager</a></p><p class="description">«Copyright 2012 Jeysson José Guevara Mendivil(JeyDotC)»This file is part of Hirudo.
 </p></td>
 </tr>
 <tr>
 <td> mixed</td>
-<td class="description"><p class="name"><a href="#namespaces">namespaces</a></p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-globals.md#namespaces">namespaces</a></p></td>
 </tr>
 <tr>
 <td> mixed</td>
-<td class="description"><p class="name"><a href="#registeredautoloadfunctions">registeredAutoLoadFunctions</a></p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-globals.md#registeredautoloadfunctions">registeredAutoLoadFunctions</a></p></td>
 </tr>
 <tr>
 <td> mixed</td>
-<td class="description"><p class="name"><a href="#this">this</a></p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-globals.md#this">this</a></p></td>
 </tr>
 <tr>
 <td> mixed</td>
-<td class="description"><p class="name"><a href="#value">value</a></p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-globals.md#value">value</a></p></td>
 </tr>
 </table>
 

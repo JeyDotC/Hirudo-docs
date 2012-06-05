@@ -8,15 +8,15 @@
 <tr><th colspan="2" class="title">Function Summary</th></tr>
 <tr>
 <td><span class='k'>static </span> <span class='nx'>string</span></td>
-<td class="description"><p class="name"><a href="#parsescalar">parseScalar</a>(scalar scalar, string delimiters, array stringDelimiters, integer &$i, Boolean evaluate)</p><p class="description">Parses a scalar to a YAML string.</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/Yaml/package-functions.md#parsescalar">parseScalar</a>(scalar scalar, string delimiters, array stringDelimiters, integer &$i, Boolean evaluate)</p><p class="description">Parses a scalar to a YAML string.</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name"><a href="#unescapecharacter">unescapeCharacter</a>(string value)</p><p class="description">Unescapes a character that was found in a double-quoted string</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/Yaml/package-functions.md#unescapecharacter">unescapeCharacter</a>(string value)</p><p class="description">Unescapes a character that was found in a double-quoted string</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name"><a href="#unescapedoublequotedstring">unescapeDoubleQuotedString</a>(string value)</p><p class="description">Unescapes a double quoted string.</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/Yaml/package-functions.md#unescapedoublequotedstring">unescapeDoubleQuotedString</a>(string value)</p><p class="description">Unescapes a double quoted string.</p></td>
 </tr>
 </table>
 

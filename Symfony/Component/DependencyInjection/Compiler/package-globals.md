@@ -8,7 +8,7 @@
 <tr><th colspan="2" class="title">Global Summary</th></tr>
 <tr>
 <td>final  mixed</td>
-<td class="description"><p class="name"><a href="#type_after_removing">TYPE_AFTER_REMOVING</a></p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Compiler/PassConfig.md#type_after_removing">TYPE_AFTER_REMOVING</a></p></td>
 </tr>
 </table>
 

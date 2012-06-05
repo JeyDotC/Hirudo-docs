@@ -57,12 +57,12 @@ PRIMARY KEY (`id`)
 <tr><th colspan="2">Field Summary</th></tr>
 <tr>
 <td><span class='k'>protected </span> <span class='nx'>mixed</span></td>
-<td class="description"><p class="name" ><a href="crc"> $crc</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/HTTP_Session2/HTTP_Session2_Container_MDB2.md#crc"> $crc</a>
                                 </p><p class="description">Session data cache id</p></td>
 </tr>
 <tr>
 <td><span class='k'>protected </span> <span class='nx'>object DB</span></td>
-<td class="description"><p class="name" ><a href="db"> $db</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/HTTP_Session2/HTTP_Session2_Container_MDB2.md#db"> $db</a>
                                 </p><p class="description">MDB2 connection object</p></td>
 </tr>
 </table>

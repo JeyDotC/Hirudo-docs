@@ -52,12 +52,12 @@ consider using »a|b|c|$page-$items-$whatever« instead.</p></div>
 <tr><th colspan="2">Field Summary</th></tr>
 <tr>
 <td><span class='k'>protected </span> <span class='nx'>array</span></td>
-<td class="description"><p class="name" ><a href="contents"> $contents</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_CacheResource_KeyValueStore.md#contents"> $contents</a>
                                 </p><p class="description">cache for contents</p></td>
 </tr>
 <tr>
 <td><span class='k'>protected </span> <span class='nx'>array</span></td>
-<td class="description"><p class="name" ><a href="timestamps"> $timestamps</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_CacheResource_KeyValueStore.md#timestamps"> $timestamps</a>
                                 </p><p class="description">cache for timestamps</p></td>
 </tr>
 </table>

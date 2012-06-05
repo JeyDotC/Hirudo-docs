@@ -73,7 +73,7 @@
 <td class="description"><p class="name"><a href="#submitted">submitted</a>()</p><p class="description">Determines if there is any data in the $_POST array.</p></td>
 </tr>
 <tr>
-<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Impl/Joomla/JoomlaRequest.md#buildmodulecall>ModuleCall</a></span></td>
+<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/ModuleCall.md>ModuleCall</a></span></td>
 <td class="description"><p class="name"><a href="#buildmodulecall">buildModuleCall</a>()</p><p class="description">Creates a ModuleCall from request parameters, generally from the URL,
 the way this done depends on how this class interprets the URLs.</p></td>
 </tr>
@@ -248,7 +248,7 @@ the way this done depends on how this class interprets the URLs.</p></td>
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Joomla/JoomlaRequest.php#L88" target='_blank'>framework\hirudo\Hirudo\Impl\Joomla\JoomlaRequest.php at line 88</a>
 
 <h3 id="buildModuleCall()">buildModuleCall</h3>
-<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Impl/Joomla/JoomlaRequest.md#buildmodulecall>ModuleCall</a></span> <span class='nf'>buildModuleCall</span> ()
+<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/ModuleCall.md>ModuleCall</a></span> <span class='nf'>buildModuleCall</span> ()
 
 <div class="details">
 <p>Creates a ModuleCall from request parameters, generally from the URL,

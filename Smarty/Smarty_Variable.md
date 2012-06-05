@@ -34,17 +34,17 @@
 <tr><th colspan="2">Field Summary</th></tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>boolean</span></td>
-<td class="description"><p class="name" ><a href="nocache"> $nocache</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Variable.md#nocache"> $nocache</a>
                                 </p><p class="description">if true any output of this variable will be not cached</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>int</span></td>
-<td class="description"><p class="name" ><a href="scope"> $scope</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Variable.md#scope"> $scope</a>
                                 </p><p class="description">the scope the variable will have  (local,parent or root)</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>mixed</span></td>
-<td class="description"><p class="name" ><a href="value"> $value</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Variable.md#value"> $value</a>
                                 </p><p class="description">template variable</p></td>
 </tr>
 </table>

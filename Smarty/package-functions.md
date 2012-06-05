@@ -8,15 +8,15 @@
 <tr><th colspan="2" class="title">Function Summary</th></tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name"><a href="#_smarty_regex_replace_check">_smarty_regex_replace_check</a>(string search)</p><p class="description"></p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#_smarty_regex_replace_check">_smarty_regex_replace_check</a>(string search)</p><p class="description"></p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#smartyautoload">smartyAutoload</a>(mixed class)</p><p class="description">Autoloader</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smartyautoload">smartyAutoload</a>(mixed class)</p><p class="description">Autoloader</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name"><a href="#smarty_block_textformat">smarty_block_textformat</a>(array params, string content, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> template, boolean &$repeat, mixed repeat)</p><p class="description">Smarty {textformat}{/textformat} block pluginType:     block function
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_block_textformat">smarty_block_textformat</a>(array params, string content, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> template, boolean &$repeat, mixed repeat)</p><p class="description">Smarty {textformat}{/textformat} block pluginType:     block function
 Name:     textformat
 Purpose:  format text a certain way with preset styles
 or custom wrap/indent settings
@@ -34,13 +34,13 @@ wrap_boundary - boolean (true)
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string|null</span></td>
-<td class="description"><p class="name"><a href="#smarty_function_counter">smarty_function_counter</a>(array params, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> template)</p><p class="description">Smarty {counter} function pluginType:     function
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_function_counter">smarty_function_counter</a>(array params, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> template)</p><p class="description">Smarty {counter} function pluginType:     function
 Name:     counter
 Purpose:  print out a counter value</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string|null</span></td>
-<td class="description"><p class="name"><a href="#smarty_function_cycle">smarty_function_cycle</a>(array params, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> template)</p><p class="description">Smarty {cycle} function pluginType:     function
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_function_cycle">smarty_function_cycle</a>(array params, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> template)</p><p class="description">Smarty {cycle} function pluginType:     function
 Name:     cycle
 Date:     May 3, 2002
 Purpose:  cycle through given values
@@ -56,19 +56,19 @@ reset     - boolean - resets given var to true
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name"><a href="#smarty_function_escape_special_chars">smarty_function_escape_special_chars</a>(string string)</p><p class="description">escape_special_chars common functionFunction: smarty_function_escape_special_chars
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_function_escape_special_chars">smarty_function_escape_special_chars</a>(string string)</p><p class="description">escape_special_chars common functionFunction: smarty_function_escape_special_chars
 Purpose:  used by other smarty functions to escape
 special chars except for already escaped ones</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string|null</span></td>
-<td class="description"><p class="name"><a href="#smarty_function_fetch">smarty_function_fetch</a>(array params, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> template)</p><p class="description">Smarty {fetch} pluginType:     function
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_function_fetch">smarty_function_fetch</a>(array params, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> template)</p><p class="description">Smarty {fetch} pluginType:     function
 Name:     fetch
 Purpose:  fetch file, web or ftp data and display results</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name"><a href="#smarty_function_html_checkboxes">smarty_function_html_checkboxes</a>(array params, object template)</p><p class="description">Smarty {html_checkboxes} function pluginFile:       function.html_checkboxes.php
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_function_html_checkboxes">smarty_function_html_checkboxes</a>(array params, object template)</p><p class="description">Smarty {html_checkboxes} function pluginFile:       function.html_checkboxes.php
 Type:       function
 Name:       html_checkboxes
 Date:       24.Feb.2003
@@ -95,11 +95,11 @@ escape     (optional) - escape the content (not value), defaults to true
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#smarty_function_html_checkboxes_output">smarty_function_html_checkboxes_output</a>(mixed name, mixed value, mixed output, mixed selected, mixed extra, mixed separator, mixed labels, mixed label_ids, bool escape)</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_function_html_checkboxes_output">smarty_function_html_checkboxes_output</a>(mixed name, mixed value, mixed output, mixed selected, mixed extra, mixed separator, mixed labels, mixed label_ids, bool escape)</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name"><a href="#smarty_function_html_image">smarty_function_html_image</a>(array params, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> template)</p><p class="description">Smarty {html_image} function pluginType:     function
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_function_html_image">smarty_function_html_image</a>(array params, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> template)</p><p class="description">Smarty {html_image} function pluginType:     function
 Name:     html_image
 Date:     Feb 24, 2003
 Purpose:  format HTML tags for the image
@@ -118,7 +118,7 @@ path_prefix - prefix for path output (optional, default empty)
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name"><a href="#smarty_function_html_options">smarty_function_html_options</a>(array params, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> template)</p><p class="description">Smarty {html_options} function pluginType:     function
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_function_html_options">smarty_function_html_options</a>(array params, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> template)</p><p class="description">Smarty {html_options} function pluginType:     function
 Name:     html_options
 Purpose:  Prints the list of  tags generated from
 the passed parameters
@@ -137,15 +137,15 @@ class      (optional) - string default not set
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#smarty_function_html_options_optgroup">smarty_function_html_options_optgroup</a>(mixed key, mixed values, mixed selected, mixed id, mixed class, mixed idx)</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_function_html_options_optgroup">smarty_function_html_options_optgroup</a>(mixed key, mixed values, mixed selected, mixed id, mixed class, mixed idx)</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#smarty_function_html_options_optoutput">smarty_function_html_options_optoutput</a>(mixed key, mixed value, mixed selected, mixed id, mixed class, mixed idx)</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_function_html_options_optoutput">smarty_function_html_options_optoutput</a>(mixed key, mixed value, mixed selected, mixed id, mixed class, mixed idx)</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name"><a href="#smarty_function_html_radios">smarty_function_html_radios</a>(array params, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> template)</p><p class="description">Smarty {html_radios} function pluginFile:       function.html_radios.php
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_function_html_radios">smarty_function_html_radios</a>(array params, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> template)</p><p class="description">Smarty {html_radios} function pluginFile:       function.html_radios.php
 Type:       function
 Name:       html_radios
 Date:       24.Feb.2003
@@ -172,24 +172,24 @@ Examples:
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#smarty_function_html_radios_output">smarty_function_html_radios_output</a>(mixed name, mixed value, mixed output, mixed selected, mixed extra, mixed separator, mixed labels, mixed label_ids, mixed escape)</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_function_html_radios_output">smarty_function_html_radios_output</a>(mixed name, mixed value, mixed output, mixed selected, mixed extra, mixed separator, mixed labels, mixed label_ids, mixed escape)</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name"><a href="#smarty_function_html_select_date">smarty_function_html_select_date</a>(array params, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> template)</p><p class="description">Smarty {html_select_date} pluginType:     function
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_function_html_select_date">smarty_function_html_select_date</a>(array params, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> template)</p><p class="description">Smarty {html_select_date} pluginType:     function
 Name:     html_select_date
 Purpose:  Prints the dropdowns for date selection.
 </p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name"><a href="#smarty_function_html_select_time">smarty_function_html_select_time</a>(array params, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> template)</p><p class="description">Smarty {html_select_time} function pluginType:     function
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_function_html_select_time">smarty_function_html_select_time</a>(array params, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> template)</p><p class="description">Smarty {html_select_time} function pluginType:     function
 Name:     html_select_time
 Purpose:  Prints the dropdowns for time selection</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name"><a href="#smarty_function_html_table">smarty_function_html_table</a>(array params, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> template)</p><p class="description">Smarty {html_table} function pluginType:     function
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_function_html_table">smarty_function_html_table</a>(array params, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> template)</p><p class="description">Smarty {html_table} function pluginType:     function
 Name:     html_table
 Date:     Feb 17, 2003
 Purpose:  make an html table from an array of data
@@ -221,11 +221,11 @@ Examples:
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#smarty_function_html_table_cycle">smarty_function_html_table_cycle</a>(mixed name, mixed var, mixed no)</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_function_html_table_cycle">smarty_function_html_table_cycle</a>(mixed name, mixed var, mixed no)</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name"><a href="#smarty_function_mailto">smarty_function_mailto</a>(array params, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> template)</p><p class="description">Smarty {mailto} function pluginType:     function
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_function_mailto">smarty_function_mailto</a>(array params, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> template)</p><p class="description">Smarty {mailto} function pluginType:     function
 Name:     mailto
 Date:     May 21, 2002
 Purpose:  automate mailto address link creation, and optionally encode them.
@@ -259,44 +259,44 @@ Examples:
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string|null</span></td>
-<td class="description"><p class="name"><a href="#smarty_function_math">smarty_function_math</a>(array params, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> template)</p><p class="description">Smarty {math} function pluginType:     function
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_function_math">smarty_function_math</a>(array params, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> template)</p><p class="description">Smarty {math} function pluginType:     function
 Name:     math
 Purpose:  handle math computations in template</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>mixed</span></td>
-<td class="description"><p class="name"><a href="#smarty_literal_compiler_param">smarty_literal_compiler_param</a>(array params, integer index, mixed default)</p><p class="description">evaluate compiler parameter</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_literal_compiler_param">smarty_literal_compiler_param</a>(array params, integer index, mixed default)</p><p class="description">evaluate compiler parameter</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>int</span></td>
-<td class="description"><p class="name"><a href="#smarty_make_timestamp">smarty_make_timestamp</a>(DateTime|int|string string)</p><p class="description">Function: smarty_make_timestamp
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_make_timestamp">smarty_make_timestamp</a>(DateTime|int|string string)</p><p class="description">Function: smarty_make_timestamp
 Purpose:  used by other smarty functions to make a timestamp from a string.</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name"><a href="#smarty_mb_from_unicode">smarty_mb_from_unicode</a>(integer|array unicode, string encoding)</p><p class="description">convert unicodes to the character of given encoding</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_mb_from_unicode">smarty_mb_from_unicode</a>(integer|array unicode, string encoding)</p><p class="description">convert unicodes to the character of given encoding</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name"><a href="#smarty_mb_str_replace">smarty_mb_str_replace</a>(string search, string replace, string subject, int &$count, int count)</p><p class="description">Multibyte string replace</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_mb_str_replace">smarty_mb_str_replace</a>(string search, string replace, string subject, int &$count, int count)</p><p class="description">Multibyte string replace</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>array</span></td>
-<td class="description"><p class="name"><a href="#smarty_mb_to_unicode">smarty_mb_to_unicode</a>(string string, string encoding)</p><p class="description">convert characters to their decimal unicode equivalents</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_mb_to_unicode">smarty_mb_to_unicode</a>(string string, string encoding)</p><p class="description">convert characters to their decimal unicode equivalents</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name"><a href="#smarty_mb_wordwrap">smarty_mb_wordwrap</a>(string str, int width, string break, boolean cut)</p><p class="description">Wrap a string to a given number of characters</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_mb_wordwrap">smarty_mb_wordwrap</a>(string str, int width, string break, boolean cut)</p><p class="description">Wrap a string to a given number of characters</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name"><a href="#smarty_modifier_capitalize">smarty_modifier_capitalize</a>(string string, boolean uc_digits, boolean lc_rest)</p><p class="description">Smarty capitalize modifier pluginType:     modifier
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_modifier_capitalize">smarty_modifier_capitalize</a>(string string, boolean uc_digits, boolean lc_rest)</p><p class="description">Smarty capitalize modifier pluginType:     modifier
 Name:     capitalize
 Purpose:  capitalize words in the string{$string|capitalize:true:true is the fastest option for MBString enabled systems }}</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name"><a href="#smarty_modifier_date_format">smarty_modifier_date_format</a>(string string, string format, string default_date, string formatter)</p><p class="description">Smarty date_format modifier pluginType:     modifier
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_modifier_date_format">smarty_modifier_date_format</a>(string string, string format, string default_date, string formatter)</p><p class="description">Smarty date_format modifier pluginType:     modifier
 Name:     date_format
 Purpose:  format datestamps via strftime
 Input:
@@ -308,37 +308,37 @@ format: strftime format for output
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name"><a href="#smarty_modifier_debug_print_var">smarty_modifier_debug_print_var</a>(array|object var, integer depth, integer length)</p><p class="description">Smarty debug_print_var modifier pluginType:     modifier
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_modifier_debug_print_var">smarty_modifier_debug_print_var</a>(array|object var, integer depth, integer length)</p><p class="description">Smarty debug_print_var modifier pluginType:     modifier
 Name:     debug_print_var
 Purpose:  formats variable contents for display in the console</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name"><a href="#smarty_modifier_escape">smarty_modifier_escape</a>(string string, string esc_type, string char_set, boolean double_encode)</p><p class="description">Smarty escape modifier pluginType:     modifier
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_modifier_escape">smarty_modifier_escape</a>(string string, string esc_type, string char_set, boolean double_encode)</p><p class="description">Smarty escape modifier pluginType:     modifier
 Name:     escape
 Purpose:  escape string for output</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name"><a href="#smarty_modifier_regex_replace">smarty_modifier_regex_replace</a>(string string, string|array search, string|array replace)</p><p class="description">Smarty regex_replace modifier pluginType:     modifier
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_modifier_regex_replace">smarty_modifier_regex_replace</a>(string string, string|array search, string|array replace)</p><p class="description">Smarty regex_replace modifier pluginType:     modifier
 Name:     regex_replace
 Purpose:  regular expression search/replace</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name"><a href="#smarty_modifier_replace">smarty_modifier_replace</a>(string string, string search, string replace)</p><p class="description">Smarty replace modifier pluginType:     modifier
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_modifier_replace">smarty_modifier_replace</a>(string string, string search, string replace)</p><p class="description">Smarty replace modifier pluginType:     modifier
 Name:     replace
 Purpose:  simple search/replace</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name"><a href="#smarty_modifier_spacify">smarty_modifier_spacify</a>(string string, string spacify_char)</p><p class="description">Smarty spacify modifier pluginType:     modifier
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_modifier_spacify">smarty_modifier_spacify</a>(string string, string spacify_char)</p><p class="description">Smarty spacify modifier pluginType:     modifier
 Name:     spacify
 Purpose:  add spaces between characters in a string</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name"><a href="#smarty_modifier_truncate">smarty_modifier_truncate</a>(string string, integer length, string etc, boolean break_words, boolean middle)</p><p class="description">Smarty truncate modifier pluginType:     modifier
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_modifier_truncate">smarty_modifier_truncate</a>(string string, integer length, string etc, boolean break_words, boolean middle)</p><p class="description">Smarty truncate modifier pluginType:     modifier
 Name:     truncate
 Purpose:  Truncate a string to a certain length if necessary,
 optionally splitting in the middle of a word, and
@@ -346,7 +346,7 @@ appending the $etc string or inserting $etc into the middle.</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name"><a href="#smarty_modifiercompiler_cat">smarty_modifiercompiler_cat</a>(array params, mixed compiler)</p><p class="description">Smarty cat modifier pluginType:     modifier
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_modifiercompiler_cat">smarty_modifiercompiler_cat</a>(array params, mixed compiler)</p><p class="description">Smarty cat modifier pluginType:     modifier
 Name:     cat
 Date:     Feb 24, 2003
 Purpose:  catenate a value to a variable
@@ -355,73 +355,73 @@ Example:  {$var|cat:"foo"}</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name"><a href="#smarty_modifiercompiler_count_characters">smarty_modifiercompiler_count_characters</a>(array params, mixed compiler)</p><p class="description">Smarty count_characters modifier pluginType:     modifier
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_modifiercompiler_count_characters">smarty_modifiercompiler_count_characters</a>(array params, mixed compiler)</p><p class="description">Smarty count_characters modifier pluginType:     modifier
 Name:     count_characteres
 Purpose:  count the number of characters in a text</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name"><a href="#smarty_modifiercompiler_count_paragraphs">smarty_modifiercompiler_count_paragraphs</a>(array params, mixed compiler)</p><p class="description">Smarty count_paragraphs modifier pluginType:     modifier
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_modifiercompiler_count_paragraphs">smarty_modifiercompiler_count_paragraphs</a>(array params, mixed compiler)</p><p class="description">Smarty count_paragraphs modifier pluginType:     modifier
 Name:     count_paragraphs
 Purpose:  count the number of paragraphs in a text</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name"><a href="#smarty_modifiercompiler_count_sentences">smarty_modifiercompiler_count_sentences</a>(array params, mixed compiler)</p><p class="description">Smarty count_sentences modifier pluginType:     modifier
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_modifiercompiler_count_sentences">smarty_modifiercompiler_count_sentences</a>(array params, mixed compiler)</p><p class="description">Smarty count_sentences modifier pluginType:     modifier
 Name:     count_sentences
 Purpose:  count the number of sentences in a text</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name"><a href="#smarty_modifiercompiler_count_words">smarty_modifiercompiler_count_words</a>(array params, mixed compiler)</p><p class="description">Smarty count_words modifier pluginType:     modifier
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_modifiercompiler_count_words">smarty_modifiercompiler_count_words</a>(array params, mixed compiler)</p><p class="description">Smarty count_words modifier pluginType:     modifier
 Name:     count_words
 Purpose:  count the number of words in a text</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name"><a href="#smarty_modifiercompiler_default">smarty_modifiercompiler_default</a>(array params, mixed compiler)</p><p class="description">Smarty default modifier pluginType:     modifier
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_modifiercompiler_default">smarty_modifiercompiler_default</a>(array params, mixed compiler)</p><p class="description">Smarty default modifier pluginType:     modifier
 Name:     default
 Purpose:  designate default value for empty variables</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name"><a href="#smarty_modifiercompiler_escape">smarty_modifiercompiler_escape</a>(array params, mixed compiler)</p><p class="description">Smarty escape modifier pluginType:     modifier
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_modifiercompiler_escape">smarty_modifiercompiler_escape</a>(array params, mixed compiler)</p><p class="description">Smarty escape modifier pluginType:     modifier
 Name:     escape
 Purpose:  escape string for output</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name"><a href="#smarty_modifiercompiler_from_charset">smarty_modifiercompiler_from_charset</a>(array params, mixed compiler)</p><p class="description">Smarty from_charset modifier pluginType:     modifier
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_modifiercompiler_from_charset">smarty_modifiercompiler_from_charset</a>(array params, mixed compiler)</p><p class="description">Smarty from_charset modifier pluginType:     modifier
 Name:     from_charset
 Purpose:  convert character encoding from $charset to internal encoding</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name"><a href="#smarty_modifiercompiler_indent">smarty_modifiercompiler_indent</a>(array params, mixed compiler)</p><p class="description">Smarty indent modifier pluginType:     modifier
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_modifiercompiler_indent">smarty_modifiercompiler_indent</a>(array params, mixed compiler)</p><p class="description">Smarty indent modifier pluginType:     modifier
 Name:     indent
 Purpose:  indent lines of text</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name"><a href="#smarty_modifiercompiler_lower">smarty_modifiercompiler_lower</a>(array params, mixed compiler)</p><p class="description">Smarty lower modifier pluginType:     modifier
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_modifiercompiler_lower">smarty_modifiercompiler_lower</a>(array params, mixed compiler)</p><p class="description">Smarty lower modifier pluginType:     modifier
 Name:     lower
 Purpose:  convert string to lowercase</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name"><a href="#smarty_modifiercompiler_noprint">smarty_modifiercompiler_noprint</a>(array params, mixed compiler)</p><p class="description">Smarty noprint modifier pluginType:     modifier
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_modifiercompiler_noprint">smarty_modifiercompiler_noprint</a>(array params, mixed compiler)</p><p class="description">Smarty noprint modifier pluginType:     modifier
 Name:     noprint
 Purpose:  return an empty string</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name"><a href="#smarty_modifiercompiler_string_format">smarty_modifiercompiler_string_format</a>(array params, mixed compiler)</p><p class="description">Smarty string_format modifier pluginType:     modifier
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_modifiercompiler_string_format">smarty_modifiercompiler_string_format</a>(array params, mixed compiler)</p><p class="description">Smarty string_format modifier pluginType:     modifier
 Name:     string_format
 Purpose:  format strings via sprintf</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name"><a href="#smarty_modifiercompiler_strip">smarty_modifiercompiler_strip</a>(array params, mixed compiler)</p><p class="description">Smarty strip modifier pluginType:     modifier
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_modifiercompiler_strip">smarty_modifiercompiler_strip</a>(array params, mixed compiler)</p><p class="description">Smarty strip modifier pluginType:     modifier
 Name:     strip
 Purpose:  Replace all repeated spaces, newlines, tabs
 with a single space or supplied replacement string.
@@ -430,417 +430,417 @@ Date:     September 25th, 2002</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name"><a href="#smarty_modifiercompiler_strip_tags">smarty_modifiercompiler_strip_tags</a>(array params, mixed compiler)</p><p class="description">Smarty strip_tags modifier pluginType:     modifier
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_modifiercompiler_strip_tags">smarty_modifiercompiler_strip_tags</a>(array params, mixed compiler)</p><p class="description">Smarty strip_tags modifier pluginType:     modifier
 Name:     strip_tags
 Purpose:  strip html tags from text</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name"><a href="#smarty_modifiercompiler_to_charset">smarty_modifiercompiler_to_charset</a>(array params, mixed compiler)</p><p class="description">Smarty to_charset modifier pluginType:     modifier
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_modifiercompiler_to_charset">smarty_modifiercompiler_to_charset</a>(array params, mixed compiler)</p><p class="description">Smarty to_charset modifier pluginType:     modifier
 Name:     to_charset
 Purpose:  convert character encoding from internal encoding to $charset</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name"><a href="#smarty_modifiercompiler_unescape">smarty_modifiercompiler_unescape</a>(array params, mixed compiler)</p><p class="description">Smarty unescape modifier pluginType:     modifier
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_modifiercompiler_unescape">smarty_modifiercompiler_unescape</a>(array params, mixed compiler)</p><p class="description">Smarty unescape modifier pluginType:     modifier
 Name:     unescape
 Purpose:  unescape html entities</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name"><a href="#smarty_modifiercompiler_upper">smarty_modifiercompiler_upper</a>(array params, mixed compiler)</p><p class="description">Smarty upper modifier pluginType:     modifier
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_modifiercompiler_upper">smarty_modifiercompiler_upper</a>(array params, mixed compiler)</p><p class="description">Smarty upper modifier pluginType:     modifier
 Name:     lower
 Purpose:  convert string to uppercase</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name"><a href="#smarty_modifiercompiler_wordwrap">smarty_modifiercompiler_wordwrap</a>(array params, mixed compiler)</p><p class="description">Smarty wordwrap modifier pluginType:     modifier
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_modifiercompiler_wordwrap">smarty_modifiercompiler_wordwrap</a>(array params, mixed compiler)</p><p class="description">Smarty wordwrap modifier pluginType:     modifier
 Name:     wordwrap
 Purpose:  wrap a string of text at a given length</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name"><a href="#smarty_outputfilter_trimwhitespace">smarty_outputfilter_trimwhitespace</a>(string source, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> smarty)</p><p class="description">Smarty trimwhitespace outputfilter pluginTrim unnecessary whitespace from HTML markup.</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_outputfilter_trimwhitespace">smarty_outputfilter_trimwhitespace</a>(string source, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> smarty)</p><p class="description">Smarty trimwhitespace outputfilter pluginTrim unnecessary whitespace from HTML markup.</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name"><a href="#smarty_php_tag">smarty_php_tag</a>(array params, string content, object template, boolean &$repeat, mixed repeat)</p><p class="description">Smarty {php}{/php} block function</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_php_tag">smarty_php_tag</a>(array params, string content, object template, boolean &$repeat, mixed repeat)</p><p class="description">Smarty {php}{/php} block function</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name"><a href="#smarty_variablefilter_htmlspecialchars">smarty_variablefilter_htmlspecialchars</a>(string source, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> smarty)</p><p class="description">Smarty htmlspecialchars variablefilter plugin</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_variablefilter_htmlspecialchars">smarty_variablefilter_htmlspecialchars</a>(string source, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> smarty)</p><p class="description">Smarty htmlspecialchars variablefilter plugin</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#yy_r1_13">yy_r1_13</a>(mixed yy_subpatterns)</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r1_13">yy_r1_13</a>(mixed yy_subpatterns)</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#yy_r1_14">yy_r1_14</a>(mixed yy_subpatterns)</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r1_14">yy_r1_14</a>(mixed yy_subpatterns)</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#yy_r1_15">yy_r1_15</a>(mixed yy_subpatterns)</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r1_15">yy_r1_15</a>(mixed yy_subpatterns)</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#yy_r1_16">yy_r1_16</a>(mixed yy_subpatterns)</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r1_16">yy_r1_16</a>(mixed yy_subpatterns)</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#yy_r1_17">yy_r1_17</a>(mixed yy_subpatterns)</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r1_17">yy_r1_17</a>(mixed yy_subpatterns)</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#yy_r1_18">yy_r1_18</a>(mixed yy_subpatterns)</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r1_18">yy_r1_18</a>(mixed yy_subpatterns)</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#yy_r1_19">yy_r1_19</a>(mixed yy_subpatterns)</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r1_19">yy_r1_19</a>(mixed yy_subpatterns)</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#yy_r1_20">yy_r1_20</a>(mixed yy_subpatterns)</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r1_20">yy_r1_20</a>(mixed yy_subpatterns)</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#yy_r1_21">yy_r1_21</a>(mixed yy_subpatterns)</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r1_21">yy_r1_21</a>(mixed yy_subpatterns)</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#yy_r1_22">yy_r1_22</a>(mixed yy_subpatterns)</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r1_22">yy_r1_22</a>(mixed yy_subpatterns)</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#yy_r1_23">yy_r1_23</a>(mixed yy_subpatterns)</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r1_23">yy_r1_23</a>(mixed yy_subpatterns)</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#yy_r2_10">yy_r2_10</a>(mixed yy_subpatterns)</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_10">yy_r2_10</a>(mixed yy_subpatterns)</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#yy_r2_11">yy_r2_11</a>(mixed yy_subpatterns)</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_11">yy_r2_11</a>(mixed yy_subpatterns)</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#yy_r2_12">yy_r2_12</a>(mixed yy_subpatterns)</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_12">yy_r2_12</a>(mixed yy_subpatterns)</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#yy_r2_13">yy_r2_13</a>(mixed yy_subpatterns)</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_13">yy_r2_13</a>(mixed yy_subpatterns)</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#yy_r2_14">yy_r2_14</a>(mixed yy_subpatterns)</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_14">yy_r2_14</a>(mixed yy_subpatterns)</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#yy_r2_15">yy_r2_15</a>(mixed yy_subpatterns)</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_15">yy_r2_15</a>(mixed yy_subpatterns)</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#yy_r2_16">yy_r2_16</a>(mixed yy_subpatterns)</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_16">yy_r2_16</a>(mixed yy_subpatterns)</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#yy_r2_17">yy_r2_17</a>(mixed yy_subpatterns)</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_17">yy_r2_17</a>(mixed yy_subpatterns)</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#yy_r2_18">yy_r2_18</a>(mixed yy_subpatterns)</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_18">yy_r2_18</a>(mixed yy_subpatterns)</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#yy_r2_19">yy_r2_19</a>(mixed yy_subpatterns)</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_19">yy_r2_19</a>(mixed yy_subpatterns)</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#yy_r2_20">yy_r2_20</a>(mixed yy_subpatterns)</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_20">yy_r2_20</a>(mixed yy_subpatterns)</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#yy_r2_22">yy_r2_22</a>(mixed yy_subpatterns)</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_22">yy_r2_22</a>(mixed yy_subpatterns)</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#yy_r2_24">yy_r2_24</a>(mixed yy_subpatterns)</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_24">yy_r2_24</a>(mixed yy_subpatterns)</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#yy_r2_26">yy_r2_26</a>(mixed yy_subpatterns)</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_26">yy_r2_26</a>(mixed yy_subpatterns)</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#yy_r2_27">yy_r2_27</a>(mixed yy_subpatterns)</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_27">yy_r2_27</a>(mixed yy_subpatterns)</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#yy_r2_28">yy_r2_28</a>(mixed yy_subpatterns)</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_28">yy_r2_28</a>(mixed yy_subpatterns)</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#yy_r2_29">yy_r2_29</a>(mixed yy_subpatterns)</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_29">yy_r2_29</a>(mixed yy_subpatterns)</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#yy_r2_30">yy_r2_30</a>(mixed yy_subpatterns)</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_30">yy_r2_30</a>(mixed yy_subpatterns)</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#yy_r2_31">yy_r2_31</a>(mixed yy_subpatterns)</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_31">yy_r2_31</a>(mixed yy_subpatterns)</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#yy_r2_32">yy_r2_32</a>(mixed yy_subpatterns)</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_32">yy_r2_32</a>(mixed yy_subpatterns)</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#yy_r2_33">yy_r2_33</a>(mixed yy_subpatterns)</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_33">yy_r2_33</a>(mixed yy_subpatterns)</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#yy_r2_34">yy_r2_34</a>(mixed yy_subpatterns)</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_34">yy_r2_34</a>(mixed yy_subpatterns)</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#yy_r2_35">yy_r2_35</a>(mixed yy_subpatterns)</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_35">yy_r2_35</a>(mixed yy_subpatterns)</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#yy_r2_36">yy_r2_36</a>(mixed yy_subpatterns)</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_36">yy_r2_36</a>(mixed yy_subpatterns)</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#yy_r2_37">yy_r2_37</a>(mixed yy_subpatterns)</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_37">yy_r2_37</a>(mixed yy_subpatterns)</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#yy_r2_38">yy_r2_38</a>(mixed yy_subpatterns)</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_38">yy_r2_38</a>(mixed yy_subpatterns)</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#yy_r2_39">yy_r2_39</a>(mixed yy_subpatterns)</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_39">yy_r2_39</a>(mixed yy_subpatterns)</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#yy_r2_40">yy_r2_40</a>(mixed yy_subpatterns)</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_40">yy_r2_40</a>(mixed yy_subpatterns)</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#yy_r2_41">yy_r2_41</a>(mixed yy_subpatterns)</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_41">yy_r2_41</a>(mixed yy_subpatterns)</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#yy_r2_42">yy_r2_42</a>(mixed yy_subpatterns)</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_42">yy_r2_42</a>(mixed yy_subpatterns)</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#yy_r2_43">yy_r2_43</a>(mixed yy_subpatterns)</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_43">yy_r2_43</a>(mixed yy_subpatterns)</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#yy_r2_47">yy_r2_47</a>(mixed yy_subpatterns)</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_47">yy_r2_47</a>(mixed yy_subpatterns)</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#yy_r2_48">yy_r2_48</a>(mixed yy_subpatterns)</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_48">yy_r2_48</a>(mixed yy_subpatterns)</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#yy_r2_49">yy_r2_49</a>(mixed yy_subpatterns)</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_49">yy_r2_49</a>(mixed yy_subpatterns)</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#yy_r2_5">yy_r2_5</a>(mixed yy_subpatterns)</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_5">yy_r2_5</a>(mixed yy_subpatterns)</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#yy_r2_50">yy_r2_50</a>(mixed yy_subpatterns)</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_50">yy_r2_50</a>(mixed yy_subpatterns)</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#yy_r2_51">yy_r2_51</a>(mixed yy_subpatterns)</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_51">yy_r2_51</a>(mixed yy_subpatterns)</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#yy_r2_52">yy_r2_52</a>(mixed yy_subpatterns)</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_52">yy_r2_52</a>(mixed yy_subpatterns)</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#yy_r2_53">yy_r2_53</a>(mixed yy_subpatterns)</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_53">yy_r2_53</a>(mixed yy_subpatterns)</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#yy_r2_54">yy_r2_54</a>(mixed yy_subpatterns)</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_54">yy_r2_54</a>(mixed yy_subpatterns)</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#yy_r2_55">yy_r2_55</a>(mixed yy_subpatterns)</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_55">yy_r2_55</a>(mixed yy_subpatterns)</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#yy_r2_57">yy_r2_57</a>(mixed yy_subpatterns)</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_57">yy_r2_57</a>(mixed yy_subpatterns)</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#yy_r2_59">yy_r2_59</a>(mixed yy_subpatterns)</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_59">yy_r2_59</a>(mixed yy_subpatterns)</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#yy_r2_6">yy_r2_6</a>(mixed yy_subpatterns)</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_6">yy_r2_6</a>(mixed yy_subpatterns)</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#yy_r2_60">yy_r2_60</a>(mixed yy_subpatterns)</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_60">yy_r2_60</a>(mixed yy_subpatterns)</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#yy_r2_61">yy_r2_61</a>(mixed yy_subpatterns)</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_61">yy_r2_61</a>(mixed yy_subpatterns)</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#yy_r2_62">yy_r2_62</a>(mixed yy_subpatterns)</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_62">yy_r2_62</a>(mixed yy_subpatterns)</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#yy_r2_63">yy_r2_63</a>(mixed yy_subpatterns)</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_63">yy_r2_63</a>(mixed yy_subpatterns)</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#yy_r2_64">yy_r2_64</a>(mixed yy_subpatterns)</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_64">yy_r2_64</a>(mixed yy_subpatterns)</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#yy_r2_65">yy_r2_65</a>(mixed yy_subpatterns)</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_65">yy_r2_65</a>(mixed yy_subpatterns)</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#yy_r2_66">yy_r2_66</a>(mixed yy_subpatterns)</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_66">yy_r2_66</a>(mixed yy_subpatterns)</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#yy_r2_67">yy_r2_67</a>(mixed yy_subpatterns)</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_67">yy_r2_67</a>(mixed yy_subpatterns)</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#yy_r2_68">yy_r2_68</a>(mixed yy_subpatterns)</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_68">yy_r2_68</a>(mixed yy_subpatterns)</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#yy_r2_69">yy_r2_69</a>(mixed yy_subpatterns)</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_69">yy_r2_69</a>(mixed yy_subpatterns)</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#yy_r2_7">yy_r2_7</a>(mixed yy_subpatterns)</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_7">yy_r2_7</a>(mixed yy_subpatterns)</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#yy_r2_70">yy_r2_70</a>(mixed yy_subpatterns)</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_70">yy_r2_70</a>(mixed yy_subpatterns)</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#yy_r2_71">yy_r2_71</a>(mixed yy_subpatterns)</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_71">yy_r2_71</a>(mixed yy_subpatterns)</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#yy_r2_72">yy_r2_72</a>(mixed yy_subpatterns)</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_72">yy_r2_72</a>(mixed yy_subpatterns)</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#yy_r2_73">yy_r2_73</a>(mixed yy_subpatterns)</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_73">yy_r2_73</a>(mixed yy_subpatterns)</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#yy_r2_74">yy_r2_74</a>(mixed yy_subpatterns)</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_74">yy_r2_74</a>(mixed yy_subpatterns)</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#yy_r2_75">yy_r2_75</a>(mixed yy_subpatterns)</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_75">yy_r2_75</a>(mixed yy_subpatterns)</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#yy_r2_76">yy_r2_76</a>(mixed yy_subpatterns)</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_76">yy_r2_76</a>(mixed yy_subpatterns)</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#yy_r2_8">yy_r2_8</a>(mixed yy_subpatterns)</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_8">yy_r2_8</a>(mixed yy_subpatterns)</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#yy_r2_9">yy_r2_9</a>(mixed yy_subpatterns)</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_9">yy_r2_9</a>(mixed yy_subpatterns)</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#yy_r3_4">yy_r3_4</a>(mixed yy_subpatterns)</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r3_4">yy_r3_4</a>(mixed yy_subpatterns)</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#yy_r3_5">yy_r3_5</a>(mixed yy_subpatterns)</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r3_5">yy_r3_5</a>(mixed yy_subpatterns)</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#yy_r3_6">yy_r3_6</a>(mixed yy_subpatterns)</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r3_6">yy_r3_6</a>(mixed yy_subpatterns)</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#yy_r3_7">yy_r3_7</a>(mixed yy_subpatterns)</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r3_7">yy_r3_7</a>(mixed yy_subpatterns)</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#yy_r4_10">yy_r4_10</a>(mixed yy_subpatterns)</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r4_10">yy_r4_10</a>(mixed yy_subpatterns)</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#yy_r4_11">yy_r4_11</a>(mixed yy_subpatterns)</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r4_11">yy_r4_11</a>(mixed yy_subpatterns)</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#yy_r4_12">yy_r4_12</a>(mixed yy_subpatterns)</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r4_12">yy_r4_12</a>(mixed yy_subpatterns)</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#yy_r4_13">yy_r4_13</a>(mixed yy_subpatterns)</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r4_13">yy_r4_13</a>(mixed yy_subpatterns)</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#yy_r4_17">yy_r4_17</a>(mixed yy_subpatterns)</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r4_17">yy_r4_17</a>(mixed yy_subpatterns)</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#yy_r4_4">yy_r4_4</a>(mixed yy_subpatterns)</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r4_4">yy_r4_4</a>(mixed yy_subpatterns)</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#yy_r4_5">yy_r4_5</a>(mixed yy_subpatterns)</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r4_5">yy_r4_5</a>(mixed yy_subpatterns)</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#yy_r4_6">yy_r4_6</a>(mixed yy_subpatterns)</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r4_6">yy_r4_6</a>(mixed yy_subpatterns)</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#yy_r4_7">yy_r4_7</a>(mixed yy_subpatterns)</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r4_7">yy_r4_7</a>(mixed yy_subpatterns)</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#yy_r4_8">yy_r4_8</a>(mixed yy_subpatterns)</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r4_8">yy_r4_8</a>(mixed yy_subpatterns)</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#yy_r4_9">yy_r4_9</a>(mixed yy_subpatterns)</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r4_9">yy_r4_9</a>(mixed yy_subpatterns)</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#yylex2">yylex2</a>()</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yylex2">yylex2</a>()</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#yylex3">yylex3</a>()</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yylex3">yylex3</a>()</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#yylex4">yylex4</a>()</p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yylex4">yylex4</a>()</p></td>
 </tr>
 </table>
 

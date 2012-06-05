@@ -36,17 +36,17 @@ to check the annotation target during the parsing process.</p></div>
 <tr><th colspan="2">Field Summary</th></tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>integer</span></td>
-<td class="description"><p class="name" ><a href="literal"> $literal</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Doctrine/Common/Annotations/Annotation/Target.md#literal"> $literal</a>
                                 </p><p class="description">Literal target declaration.</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>integer</span></td>
-<td class="description"><p class="name" ><a href="targets"> $targets</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Doctrine/Common/Annotations/Annotation/Target.md#targets"> $targets</a>
                                 </p><p class="description">Targets as bitmask.</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>array</span></td>
-<td class="description"><p class="name" ><a href="value"> $value</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Doctrine/Common/Annotations/Annotation/Target.md#value"> $value</a>
                                 </p><p class="description"></p></td>
 </tr>
 </table>

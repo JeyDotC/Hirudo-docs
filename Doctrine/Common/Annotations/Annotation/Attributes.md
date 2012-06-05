@@ -36,7 +36,7 @@ to check the types of all declared attributes during the parsing process.</p></d
 <tr><th colspan="2">Field Summary</th></tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>array<Doctrine\Common\Annotations\Annotation\Attribute></span></td>
-<td class="description"><p class="name" ><a href="value"> $value</a>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Doctrine/Common/Annotations/Annotation/Attributes.md#value"> $value</a>
                                 </p><p class="description"></p></td>
 </tr>
 </table>
