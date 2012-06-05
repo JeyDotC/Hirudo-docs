@@ -4,7 +4,7 @@
 
 #Namespace Symfony\Component\DependencyInjection\Loader#
 
-<div><a href='https://github.com/JeyDotC/Hirudo-docs/tree/master/symfony/component/dependencyinjection/loader/package-tree.md'>View Class Hierarchy for this Package</a></div>
+<div><a href='https://github.com/JeyDotC/Hirudo-docs/tree/master/Symfony\Component\DependencyInjection\Loader/package-tree.md'>View Class Hierarchy for this Package</a></div>
 
 <table class="title">
 <tr><th colspan="2" class="title">Class Summary</th></tr>

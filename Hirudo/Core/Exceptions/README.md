@@ -4,7 +4,7 @@
 
 #Namespace Hirudo\Core\Exceptions#
 
-<div><a href='https://github.com/JeyDotC/Hirudo-docs/tree/master/hirudo/core/exceptions/package-tree.md'>View Class Hierarchy for this Package</a></div>
+<div><a href='https://github.com/JeyDotC/Hirudo-docs/tree/master/Hirudo\Core\Exceptions/package-tree.md'>View Class Hierarchy for this Package</a></div>
 
 <table class="title">
 <tr><th colspan="2" class="title">Class Summary</th></tr>

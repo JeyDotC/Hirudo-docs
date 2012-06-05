@@ -39,7 +39,7 @@
 <dd>template linebreaks</dd>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/_smarty_parsetree.md">_smarty_parsetree</a> - Class in namespace <a href="Smarty/README.md">Smarty</a></dt>
 <dd></dd>
-<dt><a href="smarty/package-functions.html#_smarty_regex_replace_check()">_smarty_regex_replace_check()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#_smarty_regex_replace_check">_smarty_regex_replace_check()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
 <dd></dd>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/_smarty_tag.md">_smarty_tag</a> - Class in namespace <a href="Smarty/README.md">Smarty</a></dt>
 <dd>A complete smarty tag.</dd>
@@ -47,13 +47,13 @@
 <dd>Template element</dd>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/_smarty_text.md">_smarty_text</a> - Class in namespace <a href="Smarty/README.md">Smarty</a></dt>
 <dd>template text</dd>
-<dt><a href="hirudo/lang/package-functions.html#_using()">_using()</a> - Function in namespace <a href="Hirudo\Lang/README.md">Hirudo\Lang</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Lang/package-functions.md#_using">_using()</a> - Function in namespace <a href="Hirudo\Lang/README.md">Hirudo\Lang</a></dt>
 <dd>Alias for <code><a href="../../hirudo/lang/loader.html#using()">Loader::using()</a></code> function.</dd>
 </dl>
 <h1 id="letterA">A</h1>
 <dl>
 <dd>Session is active.</dd>
-<dt><a href="symfony/component/dependencyinjection/compiler/package-functions.html#addPass()">addPass()</a> - Function in namespace <a href="Symfony\Component\DependencyInjection\Compiler/README.md">Symfony\Component\DependencyInjection\Compiler</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Compiler/package-functions.md#addPass">addPass()</a> - Function in namespace <a href="Symfony\Component\DependencyInjection\Compiler/README.md">Symfony\Component\DependencyInjection\Compiler</a></dt>
 <dd>Adds a pass.</dd>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Alias.md">Alias</a> - Class in namespace <a href="Symfony\Component\DependencyInjection/README.md">Symfony\Component\DependencyInjection</a></dt>
 <dd></dd>
@@ -140,13 +140,13 @@
 <dd>ClosureLoader loads service definitions from a PHP closure.
 </dd>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-globals.md#COMMENT">COMMENT</a> - Global in namespace <a href="Smarty/README.md">Smarty</a></dt>
-<dt><a href="hirudo/models/components/sql/package-functions.html#compileDelete()">compileDelete()</a> - Function in namespace <a href="Hirudo\Models\Components\Sql/README.md">Hirudo\Models\Components\Sql</a></dt>
-<dt><a href="hirudo/models/components/sql/package-functions.html#compileInsert()">compileInsert()</a> - Function in namespace <a href="Hirudo\Models\Components\Sql/README.md">Hirudo\Models\Components\Sql</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#compileDelete">compileDelete()</a> - Function in namespace <a href="Hirudo\Models\Components\Sql/README.md">Hirudo\Models\Components\Sql</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#compileInsert">compileInsert()</a> - Function in namespace <a href="Hirudo\Models\Components\Sql/README.md">Hirudo\Models\Components\Sql</a></dt>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Compiler/Compiler.md">Compiler</a> - Class in namespace <a href="Symfony\Component\DependencyInjection\Compiler/README.md">Symfony\Component\DependencyInjection\Compiler</a></dt>
 <dd>This class is used to remove circular dependencies between individual passes.</dd>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Compiler/CompilerPassInterface.md">CompilerPassInterface</a> - Interface in namespace <a href="Symfony\Component\DependencyInjection\Compiler/README.md">Symfony\Component\DependencyInjection\Compiler</a></dt>
 <dd>Interface that must be implemented by compilation passes</dd>
-<dt><a href="hirudo/models/components/sql/package-functions.html#compileUpdate()">compileUpdate()</a> - Function in namespace <a href="Hirudo\Models\Components\Sql/README.md">Hirudo\Models\Components\Sql</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#compileUpdate">compileUpdate()</a> - Function in namespace <a href="Hirudo\Models\Components\Sql/README.md">Hirudo\Models\Components\Sql</a></dt>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/SampleApp/Models/Entities/ComplexObject.md">ComplexObject</a> - Class in namespace <a href="SampleApp\Models\Entities/README.md">SampleApp\Models\Entities</a></dt>
 <dd>Description of ComplexObject</dd>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/SampleApp/Models/Components/ComplexObjectComponent.md">ComplexObjectComponent</a> - Class in namespace <a href="SampleApp\Models\Components/README.md">SampleApp\Models\Components</a></dt>
@@ -169,11 +169,11 @@
  
  This file is part of Hirudo.
 </dd>
-<dt><a href="hirudo/models/components/sql/package-functions.html#countAllResults()">countAllResults()</a> - Function in namespace <a href="Hirudo\Models\Components\Sql/README.md">Hirudo\Models\Components\Sql</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#countAllResults">countAllResults()</a> - Function in namespace <a href="Hirudo\Models\Components\Sql/README.md">Hirudo\Models\Components\Sql</a></dt>
 </dl>
 <h1 id="letterD">D</h1>
 <dl>
-<dt><a href="hirudo/models/components/sql/package-functions.html#dbPrefix()">dbPrefix()</a> - Function in namespace <a href="Hirudo\Models\Components\Sql/README.md">Hirudo\Models\Components\Sql</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#dbPrefix">dbPrefix()</a> - Function in namespace <a href="Hirudo\Models\Components\Sql/README.md">Hirudo\Models\Components\Sql</a></dt>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/SampleApp/Models/Components/DbTestComponent.md">DbTestComponent</a> - Class in namespace <a href="SampleApp\Models\Components/README.md">SampleApp\Models\Components</a></dt>
 <dd>Description of DbTestComponent</dd>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/ClassLoader/DebugUniversalClassLoader.md">DebugUniversalClassLoader</a> - Class in namespace <a href="Symfony\Component\ClassLoader/README.md">Symfony\Component\ClassLoader</a></dt>
@@ -182,12 +182,12 @@
 <dd>Definition represents a service definition.</dd>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/DefinitionDecorator.md">DefinitionDecorator</a> - Class in namespace <a href="Symfony\Component\DependencyInjection/README.md">Symfony\Component\DependencyInjection</a></dt>
 <dd>This definition decorates another definition.</dd>
-<dt><a href="hirudo/models/components/sql/package-functions.html#delete()">delete()</a> - Function in namespace <a href="Hirudo\Models\Components\Sql/README.md">Hirudo\Models\Components\Sql</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#delete">delete()</a> - Function in namespace <a href="Hirudo\Models\Components\Sql/README.md">Hirudo\Models\Components\Sql</a></dt>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/DependencyInjection/DependenciesManager.md">DependenciesManager</a> - Interface in namespace <a href="Hirudo\Core\DependencyInjection/README.md">Hirudo\Core\DependencyInjection</a></dt>
 <dd>This is the interface for all dependency injection managers.</dd>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Lang/DirectoryHelper.md">DirectoryHelper</a> - Class in namespace <a href="Hirudo\Lang/README.md">Hirudo\Lang</a></dt>
 <dd>A class for directory listing.</dd>
-<dt><a href="hirudo/models/components/sql/package-functions.html#distinct()">distinct()</a> - Function in namespace <a href="Hirudo\Models\Components\Sql/README.md">Hirudo\Models\Components\Sql</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#distinct">distinct()</a> - Function in namespace <a href="Hirudo\Models\Components\Sql/README.md">Hirudo\Models\Components\Sql</a></dt>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Doctrine/Common/Annotations/DocLexer.md">DocLexer</a> - Class in namespace <a href="Doctrine\Common\Annotations/README.md">Doctrine\Common\Annotations</a></dt>
 <dd>Simple lexer for docblock annotations.</dd>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Doctrine/Common/Annotations/DocParser.md">DocParser</a> - Class in namespace <a href="Doctrine\Common\Annotations/README.md">Doctrine\Common\Annotations</a></dt>
@@ -217,7 +217,7 @@
  
  This file is part of Hirudo.
 </dd>
-<dt><a href="hirudo/models/components/sql/package-functions.html#emptyTable()">emptyTable()</a> - Function in namespace <a href="Hirudo\Models\Components\Sql/README.md">Hirudo\Models\Components\Sql</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#emptyTable">emptyTable()</a> - Function in namespace <a href="Hirudo\Models\Components\Sql/README.md">Hirudo\Models\Components\Sql</a></dt>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Serialization/EntityDeserializerBase.md">EntityDeserializerBase</a> - Class in namespace <a href="Hirudo\Serialization/README.md">Hirudo\Serialization</a></dt>
 <dd>Base class for entity de-serializers.</dd>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Serialization/Impl/Json/EntityDeserializerJSON.md">EntityDeserializerJSON</a> - Class in namespace <a href="Hirudo\Serialization\Impl\Json/README.md">Hirudo\Serialization\Impl\Json</a></dt>
@@ -251,9 +251,9 @@
 <dd>Exception interface for all exceptions thrown by the component.</dd>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Exception/ExceptionInterface.md">ExceptionInterface</a> - Interface in namespace <a href="Symfony\Component\DependencyInjection\Exception/README.md">Symfony\Component\DependencyInjection\Exception</a></dt>
 <dd>ExceptionInterface</dd>
-<dt><a href="hirudo/models/components/sql/package-functions.html#executeSelect()">executeSelect()</a> - Function in namespace <a href="Hirudo\Models\Components\Sql/README.md">Hirudo\Models\Components\Sql</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#executeSelect">executeSelect()</a> - Function in namespace <a href="Hirudo\Models\Components\Sql/README.md">Hirudo\Models\Components\Sql</a></dt>
 <dd></dd>
-<dt><a href="hirudo/models/components/sql/package-functions.html#executeWrite()">executeWrite()</a> - Function in namespace <a href="Hirudo\Models\Components\Sql/README.md">Hirudo\Models\Components\Sql</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#executeWrite">executeWrite()</a> - Function in namespace <a href="Hirudo\Models\Components\Sql/README.md">Hirudo\Models\Components\Sql</a></dt>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Annotations/Export.md">Export</a> - Class in namespace <a href="Hirudo\Core\Annotations/README.md">Hirudo\Core\Annotations</a></dt>
 <dd>Signals a class, method or property as a service exporter.</dd>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Extension/ExtensionInterface.md">ExtensionInterface</a> - Interface in namespace <a href="Symfony\Component\DependencyInjection\Extension/README.md">Symfony\Component\DependencyInjection\Extension</a></dt>
@@ -269,7 +269,7 @@
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Events/Annotations/ForCall.md">ForCall</a> - Class in namespace <a href="Hirudo\Core\Events\Annotations/README.md">Hirudo\Core\Events\Annotations</a></dt>
 <dd><p>Signals a Task event listener to only listen the event
  when the current call matches the given characteristics.</p></dd>
-<dt><a href="hirudo/models/components/sql/package-functions.html#from()">from()</a> - Function in namespace <a href="Hirudo\Models\Components\Sql/README.md">Hirudo\Models\Components\Sql</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#from">from()</a> - Function in namespace <a href="Hirudo\Models\Components\Sql/README.md">Hirudo\Models\Components\Sql</a></dt>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/SampleApp/Modules/FrontPage.md">FrontPage</a> - Class in namespace <a href="SampleApp\Modules/README.md">SampleApp\Modules</a></dt>
 <dd>This is a sample module.</dd>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/ParameterBag/FrozenParameterBag.md">FrozenParameterBag</a> - Class in namespace <a href="Symfony\Component\DependencyInjection\ParameterBag/README.md">Symfony\Component\DependencyInjection\ParameterBag</a></dt>
@@ -277,34 +277,34 @@
 </dl>
 <h1 id="letterG">G</h1>
 <dl>
-<dt><a href="hirudo/models/components/sql/package-functions.html#get()">get()</a> - Function in namespace <a href="Hirudo\Models\Components\Sql/README.md">Hirudo\Models\Components\Sql</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#get">get()</a> - Function in namespace <a href="Hirudo\Models\Components\Sql/README.md">Hirudo\Models\Components\Sql</a></dt>
 <dd></dd>
-<dt><a href="symfony/component/dependencyinjection/compiler/package-functions.html#getAfterRemovingPasses()">getAfterRemovingPasses()</a> - Function in namespace <a href="Symfony\Component\DependencyInjection\Compiler/README.md">Symfony\Component\DependencyInjection\Compiler</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Compiler/package-functions.md#getAfterRemovingPasses">getAfterRemovingPasses()</a> - Function in namespace <a href="Symfony\Component\DependencyInjection\Compiler/README.md">Symfony\Component\DependencyInjection\Compiler</a></dt>
 <dd>Gets all passes for the AfterRemoving pass.</dd>
-<dt><a href="symfony/component/dependencyinjection/compiler/package-functions.html#getBeforeOptimizationPasses()">getBeforeOptimizationPasses()</a> - Function in namespace <a href="Symfony\Component\DependencyInjection\Compiler/README.md">Symfony\Component\DependencyInjection\Compiler</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Compiler/package-functions.md#getBeforeOptimizationPasses">getBeforeOptimizationPasses()</a> - Function in namespace <a href="Symfony\Component\DependencyInjection\Compiler/README.md">Symfony\Component\DependencyInjection\Compiler</a></dt>
 <dd>Gets all passes for the BeforeOptimization pass.</dd>
-<dt><a href="symfony/component/dependencyinjection/compiler/package-functions.html#getBeforeRemovingPasses()">getBeforeRemovingPasses()</a> - Function in namespace <a href="Symfony\Component\DependencyInjection\Compiler/README.md">Symfony\Component\DependencyInjection\Compiler</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Compiler/package-functions.md#getBeforeRemovingPasses">getBeforeRemovingPasses()</a> - Function in namespace <a href="Symfony\Component\DependencyInjection\Compiler/README.md">Symfony\Component\DependencyInjection\Compiler</a></dt>
 <dd>Gets all passes for the BeforeRemoving pass.</dd>
-<dt><a href="symfony/component/dependencyinjection/compiler/package-functions.html#getMergePass()">getMergePass()</a> - Function in namespace <a href="Symfony\Component\DependencyInjection\Compiler/README.md">Symfony\Component\DependencyInjection\Compiler</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Compiler/package-functions.md#getMergePass">getMergePass()</a> - Function in namespace <a href="Symfony\Component\DependencyInjection\Compiler/README.md">Symfony\Component\DependencyInjection\Compiler</a></dt>
 <dd>Gets all passes for the Merge pass.</dd>
-<dt><a href="doctrine/common/annotations/package-functions.html#getNonCatchablePatterns()">getNonCatchablePatterns()</a> - Function in namespace <a href="Doctrine\Common\Annotations/README.md">Doctrine\Common\Annotations</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Doctrine/Common/Annotations/package-functions.md#getNonCatchablePatterns">getNonCatchablePatterns()</a> - Function in namespace <a href="Doctrine\Common\Annotations/README.md">Doctrine\Common\Annotations</a></dt>
 <dd></dd>
-<dt><a href="symfony/component/dependencyinjection/compiler/package-functions.html#getOptimizationPasses()">getOptimizationPasses()</a> - Function in namespace <a href="Symfony\Component\DependencyInjection\Compiler/README.md">Symfony\Component\DependencyInjection\Compiler</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Compiler/package-functions.md#getOptimizationPasses">getOptimizationPasses()</a> - Function in namespace <a href="Symfony\Component\DependencyInjection\Compiler/README.md">Symfony\Component\DependencyInjection\Compiler</a></dt>
 <dd>Gets all passes for the Optimization pass.</dd>
-<dt><a href="symfony/component/dependencyinjection/compiler/package-functions.html#getPasses()">getPasses()</a> - Function in namespace <a href="Symfony\Component\DependencyInjection\Compiler/README.md">Symfony\Component\DependencyInjection\Compiler</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Compiler/package-functions.md#getPasses">getPasses()</a> - Function in namespace <a href="Symfony\Component\DependencyInjection\Compiler/README.md">Symfony\Component\DependencyInjection\Compiler</a></dt>
 <dd>Returns all passes in order to be processed.</dd>
-<dt><a href="symfony/component/dependencyinjection/compiler/package-functions.html#getRemovingPasses()">getRemovingPasses()</a> - Function in namespace <a href="Symfony\Component\DependencyInjection\Compiler/README.md">Symfony\Component\DependencyInjection\Compiler</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Compiler/package-functions.md#getRemovingPasses">getRemovingPasses()</a> - Function in namespace <a href="Symfony\Component\DependencyInjection\Compiler/README.md">Symfony\Component\DependencyInjection\Compiler</a></dt>
 <dd>Gets all passes for the Removing pass.</dd>
-<dt><a href="doctrine/common/annotations/package-functions.html#getType()">getType()</a> - Function in namespace <a href="Doctrine\Common\Annotations/README.md">Doctrine\Common\Annotations</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Doctrine/Common/Annotations/package-functions.md#getType">getType()</a> - Function in namespace <a href="Doctrine\Common\Annotations/README.md">Doctrine\Common\Annotations</a></dt>
 <dd></dd>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Dumper/GraphvizDumper.md">GraphvizDumper</a> - Class in namespace <a href="Symfony\Component\DependencyInjection\Dumper/README.md">Symfony\Component\DependencyInjection\Dumper</a></dt>
 <dd>GraphvizDumper dumps a service container as a graphviz file.
 </dd>
-<dt><a href="hirudo/models/components/sql/package-functions.html#groupBy()">groupBy()</a> - Function in namespace <a href="Hirudo\Models\Components\Sql/README.md">Hirudo\Models\Components\Sql</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#groupBy">groupBy()</a> - Function in namespace <a href="Hirudo\Models\Components\Sql/README.md">Hirudo\Models\Components\Sql</a></dt>
 </dl>
 <h1 id="letterH">H</h1>
 <dl>
-<dt><a href="hirudo/models/components/sql/package-functions.html#having()">having()</a> - Function in namespace <a href="Hirudo\Models\Components\Sql/README.md">Hirudo\Models\Components\Sql</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#having">having()</a> - Function in namespace <a href="Hirudo\Models\Components\Sql/README.md">Hirudo\Models\Components\Sql</a></dt>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/HeaderBag.md">HeaderBag</a> - Class in namespace <a href="Hirudo\Core/README.md">Hirudo\Core</a></dt>
 <dd>A class that allows the edition of the response headers.</dd>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-globals.md#HIRUDO_ROOT">HIRUDO_ROOT</a> - Global in namespace <a href="Default namespace/README.md">Default namespace</a></dt>
@@ -375,7 +375,7 @@
 <dd>Inline implements a YAML parser/dumper for the YAML inline syntax.</dd>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Compiler/InlineServiceDefinitionsPass.md">InlineServiceDefinitionsPass</a> - Class in namespace <a href="Symfony\Component\DependencyInjection\Compiler/README.md">Symfony\Component\DependencyInjection\Compiler</a></dt>
 <dd>Inline service definitions where this is possible.</dd>
-<dt><a href="hirudo/models/components/sql/package-functions.html#insertInto()">insertInto()</a> - Function in namespace <a href="Hirudo\Models\Components\Sql/README.md">Hirudo\Models\Components\Sql</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#insertInto">insertInto()</a> - Function in namespace <a href="Hirudo\Models\Components\Sql/README.md">Hirudo\Models\Components\Sql</a></dt>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Exception/InvalidArgumentException.md">InvalidArgumentException</a> - Class in namespace <a href="Symfony\Component\DependencyInjection\Exception/README.md">Symfony\Component\DependencyInjection\Exception</a></dt>
 <dd>InvalidArgumentException</dd>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Lang/InvalidPathException.md">InvalidPathException</a> - Class in namespace <a href="Hirudo\Lang/README.md">Hirudo\Lang</a></dt>
@@ -386,12 +386,12 @@
 </dl>
 <h1 id="letterJ">J</h1>
 <dl>
-<dt><a href="hirudo/models/components/sql/package-functions.html#join()">join()</a> - Function in namespace <a href="Hirudo\Models\Components\Sql/README.md">Hirudo\Models\Components\Sql</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#join">join()</a> - Function in namespace <a href="Hirudo\Models\Components\Sql/README.md">Hirudo\Models\Components\Sql</a></dt>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Impl/Joomla/JoomlaAppConfig.md">JoomlaAppConfig</a> - Class in namespace <a href="Hirudo\Impl\Joomla/README.md">Hirudo\Impl\Joomla</a></dt>
 <dd>Description of JAppConfig</dd>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Impl/Joomla/JoomlaAssets.md">JoomlaAssets</a> - Class in namespace <a href="Hirudo\Impl\Joomla/README.md">Hirudo\Impl\Joomla</a></dt>
 <dd>Description of JoomlaAssets</dd>
-<dt><a href="hirudo/impl/joomla/package-functions.html#joomlaAutoloader()">joomlaAutoloader()</a> - Function in namespace <a href="Hirudo\Impl\Joomla/README.md">Hirudo\Impl\Joomla</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Impl/Joomla/package-functions.md#joomlaAutoloader">joomlaAutoloader()</a> - Function in namespace <a href="Hirudo\Impl\Joomla/README.md">Hirudo\Impl\Joomla</a></dt>
 <dd>«Copyright 2012 Jeysson José Guevara Mendivil(JeyDotC)» 
  
  This file is part of Hirudo.
@@ -424,8 +424,8 @@
 <dl>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Doctrine/Common/Lexer.md">Lexer</a> - Class in namespace <a href="Doctrine\Common/README.md">Doctrine\Common</a></dt>
 <dd>Base class for writing simple lexers, i.e. </dd>
-<dt><a href="hirudo/models/components/sql/package-functions.html#like()">like()</a> - Function in namespace <a href="Hirudo\Models\Components\Sql/README.md">Hirudo\Models\Components\Sql</a></dt>
-<dt><a href="hirudo/models/components/sql/package-functions.html#limit()">limit()</a> - Function in namespace <a href="Hirudo\Models\Components\Sql/README.md">Hirudo\Models\Components\Sql</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#like">like()</a> - Function in namespace <a href="Hirudo\Models\Components\Sql/README.md">Hirudo\Models\Components\Sql</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#limit">limit()</a> - Function in namespace <a href="Hirudo\Models\Components\Sql/README.md">Hirudo\Models\Components\Sql</a></dt>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-globals.md#LITERAL">LITERAL</a> - Global in namespace <a href="Smarty/README.md">Smarty</a></dt>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Lang/Loader.md">Loader</a> - Class in namespace <a href="Hirudo\Lang/README.md">Hirudo\Lang</a></dt>
 <dd><p>A PHP file loader. </dd>
@@ -474,18 +474,18 @@
 <dl>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-globals.md#NAKED_STRING_VALUE">NAKED_STRING_VALUE</a> - Global in namespace <a href="Smarty/README.md">Smarty</a></dt>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-globals.md#namespaces">namespaces</a> - Global in namespace <a href="Default namespace/README.md">Default namespace</a></dt>
-<dt><a href="hirudo/models/components/sql/package-functions.html#notLike()">notLike()</a> - Function in namespace <a href="Hirudo\Models\Components\Sql/README.md">Hirudo\Models\Components\Sql</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#notLike">notLike()</a> - Function in namespace <a href="Hirudo\Models\Components\Sql/README.md">Hirudo\Models\Components\Sql</a></dt>
 </dl>
 <h1 id="letterO">O</h1>
 <dl>
-<dt><a href="hirudo/models/components/sql/package-functions.html#offset()">offset()</a> - Function in namespace <a href="Hirudo\Models\Components\Sql/README.md">Hirudo\Models\Components\Sql</a></dt>
-<dt><a href="hirudo/models/components/sql/package-functions.html#orderBy()">orderBy()</a> - Function in namespace <a href="Hirudo\Models\Components\Sql/README.md">Hirudo\Models\Components\Sql</a></dt>
-<dt><a href="hirudo/models/components/sql/package-functions.html#orHaving()">orHaving()</a> - Function in namespace <a href="Hirudo\Models\Components\Sql/README.md">Hirudo\Models\Components\Sql</a></dt>
-<dt><a href="hirudo/models/components/sql/package-functions.html#orLike()">orLike()</a> - Function in namespace <a href="Hirudo\Models\Components\Sql/README.md">Hirudo\Models\Components\Sql</a></dt>
-<dt><a href="hirudo/models/components/sql/package-functions.html#orNotLike()">orNotLike()</a> - Function in namespace <a href="Hirudo\Models\Components\Sql/README.md">Hirudo\Models\Components\Sql</a></dt>
-<dt><a href="hirudo/models/components/sql/package-functions.html#orWhere()">orWhere()</a> - Function in namespace <a href="Hirudo\Models\Components\Sql/README.md">Hirudo\Models\Components\Sql</a></dt>
-<dt><a href="hirudo/models/components/sql/package-functions.html#orWhereIn()">orWhereIn()</a> - Function in namespace <a href="Hirudo\Models\Components\Sql/README.md">Hirudo\Models\Components\Sql</a></dt>
-<dt><a href="hirudo/models/components/sql/package-functions.html#orWhereNotIn()">orWhereNotIn()</a> - Function in namespace <a href="Hirudo\Models\Components\Sql/README.md">Hirudo\Models\Components\Sql</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#offset">offset()</a> - Function in namespace <a href="Hirudo\Models\Components\Sql/README.md">Hirudo\Models\Components\Sql</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#orderBy">orderBy()</a> - Function in namespace <a href="Hirudo\Models\Components\Sql/README.md">Hirudo\Models\Components\Sql</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#orHaving">orHaving()</a> - Function in namespace <a href="Hirudo\Models\Components\Sql/README.md">Hirudo\Models\Components\Sql</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#orLike">orLike()</a> - Function in namespace <a href="Hirudo\Models\Components\Sql/README.md">Hirudo\Models\Components\Sql</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#orNotLike">orNotLike()</a> - Function in namespace <a href="Hirudo\Models\Components\Sql/README.md">Hirudo\Models\Components\Sql</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#orWhere">orWhere()</a> - Function in namespace <a href="Hirudo\Models\Components\Sql/README.md">Hirudo\Models\Components\Sql</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#orWhereIn">orWhereIn()</a> - Function in namespace <a href="Hirudo\Models\Components\Sql/README.md">Hirudo\Models\Components\Sql</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#orWhereNotIn">orWhereNotIn()</a> - Function in namespace <a href="Hirudo\Models\Components\Sql/README.md">Hirudo\Models\Components\Sql</a></dt>
 </dl>
 <h1 id="letterP">P</h1>
 <dl>
@@ -503,7 +503,7 @@
 <dd>Exception class thrown when an error occurs during parsing.</dd>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/Yaml/Parser.md">Parser</a> - Class in namespace <a href="Symfony\Component\Yaml/README.md">Symfony\Component\Yaml</a></dt>
 <dd>Parser parses YAML strings to convert them to PHP arrays.</dd>
-<dt><a href="symfony/component/yaml/package-functions.html#parseScalar()">parseScalar()</a> - Function in namespace <a href="Symfony\Component\Yaml/README.md">Symfony\Component\Yaml</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/Yaml/package-functions.md#parseScalar">parseScalar()</a> - Function in namespace <a href="Symfony\Component\Yaml/README.md">Symfony\Component\Yaml</a></dt>
 <dd>Parses a scalar to a YAML string.</dd>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Compiler/PassConfig.md">PassConfig</a> - Class in namespace <a href="Symfony\Component\DependencyInjection\Compiler/README.md">Symfony\Component\DependencyInjection\Compiler</a></dt>
 <dd>Compiler Pass Configuration
@@ -616,11 +616,11 @@
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Exception/ScopeWideningInjectionException.md">ScopeWideningInjectionException</a> - Class in namespace <a href="Symfony\Component\DependencyInjection\Exception/README.md">Symfony\Component\DependencyInjection\Exception</a></dt>
 <dd>Thrown when a scope widening injection is detected.</dd>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-globals.md#SECTION">SECTION</a> - Global in namespace <a href="Smarty/README.md">Smarty</a></dt>
-<dt><a href="hirudo/models/components/sql/package-functions.html#select()">select()</a> - Function in namespace <a href="Hirudo\Models\Components\Sql/README.md">Hirudo\Models\Components\Sql</a></dt>
-<dt><a href="hirudo/models/components/sql/package-functions.html#selectAvg()">selectAvg()</a> - Function in namespace <a href="Hirudo\Models\Components\Sql/README.md">Hirudo\Models\Components\Sql</a></dt>
-<dt><a href="hirudo/models/components/sql/package-functions.html#selectMax()">selectMax()</a> - Function in namespace <a href="Hirudo\Models\Components\Sql/README.md">Hirudo\Models\Components\Sql</a></dt>
-<dt><a href="hirudo/models/components/sql/package-functions.html#selectMin()">selectMin()</a> - Function in namespace <a href="Hirudo\Models\Components\Sql/README.md">Hirudo\Models\Components\Sql</a></dt>
-<dt><a href="hirudo/models/components/sql/package-functions.html#selectSum()">selectSum()</a> - Function in namespace <a href="Hirudo\Models\Components\Sql/README.md">Hirudo\Models\Components\Sql</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#select">select()</a> - Function in namespace <a href="Hirudo\Models\Components\Sql/README.md">Hirudo\Models\Components\Sql</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#selectAvg">selectAvg()</a> - Function in namespace <a href="Hirudo\Models\Components\Sql/README.md">Hirudo\Models\Components\Sql</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#selectMax">selectMax()</a> - Function in namespace <a href="Hirudo\Models\Components\Sql/README.md">Hirudo\Models\Components\Sql</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#selectMin">selectMin()</a> - Function in namespace <a href="Hirudo\Models\Components\Sql/README.md">Hirudo\Models\Components\Sql</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#selectSum">selectSum()</a> - Function in namespace <a href="Hirudo\Models\Components\Sql/README.md">Hirudo\Models\Components\Sql</a></dt>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Serialization/SerializationFactory.md">SerializationFactory</a> - Interface in namespace <a href="Hirudo\Serialization/README.md">Hirudo\Serialization</a></dt>
 <dd>An interface to serialization and deserialization factories.</dd>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Exception/ServiceCircularReferenceException.md">ServiceCircularReferenceException</a> - Class in namespace <a href="Symfony\Component\DependencyInjection\Exception/README.md">Symfony\Component\DependencyInjection\Exception</a></dt>
@@ -638,18 +638,18 @@
 </dd>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/SessionStates.md">SessionStates</a> - Class in namespace <a href="Hirudo\Core\Context/README.md">Hirudo\Core\Context</a></dt>
 <dd>An enum representing the different sessions states.</dd>
-<dt><a href="hirudo/models/components/sql/package-functions.html#set()">set()</a> - Function in namespace <a href="Hirudo\Models\Components\Sql/README.md">Hirudo\Models\Components\Sql</a></dt>
-<dt><a href="symfony/component/dependencyinjection/compiler/package-functions.html#setAfterRemovingPasses()">setAfterRemovingPasses()</a> - Function in namespace <a href="Symfony\Component\DependencyInjection\Compiler/README.md">Symfony\Component\DependencyInjection\Compiler</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#set">set()</a> - Function in namespace <a href="Hirudo\Models\Components\Sql/README.md">Hirudo\Models\Components\Sql</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Compiler/package-functions.md#setAfterRemovingPasses">setAfterRemovingPasses()</a> - Function in namespace <a href="Symfony\Component\DependencyInjection\Compiler/README.md">Symfony\Component\DependencyInjection\Compiler</a></dt>
 <dd>Sets the AfterRemoving passes.</dd>
-<dt><a href="symfony/component/dependencyinjection/compiler/package-functions.html#setBeforeOptimizationPasses()">setBeforeOptimizationPasses()</a> - Function in namespace <a href="Symfony\Component\DependencyInjection\Compiler/README.md">Symfony\Component\DependencyInjection\Compiler</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Compiler/package-functions.md#setBeforeOptimizationPasses">setBeforeOptimizationPasses()</a> - Function in namespace <a href="Symfony\Component\DependencyInjection\Compiler/README.md">Symfony\Component\DependencyInjection\Compiler</a></dt>
 <dd>Sets the BeforeOptimization passes.</dd>
-<dt><a href="symfony/component/dependencyinjection/compiler/package-functions.html#setBeforeRemovingPasses()">setBeforeRemovingPasses()</a> - Function in namespace <a href="Symfony\Component\DependencyInjection\Compiler/README.md">Symfony\Component\DependencyInjection\Compiler</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Compiler/package-functions.md#setBeforeRemovingPasses">setBeforeRemovingPasses()</a> - Function in namespace <a href="Symfony\Component\DependencyInjection\Compiler/README.md">Symfony\Component\DependencyInjection\Compiler</a></dt>
 <dd>Sets the BeforeRemoving passes.</dd>
-<dt><a href="symfony/component/dependencyinjection/compiler/package-functions.html#setMergePass()">setMergePass()</a> - Function in namespace <a href="Symfony\Component\DependencyInjection\Compiler/README.md">Symfony\Component\DependencyInjection\Compiler</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Compiler/package-functions.md#setMergePass">setMergePass()</a> - Function in namespace <a href="Symfony\Component\DependencyInjection\Compiler/README.md">Symfony\Component\DependencyInjection\Compiler</a></dt>
 <dd>Sets the Merge Pass.</dd>
-<dt><a href="symfony/component/dependencyinjection/compiler/package-functions.html#setOptimizationPasses()">setOptimizationPasses()</a> - Function in namespace <a href="Symfony\Component\DependencyInjection\Compiler/README.md">Symfony\Component\DependencyInjection\Compiler</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Compiler/package-functions.md#setOptimizationPasses">setOptimizationPasses()</a> - Function in namespace <a href="Symfony\Component\DependencyInjection\Compiler/README.md">Symfony\Component\DependencyInjection\Compiler</a></dt>
 <dd>Sets the Optimization passes.</dd>
-<dt><a href="symfony/component/dependencyinjection/compiler/package-functions.html#setRemovingPasses()">setRemovingPasses()</a> - Function in namespace <a href="Symfony\Component\DependencyInjection\Compiler/README.md">Symfony\Component\DependencyInjection\Compiler</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Compiler/package-functions.md#setRemovingPasses">setRemovingPasses()</a> - Function in namespace <a href="Symfony\Component\DependencyInjection\Compiler/README.md">Symfony\Component\DependencyInjection\Compiler</a></dt>
 <dd>Sets the Removing passes.</dd>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Doctrine/Common/Annotations/SimpleAnnotationReader.md">SimpleAnnotationReader</a> - Class in namespace <a href="Doctrine\Common\Annotations/README.md">Doctrine\Common\Annotations</a></dt>
 <dd>Simple Annotation Reader.
@@ -665,7 +665,7 @@
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty.md">Smarty</a> - Class in namespace <a href="Smarty/README.md">Smarty</a></dt>
 <dd>This is the main Smarty class</dd>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-globals.md#SMARTY">SMARTY</a> - Global in namespace <a href="Smarty/README.md">Smarty</a></dt>
-<dt><a href="smarty/package-functions.html#smarty_block_textformat()">smarty_block_textformat()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_block_textformat">smarty_block_textformat()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
 <dd>Smarty {textformat}{/textformat} block plugin
 
  Type:     block function<br>
@@ -701,18 +701,18 @@
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-globals.md#SMARTY_DIR">SMARTY_DIR</a> - Global in namespace <a href="Default namespace/README.md">Default namespace</a></dt>
 <dd>set SMARTY_DIR to absolute path to Smarty library files.
 </dd>
-<dt><a href="default namespace/package-functions.html#smarty_function_bind()">smarty_function_bind()</a> - Function in namespace <a href="Default namespace/README.md">Default namespace</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-functions.md#smarty_function_bind">smarty_function_bind()</a> - Function in namespace <a href="Default namespace/README.md">Default namespace</a></dt>
 <dd><p>Binds a field to an entity property, Generally a parameter
  of a task. </dd>
-<dt><a href="smarty/package-functions.html#smarty_function_counter()">smarty_function_counter()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_function_counter">smarty_function_counter()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
 <dd>Smarty {counter} function plugin
 
  Type:     function<br>
  Name:     counter<br>
  Purpose:  print out a counter value</dd>
-<dt><a href="default namespace/package-functions.html#smarty_function_css()">smarty_function_css()</a> - Function in namespace <a href="Default namespace/README.md">Default namespace</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-functions.md#smarty_function_css">smarty_function_css()</a> - Function in namespace <a href="Default namespace/README.md">Default namespace</a></dt>
 <dd>Generates a script tag. </dd>
-<dt><a href="smarty/package-functions.html#smarty_function_cycle()">smarty_function_cycle()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_function_cycle">smarty_function_cycle()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
 <dd>Smarty {cycle} function plugin
 
  Type:     function<br>
@@ -726,21 +726,21 @@
                (this can be left out for subsequent calls)
  - reset     - boolean - resets given var to true
  - print     - boolean - print var or not. </dd>
-<dt><a href="smarty/package-functions.html#smarty_function_escape_special_chars()">smarty_function_escape_special_chars()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_function_escape_special_chars">smarty_function_escape_special_chars()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
 <dd>escape_special_chars common function
 
  Function: smarty_function_escape_special_chars<br>
  Purpose:  used by other smarty functions to escape
            special chars except for already escaped ones</dd>
-<dt><a href="smarty/package-functions.html#smarty_function_fetch()">smarty_function_fetch()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_function_fetch">smarty_function_fetch()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
 <dd>Smarty {fetch} plugin
 
  Type:     function<br>
  Name:     fetch<br>
  Purpose:  fetch file, web or ftp data and display results</dd>
-<dt><a href="default namespace/package-functions.html#smarty_function_foo()">smarty_function_foo()</a> - Function in namespace <a href="Default namespace/README.md">Default namespace</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-functions.md#smarty_function_foo">smarty_function_foo()</a> - Function in namespace <a href="Default namespace/README.md">Default namespace</a></dt>
 <dd></dd>
-<dt><a href="smarty/package-functions.html#smarty_function_html_checkboxes()">smarty_function_html_checkboxes()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_function_html_checkboxes">smarty_function_html_checkboxes()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
 <dd>Smarty {html_checkboxes} function plugin
 
  File:       function.html_checkboxes.php<br>
@@ -765,8 +765,8 @@
  - assign     (optional) - assign the output as an array to this variable
  - escape     (optional) - escape the content (not value), defaults to true
  </pre></dd>
-<dt><a href="smarty/package-functions.html#smarty_function_html_checkboxes_output()">smarty_function_html_checkboxes_output()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
-<dt><a href="smarty/package-functions.html#smarty_function_html_image()">smarty_function_html_image()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_function_html_checkboxes_output">smarty_function_html_checkboxes_output()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_function_html_image">smarty_function_html_image()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
 <dd>Smarty {html_image} function plugin
  
  Type:     function<br>
@@ -783,7 +783,7 @@
  - basedir     - (optional) - base directory for absolute paths, default is environment variable DOCUMENT_ROOT
  - path_prefix - prefix for path output (optional, default empty)
  </pre></dd>
-<dt><a href="smarty/package-functions.html#smarty_function_html_options()">smarty_function_html_options()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_function_html_options">smarty_function_html_options()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
 <dd>Smarty {html_options} function plugin
  
  Type:     function<br>
@@ -800,9 +800,9 @@
  - id         (optional) - string default not set
  - class      (optional) - string default not set
  </pre></dd>
-<dt><a href="smarty/package-functions.html#smarty_function_html_options_optgroup()">smarty_function_html_options_optgroup()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
-<dt><a href="smarty/package-functions.html#smarty_function_html_options_optoutput()">smarty_function_html_options_optoutput()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
-<dt><a href="smarty/package-functions.html#smarty_function_html_radios()">smarty_function_html_radios()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_function_html_options_optgroup">smarty_function_html_options_optgroup()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_function_html_options_optoutput">smarty_function_html_options_optoutput()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_function_html_radios">smarty_function_html_radios()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
 <dd>Smarty {html_radios} function plugin
  
  File:       function.html_radios.php<br>
@@ -827,21 +827,21 @@
  {html_radios values=$ids name='box' separator='<br>' output=$names}
  {html_radios values=$ids checked=$checked separator='<br>' output=$names}
  </pre></dd>
-<dt><a href="smarty/package-functions.html#smarty_function_html_radios_output()">smarty_function_html_radios_output()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
-<dt><a href="smarty/package-functions.html#smarty_function_html_select_date()">smarty_function_html_select_date()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_function_html_radios_output">smarty_function_html_radios_output()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_function_html_select_date">smarty_function_html_select_date()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
 <dd>Smarty {html_select_date} plugin
  
  Type:     function<br>
  Name:     html_select_date<br>
  Purpose:  Prints the dropdowns for date selection.
 </dd>
-<dt><a href="smarty/package-functions.html#smarty_function_html_select_time()">smarty_function_html_select_time()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_function_html_select_time">smarty_function_html_select_time()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
 <dd>Smarty {html_select_time} function plugin
 
  Type:     function<br>
  Name:     html_select_time<br>
  Purpose:  Prints the dropdowns for time selection</dd>
-<dt><a href="smarty/package-functions.html#smarty_function_html_table()">smarty_function_html_table()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_function_html_table">smarty_function_html_table()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
 <dd>Smarty {html_table} function plugin
 
  Type:     function<br>
@@ -871,8 +871,8 @@
  {table loop=$data cols=4 tr_attr='"bgcolor=red"'}
  {table loop=$data cols="first,second,third" tr_attr=$colors}
  </pre></dd>
-<dt><a href="smarty/package-functions.html#smarty_function_html_table_cycle()">smarty_function_html_table_cycle()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
-<dt><a href="smarty/package-functions.html#smarty_function_mailto()">smarty_function_mailto()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_function_html_table_cycle">smarty_function_html_table_cycle()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_function_mailto">smarty_function_mailto()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
 <dd>Smarty {mailto} function plugin
 
  Type:     function<br>
@@ -904,13 +904,13 @@
  {mailto address="me@domain.com" cc="you@domain.com,they@domain.com"}
  {mailto address="me@domain.com" extra='class="mailto"'}
  </pre></dd>
-<dt><a href="smarty/package-functions.html#smarty_function_math()">smarty_function_math()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_function_math">smarty_function_math()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
 <dd>Smarty {math} function plugin
 
  Type:     function<br>
  Name:     math<br>
  Purpose:  handle math computations in template</dd>
-<dt><a href="default namespace/package-functions.html#smarty_function_url()">smarty_function_url()</a> - Function in namespace <a href="Default namespace/README.md">Default namespace</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-functions.md#smarty_function_url">smarty_function_url()</a> - Function in namespace <a href="Default namespace/README.md">Default namespace</a></dt>
 <dd>Returns a URL based on the string given in the call attribute.
 </dd>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_CacheResource_File.md">Smarty_Internal_CacheResource_File</a> - Class in namespace <a href="Smarty/README.md">Smarty</a></dt>
@@ -1083,21 +1083,21 @@
 <dd>Utility class</dd>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_Write_File.md">Smarty_Internal_Write_File</a> - Class in namespace <a href="Smarty/README.md">Smarty</a></dt>
 <dd>Smarty Internal Write File Class</dd>
-<dt><a href="smarty/package-functions.html#smarty_literal_compiler_param()">smarty_literal_compiler_param()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_literal_compiler_param">smarty_literal_compiler_param()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
 <dd>evaluate compiler parameter</dd>
-<dt><a href="smarty/package-functions.html#smarty_make_timestamp()">smarty_make_timestamp()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_make_timestamp">smarty_make_timestamp()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
 <dd>Function: smarty_make_timestamp<br>
  Purpose:  used by other smarty functions to make a timestamp from a string.</dd>
-<dt><a href="smarty/package-functions.html#smarty_mb_from_unicode()">smarty_mb_from_unicode()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_mb_from_unicode">smarty_mb_from_unicode()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
 <dd>convert unicodes to the character of given encoding</dd>
-<dt><a href="smarty/package-functions.html#smarty_mb_str_replace()">smarty_mb_str_replace()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_mb_str_replace">smarty_mb_str_replace()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
 <dd>Multibyte string replace</dd>
-<dt><a href="smarty/package-functions.html#smarty_mb_to_unicode()">smarty_mb_to_unicode()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_mb_to_unicode">smarty_mb_to_unicode()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
 <dd>convert characters to their decimal unicode equivalents</dd>
-<dt><a href="smarty/package-functions.html#smarty_mb_wordwrap()">smarty_mb_wordwrap()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_mb_wordwrap">smarty_mb_wordwrap()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
 <dd>Wrap a string to a given number of characters</dd>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-globals.md#SMARTY_MBSTRING">SMARTY_MBSTRING</a> - Global in namespace <a href="Default namespace/README.md">Default namespace</a></dt>
-<dt><a href="smarty/package-functions.html#smarty_modifier_capitalize()">smarty_modifier_capitalize()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_modifier_capitalize">smarty_modifier_capitalize()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
 <dd>Smarty capitalize modifier plugin
  
  Type:     modifier<br>
@@ -1105,7 +1105,7 @@
  Purpose:  capitalize words in the string
 
  {$string|capitalize:true:true is the fastest option for MBString enabled systems }}</dd>
-<dt><a href="smarty/package-functions.html#smarty_modifier_date_format()">smarty_modifier_date_format()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_modifier_date_format">smarty_modifier_date_format()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
 <dd>Smarty date_format modifier plugin
  
  Type:     modifier<br>
@@ -1115,44 +1115,44 @@
           - string: input date string
           - format: strftime format for output
           - default_date: default date if $string is empty</dd>
-<dt><a href="smarty/package-functions.html#smarty_modifier_debug_print_var()">smarty_modifier_debug_print_var()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_modifier_debug_print_var">smarty_modifier_debug_print_var()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
 <dd>Smarty debug_print_var modifier plugin
  
  Type:     modifier<br>
  Name:     debug_print_var<br>
  Purpose:  formats variable contents for display in the console</dd>
-<dt><a href="smarty/package-functions.html#smarty_modifier_escape()">smarty_modifier_escape()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_modifier_escape">smarty_modifier_escape()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
 <dd>Smarty escape modifier plugin
 
  Type:     modifier<br>
  Name:     escape<br>
  Purpose:  escape string for output</dd>
-<dt><a href="smarty/package-functions.html#smarty_modifier_regex_replace()">smarty_modifier_regex_replace()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_modifier_regex_replace">smarty_modifier_regex_replace()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
 <dd>Smarty regex_replace modifier plugin
 
  Type:     modifier<br>
  Name:     regex_replace<br>
  Purpose:  regular expression search/replace</dd>
-<dt><a href="smarty/package-functions.html#smarty_modifier_replace()">smarty_modifier_replace()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_modifier_replace">smarty_modifier_replace()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
 <dd>Smarty replace modifier plugin
  
  Type:     modifier<br>
  Name:     replace<br>
  Purpose:  simple search/replace</dd>
-<dt><a href="smarty/package-functions.html#smarty_modifier_spacify()">smarty_modifier_spacify()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_modifier_spacify">smarty_modifier_spacify()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
 <dd>Smarty spacify modifier plugin
  
  Type:     modifier<br>
  Name:     spacify<br>
  Purpose:  add spaces between characters in a string</dd>
-<dt><a href="default namespace/package-functions.html#smarty_modifier_toPath()">smarty_modifier_toPath()</a> - Function in namespace <a href="Default namespace/README.md">Default namespace</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-functions.md#smarty_modifier_toPath">smarty_modifier_toPath()</a> - Function in namespace <a href="Default namespace/README.md">Default namespace</a></dt>
 <dd><p>Converts the given string into a valid absolute path using the 
  <code><a href="../hirudo/lang/loader.html#toSinglePath()">Loader::toSinglePath()</a></code> method.</p></dd>
-<dt><a href="default namespace/package-functions.html#smarty_modifier_toViewPath()">smarty_modifier_toViewPath()</a> - Function in namespace <a href="Default namespace/README.md">Default namespace</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-functions.md#smarty_modifier_toViewPath">smarty_modifier_toViewPath()</a> - Function in namespace <a href="Default namespace/README.md">Default namespace</a></dt>
 <dd><p>Converts the given string into a valid absolute path like smarty_modifier_toPath
  plugin, but in this time the path has only three parts, the application, the 
  module and the view name, so any view from any module can be included or inherited.</dd>
-<dt><a href="smarty/package-functions.html#smarty_modifier_truncate()">smarty_modifier_truncate()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_modifier_truncate">smarty_modifier_truncate()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
 <dd>Smarty truncate modifier plugin
  
  Type:     modifier<br>
@@ -1160,7 +1160,7 @@
  Purpose:  Truncate a string to a certain length if necessary,
                optionally splitting in the middle of a word, and
                appending the $etc string or inserting $etc into the middle.</dd>
-<dt><a href="smarty/package-functions.html#smarty_modifiercompiler_cat()">smarty_modifiercompiler_cat()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_modifiercompiler_cat">smarty_modifiercompiler_cat()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
 <dd>Smarty cat modifier plugin
 
  Type:     modifier<br>
@@ -1169,73 +1169,73 @@
  Purpose:  catenate a value to a variable<br>
  Input:    string to catenate<br>
  Example:  {$var|cat:"foo"}</dd>
-<dt><a href="smarty/package-functions.html#smarty_modifiercompiler_count_characters()">smarty_modifiercompiler_count_characters()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_modifiercompiler_count_characters">smarty_modifiercompiler_count_characters()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
 <dd>Smarty count_characters modifier plugin
 
  Type:     modifier<br>
  Name:     count_characteres<br>
  Purpose:  count the number of characters in a text</dd>
-<dt><a href="smarty/package-functions.html#smarty_modifiercompiler_count_paragraphs()">smarty_modifiercompiler_count_paragraphs()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_modifiercompiler_count_paragraphs">smarty_modifiercompiler_count_paragraphs()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
 <dd>Smarty count_paragraphs modifier plugin
 
  Type:     modifier<br>
  Name:     count_paragraphs<br>
  Purpose:  count the number of paragraphs in a text</dd>
-<dt><a href="smarty/package-functions.html#smarty_modifiercompiler_count_sentences()">smarty_modifiercompiler_count_sentences()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_modifiercompiler_count_sentences">smarty_modifiercompiler_count_sentences()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
 <dd>Smarty count_sentences modifier plugin
 
  Type:     modifier<br>
  Name:     count_sentences
  Purpose:  count the number of sentences in a text</dd>
-<dt><a href="smarty/package-functions.html#smarty_modifiercompiler_count_words()">smarty_modifiercompiler_count_words()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_modifiercompiler_count_words">smarty_modifiercompiler_count_words()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
 <dd>Smarty count_words modifier plugin
 
  Type:     modifier<br>
  Name:     count_words<br>
  Purpose:  count the number of words in a text</dd>
-<dt><a href="smarty/package-functions.html#smarty_modifiercompiler_default()">smarty_modifiercompiler_default()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_modifiercompiler_default">smarty_modifiercompiler_default()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
 <dd>Smarty default modifier plugin
 
  Type:     modifier<br>
  Name:     default<br>
  Purpose:  designate default value for empty variables</dd>
-<dt><a href="smarty/package-functions.html#smarty_modifiercompiler_escape()">smarty_modifiercompiler_escape()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_modifiercompiler_escape">smarty_modifiercompiler_escape()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
 <dd>Smarty escape modifier plugin
 
  Type:     modifier<br>
  Name:     escape<br>
  Purpose:  escape string for output</dd>
-<dt><a href="smarty/package-functions.html#smarty_modifiercompiler_from_charset()">smarty_modifiercompiler_from_charset()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_modifiercompiler_from_charset">smarty_modifiercompiler_from_charset()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
 <dd>Smarty from_charset modifier plugin
 
  Type:     modifier<br>
  Name:     from_charset<br>
  Purpose:  convert character encoding from $charset to internal encoding</dd>
-<dt><a href="smarty/package-functions.html#smarty_modifiercompiler_indent()">smarty_modifiercompiler_indent()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_modifiercompiler_indent">smarty_modifiercompiler_indent()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
 <dd>Smarty indent modifier plugin
 
  Type:     modifier<br>
  Name:     indent<br>
  Purpose:  indent lines of text</dd>
-<dt><a href="smarty/package-functions.html#smarty_modifiercompiler_lower()">smarty_modifiercompiler_lower()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_modifiercompiler_lower">smarty_modifiercompiler_lower()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
 <dd>Smarty lower modifier plugin
 
  Type:     modifier<br>
  Name:     lower<br>
  Purpose:  convert string to lowercase</dd>
-<dt><a href="smarty/package-functions.html#smarty_modifiercompiler_noprint()">smarty_modifiercompiler_noprint()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_modifiercompiler_noprint">smarty_modifiercompiler_noprint()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
 <dd>Smarty noprint modifier plugin
 
  Type:     modifier<br>
  Name:     noprint<br>
  Purpose:  return an empty string</dd>
-<dt><a href="smarty/package-functions.html#smarty_modifiercompiler_string_format()">smarty_modifiercompiler_string_format()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_modifiercompiler_string_format">smarty_modifiercompiler_string_format()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
 <dd>Smarty string_format modifier plugin
 
  Type:     modifier<br>
  Name:     string_format<br>
  Purpose:  format strings via sprintf</dd>
-<dt><a href="smarty/package-functions.html#smarty_modifiercompiler_strip()">smarty_modifiercompiler_strip()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_modifiercompiler_strip">smarty_modifiercompiler_strip()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
 <dd>Smarty strip modifier plugin
 
  Type:     modifier<br>
@@ -1244,41 +1244,41 @@
               with a single space or supplied replacement string.<br>
  Example:  {$var|strip} {$var|strip:"&nbsp;"}<br>
  Date:     September 25th, 2002</dd>
-<dt><a href="smarty/package-functions.html#smarty_modifiercompiler_strip_tags()">smarty_modifiercompiler_strip_tags()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_modifiercompiler_strip_tags">smarty_modifiercompiler_strip_tags()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
 <dd>Smarty strip_tags modifier plugin
 
  Type:     modifier<br>
  Name:     strip_tags<br>
  Purpose:  strip html tags from text</dd>
-<dt><a href="smarty/package-functions.html#smarty_modifiercompiler_to_charset()">smarty_modifiercompiler_to_charset()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_modifiercompiler_to_charset">smarty_modifiercompiler_to_charset()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
 <dd>Smarty to_charset modifier plugin
 
  Type:     modifier<br>
  Name:     to_charset<br>
  Purpose:  convert character encoding from internal encoding to $charset</dd>
-<dt><a href="smarty/package-functions.html#smarty_modifiercompiler_unescape()">smarty_modifiercompiler_unescape()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_modifiercompiler_unescape">smarty_modifiercompiler_unescape()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
 <dd>Smarty unescape modifier plugin
 
  Type:     modifier<br>
  Name:     unescape<br>
  Purpose:  unescape html entities</dd>
-<dt><a href="smarty/package-functions.html#smarty_modifiercompiler_upper()">smarty_modifiercompiler_upper()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_modifiercompiler_upper">smarty_modifiercompiler_upper()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
 <dd>Smarty upper modifier plugin
  
  Type:     modifier<br>
  Name:     lower<br>
  Purpose:  convert string to uppercase</dd>
-<dt><a href="smarty/package-functions.html#smarty_modifiercompiler_wordwrap()">smarty_modifiercompiler_wordwrap()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_modifiercompiler_wordwrap">smarty_modifiercompiler_wordwrap()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
 <dd>Smarty wordwrap modifier plugin
  
  Type:     modifier<br>
  Name:     wordwrap<br>
  Purpose:  wrap a string of text at a given length</dd>
-<dt><a href="smarty/package-functions.html#smarty_outputfilter_trimwhitespace()">smarty_outputfilter_trimwhitespace()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_outputfilter_trimwhitespace">smarty_outputfilter_trimwhitespace()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
 <dd>Smarty trimwhitespace outputfilter plugin
 
  Trim unnecessary whitespace from HTML markup.</dd>
-<dt><a href="smarty/package-functions.html#smarty_php_tag()">smarty_php_tag()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_php_tag">smarty_php_tag()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
 <dd>Smarty {php}{/php} block function</dd>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-globals.md#SMARTY_PLUGINS_DIR">SMARTY_PLUGINS_DIR</a> - Global in namespace <a href="Default namespace/README.md">Default namespace</a></dt>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Resource.md">Smarty_Resource</a> - Class in namespace <a href="Smarty/README.md">Smarty</a></dt>
@@ -1324,10 +1324,10 @@
 <dd>class for the Smarty variable object
 
  This class defines the Smarty variable object</dd>
-<dt><a href="smarty/package-functions.html#smarty_variablefilter_htmlspecialchars()">smarty_variablefilter_htmlspecialchars()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_variablefilter_htmlspecialchars">smarty_variablefilter_htmlspecialchars()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
 <dd>Smarty htmlspecialchars variablefilter plugin</dd>
 <dd>smarty version</dd>
-<dt><a href="smarty/package-functions.html#smartyAutoload()">smartyAutoload()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smartyAutoload">smartyAutoload()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
 <dd>Autoloader</dd>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/SmartyBC.md">SmartyBC</a> - Class in namespace <a href="Smarty/README.md">Smarty</a></dt>
 <dd>Smarty Backward Compatability Wrapper Class</dd>
@@ -1377,7 +1377,7 @@
  This is the config file parser.
 </dd>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-globals.md#TRIPPLE">TRIPPLE</a> - Global in namespace <a href="Smarty/README.md">Smarty</a></dt>
-<dt><a href="hirudo/models/components/sql/package-functions.html#truncate()">truncate()</a> - Function in namespace <a href="Hirudo\Models\Components\Sql/README.md">Hirudo\Models\Components\Sql</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#truncate">truncate()</a> - Function in namespace <a href="Hirudo\Models\Components\Sql/README.md">Hirudo\Models\Components\Sql</a></dt>
 </dl>
 <h1 id="letterU">U</h1>
 <dl>
@@ -1385,9 +1385,9 @@
 <dd>class for undefined variable object
 
  This class defines an object for undefined variable handling</dd>
-<dt><a href="symfony/component/yaml/package-functions.html#unescapeCharacter()">unescapeCharacter()</a> - Function in namespace <a href="Symfony\Component\Yaml/README.md">Symfony\Component\Yaml</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/Yaml/package-functions.md#unescapeCharacter">unescapeCharacter()</a> - Function in namespace <a href="Symfony\Component\Yaml/README.md">Symfony\Component\Yaml</a></dt>
 <dd>Unescapes a character that was found in a double-quoted string</dd>
-<dt><a href="symfony/component/yaml/package-functions.html#unescapeDoubleQuotedString()">unescapeDoubleQuotedString()</a> - Function in namespace <a href="Symfony\Component\Yaml/README.md">Symfony\Component\Yaml</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/Yaml/package-functions.md#unescapeDoubleQuotedString">unescapeDoubleQuotedString()</a> - Function in namespace <a href="Symfony\Component\Yaml/README.md">Symfony\Component\Yaml</a></dt>
 <dd>Unescapes a double quoted string.</dd>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/Yaml/Unescaper.md">Unescaper</a> - Class in namespace <a href="Symfony\Component\Yaml/README.md">Symfony\Component\Yaml</a></dt>
 <dd>Unescaper encapsulates unescaping rules for single and double-quoted
@@ -1395,7 +1395,7 @@
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/ClassLoader/UniversalClassLoader.md">UniversalClassLoader</a> - Class in namespace <a href="Symfony\Component\ClassLoader/README.md">Symfony\Component\ClassLoader</a></dt>
 <dd>UniversalClassLoader implements a "universal" autoloader for PHP 5.3.
 </dd>
-<dt><a href="hirudo/models/components/sql/package-functions.html#update()">update()</a> - Function in namespace <a href="Hirudo\Models\Components\Sql/README.md">Hirudo\Models\Components\Sql</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#update">update()</a> - Function in namespace <a href="Hirudo\Models\Components\Sql/README.md">Hirudo\Models\Components\Sql</a></dt>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/UserExtraData.md">UserExtraData</a> - Class in namespace <a href="Hirudo\Core\Context/README.md">Hirudo\Core\Context</a></dt>
 <dd>A collection of data asociated to the user.
 </dd>
@@ -1411,9 +1411,9 @@
 </dl>
 <h1 id="letterW">W</h1>
 <dl>
-<dt><a href="hirudo/models/components/sql/package-functions.html#where()">where()</a> - Function in namespace <a href="Hirudo\Models\Components\Sql/README.md">Hirudo\Models\Components\Sql</a></dt>
-<dt><a href="hirudo/models/components/sql/package-functions.html#whereIn()">whereIn()</a> - Function in namespace <a href="Hirudo\Models\Components\Sql/README.md">Hirudo\Models\Components\Sql</a></dt>
-<dt><a href="hirudo/models/components/sql/package-functions.html#whereNotIn()">whereNotIn()</a> - Function in namespace <a href="Hirudo\Models\Components\Sql/README.md">Hirudo\Models\Components\Sql</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#where">where()</a> - Function in namespace <a href="Hirudo\Models\Components\Sql/README.md">Hirudo\Models\Components\Sql</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#whereIn">whereIn()</a> - Function in namespace <a href="Hirudo\Models\Components\Sql/README.md">Hirudo\Models\Components\Sql</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#whereNotIn">whereNotIn()</a> - Function in namespace <a href="Hirudo\Models\Components\Sql/README.md">Hirudo\Models\Components\Sql</a></dt>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Doctrine/Common/Cache/WincacheCache.md">WincacheCache</a> - Class in namespace <a href="Doctrine\Common\Cache/README.md">Doctrine\Common\Cache</a></dt>
 <dd>WinCache cache provider.</dd>
 </dl>
@@ -1436,99 +1436,99 @@
 <dd>YamlFileLoader loads YAML files service definitions.
 </dd>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-globals.md#yy_global_pattern">yy_global_pattern</a> - Global in namespace <a href="Smarty/README.md">Smarty</a></dt>
-<dt><a href="smarty/package-functions.html#yy_r1_13()">yy_r1_13()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
-<dt><a href="smarty/package-functions.html#yy_r1_14()">yy_r1_14()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
-<dt><a href="smarty/package-functions.html#yy_r1_15()">yy_r1_15()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
-<dt><a href="smarty/package-functions.html#yy_r1_16()">yy_r1_16()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
-<dt><a href="smarty/package-functions.html#yy_r1_17()">yy_r1_17()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
-<dt><a href="smarty/package-functions.html#yy_r1_18()">yy_r1_18()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
-<dt><a href="smarty/package-functions.html#yy_r1_19()">yy_r1_19()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
-<dt><a href="smarty/package-functions.html#yy_r1_20()">yy_r1_20()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
-<dt><a href="smarty/package-functions.html#yy_r1_21()">yy_r1_21()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
-<dt><a href="smarty/package-functions.html#yy_r1_22()">yy_r1_22()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
-<dt><a href="smarty/package-functions.html#yy_r1_23()">yy_r1_23()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
-<dt><a href="smarty/package-functions.html#yy_r2_10()">yy_r2_10()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
-<dt><a href="smarty/package-functions.html#yy_r2_11()">yy_r2_11()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
-<dt><a href="smarty/package-functions.html#yy_r2_12()">yy_r2_12()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
-<dt><a href="smarty/package-functions.html#yy_r2_13()">yy_r2_13()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
-<dt><a href="smarty/package-functions.html#yy_r2_14()">yy_r2_14()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
-<dt><a href="smarty/package-functions.html#yy_r2_15()">yy_r2_15()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
-<dt><a href="smarty/package-functions.html#yy_r2_16()">yy_r2_16()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
-<dt><a href="smarty/package-functions.html#yy_r2_17()">yy_r2_17()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
-<dt><a href="smarty/package-functions.html#yy_r2_18()">yy_r2_18()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
-<dt><a href="smarty/package-functions.html#yy_r2_19()">yy_r2_19()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
-<dt><a href="smarty/package-functions.html#yy_r2_20()">yy_r2_20()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
-<dt><a href="smarty/package-functions.html#yy_r2_22()">yy_r2_22()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
-<dt><a href="smarty/package-functions.html#yy_r2_24()">yy_r2_24()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
-<dt><a href="smarty/package-functions.html#yy_r2_26()">yy_r2_26()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
-<dt><a href="smarty/package-functions.html#yy_r2_27()">yy_r2_27()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
-<dt><a href="smarty/package-functions.html#yy_r2_28()">yy_r2_28()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
-<dt><a href="smarty/package-functions.html#yy_r2_29()">yy_r2_29()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
-<dt><a href="smarty/package-functions.html#yy_r2_30()">yy_r2_30()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
-<dt><a href="smarty/package-functions.html#yy_r2_31()">yy_r2_31()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
-<dt><a href="smarty/package-functions.html#yy_r2_32()">yy_r2_32()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
-<dt><a href="smarty/package-functions.html#yy_r2_33()">yy_r2_33()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
-<dt><a href="smarty/package-functions.html#yy_r2_34()">yy_r2_34()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
-<dt><a href="smarty/package-functions.html#yy_r2_35()">yy_r2_35()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
-<dt><a href="smarty/package-functions.html#yy_r2_36()">yy_r2_36()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
-<dt><a href="smarty/package-functions.html#yy_r2_37()">yy_r2_37()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
-<dt><a href="smarty/package-functions.html#yy_r2_38()">yy_r2_38()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
-<dt><a href="smarty/package-functions.html#yy_r2_39()">yy_r2_39()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
-<dt><a href="smarty/package-functions.html#yy_r2_40()">yy_r2_40()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
-<dt><a href="smarty/package-functions.html#yy_r2_41()">yy_r2_41()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
-<dt><a href="smarty/package-functions.html#yy_r2_42()">yy_r2_42()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
-<dt><a href="smarty/package-functions.html#yy_r2_43()">yy_r2_43()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
-<dt><a href="smarty/package-functions.html#yy_r2_47()">yy_r2_47()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
-<dt><a href="smarty/package-functions.html#yy_r2_48()">yy_r2_48()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
-<dt><a href="smarty/package-functions.html#yy_r2_49()">yy_r2_49()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
-<dt><a href="smarty/package-functions.html#yy_r2_5()">yy_r2_5()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
-<dt><a href="smarty/package-functions.html#yy_r2_50()">yy_r2_50()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
-<dt><a href="smarty/package-functions.html#yy_r2_51()">yy_r2_51()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
-<dt><a href="smarty/package-functions.html#yy_r2_52()">yy_r2_52()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
-<dt><a href="smarty/package-functions.html#yy_r2_53()">yy_r2_53()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
-<dt><a href="smarty/package-functions.html#yy_r2_54()">yy_r2_54()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
-<dt><a href="smarty/package-functions.html#yy_r2_55()">yy_r2_55()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
-<dt><a href="smarty/package-functions.html#yy_r2_57()">yy_r2_57()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
-<dt><a href="smarty/package-functions.html#yy_r2_59()">yy_r2_59()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
-<dt><a href="smarty/package-functions.html#yy_r2_6()">yy_r2_6()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
-<dt><a href="smarty/package-functions.html#yy_r2_60()">yy_r2_60()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
-<dt><a href="smarty/package-functions.html#yy_r2_61()">yy_r2_61()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
-<dt><a href="smarty/package-functions.html#yy_r2_62()">yy_r2_62()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
-<dt><a href="smarty/package-functions.html#yy_r2_63()">yy_r2_63()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
-<dt><a href="smarty/package-functions.html#yy_r2_64()">yy_r2_64()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
-<dt><a href="smarty/package-functions.html#yy_r2_65()">yy_r2_65()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
-<dt><a href="smarty/package-functions.html#yy_r2_66()">yy_r2_66()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
-<dt><a href="smarty/package-functions.html#yy_r2_67()">yy_r2_67()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
-<dt><a href="smarty/package-functions.html#yy_r2_68()">yy_r2_68()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
-<dt><a href="smarty/package-functions.html#yy_r2_69()">yy_r2_69()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
-<dt><a href="smarty/package-functions.html#yy_r2_7()">yy_r2_7()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
-<dt><a href="smarty/package-functions.html#yy_r2_70()">yy_r2_70()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
-<dt><a href="smarty/package-functions.html#yy_r2_71()">yy_r2_71()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
-<dt><a href="smarty/package-functions.html#yy_r2_72()">yy_r2_72()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
-<dt><a href="smarty/package-functions.html#yy_r2_73()">yy_r2_73()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
-<dt><a href="smarty/package-functions.html#yy_r2_74()">yy_r2_74()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
-<dt><a href="smarty/package-functions.html#yy_r2_75()">yy_r2_75()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
-<dt><a href="smarty/package-functions.html#yy_r2_76()">yy_r2_76()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
-<dt><a href="smarty/package-functions.html#yy_r2_8()">yy_r2_8()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
-<dt><a href="smarty/package-functions.html#yy_r2_9()">yy_r2_9()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
-<dt><a href="smarty/package-functions.html#yy_r3_4()">yy_r3_4()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
-<dt><a href="smarty/package-functions.html#yy_r3_5()">yy_r3_5()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
-<dt><a href="smarty/package-functions.html#yy_r3_6()">yy_r3_6()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
-<dt><a href="smarty/package-functions.html#yy_r3_7()">yy_r3_7()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
-<dt><a href="smarty/package-functions.html#yy_r4_10()">yy_r4_10()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
-<dt><a href="smarty/package-functions.html#yy_r4_11()">yy_r4_11()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
-<dt><a href="smarty/package-functions.html#yy_r4_12()">yy_r4_12()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
-<dt><a href="smarty/package-functions.html#yy_r4_13()">yy_r4_13()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
-<dt><a href="smarty/package-functions.html#yy_r4_17()">yy_r4_17()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
-<dt><a href="smarty/package-functions.html#yy_r4_4()">yy_r4_4()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
-<dt><a href="smarty/package-functions.html#yy_r4_5()">yy_r4_5()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
-<dt><a href="smarty/package-functions.html#yy_r4_6()">yy_r4_6()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
-<dt><a href="smarty/package-functions.html#yy_r4_7()">yy_r4_7()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
-<dt><a href="smarty/package-functions.html#yy_r4_8()">yy_r4_8()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
-<dt><a href="smarty/package-functions.html#yy_r4_9()">yy_r4_9()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
-<dt><a href="smarty/package-functions.html#yylex2()">yylex2()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
-<dt><a href="smarty/package-functions.html#yylex3()">yylex3()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
-<dt><a href="smarty/package-functions.html#yylex4()">yylex4()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r1_13">yy_r1_13()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r1_14">yy_r1_14()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r1_15">yy_r1_15()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r1_16">yy_r1_16()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r1_17">yy_r1_17()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r1_18">yy_r1_18()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r1_19">yy_r1_19()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r1_20">yy_r1_20()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r1_21">yy_r1_21()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r1_22">yy_r1_22()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r1_23">yy_r1_23()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_10">yy_r2_10()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_11">yy_r2_11()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_12">yy_r2_12()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_13">yy_r2_13()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_14">yy_r2_14()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_15">yy_r2_15()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_16">yy_r2_16()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_17">yy_r2_17()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_18">yy_r2_18()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_19">yy_r2_19()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_20">yy_r2_20()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_22">yy_r2_22()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_24">yy_r2_24()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_26">yy_r2_26()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_27">yy_r2_27()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_28">yy_r2_28()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_29">yy_r2_29()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_30">yy_r2_30()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_31">yy_r2_31()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_32">yy_r2_32()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_33">yy_r2_33()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_34">yy_r2_34()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_35">yy_r2_35()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_36">yy_r2_36()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_37">yy_r2_37()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_38">yy_r2_38()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_39">yy_r2_39()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_40">yy_r2_40()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_41">yy_r2_41()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_42">yy_r2_42()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_43">yy_r2_43()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_47">yy_r2_47()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_48">yy_r2_48()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_49">yy_r2_49()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_5">yy_r2_5()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_50">yy_r2_50()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_51">yy_r2_51()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_52">yy_r2_52()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_53">yy_r2_53()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_54">yy_r2_54()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_55">yy_r2_55()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_57">yy_r2_57()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_59">yy_r2_59()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_6">yy_r2_6()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_60">yy_r2_60()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_61">yy_r2_61()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_62">yy_r2_62()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_63">yy_r2_63()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_64">yy_r2_64()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_65">yy_r2_65()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_66">yy_r2_66()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_67">yy_r2_67()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_68">yy_r2_68()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_69">yy_r2_69()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_7">yy_r2_7()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_70">yy_r2_70()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_71">yy_r2_71()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_72">yy_r2_72()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_73">yy_r2_73()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_74">yy_r2_74()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_75">yy_r2_75()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_76">yy_r2_76()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_8">yy_r2_8()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r2_9">yy_r2_9()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r3_4">yy_r3_4()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r3_5">yy_r3_5()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r3_6">yy_r3_6()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r3_7">yy_r3_7()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r4_10">yy_r4_10()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r4_11">yy_r4_11()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r4_12">yy_r4_12()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r4_13">yy_r4_13()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r4_17">yy_r4_17()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r4_4">yy_r4_4()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r4_5">yy_r4_5()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r4_6">yy_r4_6()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r4_7">yy_r4_7()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r4_8">yy_r4_8()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yy_r4_9">yy_r4_9()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yylex2">yylex2()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yylex3">yylex3()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#yylex4">yylex4()</a> - Function in namespace <a href="Smarty/README.md">Smarty</a></dt>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-globals.md#yymatches">yymatches</a> - Global in namespace <a href="Smarty/README.md">Smarty</a></dt>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-globals.md#yysubmatches">yysubmatches</a> - Global in namespace <a href="Smarty/README.md">Smarty</a></dt>
 </dl>

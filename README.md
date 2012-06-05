@@ -6,4 +6,4 @@
 
 [View todo list](https://github.com/JeyDotC/Hirudo-docs/tree/master//todo-list.md)
 
-[View the list of all classes, functions and globals](https://github.com/JeyDotC/Hirudo-docs/tree/master//todo-list.md)
+[View the list of all classes, functions and globals](https://github.com/JeyDotC/Hirudo-docs/tree/master//index-all.md)
