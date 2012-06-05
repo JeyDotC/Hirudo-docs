@@ -2,7 +2,7 @@
 
 #Class Hierarchy for Package Symfony\Component\DependencyInjection\Dumper
 
-<div><a href='https://github.com/JeyDotC/Hirudo-docs/tree/master/Symfony\Component\DependencyInjection\Dumper'>Back to package summary</a></div>
+<div><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Dumper/'>Back to package summary</a></div>
 
 <ul>
 <li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Dumper/Dumper.md">Symfony\Component\DependencyInjection\Dumper\Dumper</a><ul>

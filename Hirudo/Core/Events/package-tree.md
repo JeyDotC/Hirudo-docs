@@ -2,7 +2,7 @@
 
 #Class Hierarchy for Package Hirudo\Core\Events
 
-<div><a href='https://github.com/JeyDotC/Hirudo-docs/tree/master/Hirudo\Core\Events'>Back to package summary</a></div>
+<div><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Events/'>Back to package summary</a></div>
 
 <ul>
 <li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/EventDispatcher/Event.md">Symfony\Component\EventDispatcher\Event</a><ul>

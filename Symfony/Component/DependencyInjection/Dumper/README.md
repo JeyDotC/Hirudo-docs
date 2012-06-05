@@ -4,7 +4,7 @@
 
 #Namespace Symfony\Component\DependencyInjection\Dumper#
 
-<div><a href='https://github.com/JeyDotC/Hirudo-docs/tree/master/Symfony\Component\DependencyInjection\Dumper/package-tree.md'>View Class Hierarchy for this Package</a></div>
+<div><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Dumper//package-tree.md'>View Class Hierarchy for this Package</a></div>
 
 <table class="title">
 <tr><th colspan="2" class="title">Class Summary</th></tr>

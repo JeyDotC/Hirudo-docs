@@ -2,7 +2,7 @@
 
 #Class Hierarchy for Package Symfony\Component\Yaml
 
-<div><a href='https://github.com/JeyDotC/Hirudo-docs/tree/master/Symfony\Component\Yaml'>Back to package summary</a></div>
+<div><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/Yaml/'>Back to package summary</a></div>
 
 <ul>
 <li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/Yaml/Dumper.md">Symfony\Component\Yaml\Dumper</a></li>

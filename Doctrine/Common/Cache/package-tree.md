@@ -2,7 +2,7 @@
 
 #Class Hierarchy for Package Doctrine\Common\Cache
 
-<div><a href='https://github.com/JeyDotC/Hirudo-docs/tree/master/Doctrine\Common\Cache'>Back to package summary</a></div>
+<div><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Doctrine/Common/Cache/'>Back to package summary</a></div>
 
 <ul>
 <li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Doctrine/Common/Cache/CacheProvider.md">Doctrine\Common\Cache\CacheProvider</a><ul>

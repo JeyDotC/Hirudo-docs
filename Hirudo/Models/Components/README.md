@@ -4,7 +4,7 @@
 
 #Namespace Hirudo\Models\Components#
 
-<div><a href='https://github.com/JeyDotC/Hirudo-docs/tree/master/Hirudo\Models\Components/package-tree.md'>View Class Hierarchy for this Package</a></div>
+<div><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components//package-tree.md'>View Class Hierarchy for this Package</a></div>
 
 <table class="title">
 <tr><th colspan="2" class="title">Interface Summary</th></tr>

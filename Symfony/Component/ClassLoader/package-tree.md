@@ -2,7 +2,7 @@
 
 #Class Hierarchy for Package Symfony\Component\ClassLoader
 
-<div><a href='https://github.com/JeyDotC/Hirudo-docs/tree/master/Symfony\Component\ClassLoader'>Back to package summary</a></div>
+<div><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/ClassLoader/'>Back to package summary</a></div>
 
 <ul>
 <li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/ClassLoader/UniversalClassLoader.md">Symfony\Component\ClassLoader\UniversalClassLoader</a><ul>

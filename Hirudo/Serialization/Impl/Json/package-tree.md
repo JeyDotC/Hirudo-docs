@@ -2,7 +2,7 @@
 
 #Class Hierarchy for Package Hirudo\Serialization\Impl\Json
 
-<div><a href='https://github.com/JeyDotC/Hirudo-docs/tree/master/Hirudo\Serialization\Impl\Json'>Back to package summary</a></div>
+<div><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Serialization/Impl/Json/'>Back to package summary</a></div>
 
 <ul>
 <li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Serialization/EntityDeserializerBase.md">Hirudo\Serialization\EntityDeserializerBase</a><ul>

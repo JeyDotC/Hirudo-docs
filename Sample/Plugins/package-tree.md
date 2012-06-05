@@ -2,7 +2,7 @@
 
 #Class Hierarchy for Package Sample\Plugins
 
-<div><a href='https://github.com/JeyDotC/Hirudo-docs/tree/master/Sample\Plugins'>Back to package summary</a></div>
+<div><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Sample/Plugins/'>Back to package summary</a></div>
 
 <ul>
 <li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Events/BeforeTaskEventListener.md">Hirudo\Core\Events\BeforeTaskEventListener</a><ul>

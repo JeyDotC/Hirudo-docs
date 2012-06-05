@@ -2,7 +2,7 @@
 
 #Class Hierarchy for Package Symfony\Component\DependencyInjection
 
-<div><a href='https://github.com/JeyDotC/Hirudo-docs/tree/master/Symfony\Component\DependencyInjection'>Back to package summary</a></div>
+<div><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/'>Back to package summary</a></div>
 
 <ul>
 <li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Alias.md">Symfony\Component\DependencyInjection\Alias</a></li>

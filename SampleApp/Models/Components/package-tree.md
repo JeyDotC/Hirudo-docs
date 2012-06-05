@@ -2,7 +2,7 @@
 
 #Class Hierarchy for Package SampleApp\Models\Components
 
-<div><a href='https://github.com/JeyDotC/Hirudo-docs/tree/master/SampleApp\Models\Components'>Back to package summary</a></div>
+<div><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/SampleApp/Models/Components/'>Back to package summary</a></div>
 
 <ul>
 <li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/SampleApp/Models/Components/ComplexObjectComponent.md">SampleApp\Models\Components\ComplexObjectComponent</a></li>
