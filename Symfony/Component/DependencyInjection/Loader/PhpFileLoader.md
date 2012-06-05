@@ -9,9 +9,8 @@
 
 #Class PhpFileLoader#
 
-BaseFileLoader
-* <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Loader/FileLoader.md">FileLoader</a>
-        * **PhpFileLoader**
+BaseFileLoader &gt; <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Loader/FileLoader.md">FileLoader</a>
+ &gt; **PhpFileLoader**
 
 
 
@@ -32,7 +31,7 @@ used form the file to change the container.</p></div>
 </dl>
 
 
-- - -
+<hr />
 
 <table class="inherit">
 <tr><th colspan="2">Fields inherited from Symfony\Component\DependencyInjection\Loader\FileLoader</th></tr>

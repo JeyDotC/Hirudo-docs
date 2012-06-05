@@ -10,7 +10,7 @@
 #Class EntitySerializerJSON#
 
 <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Serialization/EntitySerializerBase.md">EntitySerializerBase</a>
-    * **EntitySerializerJSON**
+ &gt; **EntitySerializerJSON**
 
 
 
@@ -31,7 +31,7 @@ into a JSON string.</p></div>
 </dl>
 
 
-- - -
+<hr />
 
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>

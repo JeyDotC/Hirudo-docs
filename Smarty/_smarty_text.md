@@ -10,7 +10,7 @@
 #Class _smarty_text#
 
 <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/_smarty_parsetree.md">_smarty_parsetree</a>
-    * **_smarty_text**
+ &gt; **_smarty_text**
 
 
 
@@ -31,7 +31,7 @@
 </dl>
 
 
-- - -
+<hr />
 
 <table class="inherit">
 <tr><th colspan="2">Fields inherited from Smarty\_smarty_parsetree</th></tr>

@@ -29,13 +29,13 @@ manager.</p></div>
 </dl>
 
 
-- - -
+<hr />
 
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#dispatch">dispatch</a>(string eventName, <a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/eventdispatcher/Event.md">Event</a> event)</p><p class="description">Dispatches an event to all registered listeners.</p></td>
+<td class="description"><p class="name"><a href="#dispatch">dispatch</a>(string eventName, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/EventDispatcher/Event.md">Event</a> event)</p><p class="description">Dispatches an event to all registered listeners.</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
@@ -43,7 +43,7 @@ manager.</p></div>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#addsubscriber">addSubscriber</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/eventdispatcher/EventSubscriberInterface.md">EventSubscriberInterface</a> subscriber)</p><p class="description">Adds an event subscriber. </p></td>
+<td class="description"><p class="name"><a href="#addsubscriber">addSubscriber</a>(<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/EventDispatcher/EventSubscriberInterface.md">EventSubscriberInterface</a> subscriber)</p><p class="description">Adds an event subscriber. </p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
@@ -51,7 +51,7 @@ manager.</p></div>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#removesubscriber">removeSubscriber</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/eventdispatcher/EventSubscriberInterface.md">EventSubscriberInterface</a> subscriber)</p><p class="description">Removes an event subscriber.</p></td>
+<td class="description"><p class="name"><a href="#removesubscriber">removeSubscriber</a>(<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/EventDispatcher/EventSubscriberInterface.md">EventSubscriberInterface</a> subscriber)</p><p class="description">Removes an event subscriber.</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>array</span></td>
@@ -68,7 +68,7 @@ manager.</p></div>
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/EventDispatcher/EventDispatcherInterface.php#L36" target='_blank'>framework\libs\symfony-components\Symfony\Component\EventDispatcher\EventDispatcherInterface.php at line 36</a>
 
 <h3 id="dispatch()">dispatch</h3>
-<span class='k'></span> <span class='nx'>void</span> <span class='nf'>dispatch</span> (string eventName, <a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/eventdispatcher/Event.md">Event</a> event)
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>dispatch</span> (string eventName, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/EventDispatcher/Event.md">Event</a> event)
 
 <div class="details">
 <p>Dispatches an event to all registered listeners.</p><dl>
@@ -105,7 +105,7 @@ manager.</p></div>
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/EventDispatcher/EventDispatcherInterface.php#L58" target='_blank'>framework\libs\symfony-components\Symfony\Component\EventDispatcher\EventDispatcherInterface.php at line 58</a>
 
 <h3 id="addSubscriber()">addSubscriber</h3>
-<span class='k'></span> <span class='nx'>void</span> <span class='nf'>addSubscriber</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/eventdispatcher/EventSubscriberInterface.md">EventSubscriberInterface</a> subscriber)
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>addSubscriber</span> (<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/EventDispatcher/EventSubscriberInterface.md">EventSubscriberInterface</a> subscriber)
 
 <div class="details">
 <p>Adds an event subscriber. The subscriber is asked for all the events he is
@@ -140,7 +140,7 @@ interested in and added as a listener for these events.</p><dl>
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/EventDispatcher/EventDispatcherInterface.php#L73" target='_blank'>framework\libs\symfony-components\Symfony\Component\EventDispatcher\EventDispatcherInterface.php at line 73</a>
 
 <h3 id="removeSubscriber()">removeSubscriber</h3>
-<span class='k'></span> <span class='nx'>void</span> <span class='nf'>removeSubscriber</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/eventdispatcher/EventSubscriberInterface.md">EventSubscriberInterface</a> subscriber)
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>removeSubscriber</span> (<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/EventDispatcher/EventSubscriberInterface.md">EventSubscriberInterface</a> subscriber)
 
 <div class="details">
 <p>Removes an event subscriber.</p><dl>

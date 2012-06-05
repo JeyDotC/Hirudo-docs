@@ -30,7 +30,7 @@ to inject a dependency.</p></div>
 </dl>
 
 
-- - -
+<hr />
 
 
 

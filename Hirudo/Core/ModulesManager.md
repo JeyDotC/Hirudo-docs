@@ -10,7 +10,7 @@
 #Class ModulesManager#
 
 <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/EventDispatcher/EventDispatcher.md">EventDispatcher</a>
-    * **ModulesManager**
+ &gt; **ModulesManager**
 
 
 
@@ -32,7 +32,7 @@ point of the framework.</p></div>
 </dl>
 
 
-- - -
+<hr />
 
 <table id="summary_constructor">
 <tr><th colspan="2">Constructor Summary</th></tr>
@@ -51,7 +51,7 @@ default configuration.</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name"><a href="#executecall">executeCall</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/context/ModuleCall.md">ModuleCall</a> call)</p><p class="description">Executes a ModuleCall.</p></td>
+<td class="description"><p class="name"><a href="#executecall">executeCall</a>(<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/ModuleCall.md">ModuleCall</a> call)</p><p class="description">Executes a ModuleCall.</p></td>
 </tr>
 <tr>
 <td><span class='k'>static </span> <span class='nx'>void</span></td>
@@ -59,7 +59,7 @@ default configuration.</p></td>
 </tr>
 <tr>
 <td><span class='k'>protected </span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#resolvetaskrequirements">resolveTaskRequirements</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/Task.md">Task</a> task)</p><p class="description">Resolves the task's requirements from request.</p></td>
+<td class="description"><p class="name"><a href="#resolvetaskrequirements">resolveTaskRequirements</a>(<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Task.md">Task</a> task)</p><p class="description">Resolves the task's requirements from request.</p></td>
 </tr>
 </table>
 
@@ -106,7 +106,7 @@ default configuration.</p><dl>
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/ModulesManager.php#L123" target='_blank'>framework\hirudo\Hirudo\Core\ModulesManager.php at line 123</a>
 
 <h3 id="executeCall()">executeCall</h3>
-<span class='k'></span> <span class='nx'>string</span> <span class='nf'>executeCall</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/context/ModuleCall.md">ModuleCall</a> call)
+<span class='k'></span> <span class='nx'>string</span> <span class='nf'>executeCall</span> (<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/ModuleCall.md">ModuleCall</a> call)
 
 <div class="details">
 <p>Executes a ModuleCall.</p><dl>
@@ -136,7 +136,7 @@ default configuration.</p><dl>
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/ModulesManager.php#L163" target='_blank'>framework\hirudo\Hirudo\Core\ModulesManager.php at line 163</a>
 
 <h3 id="resolveTaskRequirements()">resolveTaskRequirements</h3>
-<span class='k'>protected </span> <span class='nx'>void</span> <span class='nf'>resolveTaskRequirements</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/Task.md">Task</a> task)
+<span class='k'>protected </span> <span class='nx'>void</span> <span class='nf'>resolveTaskRequirements</span> (<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Task.md">Task</a> task)
 
 <div class="details">
 <p>Resolves the task's requirements from request.</p><dl>

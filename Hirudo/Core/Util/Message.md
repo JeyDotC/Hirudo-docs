@@ -23,7 +23,7 @@ and a type, being the latter normally used as a CSS class.</p></div>
 
 
 
-- - -
+<hr />
 
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>

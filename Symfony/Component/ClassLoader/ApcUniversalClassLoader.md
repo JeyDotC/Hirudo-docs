@@ -10,7 +10,7 @@
 #Class ApcUniversalClassLoader#
 
 <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/ClassLoader/UniversalClassLoader.md">UniversalClassLoader</a>
-    * **ApcUniversalClassLoader**
+ &gt; **ApcUniversalClassLoader**
 
 
 
@@ -49,7 +49,7 @@ found before giving up.</p></div>
 </dl>
 
 
-- - -
+<hr />
 
 <table id="summary_constructor">
 <tr><th colspan="2">Constructor Summary</th></tr>

@@ -9,8 +9,7 @@
 
 #Class DumpException#
 
-\RuntimeException
-* **DumpException**
+\RuntimeException &gt; **DumpException**
 
 
 <dl>
@@ -36,5 +35,5 @@
 </dl>
 
 
-- - -
+<hr />
 

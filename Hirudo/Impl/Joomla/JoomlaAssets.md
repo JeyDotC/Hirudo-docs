@@ -10,7 +10,7 @@
 #Class JoomlaAssets#
 
 <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/Assets.md">Assets</a>
-    * **JoomlaAssets**
+ &gt; **JoomlaAssets**
 
 
 
@@ -31,7 +31,7 @@
 </dl>
 
 
-- - -
+<hr />
 
 <table id="summary_constructor">
 <tr><th colspan="2">Constructor Summary</th></tr>

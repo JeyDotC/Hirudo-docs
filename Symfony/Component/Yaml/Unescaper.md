@@ -27,5 +27,5 @@ YAML strings.</p></div>
 </dl>
 
 
-- - -
+<hr />
 

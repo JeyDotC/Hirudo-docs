@@ -25,7 +25,7 @@ the text before it will be ignored, so if $mimeType is "application/json", only 
 
 
 
-- - -
+<hr />
 
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>

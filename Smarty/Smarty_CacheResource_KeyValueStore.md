@@ -10,7 +10,7 @@
 #Class Smarty_CacheResource_KeyValueStore#
 
 <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_CacheResource.md">Smarty_CacheResource</a>
-    * **Smarty_CacheResource_KeyValueStore**
+ &gt; **Smarty_CacheResource_KeyValueStore**
 
 
 
@@ -44,7 +44,7 @@ consider using »a|b|c|$page-$items-$whatever« instead.</p></div>
 </dl>
 
 
-- - -
+<hr />
 
 
 
@@ -70,31 +70,31 @@ consider using »a|b|c|$page-$items-$whatever« instead.</p></div>
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#populate">populate</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Template_Cached.md">Smarty_Template_Cached</a> cached, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> _template)</p><p class="description">populate Cached Object with meta data from Resource</p></td>
+<td class="description"><p class="name"><a href="#populate">populate</a>(<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Template_Cached.md">Smarty_Template_Cached</a> cached, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> _template)</p><p class="description">populate Cached Object with meta data from Resource</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#populatetimestamp">populateTimestamp</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Template_Cached.md">Smarty_Template_Cached</a> cached, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Template_Cached.md">Smarty_Template_Cached</a> source)</p><p class="description">populate Cached Object with timestamp and exists from Resource</p></td>
+<td class="description"><p class="name"><a href="#populatetimestamp">populateTimestamp</a>(<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Template_Cached.md">Smarty_Template_Cached</a> cached, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Template_Cached.md">Smarty_Template_Cached</a> source)</p><p class="description">populate Cached Object with timestamp and exists from Resource</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>booelan</span></td>
-<td class="description"><p class="name"><a href="#process">process</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> _template, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Template_Cached.md">Smarty_Template_Cached</a> cached)</p><p class="description">Read the cached template and process the header</p></td>
+<td class="description"><p class="name"><a href="#process">process</a>(<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> _template, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Template_Cached.md">Smarty_Template_Cached</a> cached)</p><p class="description">Read the cached template and process the header</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>boolean</span></td>
-<td class="description"><p class="name"><a href="#writecachedcontent">writeCachedContent</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> _template, string content)</p><p class="description">Write the rendered template output to cache</p></td>
+<td class="description"><p class="name"><a href="#writecachedcontent">writeCachedContent</a>(<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> _template, string content)</p><p class="description">Write the rendered template output to cache</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>integer</span></td>
-<td class="description"><p class="name"><a href="#clearall">clearAll</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty.md">Smarty</a> smarty, integer exp_time)</p><p class="description">Empty cachethe $exp_time argument is ignored altogether}</p></td>
+<td class="description"><p class="name"><a href="#clearall">clearAll</a>(<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty.md">Smarty</a> smarty, integer exp_time)</p><p class="description">Empty cachethe $exp_time argument is ignored altogether}</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>integer</span></td>
-<td class="description"><p class="name"><a href="#clear">clear</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty.md">Smarty</a> smarty, string resource_name, string cache_id, string compile_id, integer exp_time)</p><p class="description">Empty cache for a specific templatethe $exp_time argument is ignored altogether}</p></td>
+<td class="description"><p class="name"><a href="#clear">clear</a>(<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty.md">Smarty</a> smarty, string resource_name, string cache_id, string compile_id, integer exp_time)</p><p class="description">Empty cache for a specific templatethe $exp_time argument is ignored altogether}</p></td>
 </tr>
 <tr>
 <td><span class='k'>protected </span> <span class='nx'>string</span></td>
-<td class="description"><p class="name"><a href="#gettemplateuid">getTemplateUid</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty.md">Smarty</a> smarty, string resource_name, string cache_id, string compile_id)</p><p class="description">Get template's unique ID</p></td>
+<td class="description"><p class="name"><a href="#gettemplateuid">getTemplateUid</a>(<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty.md">Smarty</a> smarty, string resource_name, string cache_id, string compile_id)</p><p class="description">Get template's unique ID</p></td>
 </tr>
 <tr>
 <td><span class='k'>protected </span> <span class='nx'>string</span></td>
@@ -127,15 +127,15 @@ consider using »a|b|c|$page-$items-$whatever« instead.</p></div>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>booelan</span></td>
-<td class="description"><p class="name"><a href="#haslock">hasLock</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty.md">Smarty</a> smarty, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Template_Cached.md">Smarty_Template_Cached</a> cached)</p><p class="description">Check is cache is locked for this template</p></td>
+<td class="description"><p class="name"><a href="#haslock">hasLock</a>(<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty.md">Smarty</a> smarty, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Template_Cached.md">Smarty_Template_Cached</a> cached)</p><p class="description">Check is cache is locked for this template</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#acquirelock">acquireLock</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty.md">Smarty</a> smarty, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Template_Cached.md">Smarty_Template_Cached</a> cached)</p><p class="description">Lock cache for this template</p></td>
+<td class="description"><p class="name"><a href="#acquirelock">acquireLock</a>(<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty.md">Smarty</a> smarty, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Template_Cached.md">Smarty_Template_Cached</a> cached)</p><p class="description">Lock cache for this template</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#releaselock">releaseLock</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty.md">Smarty</a> smarty, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Template_Cached.md">Smarty_Template_Cached</a> cached)</p><p class="description">Unlock cache for this template</p></td>
+<td class="description"><p class="name"><a href="#releaselock">releaseLock</a>(<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty.md">Smarty</a> smarty, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Template_Cached.md">Smarty_Template_Cached</a> cached)</p><p class="description">Unlock cache for this template</p></td>
 </tr>
 <tr>
 <td><span class='k'>protected abstract </span> <span class='nx'>array</span></td>
@@ -164,7 +164,7 @@ consider using »a|b|c|$page-$items-$whatever« instead.</p></div>
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_cacheresource_keyvaluestore.php#L54" target='_blank'>framework\libs\smarty\sysplugins\smarty_cacheresource_keyvaluestore.php at line 54</a>
 
 <h3 id="populate()">populate</h3>
-<span class='k'></span> <span class='nx'>void</span> <span class='nf'>populate</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Template_Cached.md">Smarty_Template_Cached</a> cached, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> _template)
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>populate</span> (<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Template_Cached.md">Smarty_Template_Cached</a> cached, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> _template)
 
 <div class="details">
 <p>populate Cached Object with meta data from Resource</p><dl>
@@ -181,7 +181,7 @@ consider using »a|b|c|$page-$items-$whatever« instead.</p></div>
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_cacheresource_keyvaluestore.php#L70" target='_blank'>framework\libs\smarty\sysplugins\smarty_cacheresource_keyvaluestore.php at line 70</a>
 
 <h3 id="populateTimestamp()">populateTimestamp</h3>
-<span class='k'></span> <span class='nx'>void</span> <span class='nf'>populateTimestamp</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Template_Cached.md">Smarty_Template_Cached</a> cached, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Template_Cached.md">Smarty_Template_Cached</a> source)
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>populateTimestamp</span> (<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Template_Cached.md">Smarty_Template_Cached</a> cached, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Template_Cached.md">Smarty_Template_Cached</a> source)
 
 <div class="details">
 <p>populate Cached Object with timestamp and exists from Resource</p><dl>
@@ -197,7 +197,7 @@ consider using »a|b|c|$page-$items-$whatever« instead.</p></div>
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_cacheresource_keyvaluestore.php#L87" target='_blank'>framework\libs\smarty\sysplugins\smarty_cacheresource_keyvaluestore.php at line 87</a>
 
 <h3 id="process()">process</h3>
-<span class='k'></span> <span class='nx'>booelan</span> <span class='nf'>process</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> _template, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Template_Cached.md">Smarty_Template_Cached</a> cached)
+<span class='k'></span> <span class='nx'>booelan</span> <span class='nf'>process</span> (<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> _template, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Template_Cached.md">Smarty_Template_Cached</a> cached)
 
 <div class="details">
 <p>Read the cached template and process the header</p><dl>
@@ -216,7 +216,7 @@ consider using »a|b|c|$page-$items-$whatever« instead.</p></div>
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_cacheresource_keyvaluestore.php#L114" target='_blank'>framework\libs\smarty\sysplugins\smarty_cacheresource_keyvaluestore.php at line 114</a>
 
 <h3 id="writeCachedContent()">writeCachedContent</h3>
-<span class='k'></span> <span class='nx'>boolean</span> <span class='nf'>writeCachedContent</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> _template, string content)
+<span class='k'></span> <span class='nx'>boolean</span> <span class='nf'>writeCachedContent</span> (<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> _template, string content)
 
 <div class="details">
 <p>Write the rendered template output to cache</p><dl>
@@ -235,7 +235,7 @@ consider using »a|b|c|$page-$items-$whatever« instead.</p></div>
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_cacheresource_keyvaluestore.php#L131" target='_blank'>framework\libs\smarty\sysplugins\smarty_cacheresource_keyvaluestore.php at line 131</a>
 
 <h3 id="clearAll()">clearAll</h3>
-<span class='k'></span> <span class='nx'>integer</span> <span class='nf'>clearAll</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty.md">Smarty</a> smarty, integer exp_time)
+<span class='k'></span> <span class='nx'>integer</span> <span class='nf'>clearAll</span> (<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty.md">Smarty</a> smarty, integer exp_time)
 
 <div class="details">
 <p>Empty cache</p><p>the $exp_time argument is ignored altogether}</p><dl>
@@ -257,7 +257,7 @@ consider using »a|b|c|$page-$items-$whatever« instead.</p></div>
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_cacheresource_keyvaluestore.php#L154" target='_blank'>framework\libs\smarty\sysplugins\smarty_cacheresource_keyvaluestore.php at line 154</a>
 
 <h3 id="clear()">clear</h3>
-<span class='k'></span> <span class='nx'>integer</span> <span class='nf'>clear</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty.md">Smarty</a> smarty, string resource_name, string cache_id, string compile_id, integer exp_time)
+<span class='k'></span> <span class='nx'>integer</span> <span class='nf'>clear</span> (<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty.md">Smarty</a> smarty, string resource_name, string cache_id, string compile_id, integer exp_time)
 
 <div class="details">
 <p>Empty cache for a specific template</p><p>the $exp_time argument is ignored altogether}</p><dl>
@@ -283,7 +283,7 @@ consider using »a|b|c|$page-$items-$whatever« instead.</p></div>
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_cacheresource_keyvaluestore.php#L171" target='_blank'>framework\libs\smarty\sysplugins\smarty_cacheresource_keyvaluestore.php at line 171</a>
 
 <h3 id="getTemplateUid()">getTemplateUid</h3>
-<span class='k'>protected </span> <span class='nx'>string</span> <span class='nf'>getTemplateUid</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty.md">Smarty</a> smarty, string resource_name, string cache_id, string compile_id)
+<span class='k'>protected </span> <span class='nx'>string</span> <span class='nf'>getTemplateUid</span> (<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty.md">Smarty</a> smarty, string resource_name, string cache_id, string compile_id)
 
 <div class="details">
 <p>Get template's unique ID</p><dl>
@@ -446,7 +446,7 @@ consider using »a|b|c|$page-$items-$whatever« instead.</p></div>
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_cacheresource_keyvaluestore.php#L393" target='_blank'>framework\libs\smarty\sysplugins\smarty_cacheresource_keyvaluestore.php at line 393</a>
 
 <h3 id="hasLock()">hasLock</h3>
-<span class='k'></span> <span class='nx'>booelan</span> <span class='nf'>hasLock</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty.md">Smarty</a> smarty, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Template_Cached.md">Smarty_Template_Cached</a> cached)
+<span class='k'></span> <span class='nx'>booelan</span> <span class='nf'>hasLock</span> (<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty.md">Smarty</a> smarty, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Template_Cached.md">Smarty_Template_Cached</a> cached)
 
 <div class="details">
 <p>Check is cache is locked for this template</p><dl>
@@ -465,7 +465,7 @@ consider using »a|b|c|$page-$items-$whatever« instead.</p></div>
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_cacheresource_keyvaluestore.php#L406" target='_blank'>framework\libs\smarty\sysplugins\smarty_cacheresource_keyvaluestore.php at line 406</a>
 
 <h3 id="acquireLock()">acquireLock</h3>
-<span class='k'></span> <span class='nx'>void</span> <span class='nf'>acquireLock</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty.md">Smarty</a> smarty, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Template_Cached.md">Smarty_Template_Cached</a> cached)
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>acquireLock</span> (<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty.md">Smarty</a> smarty, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Template_Cached.md">Smarty_Template_Cached</a> cached)
 
 <div class="details">
 <p>Lock cache for this template</p><dl>
@@ -482,7 +482,7 @@ consider using »a|b|c|$page-$items-$whatever« instead.</p></div>
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_cacheresource_keyvaluestore.php#L419" target='_blank'>framework\libs\smarty\sysplugins\smarty_cacheresource_keyvaluestore.php at line 419</a>
 
 <h3 id="releaseLock()">releaseLock</h3>
-<span class='k'></span> <span class='nx'>void</span> <span class='nf'>releaseLock</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty.md">Smarty</a> smarty, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Template_Cached.md">Smarty_Template_Cached</a> cached)
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>releaseLock</span> (<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty.md">Smarty</a> smarty, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Template_Cached.md">Smarty_Template_Cached</a> cached)
 
 <div class="details">
 <p>Unlock cache for this template</p><dl>

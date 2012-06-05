@@ -9,9 +9,8 @@
 
 #Class ModuleNotFoundException#
 
-\Exception
-* <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Exceptions/HirudoException.md">HirudoException</a>
-        * **ModuleNotFoundException**
+\Exception &gt; <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Exceptions/HirudoException.md">HirudoException</a>
+ &gt; **ModuleNotFoundException**
 
 
 
@@ -27,7 +26,7 @@
 
 
 
-- - -
+<hr />
 
 <table id="summary_constructor">
 <tr><th colspan="2">Constructor Summary</th></tr>

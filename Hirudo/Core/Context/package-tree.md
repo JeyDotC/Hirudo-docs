@@ -2,7 +2,7 @@
 
 #Class Hierarchy for Package Hirudo\Core\Context
 
-<div><a href='https://github.com/JeyDotC/Hirudo-docs/tree/master/hirudo/core/context'>Back to package summary</a></div>
+<div><a href='https://github.com/JeyDotC/Hirudo-docs/tree/master/Hirudo\Core\Context'>Back to package summary</a></div>
 
 <ul>
 <li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/AppConfig.md">Hirudo\Core\Context\AppConfig</a></li>

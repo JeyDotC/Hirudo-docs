@@ -28,7 +28,7 @@ to check the annotation target during the parsing process.</p></div>
 </dl>
 
 
-- - -
+<hr />
 
 
 

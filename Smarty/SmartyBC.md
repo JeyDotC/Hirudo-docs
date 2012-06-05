@@ -10,9 +10,9 @@
 #Class SmartyBC#
 
 <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_Data.md">Smarty_Internal_Data</a>
-    * <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_TemplateBase.md">Smarty_Internal_TemplateBase</a>
-        * <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty.md">Smarty</a>
-            * **SmartyBC**
+ &gt; <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_TemplateBase.md">Smarty_Internal_TemplateBase</a>
+ &gt; <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty.md">Smarty</a>
+ &gt; **SmartyBC**
 
 
 
@@ -32,7 +32,7 @@
 </dl>
 
 
-- - -
+<hr />
 
 
 

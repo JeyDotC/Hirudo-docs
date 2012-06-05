@@ -32,7 +32,7 @@
 </dl>
 
 
-- - -
+<hr />
 
 
 
@@ -49,7 +49,7 @@
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#setcontainer">setContainer</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/ContainerInterface.md">ContainerInterface</a> container)</p><p class="description">Sets the Container associated with this Controller.</p></td>
+<td class="description"><p class="name"><a href="#setcontainer">setContainer</a>(<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/ContainerInterface.md">ContainerInterface</a> container)</p><p class="description">Sets the Container associated with this Controller.</p></td>
 </tr>
 </table>
 
@@ -58,7 +58,7 @@
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/ContainerAware.php#L37" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\ContainerAware.php at line 37</a>
 
 <h3 id="setContainer()">setContainer</h3>
-<span class='k'></span> <span class='nx'>void</span> <span class='nf'>setContainer</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/ContainerInterface.md">ContainerInterface</a> container)
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>setContainer</span> (<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/ContainerInterface.md">ContainerInterface</a> container)
 
 <div class="details">
 <p>Sets the Container associated with this Controller.</p><dl>

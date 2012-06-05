@@ -27,7 +27,7 @@ based on the view name.</p></p></div>
 </dl>
 
 
-- - -
+<hr />
 
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>

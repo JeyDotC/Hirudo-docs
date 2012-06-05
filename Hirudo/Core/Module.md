@@ -27,7 +27,7 @@
 
 
 
-- - -
+<hr />
 
 
 
@@ -107,7 +107,7 @@ the browser.</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#addmessage">addMessage</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/util/Message.md">Message</a> message)</p><p class="description">Adds a message to the view which normally will be rendered as a notification.</p></td>
+<td class="description"><p class="name"><a href="#addmessage">addMessage</a>(<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Util/Message.md">Message</a> message)</p><p class="description">Adds a message to the view which normally will be rendered as a notification.</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
@@ -304,7 +304,7 @@ the browser.</p></p><dl>
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Module.php#L351" target='_blank'>framework\hirudo\Hirudo\Core\Module.php at line 351</a>
 
 <h3 id="addMessage()">addMessage</h3>
-<span class='k'></span> <span class='nx'>void</span> <span class='nf'>addMessage</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/util/Message.md">Message</a> message)
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>addMessage</span> (<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Util/Message.md">Message</a> message)
 
 <div class="details">
 <p>Adds a message to the view which normally will be rendered as a notification.</p><dl>

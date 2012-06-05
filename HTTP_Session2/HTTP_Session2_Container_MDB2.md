@@ -10,7 +10,7 @@
 #Class HTTP_Session2_Container_MDB2#
 
 <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/HTTP_Session2/HTTP_Session2_Container.md">HTTP_Session2_Container</a>
-    * **HTTP_Session2_Container_MDB2**
+ &gt; **HTTP_Session2_Container_MDB2**
 
 
 
@@ -49,7 +49,7 @@ PRIMARY KEY (`id`)
 </dl>
 
 
-- - -
+<hr />
 
 
 

@@ -10,7 +10,7 @@
 #Class DocLexer#
 
 <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Doctrine/Common/Lexer.md">Lexer</a>
-    * **DocLexer**
+ &gt; **DocLexer**
 
 
 
@@ -38,7 +38,7 @@
 </dl>
 
 
-- - -
+<hr />
 
 <table class="inherit">
 <tr><th colspan="2">Fields inherited from Doctrine\Common\Lexer</th></tr>

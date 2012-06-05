@@ -9,9 +9,8 @@
 
 #Class ScopeWideningInjectionException#
 
-\RuntimeException
-* <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Exception/RuntimeException.md">RuntimeException</a>
-        * **ScopeWideningInjectionException**
+\RuntimeException &gt; <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Exception/RuntimeException.md">RuntimeException</a>
+ &gt; **ScopeWideningInjectionException**
 
 
 
@@ -31,7 +30,7 @@
 </dl>
 
 
-- - -
+<hr />
 
 <table id="summary_constructor">
 <tr><th colspan="2">Constructor Summary</th></tr>

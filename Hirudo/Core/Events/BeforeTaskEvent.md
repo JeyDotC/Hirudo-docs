@@ -10,7 +10,7 @@
 #Class BeforeTaskEvent#
 
 <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/EventDispatcher/Event.md">Event</a>
-    * **BeforeTaskEvent**
+ &gt; **BeforeTaskEvent**
 
 
 
@@ -38,7 +38,7 @@ are resolved.</p></div>
 </dl>
 
 
-- - -
+<hr />
 
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
@@ -52,7 +52,7 @@ are resolved.</p></div>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#replacecall">replaceCall</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/context/ModuleCall.md">ModuleCall</a> call)</p><p class="description">Replaces the call to be executed thus restarting the module execution
+<td class="description"><p class="name"><a href="#replacecall">replaceCall</a>(<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/ModuleCall.md">ModuleCall</a> call)</p><p class="description">Replaces the call to be executed thus restarting the module execution
 process to work acordingly to the new ModuleCall.</p></td>
 </tr>
 <tr>
@@ -109,7 +109,7 @@ process to work acordingly to the new ModuleCall.</p></td>
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Events/BeforeTaskEvent.php#L68" target='_blank'>framework\hirudo\Hirudo\Core\Events\BeforeTaskEvent.php at line 68</a>
 
 <h3 id="replaceCall()">replaceCall</h3>
-<span class='k'></span> <span class='nx'>void</span> <span class='nf'>replaceCall</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/context/ModuleCall.md">ModuleCall</a> call)
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>replaceCall</span> (<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/ModuleCall.md">ModuleCall</a> call)
 
 <div class="details">
 <p>Replaces the call to be executed thus restarting the module execution

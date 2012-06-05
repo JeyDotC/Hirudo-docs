@@ -9,9 +9,8 @@
 
 #Class SmartyCompilerException#
 
-Exception
-* <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/SmartyException.md">SmartyException</a>
-        * **SmartyCompilerException**
+Exception &gt; <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/SmartyException.md">SmartyException</a>
+ &gt; **SmartyCompilerException**
 
 
 
@@ -27,5 +26,5 @@ Exception
 
 
 
-- - -
+<hr />
 

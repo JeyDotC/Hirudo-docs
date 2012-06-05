@@ -9,9 +9,8 @@
 
 #Class IniFileLoader#
 
-BaseFileLoader
-* <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Loader/FileLoader.md">FileLoader</a>
-        * **IniFileLoader**
+BaseFileLoader &gt; <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Loader/FileLoader.md">FileLoader</a>
+ &gt; **IniFileLoader**
 
 
 
@@ -31,7 +30,7 @@ BaseFileLoader
 </dl>
 
 
-- - -
+<hr />
 
 <table class="inherit">
 <tr><th colspan="2">Fields inherited from Symfony\Component\DependencyInjection\Loader\FileLoader</th></tr>

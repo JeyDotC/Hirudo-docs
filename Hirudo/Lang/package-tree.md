@@ -2,7 +2,7 @@
 
 #Class Hierarchy for Package Hirudo\Lang
 
-<div><a href='https://github.com/JeyDotC/Hirudo-docs/tree/master/hirudo/lang'>Back to package summary</a></div>
+<div><a href='https://github.com/JeyDotC/Hirudo-docs/tree/master/Hirudo\Lang'>Back to package summary</a></div>
 
 <ul>
 <li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Lang/DirectoryHelper.md">Hirudo\Lang\DirectoryHelper</a></li>

@@ -9,8 +9,7 @@
 
 #Class SmartyException#
 
-Exception
-* **SmartyException**
+Exception &gt; **SmartyException**
 
 
 <dl>
@@ -31,5 +30,5 @@ Exception
 
 
 
-- - -
+<hr />
 

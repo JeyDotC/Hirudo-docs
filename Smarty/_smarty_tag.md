@@ -10,7 +10,7 @@
 #Class _smarty_tag#
 
 <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/_smarty_parsetree.md">_smarty_parsetree</a>
-    * **_smarty_tag**
+ &gt; **_smarty_tag**
 
 
 
@@ -31,7 +31,7 @@
 </dl>
 
 
-- - -
+<hr />
 
 
 

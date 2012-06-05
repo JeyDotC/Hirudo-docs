@@ -26,13 +26,13 @@
 </dl>
 
 
-- - -
+<hr />
 
 <table id="summary_constructor">
 <tr><th colspan="2">Constructor Summary</th></tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#__construct">__construct</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/compiler/ServiceReferenceGraphNode.md">ServiceReferenceGraphNode</a> sourceNode, <a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/compiler/ServiceReferenceGraphNode.md">ServiceReferenceGraphNode</a> destNode, string value)</p><p class="description">Constructor.</p></td>
+<td class="description"><p class="name"><a href="#__construct">__construct</a>(<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Compiler/ServiceReferenceGraphNode.md">ServiceReferenceGraphNode</a> sourceNode, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Compiler/ServiceReferenceGraphNode.md">ServiceReferenceGraphNode</a> destNode, string value)</p><p class="description">Constructor.</p></td>
 </tr>
 </table>
 
@@ -57,7 +57,7 @@
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/symfony-components/Symfony/Component/DependencyInjection/Compiler/ServiceReferenceGraphEdge.php#L34" target='_blank'>framework\libs\symfony-components\Symfony\Component\DependencyInjection\Compiler\ServiceReferenceGraphEdge.php at line 34</a>
 
 <h3 id="__construct">__construct</h3>
-<span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/compiler/ServiceReferenceGraphNode.md">ServiceReferenceGraphNode</a> sourceNode, <a href="https://github.com/JeyDotC/Hirudo/blob/master/symfony/component/dependencyinjection/compiler/ServiceReferenceGraphNode.md">ServiceReferenceGraphNode</a> destNode, string value)
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Compiler/ServiceReferenceGraphNode.md">ServiceReferenceGraphNode</a> sourceNode, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Compiler/ServiceReferenceGraphNode.md">ServiceReferenceGraphNode</a> destNode, string value)
 
 <div class="details">
 <p>Constructor.</p>

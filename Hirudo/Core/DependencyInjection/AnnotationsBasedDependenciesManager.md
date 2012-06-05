@@ -10,7 +10,7 @@
 #Class AnnotationsBasedDependenciesManager#
 
 <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/ContainerAware.md">ContainerAware</a>
-    * **AnnotationsBasedDependenciesManager**
+ &gt; **AnnotationsBasedDependenciesManager**
 
 
 
@@ -32,7 +32,7 @@ to determine dependencies and load services.</p></div>
 </dl>
 
 
-- - -
+<hr />
 
 <table class="inherit">
 <tr><th colspan="2">Fields inherited from Symfony\Component\DependencyInjection\ContainerAware</th></tr>

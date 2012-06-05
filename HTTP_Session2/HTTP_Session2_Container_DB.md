@@ -10,7 +10,7 @@
 #Class HTTP_Session2_Container_DB#
 
 <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/HTTP_Session2/HTTP_Session2_Container.md">HTTP_Session2_Container</a>
-    * **HTTP_Session2_Container_DB**
+ &gt; **HTTP_Session2_Container_DB**
 
 
 
@@ -48,7 +48,7 @@ PRIMARY KEY (`id`)
 </dl>
 
 
-- - -
+<hr />
 
 <table class="inherit">
 <tr><th colspan="2">Fields inherited from HTTP_Session2\HTTP_Session2_Container</th></tr>

@@ -2,7 +2,7 @@
 
 #Class Hierarchy for Package Smarty
 
-<div><a href='https://github.com/JeyDotC/Hirudo-docs/tree/master/smarty'>Back to package summary</a></div>
+<div><a href='https://github.com/JeyDotC/Hirudo-docs/tree/master/Smarty'>Back to package summary</a></div>
 
 <ul>
 <li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_Data.md">Smarty\Smarty_Internal_Data</a><ul>

@@ -28,7 +28,7 @@ to check the attribute type during the parsing process.</p></div>
 </dl>
 
 
-- - -
+<hr />
 
 
 

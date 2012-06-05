@@ -27,7 +27,7 @@ belongs to an application.</p></div>
 </dl>
 
 
-- - -
+<hr />
 
 <table id="summary_constructor">
 <tr><th colspan="2">Constructor Summary</th></tr>
@@ -74,7 +74,7 @@ format.</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#setlastunhandledexception">setLastUnhandledException</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/exceptions/HirudoException.md">HirudoException</a> lastUnhandledException)</p><p class="description">Sets the last Unhandled exception from a previous module execution.</p></td>
+<td class="description"><p class="name"><a href="#setlastunhandledexception">setLastUnhandledException</a>(<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Exceptions/HirudoException.md">HirudoException</a> lastUnhandledException)</p><p class="description">Sets the last Unhandled exception from a previous module execution.</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>boolean</span></td>
@@ -238,7 +238,7 @@ format.</p><dl>
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Context/ModuleCall.php#L138" target='_blank'>framework\hirudo\Hirudo\Core\Context\ModuleCall.php at line 138</a>
 
 <h3 id="setLastUnhandledException()">setLastUnhandledException</h3>
-<span class='k'></span> <span class='nx'>void</span> <span class='nf'>setLastUnhandledException</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/exceptions/HirudoException.md">HirudoException</a> lastUnhandledException)
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>setLastUnhandledException</span> (<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Exceptions/HirudoException.md">HirudoException</a> lastUnhandledException)
 
 <div class="details">
 <p>Sets the last Unhandled exception from a previous module execution.</p>

@@ -28,5 +28,5 @@ to check if that attribute is required during the parsing process.</p></div>
 </dl>
 
 
-- - -
+<hr />
 

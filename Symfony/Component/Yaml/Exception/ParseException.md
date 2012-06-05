@@ -9,8 +9,7 @@
 
 #Class ParseException#
 
-\RuntimeException
-* **ParseException**
+\RuntimeException &gt; **ParseException**
 
 
 <dl>
@@ -36,7 +35,7 @@
 </dl>
 
 
-- - -
+<hr />
 
 <table id="summary_constructor">
 <tr><th colspan="2">Constructor Summary</th></tr>

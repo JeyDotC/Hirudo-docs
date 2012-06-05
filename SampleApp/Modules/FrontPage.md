@@ -10,7 +10,7 @@
 #Class FrontPage#
 
 <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Module.md">Module</a>
-    * **FrontPage**
+ &gt; **FrontPage**
 
 
 
@@ -30,7 +30,7 @@
 </dl>
 
 
-- - -
+<hr />
 
 <table class="inherit">
 <tr><th colspan="2">Fields inherited from Hirudo\Core\Module</th></tr>
@@ -44,7 +44,7 @@
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#response">response</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/sampleapp/models/entities/ComplexObject.md">ComplexObject</a> myComplexObject)</p><p class="description"></p></td>
+<td class="description"><p class="name"><a href="#response">response</a>(<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/SampleApp/Models/Entities/ComplexObject.md">ComplexObject</a> myComplexObject)</p><p class="description"></p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
@@ -81,7 +81,7 @@
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/src/SampleApp/Modules/FrontPage/FrontPage.php#L60" target='_blank'>src\SampleApp\Modules\FrontPage\FrontPage.php at line 60</a>
 
 <h3 id="response()">response</h3>
-<span class='k'></span> <span class='nx'>void</span> <span class='nf'>response</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/sampleapp/models/entities/ComplexObject.md">ComplexObject</a> myComplexObject)
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>response</span> (<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/SampleApp/Models/Entities/ComplexObject.md">ComplexObject</a> myComplexObject)
 
 <div class="details">
 <p></p><dl>

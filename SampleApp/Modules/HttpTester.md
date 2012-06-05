@@ -10,7 +10,7 @@
 #Class HttpTester#
 
 <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Module.md">Module</a>
-    * **HttpTester**
+ &gt; **HttpTester**
 
 
 
@@ -30,7 +30,7 @@
 </dl>
 
 
-- - -
+<hr />
 
 <table class="inherit">
 <tr><th colspan="2">Fields inherited from Hirudo\Core\Module</th></tr>

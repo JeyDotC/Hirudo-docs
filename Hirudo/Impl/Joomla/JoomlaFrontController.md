@@ -9,8 +9,7 @@
 
 #Class JoomlaFrontController#
 
-\JController
-* **JoomlaFrontController**
+\JController &gt; **JoomlaFrontController**
 
 
 
@@ -30,13 +29,13 @@
 </dl>
 
 
-- - -
+<hr />
 
 <table id="summary_constructor">
 <tr><th colspan="2">Constructor Summary</th></tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#__construct">__construct</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/ModulesManager.md">ModulesManager</a> manager)</p><p class="description">Constructs this controller as a joomla controller.</p></td>
+<td class="description"><p class="name"><a href="#__construct">__construct</a>(<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/ModulesManager.md">ModulesManager</a> manager)</p><p class="description">Constructs this controller as a joomla controller.</p></td>
 </tr>
 </table>
 
@@ -61,7 +60,7 @@
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Joomla/JoomlaFrontController.php#L63" target='_blank'>framework\hirudo\Hirudo\Impl\Joomla\JoomlaFrontController.php at line 63</a>
 
 <h3 id="__construct">__construct</h3>
-<span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/ModulesManager.md">ModulesManager</a> manager)
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/ModulesManager.md">ModulesManager</a> manager)
 
 <div class="details">
 <p>Constructs this controller as a joomla controller.</p>

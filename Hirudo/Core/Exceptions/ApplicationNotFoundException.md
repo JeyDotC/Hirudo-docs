@@ -9,9 +9,8 @@
 
 #Class ApplicationNotFoundException#
 
-\Exception
-* <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Exceptions/HirudoException.md">HirudoException</a>
-        * **ApplicationNotFoundException**
+\Exception &gt; <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Exceptions/HirudoException.md">HirudoException</a>
+ &gt; **ApplicationNotFoundException**
 
 
 
@@ -31,7 +30,7 @@
 </dl>
 
 
-- - -
+<hr />
 
 <table id="summary_constructor">
 <tr><th colspan="2">Constructor Summary</th></tr>

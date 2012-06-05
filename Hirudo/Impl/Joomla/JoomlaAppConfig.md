@@ -10,7 +10,7 @@
 #Class JoomlaAppConfig#
 
 <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/AppConfig.md">AppConfig</a>
-    * **JoomlaAppConfig**
+ &gt; **JoomlaAppConfig**
 
 
 
@@ -32,7 +32,7 @@
 </dl>
 
 
-- - -
+<hr />
 
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>

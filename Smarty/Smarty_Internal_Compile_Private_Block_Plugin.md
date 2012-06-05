@@ -10,7 +10,7 @@
 #Class Smarty_Internal_Compile_Private_Block_Plugin#
 
 <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_CompileBase.md">Smarty_Internal_CompileBase</a>
-    * **Smarty_Internal_Compile_Private_Block_Plugin**
+ &gt; **Smarty_Internal_Compile_Private_Block_Plugin**
 
 
 
@@ -30,7 +30,7 @@
 </dl>
 
 
-- - -
+<hr />
 
 
 

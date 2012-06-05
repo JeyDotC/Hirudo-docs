@@ -28,7 +28,7 @@ to check the types of all declared attributes during the parsing process.</p></d
 </dl>
 
 
-- - -
+<hr />
 
 
 

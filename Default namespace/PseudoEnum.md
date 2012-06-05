@@ -29,7 +29,7 @@ const AND_OTHER_ENUM_VALUE = 2;
 
 
 
-- - -
+<hr />
 
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>

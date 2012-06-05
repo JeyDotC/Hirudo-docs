@@ -2,7 +2,7 @@
 
 #Class Hierarchy for Package SampleApp\Models\Entities
 
-<div><a href='https://github.com/JeyDotC/Hirudo-docs/tree/master/sampleapp/models/entities'>Back to package summary</a></div>
+<div><a href='https://github.com/JeyDotC/Hirudo-docs/tree/master/SampleApp\Models\Entities'>Back to package summary</a></div>
 
 <ul>
 <li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/SampleApp/Models/Entities/ComplexObject.md">SampleApp\Models\Entities\ComplexObject</a></li>

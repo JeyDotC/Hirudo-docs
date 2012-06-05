@@ -9,8 +9,7 @@
 
 #Class InvalidArgumentException#
 
-BaseInvalidArgumentException
-* **InvalidArgumentException**
+BaseInvalidArgumentException &gt; **InvalidArgumentException**
 
 
 <dl>
@@ -40,5 +39,5 @@ BaseInvalidArgumentException
 </dl>
 
 
-- - -
+<hr />
 

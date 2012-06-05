@@ -10,7 +10,7 @@
 #Class DbTestComponent#
 
 <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/SimpleSqlComponent.md">SimpleSqlComponent</a>
-    * **DbTestComponent**
+ &gt; **DbTestComponent**
 
 
 
@@ -30,7 +30,7 @@
 </dl>
 
 
-- - -
+<hr />
 
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>

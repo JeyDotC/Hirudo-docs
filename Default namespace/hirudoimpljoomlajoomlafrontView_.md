@@ -9,8 +9,7 @@
 
 #Class hirudoimpljoomlajoomlafrontView_#
 
-JView
-* **hirudoimpljoomlajoomlafrontView_**
+JView &gt; **hirudoimpljoomlajoomlafrontView_**
 
 
 
@@ -26,7 +25,7 @@ JView
 
 
 
-- - -
+<hr />
 
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>

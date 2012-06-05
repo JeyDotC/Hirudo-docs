@@ -10,7 +10,7 @@
 #Class SAPrincipal#
 
 <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/Principal.md">Principal</a>
-    * **SAPrincipal**
+ &gt; **SAPrincipal**
 
 
 
@@ -30,7 +30,7 @@
 </dl>
 
 
-- - -
+<hr />
 
 <table id="summary_constructor">
 <tr><th colspan="2">Constructor Summary</th></tr>

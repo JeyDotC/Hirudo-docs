@@ -9,8 +9,7 @@
 
 #Class HTTP_Session2_Exception#
 
-Exception
-* **HTTP_Session2_Exception**
+Exception &gt; **HTTP_Session2_Exception**
 
 
 
@@ -38,5 +37,5 @@ Exception
 </dl>
 
 
-- - -
+<hr />
 

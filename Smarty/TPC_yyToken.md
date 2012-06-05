@@ -29,7 +29,7 @@ It is generated from the internal.configfileparser.y file</p></div>
 </dl>
 
 
-- - -
+<hr />
 
 
 

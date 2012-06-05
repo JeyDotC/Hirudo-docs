@@ -28,7 +28,7 @@ annotations during the parsing process.</p></div>
 </dl>
 
 
-- - -
+<hr />
 
 
 

@@ -2,7 +2,7 @@
 
 #Class Hierarchy for Package HTTP_Session2
 
-<div><a href='https://github.com/JeyDotC/Hirudo-docs/tree/master/http_session2'>Back to package summary</a></div>
+<div><a href='https://github.com/JeyDotC/Hirudo-docs/tree/master/HTTP_Session2'>Back to package summary</a></div>
 
 <ul>
 <li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/HTTP_Session2/HTTP_Session2.md">HTTP_Session2\HTTP_Session2</a></li>

@@ -2,7 +2,7 @@
 
 #Class Hierarchy for Package Doctrine\Common\Annotations
 
-<div><a href='https://github.com/JeyDotC/Hirudo-docs/tree/master/doctrine/common/annotations'>Back to package summary</a></div>
+<div><a href='https://github.com/JeyDotC/Hirudo-docs/tree/master/Doctrine\Common\Annotations'>Back to package summary</a></div>
 
 <ul>
 <li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Doctrine/Common/Annotations/Annotation.md">Doctrine\Common\Annotations\Annotation</a></li>

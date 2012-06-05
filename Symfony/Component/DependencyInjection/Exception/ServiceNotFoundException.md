@@ -9,9 +9,8 @@
 
 #Class ServiceNotFoundException#
 
-BaseInvalidArgumentException
-* <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Exception/InvalidArgumentException.md">InvalidArgumentException</a>
-        * **ServiceNotFoundException**
+BaseInvalidArgumentException &gt; <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Exception/InvalidArgumentException.md">InvalidArgumentException</a>
+ &gt; **ServiceNotFoundException**
 
 
 
@@ -31,7 +30,7 @@ BaseInvalidArgumentException
 </dl>
 
 
-- - -
+<hr />
 
 <table id="summary_constructor">
 <tr><th colspan="2">Constructor Summary</th></tr>

@@ -9,8 +9,7 @@
 
 #Class RuntimeException#
 
-\RuntimeException
-* **RuntimeException**
+\RuntimeException &gt; **RuntimeException**
 
 
 <dl>
@@ -40,5 +39,5 @@
 </dl>
 
 
-- - -
+<hr />
 

@@ -10,7 +10,7 @@
 #Class EntityDeserializerJSON#
 
 <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Serialization/EntityDeserializerBase.md">EntityDeserializerBase</a>
-    * **EntityDeserializerJSON**
+ &gt; **EntityDeserializerJSON**
 
 
 
@@ -31,7 +31,7 @@ into an entity of a given class.</p></div>
 </dl>
 
 
-- - -
+<hr />
 
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>

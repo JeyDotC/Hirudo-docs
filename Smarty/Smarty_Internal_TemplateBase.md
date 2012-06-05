@@ -10,7 +10,7 @@
 #Class Smarty_Internal_TemplateBase#
 
 <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_Data.md">Smarty_Internal_Data</a>
-    * **Smarty_Internal_TemplateBase**
+ &gt; **Smarty_Internal_TemplateBase**
 
 
 <dl>
@@ -35,7 +35,7 @@
 </dl>
 
 
-- - -
+<hr />
 
 <table class="inherit">
 <tr><th colspan="2">Fields inherited from Smarty\Smarty_Internal_Data</th></tr>
@@ -77,7 +77,7 @@
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>Smarty_Internal_Templatebase</span></td>
-<td class="description"><p class="name"><a href="#registercacheresource">registerCacheResource</a>(string type, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_CacheResource.md">Smarty_CacheResource</a> callback)</p><p class="description">Registers a cache resource to cache a template's output</p></td>
+<td class="description"><p class="name"><a href="#registercacheresource">registerCacheResource</a>(string type, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_CacheResource.md">Smarty_CacheResource</a> callback)</p><p class="description">Registers a cache resource to cache a template's output</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>Smarty_Internal_Templatebase</span></td>
@@ -300,7 +300,7 @@
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_templatebase.php#L487" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_templatebase.php at line 487</a>
 
 <h3 id="registerCacheResource()">registerCacheResource</h3>
-<span class='k'></span> <span class='nx'>Smarty_Internal_Templatebase</span> <span class='nf'>registerCacheResource</span> (string type, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_CacheResource.md">Smarty_CacheResource</a> callback)
+<span class='k'></span> <span class='nx'>Smarty_Internal_Templatebase</span> <span class='nf'>registerCacheResource</span> (string type, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_CacheResource.md">Smarty_CacheResource</a> callback)
 
 <div class="details">
 <p>Registers a cache resource to cache a template's output</p><dl>

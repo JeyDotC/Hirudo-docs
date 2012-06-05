@@ -10,7 +10,7 @@
 #Class SARouting#
 
 <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/Routing.md">Routing</a>
-    * **SARouting**
+ &gt; **SARouting**
 
 
 
@@ -31,7 +31,7 @@
 </dl>
 
 
-- - -
+<hr />
 
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>

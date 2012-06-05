@@ -10,8 +10,8 @@
 #Class Smarty_Internal_Compile_Append#
 
 <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_CompileBase.md">Smarty_Internal_CompileBase</a>
-    * <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_Compile_Assign.md">Smarty_Internal_Compile_Assign</a>
-        * **Smarty_Internal_Compile_Append**
+ &gt; <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_Compile_Assign.md">Smarty_Internal_Compile_Assign</a>
+ &gt; **Smarty_Internal_Compile_Append**
 
 
 
@@ -31,7 +31,7 @@
 </dl>
 
 
-- - -
+<hr />
 
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>

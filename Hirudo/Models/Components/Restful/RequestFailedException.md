@@ -9,8 +9,7 @@
 
 #Class RequestFailedException#
 
-Exception
-* **RequestFailedException**
+Exception &gt; **RequestFailedException**
 
 
 
@@ -24,7 +23,7 @@ Exception
 
 
 
-- - -
+<hr />
 
 <table id="summary_constructor">
 <tr><th colspan="2">Constructor Summary</th></tr>

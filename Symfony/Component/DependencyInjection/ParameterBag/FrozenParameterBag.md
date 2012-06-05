@@ -10,7 +10,7 @@
 #Class FrozenParameterBag#
 
 <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/ParameterBag/ParameterBag.md">ParameterBag</a>
-    * **FrozenParameterBag**
+ &gt; **FrozenParameterBag**
 
 
 
@@ -31,7 +31,7 @@
 </dl>
 
 
-- - -
+<hr />
 
 <table class="inherit">
 <tr><th colspan="2">Fields inherited from Symfony\Component\DependencyInjection\ParameterBag\ParameterBag</th></tr>

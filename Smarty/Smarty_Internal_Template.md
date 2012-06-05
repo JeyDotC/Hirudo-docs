@@ -10,8 +10,8 @@
 #Class Smarty_Internal_Template#
 
 <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_Data.md">Smarty_Internal_Data</a>
-    * <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_TemplateBase.md">Smarty_Internal_TemplateBase</a>
-        * **Smarty_Internal_Template**
+ &gt; <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_TemplateBase.md">Smarty_Internal_TemplateBase</a>
+ &gt; **Smarty_Internal_Template**
 
 
 
@@ -35,7 +35,7 @@
 </dl>
 
 
-- - -
+<hr />
 
 
 
@@ -122,7 +122,7 @@
 <tr><th colspan="2">Constructor Summary</th></tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#__construct">__construct</a>(string template_resource, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty.md">Smarty</a> smarty, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> _parent, mixed _cache_id, mixed _compile_id, bool _caching, int _cache_lifetime)</p><p class="description">Create template data objectSome of the global Smarty settings copied to template scope
+<td class="description"><p class="name"><a href="#__construct">__construct</a>(string template_resource, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty.md">Smarty</a> smarty, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> _parent, mixed _cache_id, mixed _compile_id, bool _caching, int _cache_lifetime)</p><p class="description">Create template data objectSome of the global Smarty settings copied to template scope
 It load the required template resources and cacher plugins</p></td>
 </tr>
 </table>
@@ -193,7 +193,7 @@ It load the required template resources and cacher plugins</p></td>
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_template.php#L114" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_template.php at line 114</a>
 
 <h3 id="__construct">__construct</h3>
-<span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (string template_resource, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty.md">Smarty</a> smarty, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> _parent, mixed _cache_id, mixed _compile_id, bool _caching, int _cache_lifetime)
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (string template_resource, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty.md">Smarty</a> smarty, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> _parent, mixed _cache_id, mixed _compile_id, bool _caching, int _cache_lifetime)
 
 <div class="details">
 <p>Create template data object</p><p>Some of the global Smarty settings copied to template scope

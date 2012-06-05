@@ -10,7 +10,7 @@
 #Class _smarty_template_buffer#
 
 <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/_smarty_parsetree.md">_smarty_parsetree</a>
-    * **_smarty_template_buffer**
+ &gt; **_smarty_template_buffer**
 
 
 
@@ -31,7 +31,7 @@
 </dl>
 
 
-- - -
+<hr />
 
 
 
@@ -60,7 +60,7 @@
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#append_subtree">append_subtree</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/_smarty_parsetree.md">_smarty_parsetree</a> subtree)</p><p class="description">Append buffer to subtree</p></td>
+<td class="description"><p class="name"><a href="#append_subtree">append_subtree</a>(<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/_smarty_parsetree.md">_smarty_parsetree</a> subtree)</p><p class="description">Append buffer to subtree</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
@@ -94,7 +94,7 @@
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_parsetree.php#L268" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_parsetree.php at line 268</a>
 
 <h3 id="append_subtree()">append_subtree</h3>
-<span class='k'></span> <span class='nx'>void</span> <span class='nf'>append_subtree</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/_smarty_parsetree.md">_smarty_parsetree</a> subtree)
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>append_subtree</span> (<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/_smarty_parsetree.md">_smarty_parsetree</a> subtree)
 
 <div class="details">
 <p>Append buffer to subtree</p>

@@ -10,7 +10,7 @@
 #Class YamlDumper#
 
 <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Dumper/Dumper.md">Dumper</a>
-    * **YamlDumper**
+ &gt; **YamlDumper**
 
 
 
@@ -31,7 +31,7 @@
 </dl>
 
 
-- - -
+<hr />
 
 <table class="inherit">
 <tr><th colspan="2">Fields inherited from Symfony\Component\DependencyInjection\Dumper\Dumper</th></tr>

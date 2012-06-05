@@ -30,7 +30,7 @@
 </dl>
 
 
-- - -
+<hr />
 
 
 
@@ -82,7 +82,7 @@
 <tr><th colspan="2">Constructor Summary</th></tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#__construct">__construct</a>(string config_resource, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty.md">Smarty</a> smarty, object data)</p><p class="description">Constructor of config file object</p></td>
+<td class="description"><p class="name"><a href="#__construct">__construct</a>(string config_resource, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty.md">Smarty</a> smarty, object data)</p><p class="description">Constructor of config file object</p></td>
 </tr>
 </table>
 
@@ -123,7 +123,7 @@
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/sysplugins/smarty_internal_config.php#L78" target='_blank'>framework\libs\smarty\sysplugins\smarty_internal_config.php at line 78</a>
 
 <h3 id="__construct">__construct</h3>
-<span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (string config_resource, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty.md">Smarty</a> smarty, object data)
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (string config_resource, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty.md">Smarty</a> smarty, object data)
 
 <div class="details">
 <p>Constructor of config file object</p><dl>

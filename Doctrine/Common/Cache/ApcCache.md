@@ -10,7 +10,7 @@
 #Class ApcCache#
 
 <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Doctrine/Common/Cache/CacheProvider.md">CacheProvider</a>
-    * **ApcCache**
+ &gt; **ApcCache**
 
 
 
@@ -40,7 +40,7 @@
 </dl>
 
 
-- - -
+<hr />
 
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>

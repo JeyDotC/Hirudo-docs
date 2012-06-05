@@ -32,7 +32,7 @@ the task's requirements are satisfied.</p></p><p><p>The listener only needs to i
 </dl>
 
 
-- - -
+<hr />
 
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
@@ -42,12 +42,12 @@ the task's requirements are satisfied.</p></p><p><p>The listener only needs to i
 </tr>
 <tr>
 <td><span class='k'>protected abstract </span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#beforetask">beforeTask</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/events/BeforeTaskEvent.md">BeforeTaskEvent</a> e)</p><p class="description">This is the method that needs to be implemented by the event listener in
+<td class="description"><p class="name"><a href="#beforetask">beforeTask</a>(<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Events/BeforeTaskEvent.md">BeforeTaskEvent</a> e)</p><p class="description">This is the method that needs to be implemented by the event listener in
 order to work. </p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#onbeforetask">onBeforeTask</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/events/BeforeTaskEvent.md">BeforeTaskEvent</a> e)</p><p class="description">A wraper function for the beforeTask method. </p></td>
+<td class="description"><p class="name"><a href="#onbeforetask">onBeforeTask</a>(<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Events/BeforeTaskEvent.md">BeforeTaskEvent</a> e)</p><p class="description">A wraper function for the beforeTask method. </p></td>
 </tr>
 </table>
 
@@ -72,7 +72,7 @@ order to work. </p></td>
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Events/BeforeTaskEventListener.php#L60" target='_blank'>framework\hirudo\Hirudo\Core\Events\BeforeTaskEventListener.php at line 60</a>
 
 <h3 id="beforeTask()">beforeTask</h3>
-<span class='k'>protected abstract </span> <span class='nx'>void</span> <span class='nf'>beforeTask</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/events/BeforeTaskEvent.md">BeforeTaskEvent</a> e)
+<span class='k'>protected abstract </span> <span class='nx'>void</span> <span class='nf'>beforeTask</span> (<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Events/BeforeTaskEvent.md">BeforeTaskEvent</a> e)
 
 <div class="details">
 <p>This is the method that needs to be implemented by the event listener in
@@ -93,7 +93,7 @@ current call, thus restarting the task call process for the new ModuleCall.</p><
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Events/BeforeTaskEventListener.php#L70" target='_blank'>framework\hirudo\Hirudo\Core\Events\BeforeTaskEventListener.php at line 70</a>
 
 <h3 id="onBeforeTask()">onBeforeTask</h3>
-<span class='k'></span> <span class='nx'>void</span> <span class='nf'>onBeforeTask</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/events/BeforeTaskEvent.md">BeforeTaskEvent</a> e)
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>onBeforeTask</span> (<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Events/BeforeTaskEvent.md">BeforeTaskEvent</a> e)
 
 <div class="details">
 <p>A wraper function for the beforeTask method. This method checks the annotations

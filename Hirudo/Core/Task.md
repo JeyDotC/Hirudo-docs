@@ -28,13 +28,13 @@ resolve them.</p></div>
 </dl>
 
 
-- - -
+<hr />
 
 <table id="summary_constructor">
 <tr><th colspan="2">Constructor Summary</th></tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#__construct">__construct</a>(\ReflectionMethod reflectionMethod, <a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/Module.md">Module</a> owner)</p><p class="description">Constructs a task.</p></td>
+<td class="description"><p class="name"><a href="#__construct">__construct</a>(\ReflectionMethod reflectionMethod, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Module.md">Module</a> owner)</p><p class="description">Constructs a task.</p></td>
 </tr>
 </table>
 
@@ -87,7 +87,7 @@ resolve them.</p></div>
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Task.php#L65" target='_blank'>framework\hirudo\Hirudo\Core\Task.php at line 65</a>
 
 <h3 id="__construct">__construct</h3>
-<span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (\ReflectionMethod reflectionMethod, <a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/Module.md">Module</a> owner)
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (\ReflectionMethod reflectionMethod, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Module.md">Module</a> owner)
 
 <div class="details">
 <p>Constructs a task.</p><dl>

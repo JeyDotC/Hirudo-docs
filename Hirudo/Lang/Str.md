@@ -10,7 +10,7 @@
 #Class Str#
 
 <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Lang/String.md">String</a>
-    * **Str**
+ &gt; **Str**
 
 
 
@@ -30,7 +30,7 @@
 </dl>
 
 
-- - -
+<hr />
 
 <table class="inherit">
 <tr><th colspan="2">Methods inherited from Hirudo\Lang\String</th></tr>

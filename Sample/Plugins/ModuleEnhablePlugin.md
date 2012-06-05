@@ -10,7 +10,7 @@
 #Class ModuleEnhablePlugin#
 
 <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Events/BeforeTaskEventListener.md">BeforeTaskEventListener</a>
-    * **ModuleEnhablePlugin**
+ &gt; **ModuleEnhablePlugin**
 
 
 
@@ -30,13 +30,13 @@
 </dl>
 
 
-- - -
+<hr />
 
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td><span class='k'>protected </span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#beforetask">beforeTask</a>(<a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/events/BeforeTaskEvent.md">BeforeTaskEvent</a> e)</p><p class="description">This is the method that needs to be implemented by the event listener in
+<td class="description"><p class="name"><a href="#beforetask">beforeTask</a>(<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Events/BeforeTaskEvent.md">BeforeTaskEvent</a> e)</p><p class="description">This is the method that needs to be implemented by the event listener in
 order to work. </p></td>
 </tr>
 </table>
@@ -50,7 +50,7 @@ order to work. </p></td>
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/ext/libs/SampleExtension/Sample/Plugins/ModuleEnhablePlugin.php#L17" target='_blank'>ext\libs\SampleExtension\Sample\Plugins\ModuleEnhablePlugin.php at line 17</a>
 
 <h3 id="beforeTask()">beforeTask</h3>
-<span class='k'>protected </span> <span class='nx'>void</span> <span class='nf'>beforeTask</span> (<a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo/core/events/BeforeTaskEvent.md">BeforeTaskEvent</a> e)
+<span class='k'>protected </span> <span class='nx'>void</span> <span class='nf'>beforeTask</span> (<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Events/BeforeTaskEvent.md">BeforeTaskEvent</a> e)
 
 <div class="details">
 <p>This is the method that needs to be implemented by the event listener in

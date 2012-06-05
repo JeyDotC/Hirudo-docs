@@ -32,7 +32,7 @@ the current executing script from the server regardless of server.</p></div>
 </dl>
 
 
-- - -
+<hr />
 
 <table id="summary_constructor">
 <tr><th colspan="2">Constructor Summary</th></tr>

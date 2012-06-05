@@ -10,7 +10,7 @@
 #Class Smarty_Internal_Compile_Setfilterclose#
 
 <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_CompileBase.md">Smarty_Internal_CompileBase</a>
-    * **Smarty_Internal_Compile_Setfilterclose**
+ &gt; **Smarty_Internal_Compile_Setfilterclose**
 
 
 
@@ -30,7 +30,7 @@
 </dl>
 
 
-- - -
+<hr />
 
 <table class="inherit">
 <tr><th colspan="2">Fields inherited from Smarty\Smarty_Internal_CompileBase</th></tr>

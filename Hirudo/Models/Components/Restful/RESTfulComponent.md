@@ -32,7 +32,7 @@ the construction of a web service consumer.</p></div>
 </dl>
 
 
-- - -
+<hr />
 
 
 

@@ -10,7 +10,7 @@
 #Class DebugUniversalClassLoader#
 
 <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/ClassLoader/UniversalClassLoader.md">UniversalClassLoader</a>
-    * **DebugUniversalClassLoader**
+ &gt; **DebugUniversalClassLoader**
 
 
 
@@ -31,7 +31,7 @@
 </dl>
 
 
-- - -
+<hr />
 
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>

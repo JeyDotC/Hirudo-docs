@@ -10,8 +10,8 @@
 #Class Smarty#
 
 <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_Data.md">Smarty_Internal_Data</a>
-    * <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_TemplateBase.md">Smarty_Internal_TemplateBase</a>
-        * **Smarty**
+ &gt; <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_TemplateBase.md">Smarty_Internal_TemplateBase</a>
+ &gt; **Smarty**
 
 
 <dl>
@@ -36,7 +36,7 @@
 </dl>
 
 
-- - -
+<hr />
 
 
 
@@ -281,7 +281,7 @@ plugin filename format: plugintype.pluginname.php</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>array</span></td>
-<td class="description"><p class="name"><a href="#gettags">getTags</a>(object templae, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> template)</p><p class="description">Return array of tag/attributes of all tags used by an template</p></td>
+<td class="description"><p class="name"><a href="#gettags">getTags</a>(object templae, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> template)</p><p class="description">Return array of tag/attributes of all tags used by an template</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>boolean</span></td>
@@ -917,7 +917,7 @@ plugin filename format: plugintype.pluginname.php</p><dl>
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/libs/smarty/Smarty.class.php#L973" target='_blank'>framework\libs\smarty\Smarty.class.php at line 973</a>
 
 <h3 id="getTags()">getTags</h3>
-<span class='k'></span> <span class='nx'>array</span> <span class='nf'>getTags</span> (object templae, <a href="https://github.com/JeyDotC/Hirudo/blob/master/smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> template)
+<span class='k'></span> <span class='nx'>array</span> <span class='nf'>getTags</span> (object templae, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> template)
 
 <div class="details">
 <p>Return array of tag/attributes of all tags used by an template</p><dl>

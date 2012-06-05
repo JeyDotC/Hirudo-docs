@@ -2,7 +2,7 @@
 
 #Class Hierarchy for Package Symfony\Component\DependencyInjection\Loader
 
-<div><a href='https://github.com/JeyDotC/Hirudo-docs/tree/master/symfony/component/dependencyinjection/loader'>Back to package summary</a></div>
+<div><a href='https://github.com/JeyDotC/Hirudo-docs/tree/master/Symfony\Component\DependencyInjection\Loader'>Back to package summary</a></div>
 
 <ul>
 <li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Lang/Loader.md">Hirudo\Lang\Loader</a><ul>

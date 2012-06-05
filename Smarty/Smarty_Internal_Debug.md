@@ -10,7 +10,7 @@
 #Class Smarty_Internal_Debug#
 
 <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_Data.md">Smarty_Internal_Data</a>
-    * **Smarty_Internal_Debug**
+ &gt; **Smarty_Internal_Debug**
 
 
 
@@ -30,7 +30,7 @@
 </dl>
 
 
-- - -
+<hr />
 
 
 

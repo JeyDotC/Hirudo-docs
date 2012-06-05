@@ -9,8 +9,7 @@
 
 #Class EmptyResponseException#
 
-Exception
-* **EmptyResponseException**
+Exception &gt; **EmptyResponseException**
 
 
 
@@ -33,7 +32,7 @@ along with Hirudo.  If not, see <http://www.gnu.org/licenses/>.</p></div>
 
 
 
-- - -
+<hr />
 
 <table id="summary_constructor">
 <tr><th colspan="2">Constructor Summary</th></tr>

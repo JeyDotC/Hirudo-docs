@@ -2,7 +2,7 @@
 
 #Class Hierarchy for Package SampleApp\Modules
 
-<div><a href='https://github.com/JeyDotC/Hirudo-docs/tree/master/sampleapp/modules'>Back to package summary</a></div>
+<div><a href='https://github.com/JeyDotC/Hirudo-docs/tree/master/SampleApp\Modules'>Back to package summary</a></div>
 
 <ul>
 <li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Module.md">Hirudo\Core\Module</a><ul>
