@@ -5,7 +5,7 @@
 **Hirudo\Models\Components\ComponentInterface**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Models/Components/ComponentInterface.php#L28" target='_blank'>framework\hirudo\Hirudo\Models\Components\ComponentInterface.php at line 28</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Models/Components/ComponentInterface.php#L29" target='_blank'>framework\hirudo\Hirudo\Models\Components\ComponentInterface.php at line 29</a>
 
 #Interface ComponentInterface#
 
@@ -23,6 +23,8 @@
 <dl>
 <dt>Author:</dt>
 <dd>JeyDotC</dd>
+<dt>Todo:</dt>
+<dd>Give functionality to this</dd>
 </dl>
 
 

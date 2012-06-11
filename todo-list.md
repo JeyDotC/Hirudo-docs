@@ -7,11 +7,11 @@
 ##Contents##
 
 <ul>
-<li><a href="#todo_class">Todo Classes</a></li><li><a href="#todo_method">Todo Methods</a></li><li><a href="#todo_function">Todo Functions</a></li></ul>
+<li><a href="#todo_class">Todo Classes</a></li><li><a href="#todo_method">Todo Methods</a></li></ul>
 <table id="todo_class" class="detail">
 <tr><th colspan="2" class="title">Todo Classes</th></tr>
-<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Doctrine/Common/Annotations/DocLexer.md">Doctrine\Common\Annotations\DocLexer</a></td><td class="description">Rename: AbstractLexer</td></tr>
-<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Doctrine/Common/Lexer.md">Doctrine\Common\Lexer</a></td><td class="description">Rename: AbstractLexer</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/DependencyInjection/AnnotationsBasedDependenciesManager.md">Hirudo\Core\DependencyInjection\AnnotationsBasedDependenciesManager</a></td><td class="description">The annotations reader can't autoload annotations for some reason.</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/ComponentInterface.md">Hirudo\Models\Components\ComponentInterface</a></td><td class="description">Give functionality to this</td></tr>
 </table>
 
 <table id="todo_method" class="detail">
@@ -39,14 +39,6 @@
 <tr>
 <td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/HTTP_Session2/HTTP_Session2_Container_MDB2.md#gc">HTTP_Session2\HTTP_Session2_Container_MDB2\gc</a></td>
 <td class="description">Fix database-specific garbage collection.</td>
-</tr>
-</table>
-
-<table id="todo_function" class="detail">
-<tr><th colspan="2" class="title">Todo Functions</th></tr>
-<tr>
-<td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/package-functions.md#smarty_outputfilter_trimwhitespace">Smarty\smarty_outputfilter_trimwhitespace</a></td>
-<td class="description">substr_replace() is not overloaded by mbstring.func_overload - so this function might fail!</td>
 </tr>
 </table>
 

@@ -12,11 +12,6 @@
 **Loader**
 
 
-<dl>
-<dt>All Known Subclasses:</dt>
-<dd><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/Loader/ClosureLoader.md">Symfony\Component\DependencyInjection\Loader\ClosureLoader</a> </dd>
-</dl>
-
 
 
 - - -
@@ -33,7 +28,7 @@ consist on:</p></p>
 
 <dl>
 <dt>See Also:</dt>
-<dd><a href="../../../../hirudo/lang/loader.html#using()">Loader::using()</a></dd>
+<dd><a href="../../hirudo/lang/loader.html#using()">Loader::using()</a></dd>
 </dl>
 
 

@@ -12,11 +12,6 @@
 **BeforeTaskEventListener**
 
 
-<dl>
-<dt>All Known Subclasses:</dt>
-<dd><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Sample/Plugins/ModuleEnhablePlugin.md">Sample\Plugins\ModuleEnhablePlugin</a> </dd>
-</dl>
-
 
 
 - - -
@@ -82,7 +77,7 @@ current call, thus restarting the task call process for the new ModuleCall.</p><
 <dt>Parameters:</dt>
 <dd>e - The event with the information about the current call.</dd>
 <dt>See Also:</dt>
-<dd><a href="../../hirudo/core/events/beforetaskevent.html">BeforeTaskEvent</a></dd>
+<dd><a href="../../../hirudo/core/events/beforetaskevent.html">BeforeTaskEvent</a></dd>
 </dl>
 
 </div>

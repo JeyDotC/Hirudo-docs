@@ -55,7 +55,8 @@
 </tr>
 </table>
 
-<h2 id="detail_method">Constructor Detail</h2>
+##Constructor Detail##
+
 
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Joomla/JoomlaFrontController.php#L63" target='_blank'>framework\hirudo\Hirudo\Impl\Joomla\JoomlaFrontController.php at line 63</a>
 

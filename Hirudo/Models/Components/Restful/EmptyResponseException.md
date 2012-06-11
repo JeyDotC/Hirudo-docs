@@ -42,7 +42,8 @@ along with Hirudo.  If not, see <http://www.gnu.org/licenses/>.</p></div>
 </tr>
 </table>
 
-<h2 id="detail_method">Constructor Detail</h2>
+##Constructor Detail##
+
 
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Models/Components/Restful/RESTfulComponent.php#L29" target='_blank'>framework\hirudo\Hirudo\Models\Components\Restful\RESTfulComponent.php at line 29</a>
 

@@ -129,7 +129,8 @@ The options are:
 
 - - -
 
-<h2 id="detail_method">Constructor Detail</h2>
+##Constructor Detail##
+
 
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/Memcache.php#L61" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Memcache.php at line 61</a>
 

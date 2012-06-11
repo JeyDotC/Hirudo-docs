@@ -136,7 +136,8 @@ the construction of a web service consumer.</p></div>
 
 - - -
 
-<h2 id="detail_method">Constructor Detail</h2>
+##Constructor Detail##
+
 
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Models/Components/Restful/RESTfulComponent.php#L58" target='_blank'>framework\hirudo\Hirudo\Models\Components\Restful\RESTfulComponent.php at line 58</a>
 

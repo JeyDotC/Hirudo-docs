@@ -61,7 +61,8 @@
 </tr>
 </table>
 
-<h2 id="detail_method">Constructor Detail</h2>
+##Constructor Detail##
+
 
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Common/Templating/SmartyTemplating.php#L46" target='_blank'>framework\hirudo\Hirudo\Impl\Common\Templating\SmartyTemplating.php at line 46</a>
 

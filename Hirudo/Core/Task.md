@@ -82,7 +82,8 @@ resolve them.</p></div>
 </tr>
 </table>
 
-<h2 id="detail_method">Constructor Detail</h2>
+##Constructor Detail##
+
 
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Task.php#L65" target='_blank'>framework\hirudo\Hirudo\Core\Task.php at line 65</a>
 

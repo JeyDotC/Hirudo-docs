@@ -8,20 +8,20 @@
 <tr><th colspan="2" class="title">Function Summary</th></tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-functions.md#smarty_function_bind">smarty_function_bind</a>(array params, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> template)</p><p class="description">Binds a field to an entity property, Generally a parameter
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-functions.md#smarty_function_bind">smarty_function_bind</a>(array params, Smarty_Internal_Template template)</p><p class="description">Binds a field to an entity property, Generally a parameter
 of a task. </p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-functions.md#smarty_function_css">smarty_function_css</a>(array params, type template)</p><p class="description">Generates a script tag. </p></td>
-</tr>
-<tr>
-<td><span class='k'></span> <span class='nx'><type></span></td>
-<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-functions.md#smarty_function_foo">smarty_function_foo</a>(array params, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> template)</p><p class="description"></p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-functions.md#smarty_function_css">smarty_function_css</a>(array params, type template)</p><p class="description">Generates a css link tag. </p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-functions.md#smarty_function_url">smarty_function_url</a>(array params, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> template)</p><p class="description">Returns a URL based on the string given in the call attribute.
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-functions.md#smarty_function_js">smarty_function_js</a>(array params, type template)</p><p class="description">Generates a script tag. </p></td>
+</tr>
+<tr>
+<td><span class='k'></span> <span class='nx'>string</span></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-functions.md#smarty_function_url">smarty_function_url</a>(array params, Smarty_Internal_Template template)</p><p class="description">Returns a URL based on the string given in the call attribute.
 </p></td>
 </tr>
 <tr>
@@ -42,7 +42,7 @@ module and the view name, so any view from any module can be included or inherit
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Common/Templating/SmartyTemplatingPlugins/function.bind.php#L40" target='_blank'>framework\hirudo\Hirudo\Impl\Common\Templating\SmartyTemplatingPlugins\function.bind.php at line 40</a>
 
 <h3 id="smarty_function_bind()">smarty_function_bind</h3>
-<span class='k'></span> <span class='nx'>string</span> smarty_function_bind (array params, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> template)
+<span class='k'></span> <span class='nx'>string</span> smarty_function_bind (array params, Smarty_Internal_Template template)
 
 <div class="details">
 <p><p>Binds a field to an entity property, Generally a parameter
@@ -64,10 +64,29 @@ naming, like this:
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Common/Templating/SmartyTemplatingPlugins/function.js.php#L16" target='_blank'>framework\hirudo\Hirudo\Impl\Common\Templating\SmartyTemplatingPlugins\function.js.php at line 16</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Common/Templating/SmartyTemplatingPlugins/function.css.php#L16" target='_blank'>framework\hirudo\Hirudo\Impl\Common\Templating\SmartyTemplatingPlugins\function.css.php at line 16</a>
 
 <h3 id="smarty_function_css()">smarty_function_css</h3>
 <span class='k'></span> <span class='nx'>string</span> smarty_function_css (array params, type template)
+
+<div class="details">
+<p>Generates a css link tag.
+Usage: <code>{css file="path/to/my/cssFile.css"}</code></p>
+<dl>
+<dt>Returns:</dt>
+<dd>The resulting link tag.</dd>
+<dt>See Also:</dt>
+<dd><a href="../hirudo/core/context/assets.html">For more information about assets management.</a></dd>
+</dl>
+</div>
+
+- - -
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Common/Templating/SmartyTemplatingPlugins/function.js.php#L16" target='_blank'>framework\hirudo\Hirudo\Impl\Common\Templating\SmartyTemplatingPlugins\function.js.php at line 16</a>
+
+<h3 id="smarty_function_js()">smarty_function_js</h3>
+<span class='k'></span> <span class='nx'>string</span> smarty_function_js (array params, type template)
 
 <div class="details">
 <p>Generates a script tag.
@@ -83,22 +102,10 @@ Usage: <code>{script file="path/to/my/jsFile.js"}</code></p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/ext/libs/SampleExtension/Sample/SmartyExtensions/function.foo.php#L29" target='_blank'>ext\libs\SampleExtension\Sample\SmartyExtensions\function.foo.php at line 29</a>
-
-<h3 id="smarty_function_foo()">smarty_function_foo</h3>
-<span class='k'></span> <span class='nx'><type></span> smarty_function_foo (array params, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> template)
-
-<div class="details">
-<p></p>
-</div>
-
-- - -
-
-
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Common/Templating/SmartyTemplatingPlugins/function.url.php#L45" target='_blank'>framework\hirudo\Hirudo\Impl\Common\Templating\SmartyTemplatingPlugins\function.url.php at line 45</a>
 
 <h3 id="smarty_function_url()">smarty_function_url</h3>
-<span class='k'></span> <span class='nx'>string</span> smarty_function_url (array params, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_Template.md">Smarty_Internal_Template</a> template)
+<span class='k'></span> <span class='nx'>string</span> smarty_function_url (array params, Smarty_Internal_Template template)
 
 <div class="details">
 <p>Returns a URL based on the string given in the call attribute.

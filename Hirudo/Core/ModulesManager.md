@@ -5,12 +5,11 @@
 **Hirudo\Core\ModulesManager**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/ModulesManager.php#L41" target='_blank'>framework\hirudo\Hirudo\Core\ModulesManager.php at line 41</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/ModulesManager.php#L40" target='_blank'>framework\hirudo\Hirudo\Core\ModulesManager.php at line 40</a>
 
 #Class ModulesManager#
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/EventDispatcher/EventDispatcher.md">EventDispatcher</a>
- &gt; **ModulesManager**
+EventDispatcher &gt; **ModulesManager**
 
 
 
@@ -18,7 +17,7 @@
 - - -
 
 <p><strong>public  class</strong> <span>ModulesManager</span>
-<strong>extends</strong> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/EventDispatcher/EventDispatcher.md">EventDispatcher</a>
+<strong>extends</strong> EventDispatcher
 
 </p>
 
@@ -28,7 +27,6 @@ point of the framework.</p></div>
 <dl>
 <dt>Author:</dt>
 <dd>JeyDotC</dd>
-<dt>Api.</dt>
 </dl>
 
 
@@ -63,13 +61,10 @@ default configuration.</p></td>
 </tr>
 </table>
 
-<table class="inherit">
-<tr><th colspan="2">Methods inherited from Symfony\Component\EventDispatcher\EventDispatcher</th></tr>
-<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/EventDispatcher/EventDispatcher.md#addlistener">addListener</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/EventDispatcher/EventDispatcher.md#addsubscriber">addSubscriber</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/EventDispatcher/EventDispatcher.md#dispatch">dispatch</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/EventDispatcher/EventDispatcher.md#dodispatch">doDispatch</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/EventDispatcher/EventDispatcher.md#getlisteners">getListeners</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/EventDispatcher/EventDispatcher.md#haslisteners">hasListeners</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/EventDispatcher/EventDispatcher.md#removelistener">removeListener</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/EventDispatcher/EventDispatcher.md#removesubscriber">removeSubscriber</a></td></tr></table>
+##Constructor Detail##
 
-<h2 id="detail_method">Constructor Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/ModulesManager.php#L73" target='_blank'>framework\hirudo\Hirudo\Core\ModulesManager.php at line 73</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/ModulesManager.php#L72" target='_blank'>framework\hirudo\Hirudo\Core\ModulesManager.php at line 72</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (array<string> implementationClasses)
@@ -86,7 +81,7 @@ default configuration.</p></td>
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/ModulesManager.php#L93" target='_blank'>framework\hirudo\Hirudo\Core\ModulesManager.php at line 93</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/ModulesManager.php#L92" target='_blank'>framework\hirudo\Hirudo\Core\ModulesManager.php at line 92</a>
 
 <h3 id="run()">run</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>run</span> ()
@@ -103,7 +98,7 @@ default configuration.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/ModulesManager.php#L123" target='_blank'>framework\hirudo\Hirudo\Core\ModulesManager.php at line 123</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/ModulesManager.php#L120" target='_blank'>framework\hirudo\Hirudo\Core\ModulesManager.php at line 120</a>
 
 <h3 id="executeCall()">executeCall</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>executeCall</span> (<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/ModuleCall.md">ModuleCall</a> call)
@@ -121,7 +116,7 @@ default configuration.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/ModulesManager.php#L153" target='_blank'>framework\hirudo\Hirudo\Core\ModulesManager.php at line 153</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/ModulesManager.php#L150" target='_blank'>framework\hirudo\Hirudo\Core\ModulesManager.php at line 150</a>
 
 <h3 id="setAutoLoader()">setAutoLoader</h3>
 <span class='k'>static </span> <span class='nx'>void</span> <span class='nf'>setAutoLoader</span> (type loader)
@@ -133,7 +128,7 @@ default configuration.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/ModulesManager.php#L163" target='_blank'>framework\hirudo\Hirudo\Core\ModulesManager.php at line 163</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/ModulesManager.php#L160" target='_blank'>framework\hirudo\Hirudo\Core\ModulesManager.php at line 160</a>
 
 <h3 id="resolveTaskRequirements()">resolveTaskRequirements</h3>
 <span class='k'>protected </span> <span class='nx'>void</span> <span class='nf'>resolveTaskRequirements</span> (<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Task.md">Task</a> task)

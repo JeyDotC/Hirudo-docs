@@ -82,7 +82,8 @@ format.</p></td>
 </tr>
 </table>
 
-<h2 id="detail_method">Constructor Detail</h2>
+##Constructor Detail##
+
 
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Context/ModuleCall.php#L51" target='_blank'>framework\hirudo\Hirudo\Core\Context\ModuleCall.php at line 51</a>
 

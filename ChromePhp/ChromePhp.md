@@ -174,7 +174,8 @@
 
 - - -
 
-<h2 id="detail_method">Constructor Detail</h2>
+##Constructor Detail##
+
 
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/ChromePhp.php#L64" target='_blank'>ChromePhp.php at line 64</a>
 

@@ -145,7 +145,7 @@ along with Hirudo.  If not, see <http://www.gnu.org/licenses/>.</p></div>
 <div class="details">
 <p></p><dl>
 <dt>Throws:</dt>
-<dd><a href="../../../../symfony/component/dependencyinjection/exception/invalidargumentexception.html">InvalidArgumentException</a> - Cuando el protocolo del request no es GET, POST, PUT o DELETE.</dd>
+<dd>InvalidArgumentException - Cuando el protocolo del request no es GET, POST, PUT o DELETE.</dd>
 <dd><a href="../../../../hirudo/models/components/restful/requestfailedexception.html">RequestFailedException</a> - When request fails.</dd>
 </dl>
 

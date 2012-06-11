@@ -57,7 +57,8 @@ based on the host CMS.</p></p></div>
 </tr>
 </table>
 
-<h2 id="detail_method">Constructor Detail</h2>
+##Constructor Detail##
+
 
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Context/AppConfig.php#L40" target='_blank'>framework\hirudo\Hirudo\Core\Context\AppConfig.php at line 40</a>
 

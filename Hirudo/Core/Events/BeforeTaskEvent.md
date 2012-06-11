@@ -9,8 +9,7 @@
 
 #Class BeforeTaskEvent#
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/EventDispatcher/Event.md">Event</a>
- &gt; **BeforeTaskEvent**
+Event &gt; **BeforeTaskEvent**
 
 
 
@@ -18,7 +17,7 @@
 - - -
 
 <p><strong>public  class</strong> <span>BeforeTaskEvent</span>
-<strong>extends</strong> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/EventDispatcher/Event.md">Event</a>
+<strong>extends</strong> Event
 
 </p>
 
@@ -28,13 +27,6 @@ are resolved.</p></div>
 <dl>
 <dt>Author:</dt>
 <dd>JeyDotC</dd>
-<dt>See Also:</dt>
-<dd><code>www.doctrine-project.org</code></dd>
-<dt>Since:</dt>
-<dd>2.0</dd>
-<dt>Version:</dt>
-<dd>$Revision: 3938 $</dd>
-<dt>Api.</dt>
 </dl>
 
 
@@ -64,10 +56,6 @@ process to work acordingly to the new ModuleCall.</p></td>
 <td class="description"><p class="name"><a href="#getcallreplaced">getCallReplaced</a>()</p><p class="description">Says if the call has been replaced. </p></td>
 </tr>
 </table>
-
-<table class="inherit">
-<tr><th colspan="2">Methods inherited from Symfony\Component\EventDispatcher\Event</th></tr>
-<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/EventDispatcher/Event.md#ispropagationstopped">isPropagationStopped</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/EventDispatcher/Event.md#stoppropagation">stopPropagation</a></td></tr></table>
 
 <h2 id="detail_method">Method Detail</h2>
 

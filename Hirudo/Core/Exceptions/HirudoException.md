@@ -64,7 +64,8 @@ are wraped into an instance of this class as the 'previous' exception.</p></p></
 </tr>
 </table>
 
-<h2 id="detail_method">Constructor Detail</h2>
+##Constructor Detail##
+
 
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Exceptions/HirudoException.php#L52" target='_blank'>framework\hirudo\Hirudo\Core\Exceptions\HirudoException.php at line 52</a>
 

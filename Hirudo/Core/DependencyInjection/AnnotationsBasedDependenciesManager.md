@@ -9,8 +9,7 @@
 
 #Class AnnotationsBasedDependenciesManager#
 
-<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/ContainerAware.md">ContainerAware</a>
- &gt; **AnnotationsBasedDependenciesManager**
+ContainerAware &gt; **AnnotationsBasedDependenciesManager**
 
 
 
@@ -18,7 +17,7 @@
 - - -
 
 <p><strong>public  class</strong> <span>AnnotationsBasedDependenciesManager</span>
-<strong>extends</strong> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/ContainerAware.md">ContainerAware</a>
+<strong>extends</strong> ContainerAware
 
 </p>
 
@@ -28,15 +27,12 @@ to determine dependencies and load services.</p></div>
 <dl>
 <dt>Author:</dt>
 <dd>JeyDotC</dd>
-<dt>Api.</dt>
+<dt>Todo:</dt>
+<dd>The annotations reader can't autoload annotations for some reason.</dd>
 </dl>
 
 
 <hr />
-
-<table class="inherit">
-<tr><th colspan="2">Fields inherited from Symfony\Component\DependencyInjection\ContainerAware</th></tr>
-<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/ContainerAware.md#container">container</a></td></tr></table>
 
 <table id="summary_constructor">
 <tr><th colspan="2">Constructor Summary</th></tr>
@@ -83,11 +79,8 @@ in the container to inject them later. </p></td>
 </tr>
 </table>
 
-<table class="inherit">
-<tr><th colspan="2">Methods inherited from Symfony\Component\DependencyInjection\ContainerAware</th></tr>
-<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Symfony/Component/DependencyInjection/ContainerAware.md#setcontainer">setContainer</a></td></tr></table>
+##Constructor Detail##
 
-<h2 id="detail_method">Constructor Detail</h2>
 
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/DependencyInjection/AnnotationsBasedDependenciesManager.php#L49" target='_blank'>framework\hirudo\Hirudo\Core\DependencyInjection\AnnotationsBasedDependenciesManager.php at line 49</a>
 

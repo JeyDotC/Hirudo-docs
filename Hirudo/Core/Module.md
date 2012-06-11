@@ -14,7 +14,7 @@
 
 <dl>
 <dt>All Known Subclasses:</dt>
-<dd><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/SampleApp/Modules/ErrorPage.md">SampleApp\Modules\ErrorPage</a> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/SampleApp/Modules/FrontPage.md">SampleApp\Modules\FrontPage</a> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/SampleApp/Modules/HttpTester.md">SampleApp\Modules\HttpTester</a> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/SampleApp/Modules/SimpleSqlTest.md">SampleApp\Modules\SimpleSqlTest</a> </dd>
+<dd><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/KitchenSink/Modules/CrudModule.md">KitchenSink\Modules\CrudModule</a> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/KitchenSink/Modules/Errors.md">KitchenSink\Modules\Errors</a> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/KitchenSink/Modules/Welcome.md">KitchenSink\Modules\Welcome</a> </dd>
 </dl>
 
 
@@ -182,7 +182,8 @@ the browser.</p></td>
 
 - - -
 
-<h2 id="detail_method">Constructor Detail</h2>
+##Constructor Detail##
+
 
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Module.php#L367" target='_blank'>framework\hirudo\Hirudo\Core\Module.php at line 367</a>
 
@@ -312,11 +313,11 @@ variables available.</p></p><p><dl>
 An array with data about this module. The array consists of these
 values:</p>
 <ul>
-<li>meta =&gt; The metadata asociated to this module. (MetadataCollection)</li>
 <li>appName =&gt; The the name of the application this module belongs to.</li>
 <li>name =&gt; The name of this module.</li>
+<li>task =&gt; The task that have been requested.</li>
 <li>context =&gt; A reference to the ModulesContext instance.</li>
-<li>views =&gt; The absolute path to the views folder for this module.</li>
+<li>views =&gt; The absolute path to the views folder for this module. [This value seems to be unnecesary, is left for historical reasons]</li>
 <li>baseURL =&gt; The current base URL</li>
 <li>messages =&gt; The list of added <code><a href="../../hirudo/core/util/message.html">Message</a></code> objects</li>
 </ul>

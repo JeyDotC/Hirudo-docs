@@ -9,7 +9,6 @@
 
 * <a href="#deprecated_class">Deprecated Classes</a>
 * <a href="#deprecated_method">Deprecated Methods</a>
-* <a href="#deprecated_global">Deprecated Globals</a>
 
 <table id="deprecated_class" class="detail">
 <tr><th colspan="2">Deprecated Classes</th></tr>
@@ -22,7 +21,6 @@ CREATE TABLE `sessiondata` (
 PRIMARY KEY (`id`)
 );
 </td></tr>
-<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Smarty/Smarty_Internal_Resource_Registered.md">Smarty\Smarty_Internal_Resource_Registered</a></td><td class="description">Smarty Internal Plugin Resource RegisteredImplements the registered resource for Smarty template</td></tr>
 </table>
 
 <table id="deprecated_method" class="detail">
@@ -38,18 +36,6 @@ PRIMARY KEY (`id`)
 <tr>
 <td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Impl/StandAlone/SARequest.md#submitted">Hirudo\Impl\StandAlone\SARequest\submitted</a></td>
 <td class="description">Determines if there is any data in the $_POST array.</td>
-</tr>
-</table>
-
-<table id="deprecated_global" class="detail">
-<tr><th colspan="2" class="title">Deprecated Globals</th></tr>
-<tr>
-<td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-globals.md#smarty_resource_char_set">Default namespace\SMARTY_RESOURCE_CHAR_SET</a></td>
-<td class="description"></td>
-</tr>
-<tr>
-<td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-globals.md#smarty_resource_date_format">Default namespace\SMARTY_RESOURCE_DATE_FORMAT</a></td>
-<td class="description"></td>
 </tr>
 </table>
 

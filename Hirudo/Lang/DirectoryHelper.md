@@ -41,7 +41,8 @@ at the specified depth.</p></td>
 </tr>
 </table>
 
-<h2 id="detail_method">Constructor Detail</h2>
+##Constructor Detail##
+
 
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Lang/Loader.php#L202" target='_blank'>framework\hirudo\Hirudo\Lang\Loader.php at line 202</a>
 

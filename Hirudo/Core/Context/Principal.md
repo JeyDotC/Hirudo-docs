@@ -74,7 +74,8 @@ system implementation.</p></td>
 </tr>
 </table>
 
-<h2 id="detail_method">Constructor Detail</h2>
+##Constructor Detail##
+
 
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Context/Principal.php#L63" target='_blank'>framework\hirudo\Hirudo\Core\Context\Principal.php at line 63</a>
 
