@@ -43,11 +43,19 @@
 <td><span class='k'>protected </span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#load">load</a>()</p><p class="description">Load the configuration data.</p></td>
 </tr>
+<tr>
+<td><span class='k'></span> <span class='nx'>void</span></td>
+<td class="description"><p class="name"><a href="#has">has</a>(mixed key)</p><p class="description"></p></td>
+</tr>
+<tr>
+<td><span class='k'></span> <span class='nx'>void</span></td>
+<td class="description"><p class="name"><a href="#loadapp">loadApp</a>(mixed appName)</p></td>
+</tr>
 </table>
 
 <table class="inherit">
 <tr><th colspan="2">Methods inherited from Hirudo\Core\Context\AppConfig</th></tr>
-<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/AppConfig.md#__construct">__construct</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/AppConfig.md#get">get</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/AppConfig.md#load">load</a></td></tr></table>
+<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/AppConfig.md#__construct">__construct</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/AppConfig.md#get">get</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/AppConfig.md#has">has</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/AppConfig.md#load">load</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/AppConfig.md#loadapp">loadApp</a></td></tr></table>
 
 <h2 id="detail_method">Method Detail</h2>
 
@@ -77,6 +85,30 @@
 
 <div class="details">
 <p>Load the configuration data.</p>
+</div>
+
+- - -
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/SAppConfig.php#L57" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\SAppConfig.php at line 57</a>
+
+<h3 id="has()">has</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>has</span> (mixed key)
+
+<div class="details">
+<p></p>
+</div>
+
+- - -
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/SAppConfig.php#L61" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\SAppConfig.php at line 61</a>
+
+<h3 id="loadApp()">loadApp</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>loadApp</span> (mixed appName)
+
+<div class="details">
+
 </div>
 
 - - -

@@ -40,7 +40,7 @@
 <tr><th colspan="2">Methods inherited from Hirudo\Core\Exceptions\HirudoException</th></tr>
 <tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Exceptions/HirudoException.md#__construct">__construct</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Exceptions/HirudoException.md#getapp">getApp</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Exceptions/HirudoException.md#getmodule">getModule</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Exceptions/HirudoException.md#gettask">getTask</a></td></tr></table>
 
-##Constructor Detail##
+<h2>Constructor Detail</h2>
 
 
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Exceptions/ModuleNotFoundException.php#L31" target='_blank'>framework\hirudo\Hirudo\Core\Exceptions\ModuleNotFoundException.php at line 31</a>

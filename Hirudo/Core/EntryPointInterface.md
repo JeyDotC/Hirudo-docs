@@ -7,7 +7,7 @@
 
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/EntryPointInterface.php#L10" target='_blank'>framework\hirudo\Hirudo\Core\EntryPointInterface.php at line 10</a>
 
-#Class EntryPointInterface#
+#Interface EntryPointInterface#
 
 **EntryPointInterface**
 
@@ -16,7 +16,7 @@
 
 - - -
 
-<p><strong>public  class</strong> <span>EntryPointInterface</span></p>
+<p><strong>public  interface</strong> <span>EntryPointInterface</span></p>
 
 <div class="comment" id="overview_description"><p></p></div>
 

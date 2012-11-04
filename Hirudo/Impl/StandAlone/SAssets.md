@@ -47,7 +47,7 @@
 
 <table class="inherit">
 <tr><th colspan="2">Methods inherited from Hirudo\Core\Context\Assets</th></tr>
-<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/Assets.md#addcss">addCSS</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/Assets.md#addjavascript">addJavaScript</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/Assets.md#generatecsstag">generateCSSTag</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/Assets.md#generatescripttag">generateScriptTag</a></td></tr></table>
+<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/Assets.md#addcss">addCSS</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/Assets.md#addjavascript">addJavaScript</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/Assets.md#generatecsstag">generateCSSTag</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/Assets.md#generatescripttag">generateScriptTag</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/Assets.md#resolvelocalpath">resolveLocalPath</a></td></tr></table>
 
 <h2 id="detail_method">Method Detail</h2>
 

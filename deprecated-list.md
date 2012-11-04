@@ -26,6 +26,10 @@ PRIMARY KEY (`id`)
 <table id="deprecated_method" class="detail">
 <tr><th colspan="2" class="title">Deprecated Methods</th></tr>
 <tr>
+<td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Impl/Drupal/DrupalRequest.md#submitted">Hirudo\Impl\Drupal\DrupalRequest\submitted</a></td>
+<td class="description">Determines if there is any data in the $_POST array.</td>
+</tr>
+<tr>
 <td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Impl/Joomla/JoomlaRequest.md#submitted">Hirudo\Impl\Joomla\JoomlaRequest\submitted</a></td>
 <td class="description">Determines if there is any data in the $_POST array.</td>
 </tr>

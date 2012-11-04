@@ -114,7 +114,7 @@ the table on garbage collection, default is 'false'.
 <tr><th colspan="2">Methods inherited from HTTP_Session2\HTTP_Session2_Container</th></tr>
 <tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/HTTP_Session2/HTTP_Session2_Container.md#__construct">__construct</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/HTTP_Session2/HTTP_Session2_Container.md#parseoptions">parseOptions</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/HTTP_Session2/HTTP_Session2_Container.md#set">set</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/HTTP_Session2/HTTP_Session2_Container.md#setdefaults">setDefaults</a></td></tr></table>
 
-##Constructor Detail##
+<h2>Constructor Detail</h2>
 
 
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/DB.php#L120" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\DB.php at line 120</a>

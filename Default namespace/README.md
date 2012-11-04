@@ -20,6 +20,9 @@ of a task. </td></tr>
 <tr><td class="name"><a href="package-functions.md#smarty_function_js">smarty_function_js</a></td><td class="description">Generates a script tag. </td></tr>
 <tr><td class="name"><a href="package-functions.md#smarty_function_url">smarty_function_url</a></td><td class="description">Returns a URL based on the string given in the call attribute.
 </td></tr>
+<tr><td class="name"><a href="package-functions.md#smarty_modifier_toAssetPath">smarty_modifier_toAssetPath</a></td><td class="description">Converts the given string into a valid absolute path like smarty_modifier_toPath
+plugin, but in this time the path has only three parts, the application, the
+module and the view name, so any view from any module can be included or inherited.</td></tr>
 <tr><td class="name"><a href="package-functions.md#smarty_modifier_toPath">smarty_modifier_toPath</a></td><td class="description">Converts the given string into a valid absolute path using the
 <a href="../hirudo/lang/loader.html#toSinglePath()">Loader::toSinglePath()</a> method.</td></tr>
 <tr><td class="name"><a href="package-functions.md#smarty_modifier_toViewPath">smarty_modifier_toViewPath</a></td><td class="description">Converts the given string into a valid absolute path like smarty_modifier_toPath
@@ -35,10 +38,12 @@ module and the view name, so any view from any module can be included or inherit
 <tr><td class="name"><a href="package-globals.md#autoloadPath">autoloadPath</a></td><td class="description"></td></tr>
 <tr><td class="name"><a href="package-globals.md#controller">controller</a></td><td class="description">«Copyright 2012 Jeysson José Guevara Mendivil(JeyDotC)»This file is part of Hirudo.
 </td></tr>
+<tr><td class="name"><a href="package-globals.md#dir">dir</a></td><td class="description"></td></tr>
 <tr><td class="name"><a href="package-globals.md#loader">loader</a></td><td class="description"></td></tr>
 <tr><td class="name"><a href="package-globals.md#manager">manager</a></td><td class="description">«Copyright 2012 Jeysson José Guevara Mendivil(JeyDotC)»This file is part of Hirudo.
 </td></tr>
 <tr><td class="name"><a href="package-globals.md#namespaces">namespaces</a></td><td class="description"></td></tr>
+<tr><td class="name"><a href="package-globals.md#namespacesDir">namespacesDir</a></td><td class="description"></td></tr>
 <tr><td class="name"><a href="package-globals.md#this">this</a></td><td class="description"></td></tr>
 <tr><td class="name"><a href="package-globals.md#value">value</a></td><td class="description"></td></tr>
 </table>

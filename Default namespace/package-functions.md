@@ -26,6 +26,12 @@ of a task. </p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-functions.md#smarty_modifier_toassetpath">smarty_modifier_toAssetPath</a>(string string)</p><p class="description">Converts the given string into a valid absolute path like smarty_modifier_toPath
+plugin, but in this time the path has only three parts, the application, the
+module and the view name, so any view from any module can be included or inherited.</p></td>
+</tr>
+<tr>
+<td><span class='k'></span> <span class='nx'>string</span></td>
 <td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-functions.md#smarty_modifier_topath">smarty_modifier_toPath</a>(string string, string extension)</p><p class="description">Converts the given string into a valid absolute path using the
 <a href="../hirudo/lang/loader.html#toSinglePath()">Loader::toSinglePath()</a> method.</p></td>
 </tr>
@@ -132,6 +138,31 @@ array(
 - - -
 
 
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Common/Templating/SmartyTemplatingPlugins/modifier.toAssetPath.php#L39" target='_blank'>framework\hirudo\Hirudo\Impl\Common\Templating\SmartyTemplatingPlugins\modifier.toAssetPath.php at line 39</a>
+
+<h3 id="smarty_modifier_toAssetPath()">smarty_modifier_toAssetPath</h3>
+<span class='k'></span> <span class='nx'>string</span> smarty_modifier_toAssetPath (string string)
+
+<div class="details">
+<p><p>Converts the given string into a valid absolute path like smarty_modifier_toPath
+plugin, but in this time the path has only three parts, the application, the
+module and the view name, so any view from any module can be included or inherited.</p>
+<dl>
+<dt>Parameters:</dt>
+<dd>string - The complete name of the view with format AppName::ModuleName::viewName</dd>
+<dt>Returns:</dt>
+<dd>The resulting path.</dd>
+<dt>See Also:</dt>
+<dd>For details about the string format required by this method.</dd>
+<dt>Throws:</dt>
+<dd><a href="../hirudo/lang/invalidpathexception.html">InvalidPathException</a> - If $string is not a string, is null or is empty.</dd>
+<dd>LogicException - If $extension is not a string.</dd>
+</dl>
+</div>
+
+- - -
+
+
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Common/Templating/SmartyTemplatingPlugins/modifier.toPath.php#L39" target='_blank'>framework\hirudo\Hirudo\Impl\Common\Templating\SmartyTemplatingPlugins\modifier.toPath.php at line 39</a>
 
 <h3 id="smarty_modifier_toPath()">smarty_modifier_toPath</h3>
@@ -147,7 +178,7 @@ array(
 <dt>Returns:</dt>
 <dd>The resulting path.</dd>
 <dt>See Also:</dt>
-<dd><a href="../hirudo/lang/loader.html#using()">For details about the string format required by this method.</a></dd>
+<dd>For details about the string format required by this method.</dd>
 <dt>Throws:</dt>
 <dd><a href="../hirudo/lang/invalidpathexception.html">InvalidPathException</a> - If $string is not a string, is null or is empty.</dd>
 <dd>LogicException - If $extension is not a string.</dd>
@@ -172,7 +203,7 @@ module and the view name, so any view from any module can be included or inherit
 <dt>Returns:</dt>
 <dd>The resulting path.</dd>
 <dt>See Also:</dt>
-<dd><a href="../hirudo/lang/loader.html#using()">For details about the string format required by this method.</a></dd>
+<dd>For details about the string format required by this method.</dd>
 <dt>Throws:</dt>
 <dd><a href="../hirudo/lang/invalidpathexception.html">InvalidPathException</a> - If $string is not a string, is null or is empty.</dd>
 <dd>LogicException - If $extension is not a string.</dd>

@@ -167,7 +167,7 @@ everything after the "#"</p></td>
 </tr>
 </table>
 
-##Constructor Detail##
+<h2>Constructor Detail</h2>
 
 
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/JURI.php#L112" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\lib\JURI.php at line 112</a>

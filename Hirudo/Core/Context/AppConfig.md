@@ -14,7 +14,7 @@
 
 <dl>
 <dt>All Known Subclasses:</dt>
-<dd><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Impl/Joomla/JoomlaAppConfig.md">Hirudo\Impl\Joomla\JoomlaAppConfig</a> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Impl/StandAlone/SAppConfig.md">Hirudo\Impl\StandAlone\SAppConfig</a> </dd>
+<dd><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Impl/Drupal/DrupalAppConfig.md">Hirudo\Impl\Drupal\DrupalAppConfig</a> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Impl/Joomla/JoomlaAppConfig.md">Hirudo\Impl\Joomla\JoomlaAppConfig</a> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Impl/StandAlone/SAppConfig.md">Hirudo\Impl\StandAlone\SAppConfig</a> </dd>
 </dl>
 
 
@@ -55,9 +55,17 @@ based on the host CMS.</p></p></div>
 <td><span class='k'>abstract </span> <span class='nx'>mixed</span></td>
 <td class="description"><p class="name"><a href="#get">get</a>(string key, mixed default)</p><p class="description">Gets a value from the collected configuration data.</p></td>
 </tr>
+<tr>
+<td><span class='k'>abstract </span> <span class='nx'>void</span></td>
+<td class="description"><p class="name"><a href="#loadapp">loadApp</a>(mixed appName)</p></td>
+</tr>
+<tr>
+<td><span class='k'>abstract </span> <span class='nx'>void</span></td>
+<td class="description"><p class="name"><a href="#has">has</a>(mixed key)</p><p class="description"></p></td>
+</tr>
 </table>
 
-##Constructor Detail##
+<h2>Constructor Detail</h2>
 
 
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Context/AppConfig.php#L40" target='_blank'>framework\hirudo\Hirudo\Core\Context\AppConfig.php at line 40</a>
@@ -99,6 +107,30 @@ based on the host CMS.</p></p></div>
 <dd>The value associated to the key. If the config value has inner data, the returned value will be an array.</dd>
 </dl>
 
+</div>
+
+- - -
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Context/AppConfig.php#L60" target='_blank'>framework\hirudo\Hirudo\Core\Context\AppConfig.php at line 60</a>
+
+<h3 id="loadApp()">loadApp</h3>
+<span class='k'>abstract </span> <span class='nx'>void</span> <span class='nf'>loadApp</span> (mixed appName)
+
+<div class="details">
+
+</div>
+
+- - -
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Context/AppConfig.php#L65" target='_blank'>framework\hirudo\Hirudo\Core\Context\AppConfig.php at line 65</a>
+
+<h3 id="has()">has</h3>
+<span class='k'>abstract </span> <span class='nx'>void</span> <span class='nf'>has</span> (mixed key)
+
+<div class="details">
+<p></p>
 </div>
 
 - - -

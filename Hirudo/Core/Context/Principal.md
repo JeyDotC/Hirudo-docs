@@ -14,7 +14,7 @@
 
 <dl>
 <dt>All Known Subclasses:</dt>
-<dd><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Impl/Joomla/JoomlaPrincipal.md">Hirudo\Impl\Joomla\JoomlaPrincipal</a> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Impl/StandAlone/SAPrincipal.md">Hirudo\Impl\StandAlone\SAPrincipal</a> </dd>
+<dd><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Impl/Drupal/DrupalPrincipal.md">Hirudo\Impl\Drupal\DrupalPrincipal</a> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Impl/Joomla/JoomlaPrincipal.md">Hirudo\Impl\Joomla\JoomlaPrincipal</a> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Impl/StandAlone/SAPrincipal.md">Hirudo\Impl\StandAlone\SAPrincipal</a> </dd>
 </dl>
 
 
@@ -74,7 +74,7 @@ system implementation.</p></td>
 </tr>
 </table>
 
-##Constructor Detail##
+<h2>Constructor Detail</h2>
 
 
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Context/Principal.php#L63" target='_blank'>framework\hirudo\Hirudo\Core\Context\Principal.php at line 63</a>

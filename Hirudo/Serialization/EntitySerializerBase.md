@@ -51,7 +51,7 @@ string representation.</p></td>
 </tr>
 </table>
 
-##Constructor Detail##
+<h2>Constructor Detail</h2>
 
 
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Serialization/EntitySerializerBase.php#L36" target='_blank'>framework\hirudo\Hirudo\Serialization\EntitySerializerBase.php at line 36</a>

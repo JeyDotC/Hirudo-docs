@@ -42,7 +42,7 @@ along with Hirudo.  If not, see <http://www.gnu.org/licenses/>.</p></div>
 </tr>
 </table>
 
-##Constructor Detail##
+<h2>Constructor Detail</h2>
 
 
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Lang/Loader.php#L29" target='_blank'>framework\hirudo\Hirudo\Lang\Loader.php at line 29</a>

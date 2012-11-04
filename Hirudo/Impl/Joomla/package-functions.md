@@ -15,7 +15,7 @@
 
 <h2 id="detail_function">Function Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Joomla/JoomlaFrontController.php#L30" target='_blank'>framework\hirudo\Hirudo\Impl\Joomla\JoomlaFrontController.php at line 30</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Joomla/JoomlaFrontController.php#L31" target='_blank'>framework\hirudo\Hirudo\Impl\Joomla\JoomlaFrontController.php at line 31</a>
 
 <h3 id="joomlaAutoloader()">joomlaAutoloader</h3>
 <span class='k'></span> <span class='nx'>void</span> joomlaAutoloader (mixed class)

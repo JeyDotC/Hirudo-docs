@@ -19,7 +19,7 @@
 <h3 id="DEFAULT_EXT">DEFAULT_EXT</h3>
 
 
-public final  mixed **DEFAULT_EXT** = $DS
+public final  mixed **DEFAULT_EXT** = $extension = Loader::DEFAULT_EXT
 
 <div class="details">
 </div>

@@ -58,7 +58,7 @@
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/KitchenSink/Models/Entities/Foo.php#L22" target='_blank'>src\KitchenSink\Models\Entities\Foo.php at line 22</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/KitchenSink/Models/Entities/Foo.php#L28" target='_blank'>src\KitchenSink\Models\Entities\Foo.php at line 28</a>
 
 <h3 id="getId()">getId</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>getId</span> ()
@@ -70,7 +70,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/KitchenSink/Models/Entities/Foo.php#L26" target='_blank'>src\KitchenSink\Models\Entities\Foo.php at line 26</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/KitchenSink/Models/Entities/Foo.php#L32" target='_blank'>src\KitchenSink\Models\Entities\Foo.php at line 32</a>
 
 <h3 id="setId()">setId</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>setId</span> (mixed id)
@@ -82,7 +82,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/KitchenSink/Models/Entities/Foo.php#L30" target='_blank'>src\KitchenSink\Models\Entities\Foo.php at line 30</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/KitchenSink/Models/Entities/Foo.php#L36" target='_blank'>src\KitchenSink\Models\Entities\Foo.php at line 36</a>
 
 <h3 id="getDescription()">getDescription</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>getDescription</span> ()
@@ -94,7 +94,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/KitchenSink/Models/Entities/Foo.php#L34" target='_blank'>src\KitchenSink\Models\Entities\Foo.php at line 34</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/KitchenSink/Models/Entities/Foo.php#L40" target='_blank'>src\KitchenSink\Models\Entities\Foo.php at line 40</a>
 
 <h3 id="setDescription()">setDescription</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>setDescription</span> (mixed description)
@@ -106,7 +106,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/KitchenSink/Models/Entities/Foo.php#L42" target='_blank'>src\KitchenSink\Models\Entities\Foo.php at line 42</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/KitchenSink/Models/Entities/Foo.php#L48" target='_blank'>src\KitchenSink\Models\Entities\Foo.php at line 48</a>
 
 <h3 id="getBar()">getBar</h3>
 <span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/KitchenSink/Models/Entities/Bar.md>Bar</a></span> <span class='nf'>getBar</span> ()
@@ -118,7 +118,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/KitchenSink/Models/Entities/Foo.php#L46" target='_blank'>src\KitchenSink\Models\Entities\Foo.php at line 46</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/KitchenSink/Models/Entities/Foo.php#L52" target='_blank'>src\KitchenSink\Models\Entities\Foo.php at line 52</a>
 
 <h3 id="setBar()">setBar</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>setBar</span> (<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/KitchenSink/Models/Entities/Bar.md">Bar</a> bar)

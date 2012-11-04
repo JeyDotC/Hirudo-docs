@@ -5,7 +5,7 @@
 **Hirudo\Core\Context\Assets**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Context/Assets.php#L32" target='_blank'>framework\hirudo\Hirudo\Core\Context\Assets.php at line 32</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Context/Assets.php#L33" target='_blank'>framework\hirudo\Hirudo\Core\Context\Assets.php at line 33</a>
 
 #Class Assets#
 
@@ -14,7 +14,7 @@
 
 <dl>
 <dt>All Known Subclasses:</dt>
-<dd><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Impl/Joomla/JoomlaAssets.md">Hirudo\Impl\Joomla\JoomlaAssets</a> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Impl/StandAlone/SAssets.md">Hirudo\Impl\StandAlone\SAssets</a> </dd>
+<dd><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Impl/Drupal/DrupalAssets.md">Hirudo\Impl\Drupal\DrupalAssets</a> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Impl/Joomla/JoomlaAssets.md">Hirudo\Impl\Joomla\JoomlaAssets</a> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Impl/StandAlone/SAssets.md">Hirudo\Impl\StandAlone\SAssets</a> </dd>
 </dl>
 
 
@@ -55,11 +55,15 @@ be set to the given path. </p></td>
 <td class="description"><p class="name"><a href="#generatecsstag">generateCSSTag</a>(string cssPath)</p><p class="description">This helper function generates a link tag which src attribute will
 be set to the given path. </p></td>
 </tr>
+<tr>
+<td><span class='k'>protected </span> <span class='nx'>void</span></td>
+<td class="description"><p class="name"><a href="#resolvelocalpath">resolveLocalPath</a>(mixed path)</p></td>
+</tr>
 </table>
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Context/Assets.php#L46" target='_blank'>framework\hirudo\Hirudo\Core\Context\Assets.php at line 46</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Context/Assets.php#L47" target='_blank'>framework\hirudo\Hirudo\Core\Context\Assets.php at line 47</a>
 
 <h3 id="addJavaScript()">addJavaScript</h3>
 <span class='k'>abstract </span> <span class='nx'>string</span> <span class='nf'>addJavaScript</span> (string jsPath)
@@ -79,7 +83,7 @@ the tag.</p></p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Context/Assets.php#L60" target='_blank'>framework\hirudo\Hirudo\Core\Context\Assets.php at line 60</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Context/Assets.php#L61" target='_blank'>framework\hirudo\Hirudo\Core\Context\Assets.php at line 61</a>
 
 <h3 id="addCSS()">addCSS</h3>
 <span class='k'>abstract </span> <span class='nx'>string</span> <span class='nf'>addCSS</span> (string cssPath)
@@ -99,7 +103,7 @@ the tag.</p></p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Context/Assets.php#L70" target='_blank'>framework\hirudo\Hirudo\Core\Context\Assets.php at line 70</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Context/Assets.php#L71" target='_blank'>framework\hirudo\Hirudo\Core\Context\Assets.php at line 71</a>
 
 <h3 id="generateScriptTag()">generateScriptTag</h3>
 <span class='k'>protected </span> <span class='nx'>string</span> <span class='nf'>generateScriptTag</span> (string jsPath)
@@ -119,7 +123,7 @@ to meet the CMS conventions.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Context/Assets.php#L82" target='_blank'>framework\hirudo\Hirudo\Core\Context\Assets.php at line 82</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Context/Assets.php#L83" target='_blank'>framework\hirudo\Hirudo\Core\Context\Assets.php at line 83</a>
 
 <h3 id="generateCSSTag()">generateCSSTag</h3>
 <span class='k'>protected </span> <span class='nx'>string</span> <span class='nf'>generateCSSTag</span> (string cssPath)
@@ -133,6 +137,18 @@ to meet the CMS conventions.</p><dl>
 <dt>Returns:</dt>
 <dd>The link tag.</dd>
 </dl>
+
+</div>
+
+- - -
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Context/Assets.php#L87" target='_blank'>framework\hirudo\Hirudo\Core\Context\Assets.php at line 87</a>
+
+<h3 id="resolveLocalPath()">resolveLocalPath</h3>
+<span class='k'>protected </span> <span class='nx'>void</span> <span class='nf'>resolveLocalPath</span> (mixed path)
+
+<div class="details">
 
 </div>
 

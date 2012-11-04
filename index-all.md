@@ -26,11 +26,13 @@
 <h1 id="letter_">_</h1>
 <dl>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Lang/package-functions.md#_using">_using()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Lang//README.md">Hirudo\Lang</a></dt>
-<dd>Alias for <code><a href="../../hirudo/lang/loader.html#using()">Loader::using()</a></code> function.</dd>
+<dd>Alias for <code>Loader::using()</code> function.</dd>
 </dl>
 <h1 id="letterA">A</h1>
 <dl>
 <dd>Session is active.</dd>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Events/AfterTaskEvent.md">AfterTaskEvent</a> - Class in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Events//README.md">Hirudo\Core\Events</a></dt>
+<dd>Description of AfterTaskEvent</dd>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/DependencyInjection/AnnotationsBasedDependenciesManager.md">AnnotationsBasedDependenciesManager</a> - Class in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/DependencyInjection//README.md">Hirudo\Core\DependencyInjection</a></dt>
 <dd>A dependencies manager that uses the doctrine's doc-block annotations system
  to determine dependencies and load services.</dd>
@@ -48,13 +50,9 @@
 <h1 id="letterB">B</h1>
 <dl>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/KitchenSink/Models/Entities/Bar.md">Bar</a> - Class in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/KitchenSink/Models/Entities//README.md">KitchenSink\Models\Entities</a></dt>
-<dd>Description of Bar</dd>
+<dd></dd>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Events/BeforeTaskEvent.md">BeforeTaskEvent</a> - Class in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Events//README.md">Hirudo\Core\Events</a></dt>
-<dd>This event is triggered before a task is executed and after it's requirements
- are resolved.</dd>
-<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Events/BeforeTaskEventListener.md">BeforeTaskEventListener</a> - Class in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Events//README.md">Hirudo\Core\Events</a></dt>
-<dd><p>Listens to the BeforeTaskEvent which iccurs before the task is executed and after
- the task's requirements are satisfied.</p></dd>
+<dd>Description of BeforeTaskEvent</dd>
 </dl>
 <h1 id="letterC">C</h1>
 <dl>
@@ -71,8 +69,8 @@
  This file is part of Hirudo.
 </dd>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#countallresults">countAllResults()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql//README.md">Hirudo\Models\Components\Sql</a></dt>
-<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/KitchenSink/Modules/CrudModule.md">CrudModule</a> - Class in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/KitchenSink/Modules//README.md">KitchenSink\Modules</a></dt>
-<dd>This module represents a tipical Cread, Read, Update, Delete use case with the
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/KitchenSink/Modules/CrudModule/CrudModule.md">CrudModule</a> - Class in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/KitchenSink/Modules/CrudModule//README.md">KitchenSink\Modules\CrudModule</a></dt>
+<dd>This module represents a tipical Create, Read, Update, Delete use case with the
  Foo entity as the main subject.</dd>
 </dl>
 <h1 id="letterD">D</h1>
@@ -81,9 +79,25 @@
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#delete">delete()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql//README.md">Hirudo\Models\Components\Sql</a></dt>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/DependencyInjection/DependenciesManager.md">DependenciesManager</a> - Interface in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/DependencyInjection//README.md">Hirudo\Core\DependencyInjection</a></dt>
 <dd>This is the interface for all dependency injection managers.</dd>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-globals.md#dir">dir</a> - Global in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace//README.md">Default namespace</a></dt>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Lang/DirectoryHelper.md">DirectoryHelper</a> - Class in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Lang//README.md">Hirudo\Lang</a></dt>
 <dd>A class for directory listing.</dd>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#distinct">distinct()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql//README.md">Hirudo\Models\Components\Sql</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Impl/Drupal/DrupalAppConfig.md">DrupalAppConfig</a> - Class in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Impl/Drupal//README.md">Hirudo\Impl\Drupal</a></dt>
+<dd>Description of JAppConfig</dd>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Impl/Drupal/DrupalAssets.md">DrupalAssets</a> - Class in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Impl/Drupal//README.md">Hirudo\Impl\Drupal</a></dt>
+<dd>Description of DrupalAssets</dd>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Impl/Drupal/DrupalFrontController.md">DrupalFrontController</a> - Class in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Impl/Drupal//README.md">Hirudo\Impl\Drupal</a></dt>
+<dd>The underscore front controller implementation for joomla.</dd>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Impl/Drupal/DrupalPrincipal.md">DrupalPrincipal</a> - Class in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Impl/Drupal//README.md">Hirudo\Impl\Drupal</a></dt>
+<dd></dd>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Impl/Drupal/DrupalRequest.md">DrupalRequest</a> - Class in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Impl/Drupal//README.md">Hirudo\Impl\Drupal</a></dt>
+<dd>Description of DrupalRequest</dd>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Impl/Drupal/DrupalRouting.md">DrupalRouting</a> - Class in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Impl/Drupal//README.md">Hirudo\Impl\Drupal</a></dt>
+<dd></dd>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Impl/Drupal/DrupalSession.md">DrupalSession</a> - Class in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Impl/Drupal//README.md">Hirudo\Impl\Drupal</a></dt>
+<dd>Represents a session, this implementation delegates the session management to
+ the Drupal! JSession class.</dd>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-globals.md#ds">DS</a> - Global in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace//README.md">Default namespace</a></dt>
 <dd>«Copyright 2012 Jeysson José Guevara Mendivil(JeyDotC)» 
  
@@ -108,10 +122,12 @@
 <dd>JSON implementation of EntitySerializerBase. </dd>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Serialization/EntityToArrayConverter.md">EntityToArrayConverter</a> - Class in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Serialization//README.md">Hirudo\Serialization</a></dt>
 <dd>An entity normilizer. </dd>
-<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/EntryPointInterface.md">EntryPointInterface</a> - Class in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core//README.md">Hirudo\Core</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/EntryPointInterface.md">EntryPointInterface</a> - Interface in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core//README.md">Hirudo\Core</a></dt>
 <dd></dd>
-<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/KitchenSink/Modules/Errors.md">Errors</a> - Class in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/KitchenSink/Modules//README.md">KitchenSink\Modules</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/KitchenSink/Modules/Errors/Errors.md">Errors</a> - Class in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/KitchenSink/Modules/Errors//README.md">KitchenSink\Modules\Errors</a></dt>
 <dd>This module is called in case of any exception. </dd>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/KitchenSink/Modules/EventListening/EventListening.md">EventListening</a> - Class in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/KitchenSink/Modules/EventListening//README.md">KitchenSink\Modules\EventListening</a></dt>
+<dd>Description of EventListeningModule</dd>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#executeselect">executeSelect()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql//README.md">Hirudo\Models\Components\Sql</a></dt>
 <dd></dd>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#executewrite">executeWrite()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql//README.md">Hirudo\Models\Components\Sql</a></dt>
@@ -120,15 +136,14 @@
 </dl>
 <h1 id="letterF">F</h1>
 <dl>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Events/Dispatcher/FileCachedHirudoDispatcher.md">FileCachedHirudoDispatcher</a> - Class in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Events/Dispatcher//README.md">Hirudo\Core\Events\Dispatcher</a></dt>
+<dd>Description of FileCachedHirudoDispatcher</dd>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/KitchenSink/Models/Entities/Foo.md">Foo</a> - Class in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/KitchenSink/Models/Entities//README.md">KitchenSink\Models\Entities</a></dt>
 <dd>Description of Foo</dd>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/KitchenSink/Models/Components/FooComponent.md">FooComponent</a> - Class in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/KitchenSink/Models/Components//README.md">KitchenSink\Models\Components</a></dt>
 <dd>A component that stores entities in session, normally you should use
  a component that stores entities to a database.
 </dd>
-<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Events/Annotations/ForCall.md">ForCall</a> - Class in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Events/Annotations//README.md">Hirudo\Core\Events\Annotations</a></dt>
-<dd><p>Signals a Task event listener to only listen the event
- when the current call matches the given characteristics.</p></dd>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#from">from()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql//README.md">Hirudo\Models\Components\Sql</a></dt>
 </dl>
 <h1 id="letterG">G</h1>
@@ -143,6 +158,8 @@
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/HeaderBag.md">HeaderBag</a> - Class in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core//README.md">Hirudo\Core</a></dt>
 <dd>A class that allows the edition of the response headers.</dd>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-globals.md#hirudo_root">HIRUDO_ROOT</a> - Global in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace//README.md">Default namespace</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Events/Dispatcher/HirudoDispatcher.md">HirudoDispatcher</a> - Class in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Events/Dispatcher//README.md">Hirudo\Core\Events\Dispatcher</a></dt>
+<dd>Description of HirudoDispatcher</dd>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Exceptions/HirudoException.md">HirudoException</a> - Class in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Exceptions//README.md">Hirudo\Core\Exceptions</a></dt>
 <dd><p>Base class for exceptions occurred on Hirudo. </dd>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/hirudoimpljoomlajoomlafrontView_.md">hirudoimpljoomlajoomlafrontView_</a> - Class in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace//README.md">Default namespace</a></dt>
@@ -187,11 +204,15 @@
 <dd>HTTP_Session2_Exception
 
  PHP version 5</dd>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Annotations/HttpMethod.md">HttpMethod</a> - Class in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Annotations//README.md">Hirudo\Core\Annotations</a></dt>
+<dd>Signals a task to accept a set of request types only. </dd>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Annotations/HttpPost.md">HttpPost</a> - Class in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Annotations//README.md">Hirudo\Core\Annotations</a></dt>
 <dd>Signals a task to accept POST requests only.</dd>
 </dl>
 <h1 id="letterI">I</h1>
 <dl>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Annotations/IgnoreCall.md">IgnoreCall</a> - Class in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Annotations//README.md">Hirudo\Core\Annotations</a></dt>
+<dd>Description of IgnoreCall</dd>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Annotations/Import.md">Import</a> - Class in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Annotations//README.md">Hirudo\Core\Annotations</a></dt>
 <dd>This annotation marks a method or property as a dependency requester, a point in which
  to inject a dependency.</dd>
@@ -242,6 +263,10 @@
 <dl>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#like">like()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql//README.md">Hirudo\Models\Components\Sql</a></dt>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#limit">limit()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql//README.md">Hirudo\Models\Components\Sql</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Events/Annotations/Listen.md">Listen</a> - Class in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Events/Annotations//README.md">Hirudo\Core\Events\Annotations</a></dt>
+<dd>Marks a method as an event listener.
+</dd>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Events/Dispatcher/ListenerHolder.md">ListenerHolder</a> - Class in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Events/Dispatcher//README.md">Hirudo\Core\Events\Dispatcher</a></dt>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-globals.md#loader">loader</a> - Global in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace//README.md">Default namespace</a></dt>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Lang/Loader.md">Loader</a> - Class in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Lang//README.md">Hirudo\Lang</a></dt>
 <dd><p>A PHP file loader. </dd>
@@ -271,10 +296,13 @@
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/ModulesManager.md">ModulesManager</a> - Class in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core//README.md">Hirudo\Core</a></dt>
 <dd>This class serves as a front controller in Hirudo, is the main entry
  point of the framework.</dd>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Util/ModulesRegistry.md">ModulesRegistry</a> - Class in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Util//README.md">Hirudo\Core\Util</a></dt>
+<dd>Description of ModulesRegistry</dd>
 </dl>
 <h1 id="letterN">N</h1>
 <dl>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-globals.md#namespaces">namespaces</a> - Global in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace//README.md">Default namespace</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-globals.md#namespacesdir">namespacesDir</a> - Global in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace//README.md">Default namespace</a></dt>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#notlike">notLike()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql//README.md">Hirudo\Models\Components\Sql</a></dt>
 </dl>
 <h1 id="letterO">O</h1>
@@ -287,6 +315,8 @@
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#orwhere">orWhere()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql//README.md">Hirudo\Models\Components\Sql</a></dt>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#orwherein">orWhereIn()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql//README.md">Hirudo\Models\Components\Sql</a></dt>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#orwherenotin">orWhereNotIn()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql//README.md">Hirudo\Models\Components\Sql</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Events/Annotations/OverridesListener.md">OverridesListener</a> - Class in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Events/Annotations//README.md">Hirudo\Core\Events\Annotations</a></dt>
+<dd>Description of Virtual</dd>
 </dl>
 <h1 id="letterP">P</h1>
 <dl>
@@ -368,6 +398,10 @@
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-functions.md#smarty_function_url">smarty_function_url()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace//README.md">Default namespace</a></dt>
 <dd>Returns a URL based on the string given in the call attribute.
 </dd>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-functions.md#smarty_modifier_toassetpath">smarty_modifier_toAssetPath()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace//README.md">Default namespace</a></dt>
+<dd><p>Converts the given string into a valid absolute path like smarty_modifier_toPath
+ plugin, but in this time the path has only three parts, the application, the 
+ module and the view name, so any view from any module can be included or inherited.</dd>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-functions.md#smarty_modifier_topath">smarty_modifier_toPath()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace//README.md">Default namespace</a></dt>
 <dd><p>Converts the given string into a valid absolute path using the 
  <code><a href="../hirudo/lang/loader.html#toSinglePath()">Loader::toSinglePath()</a></code> method.</p></dd>
@@ -392,8 +426,8 @@
  resolve them.</dd>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/TemplatingInterface.md">TemplatingInterface</a> - Interface in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core//README.md">Hirudo\Core</a></dt>
 <dd><p>An interface for any templating system such as Smarty, Twig, PATemplate, etc.</p></dd>
-<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-globals.md#this">this</a> - Global in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql//README.md">Hirudo\Models\Components\Sql</a></dt>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-globals.md#this">this</a> - Global in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace//README.md">Default namespace</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-globals.md#this">this</a> - Global in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql//README.md">Hirudo\Models\Components\Sql</a></dt>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#truncate">truncate()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql//README.md">Hirudo\Models\Components\Sql</a></dt>
 </dl>
 <h1 id="letterU">U</h1>
@@ -407,10 +441,12 @@
 <dl>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-globals.md#value">value</a> - Global in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace//README.md">Default namespace</a></dt>
 <dd></dd>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Events/Annotations/VirtualListener.md">VirtualListener</a> - Class in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Events/Annotations//README.md">Hirudo\Core\Events\Annotations</a></dt>
+<dd>Description of Virtual</dd>
 </dl>
 <h1 id="letterW">W</h1>
 <dl>
-<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/KitchenSink/Modules/Welcome.md">Welcome</a> - Class in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/KitchenSink/Modules//README.md">KitchenSink\Modules</a></dt>
+<dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/KitchenSink/Modules/Welcome/Welcome.md">Welcome</a> - Class in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/KitchenSink/Modules/Welcome//README.md">KitchenSink\Modules\Welcome</a></dt>
 <dd>A welcome Module, this module simply shows how to render a view
  and how to add notifications which shall be represented by the template.</dd>
 <dt><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql/package-functions.md#where">where()</a> - Function in namespace <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Sql//README.md">Hirudo\Models\Components\Sql</a></dt>

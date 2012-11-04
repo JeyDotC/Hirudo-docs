@@ -26,6 +26,10 @@
 </tr>
 <tr>
 <td> mixed</td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-globals.md#dir">dir</a></p></td>
+</tr>
+<tr>
+<td> mixed</td>
 <td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-globals.md#loader">loader</a></p></td>
 </tr>
 <tr>
@@ -36,6 +40,10 @@
 <tr>
 <td> mixed</td>
 <td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-globals.md#namespaces">namespaces</a></p></td>
+</tr>
+<tr>
+<td> mixed</td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-globals.md#namespacesdir">namespacesDir</a></p></td>
 </tr>
 <tr>
 <td> mixed</td>
@@ -83,7 +91,7 @@ public final  mixed **HIRUDO_ROOT** = dirname(__FILE__
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/init.php#L50" target='_blank'>init.php at line 50</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/init.php#L55" target='_blank'>init.php at line 55</a>
 
 <h3 id="autoloadPath">autoloadPath</h3>
 
@@ -119,7 +127,20 @@ along with Hirudo.  If not, see <http://www.gnu.org/licenses/>.</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/init.php#L56" target='_blank'>init.php at line 56</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/init.php#L60" target='_blank'>init.php at line 60</a>
+
+<h3 id="dir">dir</h3>
+
+
+public  mixed **dir** = Loader::toSinglePath($value
+
+<div class="details">
+</div>
+
+- - -
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/init.php#L65" target='_blank'>init.php at line 65</a>
 
 <h3 id="loader">loader</h3>
 
@@ -155,12 +176,25 @@ along with Hirudo.  If not, see <http://www.gnu.org/licenses/>.</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/init.php#L51" target='_blank'>init.php at line 51</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/init.php#L57" target='_blank'>init.php at line 57</a>
 
 <h3 id="namespaces">namespaces</h3>
 
 
-public  mixed **namespaces** = Yaml::parse($autoloadPath
+public  mixed **namespaces** = array
+
+<div class="details">
+</div>
+
+- - -
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/init.php#L56" target='_blank'>init.php at line 56</a>
+
+<h3 id="namespacesDir">namespacesDir</h3>
+
+
+public  mixed **namespacesDir** = Yaml::parse($autoloadPath
 
 <div class="details">
 </div>
@@ -181,7 +215,7 @@ public  mixed **this**
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/init.php#L53" target='_blank'>init.php at line 53</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/init.php#L59" target='_blank'>init.php at line 59</a>
 
 <h3 id="value">value</h3>
 

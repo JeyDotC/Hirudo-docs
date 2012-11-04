@@ -5,7 +5,7 @@
 **KitchenSink\Models\Entities\Bar**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/KitchenSink/Models/Entities/Bar.php#L10" target='_blank'>src\KitchenSink\Models\Entities\Bar.php at line 10</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/KitchenSink/Models/Entities/Bar.php#L9" target='_blank'>src\KitchenSink\Models\Entities\Bar.php at line 9</a>
 
 #Class Bar#
 
@@ -18,7 +18,7 @@
 
 <p><strong>public  class</strong> <span>Bar</span></p>
 
-<div class="comment" id="overview_description"><p>Description of Bar</p></div>
+<div class="comment" id="overview_description"><p></p></div>
 
 <dl>
 <dt>Author:</dt>
@@ -50,7 +50,7 @@
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/KitchenSink/Models/Entities/Bar.php#L15" target='_blank'>src\KitchenSink\Models\Entities\Bar.php at line 15</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/KitchenSink/Models/Entities/Bar.php#L14" target='_blank'>src\KitchenSink\Models\Entities\Bar.php at line 14</a>
 
 <h3 id="getId()">getId</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>getId</span> ()
@@ -62,7 +62,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/KitchenSink/Models/Entities/Bar.php#L19" target='_blank'>src\KitchenSink\Models\Entities\Bar.php at line 19</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/KitchenSink/Models/Entities/Bar.php#L18" target='_blank'>src\KitchenSink\Models\Entities\Bar.php at line 18</a>
 
 <h3 id="setId()">setId</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>setId</span> (mixed id)
@@ -74,7 +74,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/KitchenSink/Models/Entities/Bar.php#L23" target='_blank'>src\KitchenSink\Models\Entities\Bar.php at line 23</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/KitchenSink/Models/Entities/Bar.php#L22" target='_blank'>src\KitchenSink\Models\Entities\Bar.php at line 22</a>
 
 <h3 id="getName()">getName</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>getName</span> ()
@@ -86,7 +86,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/KitchenSink/Models/Entities/Bar.php#L27" target='_blank'>src\KitchenSink\Models\Entities\Bar.php at line 27</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/KitchenSink/Models/Entities/Bar.php#L26" target='_blank'>src\KitchenSink\Models\Entities\Bar.php at line 26</a>
 
 <h3 id="setName()">setName</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>setName</span> (mixed name)

@@ -8,8 +8,10 @@
 
 <table class="title">
 <tr><th colspan="2" class="title">Class Summary</th></tr>
-<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Events/Annotations/ForCall.md">ForCall</a></td><td class="description">Signals a Task event listener to only listen the event
-when the current call matches the given characteristics.</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Events/Annotations/Listen.md">Listen</a></td><td class="description">Marks a method as an event listener.
+</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Events/Annotations/OverridesListener.md">OverridesListener</a></td><td class="description">Description of Virtual</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Events/Annotations/VirtualListener.md">VirtualListener</a></td><td class="description">Description of Virtual</td></tr>
 </table>
 
 - - -

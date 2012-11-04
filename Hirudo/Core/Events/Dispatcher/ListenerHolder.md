@@ -1,0 +1,307 @@
+
+
+- - -
+
+**Hirudo\Core\Events\Dispatcher\ListenerHolder**
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Events/Dispatcher/HirudoDispatcher.php#L17" target='_blank'>framework\hirudo\Hirudo\Core\Events\Dispatcher\HirudoDispatcher.php at line 17</a>
+
+#Class ListenerHolder#
+
+**ListenerHolder**
+
+
+
+
+- - -
+
+<p><strong>public  class</strong> <span>ListenerHolder</span></p>
+
+
+
+<hr />
+
+<table id="summary_constructor">
+<tr><th colspan="2">Constructor Summary</th></tr>
+<tr>
+<td><span class='k'></span> <span class='nx'>void</span></td>
+<td class="description"><p class="name"><a href="#__construct">__construct</a>(mixed listener, mixed eventName, mixed constraints, bool isDeferred, str virtualId, str overrides)</p></td>
+</tr>
+</table>
+
+<table id="summary_method">
+<tr><th colspan="2">Method Summary</th></tr>
+<tr>
+<td><span class='k'>static </span> <span class='nx'>void</span></td>
+<td class="description"><p class="name"><a href="#create">create</a>(mixed listener, mixed eventName, mixed constraints, str overrides)</p></td>
+</tr>
+<tr>
+<td><span class='k'>static </span> <span class='nx'>void</span></td>
+<td class="description"><p class="name"><a href="#createvirtual">createVirtual</a>(mixed listener, mixed eventName, mixed constraints, mixed virtualId, str overrides)</p></td>
+</tr>
+<tr>
+<td><span class='k'>static </span> <span class='nx'>void</span></td>
+<td class="description"><p class="name"><a href="#createdeferred">createDeferred</a>(mixed listener, mixed eventName, mixed constraints, str overrides)</p></td>
+</tr>
+<tr>
+<td><span class='k'>static </span> <span class='nx'>void</span></td>
+<td class="description"><p class="name"><a href="#createvirtualdeferred">createVirtualDeferred</a>(mixed listener, mixed eventName, mixed constraints, mixed virtualId, str overrides)</p></td>
+</tr>
+<tr>
+<td><span class='k'></span> <span class='nx'>void</span></td>
+<td class="description"><p class="name"><a href="#getoverrides">getOverrides</a>()</p></td>
+</tr>
+<tr>
+<td><span class='k'></span> <span class='nx'>void</span></td>
+<td class="description"><p class="name"><a href="#run">run</a>(Event event)</p></td>
+</tr>
+<tr>
+<td><span class='k'></span> <span class='nx'>void</span></td>
+<td class="description"><p class="name"><a href="#getlistener">getListener</a>()</p></td>
+</tr>
+<tr>
+<td><span class='k'></span> <span class='nx'>void</span></td>
+<td class="description"><p class="name"><a href="#geteventname">getEventName</a>()</p></td>
+</tr>
+<tr>
+<td><span class='k'></span> <span class='nx'>void</span></td>
+<td class="description"><p class="name"><a href="#getconstraints">getConstraints</a>()</p></td>
+</tr>
+<tr>
+<td><span class='k'></span> <span class='nx'>void</span></td>
+<td class="description"><p class="name"><a href="#getisdeferred">getIsDeferred</a>()</p></td>
+</tr>
+<tr>
+<td><span class='k'></span> <span class='nx'>void</span></td>
+<td class="description"><p class="name"><a href="#getisvirtual">getIsVirtual</a>()</p></td>
+</tr>
+<tr>
+<td><span class='k'></span> <span class='nx'>void</span></td>
+<td class="description"><p class="name"><a href="#getvirtualid">getVirtualId</a>()</p></td>
+</tr>
+<tr>
+<td><span class='k'></span> <span class='nx'>void</span></td>
+<td class="description"><p class="name"><a href="#setlistener">setListener</a>(mixed listener)</p></td>
+</tr>
+<tr>
+<td><span class='k'></span> <span class='nx'>void</span></td>
+<td class="description"><p class="name"><a href="#getoverriddenid">getOverriddenId</a>()</p></td>
+</tr>
+<tr>
+<td><span class='k'></span> <span class='nx'>void</span></td>
+<td class="description"><p class="name"><a href="#getpriority">getPriority</a>()</p></td>
+</tr>
+<tr>
+<td><span class='k'></span> <span class='nx'>void</span></td>
+<td class="description"><p class="name"><a href="#setpriority">setPriority</a>(mixed priority)</p></td>
+</tr>
+</table>
+
+<h2>Constructor Detail</h2>
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Events/Dispatcher/HirudoDispatcher.php#L46" target='_blank'>framework\hirudo\Hirudo\Core\Events\Dispatcher\HirudoDispatcher.php at line 46</a>
+
+<h3 id="__construct">__construct</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (mixed listener, mixed eventName, mixed constraints, bool isDeferred, str virtualId, str overrides)
+
+<div class="details">
+
+</div>
+
+- - -
+
+<h2 id="detail_method">Method Detail</h2>
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Events/Dispatcher/HirudoDispatcher.php#L30" target='_blank'>framework\hirudo\Hirudo\Core\Events\Dispatcher\HirudoDispatcher.php at line 30</a>
+
+<h3 id="create()">create</h3>
+<span class='k'>static </span> <span class='nx'>void</span> <span class='nf'>create</span> (mixed listener, mixed eventName, mixed constraints, str overrides)
+
+<div class="details">
+
+</div>
+
+- - -
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Events/Dispatcher/HirudoDispatcher.php#L34" target='_blank'>framework\hirudo\Hirudo\Core\Events\Dispatcher\HirudoDispatcher.php at line 34</a>
+
+<h3 id="createVirtual()">createVirtual</h3>
+<span class='k'>static </span> <span class='nx'>void</span> <span class='nf'>createVirtual</span> (mixed listener, mixed eventName, mixed constraints, mixed virtualId, str overrides)
+
+<div class="details">
+
+</div>
+
+- - -
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Events/Dispatcher/HirudoDispatcher.php#L38" target='_blank'>framework\hirudo\Hirudo\Core\Events\Dispatcher\HirudoDispatcher.php at line 38</a>
+
+<h3 id="createDeferred()">createDeferred</h3>
+<span class='k'>static </span> <span class='nx'>void</span> <span class='nf'>createDeferred</span> (mixed listener, mixed eventName, mixed constraints, str overrides)
+
+<div class="details">
+
+</div>
+
+- - -
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Events/Dispatcher/HirudoDispatcher.php#L42" target='_blank'>framework\hirudo\Hirudo\Core\Events\Dispatcher\HirudoDispatcher.php at line 42</a>
+
+<h3 id="createVirtualDeferred()">createVirtualDeferred</h3>
+<span class='k'>static </span> <span class='nx'>void</span> <span class='nf'>createVirtualDeferred</span> (mixed listener, mixed eventName, mixed constraints, mixed virtualId, str overrides)
+
+<div class="details">
+
+</div>
+
+- - -
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Events/Dispatcher/HirudoDispatcher.php#L58" target='_blank'>framework\hirudo\Hirudo\Core\Events\Dispatcher\HirudoDispatcher.php at line 58</a>
+
+<h3 id="getOverrides()">getOverrides</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>getOverrides</span> ()
+
+<div class="details">
+
+</div>
+
+- - -
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Events/Dispatcher/HirudoDispatcher.php#L62" target='_blank'>framework\hirudo\Hirudo\Core\Events\Dispatcher\HirudoDispatcher.php at line 62</a>
+
+<h3 id="run()">run</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>run</span> (Event event)
+
+<div class="details">
+
+</div>
+
+- - -
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Events/Dispatcher/HirudoDispatcher.php#L69" target='_blank'>framework\hirudo\Hirudo\Core\Events\Dispatcher\HirudoDispatcher.php at line 69</a>
+
+<h3 id="getListener()">getListener</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>getListener</span> ()
+
+<div class="details">
+
+</div>
+
+- - -
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Events/Dispatcher/HirudoDispatcher.php#L73" target='_blank'>framework\hirudo\Hirudo\Core\Events\Dispatcher\HirudoDispatcher.php at line 73</a>
+
+<h3 id="getEventName()">getEventName</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>getEventName</span> ()
+
+<div class="details">
+
+</div>
+
+- - -
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Events/Dispatcher/HirudoDispatcher.php#L77" target='_blank'>framework\hirudo\Hirudo\Core\Events\Dispatcher\HirudoDispatcher.php at line 77</a>
+
+<h3 id="getConstraints()">getConstraints</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>getConstraints</span> ()
+
+<div class="details">
+
+</div>
+
+- - -
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Events/Dispatcher/HirudoDispatcher.php#L81" target='_blank'>framework\hirudo\Hirudo\Core\Events\Dispatcher\HirudoDispatcher.php at line 81</a>
+
+<h3 id="getIsDeferred()">getIsDeferred</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>getIsDeferred</span> ()
+
+<div class="details">
+
+</div>
+
+- - -
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Events/Dispatcher/HirudoDispatcher.php#L85" target='_blank'>framework\hirudo\Hirudo\Core\Events\Dispatcher\HirudoDispatcher.php at line 85</a>
+
+<h3 id="getIsVirtual()">getIsVirtual</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>getIsVirtual</span> ()
+
+<div class="details">
+
+</div>
+
+- - -
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Events/Dispatcher/HirudoDispatcher.php#L89" target='_blank'>framework\hirudo\Hirudo\Core\Events\Dispatcher\HirudoDispatcher.php at line 89</a>
+
+<h3 id="getVirtualId()">getVirtualId</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>getVirtualId</span> ()
+
+<div class="details">
+
+</div>
+
+- - -
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Events/Dispatcher/HirudoDispatcher.php#L93" target='_blank'>framework\hirudo\Hirudo\Core\Events\Dispatcher\HirudoDispatcher.php at line 93</a>
+
+<h3 id="setListener()">setListener</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>setListener</span> (mixed listener)
+
+<div class="details">
+
+</div>
+
+- - -
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Events/Dispatcher/HirudoDispatcher.php#L97" target='_blank'>framework\hirudo\Hirudo\Core\Events\Dispatcher\HirudoDispatcher.php at line 97</a>
+
+<h3 id="getOverriddenId()">getOverriddenId</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>getOverriddenId</span> ()
+
+<div class="details">
+
+</div>
+
+- - -
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Events/Dispatcher/HirudoDispatcher.php#L132" target='_blank'>framework\hirudo\Hirudo\Core\Events\Dispatcher\HirudoDispatcher.php at line 132</a>
+
+<h3 id="getPriority()">getPriority</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>getPriority</span> ()
+
+<div class="details">
+
+</div>
+
+- - -
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Events/Dispatcher/HirudoDispatcher.php#L136" target='_blank'>framework\hirudo\Hirudo\Core\Events\Dispatcher\HirudoDispatcher.php at line 136</a>
+
+<h3 id="setPriority()">setPriority</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>setPriority</span> (mixed priority)
+
+<div class="details">
+
+</div>
+
+- - -
+

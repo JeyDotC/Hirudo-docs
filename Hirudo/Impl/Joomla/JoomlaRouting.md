@@ -78,7 +78,7 @@ and the given module name.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Joomla/JoomlaRouting.php#L51" target='_blank'>framework\hirudo\Hirudo\Impl\Joomla\JoomlaRouting.php at line 51</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Joomla/JoomlaRouting.php#L48" target='_blank'>framework\hirudo\Hirudo\Impl\Joomla\JoomlaRouting.php at line 48</a>
 
 <h3 id="redirect()">redirect</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>redirect</span> (string url)
@@ -94,7 +94,7 @@ and the given module name.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Joomla/JoomlaRouting.php#L56" target='_blank'>framework\hirudo\Hirudo\Impl\Joomla\JoomlaRouting.php at line 56</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Joomla/JoomlaRouting.php#L53" target='_blank'>framework\hirudo\Hirudo\Impl\Joomla\JoomlaRouting.php at line 53</a>
 
 <h3 id="getBaseURL()">getBaseURL</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>getBaseURL</span> ()

@@ -14,7 +14,7 @@
 
 <dl>
 <dt>All Known Subclasses:</dt>
-<dd><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Impl/Joomla/JoomlaRequest.md">Hirudo\Impl\Joomla\JoomlaRequest</a> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Impl/StandAlone/SARequest.md">Hirudo\Impl\StandAlone\SARequest</a> </dd>
+<dd><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Impl/Drupal/DrupalRequest.md">Hirudo\Impl\Drupal\DrupalRequest</a> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Impl/Joomla/JoomlaRequest.md">Hirudo\Impl\Joomla\JoomlaRequest</a> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Impl/StandAlone/SARequest.md">Hirudo\Impl\StandAlone\SARequest</a> </dd>
 </dl>
 
 
@@ -85,7 +85,7 @@ the setAttribute() method.</p></td>
 <td class="description"><p class="name"><a href="#method">method</a>()</p><p class="description">Gets the current HTTP method (GET, POST, PUT, DELETE).</p></td>
 </tr>
 <tr>
-<td><span class='k'>abstract </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/ModuleCall.md>ModuleCall</a></span></td>
+<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/ModuleCall.md>ModuleCall</a></span></td>
 <td class="description"><p class="name"><a href="#buildmodulecall">buildModuleCall</a>()</p><p class="description">Creates a ModuleCall from request parameters, generally from the URL,
 the way this done depends on how this class interprets the URLs.</p></td>
 </tr>
@@ -106,6 +106,10 @@ index.</p></td>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#setsession">setSession</a>(Session session)</p><p class="description"></p></td>
+</tr>
+<tr>
+<td><span class='k'></span> <span class='nx'>void</span></td>
+<td class="description"><p class="name"><a href="#isajax">isAjax</a>()</p></td>
 </tr>
 </table>
 
@@ -327,7 +331,7 @@ the setAttribute() method.</p><dl>
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Context/Request.php#L169" target='_blank'>framework\hirudo\Hirudo\Core\Context\Request.php at line 169</a>
 
 <h3 id="buildModuleCall()">buildModuleCall</h3>
-<span class='k'>abstract </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/ModuleCall.md>ModuleCall</a></span> <span class='nf'>buildModuleCall</span> ()
+<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/ModuleCall.md>ModuleCall</a></span> <span class='nf'>buildModuleCall</span> ()
 
 <div class="details">
 <p>Creates a ModuleCall from request parameters, generally from the URL,
@@ -341,7 +345,7 @@ the way this done depends on how this class interprets the URLs.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Context/Request.php#L177" target='_blank'>framework\hirudo\Hirudo\Core\Context\Request.php at line 177</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Context/Request.php#L185" target='_blank'>framework\hirudo\Hirudo\Core\Context\Request.php at line 185</a>
 
 <h3 id="submitted()">submitted</h3>
 <span class='k'>abstract </span> <span class='nx'>bool</span> <span class='nf'>submitted</span> ()
@@ -359,7 +363,7 @@ the way this done depends on how this class interprets the URLs.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Context/Request.php#L190" target='_blank'>framework\hirudo\Hirudo\Core\Context\Request.php at line 190</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Context/Request.php#L198" target='_blank'>framework\hirudo\Hirudo\Core\Context\Request.php at line 198</a>
 
 <h3 id="getVar()">getVar</h3>
 <span class='k'>protected </span> <span class='nx'>mixed</span> <span class='nf'>getVar</span> (array collection, string index, mixed default)
@@ -381,7 +385,7 @@ index.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Context/Request.php#L205" target='_blank'>framework\hirudo\Hirudo\Core\Context\Request.php at line 205</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Context/Request.php#L213" target='_blank'>framework\hirudo\Hirudo\Core\Context\Request.php at line 213</a>
 
 <h3 id="getSession()">getSession</h3>
 <span class='k'></span> <span class='nx'>Session</span> <span class='nf'>getSession</span> ()
@@ -397,7 +401,7 @@ index.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Context/Request.php#L213" target='_blank'>framework\hirudo\Hirudo\Core\Context\Request.php at line 213</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Context/Request.php#L221" target='_blank'>framework\hirudo\Hirudo\Core\Context\Request.php at line 221</a>
 
 <h3 id="setSession()">setSession</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>setSession</span> (Session session)
@@ -406,6 +410,18 @@ index.</p><dl>
 <p></p><dl>
 <dt>Import(id="session").</dt>
 </dl>
+
+</div>
+
+- - -
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Context/Request.php#L225" target='_blank'>framework\hirudo\Hirudo\Core\Context\Request.php at line 225</a>
+
+<h3 id="isAjax()">isAjax</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>isAjax</span> ()
+
+<div class="details">
 
 </div>
 

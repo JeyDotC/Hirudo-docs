@@ -19,7 +19,7 @@ the PHP string functions.</td></tr>
 
 <table class="title">
 <tr><th colspan="2" class="title">Function Summary</th></tr>
-<tr><td class="name"><a href="package-functions.md#_using">_using</a></td><td class="description">Alias for <a href="../../hirudo/lang/loader.html#using()">Loader::using()</a> function.</td></tr>
+<tr><td class="name"><a href="package-functions.md#_using">_using</a></td><td class="description">Alias for Loader::using() function.</td></tr>
 </table>
 
 <table class="title">

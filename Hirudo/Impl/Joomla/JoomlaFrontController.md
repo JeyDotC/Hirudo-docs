@@ -5,7 +5,7 @@
 **Hirudo\Impl\Joomla\JoomlaFrontController**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Joomla/JoomlaFrontController.php#L51" target='_blank'>framework\hirudo\Hirudo\Impl\Joomla\JoomlaFrontController.php at line 51</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Joomla/JoomlaFrontController.php#L52" target='_blank'>framework\hirudo\Hirudo\Impl\Joomla\JoomlaFrontController.php at line 52</a>
 
 #Class JoomlaFrontController#
 
@@ -55,10 +55,10 @@
 </tr>
 </table>
 
-##Constructor Detail##
+<h2>Constructor Detail</h2>
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Joomla/JoomlaFrontController.php#L63" target='_blank'>framework\hirudo\Hirudo\Impl\Joomla\JoomlaFrontController.php at line 63</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Joomla/JoomlaFrontController.php#L64" target='_blank'>framework\hirudo\Hirudo\Impl\Joomla\JoomlaFrontController.php at line 64</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/ModulesManager.md">ModulesManager</a> manager)
@@ -71,7 +71,7 @@
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Joomla/JoomlaFrontController.php#L78" target='_blank'>framework\hirudo\Hirudo\Impl\Joomla\JoomlaFrontController.php at line 78</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Joomla/JoomlaFrontController.php#L79" target='_blank'>framework\hirudo\Hirudo\Impl\Joomla\JoomlaFrontController.php at line 79</a>
 
 <h3 id="doTask()">doTask</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>doTask</span> ()
@@ -83,7 +83,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Joomla/JoomlaFrontController.php#L94" target='_blank'>framework\hirudo\Hirudo\Impl\Joomla\JoomlaFrontController.php at line 94</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Joomla/JoomlaFrontController.php#L95" target='_blank'>framework\hirudo\Hirudo\Impl\Joomla\JoomlaFrontController.php at line 95</a>
 
 <h3 id="execute()">execute</h3>
 <span class='k'></span> <span class='nx'>mixed</span> <span class='nf'>execute</span> (string task)
@@ -95,7 +95,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Joomla/JoomlaFrontController.php#L107" target='_blank'>framework\hirudo\Hirudo\Impl\Joomla\JoomlaFrontController.php at line 107</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Joomla/JoomlaFrontController.php#L108" target='_blank'>framework\hirudo\Hirudo\Impl\Joomla\JoomlaFrontController.php at line 108</a>
 
 <h3 id="run()">run</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>run</span> ()

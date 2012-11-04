@@ -78,7 +78,7 @@ and the given module name.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/SARouting.php#L46" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\SARouting.php at line 46</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/SARouting.php#L44" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\SARouting.php at line 44</a>
 
 <h3 id="redirect()">redirect</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>redirect</span> (string url)
@@ -94,7 +94,7 @@ and the given module name.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/SARouting.php#L50" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\SARouting.php at line 50</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/SARouting.php#L48" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\SARouting.php at line 48</a>
 
 <h3 id="getBaseURL()">getBaseURL</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>getBaseURL</span> ()

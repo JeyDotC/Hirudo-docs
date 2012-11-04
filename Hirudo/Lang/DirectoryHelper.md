@@ -5,7 +5,7 @@
 **Hirudo\Lang\DirectoryHelper**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Lang/Loader.php#L193" target='_blank'>framework\hirudo\Hirudo\Lang\Loader.php at line 193</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Lang/Loader.php#L205" target='_blank'>framework\hirudo\Hirudo\Lang\Loader.php at line 205</a>
 
 #Class DirectoryHelper#
 
@@ -36,15 +36,19 @@
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>array</span></td>
-<td class="description"><p class="name"><a href="#listfiles">listFiles</a>(int depth)</p><p class="description">Lists all files, ignoring the directories, for the actual DirectoryIterator
+<td class="description"><p class="name"><a href="#listfiles">listFiles</a>(int depth, str filterByExtension, bool trimExtension, bool base)</p><p class="description">Lists all files, ignoring the directories, for the actual DirectoryIterator
 at the specified depth.</p></td>
+</tr>
+<tr>
+<td><span class='k'></span> <span class='nx'>void</span></td>
+<td class="description"><p class="name"><a href="#listdirectories">listDirectories</a>(int depth)</p></td>
 </tr>
 </table>
 
-##Constructor Detail##
+<h2>Constructor Detail</h2>
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Lang/Loader.php#L202" target='_blank'>framework\hirudo\Hirudo\Lang\Loader.php at line 202</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Lang/Loader.php#L214" target='_blank'>framework\hirudo\Hirudo\Lang\Loader.php at line 214</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (RecursiveDirectoryIterator dir)
@@ -61,10 +65,10 @@ at the specified depth.</p></td>
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Lang/Loader.php#L221" target='_blank'>framework\hirudo\Hirudo\Lang\Loader.php at line 221</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Lang/Loader.php#L233" target='_blank'>framework\hirudo\Hirudo\Lang\Loader.php at line 233</a>
 
 <h3 id="listFiles()">listFiles</h3>
-<span class='k'></span> <span class='nx'>array</span> <span class='nf'>listFiles</span> (int depth)
+<span class='k'></span> <span class='nx'>array</span> <span class='nf'>listFiles</span> (int depth, str filterByExtension, bool trimExtension, bool base)
 
 <div class="details">
 <p>Lists all files, ignoring the directories, for the actual DirectoryIterator
@@ -74,6 +78,18 @@ at the specified depth.</p><dl>
 <dt>Returns:</dt>
 <dd>The list of absolute paths to the found files.</dd>
 </dl>
+
+</div>
+
+- - -
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Lang/Loader.php#L241" target='_blank'>framework\hirudo\Hirudo\Lang\Loader.php at line 241</a>
+
+<h3 id="listDirectories()">listDirectories</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>listDirectories</span> (int depth)
+
+<div class="details">
 
 </div>
 

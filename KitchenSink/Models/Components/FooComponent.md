@@ -59,7 +59,7 @@ doctrine binding to Hirudo. Another will be the Restful client.</p></div>
 </tr>
 </table>
 
-##Constructor Detail##
+<h2>Constructor Detail</h2>
 
 
 <a href="https://github.com/JeyDotC/Hirudo/blob/master/src/KitchenSink/Models/Components/FooComponent.php#L26" target='_blank'>src\KitchenSink\Models\Components\FooComponent.php at line 26</a>
