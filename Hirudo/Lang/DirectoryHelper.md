@@ -5,7 +5,7 @@
 **Hirudo\Lang\DirectoryHelper**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Lang/Loader.php#L205" target='_blank'>framework\hirudo\Hirudo\Lang\Loader.php at line 205</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Lang/Loader.php#L253" target='_blank'>framework\Hirudo\Lang\Loader.php at line 253</a>
 
 #Class DirectoryHelper#
 
@@ -48,7 +48,7 @@ at the specified depth.</p></td>
 <h2>Constructor Detail</h2>
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Lang/Loader.php#L214" target='_blank'>framework\hirudo\Hirudo\Lang\Loader.php at line 214</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Lang/Loader.php#L262" target='_blank'>framework\Hirudo\Lang\Loader.php at line 262</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (RecursiveDirectoryIterator dir)
@@ -65,7 +65,7 @@ at the specified depth.</p></td>
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Lang/Loader.php#L233" target='_blank'>framework\hirudo\Hirudo\Lang\Loader.php at line 233</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Lang/Loader.php#L281" target='_blank'>framework\Hirudo\Lang\Loader.php at line 281</a>
 
 <h3 id="listFiles()">listFiles</h3>
 <span class='k'></span> <span class='nx'>array</span> <span class='nf'>listFiles</span> (int depth, str filterByExtension, bool trimExtension, bool base)
@@ -84,7 +84,7 @@ at the specified depth.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Lang/Loader.php#L241" target='_blank'>framework\hirudo\Hirudo\Lang\Loader.php at line 241</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Lang/Loader.php#L289" target='_blank'>framework\Hirudo\Lang\Loader.php at line 289</a>
 
 <h3 id="listDirectories()">listDirectories</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>listDirectories</span> (int depth)

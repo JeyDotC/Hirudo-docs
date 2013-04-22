@@ -5,7 +5,7 @@
 **Hirudo\Core\Events\Dispatcher\FileCachedHirudoDispatcher**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Events/Dispatcher/FileCachedHirudoDispatcher.php#L10" target='_blank'>framework\hirudo\Hirudo\Core\Events\Dispatcher\FileCachedHirudoDispatcher.php at line 10</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Events/Dispatcher/FileCachedHirudoDispatcher.php#L12" target='_blank'>framework\Hirudo\Core\Events\Dispatcher\FileCachedHirudoDispatcher.php at line 12</a>
 
 #Class FileCachedHirudoDispatcher#
 
@@ -55,7 +55,7 @@ EventDispatcher &gt; <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master
 <h2>Constructor Detail</h2>
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Events/Dispatcher/FileCachedHirudoDispatcher.php#L16" target='_blank'>framework\hirudo\Hirudo\Core\Events\Dispatcher\FileCachedHirudoDispatcher.php at line 16</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Events/Dispatcher/FileCachedHirudoDispatcher.php#L18" target='_blank'>framework\Hirudo\Core\Events\Dispatcher\FileCachedHirudoDispatcher.php at line 18</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (mixed cacheDir, bool debug)
@@ -68,7 +68,7 @@ EventDispatcher &gt; <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Events/Dispatcher/FileCachedHirudoDispatcher.php#L28" target='_blank'>framework\hirudo\Hirudo\Core\Events\Dispatcher\FileCachedHirudoDispatcher.php at line 28</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Events/Dispatcher/FileCachedHirudoDispatcher.php#L30" target='_blank'>framework\Hirudo\Core\Events\Dispatcher\FileCachedHirudoDispatcher.php at line 30</a>
 
 <h3 id="loadObjectListeners()">loadObjectListeners</h3>
 <span class='k'>protected </span> <span class='nx'>void</span> <span class='nf'>loadObjectListeners</span> (ReflectionClass reflectedObject, mixed object)

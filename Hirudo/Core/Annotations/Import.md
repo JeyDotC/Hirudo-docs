@@ -5,7 +5,7 @@
 **Hirudo\Core\Annotations\Import**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Annotations/Import.php#L35" target='_blank'>framework\hirudo\Hirudo\Core\Annotations\Import.php at line 35</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Annotations/Import.php#L35" target='_blank'>framework\Hirudo\Core\Annotations\Import.php at line 35</a>
 
 #Class Import#
 
@@ -47,11 +47,16 @@ to inject a dependency.</p></div>
                                 </p><p class="description">The id of the dependency to be injected.
 </p></td>
 </tr>
+<tr>
+<td><span class='k'></span> <span class='nx'>string</span></td>
+<td class="description"><p class="name" ><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Annotations/Import.md#tag"> $tag</a>
+                                </p><p class="description">A dependency tag. </p></td>
+</tr>
 </table>
 
 ##Field Detail##
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Annotations/Import.php#L64" target='_blank'>framework\hirudo\Hirudo\Core\Annotations\Import.php at line 64</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Annotations/Import.php#L73" target='_blank'>framework\Hirudo\Core\Annotations\Import.php at line 73</a>
 
 <h3 id="className">className</h3>
 <span class='k'></span> <span class='nx'>string The fully qualified name of the class to be imported.</span><span class='no'> $className</span><span class='o'> = null</span>
@@ -67,7 +72,7 @@ class with the @Export annotation.</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Annotations/Import.php#L53" target='_blank'>framework\hirudo\Hirudo\Core\Annotations\Import.php at line 53</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Annotations/Import.php#L53" target='_blank'>framework\Hirudo\Core\Annotations\Import.php at line 53</a>
 
 <h3 id="id">id</h3>
 <span class='k'></span> <span class='nx'>string</span><span class='no'> $id</span><span class='o'> = null</span>
@@ -79,6 +84,19 @@ determined is like below:</p><p>If this annotation is applied to a method, the m
 to determine the class of the dependency.</p><p>If this nanotation is applied to a property, the className property of this annotation
 must be set to the fully qualified class name, this is a way to avoid the efford
 of determining the class name based on the doc blocks.</p>
+</div>
+
+- - -
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Annotations/Import.php#L61" target='_blank'>framework\Hirudo\Core\Annotations\Import.php at line 61</a>
+
+<h3 id="tag">tag</h3>
+<span class='k'></span> <span class='nx'>string</span><span class='no'> $tag</span><span class='o'> = null</span>
+
+<div class="details">
+<p>A dependency tag. This is used to load dependencies through a tag instead
+of an id, allowing to have a collection of dependencies related by tag.</p>
 </div>
 
 - - -

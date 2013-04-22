@@ -7,4 +7,5 @@
 <ul>
 <li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Restful/RESTfulComponent.md">Hirudo\Models\Components\Restful\RESTfulComponent</a></li>
 <li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Restful/RequestCodes.md">Hirudo\Models\Components\Restful\RequestCodes</a></li>
+<li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Models/Components/Restful/RestRequest.md">Hirudo\Models\Components\Restful\RestRequest</a></li>
 </ul>

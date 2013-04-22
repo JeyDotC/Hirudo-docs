@@ -5,7 +5,7 @@
 **Hirudo\Impl\Drupal\DrupalRequest**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Drupal/DrupalRequest.php#L35" target='_blank'>framework\hirudo\Hirudo\Impl\Drupal\DrupalRequest.php at line 35</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Drupal/DrupalRequest.php#L35" target='_blank'>framework\Hirudo\Impl\Drupal\DrupalRequest.php at line 35</a>
 
 #Class DrupalRequest#
 
@@ -85,7 +85,7 @@ the way this done depends on how this class interprets the URLs.</p></td>
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Drupal/DrupalRequest.php#L47" target='_blank'>framework\hirudo\Hirudo\Impl\Drupal\DrupalRequest.php at line 47</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Drupal/DrupalRequest.php#L47" target='_blank'>framework\Hirudo\Impl\Drupal\DrupalRequest.php at line 47</a>
 
 <h3 id="instance()">instance</h3>
 <span class='k'>static </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Impl/Drupal/DrupalRequest.md>DrupalRequest</a></span> <span class='nf'>instance</span> ()
@@ -97,7 +97,7 @@ the way this done depends on how this class interprets the URLs.</p></td>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Drupal/DrupalRequest.php#L55" target='_blank'>framework\hirudo\Hirudo\Impl\Drupal\DrupalRequest.php at line 55</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Drupal/DrupalRequest.php#L55" target='_blank'>framework\Hirudo\Impl\Drupal\DrupalRequest.php at line 55</a>
 
 <h3 id="get()">get</h3>
 <span class='k'></span> <span class='nx'>mixed</span> <span class='nf'>get</span> (string name, mixed default)
@@ -116,7 +116,7 @@ the way this done depends on how this class interprets the URLs.</p></td>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Drupal/DrupalRequest.php#L59" target='_blank'>framework\hirudo\Hirudo\Impl\Drupal\DrupalRequest.php at line 59</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Drupal/DrupalRequest.php#L59" target='_blank'>framework\Hirudo\Impl\Drupal\DrupalRequest.php at line 59</a>
 
 <h3 id="post()">post</h3>
 <span class='k'></span> <span class='nx'>mixed</span> <span class='nf'>post</span> (string name, mixed default)
@@ -135,7 +135,7 @@ the way this done depends on how this class interprets the URLs.</p></td>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Drupal/DrupalRequest.php#L63" target='_blank'>framework\hirudo\Hirudo\Impl\Drupal\DrupalRequest.php at line 63</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Drupal/DrupalRequest.php#L63" target='_blank'>framework\Hirudo\Impl\Drupal\DrupalRequest.php at line 63</a>
 
 <h3 id="file()">file</h3>
 <span class='k'></span> <span class='nx'>mixed</span> <span class='nf'>file</span> (string name, mixed default)
@@ -154,7 +154,7 @@ the way this done depends on how this class interprets the URLs.</p></td>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Drupal/DrupalRequest.php#L67" target='_blank'>framework\hirudo\Hirudo\Impl\Drupal\DrupalRequest.php at line 67</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Drupal/DrupalRequest.php#L67" target='_blank'>framework\Hirudo\Impl\Drupal\DrupalRequest.php at line 67</a>
 
 <h3 id="cookie()">cookie</h3>
 <span class='k'></span> <span class='nx'>mixed</span> <span class='nf'>cookie</span> (string name, mixed default)
@@ -173,7 +173,7 @@ the way this done depends on how this class interprets the URLs.</p></td>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Drupal/DrupalRequest.php#L71" target='_blank'>framework\hirudo\Hirudo\Impl\Drupal\DrupalRequest.php at line 71</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Drupal/DrupalRequest.php#L71" target='_blank'>framework\Hirudo\Impl\Drupal\DrupalRequest.php at line 71</a>
 
 <h3 id="env()">env</h3>
 <span class='k'></span> <span class='nx'>mixed</span> <span class='nf'>env</span> (string name, mixed default)
@@ -192,7 +192,7 @@ the way this done depends on how this class interprets the URLs.</p></td>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Drupal/DrupalRequest.php#L75" target='_blank'>framework\hirudo\Hirudo\Impl\Drupal\DrupalRequest.php at line 75</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Drupal/DrupalRequest.php#L75" target='_blank'>framework\Hirudo\Impl\Drupal\DrupalRequest.php at line 75</a>
 
 <h3 id="server()">server</h3>
 <span class='k'></span> <span class='nx'>mixed</span> <span class='nf'>server</span> (string name, mixed default)
@@ -211,7 +211,7 @@ the way this done depends on how this class interprets the URLs.</p></td>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Drupal/DrupalRequest.php#L79" target='_blank'>framework\hirudo\Hirudo\Impl\Drupal\DrupalRequest.php at line 79</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Drupal/DrupalRequest.php#L79" target='_blank'>framework\Hirudo\Impl\Drupal\DrupalRequest.php at line 79</a>
 
 <h3 id="getURI()">getURI</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>getURI</span> ()
@@ -227,7 +227,7 @@ the way this done depends on how this class interprets the URLs.</p></td>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Drupal/DrupalRequest.php#L83" target='_blank'>framework\hirudo\Hirudo\Impl\Drupal\DrupalRequest.php at line 83</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Drupal/DrupalRequest.php#L83" target='_blank'>framework\Hirudo\Impl\Drupal\DrupalRequest.php at line 83</a>
 
 <h3 id="submitted()">submitted</h3>
 <span class='k'></span> <span class='nx'>bool</span> <span class='nf'>submitted</span> ()
@@ -245,7 +245,7 @@ the way this done depends on how this class interprets the URLs.</p></td>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Drupal/DrupalRequest.php#L87" target='_blank'>framework\hirudo\Hirudo\Impl\Drupal\DrupalRequest.php at line 87</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Drupal/DrupalRequest.php#L87" target='_blank'>framework\Hirudo\Impl\Drupal\DrupalRequest.php at line 87</a>
 
 <h3 id="buildModuleCall()">buildModuleCall</h3>
 <span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/ModuleCall.md>ModuleCall</a></span> <span class='nf'>buildModuleCall</span> ()
@@ -254,7 +254,7 @@ the way this done depends on how this class interprets the URLs.</p></td>
 <p>Creates a ModuleCall from request parameters, generally from the URL,
 the way this done depends on how this class interprets the URLs.</p><dl>
 <dt>Returns:</dt>
-<dd>An instance of ModuleCall based on this class interpretation of the URL</dd>
+<dd>An instance of ModuleCall based on this class' interpretation of the URL</dd>
 </dl>
 
 </div>

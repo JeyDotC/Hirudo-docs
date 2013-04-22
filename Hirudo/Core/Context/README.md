@@ -11,6 +11,7 @@
 <tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/AppConfig.md">AppConfig</a></td><td class="description">WARNING: AS THE CONFIGURATION SYSTEM IS NOT COMPLETE, THIS
 CLASS IS SUBJECT TO DRASTIC CHANGES IN THE NEAR FUTURE. </td></tr>
 <tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/Assets.md">Assets</a></td><td class="description">This class creates the script and link tags.</td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/Breadcrumb.md">Breadcrumb</a></td><td class="description"></td></tr>
 <tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/ModuleCall.md">ModuleCall</a></td><td class="description">This class represents a call to a task from a module that
 belongs to an application.</td></tr>
 <tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/ModulesContext.md">ModulesContext</a></td><td class="description">This class holds the instances of the objects that implements
@@ -24,8 +25,9 @@ the Hirudo abstract classes.</td></tr>
 </table>
 
 <table class="title">
-<tr><th colspan="2" class="title">Global Summary</th></tr>
-<tr><td class="name"><a href="package-globals.md#ACTIVE">ACTIVE</a></td><td class="description">Session is active.</td></tr>
+<tr><th colspan="2" class="title">Interface Summary</th></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/Page.md">Page</a></td><td class="description"></td></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/Session.md">Session</a></td><td class="description">Represents a session, the way the data is stored depends on the implementation.</td></tr>
 </table>
 
 - - -

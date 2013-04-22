@@ -5,7 +5,7 @@
 **Hirudo\Core\TemplatingInterface**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/TemplatingInterface.php#L32" target='_blank'>framework\hirudo\Hirudo\Core\TemplatingInterface.php at line 32</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/TemplatingInterface.php#L32" target='_blank'>framework\Hirudo\Core\TemplatingInterface.php at line 32</a>
 
 #Interface TemplatingInterface#
 
@@ -40,6 +40,14 @@ based on the view name.</p></p></div>
 <td class="description"><p class="name"><a href="#display">display</a>(string moduleDir, string view)</p><p class="description">Renders the view and retuns it as a string.</p></td>
 </tr>
 <tr>
+<td><span class='k'></span> <span class='nx'>string</span></td>
+<td class="description"><p class="name"><a href="#pick">pick</a>(array views)</p><p class="description">Renders the first found view.</p></td>
+</tr>
+<tr>
+<td><span class='k'></span> <span class='nx'>string</span></td>
+<td class="description"><p class="name"><a href="#getfileextension">getFileExtension</a>()</p><p class="description"></p></td>
+</tr>
+<tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#addextensionspath">addExtensionsPath</a>(string path)</p><p class="description">Tells to the Templating system the location of an extensions folder, allowing
 it to load and use its extensions.</p></td>
@@ -48,7 +56,7 @@ it to load and use its extensions.</p></td>
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/TemplatingInterface.php#L41" target='_blank'>framework\hirudo\Hirudo\Core\TemplatingInterface.php at line 41</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/TemplatingInterface.php#L41" target='_blank'>framework\Hirudo\Core\TemplatingInterface.php at line 41</a>
 
 <h3 id="assign()">assign</h3>
 <span class='k'></span> <span class='nx'>mixed</span> <span class='nf'>assign</span> (string name, mixed value)
@@ -67,7 +75,7 @@ it to load and use its extensions.</p></td>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/TemplatingInterface.php#L51" target='_blank'>framework\hirudo\Hirudo\Core\TemplatingInterface.php at line 51</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/TemplatingInterface.php#L51" target='_blank'>framework\Hirudo\Core\TemplatingInterface.php at line 51</a>
 
 <h3 id="display()">display</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>display</span> (string moduleDir, string view)
@@ -86,7 +94,41 @@ it to load and use its extensions.</p></td>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/TemplatingInterface.php#L60" target='_blank'>framework\hirudo\Hirudo\Core\TemplatingInterface.php at line 60</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/TemplatingInterface.php#L60" target='_blank'>framework\Hirudo\Core\TemplatingInterface.php at line 60</a>
+
+<h3 id="pick()">pick</h3>
+<span class='k'></span> <span class='nx'>string</span> <span class='nf'>pick</span> (array views)
+
+<div class="details">
+<p>Renders the first found view.</p><dl>
+<dt>Parameters:</dt>
+<dd>views - A list of view file names.</dd>
+<dt>Returns:</dt>
+<dd>The output of the view as a string.</dd>
+</dl>
+
+</div>
+
+- - -
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/TemplatingInterface.php#L65" target='_blank'>framework\Hirudo\Core\TemplatingInterface.php at line 65</a>
+
+<h3 id="getFileExtension()">getFileExtension</h3>
+<span class='k'></span> <span class='nx'>string</span> <span class='nf'>getFileExtension</span> ()
+
+<div class="details">
+<p></p><dl>
+<dt>Returns:</dt>
+<dd>The file extension supported by this template engine.</dd>
+</dl>
+
+</div>
+
+- - -
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/TemplatingInterface.php#L74" target='_blank'>framework\Hirudo\Core\TemplatingInterface.php at line 74</a>
 
 <h3 id="addExtensionsPath()">addExtensionsPath</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>addExtensionsPath</span> (string path)

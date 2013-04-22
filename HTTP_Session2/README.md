@@ -43,10 +43,5 @@ PRIMARY KEY (`id`)
 <tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/HTTP_Session2/HTTP_Session2_Exception.md">HTTP_Session2_Exception</a></td><td class="description">HTTP_Session2_ExceptionPHP version 5</td></tr>
 </table>
 
-<table class="title">
-<tr><th colspan="2" class="title">Global Summary</th></tr>
-<tr><td class="name"><a href="package-globals.md#STARTED">STARTED</a></td><td class="description"></td></tr>
-</table>
-
 - - -
 

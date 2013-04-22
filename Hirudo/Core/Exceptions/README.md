@@ -13,5 +13,10 @@
 <tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Exceptions/ModuleNotFoundException.md">ModuleNotFoundException</a></td><td class="description">Thrown when a an application tries to invoke a non existing module.</td></tr>
 </table>
 
+<table class="title">
+<tr><th colspan="2" class="title">Exception Summary</th></tr>
+<tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Exceptions/TemplateNotFoundException.md">TemplateNotFoundException</a></td><td class="description">Description of TemplateNotFoundException</td></tr>
+</table>
+
 - - -
 

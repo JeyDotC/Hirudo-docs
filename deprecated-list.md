@@ -30,7 +30,11 @@ PRIMARY KEY (`id`)
 <td class="description">Determines if there is any data in the $_POST array.</td>
 </tr>
 <tr>
-<td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Impl/Joomla/JoomlaRequest.md#submitted">Hirudo\Impl\Joomla\JoomlaRequest\submitted</a></td>
+<td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Impl/Joomla/V15/JoomlaRequest.md#submitted">Hirudo\Impl\Joomla\V15\JoomlaRequest\submitted</a></td>
+<td class="description">Determines if there is any data in the $_POST array.</td>
+</tr>
+<tr>
+<td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Impl/Joomla/V30/JoomlaRequest.md#submitted">Hirudo\Impl\Joomla\V30\JoomlaRequest\submitted</a></td>
 <td class="description">Determines if there is any data in the $_POST array.</td>
 </tr>
 <tr>

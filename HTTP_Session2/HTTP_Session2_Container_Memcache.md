@@ -5,7 +5,7 @@
 **HTTP_Session2\HTTP_Session2_Container_Memcache**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/Memcache.php#L38" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Memcache.php at line 38</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/Memcache.php#L38" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Memcache.php at line 38</a>
 
 #Class HTTP_Session2_Container_Memcache#
 
@@ -118,7 +118,7 @@ The options are:
 
 ##Field Detail##
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/Memcache.php#L45" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Memcache.php at line 45</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/Memcache.php#L45" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Memcache.php at line 45</a>
 
 <h3 id="mc">mc</h3>
 <span class='k'>protected </span> <span class='nx'>object Memcache</span><span class='no'> $mc</span><span class='o'> = null</span>
@@ -132,7 +132,7 @@ The options are:
 <h2>Constructor Detail</h2>
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/Memcache.php#L61" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Memcache.php at line 61</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/Memcache.php#L61" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Memcache.php at line 61</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'></span> <span class='nx'>object</span> <span class='nf'>__construct</span> (array options)
@@ -155,7 +155,7 @@ The options are:</p>
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/Memcache.php#L74" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Memcache.php at line 74</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/Memcache.php#L74" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Memcache.php at line 74</a>
 
 <h3 id="connect()">connect</h3>
 <span class='k'>protected </span> <span class='nx'>boolean</span> <span class='nf'>connect</span> (Memcache mc)
@@ -173,7 +173,7 @@ The options are:</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/Memcache.php#L91" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Memcache.php at line 91</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/Memcache.php#L91" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Memcache.php at line 91</a>
 
 <h3 id="setDefaults()">setDefaults</h3>
 <span class='k'>protected </span> <span class='nx'>void</span> <span class='nf'>setDefaults</span> ()
@@ -185,7 +185,7 @@ The options are:</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/Memcache.php#L105" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Memcache.php at line 105</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/Memcache.php#L105" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Memcache.php at line 105</a>
 
 <h3 id="open()">open</h3>
 <span class='k'></span> <span class='nx'>boolean</span> <span class='nf'>open</span> (string save_path, string session_name)
@@ -202,7 +202,7 @@ The options are:</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/Memcache.php#L115" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Memcache.php at line 115</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/Memcache.php#L115" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Memcache.php at line 115</a>
 
 <h3 id="close()">close</h3>
 <span class='k'></span> <span class='nx'>boolean</span> <span class='nf'>close</span> ()
@@ -214,7 +214,7 @@ The options are:</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/Memcache.php#L126" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Memcache.php at line 126</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/Memcache.php#L126" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Memcache.php at line 126</a>
 
 <h3 id="read()">read</h3>
 <span class='k'></span> <span class='nx'>mixed</span> <span class='nf'>read</span> (string id)
@@ -230,7 +230,7 @@ The options are:</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/Memcache.php#L139" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Memcache.php at line 139</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/Memcache.php#L139" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Memcache.php at line 139</a>
 
 <h3 id="write()">write</h3>
 <span class='k'></span> <span class='nx'>boolean</span> <span class='nf'>write</span> (string id, mixed data)
@@ -247,7 +247,7 @@ The options are:</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/Memcache.php#L156" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Memcache.php at line 156</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/Memcache.php#L156" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Memcache.php at line 156</a>
 
 <h3 id="destroy()">destroy</h3>
 <span class='k'></span> <span class='nx'>boolean</span> <span class='nf'>destroy</span> (string id)
@@ -263,7 +263,7 @@ The options are:</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/Memcache.php#L169" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Memcache.php at line 169</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/Memcache.php#L169" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Memcache.php at line 169</a>
 
 <h3 id="gc()">gc</h3>
 <span class='k'></span> <span class='nx'>boolean</span> <span class='nf'>gc</span> (int maxlifetime)
@@ -279,7 +279,7 @@ The options are:</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/Memcache.php#L183" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Memcache.php at line 183</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/Memcache.php#L183" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Memcache.php at line 183</a>
 
 <h3 id="replicate()">replicate</h3>
 <span class='k'></span> <span class='nx'>boolean</span> <span class='nf'>replicate</span> (string target, string id)

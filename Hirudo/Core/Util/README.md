@@ -14,10 +14,5 @@ and a type, being the latter normally used as a CSS class.</td></tr>
 <tr><td class="name"><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Util/RequestBinder.md">RequestBinder</a></td><td class="description"></td></tr>
 </table>
 
-<table class="title">
-<tr><th colspan="2" class="title">Global Summary</th></tr>
-<tr><td class="name"><a href="package-globals.md#INFO">INFO</a></td><td class="description"></td></tr>
-</table>
-
 - - -
 

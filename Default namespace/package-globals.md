@@ -17,16 +17,24 @@
 </tr>
 <tr>
 <td> mixed</td>
-<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-globals.md#autoloadpath">autoloadPath</a></p></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-globals.md#v">V</a></p></td>
 </tr>
 <tr>
 <td> mixed</td>
-<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-globals.md#controller">controller</a></p><p class="description">«Copyright 2012 Jeysson José Guevara Mendivil(JeyDotC)»This file is part of Hirudo.
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-globals.md#composerloader">composerLoader</a></p></td>
+</tr>
+<tr>
+<td> mixed</td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-globals.md#controller">controller</a></p></td>
+</tr>
+<tr>
+<td> mixed</td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-globals.md#controllerclass">controllerClass</a></p></td>
+</tr>
+<tr>
+<td> mixed</td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-globals.md#jversion">jversion</a></p><p class="description">«Copyright 2012 Jeysson José Guevara Mendivil(JeyDotC)»This file is part of Hirudo.
 </p></td>
-</tr>
-<tr>
-<td> mixed</td>
-<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-globals.md#dir">dir</a></p></td>
 </tr>
 <tr>
 <td> mixed</td>
@@ -39,25 +47,13 @@
 </tr>
 <tr>
 <td> mixed</td>
-<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-globals.md#namespaces">namespaces</a></p></td>
-</tr>
-<tr>
-<td> mixed</td>
-<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-globals.md#namespacesdir">namespacesDir</a></p></td>
-</tr>
-<tr>
-<td> mixed</td>
 <td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-globals.md#this">this</a></p></td>
-</tr>
-<tr>
-<td> mixed</td>
-<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-globals.md#value">value</a></p></td>
 </tr>
 </table>
 
 <h2 id="detail_global">Global Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/init.php#L25" target='_blank'>init.php at line 25</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/init.php#L22" target='_blank'>init.php at line 22</a>
 
 <h3 id="DS">DS</h3>
 
@@ -78,7 +74,7 @@ along with Hirudo.  If not, see <http://www.gnu.org/licenses/>.</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/init.php#L29" target='_blank'>init.php at line 29</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/init.php#L26" target='_blank'>init.php at line 26</a>
 
 <h3 id="HIRUDO_ROOT">HIRUDO_ROOT</h3>
 
@@ -91,12 +87,12 @@ public final  mixed **HIRUDO_ROOT** = dirname(__FILE__
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/init.php#L55" target='_blank'>init.php at line 55</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo.php#L30" target='_blank'>hirudo.php at line 30</a>
 
-<h3 id="autoloadPath">autoloadPath</h3>
+<h3 id="V">V</h3>
 
 
-public  mixed **autoloadPath** = Loader::toSinglePath(&quot;ext::config::Autoload&quot;
+public  mixed **V** = &quot;V15&quot;
 
 <div class="details">
 </div>
@@ -104,14 +100,51 @@ public  mixed **autoloadPath** = Loader::toSinglePath(&quot;ext::config::Autoloa
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo.php#L27" target='_blank'>hirudo.php at line 27</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/init.php#L37" target='_blank'>init.php at line 37</a>
+
+<h3 id="composerLoader">composerLoader</h3>
+
+
+public  mixed **composerLoader** = require_once HIRUDO_ROOT . &quot;/vendor/autoload.php&quot;
+
+<div class="details">
+</div>
+
+- - -
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo.php#L36" target='_blank'>hirudo.php at line 36</a>
 
 <h3 id="controller">controller</h3>
 
 
-public  mixed **controller** = new JoomlaFrontController(new ModulesManager(array(
-                    //The request data.
-                    &quot;Hirudo\Impl\Joomla\JoomlaRequest&quot;
+public  mixed **controller** = new $controllerClass(new ModulesManager(&quot;joomla-{$V}&quot;
+
+<div class="details">
+</div>
+
+- - -
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo.php#L35" target='_blank'>hirudo.php at line 35</a>
+
+<h3 id="controllerClass">controllerClass</h3>
+
+
+public  mixed **controllerClass** = &quot;Hirudo\\Impl\\Joomla\\{$V}\\JoomlaFrontController&quot;
+
+<div class="details">
+</div>
+
+- - -
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo.php#L28" target='_blank'>hirudo.php at line 28</a>
+
+<h3 id="jversion">jversion</h3>
+
+
+public  mixed **jversion** = new \JVersion
 
 <div class="details">
 <p>«Copyright 2012 Jeysson José Guevara Mendivil(JeyDotC)»</p><p>This file is part of Hirudo.</p><p>Hirudo is free software: you can redistribute it and/or modify
@@ -127,25 +160,12 @@ along with Hirudo.  If not, see <http://www.gnu.org/licenses/>.</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/init.php#L60" target='_blank'>init.php at line 60</a>
-
-<h3 id="dir">dir</h3>
-
-
-public  mixed **dir** = Loader::toSinglePath($value
-
-<div class="details">
-</div>
-
-- - -
-
-
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/init.php#L65" target='_blank'>init.php at line 65</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/init.php#L41" target='_blank'>init.php at line 41</a>
 
 <h3 id="loader">loader</h3>
 
 
-public  mixed **loader** = new UniversalClassLoader
+public  mixed **loader** = new Symfony\Component\ClassLoader\ApcClassLoader(&quot;hirudo&quot;
 
 <div class="details">
 </div>
@@ -158,9 +178,7 @@ public  mixed **loader** = new UniversalClassLoader
 <h3 id="manager">manager</h3>
 
 
-public  mixed **manager** = new ModulesManager(array(
-            //The request data.
-            'Hirudo\Impl\StandAlone\SARequest'
+public  mixed **manager** = new ModulesManager
 
 <div class="details">
 <p>«Copyright 2012 Jeysson José Guevara Mendivil(JeyDotC)»</p><p>This file is part of Hirudo.</p><p>Hirudo is free software: you can redistribute it and/or modify
@@ -176,51 +194,12 @@ along with Hirudo.  If not, see <http://www.gnu.org/licenses/>.</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/init.php#L57" target='_blank'>init.php at line 57</a>
-
-<h3 id="namespaces">namespaces</h3>
-
-
-public  mixed **namespaces** = array
-
-<div class="details">
-</div>
-
-- - -
-
-
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/init.php#L56" target='_blank'>init.php at line 56</a>
-
-<h3 id="namespacesDir">namespacesDir</h3>
-
-
-public  mixed **namespacesDir** = Yaml::parse($autoloadPath
-
-<div class="details">
-</div>
-
-- - -
-
-
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Joomla/views/_/tmpl/default.php#L3" target='_blank'>framework\hirudo\Hirudo\Impl\Joomla\views\_\tmpl\default.php at line 3</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Joomla/V15/views/_/tmpl/default.php#L3" target='_blank'>framework\Hirudo\Impl\Joomla\V15\views\_\tmpl\default.php at line 3</a>
 
 <h3 id="this">this</h3>
 
 
 public  mixed **this**
-
-<div class="details">
-</div>
-
-- - -
-
-
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/init.php#L59" target='_blank'>init.php at line 59</a>
-
-<h3 id="value">value</h3>
-
-
-public  mixed **value**
 
 <div class="details">
 </div>

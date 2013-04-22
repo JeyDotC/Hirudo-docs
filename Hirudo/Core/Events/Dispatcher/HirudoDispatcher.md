@@ -5,7 +5,7 @@
 **Hirudo\Core\Events\Dispatcher\HirudoDispatcher**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Events/Dispatcher/HirudoDispatcher.php#L147" target='_blank'>framework\hirudo\Hirudo\Core\Events\Dispatcher\HirudoDispatcher.php at line 147</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Events/Dispatcher/HirudoDispatcher.php#L20" target='_blank'>framework\Hirudo\Core\Events\Dispatcher\HirudoDispatcher.php at line 20</a>
 
 #Class HirudoDispatcher#
 
@@ -14,7 +14,7 @@ EventDispatcher &gt; **HirudoDispatcher**
 
 <dl>
 <dt>All Known Subclasses:</dt>
-<dd><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Events/Dispatcher/FileCachedHirudoDispatcher.md">FileCachedHirudoDispatcher</a> </dd>
+<dd><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Events/Dispatcher/CachedHirudoDispatcher.md">CachedHirudoDispatcher</a> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Events/Dispatcher/FileCachedHirudoDispatcher.md">FileCachedHirudoDispatcher</a> </dd>
 </dl>
 
 
@@ -63,7 +63,7 @@ EventDispatcher &gt; **HirudoDispatcher**
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Events/Dispatcher/HirudoDispatcher.php#L160" target='_blank'>framework\hirudo\Hirudo\Core\Events\Dispatcher\HirudoDispatcher.php at line 160</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Events/Dispatcher/HirudoDispatcher.php#L33" target='_blank'>framework\Hirudo\Core\Events\Dispatcher\HirudoDispatcher.php at line 33</a>
 
 <h3 id="addListener()">addListener</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>addListener</span> (mixed eventName, mixed listener, int priority)
@@ -80,7 +80,7 @@ EventDispatcher &gt; **HirudoDispatcher**
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Events/Dispatcher/HirudoDispatcher.php#L183" target='_blank'>framework\hirudo\Hirudo\Core\Events\Dispatcher\HirudoDispatcher.php at line 183</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Events/Dispatcher/HirudoDispatcher.php#L56" target='_blank'>framework\Hirudo\Core\Events\Dispatcher\HirudoDispatcher.php at line 56</a>
 
 <h3 id="subscribeObject()">subscribeObject</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>subscribeObject</span> (mixed object)
@@ -92,7 +92,7 @@ EventDispatcher &gt; **HirudoDispatcher**
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Events/Dispatcher/HirudoDispatcher.php#L194" target='_blank'>framework\hirudo\Hirudo\Core\Events\Dispatcher\HirudoDispatcher.php at line 194</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Events/Dispatcher/HirudoDispatcher.php#L67" target='_blank'>framework\Hirudo\Core\Events\Dispatcher\HirudoDispatcher.php at line 67</a>
 
 <h3 id="loadObjectListeners()">loadObjectListeners</h3>
 <span class='k'>protected </span> <span class='nx'>void</span> <span class='nf'>loadObjectListeners</span> (ReflectionClass reflectedObject, mixed object)
@@ -104,7 +104,7 @@ EventDispatcher &gt; **HirudoDispatcher**
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Events/Dispatcher/HirudoDispatcher.php#L213" target='_blank'>framework\hirudo\Hirudo\Core\Events\Dispatcher\HirudoDispatcher.php at line 213</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Events/Dispatcher/HirudoDispatcher.php#L86" target='_blank'>framework\Hirudo\Core\Events\Dispatcher\HirudoDispatcher.php at line 86</a>
 
 <h3 id="removeListener()">removeListener</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>removeListener</span> (mixed eventName, mixed listener)
@@ -120,7 +120,7 @@ EventDispatcher &gt; **HirudoDispatcher**
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Events/Dispatcher/HirudoDispatcher.php#L245" target='_blank'>framework\hirudo\Hirudo\Core\Events\Dispatcher\HirudoDispatcher.php at line 245</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Events/Dispatcher/HirudoDispatcher.php#L118" target='_blank'>framework\Hirudo\Core\Events\Dispatcher\HirudoDispatcher.php at line 118</a>
 
 <h3 id="doDispatch()">doDispatch</h3>
 <span class='k'>protected </span> <span class='nx'>void</span> <span class='nf'>doDispatch</span> (array[callback] listeners, string eventName, Event event)

@@ -5,7 +5,7 @@
 **HTTP_Session2\HTTP_Session2_Container_Interface**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/Interface.php#L57" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Interface.php at line 57</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/Interface.php#L57" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Interface.php at line 57</a>
 
 #Interface HTTP_Session2_Container_Interface#
 
@@ -70,7 +70,7 @@
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/Interface.php#L67" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Interface.php at line 67</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/Interface.php#L67" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Interface.php at line 67</a>
 
 <h3 id="open()">open</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>open</span> (string save_path, string session_name)
@@ -87,7 +87,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/Interface.php#L74" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Interface.php at line 74</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/Interface.php#L74" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Interface.php at line 74</a>
 
 <h3 id="close()">close</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>close</span> ()
@@ -99,7 +99,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/Interface.php#L83" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Interface.php at line 83</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/Interface.php#L83" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Interface.php at line 83</a>
 
 <h3 id="read()">read</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>read</span> (string id)
@@ -115,7 +115,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/Interface.php#L93" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Interface.php at line 93</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/Interface.php#L93" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Interface.php at line 93</a>
 
 <h3 id="write()">write</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>write</span> (string id, string data)
@@ -132,7 +132,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/Interface.php#L102" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Interface.php at line 102</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/Interface.php#L102" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Interface.php at line 102</a>
 
 <h3 id="destroy()">destroy</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>destroy</span> (string id)
@@ -148,7 +148,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/Interface.php#L111" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Interface.php at line 111</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/Interface.php#L111" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Interface.php at line 111</a>
 
 <h3 id="gc()">gc</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>gc</span> (int maxlifetime)
@@ -164,7 +164,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/Interface.php#L122" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Interface.php at line 122</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container/Interface.php#L122" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container\Interface.php at line 122</a>
 
 <h3 id="replicate()">replicate</h3>
 <span class='k'></span> <span class='nx'>boolean</span> <span class='nf'>replicate</span> (string target, string id)

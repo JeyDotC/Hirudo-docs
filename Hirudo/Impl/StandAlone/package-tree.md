@@ -5,6 +5,7 @@
 <div><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Impl/StandAlone/'>Back to package summary</a></div>
 
 <ul>
+<li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Impl/StandAlone/SAPage.md">Hirudo\Impl\StandAlone\SAPage</a></li>
 <li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/Principal.md">Hirudo\Core\Context\Principal</a><ul>
 <li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Impl/StandAlone/SAPrincipal.md">Hirudo\Impl\StandAlone\SAPrincipal</a></li>
 </ul>

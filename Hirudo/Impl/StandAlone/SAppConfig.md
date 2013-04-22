@@ -5,7 +5,7 @@
 **Hirudo\Impl\StandAlone\SAppConfig**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/SAppConfig.php#L36" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\SAppConfig.php at line 36</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/StandAlone/SAppConfig.php#L36" target='_blank'>framework\Hirudo\Impl\StandAlone\SAppConfig.php at line 36</a>
 
 #Class SAppConfig#
 
@@ -51,15 +51,19 @@
 <td><span class='k'></span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#loadapp">loadApp</a>(mixed appName)</p></td>
 </tr>
+<tr>
+<td><span class='k'></span> <span class='nx'>void</span></td>
+<td class="description"><p class="name"><a href="#loadvalues">loadValues</a>(mixed values)</p><p class="description"></p></td>
+</tr>
 </table>
 
 <table class="inherit">
 <tr><th colspan="2">Methods inherited from Hirudo\Core\Context\AppConfig</th></tr>
-<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/AppConfig.md#__construct">__construct</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/AppConfig.md#get">get</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/AppConfig.md#has">has</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/AppConfig.md#load">load</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/AppConfig.md#loadapp">loadApp</a></td></tr></table>
+<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/AppConfig.md#__construct">__construct</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/AppConfig.md#get">get</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/AppConfig.md#has">has</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/AppConfig.md#load">load</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/AppConfig.md#loadapp">loadApp</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/AppConfig.md#loadvalues">loadValues</a></td></tr></table>
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/SAppConfig.php#L44" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\SAppConfig.php at line 44</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/StandAlone/SAppConfig.php#L44" target='_blank'>framework\Hirudo\Impl\StandAlone\SAppConfig.php at line 44</a>
 
 <h3 id="get()">get</h3>
 <span class='k'></span> <span class='nx'>mixed</span> <span class='nf'>get</span> (string key, mixed default)
@@ -78,7 +82,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/SAppConfig.php#L52" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\SAppConfig.php at line 52</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/StandAlone/SAppConfig.php#L52" target='_blank'>framework\Hirudo\Impl\StandAlone\SAppConfig.php at line 52</a>
 
 <h3 id="load()">load</h3>
 <span class='k'>protected </span> <span class='nx'>void</span> <span class='nf'>load</span> ()
@@ -90,7 +94,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/SAppConfig.php#L57" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\SAppConfig.php at line 57</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/StandAlone/SAppConfig.php#L58" target='_blank'>framework\Hirudo\Impl\StandAlone\SAppConfig.php at line 58</a>
 
 <h3 id="has()">has</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>has</span> (mixed key)
@@ -102,13 +106,25 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/StandAlone/SAppConfig.php#L61" target='_blank'>framework\hirudo\Hirudo\Impl\StandAlone\SAppConfig.php at line 61</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/StandAlone/SAppConfig.php#L62" target='_blank'>framework\Hirudo\Impl\StandAlone\SAppConfig.php at line 62</a>
 
 <h3 id="loadApp()">loadApp</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>loadApp</span> (mixed appName)
 
 <div class="details">
 
+</div>
+
+- - -
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/StandAlone/SAppConfig.php#L87" target='_blank'>framework\Hirudo\Impl\StandAlone\SAppConfig.php at line 87</a>
+
+<h3 id="loadValues()">loadValues</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>loadValues</span> (mixed values)
+
+<div class="details">
+<p></p>
 </div>
 
 - - -

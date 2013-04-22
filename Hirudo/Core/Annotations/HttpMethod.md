@@ -5,7 +5,7 @@
 **Hirudo\Core\Annotations\HttpMethod**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Annotations/HttpMethod.php#L13" target='_blank'>framework\hirudo\Hirudo\Core\Annotations\HttpMethod.php at line 13</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Annotations/HttpMethod.php#L14" target='_blank'>framework\Hirudo\Core\Annotations\HttpMethod.php at line 14</a>
 
 #Class HttpMethod#
 
@@ -55,7 +55,7 @@ more of: GET, POST, PUT or DELETE</p></div>
 
 ##Field Detail##
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Annotations/HttpMethod.php#L15" target='_blank'>framework\hirudo\Hirudo\Core\Annotations\HttpMethod.php at line 15</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Annotations/HttpMethod.php#L16" target='_blank'>framework\Hirudo\Core\Annotations\HttpMethod.php at line 16</a>
 
 <h3 id="value">value</h3>
 <span class='k'></span> <span class='nx'>mixed</span><span class='no'> $value</span><div class="details">
@@ -67,7 +67,7 @@ more of: GET, POST, PUT or DELETE</p></div>
 <h2>Constructor Detail</h2>
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Annotations/HttpMethod.php#L17" target='_blank'>framework\hirudo\Hirudo\Core\Annotations\HttpMethod.php at line 17</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Annotations/HttpMethod.php#L18" target='_blank'>framework\Hirudo\Core\Annotations\HttpMethod.php at line 18</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (mixed values)

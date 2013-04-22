@@ -5,7 +5,7 @@
 **Hirudo\Impl\Drupal\DrupalAppConfig**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Drupal/DrupalAppConfig.php#L37" target='_blank'>framework\hirudo\Hirudo\Impl\Drupal\DrupalAppConfig.php at line 37</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Drupal/DrupalAppConfig.php#L37" target='_blank'>framework\Hirudo\Impl\Drupal\DrupalAppConfig.php at line 37</a>
 
 #Class DrupalAppConfig#
 
@@ -37,29 +37,41 @@
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
 <tr>
-<td><span class='k'>static </span> <span class='nx'>JAppConfig</span></td>
+<td><span class='k'>static </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Impl/Drupal/DrupalAppConfig.md>DrupalAppConfig</a></span></td>
 <td class="description"><p class="name"><a href="#instance">instance</a>()</p><p class="description"></p></td>
+</tr>
+<tr>
+<td><span class='k'>protected </span> <span class='nx'>void</span></td>
+<td class="description"><p class="name"><a href="#load">load</a>()</p><p class="description">Load the configuration data.</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>mixed</span></td>
 <td class="description"><p class="name"><a href="#get">get</a>(string key, mixed default)</p><p class="description">Gets a value from the collected configuration data.</p></td>
 </tr>
 <tr>
-<td><span class='k'>protected </span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#load">load</a>()</p><p class="description">Load the configuration data.</p></td>
+<td><span class='k'></span> <span class='nx'>void</span></td>
+<td class="description"><p class="name"><a href="#has">has</a>(mixed key)</p><p class="description"></p></td>
+</tr>
+<tr>
+<td><span class='k'></span> <span class='nx'>void</span></td>
+<td class="description"><p class="name"><a href="#loadapp">loadApp</a>(mixed appName)</p></td>
+</tr>
+<tr>
+<td><span class='k'></span> <span class='nx'>void</span></td>
+<td class="description"><p class="name"><a href="#loadvalues">loadValues</a>(mixed values)</p><p class="description"></p></td>
 </tr>
 </table>
 
 <table class="inherit">
 <tr><th colspan="2">Methods inherited from Hirudo\Core\Context\AppConfig</th></tr>
-<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/AppConfig.md#__construct">__construct</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/AppConfig.md#get">get</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/AppConfig.md#has">has</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/AppConfig.md#load">load</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/AppConfig.md#loadapp">loadApp</a></td></tr></table>
+<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/AppConfig.md#__construct">__construct</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/AppConfig.md#get">get</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/AppConfig.md#has">has</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/AppConfig.md#load">load</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/AppConfig.md#loadapp">loadApp</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/AppConfig.md#loadvalues">loadValues</a></td></tr></table>
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Drupal/DrupalAppConfig.php#L49" target='_blank'>framework\hirudo\Hirudo\Impl\Drupal\DrupalAppConfig.php at line 49</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Drupal/DrupalAppConfig.php#L51" target='_blank'>framework\Hirudo\Impl\Drupal\DrupalAppConfig.php at line 51</a>
 
 <h3 id="instance()">instance</h3>
-<span class='k'>static </span> <span class='nx'>JAppConfig</span> <span class='nf'>instance</span> ()
+<span class='k'>static </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Impl/Drupal/DrupalAppConfig.md>DrupalAppConfig</a></span> <span class='nf'>instance</span> ()
 
 <div class="details">
 <p></p>
@@ -68,7 +80,19 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Drupal/DrupalAppConfig.php#L63" target='_blank'>framework\hirudo\Hirudo\Impl\Drupal\DrupalAppConfig.php at line 63</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Drupal/DrupalAppConfig.php#L59" target='_blank'>framework\Hirudo\Impl\Drupal\DrupalAppConfig.php at line 59</a>
+
+<h3 id="load()">load</h3>
+<span class='k'>protected </span> <span class='nx'>void</span> <span class='nf'>load</span> ()
+
+<div class="details">
+<p>Load the configuration data.</p>
+</div>
+
+- - -
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Drupal/DrupalAppConfig.php#L62" target='_blank'>framework\Hirudo\Impl\Drupal\DrupalAppConfig.php at line 62</a>
 
 <h3 id="get()">get</h3>
 <span class='k'></span> <span class='nx'>mixed</span> <span class='nf'>get</span> (string key, mixed default)
@@ -87,13 +111,37 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Drupal/DrupalAppConfig.php#L67" target='_blank'>framework\hirudo\Hirudo\Impl\Drupal\DrupalAppConfig.php at line 67</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Drupal/DrupalAppConfig.php#L65" target='_blank'>framework\Hirudo\Impl\Drupal\DrupalAppConfig.php at line 65</a>
 
-<h3 id="load()">load</h3>
-<span class='k'>protected </span> <span class='nx'>void</span> <span class='nf'>load</span> ()
+<h3 id="has()">has</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>has</span> (mixed key)
 
 <div class="details">
-<p>Load the configuration data.</p>
+<p></p>
+</div>
+
+- - -
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Drupal/DrupalAppConfig.php#L69" target='_blank'>framework\Hirudo\Impl\Drupal\DrupalAppConfig.php at line 69</a>
+
+<h3 id="loadApp()">loadApp</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>loadApp</span> (mixed appName)
+
+<div class="details">
+
+</div>
+
+- - -
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Drupal/DrupalAppConfig.php#L73" target='_blank'>framework\Hirudo\Impl\Drupal\DrupalAppConfig.php at line 73</a>
+
+<h3 id="loadValues()">loadValues</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>loadValues</span> (mixed values)
+
+<div class="details">
+<p></p>
 </div>
 
 - - -

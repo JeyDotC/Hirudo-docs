@@ -5,7 +5,7 @@
 **Hirudo\Core\Context\ModuleCall**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Context/ModuleCall.php#L32" target='_blank'>framework\hirudo\Hirudo\Core\Context\ModuleCall.php at line 32</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Context/ModuleCall.php#L32" target='_blank'>framework\Hirudo\Core\Context\ModuleCall.php at line 32</a>
 
 #Class ModuleCall#
 
@@ -44,7 +44,7 @@ belongs to an application.</p></div>
 <td class="description"><p class="name"><a href="#isempty">isEmpty</a>()</p></td>
 </tr>
 <tr>
-<td><span class='k'>static </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/ModuleCall.md>ModuleCall</a></span></td>
+<td><span class='k'>static </span> <span class='nx'>\Hirudo\Core\Context\ModuleCall</span></td>
 <td class="description"><p class="name"><a href="#fromstring">fromString</a>(string string)</p><p class="description">A factory method to create a module call from a string with the "AppName::ModuleName::taskName"
 format.</p></td>
 </tr>
@@ -72,24 +72,12 @@ format.</p></td>
 <td><span class='k'></span> <span class='nx'>void</span></td>
 <td class="description"><p class="name"><a href="#settask">setTask</a>(string task)</p><p class="description">Sets the name of the requested task.</p></td>
 </tr>
-<tr>
-<td><span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Exceptions/HirudoException.md>HirudoException</a></span></td>
-<td class="description"><p class="name"><a href="#getlastunhandledexception">getLastUnhandledException</a>()</p><p class="description">Gets the last Unhandled exception from a previous module execution.</p></td>
-</tr>
-<tr>
-<td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#setlastunhandledexception">setLastUnhandledException</a>(<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Exceptions/HirudoException.md">HirudoException</a> lastUnhandledException)</p><p class="description">Sets the last Unhandled exception from a previous module execution.</p></td>
-</tr>
-<tr>
-<td><span class='k'></span> <span class='nx'>boolean</span></td>
-<td class="description"><p class="name"><a href="#hasunhandledexception">hasUnhandledException</a>()</p><p class="description">Were there an exception from a previous module execution?</p></td>
-</tr>
 </table>
 
 <h2>Constructor Detail</h2>
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Context/ModuleCall.php#L51" target='_blank'>framework\hirudo\Hirudo\Core\Context\ModuleCall.php at line 51</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Context/ModuleCall.php#L46" target='_blank'>framework\Hirudo\Core\Context\ModuleCall.php at line 46</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (string app, string module, string task, UnderscoreException lastUnhandledException)
@@ -109,7 +97,7 @@ format.</p></td>
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Context/ModuleCall.php#L58" target='_blank'>framework\hirudo\Hirudo\Core\Context\ModuleCall.php at line 58</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Context/ModuleCall.php#L52" target='_blank'>framework\Hirudo\Core\Context\ModuleCall.php at line 52</a>
 
 <h3 id="isEmpty()">isEmpty</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>isEmpty</span> ()
@@ -121,10 +109,10 @@ format.</p></td>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Context/ModuleCall.php#L69" target='_blank'>framework\hirudo\Hirudo\Core\Context\ModuleCall.php at line 69</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Context/ModuleCall.php#L63" target='_blank'>framework\Hirudo\Core\Context\ModuleCall.php at line 63</a>
 
 <h3 id="fromString()">fromString</h3>
-<span class='k'>static </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/ModuleCall.md>ModuleCall</a></span> <span class='nf'>fromString</span> (string string)
+<span class='k'>static </span> <span class='nx'>\Hirudo\Core\Context\ModuleCall</span> <span class='nf'>fromString</span> (string string)
 
 <div class="details">
 <p>A factory method to create a module call from a string with the "AppName::ModuleName::taskName"
@@ -140,7 +128,7 @@ format.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Context/ModuleCall.php#L79" target='_blank'>framework\hirudo\Hirudo\Core\Context\ModuleCall.php at line 79</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Context/ModuleCall.php#L73" target='_blank'>framework\Hirudo\Core\Context\ModuleCall.php at line 73</a>
 
 <h3 id="getApp()">getApp</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>getApp</span> ()
@@ -156,7 +144,7 @@ format.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Context/ModuleCall.php#L88" target='_blank'>framework\hirudo\Hirudo\Core\Context\ModuleCall.php at line 88</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Context/ModuleCall.php#L82" target='_blank'>framework\Hirudo\Core\Context\ModuleCall.php at line 82</a>
 
 <h3 id="setApp()">setApp</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>setApp</span> (string app)
@@ -172,7 +160,7 @@ format.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Context/ModuleCall.php#L97" target='_blank'>framework\hirudo\Hirudo\Core\Context\ModuleCall.php at line 97</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Context/ModuleCall.php#L91" target='_blank'>framework\Hirudo\Core\Context\ModuleCall.php at line 91</a>
 
 <h3 id="getModule()">getModule</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>getModule</span> ()
@@ -188,7 +176,7 @@ format.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Context/ModuleCall.php#L106" target='_blank'>framework\hirudo\Hirudo\Core\Context\ModuleCall.php at line 106</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Context/ModuleCall.php#L100" target='_blank'>framework\Hirudo\Core\Context\ModuleCall.php at line 100</a>
 
 <h3 id="setModule()">setModule</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>setModule</span> (string module)
@@ -204,7 +192,7 @@ format.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Context/ModuleCall.php#L115" target='_blank'>framework\hirudo\Hirudo\Core\Context\ModuleCall.php at line 115</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Context/ModuleCall.php#L109" target='_blank'>framework\Hirudo\Core\Context\ModuleCall.php at line 109</a>
 
 <h3 id="getTask()">getTask</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>getTask</span> ()
@@ -220,7 +208,7 @@ format.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Context/ModuleCall.php#L124" target='_blank'>framework\hirudo\Hirudo\Core\Context\ModuleCall.php at line 124</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Context/ModuleCall.php#L118" target='_blank'>framework\Hirudo\Core\Context\ModuleCall.php at line 118</a>
 
 <h3 id="setTask()">setTask</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>setTask</span> (string task)
@@ -231,46 +219,6 @@ format.</p><dl>
 <dd>task - The task name.</dd>
 </dl>
 
-</div>
-
-- - -
-
-
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Context/ModuleCall.php#L133" target='_blank'>framework\hirudo\Hirudo\Core\Context\ModuleCall.php at line 133</a>
-
-<h3 id="getLastUnhandledException()">getLastUnhandledException</h3>
-<span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Exceptions/HirudoException.md>HirudoException</a></span> <span class='nf'>getLastUnhandledException</span> ()
-
-<div class="details">
-<p>Gets the last Unhandled exception from a previous module execution.</p><dl>
-<dt>Returns:</dt>
-<dd>An instance of HirudoException, null if there were no exceptions on a previous module excecution.</dd>
-</dl>
-
-</div>
-
-- - -
-
-
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Context/ModuleCall.php#L142" target='_blank'>framework\hirudo\Hirudo\Core\Context\ModuleCall.php at line 142</a>
-
-<h3 id="setLastUnhandledException()">setLastUnhandledException</h3>
-<span class='k'></span> <span class='nx'>void</span> <span class='nf'>setLastUnhandledException</span> (<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Exceptions/HirudoException.md">HirudoException</a> lastUnhandledException)
-
-<div class="details">
-<p>Sets the last Unhandled exception from a previous module execution.</p>
-</div>
-
-- - -
-
-
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Context/ModuleCall.php#L151" target='_blank'>framework\hirudo\Hirudo\Core\Context\ModuleCall.php at line 151</a>
-
-<h3 id="hasUnhandledException()">hasUnhandledException</h3>
-<span class='k'></span> <span class='nx'>boolean</span> <span class='nf'>hasUnhandledException</span> ()
-
-<div class="details">
-<p>Were there an exception from a previous module execution?</p>
 </div>
 
 - - -

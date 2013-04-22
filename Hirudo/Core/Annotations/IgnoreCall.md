@@ -5,7 +5,7 @@
 **Hirudo\Core\Annotations\IgnoreCall**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Annotations/IgnoreCall.php#L14" target='_blank'>framework\hirudo\Hirudo\Core\Annotations\IgnoreCall.php at line 14</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Annotations/IgnoreCall.php#L14" target='_blank'>framework\Hirudo\Core\Annotations\IgnoreCall.php at line 14</a>
 
 #Class IgnoreCall#
 

@@ -31,7 +31,7 @@ Foo entity as the main subject.</p></div>
 
 <table class="inherit">
 <tr><th colspan="2">Fields inherited from Hirudo\Core\Module</th></tr>
-<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Module.md#context">context</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Module.md#currentuser">currentUser</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Module.md#headers">headers</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Module.md#request">request</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Module.md#route">route</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Module.md#session">session</a></td></tr></table>
+<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Module.md#context">context</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Module.md#currentuser">currentUser</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Module.md#headers">headers</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Module.md#page">page</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Module.md#request">request</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Module.md#route">route</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Module.md#session">session</a></td></tr></table>
 
 <table id="summary_method">
 <tr><th colspan="2">Method Summary</th></tr>
@@ -50,7 +50,7 @@ Foo entity as the main subject.</p></div>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#update">update</a>(type id)</p><p class="description">Displays the foo editing page.</p></td>
+<td class="description"><p class="name"><a href="#edit">edit</a>(type id)</p><p class="description">Displays the foo editing page.</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
@@ -58,14 +58,18 @@ Foo entity as the main subject.</p></div>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#save">save</a>(<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/KitchenSink/Models/Entities/Foo.md">Foo</a> foo)</p><p class="description">Saves a foo.
+<td class="description"><p class="name"><a href="#save">save</a>(ViewModels\FooViewModel foo)</p><p class="description">Saves a new foo.
 </p></td>
+</tr>
+<tr>
+<td><span class='k'></span> <span class='nx'>void</span></td>
+<td class="description"><p class="name"><a href="#update">update</a>(ViewModels\FooViewModel foo)</p><p class="description"></p></td>
 </tr>
 </table>
 
 <table class="inherit">
 <tr><th colspan="2">Methods inherited from Hirudo\Core\Module</th></tr>
-<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Module.md#addmessage">addMessage</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Module.md#assign">assign</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Module.md#assignmany">assignMany</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Module.md#component">component</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Module.md#createmodulefromclassname">createModuleFromClassName</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Module.md#display">display</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Module.md#getappname">getAppName</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Module.md#getmoduledir">getModuleDir</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Module.md#getname">getName</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Module.md#gettask">getTask</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Module.md#onmoduleready">onModuleReady</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Module.md#setdefaulttask">setDefaultTask</a></td></tr></table>
+<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Module.md#addmessage">addMessage</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Module.md#assign">assign</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Module.md#assignmany">assignMany</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Module.md#component">component</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Module.md#createmodulefromclassname">createModuleFromClassName</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Module.md#display">display</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Module.md#getappname">getAppName</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Module.md#getmoduledir">getModuleDir</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Module.md#getname">getName</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Module.md#gettask">getTask</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Module.md#onmoduleready">onModuleReady</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Module.md#redirect">redirect</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Module.md#setdefaulttask">setDefaultTask</a></td></tr></table>
 
 <h2 id="detail_method">Method Detail</h2>
 
@@ -109,10 +113,10 @@ default value, null is used.</p><p>Anyway, you can also programatically get the 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/KitchenSink/Modules/CrudModule/CrudModule.php#L88" target='_blank'>src\KitchenSink\Modules\CrudModule\CrudModule.php at line 88</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/KitchenSink/Modules/CrudModule/CrudModule.php#L95" target='_blank'>src\KitchenSink\Modules\CrudModule\CrudModule.php at line 95</a>
 
-<h3 id="update()">update</h3>
-<span class='k'></span> <span class='nx'>void</span> <span class='nf'>update</span> (type id)
+<h3 id="edit()">edit</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>edit</span> (type id)
 
 <div class="details">
 <p>Displays the foo editing page.</p>
@@ -121,7 +125,7 @@ default value, null is used.</p><p>Anyway, you can also programatically get the 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/KitchenSink/Modules/CrudModule/CrudModule.php#L102" target='_blank'>src\KitchenSink\Modules\CrudModule\CrudModule.php at line 102</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/KitchenSink/Modules/CrudModule/CrudModule.php#L109" target='_blank'>src\KitchenSink\Modules\CrudModule\CrudModule.php at line 109</a>
 
 <h3 id="remove()">remove</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>remove</span> (type id)
@@ -133,17 +137,32 @@ default value, null is used.</p><p>Anyway, you can also programatically get the 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/KitchenSink/Modules/CrudModule/CrudModule.php#L129" target='_blank'>src\KitchenSink\Modules\CrudModule\CrudModule.php at line 129</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/KitchenSink/Modules/CrudModule/CrudModule.php#L136" target='_blank'>src\KitchenSink\Modules\CrudModule\CrudModule.php at line 136</a>
 
 <h3 id="save()">save</h3>
-<span class='k'></span> <span class='nx'>void</span> <span class='nf'>save</span> (<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/KitchenSink/Models/Entities/Foo.md">Foo</a> foo)
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>save</span> (ViewModels\FooViewModel foo)
 
 <div class="details">
-<p>Saves a foo.</p><p>Note the presence of a type hinted $foo param. For these cases, the parameter
+<p>Saves a new foo.</p><p>Note the presence of a type hinted $foo param. For these cases, the parameter
 is resolved from post by obtaining an array which name coincides with the
-param name. The properties are set using the keys of such array.</p><p>Also note the presence of the @HttpPost annotation. That annotation indicates
+param name. The properties are set using the keys of such array.</p><p>Also note the presence of the HttpPost annotation. That annotation indicates
 that this method only accepts POST requests. Any atempt to access this method
 via GET, will cause an exception.</p><dl>
+<dt>HttpPost.</dt>
+</dl>
+
+</div>
+
+- - -
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/KitchenSink/Modules/CrudModule/CrudModule.php#L149" target='_blank'>src\KitchenSink\Modules\CrudModule\CrudModule.php at line 149</a>
+
+<h3 id="update()">update</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>update</span> (ViewModels\FooViewModel foo)
+
+<div class="details">
+<p></p><dl>
 <dt>HttpPost.</dt>
 </dl>
 

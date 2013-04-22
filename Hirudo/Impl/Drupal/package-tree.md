@@ -13,10 +13,7 @@
 <li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Impl/Drupal/DrupalAssets.md">Hirudo\Impl\Drupal\DrupalAssets</a></li>
 </ul>
 </li>
-<li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/ModulesManager.md">Hirudo\Core\ModulesManager</a><ul>
-<li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Impl/Drupal/DrupalFrontController.md">Hirudo\Impl\Drupal\DrupalFrontController</a></li>
-</ul>
-</li>
+<li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Impl/Drupal/DrupalPage.md">Hirudo\Impl\Drupal\DrupalPage</a></li>
 <li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/Principal.md">Hirudo\Core\Context\Principal</a><ul>
 <li><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Impl/Drupal/DrupalPrincipal.md">Hirudo\Impl\Drupal\DrupalPrincipal</a></li>
 </ul>

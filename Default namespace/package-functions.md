@@ -7,6 +7,25 @@
 <table id="summary_function" class="title">
 <tr><th colspan="2" class="title">Function Summary</th></tr>
 <tr>
+<td><span class='k'></span> <span class='nx'>mixed</span></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-functions.md#if_">if_</a>(boolean condition, mixed isTrue, mixed isFalse)</p><p class="description">Represents a ternary operator.
+</p></td>
+</tr>
+<tr>
+<td><span class='k'></span> <span class='nx'>mixed</span></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-functions.md#new_">new_</a>(string className, mixed _)</p><p class="description">This function is intended to be used in a template to create new instances of
+objects.
+</p></td>
+</tr>
+<tr>
+<td><span class='k'></span> <span class='nx'>void</span></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-functions.md#smarty_block_page_breadcrumbs">smarty_block_page_breadcrumbs</a>(mixed params, mixed content, Smarty_Internal_Template template, mixed repeat)</p></td>
+</tr>
+<tr>
+<td><span class='k'></span> <span class='nx'>void</span></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-functions.md#smarty_block_page_messages">smarty_block_page_messages</a>(mixed params, mixed content, Smarty_Internal_Template template, mixed repeat)</p></td>
+</tr>
+<tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
 <td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-functions.md#smarty_function_bind">smarty_function_bind</a>(array params, Smarty_Internal_Template template)</p><p class="description">Binds a field to an entity property, Generally a parameter
 of a task. </p></td>
@@ -18,6 +37,18 @@ of a task. </p></td>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
 <td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-functions.md#smarty_function_js">smarty_function_js</a>(array params, type template)</p><p class="description">Generates a script tag. </p></td>
+</tr>
+<tr>
+<td><span class='k'></span> <span class='nx'>void</span></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-functions.md#smarty_function_page_add_breadcrumb">smarty_function_page_add_breadcrumb</a>(mixed params, mixed template)</p></td>
+</tr>
+<tr>
+<td><span class='k'></span> <span class='nx'>void</span></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-functions.md#smarty_function_page_add_message">smarty_function_page_add_message</a>(mixed params, mixed template)</p></td>
+</tr>
+<tr>
+<td><span class='k'></span> <span class='nx'>void</span></td>
+<td class="description"><p class="name"><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Default namespace/package-functions.md#smarty_function_page_title">smarty_function_page_title</a>(mixed params, mixed template)</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>string</span></td>
@@ -45,7 +76,65 @@ module and the view name, so any view from any module can be included or inherit
 
 <h2 id="detail_function">Function Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Common/Templating/SmartyTemplatingPlugins/function.bind.php#L40" target='_blank'>framework\hirudo\Hirudo\Impl\Common\Templating\SmartyTemplatingPlugins\function.bind.php at line 40</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Common/Templating/helperFunctions.php#L32" target='_blank'>framework\Hirudo\Impl\Common\Templating\helperFunctions.php at line 32</a>
+
+<h3 id="if_()">if_</h3>
+<span class='k'></span> <span class='nx'>mixed</span> if_ (boolean condition, mixed isTrue, mixed isFalse)
+
+<div class="details">
+<p>Represents a ternary operator.</p><p>Usage: {$value = if_($myCondition == true, "A value", "else value which is optional.")}</p>
+<dl>
+<dt>Parameters:</dt>
+<dd>condition - the condition to be tested.</dd>
+<dd>isTrue - The value returned if true.</dd>
+<dd>isFalse - The value returned if false.</dd>
+</dl>
+</div>
+
+- - -
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Common/Templating/helperFunctions.php#L14" target='_blank'>framework\Hirudo\Impl\Common\Templating\helperFunctions.php at line 14</a>
+
+<h3 id="new_()">new_</h3>
+<span class='k'></span> <span class='nx'>mixed</span> new_ (string className, mixed _)
+
+<div class="details">
+<p>This function is intended to be used in a template to create new instances of
+objects.</p><p>Usage: {$value = new_("My\Class", $param1, "Another param")}</p>
+<dl>
+<dt>Parameters:</dt>
+<dd>className - The class to be instantiated.</dd>
+<dd>_ - Constructor parameters.</dd>
+</dl>
+</div>
+
+- - -
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Common/Templating/SmartyTemplatingPlugins/block.page_breadcrumbs.php#L3" target='_blank'>framework\Hirudo\Impl\Common\Templating\SmartyTemplatingPlugins\block.page_breadcrumbs.php at line 3</a>
+
+<h3 id="smarty_block_page_breadcrumbs()">smarty_block_page_breadcrumbs</h3>
+<span class='k'></span> <span class='nx'>void</span> smarty_block_page_breadcrumbs (mixed params, mixed content, Smarty_Internal_Template template, mixed repeat)
+
+<div class="details">
+</div>
+
+- - -
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Common/Templating/SmartyTemplatingPlugins/block.page_messages.php#L3" target='_blank'>framework\Hirudo\Impl\Common\Templating\SmartyTemplatingPlugins\block.page_messages.php at line 3</a>
+
+<h3 id="smarty_block_page_messages()">smarty_block_page_messages</h3>
+<span class='k'></span> <span class='nx'>void</span> smarty_block_page_messages (mixed params, mixed content, Smarty_Internal_Template template, mixed repeat)
+
+<div class="details">
+</div>
+
+- - -
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Drupal/Templating/SmartyTemplatingPlugins/function.bind.php#L40" target='_blank'>framework\Hirudo\Impl\Drupal\Templating\SmartyTemplatingPlugins\function.bind.php at line 40</a>
 
 <h3 id="smarty_function_bind()">smarty_function_bind</h3>
 <span class='k'></span> <span class='nx'>string</span> smarty_function_bind (array params, Smarty_Internal_Template template)
@@ -70,7 +159,7 @@ naming, like this:
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Common/Templating/SmartyTemplatingPlugins/function.css.php#L16" target='_blank'>framework\hirudo\Hirudo\Impl\Common\Templating\SmartyTemplatingPlugins\function.css.php at line 16</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Drupal/Templating/SmartyTemplatingPlugins/function.css.php#L16" target='_blank'>framework\Hirudo\Impl\Drupal\Templating\SmartyTemplatingPlugins\function.css.php at line 16</a>
 
 <h3 id="smarty_function_css()">smarty_function_css</h3>
 <span class='k'></span> <span class='nx'>string</span> smarty_function_css (array params, type template)
@@ -89,7 +178,7 @@ Usage: <code>{css file="path/to/my/cssFile.css"}</code></p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Common/Templating/SmartyTemplatingPlugins/function.js.php#L16" target='_blank'>framework\hirudo\Hirudo\Impl\Common\Templating\SmartyTemplatingPlugins\function.js.php at line 16</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Drupal/Templating/SmartyTemplatingPlugins/function.js.php#L16" target='_blank'>framework\Hirudo\Impl\Drupal\Templating\SmartyTemplatingPlugins\function.js.php at line 16</a>
 
 <h3 id="smarty_function_js()">smarty_function_js</h3>
 <span class='k'></span> <span class='nx'>string</span> smarty_function_js (array params, type template)
@@ -108,7 +197,40 @@ Usage: <code>{script file="path/to/my/jsFile.js"}</code></p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Common/Templating/SmartyTemplatingPlugins/function.url.php#L45" target='_blank'>framework\hirudo\Hirudo\Impl\Common\Templating\SmartyTemplatingPlugins\function.url.php at line 45</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Common/Templating/SmartyTemplatingPlugins/function.page_add_breadcrumb.php#L6" target='_blank'>framework\Hirudo\Impl\Common\Templating\SmartyTemplatingPlugins\function.page_add_breadcrumb.php at line 6</a>
+
+<h3 id="smarty_function_page_add_breadcrumb()">smarty_function_page_add_breadcrumb</h3>
+<span class='k'></span> <span class='nx'>void</span> smarty_function_page_add_breadcrumb (mixed params, mixed template)
+
+<div class="details">
+</div>
+
+- - -
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Common/Templating/SmartyTemplatingPlugins/function.page_add_message.php#L7" target='_blank'>framework\Hirudo\Impl\Common\Templating\SmartyTemplatingPlugins\function.page_add_message.php at line 7</a>
+
+<h3 id="smarty_function_page_add_message()">smarty_function_page_add_message</h3>
+<span class='k'></span> <span class='nx'>void</span> smarty_function_page_add_message (mixed params, mixed template)
+
+<div class="details">
+</div>
+
+- - -
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Common/Templating/SmartyTemplatingPlugins/function.page_title.php#L3" target='_blank'>framework\Hirudo\Impl\Common\Templating\SmartyTemplatingPlugins\function.page_title.php at line 3</a>
+
+<h3 id="smarty_function_page_title()">smarty_function_page_title</h3>
+<span class='k'></span> <span class='nx'>void</span> smarty_function_page_title (mixed params, mixed template)
+
+<div class="details">
+</div>
+
+- - -
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Drupal/Templating/SmartyTemplatingPlugins/function.url.php#L45" target='_blank'>framework\Hirudo\Impl\Drupal\Templating\SmartyTemplatingPlugins\function.url.php at line 45</a>
 
 <h3 id="smarty_function_url()">smarty_function_url</h3>
 <span class='k'></span> <span class='nx'>string</span> smarty_function_url (array params, Smarty_Internal_Template template)
@@ -138,7 +260,7 @@ array(
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Common/Templating/SmartyTemplatingPlugins/modifier.toAssetPath.php#L39" target='_blank'>framework\hirudo\Hirudo\Impl\Common\Templating\SmartyTemplatingPlugins\modifier.toAssetPath.php at line 39</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Drupal/Templating/SmartyTemplatingPlugins/modifier.toAssetPath.php#L39" target='_blank'>framework\Hirudo\Impl\Drupal\Templating\SmartyTemplatingPlugins\modifier.toAssetPath.php at line 39</a>
 
 <h3 id="smarty_modifier_toAssetPath()">smarty_modifier_toAssetPath</h3>
 <span class='k'></span> <span class='nx'>string</span> smarty_modifier_toAssetPath (string string)
@@ -153,7 +275,7 @@ module and the view name, so any view from any module can be included or inherit
 <dt>Returns:</dt>
 <dd>The resulting path.</dd>
 <dt>See Also:</dt>
-<dd>For details about the string format required by this method.</dd>
+<dd><a href="../hirudo/lang/loader.html#using()">For details about the string format required by this method.</a></dd>
 <dt>Throws:</dt>
 <dd><a href="../hirudo/lang/invalidpathexception.html">InvalidPathException</a> - If $string is not a string, is null or is empty.</dd>
 <dd>LogicException - If $extension is not a string.</dd>
@@ -163,7 +285,7 @@ module and the view name, so any view from any module can be included or inherit
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Common/Templating/SmartyTemplatingPlugins/modifier.toPath.php#L39" target='_blank'>framework\hirudo\Hirudo\Impl\Common\Templating\SmartyTemplatingPlugins\modifier.toPath.php at line 39</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Drupal/Templating/SmartyTemplatingPlugins/modifier.toPath.php#L39" target='_blank'>framework\Hirudo\Impl\Drupal\Templating\SmartyTemplatingPlugins\modifier.toPath.php at line 39</a>
 
 <h3 id="smarty_modifier_toPath()">smarty_modifier_toPath</h3>
 <span class='k'></span> <span class='nx'>string</span> smarty_modifier_toPath (string string, string extension)
@@ -178,7 +300,7 @@ module and the view name, so any view from any module can be included or inherit
 <dt>Returns:</dt>
 <dd>The resulting path.</dd>
 <dt>See Also:</dt>
-<dd>For details about the string format required by this method.</dd>
+<dd><a href="../hirudo/lang/loader.html#using()">For details about the string format required by this method.</a></dd>
 <dt>Throws:</dt>
 <dd><a href="../hirudo/lang/invalidpathexception.html">InvalidPathException</a> - If $string is not a string, is null or is empty.</dd>
 <dd>LogicException - If $extension is not a string.</dd>
@@ -188,7 +310,7 @@ module and the view name, so any view from any module can be included or inherit
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Common/Templating/SmartyTemplatingPlugins/modifier.toViewPath.php#L39" target='_blank'>framework\hirudo\Hirudo\Impl\Common\Templating\SmartyTemplatingPlugins\modifier.toViewPath.php at line 39</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Drupal/Templating/SmartyTemplatingPlugins/modifier.toViewPath.php#L39" target='_blank'>framework\Hirudo\Impl\Drupal\Templating\SmartyTemplatingPlugins\modifier.toViewPath.php at line 39</a>
 
 <h3 id="smarty_modifier_toViewPath()">smarty_modifier_toViewPath</h3>
 <span class='k'></span> <span class='nx'>string</span> smarty_modifier_toViewPath (string string)
@@ -203,7 +325,7 @@ module and the view name, so any view from any module can be included or inherit
 <dt>Returns:</dt>
 <dd>The resulting path.</dd>
 <dt>See Also:</dt>
-<dd>For details about the string format required by this method.</dd>
+<dd><a href="../hirudo/lang/loader.html#using()">For details about the string format required by this method.</a></dd>
 <dt>Throws:</dt>
 <dd><a href="../hirudo/lang/invalidpathexception.html">InvalidPathException</a> - If $string is not a string, is null or is empty.</dd>
 <dd>LogicException - If $extension is not a string.</dd>

@@ -51,7 +51,15 @@ doctrine binding to Hirudo. Another will be the Restful client.</p></div>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
-<td class="description"><p class="name"><a href="#save">save</a>(<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/KitchenSink/Models/Entities/Foo.md">Foo</a> foo)</p><p class="description">Stores a Foo into session.</p></td>
+<td class="description"><p class="name"><a href="#save">save</a>(string description, string barName)</p><p class="description"></p></td>
+</tr>
+<tr>
+<td><span class='k'></span> <span class='nx'>void</span></td>
+<td class="description"><p class="name"><a href="#update">update</a>(mixed id, mixed description, mixed barName)</p></td>
+</tr>
+<tr>
+<td><span class='k'>protected </span> <span class='nx'>void</span></td>
+<td class="description"><p class="name"><a href="#persist">persist</a>(<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/KitchenSink/Models/Entities/Foo.md">Foo</a> foo)</p></td>
 </tr>
 <tr>
 <td><span class='k'></span> <span class='nx'>void</span></td>
@@ -62,7 +70,7 @@ doctrine binding to Hirudo. Another will be the Restful client.</p></div>
 <h2>Constructor Detail</h2>
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/KitchenSink/Models/Components/FooComponent.php#L26" target='_blank'>src\KitchenSink\Models\Components\FooComponent.php at line 26</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/KitchenSink/Models/Components/FooComponent.php#L27" target='_blank'>src\KitchenSink\Models\Components\FooComponent.php at line 27</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> ()
@@ -75,7 +83,7 @@ doctrine binding to Hirudo. Another will be the Restful client.</p></div>
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/KitchenSink/Models/Components/FooComponent.php#L40" target='_blank'>src\KitchenSink\Models\Components\FooComponent.php at line 40</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/KitchenSink/Models/Components/FooComponent.php#L41" target='_blank'>src\KitchenSink\Models\Components\FooComponent.php at line 41</a>
 
 <h3 id="getAll()">getAll</h3>
 <span class='k'></span> <span class='nx'>array<Foo></span> <span class='nf'>getAll</span> ()
@@ -87,7 +95,7 @@ doctrine binding to Hirudo. Another will be the Restful client.</p></div>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/KitchenSink/Models/Components/FooComponent.php#L50" target='_blank'>src\KitchenSink\Models\Components\FooComponent.php at line 50</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/KitchenSink/Models/Components/FooComponent.php#L51" target='_blank'>src\KitchenSink\Models\Components\FooComponent.php at line 51</a>
 
 <h3 id="get()">get</h3>
 <span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/KitchenSink/Models/Entities/Foo.md>Foo</a></span> <span class='nf'>get</span> (string id)
@@ -99,19 +107,43 @@ doctrine binding to Hirudo. Another will be the Restful client.</p></div>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/KitchenSink/Models/Components/FooComponent.php#L60" target='_blank'>src\KitchenSink\Models\Components\FooComponent.php at line 60</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/KitchenSink/Models/Components/FooComponent.php#L61" target='_blank'>src\KitchenSink\Models\Components\FooComponent.php at line 61</a>
 
 <h3 id="save()">save</h3>
-<span class='k'></span> <span class='nx'>void</span> <span class='nf'>save</span> (<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/KitchenSink/Models/Entities/Foo.md">Foo</a> foo)
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>save</span> (string description, string barName)
 
 <div class="details">
-<p>Stores a Foo into session.</p>
+<p></p>
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/KitchenSink/Models/Components/FooComponent.php#L79" target='_blank'>src\KitchenSink\Models\Components\FooComponent.php at line 79</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/KitchenSink/Models/Components/FooComponent.php#L70" target='_blank'>src\KitchenSink\Models\Components\FooComponent.php at line 70</a>
+
+<h3 id="update()">update</h3>
+<span class='k'></span> <span class='nx'>void</span> <span class='nf'>update</span> (mixed id, mixed description, mixed barName)
+
+<div class="details">
+
+</div>
+
+- - -
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/KitchenSink/Models/Components/FooComponent.php#L78" target='_blank'>src\KitchenSink\Models\Components\FooComponent.php at line 78</a>
+
+<h3 id="persist()">persist</h3>
+<span class='k'>protected </span> <span class='nx'>void</span> <span class='nf'>persist</span> (<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/KitchenSink/Models/Entities/Foo.md">Foo</a> foo)
+
+<div class="details">
+
+</div>
+
+- - -
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/KitchenSink/Models/Components/FooComponent.php#L96" target='_blank'>src\KitchenSink\Models\Components\FooComponent.php at line 96</a>
 
 <h3 id="remove()">remove</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>remove</span> (string id)

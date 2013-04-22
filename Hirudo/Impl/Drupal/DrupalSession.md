@@ -5,12 +5,17 @@
 **Hirudo\Impl\Drupal\DrupalSession**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Drupal/DrupalSession.php#L34" target='_blank'>framework\hirudo\Hirudo\Impl\Drupal\DrupalSession.php at line 34</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Drupal/DrupalSession.php#L34" target='_blank'>framework\Hirudo\Impl\Drupal\DrupalSession.php at line 34</a>
 
 #Class DrupalSession#
 
 **DrupalSession**
 
+
+<dl>
+<dt>All Implemented Interfaces:</dt>
+<dd><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/Session.md">Hirudo\Core\Context\Session</a> </dd>
+</dl>
 
 
 
@@ -58,7 +63,7 @@ the Drupal! JSession class.</p></div>
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Drupal/DrupalSession.php#L36" target='_blank'>framework\hirudo\Hirudo\Impl\Drupal\DrupalSession.php at line 36</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Drupal/DrupalSession.php#L36" target='_blank'>framework\Hirudo\Impl\Drupal\DrupalSession.php at line 36</a>
 
 <h3 id="id()">id</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>id</span> ()
@@ -70,7 +75,7 @@ the Drupal! JSession class.</p></div>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Drupal/DrupalSession.php#L40" target='_blank'>framework\hirudo\Hirudo\Impl\Drupal\DrupalSession.php at line 40</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Drupal/DrupalSession.php#L40" target='_blank'>framework\Hirudo\Impl\Drupal\DrupalSession.php at line 40</a>
 
 <h3 id="get()">get</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>get</span> (mixed key, mixed default)
@@ -82,7 +87,7 @@ the Drupal! JSession class.</p></div>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Drupal/DrupalSession.php#L50" target='_blank'>framework\hirudo\Hirudo\Impl\Drupal\DrupalSession.php at line 50</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Drupal/DrupalSession.php#L50" target='_blank'>framework\Hirudo\Impl\Drupal\DrupalSession.php at line 50</a>
 
 <h3 id="put()">put</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>put</span> (mixed key, mixed value)
@@ -94,7 +99,7 @@ the Drupal! JSession class.</p></div>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Drupal/DrupalSession.php#L56" target='_blank'>framework\hirudo\Hirudo\Impl\Drupal\DrupalSession.php at line 56</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Drupal/DrupalSession.php#L56" target='_blank'>framework\Hirudo\Impl\Drupal\DrupalSession.php at line 56</a>
 
 <h3 id="remove()">remove</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>remove</span> (mixed key)
@@ -106,7 +111,7 @@ the Drupal! JSession class.</p></div>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Drupal/DrupalSession.php#L62" target='_blank'>framework\hirudo\Hirudo\Impl\Drupal\DrupalSession.php at line 62</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Drupal/DrupalSession.php#L62" target='_blank'>framework\Hirudo\Impl\Drupal\DrupalSession.php at line 62</a>
 
 <h3 id="has()">has</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>has</span> (mixed key)
@@ -118,7 +123,7 @@ the Drupal! JSession class.</p></div>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Impl/Drupal/DrupalSession.php#L66" target='_blank'>framework\hirudo\Hirudo\Impl\Drupal\DrupalSession.php at line 66</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Drupal/DrupalSession.php#L66" target='_blank'>framework\Hirudo\Impl\Drupal\DrupalSession.php at line 66</a>
 
 <h3 id="state()">state</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>state</span> ()

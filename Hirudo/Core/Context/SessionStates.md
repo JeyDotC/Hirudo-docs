@@ -5,11 +5,12 @@
 **Hirudo\Core\Context\SessionStates**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Context/Session.php#L27" target='_blank'>framework\hirudo\Hirudo\Core\Context\Session.php at line 27</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Context/Session.php#L29" target='_blank'>framework\Hirudo\Core\Context\Session.php at line 29</a>
 
 #Class SessionStates#
 
-\PseudoEnum &gt; **SessionStates**
+<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Lang/PseudoEnum.md">PseudoEnum</a>
+ &gt; **SessionStates**
 
 
 
@@ -17,7 +18,7 @@
 - - -
 
 <p><strong>public final  class</strong> <span>SessionStates</span>
-<strong>extends</strong> \PseudoEnum
+<strong>extends</strong> <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Lang/PseudoEnum.md">PseudoEnum</a>
 
 </p>
 
@@ -27,76 +28,91 @@
 
 <hr />
 
-<table id="summary_method">
-<tr><th colspan="2">Method Summary</th></tr>
+
+
+<table id="summary_field">
+<tr><th colspan="2">Constant Summary</th></tr>
 <tr>
-<td><span class='k'></span> <span class='nx'>mixed</span></td>
-<td class="description"><p class="name"><a href="#get">get</a>(string key, mixed default)</p><p class="description">Gets the value for the given key, or the given default value if there is no such
-value that key.</p></td>
+<td>
+                                    <span class='k'>final static </span> <span class='nx'>str</span>
+                                  </td>
+<td class="description"><p class="name" ><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/SessionStates.md#active">ACTIVE</a>
+                                </p><p class="description">Session is active.</p></td>
 </tr>
 <tr>
-<td><span class='k'></span> <span class='nx'>mixed</span></td>
-<td class="description"><p class="name"><a href="#remove">remove</a>(string key)</p><p class="description">Attempts to remove the object associated to the given key from session.</p></td>
+<td>
+                                    <span class='k'>final static </span> <span class='nx'>str</span>
+                                  </td>
+<td class="description"><p class="name" ><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/SessionStates.md#destroyed">DESTROYED</a>
+                                </p><p class="description">The session and all of it's data have been destroyed.</p></td>
 </tr>
 <tr>
-<td><span class='k'></span> <span class='nx'>string</span></td>
-<td class="description"><p class="name"><a href="#state">state</a>()</p><p class="description">Gets the current session state.</p></td>
+<td>
+                                    <span class='k'>final static </span> <span class='nx'>str</span>
+                                  </td>
+<td class="description"><p class="name" ><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/SessionStates.md#error">ERROR</a>
+                                </p><p class="description">Something went wrong with the session.</p></td>
+</tr>
+<tr>
+<td>
+                                    <span class='k'>final static </span> <span class='nx'>str</span>
+                                  </td>
+<td class="description"><p class="name" ><a href="#https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/SessionStates.md#expired">EXPIRED</a>
+                                </p><p class="description">Session timeout have been exeeded, normally the session have been
+already closed in this case.</p></td>
 </tr>
 </table>
 
-<h2 id="detail_method">Method Detail</h2>
+<table class="inherit">
+<tr><th colspan="2">Methods inherited from Hirudo\Lang\PseudoEnum</th></tr>
+<tr><td><a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Lang/PseudoEnum.md#namebelongs">nameBelongs</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Lang/PseudoEnum.md#stringtovalue">stringToValue</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Lang/PseudoEnum.md#valuebelongs">valueBelongs</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Lang/PseudoEnum.md#valuetostring">valueToString</a>, <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Lang/PseudoEnum.md#values">values</a></td></tr></table>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Context/Session.php#L43" target='_blank'>framework\hirudo\Hirudo\Core\Context\Session.php at line 43</a>
+##Constant Detail##
 
-<h3 id="get()">get</h3>
-<span class='k'></span> <span class='nx'>mixed</span> <span class='nf'>get</span> (string key, mixed default)
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Context/Session.php#L34" target='_blank'>framework\Hirudo\Core\Context\Session.php at line 34</a>
+
+<h3 id="ACTIVE">ACTIVE</h3>
+<span class='k'>final static </span> <span class='nx'>str</span><span class='no'>ACTIVE</span><span class='o'> = 'active'</span>
 
 <div class="details">
-<p>Gets the value for the given key, or the given default value if there is no such
-value that key.</p><dl>
-<dt>Parameters:</dt>
-<dd>key - The key corresponding to the requested value.</dd>
-<dd>default - A default value which is returned if there is no value associated to the given key.</dd>
-<dt>Returns:</dt>
-<dd>The value stored in session or the default value if there is no value associated to the given key.</dd>
-</dl>
-
+<p>Session is active.</p>
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Context/Session.php#L52" target='_blank'>framework\hirudo\Hirudo\Core\Context\Session.php at line 52</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Context/Session.php#L43" target='_blank'>framework\Hirudo\Core\Context\Session.php at line 43</a>
 
-<h3 id="remove()">remove</h3>
-<span class='k'></span> <span class='nx'>mixed</span> <span class='nf'>remove</span> (string key)
+<h3 id="DESTROYED">DESTROYED</h3>
+<span class='k'>final static </span> <span class='nx'>str</span><span class='no'>DESTROYED</span><span class='o'> = 'destroyed'</span>
 
 <div class="details">
-<p>Attempts to remove the object associated to the given key from session.</p><dl>
-<dt>Parameters:</dt>
-<dd>key - The key for the object to be removed.</dd>
-<dt>Returns:</dt>
-<dd>The previous value. If there were no value for the given key, null is returned.</dd>
-</dl>
-
+<p>The session and all of it's data have been destroyed.</p>
 </div>
 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/hirudo/Hirudo/Core/Context/Session.php#L62" target='_blank'>framework\hirudo\Hirudo\Core\Context\Session.php at line 62</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Context/Session.php#L47" target='_blank'>framework\Hirudo\Core\Context\Session.php at line 47</a>
 
-<h3 id="state()">state</h3>
-<span class='k'></span> <span class='nx'>string</span> <span class='nf'>state</span> ()
+<h3 id="ERROR">ERROR</h3>
+<span class='k'>final static </span> <span class='nx'>str</span><span class='no'>ERROR</span><span class='o'> = 'error'</span>
 
 <div class="details">
-<p>Gets the current session state.</p><dl>
-<dt>Returns:</dt>
-<dd>An string representing the current session state. The string can be any of the constants given in the SessionStates pseudoenum.</dd>
-<dt>See Also:</dt>
-<dd><a href="../../../hirudo/core/context/sessionstates.html">To know more about the possible session states.</a></dd>
-</dl>
+<p>Something went wrong with the session.</p>
+</div>
 
+- - -
+
+
+<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Context/Session.php#L39" target='_blank'>framework\Hirudo\Core\Context\Session.php at line 39</a>
+
+<h3 id="EXPIRED">EXPIRED</h3>
+<span class='k'>final static </span> <span class='nx'>str</span><span class='no'>EXPIRED</span><span class='o'> = 'expired'</span>
+
+<div class="details">
+<p>Session timeout have been exeeded, normally the session have been
+already closed in this case.</p>
 </div>
 
 - - -
