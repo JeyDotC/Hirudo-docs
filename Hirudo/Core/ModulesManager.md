@@ -5,7 +5,7 @@
 **Hirudo\Core\ModulesManager**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/ModulesManager.php#L46" target='_blank'>framework\Hirudo\Core\ModulesManager.php at line 46</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/ModulesManager.php#L46" target='_blank'>framework\Hirudo\Core\ModulesManager.php at line 46</a>
 
 #Class ModulesManager#
 
@@ -65,7 +65,7 @@ default configuration.</p></td>
 <h2>Constructor Detail</h2>
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/ModulesManager.php#L67" target='_blank'>framework\Hirudo\Core\ModulesManager.php at line 67</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/ModulesManager.php#L67" target='_blank'>framework\Hirudo\Core\ModulesManager.php at line 67</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (str implementationPackage, array<string> implementationClasses)
@@ -82,7 +82,7 @@ default configuration.</p></td>
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/ModulesManager.php#L105" target='_blank'>framework\Hirudo\Core\ModulesManager.php at line 105</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/ModulesManager.php#L105" target='_blank'>framework\Hirudo\Core\ModulesManager.php at line 105</a>
 
 <h3 id="run()">run</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>run</span> (mixed call)
@@ -99,7 +99,7 @@ default configuration.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/ModulesManager.php#L128" target='_blank'>framework\Hirudo\Core\ModulesManager.php at line 128</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/ModulesManager.php#L128" target='_blank'>framework\Hirudo\Core\ModulesManager.php at line 128</a>
 
 <h3 id="executeCall()">executeCall</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>executeCall</span> (<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/ModuleCall.md">ModuleCall</a> call)
@@ -117,7 +117,7 @@ default configuration.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/ModulesManager.php#L172" target='_blank'>framework\Hirudo\Core\ModulesManager.php at line 172</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/ModulesManager.php#L172" target='_blank'>framework\Hirudo\Core\ModulesManager.php at line 172</a>
 
 <h3 id="prepareApplication()">prepareApplication</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>prepareApplication</span> (mixed appName)
@@ -129,7 +129,7 @@ default configuration.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/ModulesManager.php#L206" target='_blank'>framework\Hirudo\Core\ModulesManager.php at line 206</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/ModulesManager.php#L206" target='_blank'>framework\Hirudo\Core\ModulesManager.php at line 206</a>
 
 <h3 id="setAutoLoader()">setAutoLoader</h3>
 <span class='k'>static </span> <span class='nx'>void</span> <span class='nf'>setAutoLoader</span> (type loader)
@@ -141,7 +141,7 @@ default configuration.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/ModulesManager.php#L214" target='_blank'>framework\Hirudo\Core\ModulesManager.php at line 214</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/ModulesManager.php#L214" target='_blank'>framework\Hirudo\Core\ModulesManager.php at line 214</a>
 
 <h3 id="getAutoLoader()">getAutoLoader</h3>
 <span class='k'>static </span> <span class='nx'>UniversalClassLoader</span> <span class='nf'>getAutoLoader</span> ()

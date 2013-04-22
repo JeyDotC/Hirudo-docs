@@ -5,7 +5,7 @@
 **Hirudo\Core\DependencyInjection\AnnotationsBasedDependenciesManager**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/DependencyInjection/AnnotationsBasedDependenciesManager.php#L44" target='_blank'>framework\Hirudo\Core\DependencyInjection\AnnotationsBasedDependenciesManager.php at line 44</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/DependencyInjection/AnnotationsBasedDependenciesManager.php#L44" target='_blank'>framework\Hirudo\Core\DependencyInjection\AnnotationsBasedDependenciesManager.php at line 44</a>
 
 #Class AnnotationsBasedDependenciesManager#
 
@@ -82,7 +82,7 @@ in the container to inject them later. </p></td>
 <h2>Constructor Detail</h2>
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/DependencyInjection/AnnotationsBasedDependenciesManager.php#L52" target='_blank'>framework\Hirudo\Core\DependencyInjection\AnnotationsBasedDependenciesManager.php at line 52</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/DependencyInjection/AnnotationsBasedDependenciesManager.php#L52" target='_blank'>framework\Hirudo\Core\DependencyInjection\AnnotationsBasedDependenciesManager.php at line 52</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> ()
@@ -95,7 +95,7 @@ in the container to inject them later. </p></td>
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/DependencyInjection/AnnotationsBasedDependenciesManager.php#L66" target='_blank'>framework\Hirudo\Core\DependencyInjection\AnnotationsBasedDependenciesManager.php at line 66</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/DependencyInjection/AnnotationsBasedDependenciesManager.php#L66" target='_blank'>framework\Hirudo\Core\DependencyInjection\AnnotationsBasedDependenciesManager.php at line 66</a>
 
 <h3 id="addServices()">addServices</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>addServices</span> (array implementationClasses)
@@ -115,7 +115,7 @@ the @Export annotation in order to be injected.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/DependencyInjection/AnnotationsBasedDependenciesManager.php#L94" target='_blank'>framework\Hirudo\Core\DependencyInjection\AnnotationsBasedDependenciesManager.php at line 94</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/DependencyInjection/AnnotationsBasedDependenciesManager.php#L94" target='_blank'>framework\Hirudo\Core\DependencyInjection\AnnotationsBasedDependenciesManager.php at line 94</a>
 
 <h3 id="resolveDependencies()">resolveDependencies</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>resolveDependencies</span> (mixed object)
@@ -134,7 +134,7 @@ regardless it's access level.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/DependencyInjection/AnnotationsBasedDependenciesManager.php#L195" target='_blank'>framework\Hirudo\Core\DependencyInjection\AnnotationsBasedDependenciesManager.php at line 195</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/DependencyInjection/AnnotationsBasedDependenciesManager.php#L195" target='_blank'>framework\Hirudo\Core\DependencyInjection\AnnotationsBasedDependenciesManager.php at line 195</a>
 
 <h3 id="getClassMetadata()">getClassMetadata</h3>
 <span class='k'></span> <span class='nx'>array<mixed></span> <span class='nf'>getClassMetadata</span> (ReflectionClass object)
@@ -146,7 +146,7 @@ regardless it's access level.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/DependencyInjection/AnnotationsBasedDependenciesManager.php#L205" target='_blank'>framework\Hirudo\Core\DependencyInjection\AnnotationsBasedDependenciesManager.php at line 205</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/DependencyInjection/AnnotationsBasedDependenciesManager.php#L205" target='_blank'>framework\Hirudo\Core\DependencyInjection\AnnotationsBasedDependenciesManager.php at line 205</a>
 
 <h3 id="getMethodMetadata()">getMethodMetadata</h3>
 <span class='k'></span> <span class='nx'>array<mixed></span> <span class='nf'>getMethodMetadata</span> (ReflectionMethod method)
@@ -158,7 +158,7 @@ regardless it's access level.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/DependencyInjection/AnnotationsBasedDependenciesManager.php#L215" target='_blank'>framework\Hirudo\Core\DependencyInjection\AnnotationsBasedDependenciesManager.php at line 215</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/DependencyInjection/AnnotationsBasedDependenciesManager.php#L215" target='_blank'>framework\Hirudo\Core\DependencyInjection\AnnotationsBasedDependenciesManager.php at line 215</a>
 
 <h3 id="getPropertyMetadata()">getPropertyMetadata</h3>
 <span class='k'></span> <span class='nx'>array<mixed></span> <span class='nf'>getPropertyMetadata</span> (ReflectionProperty property)
@@ -170,7 +170,7 @@ regardless it's access level.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/DependencyInjection/AnnotationsBasedDependenciesManager.php#L226" target='_blank'>framework\Hirudo\Core\DependencyInjection\AnnotationsBasedDependenciesManager.php at line 226</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/DependencyInjection/AnnotationsBasedDependenciesManager.php#L226" target='_blank'>framework\Hirudo\Core\DependencyInjection\AnnotationsBasedDependenciesManager.php at line 226</a>
 
 <h3 id="getClassMetadataById()">getClassMetadataById</h3>
 <span class='k'></span> <span class='nx'>mixed</span> <span class='nf'>getClassMetadataById</span> (ReflectionClass object, string metaDataId)
@@ -189,7 +189,7 @@ regardless it's access level.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/DependencyInjection/AnnotationsBasedDependenciesManager.php#L237" target='_blank'>framework\Hirudo\Core\DependencyInjection\AnnotationsBasedDependenciesManager.php at line 237</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/DependencyInjection/AnnotationsBasedDependenciesManager.php#L237" target='_blank'>framework\Hirudo\Core\DependencyInjection\AnnotationsBasedDependenciesManager.php at line 237</a>
 
 <h3 id="getMethodMetadataById()">getMethodMetadataById</h3>
 <span class='k'></span> <span class='nx'>mixed</span> <span class='nf'>getMethodMetadataById</span> (ReflectionMethod method, string metaDataId)
@@ -208,7 +208,7 @@ regardless it's access level.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/DependencyInjection/AnnotationsBasedDependenciesManager.php#L248" target='_blank'>framework\Hirudo\Core\DependencyInjection\AnnotationsBasedDependenciesManager.php at line 248</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/DependencyInjection/AnnotationsBasedDependenciesManager.php#L248" target='_blank'>framework\Hirudo\Core\DependencyInjection\AnnotationsBasedDependenciesManager.php at line 248</a>
 
 <h3 id="getPropertyMetadataById()">getPropertyMetadataById</h3>
 <span class='k'></span> <span class='nx'>mixed</span> <span class='nf'>getPropertyMetadataById</span> (ReflectionProperty property, string metaDataId)

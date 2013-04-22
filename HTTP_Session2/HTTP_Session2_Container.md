@@ -5,7 +5,7 @@
 **HTTP_Session2\HTTP_Session2_Container**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container.php#L64" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container.php at line 64</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container.php#L64" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container.php at line 64</a>
 
 #Class HTTP_Session2_Container#
 
@@ -79,7 +79,7 @@
 
 ##Field Detail##
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container.php#L71" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container.php at line 71</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container.php#L71" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container.php at line 71</a>
 
 <h3 id="options">options</h3>
 <span class='k'>protected </span> <span class='nx'>array</span><span class='no'> $options</span><span class='o'> = array()</span>
@@ -93,7 +93,7 @@
 <h2>Constructor Detail</h2>
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container.php#L80" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container.php at line 80</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container.php#L80" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container.php at line 80</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (array options)
@@ -110,7 +110,7 @@
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container.php#L103" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container.php at line 103</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container.php#L103" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container.php at line 103</a>
 
 <h3 id="setDefaults()">setDefaults</h3>
 <span class='k'>protected </span> <span class='nx'>void</span> <span class='nf'>setDefaults</span> ()
@@ -122,7 +122,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container.php#L114" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container.php at line 114</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container.php#L114" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container.php at line 114</a>
 
 <h3 id="parseOptions()">parseOptions</h3>
 <span class='k'>protected </span> <span class='nx'>void</span> <span class='nf'>parseOptions</span> (array options)
@@ -138,7 +138,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container.php#L128" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container.php at line 128</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Container.php#L128" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Container.php at line 128</a>
 
 <h3 id="set()">set</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>set</span> ()

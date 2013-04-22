@@ -5,7 +5,7 @@
 **HTTP_Session2\HTTP_Session2_Exception**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Exception.php#L58" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Exception.php at line 58</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2/Exception.php#L58" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2\Exception.php at line 58</a>
 
 #Class HTTP_Session2_Exception#
 

@@ -5,7 +5,7 @@
 **Hirudo\Core\Events\Dispatcher\CachedHirudoDispatcher**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Events/Dispatcher/CachedHirudoDispatcher.php#L12" target='_blank'>framework\Hirudo\Core\Events\Dispatcher\CachedHirudoDispatcher.php at line 12</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Events/Dispatcher/CachedHirudoDispatcher.php#L12" target='_blank'>framework\Hirudo\Core\Events\Dispatcher\CachedHirudoDispatcher.php at line 12</a>
 
 #Class CachedHirudoDispatcher#
 
@@ -67,7 +67,7 @@ EventDispatcher &gt; <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master
 
 ##Constant Detail##
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Events/Dispatcher/CachedHirudoDispatcher.php#L14" target='_blank'>framework\Hirudo\Core\Events\Dispatcher\CachedHirudoDispatcher.php at line 14</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Events/Dispatcher/CachedHirudoDispatcher.php#L14" target='_blank'>framework\Hirudo\Core\Events\Dispatcher\CachedHirudoDispatcher.php at line 14</a>
 
 <h3 id="CACHE_SALT">CACHE_SALT</h3>
 <span class='k'>final static </span> <span class='nx'>str</span><span class='no'>CACHE_SALT</span><span class='o'> = &quot;@[Hirudo.Dispatcher]&quot;</span>
@@ -81,7 +81,7 @@ EventDispatcher &gt; <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master
 <h2>Constructor Detail</h2>
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Events/Dispatcher/CachedHirudoDispatcher.php#L29" target='_blank'>framework\Hirudo\Core\Events\Dispatcher\CachedHirudoDispatcher.php at line 29</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Events/Dispatcher/CachedHirudoDispatcher.php#L29" target='_blank'>framework\Hirudo\Core\Events\Dispatcher\CachedHirudoDispatcher.php at line 29</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Events/Dispatcher/HirudoDispatcher.md">HirudoDispatcher</a> delegate, Cache cache)
@@ -94,7 +94,7 @@ EventDispatcher &gt; <a href="https://github.com/JeyDotC/Hirudo-docs/blob/master
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Events/Dispatcher/CachedHirudoDispatcher.php#L34" target='_blank'>framework\Hirudo\Core\Events\Dispatcher\CachedHirudoDispatcher.php at line 34</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Events/Dispatcher/CachedHirudoDispatcher.php#L34" target='_blank'>framework\Hirudo\Core\Events\Dispatcher\CachedHirudoDispatcher.php at line 34</a>
 
 <h3 id="loadObjectListeners()">loadObjectListeners</h3>
 <span class='k'>protected </span> <span class='nx'>void</span> <span class='nf'>loadObjectListeners</span> (ReflectionClass reflectedObject, mixed object)

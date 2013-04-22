@@ -5,7 +5,7 @@
 **Hirudo\Lang\Loader**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Lang/Loader.php#L46" target='_blank'>framework\Hirudo\Lang\Loader.php at line 46</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Lang/Loader.php#L46" target='_blank'>framework\Hirudo\Lang\Loader.php at line 46</a>
 
 #Class Loader#
 
@@ -89,7 +89,7 @@ resulting paths.</p></td>
 
 ##Constant Detail##
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Lang/Loader.php#L48" target='_blank'>framework\Hirudo\Lang\Loader.php at line 48</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Lang/Loader.php#L48" target='_blank'>framework\Hirudo\Lang\Loader.php at line 48</a>
 
 <h3 id="DEFAULT_EXT">DEFAULT_EXT</h3>
 <span class='k'>final static </span> <span class='nx'>str</span><span class='no'>DEFAULT_EXT</span><span class='o'> = &quot;.php&quot;</span>
@@ -102,7 +102,7 @@ resulting paths.</p></td>
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Lang/Loader.php#L58" target='_blank'>framework\Hirudo\Lang\Loader.php at line 58</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Lang/Loader.php#L58" target='_blank'>framework\Hirudo\Lang\Loader.php at line 58</a>
 
 <h3 id="Init()">Init</h3>
 <span class='k'>static </span> <span class='nx'>void</span> <span class='nf'>Init</span> (str defaultRoot)
@@ -114,7 +114,7 @@ resulting paths.</p></td>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Lang/Loader.php#L63" target='_blank'>framework\Hirudo\Lang\Loader.php at line 63</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Lang/Loader.php#L63" target='_blank'>framework\Hirudo\Lang\Loader.php at line 63</a>
 
 <h3 id="addPath()">addPath</h3>
 <span class='k'>static </span> <span class='nx'>void</span> <span class='nf'>addPath</span> (mixed absolutePath)
@@ -126,7 +126,7 @@ resulting paths.</p></td>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Lang/Loader.php#L90" target='_blank'>framework\Hirudo\Lang\Loader.php at line 90</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Lang/Loader.php#L90" target='_blank'>framework\Hirudo\Lang\Loader.php at line 90</a>
 
 <h3 id="using()">using</h3>
 <span class='k'>static </span> <span class='nx'>void</span> <span class='nf'>using</span> (string|array file, string extension)
@@ -150,7 +150,7 @@ directory.</p></p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Lang/Loader.php#L120" target='_blank'>framework\Hirudo\Lang\Loader.php at line 120</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Lang/Loader.php#L120" target='_blank'>framework\Hirudo\Lang\Loader.php at line 120</a>
 
 <h3 id="arrayToPaths()">arrayToPaths</h3>
 <span class='k'>static </span> <span class='nx'>array</span> <span class='nf'>arrayToPaths</span> (array array, string extension)
@@ -176,7 +176,7 @@ resulting paths.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Lang/Loader.php#L143" target='_blank'>framework\Hirudo\Lang\Loader.php at line 143</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Lang/Loader.php#L143" target='_blank'>framework\Hirudo\Lang\Loader.php at line 143</a>
 
 <h3 id="toPaths()">toPaths</h3>
 <span class='k'>static </span> <span class='nx'>array</span> <span class='nf'>toPaths</span> (array array, string extension, mixed string)
@@ -201,7 +201,7 @@ resulting paths.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Lang/Loader.php#L194" target='_blank'>framework\Hirudo\Lang\Loader.php at line 194</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Lang/Loader.php#L194" target='_blank'>framework\Hirudo\Lang\Loader.php at line 194</a>
 
 <h3 id="toSinglePath()">toSinglePath</h3>
 <span class='k'>static </span> <span class='nx'>void</span> <span class='nf'>toSinglePath</span> (mixed string, mixed extension)
@@ -213,7 +213,7 @@ resulting paths.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Lang/Loader.php#L220" target='_blank'>framework\Hirudo\Lang\Loader.php at line 220</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Lang/Loader.php#L220" target='_blank'>framework\Hirudo\Lang\Loader.php at line 220</a>
 
 <h3 id="isDir()">isDir</h3>
 <span class='k'>static </span> <span class='nx'>void</span> <span class='nf'>isDir</span> (mixed dir)
@@ -225,7 +225,7 @@ resulting paths.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Lang/Loader.php#L228" target='_blank'>framework\Hirudo\Lang\Loader.php at line 228</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Lang/Loader.php#L228" target='_blank'>framework\Hirudo\Lang\Loader.php at line 228</a>
 
 <h3 id="isFile()">isFile</h3>
 <span class='k'>static </span> <span class='nx'>void</span> <span class='nf'>isFile</span> (mixed file, mixed extension)

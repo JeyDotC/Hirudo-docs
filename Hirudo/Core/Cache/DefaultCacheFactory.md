@@ -5,7 +5,7 @@
 **Hirudo\Core\Cache\DefaultCacheFactory**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Cache/DefaultCacheFactory.php#L20" target='_blank'>framework\Hirudo\Core\Cache\DefaultCacheFactory.php at line 20</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Cache/DefaultCacheFactory.php#L20" target='_blank'>framework\Hirudo\Core\Cache\DefaultCacheFactory.php at line 20</a>
 
 #Class DefaultCacheFactory#
 
@@ -47,7 +47,7 @@
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Cache/DefaultCacheFactory.php#L24" target='_blank'>framework\Hirudo\Core\Cache\DefaultCacheFactory.php at line 24</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Cache/DefaultCacheFactory.php#L24" target='_blank'>framework\Hirudo\Core\Cache\DefaultCacheFactory.php at line 24</a>
 
 <h3 id="createCacheInstance()">createCacheInstance</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>createCacheInstance</span> (mixed salt)
@@ -59,7 +59,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Cache/DefaultCacheFactory.php#L33" target='_blank'>framework\Hirudo\Core\Cache\DefaultCacheFactory.php at line 33</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Cache/DefaultCacheFactory.php#L33" target='_blank'>framework\Hirudo\Core\Cache\DefaultCacheFactory.php at line 33</a>
 
 <h3 id="setConfiguration()">setConfiguration</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>setConfiguration</span> (mixed configuration)

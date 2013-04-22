@@ -5,7 +5,7 @@
 **Hirudo\Core\Events\AfterTaskEvent**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Events/AfterTaskEvent.php#L12" target='_blank'>framework\Hirudo\Core\Events\AfterTaskEvent.php at line 12</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Events/AfterTaskEvent.php#L12" target='_blank'>framework\Hirudo\Core\Events\AfterTaskEvent.php at line 12</a>
 
 #Class AfterTaskEvent#
 
@@ -62,7 +62,7 @@ Event &gt; **AfterTaskEvent**
 <h2>Constructor Detail</h2>
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Events/AfterTaskEvent.php#L22" target='_blank'>framework\Hirudo\Core\Events\AfterTaskEvent.php at line 22</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Events/AfterTaskEvent.php#L22" target='_blank'>framework\Hirudo\Core\Events\AfterTaskEvent.php at line 22</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (mixed result)
@@ -75,7 +75,7 @@ Event &gt; **AfterTaskEvent**
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Events/AfterTaskEvent.php#L26" target='_blank'>framework\Hirudo\Core\Events\AfterTaskEvent.php at line 26</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Events/AfterTaskEvent.php#L26" target='_blank'>framework\Hirudo\Core\Events\AfterTaskEvent.php at line 26</a>
 
 <h3 id="getTaskResult()">getTaskResult</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>getTaskResult</span> ()
@@ -87,7 +87,7 @@ Event &gt; **AfterTaskEvent**
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Events/AfterTaskEvent.php#L30" target='_blank'>framework\Hirudo\Core\Events\AfterTaskEvent.php at line 30</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Events/AfterTaskEvent.php#L30" target='_blank'>framework\Hirudo\Core\Events\AfterTaskEvent.php at line 30</a>
 
 <h3 id="replaceTaskResult()">replaceTaskResult</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>replaceTaskResult</span> (mixed resultReplacement)
@@ -99,7 +99,7 @@ Event &gt; **AfterTaskEvent**
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Events/AfterTaskEvent.php#L39" target='_blank'>framework\Hirudo\Core\Events\AfterTaskEvent.php at line 39</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Events/AfterTaskEvent.php#L39" target='_blank'>framework\Hirudo\Core\Events\AfterTaskEvent.php at line 39</a>
 
 <h3 id="getDocument()">getDocument</h3>
 <span class='k'></span> <span class='nx'>\phpQueryObject</span> <span class='nf'>getDocument</span> (str selector)
@@ -111,7 +111,7 @@ Event &gt; **AfterTaskEvent**
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Events/AfterTaskEvent.php#L57" target='_blank'>framework\Hirudo\Core\Events\AfterTaskEvent.php at line 57</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Events/AfterTaskEvent.php#L57" target='_blank'>framework\Hirudo\Core\Events\AfterTaskEvent.php at line 57</a>
 
 <h3 id="pq()">pq</h3>
 <span class='k'></span> <span class='nx'>\phpQueryObject</span> <span class='nf'>pq</span> (type param, type context)

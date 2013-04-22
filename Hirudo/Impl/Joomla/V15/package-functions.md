@@ -15,7 +15,7 @@
 
 <h2 id="detail_function">Function Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Joomla/V15/JoomlaFrontController.php#L31" target='_blank'>framework\Hirudo\Impl\Joomla\V15\JoomlaFrontController.php at line 31</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/Joomla/V15/JoomlaFrontController.php#L31" target='_blank'>framework\Hirudo\Impl\Joomla\V15\JoomlaFrontController.php at line 31</a>
 
 <h3 id="joomlaAutoloader()">joomlaAutoloader</h3>
 <span class='k'></span> <span class='nx'>void</span> joomlaAutoloader (mixed class)

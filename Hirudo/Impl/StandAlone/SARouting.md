@@ -5,7 +5,7 @@
 **Hirudo\Impl\StandAlone\SARouting**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/StandAlone/SARouting.php#L31" target='_blank'>framework\Hirudo\Impl\StandAlone\SARouting.php at line 31</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/StandAlone/SARouting.php#L31" target='_blank'>framework\Hirudo\Impl\StandAlone\SARouting.php at line 31</a>
 
 #Class SARouting#
 
@@ -56,7 +56,7 @@ and the given module name.</p></td>
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/StandAlone/SARouting.php#L33" target='_blank'>framework\Hirudo\Impl\StandAlone\SARouting.php at line 33</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/StandAlone/SARouting.php#L33" target='_blank'>framework\Hirudo\Impl\StandAlone\SARouting.php at line 33</a>
 
 <h3 id="appAction()">appAction</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>appAction</span> (string app, string module, str task, array params)
@@ -78,7 +78,7 @@ and the given module name.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/StandAlone/SARouting.php#L44" target='_blank'>framework\Hirudo\Impl\StandAlone\SARouting.php at line 44</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/StandAlone/SARouting.php#L44" target='_blank'>framework\Hirudo\Impl\StandAlone\SARouting.php at line 44</a>
 
 <h3 id="redirect()">redirect</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>redirect</span> (string url)
@@ -94,7 +94,7 @@ and the given module name.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/StandAlone/SARouting.php#L48" target='_blank'>framework\Hirudo\Impl\StandAlone\SARouting.php at line 48</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/StandAlone/SARouting.php#L48" target='_blank'>framework\Hirudo\Impl\StandAlone\SARouting.php at line 48</a>
 
 <h3 id="getBaseURL()">getBaseURL</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>getBaseURL</span> ()

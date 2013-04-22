@@ -5,7 +5,7 @@
 **Hirudo\Core\Exceptions\ModuleNotFoundException**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Exceptions/ModuleNotFoundException.php#L29" target='_blank'>framework\Hirudo\Core\Exceptions\ModuleNotFoundException.php at line 29</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Exceptions/ModuleNotFoundException.php#L29" target='_blank'>framework\Hirudo\Core\Exceptions\ModuleNotFoundException.php at line 29</a>
 
 #Class ModuleNotFoundException#
 
@@ -43,7 +43,7 @@
 <h2>Constructor Detail</h2>
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Exceptions/ModuleNotFoundException.php#L31" target='_blank'>framework\Hirudo\Core\Exceptions\ModuleNotFoundException.php at line 31</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Exceptions/ModuleNotFoundException.php#L31" target='_blank'>framework\Hirudo\Core\Exceptions\ModuleNotFoundException.php at line 31</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (mixed module, mixed app)

@@ -5,7 +5,7 @@
 **Hirudo\Impl\Common\Templating\SmartyTemplating**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Common/Templating/SmartyTemplating.php#L38" target='_blank'>framework\Hirudo\Impl\Common\Templating\SmartyTemplating.php at line 38</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/Common/Templating/SmartyTemplating.php#L38" target='_blank'>framework\Hirudo\Impl\Common\Templating\SmartyTemplating.php at line 38</a>
 
 #Class SmartyTemplating#
 
@@ -72,7 +72,7 @@
 <h2>Constructor Detail</h2>
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Common/Templating/SmartyTemplating.php#L49" target='_blank'>framework\Hirudo\Impl\Common\Templating\SmartyTemplating.php at line 49</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/Common/Templating/SmartyTemplating.php#L49" target='_blank'>framework\Hirudo\Impl\Common\Templating\SmartyTemplating.php at line 49</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> ()
@@ -85,7 +85,7 @@
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Common/Templating/SmartyTemplating.php#L72" target='_blank'>framework\Hirudo\Impl\Common\Templating\SmartyTemplating.php at line 72</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/Common/Templating/SmartyTemplating.php#L72" target='_blank'>framework\Hirudo\Impl\Common\Templating\SmartyTemplating.php at line 72</a>
 
 <h3 id="assign()">assign</h3>
 <span class='k'></span> <span class='nx'>mixed</span> <span class='nf'>assign</span> (string name, mixed value)
@@ -104,7 +104,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Common/Templating/SmartyTemplating.php#L85" target='_blank'>framework\Hirudo\Impl\Common\Templating\SmartyTemplating.php at line 85</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/Common/Templating/SmartyTemplating.php#L85" target='_blank'>framework\Hirudo\Impl\Common\Templating\SmartyTemplating.php at line 85</a>
 
 <h3 id="display()">display</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>display</span> (string moduleDir, string view)
@@ -123,7 +123,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Common/Templating/SmartyTemplating.php#L99" target='_blank'>framework\Hirudo\Impl\Common\Templating\SmartyTemplating.php at line 99</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/Common/Templating/SmartyTemplating.php#L99" target='_blank'>framework\Hirudo\Impl\Common\Templating\SmartyTemplating.php at line 99</a>
 
 <h3 id="instance()">instance</h3>
 <span class='k'>static </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Impl/Common/Templating/SmartyTemplating.md>SmartyTemplating</a></span> <span class='nf'>instance</span> ()
@@ -135,7 +135,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Common/Templating/SmartyTemplating.php#L112" target='_blank'>framework\Hirudo\Impl\Common\Templating\SmartyTemplating.php at line 112</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/Common/Templating/SmartyTemplating.php#L112" target='_blank'>framework\Hirudo\Impl\Common\Templating\SmartyTemplating.php at line 112</a>
 
 <h3 id="addExtensionsPath()">addExtensionsPath</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>addExtensionsPath</span> (string path)
@@ -151,7 +151,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Common/Templating/SmartyTemplating.php#L116" target='_blank'>framework\Hirudo\Impl\Common\Templating\SmartyTemplating.php at line 116</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/Common/Templating/SmartyTemplating.php#L116" target='_blank'>framework\Hirudo\Impl\Common\Templating\SmartyTemplating.php at line 116</a>
 
 <h3 id="pick()">pick</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>pick</span> (mixed views)
@@ -163,7 +163,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Common/Templating/SmartyTemplating.php#L126" target='_blank'>framework\Hirudo\Impl\Common\Templating\SmartyTemplating.php at line 126</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/Common/Templating/SmartyTemplating.php#L126" target='_blank'>framework\Hirudo\Impl\Common\Templating\SmartyTemplating.php at line 126</a>
 
 <h3 id="getFileExtension()">getFileExtension</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>getFileExtension</span> ()

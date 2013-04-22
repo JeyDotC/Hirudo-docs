@@ -5,7 +5,7 @@
 **Hirudo\Core\Context\Session**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Context/Session.php#L56" target='_blank'>framework\Hirudo\Core\Context\Session.php at line 56</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Context/Session.php#L56" target='_blank'>framework\Hirudo\Core\Context\Session.php at line 56</a>
 
 #Interface Session#
 
@@ -59,7 +59,7 @@ value that key.</p></td>
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Context/Session.php#L63" target='_blank'>framework\Hirudo\Core\Context\Session.php at line 63</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Context/Session.php#L63" target='_blank'>framework\Hirudo\Core\Context\Session.php at line 63</a>
 
 <h3 id="id()">id</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>id</span> ()
@@ -75,7 +75,7 @@ value that key.</p></td>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Context/Session.php#L72" target='_blank'>framework\Hirudo\Core\Context\Session.php at line 72</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Context/Session.php#L72" target='_blank'>framework\Hirudo\Core\Context\Session.php at line 72</a>
 
 <h3 id="has()">has</h3>
 <span class='k'></span> <span class='nx'>boolean</span> <span class='nf'>has</span> (string key)
@@ -93,7 +93,7 @@ value that key.</p></td>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Context/Session.php#L81" target='_blank'>framework\Hirudo\Core\Context\Session.php at line 81</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Context/Session.php#L81" target='_blank'>framework\Hirudo\Core\Context\Session.php at line 81</a>
 
 <h3 id="put()">put</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>put</span> (string key, mixed value)
@@ -111,7 +111,7 @@ the former gets replaced.</p></p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Context/Session.php#L92" target='_blank'>framework\Hirudo\Core\Context\Session.php at line 92</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Context/Session.php#L92" target='_blank'>framework\Hirudo\Core\Context\Session.php at line 92</a>
 
 <h3 id="get()">get</h3>
 <span class='k'></span> <span class='nx'>mixed</span> <span class='nf'>get</span> (string key, mixed default)
@@ -131,7 +131,7 @@ value that key.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Context/Session.php#L101" target='_blank'>framework\Hirudo\Core\Context\Session.php at line 101</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Context/Session.php#L101" target='_blank'>framework\Hirudo\Core\Context\Session.php at line 101</a>
 
 <h3 id="remove()">remove</h3>
 <span class='k'></span> <span class='nx'>mixed</span> <span class='nf'>remove</span> (string key)
@@ -149,7 +149,7 @@ value that key.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Context/Session.php#L111" target='_blank'>framework\Hirudo\Core\Context\Session.php at line 111</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Context/Session.php#L111" target='_blank'>framework\Hirudo\Core\Context\Session.php at line 111</a>
 
 <h3 id="state()">state</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>state</span> ()

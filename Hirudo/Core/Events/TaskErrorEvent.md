@@ -5,7 +5,7 @@
 **Hirudo\Core\Events\TaskErrorEvent**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Events/TaskErrorEvent.php#L13" target='_blank'>framework\Hirudo\Core\Events\TaskErrorEvent.php at line 13</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Events/TaskErrorEvent.php#L13" target='_blank'>framework\Hirudo\Core\Events\TaskErrorEvent.php at line 13</a>
 
 #Class TaskErrorEvent#
 
@@ -58,7 +58,7 @@ Event &gt; **TaskErrorEvent**
 <h2>Constructor Detail</h2>
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Events/TaskErrorEvent.php#L27" target='_blank'>framework\Hirudo\Core\Events\TaskErrorEvent.php at line 27</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Events/TaskErrorEvent.php#L27" target='_blank'>framework\Hirudo\Core\Events\TaskErrorEvent.php at line 27</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Exceptions/HirudoException.md">HirudoException</a> exception)
@@ -71,7 +71,7 @@ Event &gt; **TaskErrorEvent**
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Events/TaskErrorEvent.php#L36" target='_blank'>framework\Hirudo\Core\Events\TaskErrorEvent.php at line 36</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Events/TaskErrorEvent.php#L36" target='_blank'>framework\Hirudo\Core\Events\TaskErrorEvent.php at line 36</a>
 
 <h3 id="getException()">getException</h3>
 <span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Exceptions/HirudoException.md>HirudoException</a></span> <span class='nf'>getException</span> ()
@@ -83,7 +83,7 @@ Event &gt; **TaskErrorEvent**
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Events/TaskErrorEvent.php#L40" target='_blank'>framework\Hirudo\Core\Events\TaskErrorEvent.php at line 40</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Events/TaskErrorEvent.php#L40" target='_blank'>framework\Hirudo\Core\Events\TaskErrorEvent.php at line 40</a>
 
 <h3 id="getResult()">getResult</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>getResult</span> ()
@@ -95,7 +95,7 @@ Event &gt; **TaskErrorEvent**
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Events/TaskErrorEvent.php#L44" target='_blank'>framework\Hirudo\Core\Events\TaskErrorEvent.php at line 44</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Events/TaskErrorEvent.php#L44" target='_blank'>framework\Hirudo\Core\Events\TaskErrorEvent.php at line 44</a>
 
 <h3 id="setResult()">setResult</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>setResult</span> (mixed result)

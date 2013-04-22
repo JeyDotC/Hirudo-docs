@@ -5,7 +5,7 @@
 **Hirudo\Core\Redirection**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Module.php#L107" target='_blank'>framework\Hirudo\Core\Module.php at line 107</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Module.php#L107" target='_blank'>framework\Hirudo\Core\Module.php at line 107</a>
 
 #Class Redirection#
 
@@ -41,7 +41,7 @@
 <h2>Constructor Detail</h2>
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Module.php#L111" target='_blank'>framework\Hirudo\Core\Module.php at line 111</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Module.php#L111" target='_blank'>framework\Hirudo\Core\Module.php at line 111</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (mixed url)
@@ -54,7 +54,7 @@
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Module.php#L115" target='_blank'>framework\Hirudo\Core\Module.php at line 115</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Module.php#L115" target='_blank'>framework\Hirudo\Core\Module.php at line 115</a>
 
 <h3 id="getUrl()">getUrl</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>getUrl</span> ()

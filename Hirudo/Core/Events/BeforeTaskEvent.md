@@ -5,7 +5,7 @@
 **Hirudo\Core\Events\BeforeTaskEvent**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Events/BeforeTaskEvent.php#L20" target='_blank'>framework\Hirudo\Core\Events\BeforeTaskEvent.php at line 20</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Events/BeforeTaskEvent.php#L20" target='_blank'>framework\Hirudo\Core\Events\BeforeTaskEvent.php at line 20</a>
 
 #Class BeforeTaskEvent#
 
@@ -62,7 +62,7 @@ Event &gt; **BeforeTaskEvent**
 <h2>Constructor Detail</h2>
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Events/BeforeTaskEvent.php#L26" target='_blank'>framework\Hirudo\Core\Events\BeforeTaskEvent.php at line 26</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Events/BeforeTaskEvent.php#L26" target='_blank'>framework\Hirudo\Core\Events\BeforeTaskEvent.php at line 26</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Task.md">Task</a> task)
@@ -75,7 +75,7 @@ Event &gt; **BeforeTaskEvent**
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Events/BeforeTaskEvent.php#L31" target='_blank'>framework\Hirudo\Core\Events\BeforeTaskEvent.php at line 31</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Events/BeforeTaskEvent.php#L31" target='_blank'>framework\Hirudo\Core\Events\BeforeTaskEvent.php at line 31</a>
 
 <h3 id="replaceCall()">replaceCall</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>replaceCall</span> (<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/ModuleCall.md">ModuleCall</a> call)
@@ -87,7 +87,7 @@ Event &gt; **BeforeTaskEvent**
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Events/BeforeTaskEvent.php#L41" target='_blank'>framework\Hirudo\Core\Events\BeforeTaskEvent.php at line 41</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Events/BeforeTaskEvent.php#L41" target='_blank'>framework\Hirudo\Core\Events\BeforeTaskEvent.php at line 41</a>
 
 <h3 id="isCallReplaced()">isCallReplaced</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>isCallReplaced</span> ()
@@ -99,7 +99,7 @@ Event &gt; **BeforeTaskEvent**
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Events/BeforeTaskEvent.php#L45" target='_blank'>framework\Hirudo\Core\Events\BeforeTaskEvent.php at line 45</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Events/BeforeTaskEvent.php#L45" target='_blank'>framework\Hirudo\Core\Events\BeforeTaskEvent.php at line 45</a>
 
 <h3 id="getCall()">getCall</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>getCall</span> ()
@@ -111,7 +111,7 @@ Event &gt; **BeforeTaskEvent**
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Events/BeforeTaskEvent.php#L53" target='_blank'>framework\Hirudo\Core\Events\BeforeTaskEvent.php at line 53</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Events/BeforeTaskEvent.php#L53" target='_blank'>framework\Hirudo\Core\Events\BeforeTaskEvent.php at line 53</a>
 
 <h3 id="getTask()">getTask</h3>
 <span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Task.md>Task</a></span> <span class='nf'>getTask</span> ()

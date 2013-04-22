@@ -5,7 +5,7 @@
 **Hirudo\Lang\ArrayEnum**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Lang/ArrayEnum.php#L10" target='_blank'>framework\Hirudo\Lang\ArrayEnum.php at line 10</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Lang/ArrayEnum.php#L10" target='_blank'>framework\Hirudo\Lang\ArrayEnum.php at line 10</a>
 
 #Class ArrayEnum#
 
@@ -42,7 +42,7 @@
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Lang/ArrayEnum.php#L12" target='_blank'>framework\Hirudo\Lang\ArrayEnum.php at line 12</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Lang/ArrayEnum.php#L12" target='_blank'>framework\Hirudo\Lang\ArrayEnum.php at line 12</a>
 
 <h3 id="hasValue()">hasValue</h3>
 <span class='k'>static </span> <span class='nx'>void</span> <span class='nf'>hasValue</span> (mixed value)
@@ -54,7 +54,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Lang/ArrayEnum.php#L17" target='_blank'>framework\Hirudo\Lang\ArrayEnum.php at line 17</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Lang/ArrayEnum.php#L17" target='_blank'>framework\Hirudo\Lang\ArrayEnum.php at line 17</a>
 
 <h3 id="fromValue()">fromValue</h3>
 <span class='k'>static </span> <span class='nx'>void</span> <span class='nf'>fromValue</span> (mixed value)

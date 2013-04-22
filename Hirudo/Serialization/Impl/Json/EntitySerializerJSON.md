@@ -5,7 +5,7 @@
 **Hirudo\Serialization\Impl\Json\EntitySerializerJSON**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Serialization/Impl/Json/EntitySerializerJSON.php#L32" target='_blank'>framework\Hirudo\Serialization\Impl\Json\EntitySerializerJSON.php at line 32</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Serialization/Impl/Json/EntitySerializerJSON.php#L32" target='_blank'>framework\Hirudo\Serialization\Impl\Json\EntitySerializerJSON.php at line 32</a>
 
 #Class EntitySerializerJSON#
 
@@ -49,7 +49,7 @@ string representation.</p></td>
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Serialization/Impl/Json/EntitySerializerJSON.php#L34" target='_blank'>framework\Hirudo\Serialization\Impl\Json\EntitySerializerJSON.php at line 34</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Serialization/Impl/Json/EntitySerializerJSON.php#L34" target='_blank'>framework\Hirudo\Serialization\Impl\Json\EntitySerializerJSON.php at line 34</a>
 
 <h3 id="doSerialize()">doSerialize</h3>
 <span class='k'>protected </span> <span class='nx'>string</span> <span class='nf'>doSerialize</span> (array array)

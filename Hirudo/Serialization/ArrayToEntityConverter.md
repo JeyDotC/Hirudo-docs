@@ -5,7 +5,7 @@
 **Hirudo\Serialization\ArrayToEntityConverter**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Serialization/ArrayToEntityConverter.php#L29" target='_blank'>framework\Hirudo\Serialization\ArrayToEntityConverter.php at line 29</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Serialization/ArrayToEntityConverter.php#L29" target='_blank'>framework\Hirudo\Serialization\ArrayToEntityConverter.php at line 29</a>
 
 #Class ArrayToEntityConverter#
 
@@ -38,7 +38,7 @@
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Serialization/ArrayToEntityConverter.php#L44" target='_blank'>framework\Hirudo\Serialization\ArrayToEntityConverter.php at line 44</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Serialization/ArrayToEntityConverter.php#L44" target='_blank'>framework\Hirudo\Serialization\ArrayToEntityConverter.php at line 44</a>
 
 <h3 id="convert()">convert</h3>
 <span class='k'></span> <span class='nx'>mixed</span> <span class='nf'>convert</span> (array array, mixed objectOrClassName)
@@ -58,7 +58,7 @@ a property in the object.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Serialization/ArrayToEntityConverter.php#L129" target='_blank'>framework\Hirudo\Serialization\ArrayToEntityConverter.php at line 129</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Serialization/ArrayToEntityConverter.php#L129" target='_blank'>framework\Hirudo\Serialization\ArrayToEntityConverter.php at line 129</a>
 
 <h3 id="typeIsPrimitive()">typeIsPrimitive</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>typeIsPrimitive</span> (mixed type)

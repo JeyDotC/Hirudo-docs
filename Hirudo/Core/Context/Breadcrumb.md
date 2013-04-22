@@ -5,7 +5,7 @@
 **Hirudo\Core\Context\Breadcrumb**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Context/Page.php#L7" target='_blank'>framework\Hirudo\Core\Context\Page.php at line 7</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Context/Page.php#L7" target='_blank'>framework\Hirudo\Core\Context\Page.php at line 7</a>
 
 #Class Breadcrumb#
 
@@ -45,7 +45,7 @@
 <h2>Constructor Detail</h2>
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Context/Page.php#L12" target='_blank'>framework\Hirudo\Core\Context\Page.php at line 12</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Context/Page.php#L12" target='_blank'>framework\Hirudo\Core\Context\Page.php at line 12</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (mixed title, mixed url)
@@ -58,7 +58,7 @@
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Context/Page.php#L17" target='_blank'>framework\Hirudo\Core\Context\Page.php at line 17</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Context/Page.php#L17" target='_blank'>framework\Hirudo\Core\Context\Page.php at line 17</a>
 
 <h3 id="getTitle()">getTitle</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>getTitle</span> ()
@@ -70,7 +70,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Context/Page.php#L21" target='_blank'>framework\Hirudo\Core\Context\Page.php at line 21</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Context/Page.php#L21" target='_blank'>framework\Hirudo\Core\Context\Page.php at line 21</a>
 
 <h3 id="getUrl()">getUrl</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>getUrl</span> ()

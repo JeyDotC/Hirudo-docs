@@ -5,7 +5,7 @@
 **Hirudo\Core\Context\Page**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Context/Page.php#L31" target='_blank'>framework\Hirudo\Core\Context\Page.php at line 31</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Context/Page.php#L31" target='_blank'>framework\Hirudo\Core\Context\Page.php at line 31</a>
 
 #Interface Page#
 
@@ -82,7 +82,7 @@
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Context/Page.php#L39" target='_blank'>framework\Hirudo\Core\Context\Page.php at line 39</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Context/Page.php#L39" target='_blank'>framework\Hirudo\Core\Context\Page.php at line 39</a>
 
 <h3 id="setTitle()">setTitle</h3>
 <span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/Page.md>Page</a></span> <span class='nf'>setTitle</span> (string title)
@@ -98,7 +98,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Context/Page.php#L47" target='_blank'>framework\Hirudo\Core\Context\Page.php at line 47</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Context/Page.php#L47" target='_blank'>framework\Hirudo\Core\Context\Page.php at line 47</a>
 
 <h3 id="setHeading()">setHeading</h3>
 <span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/Page.md>Page</a></span> <span class='nf'>setHeading</span> (string heading)
@@ -114,7 +114,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Context/Page.php#L55" target='_blank'>framework\Hirudo\Core\Context\Page.php at line 55</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Context/Page.php#L55" target='_blank'>framework\Hirudo\Core\Context\Page.php at line 55</a>
 
 <h3 id="addMessage()">addMessage</h3>
 <span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/Page.md>Page</a></span> <span class='nf'>addMessage</span> (\Hirudo\Core\Util\Message message)
@@ -130,7 +130,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Context/Page.php#L64" target='_blank'>framework\Hirudo\Core\Context\Page.php at line 64</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Context/Page.php#L64" target='_blank'>framework\Hirudo\Core\Context\Page.php at line 64</a>
 
 <h3 id="addBreadcrumb()">addBreadcrumb</h3>
 <span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/Page.md>Page</a></span> <span class='nf'>addBreadcrumb</span> (string title, string url)
@@ -146,7 +146,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Context/Page.php#L69" target='_blank'>framework\Hirudo\Core\Context\Page.php at line 69</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Context/Page.php#L69" target='_blank'>framework\Hirudo\Core\Context\Page.php at line 69</a>
 
 <h3 id="renderTitle()">renderTitle</h3>
 <span class='k'></span> <span class='nx'>boolean</span> <span class='nf'>renderTitle</span> ()
@@ -158,7 +158,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Context/Page.php#L74" target='_blank'>framework\Hirudo\Core\Context\Page.php at line 74</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Context/Page.php#L74" target='_blank'>framework\Hirudo\Core\Context\Page.php at line 74</a>
 
 <h3 id="renderHeading()">renderHeading</h3>
 <span class='k'></span> <span class='nx'>boolean</span> <span class='nf'>renderHeading</span> ()
@@ -170,7 +170,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Context/Page.php#L79" target='_blank'>framework\Hirudo\Core\Context\Page.php at line 79</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Context/Page.php#L79" target='_blank'>framework\Hirudo\Core\Context\Page.php at line 79</a>
 
 <h3 id="renderMessages()">renderMessages</h3>
 <span class='k'></span> <span class='nx'>boolean</span> <span class='nf'>renderMessages</span> ()
@@ -182,7 +182,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Context/Page.php#L84" target='_blank'>framework\Hirudo\Core\Context\Page.php at line 84</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Context/Page.php#L84" target='_blank'>framework\Hirudo\Core\Context\Page.php at line 84</a>
 
 <h3 id="renderBreadcrumbs()">renderBreadcrumbs</h3>
 <span class='k'></span> <span class='nx'>boolean</span> <span class='nf'>renderBreadcrumbs</span> ()
@@ -194,7 +194,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Context/Page.php#L89" target='_blank'>framework\Hirudo\Core\Context\Page.php at line 89</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Context/Page.php#L89" target='_blank'>framework\Hirudo\Core\Context\Page.php at line 89</a>
 
 <h3 id="getTitle()">getTitle</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>getTitle</span> ()
@@ -206,7 +206,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Context/Page.php#L94" target='_blank'>framework\Hirudo\Core\Context\Page.php at line 94</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Context/Page.php#L94" target='_blank'>framework\Hirudo\Core\Context\Page.php at line 94</a>
 
 <h3 id="getHeading()">getHeading</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>getHeading</span> ()
@@ -218,7 +218,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Context/Page.php#L99" target='_blank'>framework\Hirudo\Core\Context\Page.php at line 99</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Context/Page.php#L99" target='_blank'>framework\Hirudo\Core\Context\Page.php at line 99</a>
 
 <h3 id="getMessages()">getMessages</h3>
 <span class='k'></span> <span class='nx'>array<Message></span> <span class='nf'>getMessages</span> ()
@@ -230,7 +230,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Context/Page.php#L104" target='_blank'>framework\Hirudo\Core\Context\Page.php at line 104</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Context/Page.php#L104" target='_blank'>framework\Hirudo\Core\Context\Page.php at line 104</a>
 
 <h3 id="getBreadcrumbs()">getBreadcrumbs</h3>
 <span class='k'></span> <span class='nx'>array<Breadcrumb></span> <span class='nf'>getBreadcrumbs</span> ()

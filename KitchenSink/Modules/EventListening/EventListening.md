@@ -5,7 +5,7 @@
 **KitchenSink\Modules\EventListening\EventListening**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/KitchenSink/Modules/EventListening/EventListening.php#L18" target='_blank'>src\KitchenSink\Modules\EventListening\EventListening.php at line 18</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/src/KitchenSink/Modules/EventListening/EventListening.php#L18" target='_blank'>src\KitchenSink\Modules\EventListening\EventListening.php at line 18</a>
 
 #Class EventListening#
 
@@ -62,7 +62,7 @@
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/KitchenSink/Modules/EventListening/EventListening.php#L28" target='_blank'>src\KitchenSink\Modules\EventListening\EventListening.php at line 28</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/src/KitchenSink/Modules/EventListening/EventListening.php#L28" target='_blank'>src\KitchenSink\Modules\EventListening\EventListening.php at line 28</a>
 
 <h3 id="goToSomewhereElse()">goToSomewhereElse</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>goToSomewhereElse</span> (<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Events/BeforeTaskEvent.md">BeforeTaskEvent</a> e)
@@ -80,7 +80,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/KitchenSink/Modules/EventListening/EventListening.php#L46" target='_blank'>src\KitchenSink\Modules\EventListening\EventListening.php at line 46</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/src/KitchenSink/Modules/EventListening/EventListening.php#L46" target='_blank'>src\KitchenSink\Modules\EventListening\EventListening.php at line 46</a>
 
 <h3 id="listenToSpecificCall()">listenToSpecificCall</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>listenToSpecificCall</span> (<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Events/AfterTaskEvent.md">AfterTaskEvent</a> e)
@@ -97,7 +97,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/KitchenSink/Modules/EventListening/EventListening.php#L61" target='_blank'>src\KitchenSink\Modules\EventListening\EventListening.php at line 61</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/src/KitchenSink/Modules/EventListening/EventListening.php#L61" target='_blank'>src\KitchenSink\Modules\EventListening\EventListening.php at line 61</a>
 
 <h3 id="broadCastEvent()">broadCastEvent</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>broadCastEvent</span> ()
@@ -109,7 +109,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/KitchenSink/Modules/EventListening/EventListening.php#L72" target='_blank'>src\KitchenSink\Modules\EventListening\EventListening.php at line 72</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/src/KitchenSink/Modules/EventListening/EventListening.php#L72" target='_blank'>src\KitchenSink\Modules\EventListening\EventListening.php at line 72</a>
 
 <h3 id="respondToCustomEvent()">respondToCustomEvent</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>respondToCustomEvent</span> (type event)

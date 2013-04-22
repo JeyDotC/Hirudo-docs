@@ -5,7 +5,7 @@
 **HTTP_Session2\HTTP_Session2**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L112" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 112</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L112" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 112</a>
 
 #Class HTTP_Session2#
 
@@ -274,7 +274,7 @@ and session data is cleaned upIt returns the previous value of this property</p>
 
 ##Constant Detail##
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L122" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 122</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L122" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 122</a>
 
 <h3 id="CONTINUED">CONTINUED</h3>
 <span class='k'>final static </span> <span class='nx'>int</span><span class='no'>CONTINUED</span><span class='o'> = 2</span>
@@ -290,7 +290,7 @@ and session data is cleaned upIt returns the previous value of this property</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L144" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 144</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L144" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 144</a>
 
 <h3 id="ERR_NOT_IMPLEMENTED">ERR_NOT_IMPLEMENTED</h3>
 <span class='k'>final static </span> <span class='nx'>int</span><span class='no'>ERR_NOT_IMPLEMENTED</span><span class='o'> = 670</span>
@@ -306,7 +306,7 @@ and session data is cleaned upIt returns the previous value of this property</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L133" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 133</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L133" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 133</a>
 
 <h3 id="ERR_SYSTEM_PERM">ERR_SYSTEM_PERM</h3>
 <span class='k'>final static </span> <span class='nx'>int</span><span class='no'>ERR_SYSTEM_PERM</span><span class='o'> = 668</span>
@@ -322,7 +322,7 @@ and session data is cleaned upIt returns the previous value of this property</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L139" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 139</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L139" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 139</a>
 
 <h3 id="ERR_SYSTEM_PRECONDITION">ERR_SYSTEM_PRECONDITION</h3>
 <span class='k'>final static </span> <span class='nx'>int</span><span class='no'>ERR_SYSTEM_PRECONDITION</span><span class='o'> = 669</span>
@@ -338,7 +338,7 @@ and session data is cleaned upIt returns the previous value of this property</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L127" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 127</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L127" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 127</a>
 
 <h3 id="ERR_UNKNOWN_CONTAINER">ERR_UNKNOWN_CONTAINER</h3>
 <span class='k'>final static </span> <span class='nx'>int</span><span class='no'>ERR_UNKNOWN_CONTAINER</span><span class='o'> = 667</span>
@@ -354,7 +354,7 @@ and session data is cleaned upIt returns the previous value of this property</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L117" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 117</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L117" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 117</a>
 
 <h3 id="STARTED">STARTED</h3>
 <span class='k'>final static </span> <span class='nx'>int</span><span class='no'>STARTED</span><span class='o'> = 1</span>
@@ -371,7 +371,7 @@ and session data is cleaned upIt returns the previous value of this property</p>
 
 ##Field Detail##
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L149" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 149</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L149" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 149</a>
 
 <h3 id="container">container</h3>
 <span class='k'>static </span> <span class='nx'>mixed</span><span class='no'> $container</span><div class="details">
@@ -382,7 +382,7 @@ and session data is cleaned upIt returns the previous value of this property</p>
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L166" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 166</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L166" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 166</a>
 
 <h3 id="setContainer()">setContainer</h3>
 <span class='k'>static </span> <span class='nx'>void</span> <span class='nf'>setContainer</span> (string container, array container_options)
@@ -405,7 +405,7 @@ i.e. Storing the session data in a local database.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L200" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 200</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L200" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 200</a>
 
 <h3 id="start()">start</h3>
 <span class='k'>static </span> <span class='nx'>void</span> <span class='nf'>start</span> (string name, string id)
@@ -429,7 +429,7 @@ You can provide your own name and/or id for a session.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L233" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 233</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L233" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 233</a>
 
 <h3 id="pause()">pause</h3>
 <span class='k'>static </span> <span class='nx'>void</span> <span class='nf'>pause</span> ()
@@ -453,7 +453,7 @@ to session variables are done.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L251" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 251</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L251" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 251</a>
 
 <h3 id="destroy()">destroy</h3>
 <span class='k'>static </span> <span class='nx'>void</span> <span class='nf'>destroy</span> ()
@@ -475,7 +475,7 @@ is called. It does not unset the session cookie.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L262" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 262</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L262" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 262</a>
 
 <h3 id="clear()">clear</h3>
 <span class='k'>static </span> <span class='nx'>void</span> <span class='nf'>clear</span> ()
@@ -491,7 +491,7 @@ is called. It does not unset the session cookie.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L275" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 275</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L275" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 275</a>
 
 <h3 id="detectID()">detectID</h3>
 <span class='k'>static </span> <span class='nx'>string</span> <span class='nf'>detectID</span> ()
@@ -507,7 +507,7 @@ is called. It does not unset the session cookie.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L299" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 299</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L299" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 299</a>
 
 <h3 id="name()">name</h3>
 <span class='k'>static </span> <span class='nx'>string</span> <span class='nf'>name</span> (string name)
@@ -527,7 +527,7 @@ is called. It does not unset the session cookie.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L314" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 314</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L314" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 314</a>
 
 <h3 id="id()">id</h3>
 <span class='k'>static </span> <span class='nx'>string</span> <span class='nf'>id</span> (string id)
@@ -547,7 +547,7 @@ is called. It does not unset the session cookie.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L329" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 329</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L329" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 329</a>
 
 <h3 id="setExpire()">setExpire</h3>
 <span class='k'>static </span> <span class='nx'>void</span> <span class='nf'>setExpire</span> (integer time, bool add)
@@ -564,7 +564,7 @@ is called. It does not unset the session cookie.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L352" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 352</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L352" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 352</a>
 
 <h3 id="setIdle()">setIdle</h3>
 <span class='k'>static </span> <span class='nx'>void</span> <span class='nf'>setIdle</span> (integer time, bool add)
@@ -583,7 +583,7 @@ provider terminates the session.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L368" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 368</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L368" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 368</a>
 
 <h3 id="sessionValidThru()">sessionValidThru</h3>
 <span class='k'>static </span> <span class='nx'>integer</span> <span class='nf'>sessionValidThru</span> ()
@@ -599,7 +599,7 @@ provider terminates the session.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L383" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 383</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L383" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 383</a>
 
 <h3 id="isExpired()">isExpired</h3>
 <span class='k'>static </span> <span class='nx'>boolean</span> <span class='nf'>isExpired</span> ()
@@ -611,7 +611,7 @@ provider terminates the session.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L403" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 403</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L403" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 403</a>
 
 <h3 id="isIdle()">isIdle</h3>
 <span class='k'>static </span> <span class='nx'>boolean</span> <span class='nf'>isIdle</span> ()
@@ -627,7 +627,7 @@ provider terminates the session.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L422" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 422</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L422" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 422</a>
 
 <h3 id="updateIdle()">updateIdle</h3>
 <span class='k'>static </span> <span class='nx'>void</span> <span class='nf'>updateIdle</span> ()
@@ -639,7 +639,7 @@ provider terminates the session.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L450" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 450</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L450" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 450</a>
 
 <h3 id="useCookies()">useCookies</h3>
 <span class='k'>static </span> <span class='nx'>boolean</span> <span class='nf'>useCookies</span> (boolean useCookies)
@@ -665,7 +665,7 @@ property.</p><p>It returns the previous value of this property.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L484" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 484</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L484" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 484</a>
 
 <h3 id="isNew()">isNew</h3>
 <span class='k'>static </span> <span class='nx'>boolean</span> <span class='nf'>isNew</span> ()
@@ -687,7 +687,7 @@ the session with the HTTP_Session2::start() method.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L502" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 502</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L502" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 502</a>
 
 <h3 id="register()">register</h3>
 <span class='k'>static </span> <span class='nx'>void</span> <span class='nf'>register</span> (string name)
@@ -705,7 +705,7 @@ the session with the HTTP_Session2::start() method.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L514" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 514</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L514" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 514</a>
 
 <h3 id="unregister()">unregister</h3>
 <span class='k'>static </span> <span class='nx'>void</span> <span class='nf'>unregister</span> (string name)
@@ -723,7 +723,7 @@ the session with the HTTP_Session2::start() method.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L526" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 526</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L526" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 526</a>
 
 <h3 id="get()">get</h3>
 <span class='k'>static </span> <span class='nx'>mixed</span> <span class='nf'>get</span> (string name, mixed default)
@@ -742,7 +742,7 @@ the session with the HTTP_Session2::start() method.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L541" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 541</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L541" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 541</a>
 
 <h3 id="set()">set</h3>
 <span class='k'>static </span> <span class='nx'>mixed</span> <span class='nf'>set</span> (string name, mixed value)
@@ -761,7 +761,7 @@ the session with the HTTP_Session2::start() method.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L561" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 561</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L561" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 561</a>
 
 <h3 id="getLocal()">getLocal</h3>
 <span class='k'>static </span> <span class='nx'>mixed</span> <span class='nf'>getLocal</span> (string name, mixed default)
@@ -780,7 +780,7 @@ the session with the HTTP_Session2::start() method.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L581" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 581</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L581" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 581</a>
 
 <h3 id="setLocal()">setLocal</h3>
 <span class='k'>static </span> <span class='nx'>mixed</span> <span class='nf'>setLocal</span> (string name, mixed value)
@@ -800,7 +800,7 @@ Two scripts can have local variables with the same names.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L602" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 602</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L602" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 602</a>
 
 <h3 id="useTransSID()">useTransSID</h3>
 <span class='k'>static </span> <span class='nx'>boolean</span> <span class='nf'>useTransSID</span> (boolean useTransSID)
@@ -816,7 +816,7 @@ Two scripts can have local variables with the same names.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L617" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 617</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L617" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 617</a>
 
 <h3 id="localName()">localName</h3>
 <span class='k'>static </span> <span class='nx'>string</span> <span class='nf'>localName</span> (string name)
@@ -834,7 +834,7 @@ Two scripts can have local variables with the same names.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L633" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 633</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L633" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 633</a>
 
 <h3 id="init()">init</h3>
 <span class='k'>static </span> <span class='nx'>void</span> <span class='nf'>init</span> ()
@@ -846,7 +846,7 @@ Two scripts can have local variables with the same names.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L650" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 650</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L650" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 650</a>
 
 <h3 id="regenerateId()">regenerateId</h3>
 <span class='k'>static </span> <span class='nx'>boolean</span> <span class='nf'>regenerateId</span> (boolean deleteOldSessionData)
@@ -862,7 +862,7 @@ Two scripts can have local variables with the same names.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L679" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 679</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L679" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 679</a>
 
 <h3 id="replicate()">replicate</h3>
 <span class='k'>static </span> <span class='nx'>boolean</span> <span class='nf'>replicate</span> (string target, string id)
@@ -879,7 +879,7 @@ Two scripts can have local variables with the same names.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L694" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 694</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L694" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 694</a>
 
 <h3 id="setGcMaxLifetime()">setGcMaxLifetime</h3>
 <span class='k'>static </span> <span class='nx'>boolean</span> <span class='nf'>setGcMaxLifetime</span> (int gcMaxLifetime)
@@ -898,7 +898,7 @@ after which session data will be seen as 'garbage' and cleaned up</p><p>It retur
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L714" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 714</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/StandAlone/lib/HTTP/Session2.php#L714" target='_blank'>framework\Hirudo\Impl\StandAlone\lib\HTTP\Session2.php at line 714</a>
 
 <h3 id="setGcProbability()">setGcProbability</h3>
 <span class='k'>static </span> <span class='nx'>boolean</span> <span class='nf'>setGcProbability</span> (int gcProbability)

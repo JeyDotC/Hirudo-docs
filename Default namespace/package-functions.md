@@ -76,7 +76,7 @@ module and the view name, so any view from any module can be included or inherit
 
 <h2 id="detail_function">Function Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Common/Templating/helperFunctions.php#L32" target='_blank'>framework\Hirudo\Impl\Common\Templating\helperFunctions.php at line 32</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/Common/Templating/helperFunctions.php#L32" target='_blank'>framework\Hirudo\Impl\Common\Templating\helperFunctions.php at line 32</a>
 
 <h3 id="if_()">if_</h3>
 <span class='k'></span> <span class='nx'>mixed</span> if_ (boolean condition, mixed isTrue, mixed isFalse)
@@ -94,7 +94,7 @@ module and the view name, so any view from any module can be included or inherit
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Common/Templating/helperFunctions.php#L14" target='_blank'>framework\Hirudo\Impl\Common\Templating\helperFunctions.php at line 14</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/Common/Templating/helperFunctions.php#L14" target='_blank'>framework\Hirudo\Impl\Common\Templating\helperFunctions.php at line 14</a>
 
 <h3 id="new_()">new_</h3>
 <span class='k'></span> <span class='nx'>mixed</span> new_ (string className, mixed _)
@@ -112,7 +112,7 @@ objects.</p><p>Usage: {$value = new_("My\Class", $param1, "Another param")}</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Common/Templating/SmartyTemplatingPlugins/block.page_breadcrumbs.php#L3" target='_blank'>framework\Hirudo\Impl\Common\Templating\SmartyTemplatingPlugins\block.page_breadcrumbs.php at line 3</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/Common/Templating/SmartyTemplatingPlugins/block.page_breadcrumbs.php#L3" target='_blank'>framework\Hirudo\Impl\Common\Templating\SmartyTemplatingPlugins\block.page_breadcrumbs.php at line 3</a>
 
 <h3 id="smarty_block_page_breadcrumbs()">smarty_block_page_breadcrumbs</h3>
 <span class='k'></span> <span class='nx'>void</span> smarty_block_page_breadcrumbs (mixed params, mixed content, Smarty_Internal_Template template, mixed repeat)
@@ -123,7 +123,7 @@ objects.</p><p>Usage: {$value = new_("My\Class", $param1, "Another param")}</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Common/Templating/SmartyTemplatingPlugins/block.page_messages.php#L3" target='_blank'>framework\Hirudo\Impl\Common\Templating\SmartyTemplatingPlugins\block.page_messages.php at line 3</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/Common/Templating/SmartyTemplatingPlugins/block.page_messages.php#L3" target='_blank'>framework\Hirudo\Impl\Common\Templating\SmartyTemplatingPlugins\block.page_messages.php at line 3</a>
 
 <h3 id="smarty_block_page_messages()">smarty_block_page_messages</h3>
 <span class='k'></span> <span class='nx'>void</span> smarty_block_page_messages (mixed params, mixed content, Smarty_Internal_Template template, mixed repeat)
@@ -134,7 +134,7 @@ objects.</p><p>Usage: {$value = new_("My\Class", $param1, "Another param")}</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Drupal/Templating/SmartyTemplatingPlugins/function.bind.php#L40" target='_blank'>framework\Hirudo\Impl\Drupal\Templating\SmartyTemplatingPlugins\function.bind.php at line 40</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/Drupal/Templating/SmartyTemplatingPlugins/function.bind.php#L40" target='_blank'>framework\Hirudo\Impl\Drupal\Templating\SmartyTemplatingPlugins\function.bind.php at line 40</a>
 
 <h3 id="smarty_function_bind()">smarty_function_bind</h3>
 <span class='k'></span> <span class='nx'>string</span> smarty_function_bind (array params, Smarty_Internal_Template template)
@@ -159,7 +159,7 @@ naming, like this:
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Drupal/Templating/SmartyTemplatingPlugins/function.css.php#L16" target='_blank'>framework\Hirudo\Impl\Drupal\Templating\SmartyTemplatingPlugins\function.css.php at line 16</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/Drupal/Templating/SmartyTemplatingPlugins/function.css.php#L16" target='_blank'>framework\Hirudo\Impl\Drupal\Templating\SmartyTemplatingPlugins\function.css.php at line 16</a>
 
 <h3 id="smarty_function_css()">smarty_function_css</h3>
 <span class='k'></span> <span class='nx'>string</span> smarty_function_css (array params, type template)
@@ -178,7 +178,7 @@ Usage: <code>{css file="path/to/my/cssFile.css"}</code></p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Drupal/Templating/SmartyTemplatingPlugins/function.js.php#L16" target='_blank'>framework\Hirudo\Impl\Drupal\Templating\SmartyTemplatingPlugins\function.js.php at line 16</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/Drupal/Templating/SmartyTemplatingPlugins/function.js.php#L16" target='_blank'>framework\Hirudo\Impl\Drupal\Templating\SmartyTemplatingPlugins\function.js.php at line 16</a>
 
 <h3 id="smarty_function_js()">smarty_function_js</h3>
 <span class='k'></span> <span class='nx'>string</span> smarty_function_js (array params, type template)
@@ -197,7 +197,7 @@ Usage: <code>{script file="path/to/my/jsFile.js"}</code></p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Common/Templating/SmartyTemplatingPlugins/function.page_add_breadcrumb.php#L6" target='_blank'>framework\Hirudo\Impl\Common\Templating\SmartyTemplatingPlugins\function.page_add_breadcrumb.php at line 6</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/Common/Templating/SmartyTemplatingPlugins/function.page_add_breadcrumb.php#L6" target='_blank'>framework\Hirudo\Impl\Common\Templating\SmartyTemplatingPlugins\function.page_add_breadcrumb.php at line 6</a>
 
 <h3 id="smarty_function_page_add_breadcrumb()">smarty_function_page_add_breadcrumb</h3>
 <span class='k'></span> <span class='nx'>void</span> smarty_function_page_add_breadcrumb (mixed params, mixed template)
@@ -208,7 +208,7 @@ Usage: <code>{script file="path/to/my/jsFile.js"}</code></p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Common/Templating/SmartyTemplatingPlugins/function.page_add_message.php#L7" target='_blank'>framework\Hirudo\Impl\Common\Templating\SmartyTemplatingPlugins\function.page_add_message.php at line 7</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/Common/Templating/SmartyTemplatingPlugins/function.page_add_message.php#L7" target='_blank'>framework\Hirudo\Impl\Common\Templating\SmartyTemplatingPlugins\function.page_add_message.php at line 7</a>
 
 <h3 id="smarty_function_page_add_message()">smarty_function_page_add_message</h3>
 <span class='k'></span> <span class='nx'>void</span> smarty_function_page_add_message (mixed params, mixed template)
@@ -219,7 +219,7 @@ Usage: <code>{script file="path/to/my/jsFile.js"}</code></p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Common/Templating/SmartyTemplatingPlugins/function.page_title.php#L3" target='_blank'>framework\Hirudo\Impl\Common\Templating\SmartyTemplatingPlugins\function.page_title.php at line 3</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/Common/Templating/SmartyTemplatingPlugins/function.page_title.php#L3" target='_blank'>framework\Hirudo\Impl\Common\Templating\SmartyTemplatingPlugins\function.page_title.php at line 3</a>
 
 <h3 id="smarty_function_page_title()">smarty_function_page_title</h3>
 <span class='k'></span> <span class='nx'>void</span> smarty_function_page_title (mixed params, mixed template)
@@ -230,7 +230,7 @@ Usage: <code>{script file="path/to/my/jsFile.js"}</code></p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Drupal/Templating/SmartyTemplatingPlugins/function.url.php#L45" target='_blank'>framework\Hirudo\Impl\Drupal\Templating\SmartyTemplatingPlugins\function.url.php at line 45</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/Drupal/Templating/SmartyTemplatingPlugins/function.url.php#L45" target='_blank'>framework\Hirudo\Impl\Drupal\Templating\SmartyTemplatingPlugins\function.url.php at line 45</a>
 
 <h3 id="smarty_function_url()">smarty_function_url</h3>
 <span class='k'></span> <span class='nx'>string</span> smarty_function_url (array params, Smarty_Internal_Template template)
@@ -260,7 +260,7 @@ array(
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Drupal/Templating/SmartyTemplatingPlugins/modifier.toAssetPath.php#L39" target='_blank'>framework\Hirudo\Impl\Drupal\Templating\SmartyTemplatingPlugins\modifier.toAssetPath.php at line 39</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/Drupal/Templating/SmartyTemplatingPlugins/modifier.toAssetPath.php#L39" target='_blank'>framework\Hirudo\Impl\Drupal\Templating\SmartyTemplatingPlugins\modifier.toAssetPath.php at line 39</a>
 
 <h3 id="smarty_modifier_toAssetPath()">smarty_modifier_toAssetPath</h3>
 <span class='k'></span> <span class='nx'>string</span> smarty_modifier_toAssetPath (string string)
@@ -285,7 +285,7 @@ module and the view name, so any view from any module can be included or inherit
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Drupal/Templating/SmartyTemplatingPlugins/modifier.toPath.php#L39" target='_blank'>framework\Hirudo\Impl\Drupal\Templating\SmartyTemplatingPlugins\modifier.toPath.php at line 39</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/Drupal/Templating/SmartyTemplatingPlugins/modifier.toPath.php#L39" target='_blank'>framework\Hirudo\Impl\Drupal\Templating\SmartyTemplatingPlugins\modifier.toPath.php at line 39</a>
 
 <h3 id="smarty_modifier_toPath()">smarty_modifier_toPath</h3>
 <span class='k'></span> <span class='nx'>string</span> smarty_modifier_toPath (string string, string extension)
@@ -310,7 +310,7 @@ module and the view name, so any view from any module can be included or inherit
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Drupal/Templating/SmartyTemplatingPlugins/modifier.toViewPath.php#L39" target='_blank'>framework\Hirudo\Impl\Drupal\Templating\SmartyTemplatingPlugins\modifier.toViewPath.php at line 39</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/Drupal/Templating/SmartyTemplatingPlugins/modifier.toViewPath.php#L39" target='_blank'>framework\Hirudo\Impl\Drupal\Templating\SmartyTemplatingPlugins\modifier.toViewPath.php at line 39</a>
 
 <h3 id="smarty_modifier_toViewPath()">smarty_modifier_toViewPath</h3>
 <span class='k'></span> <span class='nx'>string</span> smarty_modifier_toViewPath (string string)

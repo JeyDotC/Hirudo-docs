@@ -5,7 +5,7 @@
 **KitchenSink\Modules\Welcome\Welcome**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/KitchenSink/Modules/Welcome/Welcome.php#L14" target='_blank'>src\KitchenSink\Modules\Welcome\Welcome.php at line 14</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/src/KitchenSink/Modules/Welcome/Welcome.php#L14" target='_blank'>src\KitchenSink\Modules\Welcome\Welcome.php at line 14</a>
 
 #Class Welcome#
 
@@ -60,7 +60,7 @@ and how to add notifications which shall be represented by the template.</p></di
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/KitchenSink/Modules/Welcome/Welcome.php#L19" target='_blank'>src\KitchenSink\Modules\Welcome\Welcome.php at line 19</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/src/KitchenSink/Modules/Welcome/Welcome.php#L19" target='_blank'>src\KitchenSink\Modules\Welcome\Welcome.php at line 19</a>
 
 <h3 id="index()">index</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>index</span> ()
@@ -72,7 +72,7 @@ and how to add notifications which shall be represented by the template.</p></di
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/KitchenSink/Modules/Welcome/Welcome.php#L36" target='_blank'>src\KitchenSink\Modules\Welcome\Welcome.php at line 36</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/src/KitchenSink/Modules/Welcome/Welcome.php#L36" target='_blank'>src\KitchenSink\Modules\Welcome\Welcome.php at line 36</a>
 
 <h3 id="notifications()">notifications</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>notifications</span> ()
@@ -84,7 +84,7 @@ and how to add notifications which shall be represented by the template.</p></di
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/KitchenSink/Modules/Welcome/Welcome.php#L69" target='_blank'>src\KitchenSink\Modules\Welcome\Welcome.php at line 69</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/src/KitchenSink/Modules/Welcome/Welcome.php#L69" target='_blank'>src\KitchenSink\Modules\Welcome\Welcome.php at line 69</a>
 
 <h3 id="boomPage()">boomPage</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>boomPage</span> ()

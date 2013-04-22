@@ -5,7 +5,7 @@
 **Hirudo\Core\Context\ModuleCall**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Context/ModuleCall.php#L32" target='_blank'>framework\Hirudo\Core\Context\ModuleCall.php at line 32</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Context/ModuleCall.php#L32" target='_blank'>framework\Hirudo\Core\Context\ModuleCall.php at line 32</a>
 
 #Class ModuleCall#
 
@@ -77,7 +77,7 @@ format.</p></td>
 <h2>Constructor Detail</h2>
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Context/ModuleCall.php#L46" target='_blank'>framework\Hirudo\Core\Context\ModuleCall.php at line 46</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Context/ModuleCall.php#L46" target='_blank'>framework\Hirudo\Core\Context\ModuleCall.php at line 46</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (string app, string module, string task, UnderscoreException lastUnhandledException)
@@ -97,7 +97,7 @@ format.</p></td>
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Context/ModuleCall.php#L52" target='_blank'>framework\Hirudo\Core\Context\ModuleCall.php at line 52</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Context/ModuleCall.php#L52" target='_blank'>framework\Hirudo\Core\Context\ModuleCall.php at line 52</a>
 
 <h3 id="isEmpty()">isEmpty</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>isEmpty</span> ()
@@ -109,7 +109,7 @@ format.</p></td>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Context/ModuleCall.php#L63" target='_blank'>framework\Hirudo\Core\Context\ModuleCall.php at line 63</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Context/ModuleCall.php#L63" target='_blank'>framework\Hirudo\Core\Context\ModuleCall.php at line 63</a>
 
 <h3 id="fromString()">fromString</h3>
 <span class='k'>static </span> <span class='nx'>\Hirudo\Core\Context\ModuleCall</span> <span class='nf'>fromString</span> (string string)
@@ -128,7 +128,7 @@ format.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Context/ModuleCall.php#L73" target='_blank'>framework\Hirudo\Core\Context\ModuleCall.php at line 73</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Context/ModuleCall.php#L73" target='_blank'>framework\Hirudo\Core\Context\ModuleCall.php at line 73</a>
 
 <h3 id="getApp()">getApp</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>getApp</span> ()
@@ -144,7 +144,7 @@ format.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Context/ModuleCall.php#L82" target='_blank'>framework\Hirudo\Core\Context\ModuleCall.php at line 82</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Context/ModuleCall.php#L82" target='_blank'>framework\Hirudo\Core\Context\ModuleCall.php at line 82</a>
 
 <h3 id="setApp()">setApp</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>setApp</span> (string app)
@@ -160,7 +160,7 @@ format.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Context/ModuleCall.php#L91" target='_blank'>framework\Hirudo\Core\Context\ModuleCall.php at line 91</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Context/ModuleCall.php#L91" target='_blank'>framework\Hirudo\Core\Context\ModuleCall.php at line 91</a>
 
 <h3 id="getModule()">getModule</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>getModule</span> ()
@@ -176,7 +176,7 @@ format.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Context/ModuleCall.php#L100" target='_blank'>framework\Hirudo\Core\Context\ModuleCall.php at line 100</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Context/ModuleCall.php#L100" target='_blank'>framework\Hirudo\Core\Context\ModuleCall.php at line 100</a>
 
 <h3 id="setModule()">setModule</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>setModule</span> (string module)
@@ -192,7 +192,7 @@ format.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Context/ModuleCall.php#L109" target='_blank'>framework\Hirudo\Core\Context\ModuleCall.php at line 109</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Context/ModuleCall.php#L109" target='_blank'>framework\Hirudo\Core\Context\ModuleCall.php at line 109</a>
 
 <h3 id="getTask()">getTask</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>getTask</span> ()
@@ -208,7 +208,7 @@ format.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Context/ModuleCall.php#L118" target='_blank'>framework\Hirudo\Core\Context\ModuleCall.php at line 118</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Context/ModuleCall.php#L118" target='_blank'>framework\Hirudo\Core\Context\ModuleCall.php at line 118</a>
 
 <h3 id="setTask()">setTask</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>setTask</span> (string task)

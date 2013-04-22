@@ -5,7 +5,7 @@
 **Hirudo\Serialization\EntitySerializerBase**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Serialization/EntitySerializerBase.php#L27" target='_blank'>framework\Hirudo\Serialization\EntitySerializerBase.php at line 27</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Serialization/EntitySerializerBase.php#L27" target='_blank'>framework\Hirudo\Serialization\EntitySerializerBase.php at line 27</a>
 
 #Class EntitySerializerBase#
 
@@ -54,7 +54,7 @@ string representation.</p></td>
 <h2>Constructor Detail</h2>
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Serialization/EntitySerializerBase.php#L34" target='_blank'>framework\Hirudo\Serialization\EntitySerializerBase.php at line 34</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Serialization/EntitySerializerBase.php#L34" target='_blank'>framework\Hirudo\Serialization\EntitySerializerBase.php at line 34</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> ()
@@ -67,7 +67,7 @@ string representation.</p></td>
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Serialization/EntitySerializerBase.php#L44" target='_blank'>framework\Hirudo\Serialization\EntitySerializerBase.php at line 44</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Serialization/EntitySerializerBase.php#L44" target='_blank'>framework\Hirudo\Serialization\EntitySerializerBase.php at line 44</a>
 
 <h3 id="serialize()">serialize</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>serialize</span> (mixed entity)
@@ -85,7 +85,7 @@ string representation.</p></td>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Serialization/EntitySerializerBase.php#L58" target='_blank'>framework\Hirudo\Serialization\EntitySerializerBase.php at line 58</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Serialization/EntitySerializerBase.php#L58" target='_blank'>framework\Hirudo\Serialization\EntitySerializerBase.php at line 58</a>
 
 <h3 id="doSerialize()">doSerialize</h3>
 <span class='k'>protected abstract </span> <span class='nx'>string</span> <span class='nf'>doSerialize</span> (array array)

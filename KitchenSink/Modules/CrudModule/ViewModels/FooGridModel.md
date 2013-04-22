@@ -5,7 +5,7 @@
 **KitchenSink\Modules\CrudModule\ViewModels\FooGridModel**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/KitchenSink/Modules/CrudModule/ViewModels/FooGridModel.php#L14" target='_blank'>src\KitchenSink\Modules\CrudModule\ViewModels\FooGridModel.php at line 14</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/src/KitchenSink/Modules/CrudModule/ViewModels/FooGridModel.php#L14" target='_blank'>src\KitchenSink\Modules\CrudModule\ViewModels\FooGridModel.php at line 14</a>
 
 #Class FooGridModel#
 
@@ -45,7 +45,7 @@ GridModel &gt; **FooGridModel**
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/KitchenSink/Modules/CrudModule/ViewModels/FooGridModel.php#L16" target='_blank'>src\KitchenSink\Modules\CrudModule\ViewModels\FooGridModel.php at line 16</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/src/KitchenSink/Modules/CrudModule/ViewModels/FooGridModel.php#L16" target='_blank'>src\KitchenSink\Modules\CrudModule\ViewModels\FooGridModel.php at line 16</a>
 
 <h3 id="init()">init</h3>
 <span class='k'>protected </span> <span class='nx'>void</span> <span class='nf'>init</span> ()
@@ -57,7 +57,7 @@ GridModel &gt; **FooGridModel**
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/KitchenSink/Modules/CrudModule/ViewModels/FooGridModel.php#L28" target='_blank'>src\KitchenSink\Modules\CrudModule\ViewModels\FooGridModel.php at line 28</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/src/KitchenSink/Modules/CrudModule/ViewModels/FooGridModel.php#L28" target='_blank'>src\KitchenSink\Modules\CrudModule\ViewModels\FooGridModel.php at line 28</a>
 
 <h3 id="withActions()">withActions</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>withActions</span> ()

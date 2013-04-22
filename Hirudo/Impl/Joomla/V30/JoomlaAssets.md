@@ -5,7 +5,7 @@
 **Hirudo\Impl\Joomla\V30\JoomlaAssets**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Joomla/V30/JoomlaAssets.php#L14" target='_blank'>framework\Hirudo\Impl\Joomla\V30\JoomlaAssets.php at line 14</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/Joomla/V30/JoomlaAssets.php#L14" target='_blank'>framework\Hirudo\Impl\Joomla\V30\JoomlaAssets.php at line 14</a>
 
 #Class JoomlaAssets#
 
@@ -60,7 +60,7 @@
 <h2>Constructor Detail</h2>
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Joomla/V30/JoomlaAssets.php#L18" target='_blank'>framework\Hirudo\Impl\Joomla\V30\JoomlaAssets.php at line 18</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/Joomla/V30/JoomlaAssets.php#L18" target='_blank'>framework\Hirudo\Impl\Joomla\V30\JoomlaAssets.php at line 18</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> ()
@@ -73,7 +73,7 @@
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Joomla/V30/JoomlaAssets.php#L23" target='_blank'>framework\Hirudo\Impl\Joomla\V30\JoomlaAssets.php at line 23</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/Joomla/V30/JoomlaAssets.php#L23" target='_blank'>framework\Hirudo\Impl\Joomla\V30\JoomlaAssets.php at line 23</a>
 
 <h3 id="addCSS()">addCSS</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>addCSS</span> (string cssPath, bool external)
@@ -94,7 +94,7 @@ the tag.</p></p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Joomla/V30/JoomlaAssets.php#L32" target='_blank'>framework\Hirudo\Impl\Joomla\V30\JoomlaAssets.php at line 32</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/Joomla/V30/JoomlaAssets.php#L32" target='_blank'>framework\Hirudo\Impl\Joomla\V30\JoomlaAssets.php at line 32</a>
 
 <h3 id="addJavaScript()">addJavaScript</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>addJavaScript</span> (string jsPath, bool external)

@@ -5,7 +5,7 @@
 **Hirudo\Lang\PseudoEnum**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Lang/PseudoEnum.php#L39" target='_blank'>framework\Hirudo\Lang\PseudoEnum.php at line 39</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Lang/PseudoEnum.php#L39" target='_blank'>framework\Hirudo\Lang\PseudoEnum.php at line 39</a>
 
 #Class PseudoEnum#
 
@@ -62,7 +62,7 @@ const AND_OTHER_ENUM_VALUE = 2;
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Lang/PseudoEnum.php#L47" target='_blank'>framework\Hirudo\Lang\PseudoEnum.php at line 47</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Lang/PseudoEnum.php#L47" target='_blank'>framework\Hirudo\Lang\PseudoEnum.php at line 47</a>
 
 <h3 id="valueBelongs()">valueBelongs</h3>
 <span class='k'>static </span> <span class='nx'>boolean</span> <span class='nf'>valueBelongs</span> (string|number value)
@@ -80,7 +80,7 @@ const AND_OTHER_ENUM_VALUE = 2;
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Lang/PseudoEnum.php#L60" target='_blank'>framework\Hirudo\Lang\PseudoEnum.php at line 60</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Lang/PseudoEnum.php#L60" target='_blank'>framework\Hirudo\Lang\PseudoEnum.php at line 60</a>
 
 <h3 id="nameBelongs()">nameBelongs</h3>
 <span class='k'>static </span> <span class='nx'>boolean</span> <span class='nf'>nameBelongs</span> (string|number value, mixed name)
@@ -98,7 +98,7 @@ const AND_OTHER_ENUM_VALUE = 2;
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Lang/PseudoEnum.php#L73" target='_blank'>framework\Hirudo\Lang\PseudoEnum.php at line 73</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Lang/PseudoEnum.php#L73" target='_blank'>framework\Hirudo\Lang\PseudoEnum.php at line 73</a>
 
 <h3 id="valueToString()">valueToString</h3>
 <span class='k'>static </span> <span class='nx'>string</span> <span class='nf'>valueToString</span> (string|number value)
@@ -116,7 +116,7 @@ const AND_OTHER_ENUM_VALUE = 2;
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Lang/PseudoEnum.php#L86" target='_blank'>framework\Hirudo\Lang\PseudoEnum.php at line 86</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Lang/PseudoEnum.php#L86" target='_blank'>framework\Hirudo\Lang\PseudoEnum.php at line 86</a>
 
 <h3 id="stringToValue()">stringToValue</h3>
 <span class='k'>static </span> <span class='nx'>string|number</span> <span class='nf'>stringToValue</span> (string string)
@@ -134,7 +134,7 @@ const AND_OTHER_ENUM_VALUE = 2;
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Lang/PseudoEnum.php#L98" target='_blank'>framework\Hirudo\Lang\PseudoEnum.php at line 98</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Lang/PseudoEnum.php#L98" target='_blank'>framework\Hirudo\Lang\PseudoEnum.php at line 98</a>
 
 <h3 id="values()">values</h3>
 <span class='k'>static </span> <span class='nx'>array</span> <span class='nf'>values</span> ()

@@ -5,7 +5,7 @@
 **Hirudo\Core\Context\AppConfig**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Context/AppConfig.php#L35" target='_blank'>framework\Hirudo\Core\Context\AppConfig.php at line 35</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Context/AppConfig.php#L35" target='_blank'>framework\Hirudo\Core\Context\AppConfig.php at line 35</a>
 
 #Class AppConfig#
 
@@ -72,7 +72,7 @@ based on the host CMS.</p></p></div>
 <h2>Constructor Detail</h2>
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Context/AppConfig.php#L40" target='_blank'>framework\Hirudo\Core\Context\AppConfig.php at line 40</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Context/AppConfig.php#L40" target='_blank'>framework\Hirudo\Core\Context\AppConfig.php at line 40</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> ()
@@ -85,7 +85,7 @@ based on the host CMS.</p></p></div>
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Context/AppConfig.php#L47" target='_blank'>framework\Hirudo\Core\Context\AppConfig.php at line 47</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Context/AppConfig.php#L47" target='_blank'>framework\Hirudo\Core\Context\AppConfig.php at line 47</a>
 
 <h3 id="load()">load</h3>
 <span class='k'>protected abstract </span> <span class='nx'>void</span> <span class='nf'>load</span> ()
@@ -97,7 +97,7 @@ based on the host CMS.</p></p></div>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Context/AppConfig.php#L58" target='_blank'>framework\Hirudo\Core\Context\AppConfig.php at line 58</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Context/AppConfig.php#L58" target='_blank'>framework\Hirudo\Core\Context\AppConfig.php at line 58</a>
 
 <h3 id="get()">get</h3>
 <span class='k'>abstract </span> <span class='nx'>mixed</span> <span class='nf'>get</span> (string key, mixed default)
@@ -116,7 +116,7 @@ based on the host CMS.</p></p></div>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Context/AppConfig.php#L60" target='_blank'>framework\Hirudo\Core\Context\AppConfig.php at line 60</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Context/AppConfig.php#L60" target='_blank'>framework\Hirudo\Core\Context\AppConfig.php at line 60</a>
 
 <h3 id="loadApp()">loadApp</h3>
 <span class='k'>abstract </span> <span class='nx'>void</span> <span class='nf'>loadApp</span> (mixed appName)
@@ -128,7 +128,7 @@ based on the host CMS.</p></p></div>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Context/AppConfig.php#L65" target='_blank'>framework\Hirudo\Core\Context\AppConfig.php at line 65</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Context/AppConfig.php#L65" target='_blank'>framework\Hirudo\Core\Context\AppConfig.php at line 65</a>
 
 <h3 id="loadValues()">loadValues</h3>
 <span class='k'>abstract </span> <span class='nx'>void</span> <span class='nf'>loadValues</span> (mixed values)
@@ -140,7 +140,7 @@ based on the host CMS.</p></p></div>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Context/AppConfig.php#L70" target='_blank'>framework\Hirudo\Core\Context\AppConfig.php at line 70</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Context/AppConfig.php#L70" target='_blank'>framework\Hirudo\Core\Context\AppConfig.php at line 70</a>
 
 <h3 id="has()">has</h3>
 <span class='k'>abstract </span> <span class='nx'>void</span> <span class='nf'>has</span> (mixed key)

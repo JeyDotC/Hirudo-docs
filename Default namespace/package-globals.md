@@ -53,7 +53,7 @@
 
 <h2 id="detail_global">Global Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/init.php#L22" target='_blank'>init.php at line 22</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/init.php#L22" target='_blank'>init.php at line 22</a>
 
 <h3 id="DS">DS</h3>
 
@@ -74,7 +74,7 @@ along with Hirudo.  If not, see <http://www.gnu.org/licenses/>.</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/init.php#L26" target='_blank'>init.php at line 26</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/init.php#L26" target='_blank'>init.php at line 26</a>
 
 <h3 id="HIRUDO_ROOT">HIRUDO_ROOT</h3>
 
@@ -87,7 +87,7 @@ public final  mixed **HIRUDO_ROOT** = dirname(__FILE__
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo.php#L30" target='_blank'>hirudo.php at line 30</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/hirudo.php#L30" target='_blank'>hirudo.php at line 30</a>
 
 <h3 id="V">V</h3>
 
@@ -100,7 +100,7 @@ public  mixed **V** = &quot;V15&quot;
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/init.php#L37" target='_blank'>init.php at line 37</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/init.php#L37" target='_blank'>init.php at line 37</a>
 
 <h3 id="composerLoader">composerLoader</h3>
 
@@ -113,7 +113,7 @@ public  mixed **composerLoader** = require_once HIRUDO_ROOT . &quot;/vendor/auto
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo.php#L36" target='_blank'>hirudo.php at line 36</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/hirudo.php#L36" target='_blank'>hirudo.php at line 36</a>
 
 <h3 id="controller">controller</h3>
 
@@ -126,7 +126,7 @@ public  mixed **controller** = new $controllerClass(new ModulesManager(&quot;joo
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo.php#L35" target='_blank'>hirudo.php at line 35</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/hirudo.php#L35" target='_blank'>hirudo.php at line 35</a>
 
 <h3 id="controllerClass">controllerClass</h3>
 
@@ -139,7 +139,7 @@ public  mixed **controllerClass** = &quot;Hirudo\\Impl\\Joomla\\{$V}\\JoomlaFron
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/hirudo.php#L28" target='_blank'>hirudo.php at line 28</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/hirudo.php#L28" target='_blank'>hirudo.php at line 28</a>
 
 <h3 id="jversion">jversion</h3>
 
@@ -160,7 +160,7 @@ along with Hirudo.  If not, see <http://www.gnu.org/licenses/>.</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/init.php#L41" target='_blank'>init.php at line 41</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/init.php#L41" target='_blank'>init.php at line 41</a>
 
 <h3 id="loader">loader</h3>
 
@@ -173,7 +173,7 @@ public  mixed **loader** = new Symfony\Component\ClassLoader\ApcClassLoader(&quo
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/index.php#L26" target='_blank'>index.php at line 26</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/index.php#L26" target='_blank'>index.php at line 26</a>
 
 <h3 id="manager">manager</h3>
 
@@ -194,7 +194,7 @@ along with Hirudo.  If not, see <http://www.gnu.org/licenses/>.</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Joomla/V15/views/_/tmpl/default.php#L3" target='_blank'>framework\Hirudo\Impl\Joomla\V15\views\_\tmpl\default.php at line 3</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/Joomla/V15/views/_/tmpl/default.php#L3" target='_blank'>framework\Hirudo\Impl\Joomla\V15\views\_\tmpl\default.php at line 3</a>
 
 <h3 id="this">this</h3>
 

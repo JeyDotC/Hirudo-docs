@@ -5,7 +5,7 @@
 **Hirudo\Impl\Drupal\DrupalPage**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Drupal/DrupalPage.php#L15" target='_blank'>framework\Hirudo\Impl\Drupal\DrupalPage.php at line 15</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/Drupal/DrupalPage.php#L15" target='_blank'>framework\Hirudo\Impl\Drupal\DrupalPage.php at line 15</a>
 
 #Class DrupalPage#
 
@@ -97,7 +97,7 @@
 <h2>Constructor Detail</h2>
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Drupal/DrupalPage.php#L22" target='_blank'>framework\Hirudo\Impl\Drupal\DrupalPage.php at line 22</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/Drupal/DrupalPage.php#L22" target='_blank'>framework\Hirudo\Impl\Drupal\DrupalPage.php at line 22</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> ()
@@ -110,7 +110,7 @@
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Drupal/DrupalPage.php#L26" target='_blank'>framework\Hirudo\Impl\Drupal\DrupalPage.php at line 26</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/Drupal/DrupalPage.php#L26" target='_blank'>framework\Hirudo\Impl\Drupal\DrupalPage.php at line 26</a>
 
 <h3 id="addBreadcrumb()">addBreadcrumb</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>addBreadcrumb</span> (mixed title, mixed url)
@@ -122,7 +122,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Drupal/DrupalPage.php#L31" target='_blank'>framework\Hirudo\Impl\Drupal\DrupalPage.php at line 31</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/Drupal/DrupalPage.php#L31" target='_blank'>framework\Hirudo\Impl\Drupal\DrupalPage.php at line 31</a>
 
 <h3 id="addMessage()">addMessage</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>addMessage</span> (<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Util/Message.md">Message</a> message)
@@ -134,7 +134,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Drupal/DrupalPage.php#L36" target='_blank'>framework\Hirudo\Impl\Drupal\DrupalPage.php at line 36</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/Drupal/DrupalPage.php#L36" target='_blank'>framework\Hirudo\Impl\Drupal\DrupalPage.php at line 36</a>
 
 <h3 id="getBreadcrumbs()">getBreadcrumbs</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>getBreadcrumbs</span> ()
@@ -146,7 +146,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Drupal/DrupalPage.php#L40" target='_blank'>framework\Hirudo\Impl\Drupal\DrupalPage.php at line 40</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/Drupal/DrupalPage.php#L40" target='_blank'>framework\Hirudo\Impl\Drupal\DrupalPage.php at line 40</a>
 
 <h3 id="getHeading()">getHeading</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>getHeading</span> ()
@@ -158,7 +158,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Drupal/DrupalPage.php#L44" target='_blank'>framework\Hirudo\Impl\Drupal\DrupalPage.php at line 44</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/Drupal/DrupalPage.php#L44" target='_blank'>framework\Hirudo\Impl\Drupal\DrupalPage.php at line 44</a>
 
 <h3 id="getMessages()">getMessages</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>getMessages</span> ()
@@ -170,7 +170,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Drupal/DrupalPage.php#L48" target='_blank'>framework\Hirudo\Impl\Drupal\DrupalPage.php at line 48</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/Drupal/DrupalPage.php#L48" target='_blank'>framework\Hirudo\Impl\Drupal\DrupalPage.php at line 48</a>
 
 <h3 id="getTitle()">getTitle</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>getTitle</span> ()
@@ -182,7 +182,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Drupal/DrupalPage.php#L52" target='_blank'>framework\Hirudo\Impl\Drupal\DrupalPage.php at line 52</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/Drupal/DrupalPage.php#L52" target='_blank'>framework\Hirudo\Impl\Drupal\DrupalPage.php at line 52</a>
 
 <h3 id="renderBreadcrumbs()">renderBreadcrumbs</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>renderBreadcrumbs</span> ()
@@ -194,7 +194,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Drupal/DrupalPage.php#L65" target='_blank'>framework\Hirudo\Impl\Drupal\DrupalPage.php at line 65</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/Drupal/DrupalPage.php#L65" target='_blank'>framework\Hirudo\Impl\Drupal\DrupalPage.php at line 65</a>
 
 <h3 id="renderHeading()">renderHeading</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>renderHeading</span> ()
@@ -206,7 +206,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Drupal/DrupalPage.php#L69" target='_blank'>framework\Hirudo\Impl\Drupal\DrupalPage.php at line 69</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/Drupal/DrupalPage.php#L69" target='_blank'>framework\Hirudo\Impl\Drupal\DrupalPage.php at line 69</a>
 
 <h3 id="renderMessages()">renderMessages</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>renderMessages</span> ()
@@ -218,7 +218,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Drupal/DrupalPage.php#L76" target='_blank'>framework\Hirudo\Impl\Drupal\DrupalPage.php at line 76</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/Drupal/DrupalPage.php#L76" target='_blank'>framework\Hirudo\Impl\Drupal\DrupalPage.php at line 76</a>
 
 <h3 id="renderTitle()">renderTitle</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>renderTitle</span> ()
@@ -230,7 +230,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Drupal/DrupalPage.php#L81" target='_blank'>framework\Hirudo\Impl\Drupal\DrupalPage.php at line 81</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/Drupal/DrupalPage.php#L81" target='_blank'>framework\Hirudo\Impl\Drupal\DrupalPage.php at line 81</a>
 
 <h3 id="setHeading()">setHeading</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>setHeading</span> (mixed heading)
@@ -242,7 +242,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Drupal/DrupalPage.php#L86" target='_blank'>framework\Hirudo\Impl\Drupal\DrupalPage.php at line 86</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/Drupal/DrupalPage.php#L86" target='_blank'>framework\Hirudo\Impl\Drupal\DrupalPage.php at line 86</a>
 
 <h3 id="setTitle()">setTitle</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>setTitle</span> (mixed title)

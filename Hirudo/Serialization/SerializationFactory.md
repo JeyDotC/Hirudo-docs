@@ -5,7 +5,7 @@
 **Hirudo\Serialization\SerializationFactory**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Serialization/SerializationFactory.php#L27" target='_blank'>framework\Hirudo\Serialization\SerializationFactory.php at line 27</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Serialization/SerializationFactory.php#L27" target='_blank'>framework\Hirudo\Serialization\SerializationFactory.php at line 27</a>
 
 #Interface SerializationFactory#
 
@@ -38,7 +38,7 @@
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Serialization/SerializationFactory.php#L34" target='_blank'>framework\Hirudo\Serialization\SerializationFactory.php at line 34</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Serialization/SerializationFactory.php#L34" target='_blank'>framework\Hirudo\Serialization\SerializationFactory.php at line 34</a>
 
 <h3 id="getSerializer()">getSerializer</h3>
 <span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Serialization/EntitySerializerBase.md>EntitySerializerBase</a></span> <span class='nf'>getSerializer</span> (mixed params)
@@ -50,7 +50,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Serialization/SerializationFactory.php#L41" target='_blank'>framework\Hirudo\Serialization\SerializationFactory.php at line 41</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Serialization/SerializationFactory.php#L41" target='_blank'>framework\Hirudo\Serialization\SerializationFactory.php at line 41</a>
 
 <h3 id="getDeserializer()">getDeserializer</h3>
 <span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Serialization/EntityDeserializerBase.md>EntityDeserializerBase</a></span> <span class='nf'>getDeserializer</span> (mixed params)

@@ -5,7 +5,7 @@
 **Hirudo\Impl\Joomla\V30\JoomlaPage**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Joomla/V30/JoomlaPage.php#L20" target='_blank'>framework\Hirudo\Impl\Joomla\V30\JoomlaPage.php at line 20</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/Joomla/V30/JoomlaPage.php#L20" target='_blank'>framework\Hirudo\Impl\Joomla\V30\JoomlaPage.php at line 20</a>
 
 #Class JoomlaPage#
 
@@ -97,7 +97,7 @@
 <h2>Constructor Detail</h2>
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Joomla/V30/JoomlaPage.php#L30" target='_blank'>framework\Hirudo\Impl\Joomla\V30\JoomlaPage.php at line 30</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/Joomla/V30/JoomlaPage.php#L30" target='_blank'>framework\Hirudo\Impl\Joomla\V30\JoomlaPage.php at line 30</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> ()
@@ -110,7 +110,7 @@
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Joomla/V30/JoomlaPage.php#L36" target='_blank'>framework\Hirudo\Impl\Joomla\V30\JoomlaPage.php at line 36</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/Joomla/V30/JoomlaPage.php#L36" target='_blank'>framework\Hirudo\Impl\Joomla\V30\JoomlaPage.php at line 36</a>
 
 <h3 id="addBreadcrumb()">addBreadcrumb</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>addBreadcrumb</span> (mixed title, mixed url)
@@ -122,7 +122,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Joomla/V30/JoomlaPage.php#L41" target='_blank'>framework\Hirudo\Impl\Joomla\V30\JoomlaPage.php at line 41</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/Joomla/V30/JoomlaPage.php#L41" target='_blank'>framework\Hirudo\Impl\Joomla\V30\JoomlaPage.php at line 41</a>
 
 <h3 id="addMessage()">addMessage</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>addMessage</span> (<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Util/Message.md">Message</a> message)
@@ -134,7 +134,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Joomla/V30/JoomlaPage.php#L47" target='_blank'>framework\Hirudo\Impl\Joomla\V30\JoomlaPage.php at line 47</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/Joomla/V30/JoomlaPage.php#L47" target='_blank'>framework\Hirudo\Impl\Joomla\V30\JoomlaPage.php at line 47</a>
 
 <h3 id="getBreadcrumbs()">getBreadcrumbs</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>getBreadcrumbs</span> ()
@@ -146,7 +146,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Joomla/V30/JoomlaPage.php#L51" target='_blank'>framework\Hirudo\Impl\Joomla\V30\JoomlaPage.php at line 51</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/Joomla/V30/JoomlaPage.php#L51" target='_blank'>framework\Hirudo\Impl\Joomla\V30\JoomlaPage.php at line 51</a>
 
 <h3 id="getHeading()">getHeading</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>getHeading</span> ()
@@ -158,7 +158,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Joomla/V30/JoomlaPage.php#L55" target='_blank'>framework\Hirudo\Impl\Joomla\V30\JoomlaPage.php at line 55</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/Joomla/V30/JoomlaPage.php#L55" target='_blank'>framework\Hirudo\Impl\Joomla\V30\JoomlaPage.php at line 55</a>
 
 <h3 id="getMessages()">getMessages</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>getMessages</span> ()
@@ -170,7 +170,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Joomla/V30/JoomlaPage.php#L59" target='_blank'>framework\Hirudo\Impl\Joomla\V30\JoomlaPage.php at line 59</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/Joomla/V30/JoomlaPage.php#L59" target='_blank'>framework\Hirudo\Impl\Joomla\V30\JoomlaPage.php at line 59</a>
 
 <h3 id="getTitle()">getTitle</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>getTitle</span> ()
@@ -182,7 +182,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Joomla/V30/JoomlaPage.php#L63" target='_blank'>framework\Hirudo\Impl\Joomla\V30\JoomlaPage.php at line 63</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/Joomla/V30/JoomlaPage.php#L63" target='_blank'>framework\Hirudo\Impl\Joomla\V30\JoomlaPage.php at line 63</a>
 
 <h3 id="renderBreadcrumbs()">renderBreadcrumbs</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>renderBreadcrumbs</span> ()
@@ -194,7 +194,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Joomla/V30/JoomlaPage.php#L70" target='_blank'>framework\Hirudo\Impl\Joomla\V30\JoomlaPage.php at line 70</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/Joomla/V30/JoomlaPage.php#L70" target='_blank'>framework\Hirudo\Impl\Joomla\V30\JoomlaPage.php at line 70</a>
 
 <h3 id="renderHeading()">renderHeading</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>renderHeading</span> ()
@@ -206,7 +206,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Joomla/V30/JoomlaPage.php#L74" target='_blank'>framework\Hirudo\Impl\Joomla\V30\JoomlaPage.php at line 74</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/Joomla/V30/JoomlaPage.php#L74" target='_blank'>framework\Hirudo\Impl\Joomla\V30\JoomlaPage.php at line 74</a>
 
 <h3 id="renderMessages()">renderMessages</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>renderMessages</span> ()
@@ -218,7 +218,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Joomla/V30/JoomlaPage.php#L78" target='_blank'>framework\Hirudo\Impl\Joomla\V30\JoomlaPage.php at line 78</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/Joomla/V30/JoomlaPage.php#L78" target='_blank'>framework\Hirudo\Impl\Joomla\V30\JoomlaPage.php at line 78</a>
 
 <h3 id="renderTitle()">renderTitle</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>renderTitle</span> ()
@@ -230,7 +230,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Joomla/V30/JoomlaPage.php#L83" target='_blank'>framework\Hirudo\Impl\Joomla\V30\JoomlaPage.php at line 83</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/Joomla/V30/JoomlaPage.php#L83" target='_blank'>framework\Hirudo\Impl\Joomla\V30\JoomlaPage.php at line 83</a>
 
 <h3 id="setHeading()">setHeading</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>setHeading</span> (mixed heading)
@@ -242,7 +242,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Joomla/V30/JoomlaPage.php#L88" target='_blank'>framework\Hirudo\Impl\Joomla\V30\JoomlaPage.php at line 88</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/Joomla/V30/JoomlaPage.php#L88" target='_blank'>framework\Hirudo\Impl\Joomla\V30\JoomlaPage.php at line 88</a>
 
 <h3 id="setTitle()">setTitle</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>setTitle</span> (mixed title)

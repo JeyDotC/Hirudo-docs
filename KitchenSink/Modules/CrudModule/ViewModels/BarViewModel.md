@@ -5,7 +5,7 @@
 **KitchenSink\Modules\CrudModule\ViewModels\BarViewModel**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/KitchenSink/Modules/CrudModule/ViewModels/BarViewModel.php#L14" target='_blank'>src\KitchenSink\Modules\CrudModule\ViewModels\BarViewModel.php at line 14</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/src/KitchenSink/Modules/CrudModule/ViewModels/BarViewModel.php#L14" target='_blank'>src\KitchenSink\Modules\CrudModule\ViewModels\BarViewModel.php at line 14</a>
 
 #Class BarViewModel#
 
@@ -44,7 +44,7 @@ ViewModel &gt; **BarViewModel**
 
 ##Field Detail##
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/KitchenSink/Modules/CrudModule/ViewModels/BarViewModel.php#L22" target='_blank'>src\KitchenSink\Modules\CrudModule\ViewModels\BarViewModel.php at line 22</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/src/KitchenSink/Modules/CrudModule/ViewModels/BarViewModel.php#L22" target='_blank'>src\KitchenSink\Modules\CrudModule\ViewModels\BarViewModel.php at line 22</a>
 
 <h3 id="name">name</h3>
 <span class='k'></span> <span class='nx'>string</span><span class='no'> $name</span><div class="details">

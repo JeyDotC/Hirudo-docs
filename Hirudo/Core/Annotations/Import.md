@@ -5,7 +5,7 @@
 **Hirudo\Core\Annotations\Import**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Annotations/Import.php#L35" target='_blank'>framework\Hirudo\Core\Annotations\Import.php at line 35</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Annotations/Import.php#L35" target='_blank'>framework\Hirudo\Core\Annotations\Import.php at line 35</a>
 
 #Class Import#
 
@@ -56,7 +56,7 @@ to inject a dependency.</p></div>
 
 ##Field Detail##
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Annotations/Import.php#L73" target='_blank'>framework\Hirudo\Core\Annotations\Import.php at line 73</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Annotations/Import.php#L73" target='_blank'>framework\Hirudo\Core\Annotations\Import.php at line 73</a>
 
 <h3 id="className">className</h3>
 <span class='k'></span> <span class='nx'>string The fully qualified name of the class to be imported.</span><span class='no'> $className</span><span class='o'> = null</span>
@@ -72,7 +72,7 @@ class with the @Export annotation.</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Annotations/Import.php#L53" target='_blank'>framework\Hirudo\Core\Annotations\Import.php at line 53</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Annotations/Import.php#L53" target='_blank'>framework\Hirudo\Core\Annotations\Import.php at line 53</a>
 
 <h3 id="id">id</h3>
 <span class='k'></span> <span class='nx'>string</span><span class='no'> $id</span><span class='o'> = null</span>
@@ -89,7 +89,7 @@ of determining the class name based on the doc blocks.</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Annotations/Import.php#L61" target='_blank'>framework\Hirudo\Core\Annotations\Import.php at line 61</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Annotations/Import.php#L61" target='_blank'>framework\Hirudo\Core\Annotations\Import.php at line 61</a>
 
 <h3 id="tag">tag</h3>
 <span class='k'></span> <span class='nx'>string</span><span class='no'> $tag</span><span class='o'> = null</span>

@@ -14,7 +14,7 @@
 
 <h2 id="detail_function">Function Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Lang/Loader.php#L246" target='_blank'>framework\Hirudo\Lang\Loader.php at line 246</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Lang/Loader.php#L246" target='_blank'>framework\Hirudo\Lang\Loader.php at line 246</a>
 
 <h3 id="_using()">_using</h3>
 <span class='k'></span> <span class='nx'>void</span> _using (string|array file, string extension)

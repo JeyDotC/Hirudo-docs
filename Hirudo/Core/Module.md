@@ -5,7 +5,7 @@
 **Hirudo\Core\Module**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Module.php#L125" target='_blank'>framework\Hirudo\Core\Module.php at line 125</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Module.php#L125" target='_blank'>framework\Hirudo\Core\Module.php at line 125</a>
 
 #Class Module#
 
@@ -130,7 +130,7 @@ initializing objects common to all tasks.</p></td>
 
 ##Field Detail##
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Module.php#L189" target='_blank'>framework\Hirudo\Core\Module.php at line 189</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Module.php#L189" target='_blank'>framework\Hirudo\Core\Module.php at line 189</a>
 
 <h3 id="context">context</h3>
 <span class='k'>protected </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/ModulesContext.md'>ModulesContext</a></span><span class='no'> $context</span><div class="details">
@@ -140,7 +140,7 @@ initializing objects common to all tasks.</p></td>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Module.php#L168" target='_blank'>framework\Hirudo\Core\Module.php at line 168</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Module.php#L168" target='_blank'>framework\Hirudo\Core\Module.php at line 168</a>
 
 <h3 id="currentUser">currentUser</h3>
 <span class='k'>protected </span> <span class='nx'>Context\Principal</span><span class='no'> $currentUser</span><div class="details">
@@ -150,7 +150,7 @@ initializing objects common to all tasks.</p></td>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Module.php#L196" target='_blank'>framework\Hirudo\Core\Module.php at line 196</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Module.php#L196" target='_blank'>framework\Hirudo\Core\Module.php at line 196</a>
 
 <h3 id="headers">headers</h3>
 <span class='k'>protected </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/HeaderBag.md'>HeaderBag</a></span><span class='no'> $headers</span><div class="details">
@@ -160,7 +160,7 @@ initializing objects common to all tasks.</p></td>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Module.php#L208" target='_blank'>framework\Hirudo\Core\Module.php at line 208</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Module.php#L208" target='_blank'>framework\Hirudo\Core\Module.php at line 208</a>
 
 <h3 id="page">page</h3>
 <span class='k'>protected </span> <span class='nx'>Context\Page</span><span class='no'> $page</span><div class="details">
@@ -170,7 +170,7 @@ initializing objects common to all tasks.</p></td>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Module.php#L182" target='_blank'>framework\Hirudo\Core\Module.php at line 182</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Module.php#L182" target='_blank'>framework\Hirudo\Core\Module.php at line 182</a>
 
 <h3 id="request">request</h3>
 <span class='k'>protected </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/Request.md'>Request</a></span><span class='no'> $request</span><div class="details">
@@ -180,7 +180,7 @@ initializing objects common to all tasks.</p></td>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Module.php#L175" target='_blank'>framework\Hirudo\Core\Module.php at line 175</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Module.php#L175" target='_blank'>framework\Hirudo\Core\Module.php at line 175</a>
 
 <h3 id="route">route</h3>
 <span class='k'>protected </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/Routing.md'>Routing</a></span><span class='no'> $route</span><div class="details">
@@ -190,7 +190,7 @@ initializing objects common to all tasks.</p></td>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Module.php#L202" target='_blank'>framework\Hirudo\Core\Module.php at line 202</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Module.php#L202" target='_blank'>framework\Hirudo\Core\Module.php at line 202</a>
 
 <h3 id="session">session</h3>
 <span class='k'>protected </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/Session.md'>Session</a></span><span class='no'> $session</span><div class="details">
@@ -201,7 +201,7 @@ initializing objects common to all tasks.</p></td>
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Module.php#L231" target='_blank'>framework\Hirudo\Core\Module.php at line 231</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Module.php#L231" target='_blank'>framework\Hirudo\Core\Module.php at line 231</a>
 
 <h3 id="assign()">assign</h3>
 <span class='k'>protected </span> <span class='nx'>void</span> <span class='nf'>assign</span> (string name, mixed value)
@@ -220,7 +220,7 @@ initializing objects common to all tasks.</p></td>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Module.php#L240" target='_blank'>framework\Hirudo\Core\Module.php at line 240</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Module.php#L240" target='_blank'>framework\Hirudo\Core\Module.php at line 240</a>
 
 <h3 id="assignMany()">assignMany</h3>
 <span class='k'>protected </span> <span class='nx'>void</span> <span class='nf'>assignMany</span> (array array)
@@ -236,7 +236,7 @@ initializing objects common to all tasks.</p></td>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Module.php#L254" target='_blank'>framework\Hirudo\Core\Module.php at line 254</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Module.php#L254" target='_blank'>framework\Hirudo\Core\Module.php at line 254</a>
 
 <h3 id="component()">component</h3>
 <span class='k'>protected </span> <span class='nx'>mixed</span> <span class='nf'>component</span> (string name)
@@ -254,7 +254,7 @@ initializing objects common to all tasks.</p></td>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Module.php#L284" target='_blank'>framework\Hirudo\Core\Module.php at line 284</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Module.php#L284" target='_blank'>framework\Hirudo\Core\Module.php at line 284</a>
 
 <h3 id="getTask()">getTask</h3>
 <span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Task.md>Task</a></span> <span class='nf'>getTask</span> (string taskName)
@@ -273,7 +273,7 @@ method, the default task is returned, normally the "index" task.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Module.php#L304" target='_blank'>framework\Hirudo\Core\Module.php at line 304</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Module.php#L304" target='_blank'>framework\Hirudo\Core\Module.php at line 304</a>
 
 <h3 id="onModuleReady()">onModuleReady</h3>
 <span class='k'>protected </span> <span class='nx'>void</span> <span class='nf'>onModuleReady</span> ()
@@ -287,7 +287,7 @@ initializing objects common to all tasks.</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Module.php#L336" target='_blank'>framework\Hirudo\Core\Module.php at line 336</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Module.php#L336" target='_blank'>framework\Hirudo\Core\Module.php at line 336</a>
 
 <h3 id="display()">display</h3>
 <span class='k'>protected </span> <span class='nx'>void</span> <span class='nf'>display</span> (string view, mixed data)
@@ -319,7 +319,7 @@ values:</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Module.php#L359" target='_blank'>framework\Hirudo\Core\Module.php at line 359</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Module.php#L359" target='_blank'>framework\Hirudo\Core\Module.php at line 359</a>
 
 <h3 id="addMessage()">addMessage</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>addMessage</span> (<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Util/Message.md">Message</a> message)
@@ -335,7 +335,7 @@ values:</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Module.php#L368" target='_blank'>framework\Hirudo\Core\Module.php at line 368</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Module.php#L368" target='_blank'>framework\Hirudo\Core\Module.php at line 368</a>
 
 <h3 id="setDefaultTask()">setDefaultTask</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>setDefaultTask</span> (string defaultTask)
@@ -347,7 +347,7 @@ values:</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Module.php#L377" target='_blank'>framework\Hirudo\Core\Module.php at line 377</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Module.php#L377" target='_blank'>framework\Hirudo\Core\Module.php at line 377</a>
 
 <h3 id="createModuleFromClassName()">createModuleFromClassName</h3>
 <span class='k'>static </span> <span class='nx'>void</span> <span class='nf'>createModuleFromClassName</span> (string className)
@@ -359,7 +359,7 @@ values:</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Module.php#L437" target='_blank'>framework\Hirudo\Core\Module.php at line 437</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Module.php#L437" target='_blank'>framework\Hirudo\Core\Module.php at line 437</a>
 
 <h3 id="getModuleDir()">getModuleDir</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>getModuleDir</span> (mixed appName, mixed name)
@@ -375,7 +375,7 @@ values:</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Module.php#L447" target='_blank'>framework\Hirudo\Core\Module.php at line 447</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Module.php#L447" target='_blank'>framework\Hirudo\Core\Module.php at line 447</a>
 
 <h3 id="getName()">getName</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>getName</span> ()
@@ -387,7 +387,7 @@ values:</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Module.php#L456" target='_blank'>framework\Hirudo\Core\Module.php at line 456</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Module.php#L456" target='_blank'>framework\Hirudo\Core\Module.php at line 456</a>
 
 <h3 id="getAppName()">getAppName</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>getAppName</span> ()
@@ -399,7 +399,7 @@ values:</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Module.php#L460" target='_blank'>framework\Hirudo\Core\Module.php at line 460</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Module.php#L460" target='_blank'>framework\Hirudo\Core\Module.php at line 460</a>
 
 <h3 id="redirect()">redirect</h3>
 <span class='k'>protected </span> <span class='nx'>void</span> <span class='nf'>redirect</span> (mixed url)

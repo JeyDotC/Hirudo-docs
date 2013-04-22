@@ -5,7 +5,7 @@
 **Hirudo\Impl\StandAlone\SARequest**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/StandAlone/SARequest.php#L35" target='_blank'>framework\Hirudo\Impl\StandAlone\SARequest.php at line 35</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/StandAlone/SARequest.php#L35" target='_blank'>framework\Hirudo\Impl\StandAlone\SARequest.php at line 35</a>
 
 #Class SARequest#
 
@@ -80,7 +80,7 @@
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/StandAlone/SARequest.php#L47" target='_blank'>framework\Hirudo\Impl\StandAlone\SARequest.php at line 47</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/StandAlone/SARequest.php#L47" target='_blank'>framework\Hirudo\Impl\StandAlone\SARequest.php at line 47</a>
 
 <h3 id="instance()">instance</h3>
 <span class='k'>static </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Impl/StandAlone/SARequest.md>SARequest</a></span> <span class='nf'>instance</span> ()
@@ -92,7 +92,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/StandAlone/SARequest.php#L55" target='_blank'>framework\Hirudo\Impl\StandAlone\SARequest.php at line 55</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/StandAlone/SARequest.php#L55" target='_blank'>framework\Hirudo\Impl\StandAlone\SARequest.php at line 55</a>
 
 <h3 id="get()">get</h3>
 <span class='k'></span> <span class='nx'>mixed</span> <span class='nf'>get</span> (string name, mixed default)
@@ -111,7 +111,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/StandAlone/SARequest.php#L59" target='_blank'>framework\Hirudo\Impl\StandAlone\SARequest.php at line 59</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/StandAlone/SARequest.php#L59" target='_blank'>framework\Hirudo\Impl\StandAlone\SARequest.php at line 59</a>
 
 <h3 id="post()">post</h3>
 <span class='k'></span> <span class='nx'>mixed</span> <span class='nf'>post</span> (string name, mixed default)
@@ -130,7 +130,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/StandAlone/SARequest.php#L63" target='_blank'>framework\Hirudo\Impl\StandAlone\SARequest.php at line 63</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/StandAlone/SARequest.php#L63" target='_blank'>framework\Hirudo\Impl\StandAlone\SARequest.php at line 63</a>
 
 <h3 id="file()">file</h3>
 <span class='k'></span> <span class='nx'>mixed</span> <span class='nf'>file</span> (string name, mixed default)
@@ -149,7 +149,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/StandAlone/SARequest.php#L67" target='_blank'>framework\Hirudo\Impl\StandAlone\SARequest.php at line 67</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/StandAlone/SARequest.php#L67" target='_blank'>framework\Hirudo\Impl\StandAlone\SARequest.php at line 67</a>
 
 <h3 id="cookie()">cookie</h3>
 <span class='k'></span> <span class='nx'>mixed</span> <span class='nf'>cookie</span> (string name, mixed default)
@@ -168,7 +168,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/StandAlone/SARequest.php#L71" target='_blank'>framework\Hirudo\Impl\StandAlone\SARequest.php at line 71</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/StandAlone/SARequest.php#L71" target='_blank'>framework\Hirudo\Impl\StandAlone\SARequest.php at line 71</a>
 
 <h3 id="env()">env</h3>
 <span class='k'></span> <span class='nx'>mixed</span> <span class='nf'>env</span> (string name, mixed default)
@@ -187,7 +187,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/StandAlone/SARequest.php#L75" target='_blank'>framework\Hirudo\Impl\StandAlone\SARequest.php at line 75</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/StandAlone/SARequest.php#L75" target='_blank'>framework\Hirudo\Impl\StandAlone\SARequest.php at line 75</a>
 
 <h3 id="server()">server</h3>
 <span class='k'></span> <span class='nx'>mixed</span> <span class='nf'>server</span> (string name, mixed default)
@@ -206,7 +206,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/StandAlone/SARequest.php#L79" target='_blank'>framework\Hirudo\Impl\StandAlone\SARequest.php at line 79</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/StandAlone/SARequest.php#L79" target='_blank'>framework\Hirudo\Impl\StandAlone\SARequest.php at line 79</a>
 
 <h3 id="getURI()">getURI</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>getURI</span> ()
@@ -222,7 +222,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/StandAlone/SARequest.php#L84" target='_blank'>framework\Hirudo\Impl\StandAlone\SARequest.php at line 84</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/StandAlone/SARequest.php#L84" target='_blank'>framework\Hirudo\Impl\StandAlone\SARequest.php at line 84</a>
 
 <h3 id="submitted()">submitted</h3>
 <span class='k'></span> <span class='nx'>bool</span> <span class='nf'>submitted</span> ()

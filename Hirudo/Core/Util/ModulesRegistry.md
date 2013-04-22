@@ -5,7 +5,7 @@
 **Hirudo\Core\Util\ModulesRegistry**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Util/ModulesRegistry.php#L13" target='_blank'>framework\Hirudo\Core\Util\ModulesRegistry.php at line 13</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Util/ModulesRegistry.php#L13" target='_blank'>framework\Hirudo\Core\Util\ModulesRegistry.php at line 13</a>
 
 #Class ModulesRegistry#
 
@@ -42,7 +42,7 @@
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Util/ModulesRegistry.php#L23" target='_blank'>framework\Hirudo\Core\Util\ModulesRegistry.php at line 23</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Util/ModulesRegistry.php#L23" target='_blank'>framework\Hirudo\Core\Util\ModulesRegistry.php at line 23</a>
 
 <h3 id="moduleIsLoaded()">moduleIsLoaded</h3>
 <span class='k'>static </span> <span class='nx'>void</span> <span class='nf'>moduleIsLoaded</span> (mixed className)
@@ -54,7 +54,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Util/ModulesRegistry.php#L27" target='_blank'>framework\Hirudo\Core\Util\ModulesRegistry.php at line 27</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Util/ModulesRegistry.php#L27" target='_blank'>framework\Hirudo\Core\Util\ModulesRegistry.php at line 27</a>
 
 <h3 id="loadModule()">loadModule</h3>
 <span class='k'>static </span> <span class='nx'>void</span> <span class='nf'>loadModule</span> (mixed className, bool loadIfNotExists)

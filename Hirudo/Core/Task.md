@@ -5,7 +5,7 @@
 **Hirudo\Core\Task**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Task.php#L35" target='_blank'>framework\Hirudo\Core\Task.php at line 35</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Task.php#L35" target='_blank'>framework\Hirudo\Core\Task.php at line 35</a>
 
 #Class Task#
 
@@ -77,7 +77,7 @@ resolve them.</p></div>
 <h2>Constructor Detail</h2>
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Task.php#L63" target='_blank'>framework\Hirudo\Core\Task.php at line 63</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Task.php#L63" target='_blank'>framework\Hirudo\Core\Task.php at line 63</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (\ReflectionMethod reflectionMethod, \Hirudo\Core\Module owner)
@@ -95,7 +95,7 @@ resolve them.</p></div>
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Task.php#L79" target='_blank'>framework\Hirudo\Core\Task.php at line 79</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Task.php#L79" target='_blank'>framework\Hirudo\Core\Task.php at line 79</a>
 
 <h3 id="getName()">getName</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>getName</span> ()
@@ -107,7 +107,7 @@ resolve them.</p></div>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Task.php#L88" target='_blank'>framework\Hirudo\Core\Task.php at line 88</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Task.php#L88" target='_blank'>framework\Hirudo\Core\Task.php at line 88</a>
 
 <h3 id="getParams()">getParams</h3>
 <span class='k'></span> <span class='nx'>array<\ReflectionParameter></span> <span class='nf'>getParams</span> ()
@@ -119,7 +119,7 @@ resolve them.</p></div>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Task.php#L98" target='_blank'>framework\Hirudo\Core\Task.php at line 98</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Task.php#L98" target='_blank'>framework\Hirudo\Core\Task.php at line 98</a>
 
 <h3 id="setParamValue()">setParamValue</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>setParamValue</span> (string paramName, mixed value)
@@ -136,7 +136,7 @@ resolve them.</p></div>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Task.php#L108" target='_blank'>framework\Hirudo\Core\Task.php at line 108</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Task.php#L108" target='_blank'>framework\Hirudo\Core\Task.php at line 108</a>
 
 <h3 id="getParamValue()">getParamValue</h3>
 <span class='k'></span> <span class='nx'>type</span> <span class='nf'>getParamValue</span> (string paramName)
@@ -148,7 +148,7 @@ resolve them.</p></div>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Task.php#L115" target='_blank'>framework\Hirudo\Core\Task.php at line 115</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Task.php#L115" target='_blank'>framework\Hirudo\Core\Task.php at line 115</a>
 
 <h3 id="invoke()">invoke</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>invoke</span> ()
@@ -160,7 +160,7 @@ resolve them.</p></div>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Task.php#L124" target='_blank'>framework\Hirudo\Core\Task.php at line 124</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Task.php#L124" target='_blank'>framework\Hirudo\Core\Task.php at line 124</a>
 
 <h3 id="getTaskAnnotations()">getTaskAnnotations</h3>
 <span class='k'></span> <span class='nx'>array<mixed></span> <span class='nf'>getTaskAnnotations</span> ()
@@ -176,7 +176,7 @@ resolve them.</p></div>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Task.php#L134" target='_blank'>framework\Hirudo\Core\Task.php at line 134</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Task.php#L134" target='_blank'>framework\Hirudo\Core\Task.php at line 134</a>
 
 <h3 id="getTaskAnnotation()">getTaskAnnotation</h3>
 <span class='k'></span> <span class='nx'>mixed</span> <span class='nf'>getTaskAnnotation</span> (string annotationName)
@@ -194,7 +194,7 @@ resolve them.</p></div>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Task.php#L143" target='_blank'>framework\Hirudo\Core\Task.php at line 143</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Task.php#L143" target='_blank'>framework\Hirudo\Core\Task.php at line 143</a>
 
 <h3 id="getModule()">getModule</h3>
 <span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Module.md>Module</a></span> <span class='nf'>getModule</span> ()

@@ -5,7 +5,7 @@
 **Hirudo\Core\Annotations\HttpPost**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Annotations/HttpPost.php#L13" target='_blank'>framework\Hirudo\Core\Annotations\HttpPost.php at line 13</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Annotations/HttpPost.php#L13" target='_blank'>framework\Hirudo\Core\Annotations\HttpPost.php at line 13</a>
 
 #Class HttpPost#
 
@@ -51,7 +51,7 @@
 <h2>Constructor Detail</h2>
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Annotations/HttpPost.php#L14" target='_blank'>framework\Hirudo\Core\Annotations\HttpPost.php at line 14</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Annotations/HttpPost.php#L14" target='_blank'>framework\Hirudo\Core\Annotations\HttpPost.php at line 14</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (mixed values)

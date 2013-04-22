@@ -5,7 +5,7 @@
 **Hirudo\Impl\Drupal\DrupalAppConfig**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Drupal/DrupalAppConfig.php#L37" target='_blank'>framework\Hirudo\Impl\Drupal\DrupalAppConfig.php at line 37</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/Drupal/DrupalAppConfig.php#L37" target='_blank'>framework\Hirudo\Impl\Drupal\DrupalAppConfig.php at line 37</a>
 
 #Class DrupalAppConfig#
 
@@ -68,7 +68,7 @@
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Drupal/DrupalAppConfig.php#L51" target='_blank'>framework\Hirudo\Impl\Drupal\DrupalAppConfig.php at line 51</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/Drupal/DrupalAppConfig.php#L51" target='_blank'>framework\Hirudo\Impl\Drupal\DrupalAppConfig.php at line 51</a>
 
 <h3 id="instance()">instance</h3>
 <span class='k'>static </span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Impl/Drupal/DrupalAppConfig.md>DrupalAppConfig</a></span> <span class='nf'>instance</span> ()
@@ -80,7 +80,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Drupal/DrupalAppConfig.php#L59" target='_blank'>framework\Hirudo\Impl\Drupal\DrupalAppConfig.php at line 59</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/Drupal/DrupalAppConfig.php#L59" target='_blank'>framework\Hirudo\Impl\Drupal\DrupalAppConfig.php at line 59</a>
 
 <h3 id="load()">load</h3>
 <span class='k'>protected </span> <span class='nx'>void</span> <span class='nf'>load</span> ()
@@ -92,7 +92,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Drupal/DrupalAppConfig.php#L62" target='_blank'>framework\Hirudo\Impl\Drupal\DrupalAppConfig.php at line 62</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/Drupal/DrupalAppConfig.php#L62" target='_blank'>framework\Hirudo\Impl\Drupal\DrupalAppConfig.php at line 62</a>
 
 <h3 id="get()">get</h3>
 <span class='k'></span> <span class='nx'>mixed</span> <span class='nf'>get</span> (string key, mixed default)
@@ -111,7 +111,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Drupal/DrupalAppConfig.php#L65" target='_blank'>framework\Hirudo\Impl\Drupal\DrupalAppConfig.php at line 65</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/Drupal/DrupalAppConfig.php#L65" target='_blank'>framework\Hirudo\Impl\Drupal\DrupalAppConfig.php at line 65</a>
 
 <h3 id="has()">has</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>has</span> (mixed key)
@@ -123,7 +123,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Drupal/DrupalAppConfig.php#L69" target='_blank'>framework\Hirudo\Impl\Drupal\DrupalAppConfig.php at line 69</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/Drupal/DrupalAppConfig.php#L69" target='_blank'>framework\Hirudo\Impl\Drupal\DrupalAppConfig.php at line 69</a>
 
 <h3 id="loadApp()">loadApp</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>loadApp</span> (mixed appName)
@@ -135,7 +135,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Drupal/DrupalAppConfig.php#L73" target='_blank'>framework\Hirudo\Impl\Drupal\DrupalAppConfig.php at line 73</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/Drupal/DrupalAppConfig.php#L73" target='_blank'>framework\Hirudo\Impl\Drupal\DrupalAppConfig.php at line 73</a>
 
 <h3 id="loadValues()">loadValues</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>loadValues</span> (mixed values)

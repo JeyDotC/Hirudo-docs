@@ -5,7 +5,7 @@
 **KitchenSink\Modules\CrudModule\CrudModule**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/KitchenSink/Modules/CrudModule/CrudModule.php#L14" target='_blank'>src\KitchenSink\Modules\CrudModule\CrudModule.php at line 14</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/src/KitchenSink/Modules/CrudModule/CrudModule.php#L14" target='_blank'>src\KitchenSink\Modules\CrudModule\CrudModule.php at line 14</a>
 
 #Class CrudModule#
 
@@ -73,7 +73,7 @@ Foo entity as the main subject.</p></div>
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/KitchenSink/Modules/CrudModule/CrudModule.php#L19" target='_blank'>src\KitchenSink\Modules\CrudModule\CrudModule.php at line 19</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/src/KitchenSink/Modules/CrudModule/CrudModule.php#L19" target='_blank'>src\KitchenSink\Modules\CrudModule\CrudModule.php at line 19</a>
 
 <h3 id="index()">index</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>index</span> ()
@@ -85,7 +85,7 @@ Foo entity as the main subject.</p></div>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/KitchenSink/Modules/CrudModule/CrudModule.php#L56" target='_blank'>src\KitchenSink\Modules\CrudModule\CrudModule.php at line 56</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/src/KitchenSink/Modules/CrudModule/CrudModule.php#L56" target='_blank'>src\KitchenSink\Modules\CrudModule\CrudModule.php at line 56</a>
 
 <h3 id="view()">view</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>view</span> (string id)
@@ -101,7 +101,7 @@ default value, null is used.</p><p>Anyway, you can also programatically get the 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/KitchenSink/Modules/CrudModule/CrudModule.php#L68" target='_blank'>src\KitchenSink\Modules\CrudModule\CrudModule.php at line 68</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/src/KitchenSink/Modules/CrudModule/CrudModule.php#L68" target='_blank'>src\KitchenSink\Modules\CrudModule\CrudModule.php at line 68</a>
 
 <h3 id="create()">create</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>create</span> ()
@@ -113,7 +113,7 @@ default value, null is used.</p><p>Anyway, you can also programatically get the 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/KitchenSink/Modules/CrudModule/CrudModule.php#L95" target='_blank'>src\KitchenSink\Modules\CrudModule\CrudModule.php at line 95</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/src/KitchenSink/Modules/CrudModule/CrudModule.php#L95" target='_blank'>src\KitchenSink\Modules\CrudModule\CrudModule.php at line 95</a>
 
 <h3 id="edit()">edit</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>edit</span> (type id)
@@ -125,7 +125,7 @@ default value, null is used.</p><p>Anyway, you can also programatically get the 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/KitchenSink/Modules/CrudModule/CrudModule.php#L109" target='_blank'>src\KitchenSink\Modules\CrudModule\CrudModule.php at line 109</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/src/KitchenSink/Modules/CrudModule/CrudModule.php#L109" target='_blank'>src\KitchenSink\Modules\CrudModule\CrudModule.php at line 109</a>
 
 <h3 id="remove()">remove</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>remove</span> (type id)
@@ -137,7 +137,7 @@ default value, null is used.</p><p>Anyway, you can also programatically get the 
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/KitchenSink/Modules/CrudModule/CrudModule.php#L136" target='_blank'>src\KitchenSink\Modules\CrudModule\CrudModule.php at line 136</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/src/KitchenSink/Modules/CrudModule/CrudModule.php#L136" target='_blank'>src\KitchenSink\Modules\CrudModule\CrudModule.php at line 136</a>
 
 <h3 id="save()">save</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>save</span> (ViewModels\FooViewModel foo)
@@ -156,7 +156,7 @@ via GET, will cause an exception.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/KitchenSink/Modules/CrudModule/CrudModule.php#L149" target='_blank'>src\KitchenSink\Modules\CrudModule\CrudModule.php at line 149</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/src/KitchenSink/Modules/CrudModule/CrudModule.php#L149" target='_blank'>src\KitchenSink\Modules\CrudModule\CrudModule.php at line 149</a>
 
 <h3 id="update()">update</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>update</span> (ViewModels\FooViewModel foo)

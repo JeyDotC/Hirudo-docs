@@ -5,7 +5,7 @@
 **Hirudo\Core\Context\Assets**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Context/Assets.php#L33" target='_blank'>framework\Hirudo\Core\Context\Assets.php at line 33</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Context/Assets.php#L33" target='_blank'>framework\Hirudo\Core\Context\Assets.php at line 33</a>
 
 #Class Assets#
 
@@ -63,7 +63,7 @@ be set to the given path. </p></td>
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Context/Assets.php#L49" target='_blank'>framework\Hirudo\Core\Context\Assets.php at line 49</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Context/Assets.php#L49" target='_blank'>framework\Hirudo\Core\Context\Assets.php at line 49</a>
 
 <h3 id="addJavaScript()">addJavaScript</h3>
 <span class='k'>abstract </span> <span class='nx'>string</span> <span class='nf'>addJavaScript</span> (string jsPath, boolean external)
@@ -84,7 +84,7 @@ the tag.</p></p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Context/Assets.php#L65" target='_blank'>framework\Hirudo\Core\Context\Assets.php at line 65</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Context/Assets.php#L65" target='_blank'>framework\Hirudo\Core\Context\Assets.php at line 65</a>
 
 <h3 id="addCSS()">addCSS</h3>
 <span class='k'>abstract </span> <span class='nx'>string</span> <span class='nf'>addCSS</span> (string cssPath, boolean external)
@@ -105,7 +105,7 @@ the tag.</p></p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Context/Assets.php#L75" target='_blank'>framework\Hirudo\Core\Context\Assets.php at line 75</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Context/Assets.php#L75" target='_blank'>framework\Hirudo\Core\Context\Assets.php at line 75</a>
 
 <h3 id="generateScriptTag()">generateScriptTag</h3>
 <span class='k'>protected </span> <span class='nx'>string</span> <span class='nf'>generateScriptTag</span> (string jsPath)
@@ -125,7 +125,7 @@ to meet the CMS conventions.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Context/Assets.php#L87" target='_blank'>framework\Hirudo\Core\Context\Assets.php at line 87</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Context/Assets.php#L87" target='_blank'>framework\Hirudo\Core\Context\Assets.php at line 87</a>
 
 <h3 id="generateCSSTag()">generateCSSTag</h3>
 <span class='k'>protected </span> <span class='nx'>string</span> <span class='nf'>generateCSSTag</span> (string cssPath)
@@ -145,7 +145,7 @@ to meet the CMS conventions.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Context/Assets.php#L91" target='_blank'>framework\Hirudo\Core\Context\Assets.php at line 91</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Context/Assets.php#L91" target='_blank'>framework\Hirudo\Core\Context\Assets.php at line 91</a>
 
 <h3 id="resolveLocalPath()">resolveLocalPath</h3>
 <span class='k'>protected </span> <span class='nx'>void</span> <span class='nf'>resolveLocalPath</span> (mixed path)

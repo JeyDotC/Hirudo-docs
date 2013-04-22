@@ -5,7 +5,7 @@
 **Hirudo\Models\Components\Restful\RequestCodes**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Models/Components/Restful/RestRequest.php#L24" target='_blank'>framework\Hirudo\Models\Components\Restful\RestRequest.php at line 24</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Models/Components/Restful/RestRequest.php#L24" target='_blank'>framework\Hirudo\Models\Components\Restful\RestRequest.php at line 24</a>
 
 #Class RequestCodes#
 
@@ -74,7 +74,7 @@ along with Hirudo.  If not, see <http://www.gnu.org/licenses/>.</p></div>
 
 ##Constant Detail##
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Models/Components/Restful/RestRequest.php#L33" target='_blank'>framework\Hirudo\Models\Components\Restful\RestRequest.php at line 33</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Models/Components/Restful/RestRequest.php#L33" target='_blank'>framework\Hirudo\Models\Components\Restful\RestRequest.php at line 33</a>
 
 <h3 id="COULDNT_CONNECT">COULDNT_CONNECT</h3>
 <span class='k'>final static </span> <span class='nx'>int</span><span class='no'>COULDNT_CONNECT</span><span class='o'> = 7</span>
@@ -86,7 +86,7 @@ along with Hirudo.  If not, see <http://www.gnu.org/licenses/>.</p></div>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Models/Components/Restful/RestRequest.php#L74" target='_blank'>framework\Hirudo\Models\Components\Restful\RestRequest.php at line 74</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Models/Components/Restful/RestRequest.php#L74" target='_blank'>framework\Hirudo\Models\Components\Restful\RestRequest.php at line 74</a>
 
 <h3 id="FUNCTION_NOT_FOUND">FUNCTION_NOT_FOUND</h3>
 <span class='k'>final static </span> <span class='nx'>int</span><span class='no'>FUNCTION_NOT_FOUND</span><span class='o'> = 41</span>
@@ -98,7 +98,7 @@ along with Hirudo.  If not, see <http://www.gnu.org/licenses/>.</p></div>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Models/Components/Restful/RestRequest.php#L26" target='_blank'>framework\Hirudo\Models\Components\Restful\RestRequest.php at line 26</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Models/Components/Restful/RestRequest.php#L26" target='_blank'>framework\Hirudo\Models\Components\Restful\RestRequest.php at line 26</a>
 
 <h3 id="OK">OK</h3>
 <span class='k'>final static </span> <span class='nx'>int</span><span class='no'>OK</span><span class='o'> = 0</span>
@@ -110,7 +110,7 @@ along with Hirudo.  If not, see <http://www.gnu.org/licenses/>.</p></div>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Models/Components/Restful/RestRequest.php#L61" target='_blank'>framework\Hirudo\Models\Components\Restful\RestRequest.php at line 61</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Models/Components/Restful/RestRequest.php#L61" target='_blank'>framework\Hirudo\Models\Components\Restful\RestRequest.php at line 61</a>
 
 <h3 id="OPERATION_TIMEDOUT">OPERATION_TIMEDOUT</h3>
 <span class='k'>final static </span> <span class='nx'>int</span><span class='no'>OPERATION_TIMEDOUT</span><span class='o'> = 28</span>
@@ -122,7 +122,7 @@ along with Hirudo.  If not, see <http://www.gnu.org/licenses/>.</p></div>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Models/Components/Restful/RestRequest.php#L123" target='_blank'>framework\Hirudo\Models\Components\Restful\RestRequest.php at line 123</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Models/Components/Restful/RestRequest.php#L123" target='_blank'>framework\Hirudo\Models\Components\Restful\RestRequest.php at line 123</a>
 
 <h3 id="REMOTE_FILE_NOT_FOUND">REMOTE_FILE_NOT_FOUND</h3>
 <span class='k'>final static </span> <span class='nx'>int</span><span class='no'>REMOTE_FILE_NOT_FOUND</span><span class='o'> = 78</span>

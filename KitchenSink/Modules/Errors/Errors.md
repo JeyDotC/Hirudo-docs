@@ -5,7 +5,7 @@
 **KitchenSink\Modules\Errors\Errors**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/KitchenSink/Modules/Errors/Errors.php#L16" target='_blank'>src\KitchenSink\Modules\Errors\Errors.php at line 16</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/src/KitchenSink/Modules/Errors/Errors.php#L16" target='_blank'>src\KitchenSink\Modules\Errors\Errors.php at line 16</a>
 
 #Class Errors#
 
@@ -55,7 +55,7 @@
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/KitchenSink/Modules/Errors/Errors.php#L36" target='_blank'>src\KitchenSink\Modules\Errors\Errors.php at line 36</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/src/KitchenSink/Modules/Errors/Errors.php#L36" target='_blank'>src\KitchenSink\Modules\Errors\Errors.php at line 36</a>
 
 <h3 id="onError()">onError</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>onError</span> (<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Events/TaskErrorEvent.md">TaskErrorEvent</a> e)
@@ -77,7 +77,7 @@ HTTP</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/KitchenSink/Modules/Errors/Errors.php#L46" target='_blank'>src\KitchenSink\Modules\Errors\Errors.php at line 46</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/src/KitchenSink/Modules/Errors/Errors.php#L46" target='_blank'>src\KitchenSink\Modules\Errors\Errors.php at line 46</a>
 
 <h3 id="notFound()">notFound</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>notFound</span> ()

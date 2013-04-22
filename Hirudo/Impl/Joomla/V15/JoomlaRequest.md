@@ -5,7 +5,7 @@
 **Hirudo\Impl\Joomla\V15\JoomlaRequest**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Joomla/V15/JoomlaRequest.php#L36" target='_blank'>framework\Hirudo\Impl\Joomla\V15\JoomlaRequest.php at line 36</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/Joomla/V15/JoomlaRequest.php#L36" target='_blank'>framework\Hirudo\Impl\Joomla\V15\JoomlaRequest.php at line 36</a>
 
 #Class JoomlaRequest#
 
@@ -80,7 +80,7 @@
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Joomla/V15/JoomlaRequest.php#L48" target='_blank'>framework\Hirudo\Impl\Joomla\V15\JoomlaRequest.php at line 48</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/Joomla/V15/JoomlaRequest.php#L48" target='_blank'>framework\Hirudo\Impl\Joomla\V15\JoomlaRequest.php at line 48</a>
 
 <h3 id="instance()">instance</h3>
 <span class='k'>static </span> <span class='nx'></span> <span class='nf'>instance</span> ()
@@ -92,7 +92,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Joomla/V15/JoomlaRequest.php#L56" target='_blank'>framework\Hirudo\Impl\Joomla\V15\JoomlaRequest.php at line 56</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/Joomla/V15/JoomlaRequest.php#L56" target='_blank'>framework\Hirudo\Impl\Joomla\V15\JoomlaRequest.php at line 56</a>
 
 <h3 id="get()">get</h3>
 <span class='k'></span> <span class='nx'>mixed</span> <span class='nf'>get</span> (string name, mixed default)
@@ -111,7 +111,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Joomla/V15/JoomlaRequest.php#L60" target='_blank'>framework\Hirudo\Impl\Joomla\V15\JoomlaRequest.php at line 60</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/Joomla/V15/JoomlaRequest.php#L60" target='_blank'>framework\Hirudo\Impl\Joomla\V15\JoomlaRequest.php at line 60</a>
 
 <h3 id="post()">post</h3>
 <span class='k'></span> <span class='nx'>mixed</span> <span class='nf'>post</span> (string name, mixed default)
@@ -130,7 +130,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Joomla/V15/JoomlaRequest.php#L64" target='_blank'>framework\Hirudo\Impl\Joomla\V15\JoomlaRequest.php at line 64</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/Joomla/V15/JoomlaRequest.php#L64" target='_blank'>framework\Hirudo\Impl\Joomla\V15\JoomlaRequest.php at line 64</a>
 
 <h3 id="file()">file</h3>
 <span class='k'></span> <span class='nx'>mixed</span> <span class='nf'>file</span> (string name, mixed default)
@@ -149,7 +149,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Joomla/V15/JoomlaRequest.php#L68" target='_blank'>framework\Hirudo\Impl\Joomla\V15\JoomlaRequest.php at line 68</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/Joomla/V15/JoomlaRequest.php#L68" target='_blank'>framework\Hirudo\Impl\Joomla\V15\JoomlaRequest.php at line 68</a>
 
 <h3 id="cookie()">cookie</h3>
 <span class='k'></span> <span class='nx'>mixed</span> <span class='nf'>cookie</span> (string name, mixed default)
@@ -168,7 +168,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Joomla/V15/JoomlaRequest.php#L72" target='_blank'>framework\Hirudo\Impl\Joomla\V15\JoomlaRequest.php at line 72</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/Joomla/V15/JoomlaRequest.php#L72" target='_blank'>framework\Hirudo\Impl\Joomla\V15\JoomlaRequest.php at line 72</a>
 
 <h3 id="env()">env</h3>
 <span class='k'></span> <span class='nx'>mixed</span> <span class='nf'>env</span> (string name, mixed default)
@@ -187,7 +187,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Joomla/V15/JoomlaRequest.php#L76" target='_blank'>framework\Hirudo\Impl\Joomla\V15\JoomlaRequest.php at line 76</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/Joomla/V15/JoomlaRequest.php#L76" target='_blank'>framework\Hirudo\Impl\Joomla\V15\JoomlaRequest.php at line 76</a>
 
 <h3 id="server()">server</h3>
 <span class='k'></span> <span class='nx'>mixed</span> <span class='nf'>server</span> (string name, mixed default)
@@ -206,7 +206,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Joomla/V15/JoomlaRequest.php#L80" target='_blank'>framework\Hirudo\Impl\Joomla\V15\JoomlaRequest.php at line 80</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/Joomla/V15/JoomlaRequest.php#L80" target='_blank'>framework\Hirudo\Impl\Joomla\V15\JoomlaRequest.php at line 80</a>
 
 <h3 id="getURI()">getURI</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>getURI</span> ()
@@ -222,7 +222,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Joomla/V15/JoomlaRequest.php#L84" target='_blank'>framework\Hirudo\Impl\Joomla\V15\JoomlaRequest.php at line 84</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/Joomla/V15/JoomlaRequest.php#L84" target='_blank'>framework\Hirudo\Impl\Joomla\V15\JoomlaRequest.php at line 84</a>
 
 <h3 id="submitted()">submitted</h3>
 <span class='k'></span> <span class='nx'>bool</span> <span class='nf'>submitted</span> ()

@@ -5,7 +5,7 @@
 **Default namespace\hirudoimpljoomlav15joomlafrontView_**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Joomla/V15/views/_/view.xls.php#L29" target='_blank'>framework\Hirudo\Impl\Joomla\V15\views\_\view.xls.php at line 29</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/Joomla/V15/views/_/view.xls.php#L29" target='_blank'>framework\Hirudo\Impl\Joomla\V15\views\_\view.xls.php at line 29</a>
 
 #Class hirudoimpljoomlav15joomlafrontView_#
 
@@ -37,7 +37,7 @@ JView &gt; **hirudoimpljoomlav15joomlafrontView_**
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Joomla/V15/views/_/view.xls.php#L31" target='_blank'>framework\Hirudo\Impl\Joomla\V15\views\_\view.xls.php at line 31</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/Joomla/V15/views/_/view.xls.php#L31" target='_blank'>framework\Hirudo\Impl\Joomla\V15\views\_\view.xls.php at line 31</a>
 
 <h3 id="display()">display</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>display</span> (mixed tpl)

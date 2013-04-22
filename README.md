@@ -1,6 +1,6 @@
 #INDEX#
 
-[View Source codes](https://github.com/JeyDotC/Hirudo/blob/master/)
+[View Source codes](https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/)
 
 [View class hierarchy](https://github.com/JeyDotC/Hirudo-docs/tree/master//overview-tree.md)
 

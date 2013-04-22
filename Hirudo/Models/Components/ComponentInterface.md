@@ -5,7 +5,7 @@
 **Hirudo\Models\Components\ComponentInterface**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Models/Components/ComponentInterface.php#L29" target='_blank'>framework\Hirudo\Models\Components\ComponentInterface.php at line 29</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Models/Components/ComponentInterface.php#L29" target='_blank'>framework\Hirudo\Models\Components\ComponentInterface.php at line 29</a>
 
 #Interface ComponentInterface#
 

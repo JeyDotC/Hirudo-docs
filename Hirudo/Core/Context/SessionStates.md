@@ -5,7 +5,7 @@
 **Hirudo\Core\Context\SessionStates**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Context/Session.php#L29" target='_blank'>framework\Hirudo\Core\Context\Session.php at line 29</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Context/Session.php#L29" target='_blank'>framework\Hirudo\Core\Context\Session.php at line 29</a>
 
 #Class SessionStates#
 
@@ -69,7 +69,7 @@ already closed in this case.</p></td>
 
 ##Constant Detail##
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Context/Session.php#L34" target='_blank'>framework\Hirudo\Core\Context\Session.php at line 34</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Context/Session.php#L34" target='_blank'>framework\Hirudo\Core\Context\Session.php at line 34</a>
 
 <h3 id="ACTIVE">ACTIVE</h3>
 <span class='k'>final static </span> <span class='nx'>str</span><span class='no'>ACTIVE</span><span class='o'> = 'active'</span>
@@ -81,7 +81,7 @@ already closed in this case.</p></td>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Context/Session.php#L43" target='_blank'>framework\Hirudo\Core\Context\Session.php at line 43</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Context/Session.php#L43" target='_blank'>framework\Hirudo\Core\Context\Session.php at line 43</a>
 
 <h3 id="DESTROYED">DESTROYED</h3>
 <span class='k'>final static </span> <span class='nx'>str</span><span class='no'>DESTROYED</span><span class='o'> = 'destroyed'</span>
@@ -93,7 +93,7 @@ already closed in this case.</p></td>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Context/Session.php#L47" target='_blank'>framework\Hirudo\Core\Context\Session.php at line 47</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Context/Session.php#L47" target='_blank'>framework\Hirudo\Core\Context\Session.php at line 47</a>
 
 <h3 id="ERROR">ERROR</h3>
 <span class='k'>final static </span> <span class='nx'>str</span><span class='no'>ERROR</span><span class='o'> = 'error'</span>
@@ -105,7 +105,7 @@ already closed in this case.</p></td>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Context/Session.php#L39" target='_blank'>framework\Hirudo\Core\Context\Session.php at line 39</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Context/Session.php#L39" target='_blank'>framework\Hirudo\Core\Context\Session.php at line 39</a>
 
 <h3 id="EXPIRED">EXPIRED</h3>
 <span class='k'>final static </span> <span class='nx'>str</span><span class='no'>EXPIRED</span><span class='o'> = 'expired'</span>

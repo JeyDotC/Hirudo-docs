@@ -5,7 +5,7 @@
 **KitchenSink\Modules\ApiModule\ApiModule**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/KitchenSink/Modules/ApiModule/ApiModule.php#L17" target='_blank'>src\KitchenSink\Modules\ApiModule\ApiModule.php at line 17</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/src/KitchenSink/Modules/ApiModule/ApiModule.php#L17" target='_blank'>src\KitchenSink\Modules\ApiModule\ApiModule.php at line 17</a>
 
 #Class ApiModule#
 
@@ -71,7 +71,7 @@ a REST-like interface.</p></div>
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/KitchenSink/Modules/ApiModule/ApiModule.php#L42" target='_blank'>src\KitchenSink\Modules\ApiModule\ApiModule.php at line 42</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/src/KitchenSink/Modules/ApiModule/ApiModule.php#L42" target='_blank'>src\KitchenSink\Modules\ApiModule\ApiModule.php at line 42</a>
 
 <h3 id="index()">index</h3>
 <span class='k'></span> <span class='nx'>array<Foo></span> <span class='nf'>index</span> ()
@@ -96,7 +96,7 @@ atempts to serialize the values returned by this method.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/KitchenSink/Modules/ApiModule/ApiModule.php#L59" target='_blank'>src\KitchenSink\Modules\ApiModule\ApiModule.php at line 59</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/src/KitchenSink/Modules/ApiModule/ApiModule.php#L59" target='_blank'>src\KitchenSink\Modules\ApiModule\ApiModule.php at line 59</a>
 
 <h3 id="view()">view</h3>
 <span class='k'></span> <span class='nx'><a href='https://github.com/JeyDotC/Hirudo-docs/blob/master/KitchenSink/Models/Entities/Foo.md>Foo</a></span> <span class='nf'>view</span> (mixed id)
@@ -115,7 +115,7 @@ resolved from GET</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/KitchenSink/Modules/ApiModule/ApiModule.php#L88" target='_blank'>src\KitchenSink\Modules\ApiModule\ApiModule.php at line 88</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/src/KitchenSink/Modules/ApiModule/ApiModule.php#L88" target='_blank'>src\KitchenSink\Modules\ApiModule\ApiModule.php at line 88</a>
 
 <h3 id="create()">create</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>create</span> (\KitchenSink\Models\Entities\Foo foo)
@@ -142,7 +142,7 @@ any number of those.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/KitchenSink/Modules/ApiModule/ApiModule.php#L99" target='_blank'>src\KitchenSink\Modules\ApiModule\ApiModule.php at line 99</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/src/KitchenSink/Modules/ApiModule/ApiModule.php#L99" target='_blank'>src\KitchenSink\Modules\ApiModule\ApiModule.php at line 99</a>
 
 <h3 id="update()">update</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>update</span> (\KitchenSink\Models\Entities\Foo foo)
@@ -158,7 +158,7 @@ any number of those.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/KitchenSink/Modules/ApiModule/ApiModule.php#L110" target='_blank'>src\KitchenSink\Modules\ApiModule\ApiModule.php at line 110</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/src/KitchenSink/Modules/ApiModule/ApiModule.php#L110" target='_blank'>src\KitchenSink\Modules\ApiModule\ApiModule.php at line 110</a>
 
 <h3 id="remove()">remove</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>remove</span> (int id)

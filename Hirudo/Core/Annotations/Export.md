@@ -5,7 +5,7 @@
 **Hirudo\Core\Annotations\Export**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Annotations/Export.php#L34" target='_blank'>framework\Hirudo\Core\Annotations\Export.php at line 34</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Annotations/Export.php#L34" target='_blank'>framework\Hirudo\Core\Annotations\Export.php at line 34</a>
 
 #Class Export#
 
@@ -55,7 +55,7 @@ an instance of the service.</p></td>
 
 ##Field Detail##
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Annotations/Export.php#L49" target='_blank'>framework\Hirudo\Core\Annotations\Export.php at line 49</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Annotations/Export.php#L49" target='_blank'>framework\Hirudo\Core\Annotations\Export.php at line 49</a>
 
 <h3 id="factory">factory</h3>
 <span class='k'></span> <span class='nx'>string</span><span class='no'> $factory</span><span class='o'> = &quot;&quot;</span>
@@ -68,7 +68,7 @@ an instance of the service.</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Annotations/Export.php#L41" target='_blank'>framework\Hirudo\Core\Annotations\Export.php at line 41</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Annotations/Export.php#L41" target='_blank'>framework\Hirudo\Core\Annotations\Export.php at line 41</a>
 
 <h3 id="id">id</h3>
 <span class='k'></span> <span class='nx'>string</span><span class='no'> $id</span><span class='o'> = &quot;&quot;</span>
@@ -80,7 +80,7 @@ an instance of the service.</p>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Annotations/Export.php#L56" target='_blank'>framework\Hirudo\Core\Annotations\Export.php at line 56</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Annotations/Export.php#L56" target='_blank'>framework\Hirudo\Core\Annotations\Export.php at line 56</a>
 
 <h3 id="tags">tags</h3>
 <span class='k'></span> <span class='nx'>array</span><span class='no'> $tags</span><span class='o'> = array()</span>

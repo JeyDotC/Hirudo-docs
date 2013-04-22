@@ -5,7 +5,7 @@
 **Hirudo\Impl\Drupal\Templating\DrupalTemplate**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Drupal/Templating/DrupalTemplate.php#L10" target='_blank'>framework\Hirudo\Impl\Drupal\Templating\DrupalTemplate.php at line 10</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/Drupal/Templating/DrupalTemplate.php#L10" target='_blank'>framework\Hirudo\Impl\Drupal\Templating\DrupalTemplate.php at line 10</a>
 
 #Class DrupalTemplate#
 
@@ -54,7 +54,7 @@
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Drupal/Templating/DrupalTemplate.php#L19" target='_blank'>framework\Hirudo\Impl\Drupal\Templating\DrupalTemplate.php at line 19</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/Drupal/Templating/DrupalTemplate.php#L19" target='_blank'>framework\Hirudo\Impl\Drupal\Templating\DrupalTemplate.php at line 19</a>
 
 <h3 id="render()">render</h3>
 <span class='k'>protected </span> <span class='nx'>array</span> <span class='nf'>render</span> ()
@@ -66,7 +66,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Drupal/Templating/DrupalTemplate.php#L23" target='_blank'>framework\Hirudo\Impl\Drupal\Templating\DrupalTemplate.php at line 23</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/Drupal/Templating/DrupalTemplate.php#L23" target='_blank'>framework\Hirudo\Impl\Drupal\Templating\DrupalTemplate.php at line 23</a>
 
 <h3 id="fetch()">fetch</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>fetch</span> (mixed file)
@@ -78,7 +78,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Drupal/Templating/DrupalTemplate.php#L31" target='_blank'>framework\Hirudo\Impl\Drupal\Templating\DrupalTemplate.php at line 31</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/Drupal/Templating/DrupalTemplate.php#L31" target='_blank'>framework\Hirudo\Impl\Drupal\Templating\DrupalTemplate.php at line 31</a>
 
 <h3 id="display()">display</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>display</span> (mixed file)
@@ -90,7 +90,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Drupal/Templating/DrupalTemplate.php#L35" target='_blank'>framework\Hirudo\Impl\Drupal\Templating\DrupalTemplate.php at line 35</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/Drupal/Templating/DrupalTemplate.php#L35" target='_blank'>framework\Hirudo\Impl\Drupal\Templating\DrupalTemplate.php at line 35</a>
 
 <h3 id="include_template()">include_template</h3>
 <span class='k'>protected </span> <span class='nx'>void</span> <span class='nf'>include_template</span> (mixed file)
@@ -102,7 +102,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Drupal/Templating/DrupalTemplate.php#L39" target='_blank'>framework\Hirudo\Impl\Drupal\Templating\DrupalTemplate.php at line 39</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/Drupal/Templating/DrupalTemplate.php#L39" target='_blank'>framework\Hirudo\Impl\Drupal\Templating\DrupalTemplate.php at line 39</a>
 
 <h3 id="assign()">assign</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>assign</span> (mixed key, mixed value)

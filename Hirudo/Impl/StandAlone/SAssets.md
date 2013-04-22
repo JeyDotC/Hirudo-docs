@@ -5,7 +5,7 @@
 **Hirudo\Impl\StandAlone\SAssets**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/StandAlone/SAssets.php#L14" target='_blank'>framework\Hirudo\Impl\StandAlone\SAssets.php at line 14</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/StandAlone/SAssets.php#L14" target='_blank'>framework\Hirudo\Impl\StandAlone\SAssets.php at line 14</a>
 
 #Class SAssets#
 
@@ -59,7 +59,7 @@
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/StandAlone/SAssets.php#L18" target='_blank'>framework\Hirudo\Impl\StandAlone\SAssets.php at line 18</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/StandAlone/SAssets.php#L18" target='_blank'>framework\Hirudo\Impl\StandAlone\SAssets.php at line 18</a>
 
 <h3 id="aaddCSS()">aaddCSS</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>aaddCSS</span> (mixed cssPath)
@@ -71,7 +71,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/StandAlone/SAssets.php#L22" target='_blank'>framework\Hirudo\Impl\StandAlone\SAssets.php at line 22</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/StandAlone/SAssets.php#L22" target='_blank'>framework\Hirudo\Impl\StandAlone\SAssets.php at line 22</a>
 
 <h3 id="aaddJavaScript()">aaddJavaScript</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>aaddJavaScript</span> (mixed jsPath)
@@ -83,7 +83,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/StandAlone/SAssets.php#L26" target='_blank'>framework\Hirudo\Impl\StandAlone\SAssets.php at line 26</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/StandAlone/SAssets.php#L26" target='_blank'>framework\Hirudo\Impl\StandAlone\SAssets.php at line 26</a>
 
 <h3 id="addCSS()">addCSS</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>addCSS</span> (string cssPath, bool external)
@@ -104,7 +104,7 @@ the tag.</p></p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/StandAlone/SAssets.php#L34" target='_blank'>framework\Hirudo\Impl\StandAlone\SAssets.php at line 34</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/StandAlone/SAssets.php#L34" target='_blank'>framework\Hirudo\Impl\StandAlone\SAssets.php at line 34</a>
 
 <h3 id="addJavaScript()">addJavaScript</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>addJavaScript</span> (string jsPath, bool external)

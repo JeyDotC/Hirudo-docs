@@ -5,7 +5,7 @@
 **Hirudo\Core\Exceptions\TemplateNotFoundException**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Exceptions/TemplateNotFoundException.php#L12" target='_blank'>framework\Hirudo\Core\Exceptions\TemplateNotFoundException.php at line 12</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Exceptions/TemplateNotFoundException.php#L12" target='_blank'>framework\Hirudo\Core\Exceptions\TemplateNotFoundException.php at line 12</a>
 
 #Class TemplateNotFoundException#
 
@@ -42,7 +42,7 @@ Exception &gt; **TemplateNotFoundException**
 <h2>Constructor Detail</h2>
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Exceptions/TemplateNotFoundException.php#L14" target='_blank'>framework\Hirudo\Core\Exceptions\TemplateNotFoundException.php at line 14</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Exceptions/TemplateNotFoundException.php#L14" target='_blank'>framework\Hirudo\Core\Exceptions\TemplateNotFoundException.php at line 14</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (mixed viewFile)

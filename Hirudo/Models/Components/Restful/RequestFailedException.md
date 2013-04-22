@@ -5,7 +5,7 @@
 **Hirudo\Models\Components\Restful\RequestFailedException**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Models/Components/Restful/RestRequest.php#L387" target='_blank'>framework\Hirudo\Models\Components\Restful\RestRequest.php at line 387</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Models/Components/Restful/RestRequest.php#L387" target='_blank'>framework\Hirudo\Models\Components\Restful\RestRequest.php at line 387</a>
 
 #Class RequestFailedException#
 
@@ -48,7 +48,7 @@ Exception &gt; **RequestFailedException**
 <h2>Constructor Detail</h2>
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Models/Components/Restful/RestRequest.php#L392" target='_blank'>framework\Hirudo\Models\Components\Restful\RestRequest.php at line 392</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Models/Components/Restful/RestRequest.php#L392" target='_blank'>framework\Hirudo\Models\Components\Restful\RestRequest.php at line 392</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (mixed ch, mixed responseInfo, str url, int code)
@@ -61,7 +61,7 @@ Exception &gt; **RequestFailedException**
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Models/Components/Restful/RestRequest.php#L398" target='_blank'>framework\Hirudo\Models\Components\Restful\RestRequest.php at line 398</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Models/Components/Restful/RestRequest.php#L398" target='_blank'>framework\Hirudo\Models\Components\Restful\RestRequest.php at line 398</a>
 
 <h3 id="getErrorCode()">getErrorCode</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>getErrorCode</span> ()
@@ -73,7 +73,7 @@ Exception &gt; **RequestFailedException**
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Models/Components/Restful/RestRequest.php#L402" target='_blank'>framework\Hirudo\Models\Components\Restful\RestRequest.php at line 402</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Models/Components/Restful/RestRequest.php#L402" target='_blank'>framework\Hirudo\Models\Components\Restful\RestRequest.php at line 402</a>
 
 <h3 id="getResponseInfo()">getResponseInfo</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>getResponseInfo</span> ()

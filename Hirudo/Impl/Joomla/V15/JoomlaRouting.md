@@ -5,7 +5,7 @@
 **Hirudo\Impl\Joomla\V15\JoomlaRouting**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Joomla/V15/JoomlaRouting.php#L32" target='_blank'>framework\Hirudo\Impl\Joomla\V15\JoomlaRouting.php at line 32</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/Joomla/V15/JoomlaRouting.php#L32" target='_blank'>framework\Hirudo\Impl\Joomla\V15\JoomlaRouting.php at line 32</a>
 
 #Class JoomlaRouting#
 
@@ -56,7 +56,7 @@ and the given module name.</p></td>
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Joomla/V15/JoomlaRouting.php#L34" target='_blank'>framework\Hirudo\Impl\Joomla\V15\JoomlaRouting.php at line 34</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/Joomla/V15/JoomlaRouting.php#L34" target='_blank'>framework\Hirudo\Impl\Joomla\V15\JoomlaRouting.php at line 34</a>
 
 <h3 id="appAction()">appAction</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>appAction</span> (string app, string module, str task, array params)
@@ -78,7 +78,7 @@ and the given module name.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Joomla/V15/JoomlaRouting.php#L51" target='_blank'>framework\Hirudo\Impl\Joomla\V15\JoomlaRouting.php at line 51</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/Joomla/V15/JoomlaRouting.php#L51" target='_blank'>framework\Hirudo\Impl\Joomla\V15\JoomlaRouting.php at line 51</a>
 
 <h3 id="redirect()">redirect</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>redirect</span> (string url)
@@ -94,7 +94,7 @@ and the given module name.</p><dl>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Joomla/V15/JoomlaRouting.php#L56" target='_blank'>framework\Hirudo\Impl\Joomla\V15\JoomlaRouting.php at line 56</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/Joomla/V15/JoomlaRouting.php#L56" target='_blank'>framework\Hirudo\Impl\Joomla\V15\JoomlaRouting.php at line 56</a>
 
 <h3 id="getBaseURL()">getBaseURL</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>getBaseURL</span> ()

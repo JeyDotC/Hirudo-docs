@@ -5,7 +5,7 @@
 **Hirudo\Core\Cache\CacheFactoryInterface**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Cache/CacheFactoryInterface.php#L9" target='_blank'>framework\Hirudo\Core\Cache\CacheFactoryInterface.php at line 9</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Cache/CacheFactoryInterface.php#L9" target='_blank'>framework\Hirudo\Core\Cache\CacheFactoryInterface.php at line 9</a>
 
 #Interface CacheFactoryInterface#
 
@@ -42,7 +42,7 @@
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Cache/CacheFactoryInterface.php#L15" target='_blank'>framework\Hirudo\Core\Cache\CacheFactoryInterface.php at line 15</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Cache/CacheFactoryInterface.php#L15" target='_blank'>framework\Hirudo\Core\Cache\CacheFactoryInterface.php at line 15</a>
 
 <h3 id="setConfiguration()">setConfiguration</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>setConfiguration</span> (mixed configuration)
@@ -54,7 +54,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Cache/CacheFactoryInterface.php#L23" target='_blank'>framework\Hirudo\Core\Cache\CacheFactoryInterface.php at line 23</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Cache/CacheFactoryInterface.php#L23" target='_blank'>framework\Hirudo\Core\Cache\CacheFactoryInterface.php at line 23</a>
 
 <h3 id="createCacheInstance()">createCacheInstance</h3>
 <span class='k'></span> <span class='nx'>Doctrine\Common\Cache\Cache</span> <span class='nf'>createCacheInstance</span> (mixed salt)

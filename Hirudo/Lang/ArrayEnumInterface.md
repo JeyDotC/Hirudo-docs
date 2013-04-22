@@ -5,7 +5,7 @@
 **Hirudo\Lang\ArrayEnumInterface**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Lang/ArrayEnumInterface.php#L9" target='_blank'>framework\Hirudo\Lang\ArrayEnumInterface.php at line 9</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Lang/ArrayEnumInterface.php#L9" target='_blank'>framework\Hirudo\Lang\ArrayEnumInterface.php at line 9</a>
 
 #Interface ArrayEnumInterface#
 
@@ -46,7 +46,7 @@
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Lang/ArrayEnumInterface.php#L11" target='_blank'>framework\Hirudo\Lang\ArrayEnumInterface.php at line 11</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Lang/ArrayEnumInterface.php#L11" target='_blank'>framework\Hirudo\Lang\ArrayEnumInterface.php at line 11</a>
 
 <h3 id="values()">values</h3>
 <span class='k'>static </span> <span class='nx'>void</span> <span class='nf'>values</span> ()
@@ -58,7 +58,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Lang/ArrayEnumInterface.php#L12" target='_blank'>framework\Hirudo\Lang\ArrayEnumInterface.php at line 12</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Lang/ArrayEnumInterface.php#L12" target='_blank'>framework\Hirudo\Lang\ArrayEnumInterface.php at line 12</a>
 
 <h3 id="hasValue()">hasValue</h3>
 <span class='k'>static </span> <span class='nx'>void</span> <span class='nf'>hasValue</span> (mixed value)
@@ -70,7 +70,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Lang/ArrayEnumInterface.php#L13" target='_blank'>framework\Hirudo\Lang\ArrayEnumInterface.php at line 13</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Lang/ArrayEnumInterface.php#L13" target='_blank'>framework\Hirudo\Lang\ArrayEnumInterface.php at line 13</a>
 
 <h3 id="fromValue()">fromValue</h3>
 <span class='k'>static </span> <span class='nx'>void</span> <span class='nf'>fromValue</span> (mixed value)

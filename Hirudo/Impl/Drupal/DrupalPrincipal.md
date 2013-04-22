@@ -5,7 +5,7 @@
 **Hirudo\Impl\Drupal\DrupalPrincipal**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Drupal/DrupalPrincipal.php#L31" target='_blank'>framework\Hirudo\Impl\Drupal\DrupalPrincipal.php at line 31</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/Drupal/DrupalPrincipal.php#L31" target='_blank'>framework\Hirudo\Impl\Drupal\DrupalPrincipal.php at line 31</a>
 
 #Class DrupalPrincipal#
 
@@ -59,7 +59,7 @@
 <h2>Constructor Detail</h2>
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Drupal/DrupalPrincipal.php#L56" target='_blank'>framework\Hirudo\Impl\Drupal\DrupalPrincipal.php at line 56</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/Drupal/DrupalPrincipal.php#L56" target='_blank'>framework\Hirudo\Impl\Drupal\DrupalPrincipal.php at line 56</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> ()
@@ -72,7 +72,7 @@
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Drupal/DrupalPrincipal.php#L43" target='_blank'>framework\Hirudo\Impl\Drupal\DrupalPrincipal.php at line 43</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/Drupal/DrupalPrincipal.php#L43" target='_blank'>framework\Hirudo\Impl\Drupal\DrupalPrincipal.php at line 43</a>
 
 <h3 id="instance()">instance</h3>
 <span class='k'>static </span> <span class='nx'>JPrincipal</span> <span class='nf'>instance</span> ()
@@ -84,7 +84,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Drupal/DrupalPrincipal.php#L69" target='_blank'>framework\Hirudo\Impl\Drupal\DrupalPrincipal.php at line 69</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/Drupal/DrupalPrincipal.php#L69" target='_blank'>framework\Hirudo\Impl\Drupal\DrupalPrincipal.php at line 69</a>
 
 <h3 id="isAnonimous()">isAnonimous</h3>
 <span class='k'></span> <span class='nx'>boolean</span> <span class='nf'>isAnonimous</span> ()

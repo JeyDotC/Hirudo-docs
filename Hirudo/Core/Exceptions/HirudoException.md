@@ -5,7 +5,7 @@
 **Hirudo\Core\Exceptions\HirudoException**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Exceptions/HirudoException.php#L37" target='_blank'>framework\Hirudo\Core\Exceptions\HirudoException.php at line 37</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Exceptions/HirudoException.php#L37" target='_blank'>framework\Hirudo\Core\Exceptions\HirudoException.php at line 37</a>
 
 #Class HirudoException#
 
@@ -67,7 +67,7 @@ are wraped into an instance of this class as the 'previous' exception.</p></p></
 <h2>Constructor Detail</h2>
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Exceptions/HirudoException.php#L52" target='_blank'>framework\Hirudo\Core\Exceptions\HirudoException.php at line 52</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Exceptions/HirudoException.php#L52" target='_blank'>framework\Hirudo\Core\Exceptions\HirudoException.php at line 52</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (<a href="https://github.com/JeyDotC/Hirudo-docs/blob/master/Hirudo/Core/Context/ModuleCall.md">ModuleCall</a> call, string message, \Exception previous)
@@ -86,7 +86,7 @@ are wraped into an instance of this class as the 'previous' exception.</p></p></
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Exceptions/HirudoException.php#L70" target='_blank'>framework\Hirudo\Core\Exceptions\HirudoException.php at line 70</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Exceptions/HirudoException.php#L70" target='_blank'>framework\Hirudo\Core\Exceptions\HirudoException.php at line 70</a>
 
 <h3 id="getApp()">getApp</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>getApp</span> ()
@@ -102,7 +102,7 @@ are wraped into an instance of this class as the 'previous' exception.</p></p></
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Exceptions/HirudoException.php#L79" target='_blank'>framework\Hirudo\Core\Exceptions\HirudoException.php at line 79</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Exceptions/HirudoException.php#L79" target='_blank'>framework\Hirudo\Core\Exceptions\HirudoException.php at line 79</a>
 
 <h3 id="getModule()">getModule</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>getModule</span> ()
@@ -118,7 +118,7 @@ are wraped into an instance of this class as the 'previous' exception.</p></p></
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Exceptions/HirudoException.php#L87" target='_blank'>framework\Hirudo\Core\Exceptions\HirudoException.php at line 87</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Exceptions/HirudoException.php#L87" target='_blank'>framework\Hirudo\Core\Exceptions\HirudoException.php at line 87</a>
 
 <h3 id="getTask()">getTask</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>getTask</span> ()

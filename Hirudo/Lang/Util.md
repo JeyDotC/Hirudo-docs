@@ -5,7 +5,7 @@
 **Hirudo\Lang\Util**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Lang/Util.php#L11" target='_blank'>framework\Hirudo\Lang\Util.php at line 11</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Lang/Util.php#L11" target='_blank'>framework\Hirudo\Lang\Util.php at line 11</a>
 
 #Class Util#
 
@@ -43,7 +43,7 @@ until I find a better place for them.</p></div>
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Lang/Util.php#L19" target='_blank'>framework\Hirudo\Lang\Util.php at line 19</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Lang/Util.php#L19" target='_blank'>framework\Hirudo\Lang\Util.php at line 19</a>
 
 <h3 id="getTypeFromDocComment()">getTypeFromDocComment</h3>
 <span class='k'>static </span> <span class='nx'>string</span> <span class='nf'>getTypeFromDocComment</span> (string docComment)
@@ -59,7 +59,7 @@ until I find a better place for them.</p></div>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Lang/Util.php#L34" target='_blank'>framework\Hirudo\Lang\Util.php at line 34</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Lang/Util.php#L34" target='_blank'>framework\Hirudo\Lang\Util.php at line 34</a>
 
 <h3 id="pascalCaseSplit()">pascalCaseSplit</h3>
 <span class='k'>static </span> <span class='nx'>void</span> <span class='nf'>pascalCaseSplit</span> (mixed string)

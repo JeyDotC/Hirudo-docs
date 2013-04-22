@@ -5,7 +5,7 @@
 **Hirudo\Models\Components\Restful\RestRequest**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Models/Components/Restful/RestRequest.php#L148" target='_blank'>framework\Hirudo\Models\Components\Restful\RestRequest.php at line 148</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Models/Components/Restful/RestRequest.php#L148" target='_blank'>framework\Hirudo\Models\Components\Restful\RestRequest.php at line 148</a>
 
 #Class RestRequest#
 
@@ -177,7 +177,7 @@
 
 ##Field Detail##
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Models/Components/Restful/RestRequest.php#L155" target='_blank'>framework\Hirudo\Models\Components\Restful\RestRequest.php at line 155</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Models/Components/Restful/RestRequest.php#L155" target='_blank'>framework\Hirudo\Models\Components\Restful\RestRequest.php at line 155</a>
 
 <h3 id="password">password</h3>
 <span class='k'>protected </span> <span class='nx'>mixed</span><span class='no'> $password</span><span class='o'> = null</span>
@@ -189,7 +189,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Models/Components/Restful/RestRequest.php#L152" target='_blank'>framework\Hirudo\Models\Components\Restful\RestRequest.php at line 152</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Models/Components/Restful/RestRequest.php#L152" target='_blank'>framework\Hirudo\Models\Components\Restful\RestRequest.php at line 152</a>
 
 <h3 id="requestBody">requestBody</h3>
 <span class='k'>protected </span> <span class='nx'>mixed</span><span class='no'> $requestBody</span><div class="details">
@@ -199,7 +199,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Models/Components/Restful/RestRequest.php#L153" target='_blank'>framework\Hirudo\Models\Components\Restful\RestRequest.php at line 153</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Models/Components/Restful/RestRequest.php#L153" target='_blank'>framework\Hirudo\Models\Components\Restful\RestRequest.php at line 153</a>
 
 <h3 id="requestLength">requestLength</h3>
 <span class='k'>protected </span> <span class='nx'>mixed</span><span class='no'> $requestLength</span><span class='o'> = 0</span>
@@ -211,7 +211,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Models/Components/Restful/RestRequest.php#L156" target='_blank'>framework\Hirudo\Models\Components\Restful\RestRequest.php at line 156</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Models/Components/Restful/RestRequest.php#L156" target='_blank'>framework\Hirudo\Models\Components\Restful\RestRequest.php at line 156</a>
 
 <h3 id="responseBody">responseBody</h3>
 <span class='k'>protected </span> <span class='nx'>mixed</span><span class='no'> $responseBody</span><span class='o'> = null</span>
@@ -223,7 +223,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Models/Components/Restful/RestRequest.php#L157" target='_blank'>framework\Hirudo\Models\Components\Restful\RestRequest.php at line 157</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Models/Components/Restful/RestRequest.php#L157" target='_blank'>framework\Hirudo\Models\Components\Restful\RestRequest.php at line 157</a>
 
 <h3 id="responseInfo">responseInfo</h3>
 <span class='k'>protected </span> <span class='nx'>mixed</span><span class='no'> $responseInfo</span><span class='o'> = null</span>
@@ -235,7 +235,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Models/Components/Restful/RestRequest.php#L158" target='_blank'>framework\Hirudo\Models\Components\Restful\RestRequest.php at line 158</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Models/Components/Restful/RestRequest.php#L158" target='_blank'>framework\Hirudo\Models\Components\Restful\RestRequest.php at line 158</a>
 
 <h3 id="responseStatus">responseStatus</h3>
 <span class='k'>protected </span> <span class='nx'>mixed</span><span class='no'> $responseStatus</span><span class='o'> = 0</span>
@@ -247,7 +247,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Models/Components/Restful/RestRequest.php#L150" target='_blank'>framework\Hirudo\Models\Components\Restful\RestRequest.php at line 150</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Models/Components/Restful/RestRequest.php#L150" target='_blank'>framework\Hirudo\Models\Components\Restful\RestRequest.php at line 150</a>
 
 <h3 id="url">url</h3>
 <span class='k'>protected </span> <span class='nx'>mixed</span><span class='no'> $url</span><div class="details">
@@ -257,7 +257,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Models/Components/Restful/RestRequest.php#L154" target='_blank'>framework\Hirudo\Models\Components\Restful\RestRequest.php at line 154</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Models/Components/Restful/RestRequest.php#L154" target='_blank'>framework\Hirudo\Models\Components\Restful\RestRequest.php at line 154</a>
 
 <h3 id="username">username</h3>
 <span class='k'>protected </span> <span class='nx'>mixed</span><span class='no'> $username</span><span class='o'> = null</span>
@@ -269,7 +269,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Models/Components/Restful/RestRequest.php#L151" target='_blank'>framework\Hirudo\Models\Components\Restful\RestRequest.php at line 151</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Models/Components/Restful/RestRequest.php#L151" target='_blank'>framework\Hirudo\Models\Components\Restful\RestRequest.php at line 151</a>
 
 <h3 id="verb">verb</h3>
 <span class='k'>protected </span> <span class='nx'>mixed</span><span class='no'> $verb</span><div class="details">
@@ -281,7 +281,7 @@
 <h2>Constructor Detail</h2>
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Models/Components/Restful/RestRequest.php#L167" target='_blank'>framework\Hirudo\Models\Components\Restful\RestRequest.php at line 167</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Models/Components/Restful/RestRequest.php#L167" target='_blank'>framework\Hirudo\Models\Components\Restful\RestRequest.php at line 167</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> (string url, string verb, string requestBody)
@@ -300,7 +300,7 @@
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Models/Components/Restful/RestRequest.php#L176" target='_blank'>framework\Hirudo\Models\Components\Restful\RestRequest.php at line 176</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Models/Components/Restful/RestRequest.php#L176" target='_blank'>framework\Hirudo\Models\Components\Restful\RestRequest.php at line 176</a>
 
 <h3 id="flush()">flush</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>flush</span> ()
@@ -312,7 +312,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Models/Components/Restful/RestRequest.php#L190" target='_blank'>framework\Hirudo\Models\Components\Restful\RestRequest.php at line 190</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Models/Components/Restful/RestRequest.php#L190" target='_blank'>framework\Hirudo\Models\Components\Restful\RestRequest.php at line 190</a>
 
 <h3 id="execute()">execute</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>execute</span> ()
@@ -329,7 +329,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Models/Components/Restful/RestRequest.php#L241" target='_blank'>framework\Hirudo\Models\Components\Restful\RestRequest.php at line 241</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Models/Components/Restful/RestRequest.php#L241" target='_blank'>framework\Hirudo\Models\Components\Restful\RestRequest.php at line 241</a>
 
 <h3 id="executeGet()">executeGet</h3>
 <span class='k'>protected </span> <span class='nx'>void</span> <span class='nf'>executeGet</span> (type ch)
@@ -341,7 +341,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Models/Components/Restful/RestRequest.php#L249" target='_blank'>framework\Hirudo\Models\Components\Restful\RestRequest.php at line 249</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Models/Components/Restful/RestRequest.php#L249" target='_blank'>framework\Hirudo\Models\Components\Restful\RestRequest.php at line 249</a>
 
 <h3 id="executePost()">executePost</h3>
 <span class='k'>protected </span> <span class='nx'>void</span> <span class='nf'>executePost</span> (type ch)
@@ -353,7 +353,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Models/Components/Restful/RestRequest.php#L265" target='_blank'>framework\Hirudo\Models\Components\Restful\RestRequest.php at line 265</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Models/Components/Restful/RestRequest.php#L265" target='_blank'>framework\Hirudo\Models\Components\Restful\RestRequest.php at line 265</a>
 
 <h3 id="executePut()">executePut</h3>
 <span class='k'>protected </span> <span class='nx'>void</span> <span class='nf'>executePut</span> (type ch)
@@ -365,7 +365,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Models/Components/Restful/RestRequest.php#L288" target='_blank'>framework\Hirudo\Models\Components\Restful\RestRequest.php at line 288</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Models/Components/Restful/RestRequest.php#L288" target='_blank'>framework\Hirudo\Models\Components\Restful\RestRequest.php at line 288</a>
 
 <h3 id="executeDelete()">executeDelete</h3>
 <span class='k'>protected </span> <span class='nx'>void</span> <span class='nf'>executeDelete</span> (mixed ch)
@@ -377,7 +377,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Models/Components/Restful/RestRequest.php#L294" target='_blank'>framework\Hirudo\Models\Components\Restful\RestRequest.php at line 294</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Models/Components/Restful/RestRequest.php#L294" target='_blank'>framework\Hirudo\Models\Components\Restful\RestRequest.php at line 294</a>
 
 <h3 id="doExecute()">doExecute</h3>
 <span class='k'>protected </span> <span class='nx'>void</span> <span class='nf'>doExecute</span> (mixed curlHandle)
@@ -389,7 +389,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Models/Components/Restful/RestRequest.php#L307" target='_blank'>framework\Hirudo\Models\Components\Restful\RestRequest.php at line 307</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Models/Components/Restful/RestRequest.php#L307" target='_blank'>framework\Hirudo\Models\Components\Restful\RestRequest.php at line 307</a>
 
 <h3 id="setCurlOpts()">setCurlOpts</h3>
 <span class='k'>protected </span> <span class='nx'>void</span> <span class='nf'>setCurlOpts</span> (mixed curlHandle)
@@ -401,7 +401,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Models/Components/Restful/RestRequest.php#L314" target='_blank'>framework\Hirudo\Models\Components\Restful\RestRequest.php at line 314</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Models/Components/Restful/RestRequest.php#L314" target='_blank'>framework\Hirudo\Models\Components\Restful\RestRequest.php at line 314</a>
 
 <h3 id="setAuth()">setAuth</h3>
 <span class='k'>protected </span> <span class='nx'>void</span> <span class='nf'>setAuth</span> (mixed curlHandle)
@@ -413,7 +413,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Models/Components/Restful/RestRequest.php#L323" target='_blank'>framework\Hirudo\Models\Components\Restful\RestRequest.php at line 323</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Models/Components/Restful/RestRequest.php#L323" target='_blank'>framework\Hirudo\Models\Components\Restful\RestRequest.php at line 323</a>
 
 <h3 id="getPassword()">getPassword</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>getPassword</span> ()
@@ -425,7 +425,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Models/Components/Restful/RestRequest.php#L327" target='_blank'>framework\Hirudo\Models\Components\Restful\RestRequest.php at line 327</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Models/Components/Restful/RestRequest.php#L327" target='_blank'>framework\Hirudo\Models\Components\Restful\RestRequest.php at line 327</a>
 
 <h3 id="setPassword()">setPassword</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>setPassword</span> (mixed password)
@@ -437,7 +437,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Models/Components/Restful/RestRequest.php#L331" target='_blank'>framework\Hirudo\Models\Components\Restful\RestRequest.php at line 331</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Models/Components/Restful/RestRequest.php#L331" target='_blank'>framework\Hirudo\Models\Components\Restful\RestRequest.php at line 331</a>
 
 <h3 id="getResponseBody()">getResponseBody</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>getResponseBody</span> ()
@@ -449,7 +449,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Models/Components/Restful/RestRequest.php#L335" target='_blank'>framework\Hirudo\Models\Components\Restful\RestRequest.php at line 335</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Models/Components/Restful/RestRequest.php#L335" target='_blank'>framework\Hirudo\Models\Components\Restful\RestRequest.php at line 335</a>
 
 <h3 id="getResponseInfo()">getResponseInfo</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>getResponseInfo</span> ()
@@ -461,7 +461,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Models/Components/Restful/RestRequest.php#L339" target='_blank'>framework\Hirudo\Models\Components\Restful\RestRequest.php at line 339</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Models/Components/Restful/RestRequest.php#L339" target='_blank'>framework\Hirudo\Models\Components\Restful\RestRequest.php at line 339</a>
 
 <h3 id="getUrl()">getUrl</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>getUrl</span> ()
@@ -473,7 +473,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Models/Components/Restful/RestRequest.php#L343" target='_blank'>framework\Hirudo\Models\Components\Restful\RestRequest.php at line 343</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Models/Components/Restful/RestRequest.php#L343" target='_blank'>framework\Hirudo\Models\Components\Restful\RestRequest.php at line 343</a>
 
 <h3 id="setUrl()">setUrl</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>setUrl</span> (mixed url)
@@ -485,7 +485,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Models/Components/Restful/RestRequest.php#L347" target='_blank'>framework\Hirudo\Models\Components\Restful\RestRequest.php at line 347</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Models/Components/Restful/RestRequest.php#L347" target='_blank'>framework\Hirudo\Models\Components\Restful\RestRequest.php at line 347</a>
 
 <h3 id="getUsername()">getUsername</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>getUsername</span> ()
@@ -497,7 +497,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Models/Components/Restful/RestRequest.php#L351" target='_blank'>framework\Hirudo\Models\Components\Restful\RestRequest.php at line 351</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Models/Components/Restful/RestRequest.php#L351" target='_blank'>framework\Hirudo\Models\Components\Restful\RestRequest.php at line 351</a>
 
 <h3 id="setUsername()">setUsername</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>setUsername</span> (mixed username)
@@ -509,7 +509,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Models/Components/Restful/RestRequest.php#L355" target='_blank'>framework\Hirudo\Models\Components\Restful\RestRequest.php at line 355</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Models/Components/Restful/RestRequest.php#L355" target='_blank'>framework\Hirudo\Models\Components\Restful\RestRequest.php at line 355</a>
 
 <h3 id="getVerb()">getVerb</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>getVerb</span> ()
@@ -521,7 +521,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Models/Components/Restful/RestRequest.php#L359" target='_blank'>framework\Hirudo\Models\Components\Restful\RestRequest.php at line 359</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Models/Components/Restful/RestRequest.php#L359" target='_blank'>framework\Hirudo\Models\Components\Restful\RestRequest.php at line 359</a>
 
 <h3 id="setVerb()">setVerb</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>setVerb</span> (mixed verb)
@@ -533,7 +533,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Models/Components/Restful/RestRequest.php#L363" target='_blank'>framework\Hirudo\Models\Components\Restful\RestRequest.php at line 363</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Models/Components/Restful/RestRequest.php#L363" target='_blank'>framework\Hirudo\Models\Components\Restful\RestRequest.php at line 363</a>
 
 <h3 id="getRequestBody()">getRequestBody</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>getRequestBody</span> ()
@@ -545,7 +545,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Models/Components/Restful/RestRequest.php#L367" target='_blank'>framework\Hirudo\Models\Components\Restful\RestRequest.php at line 367</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Models/Components/Restful/RestRequest.php#L367" target='_blank'>framework\Hirudo\Models\Components\Restful\RestRequest.php at line 367</a>
 
 <h3 id="setRequestBody()">setRequestBody</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>setRequestBody</span> (mixed requestBody)
@@ -557,7 +557,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Models/Components/Restful/RestRequest.php#L371" target='_blank'>framework\Hirudo\Models\Components\Restful\RestRequest.php at line 371</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Models/Components/Restful/RestRequest.php#L371" target='_blank'>framework\Hirudo\Models\Components\Restful\RestRequest.php at line 371</a>
 
 <h3 id="addHeaderVariable()">addHeaderVariable</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>addHeaderVariable</span> (mixed name, mixed value)

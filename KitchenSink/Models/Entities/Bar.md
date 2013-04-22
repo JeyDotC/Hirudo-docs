@@ -5,7 +5,7 @@
 **KitchenSink\Models\Entities\Bar**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/KitchenSink/Models/Entities/Bar.php#L9" target='_blank'>src\KitchenSink\Models\Entities\Bar.php at line 9</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/src/KitchenSink/Models/Entities/Bar.php#L9" target='_blank'>src\KitchenSink\Models\Entities\Bar.php at line 9</a>
 
 #Class Bar#
 
@@ -50,7 +50,7 @@
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/KitchenSink/Models/Entities/Bar.php#L14" target='_blank'>src\KitchenSink\Models\Entities\Bar.php at line 14</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/src/KitchenSink/Models/Entities/Bar.php#L14" target='_blank'>src\KitchenSink\Models\Entities\Bar.php at line 14</a>
 
 <h3 id="getId()">getId</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>getId</span> ()
@@ -62,7 +62,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/KitchenSink/Models/Entities/Bar.php#L18" target='_blank'>src\KitchenSink\Models\Entities\Bar.php at line 18</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/src/KitchenSink/Models/Entities/Bar.php#L18" target='_blank'>src\KitchenSink\Models\Entities\Bar.php at line 18</a>
 
 <h3 id="setId()">setId</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>setId</span> (mixed id)
@@ -74,7 +74,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/KitchenSink/Models/Entities/Bar.php#L22" target='_blank'>src\KitchenSink\Models\Entities\Bar.php at line 22</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/src/KitchenSink/Models/Entities/Bar.php#L22" target='_blank'>src\KitchenSink\Models\Entities\Bar.php at line 22</a>
 
 <h3 id="getName()">getName</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>getName</span> ()
@@ -86,7 +86,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/src/KitchenSink/Models/Entities/Bar.php#L26" target='_blank'>src\KitchenSink\Models\Entities\Bar.php at line 26</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/src/KitchenSink/Models/Entities/Bar.php#L26" target='_blank'>src\KitchenSink\Models\Entities\Bar.php at line 26</a>
 
 <h3 id="setName()">setName</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>setName</span> (mixed name)

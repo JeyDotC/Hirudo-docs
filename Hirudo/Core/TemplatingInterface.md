@@ -5,7 +5,7 @@
 **Hirudo\Core\TemplatingInterface**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/TemplatingInterface.php#L32" target='_blank'>framework\Hirudo\Core\TemplatingInterface.php at line 32</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/TemplatingInterface.php#L32" target='_blank'>framework\Hirudo\Core\TemplatingInterface.php at line 32</a>
 
 #Interface TemplatingInterface#
 
@@ -56,7 +56,7 @@ it to load and use its extensions.</p></td>
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/TemplatingInterface.php#L41" target='_blank'>framework\Hirudo\Core\TemplatingInterface.php at line 41</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/TemplatingInterface.php#L41" target='_blank'>framework\Hirudo\Core\TemplatingInterface.php at line 41</a>
 
 <h3 id="assign()">assign</h3>
 <span class='k'></span> <span class='nx'>mixed</span> <span class='nf'>assign</span> (string name, mixed value)
@@ -75,7 +75,7 @@ it to load and use its extensions.</p></td>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/TemplatingInterface.php#L51" target='_blank'>framework\Hirudo\Core\TemplatingInterface.php at line 51</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/TemplatingInterface.php#L51" target='_blank'>framework\Hirudo\Core\TemplatingInterface.php at line 51</a>
 
 <h3 id="display()">display</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>display</span> (string moduleDir, string view)
@@ -94,7 +94,7 @@ it to load and use its extensions.</p></td>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/TemplatingInterface.php#L60" target='_blank'>framework\Hirudo\Core\TemplatingInterface.php at line 60</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/TemplatingInterface.php#L60" target='_blank'>framework\Hirudo\Core\TemplatingInterface.php at line 60</a>
 
 <h3 id="pick()">pick</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>pick</span> (array views)
@@ -112,7 +112,7 @@ it to load and use its extensions.</p></td>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/TemplatingInterface.php#L65" target='_blank'>framework\Hirudo\Core\TemplatingInterface.php at line 65</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/TemplatingInterface.php#L65" target='_blank'>framework\Hirudo\Core\TemplatingInterface.php at line 65</a>
 
 <h3 id="getFileExtension()">getFileExtension</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>getFileExtension</span> ()
@@ -128,7 +128,7 @@ it to load and use its extensions.</p></td>
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/TemplatingInterface.php#L74" target='_blank'>framework\Hirudo\Core\TemplatingInterface.php at line 74</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/TemplatingInterface.php#L74" target='_blank'>framework\Hirudo\Core\TemplatingInterface.php at line 74</a>
 
 <h3 id="addExtensionsPath()">addExtensionsPath</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>addExtensionsPath</span> (string path)

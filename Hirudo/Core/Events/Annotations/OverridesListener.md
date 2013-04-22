@@ -5,7 +5,7 @@
 **Hirudo\Core\Events\Annotations\OverridesListener**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Events/Annotations/OverridesListener.php#L14" target='_blank'>framework\Hirudo\Core\Events\Annotations\OverridesListener.php at line 14</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Events/Annotations/OverridesListener.php#L14" target='_blank'>framework\Hirudo\Core\Events\Annotations\OverridesListener.php at line 14</a>
 
 #Class OverridesListener#
 
@@ -43,7 +43,7 @@
 
 ##Field Detail##
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Core/Events/Annotations/OverridesListener.php#L20" target='_blank'>framework\Hirudo\Core\Events\Annotations\OverridesListener.php at line 20</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Core/Events/Annotations/OverridesListener.php#L20" target='_blank'>framework\Hirudo\Core\Events\Annotations\OverridesListener.php at line 20</a>
 
 <h3 id="id">id</h3>
 <span class='k'></span> <span class='nx'>string</span><span class='no'> $id</span><div class="details">

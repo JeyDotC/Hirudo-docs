@@ -5,7 +5,7 @@
 **Hirudo\Impl\Drupal\Templating\DrupalTemplating**
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Drupal/Templating/DrupalTemplating.php#L34" target='_blank'>framework\Hirudo\Impl\Drupal\Templating\DrupalTemplating.php at line 34</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/Drupal/Templating/DrupalTemplating.php#L34" target='_blank'>framework\Hirudo\Impl\Drupal\Templating\DrupalTemplating.php at line 34</a>
 
 #Class DrupalTemplating#
 
@@ -72,7 +72,7 @@
 <h2>Constructor Detail</h2>
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Drupal/Templating/DrupalTemplating.php#L45" target='_blank'>framework\Hirudo\Impl\Drupal\Templating\DrupalTemplating.php at line 45</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/Drupal/Templating/DrupalTemplating.php#L45" target='_blank'>framework\Hirudo\Impl\Drupal\Templating\DrupalTemplating.php at line 45</a>
 
 <h3 id="__construct">__construct</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>__construct</span> ()
@@ -85,7 +85,7 @@
 
 <h2 id="detail_method">Method Detail</h2>
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Drupal/Templating/DrupalTemplating.php#L56" target='_blank'>framework\Hirudo\Impl\Drupal\Templating\DrupalTemplating.php at line 56</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/Drupal/Templating/DrupalTemplating.php#L56" target='_blank'>framework\Hirudo\Impl\Drupal\Templating\DrupalTemplating.php at line 56</a>
 
 <h3 id="assign()">assign</h3>
 <span class='k'></span> <span class='nx'>mixed</span> <span class='nf'>assign</span> (string name, mixed value)
@@ -104,7 +104,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Drupal/Templating/DrupalTemplating.php#L68" target='_blank'>framework\Hirudo\Impl\Drupal\Templating\DrupalTemplating.php at line 68</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/Drupal/Templating/DrupalTemplating.php#L68" target='_blank'>framework\Hirudo\Impl\Drupal\Templating\DrupalTemplating.php at line 68</a>
 
 <h3 id="display()">display</h3>
 <span class='k'></span> <span class='nx'>string</span> <span class='nf'>display</span> (string view)
@@ -122,7 +122,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Drupal/Templating/DrupalTemplating.php#L82" target='_blank'>framework\Hirudo\Impl\Drupal\Templating\DrupalTemplating.php at line 82</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/Drupal/Templating/DrupalTemplating.php#L82" target='_blank'>framework\Hirudo\Impl\Drupal\Templating\DrupalTemplating.php at line 82</a>
 
 <h3 id="instance()">instance</h3>
 <span class='k'>static </span> <span class='nx'>delegateTemplating</span> <span class='nf'>instance</span> ()
@@ -134,7 +134,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Drupal/Templating/DrupalTemplating.php#L95" target='_blank'>framework\Hirudo\Impl\Drupal\Templating\DrupalTemplating.php at line 95</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/Drupal/Templating/DrupalTemplating.php#L95" target='_blank'>framework\Hirudo\Impl\Drupal\Templating\DrupalTemplating.php at line 95</a>
 
 <h3 id="addExtensionsPath()">addExtensionsPath</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>addExtensionsPath</span> (string path)
@@ -150,7 +150,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Drupal/Templating/DrupalTemplating.php#L99" target='_blank'>framework\Hirudo\Impl\Drupal\Templating\DrupalTemplating.php at line 99</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/Drupal/Templating/DrupalTemplating.php#L99" target='_blank'>framework\Hirudo\Impl\Drupal\Templating\DrupalTemplating.php at line 99</a>
 
 <h3 id="pick()">pick</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>pick</span> (mixed views)
@@ -162,7 +162,7 @@
 - - -
 
 
-<a href="https://github.com/JeyDotC/Hirudo/blob/master/framework/Hirudo/Impl/Drupal/Templating/DrupalTemplating.php#L109" target='_blank'>framework\Hirudo\Impl\Drupal\Templating\DrupalTemplating.php at line 109</a>
+<a href="https://github.com/JeyDotC/Hirudo/blob/make-composer-compatible/framework/Hirudo/Impl/Drupal/Templating/DrupalTemplating.php#L109" target='_blank'>framework\Hirudo\Impl\Drupal\Templating\DrupalTemplating.php at line 109</a>
 
 <h3 id="getFileExtension()">getFileExtension</h3>
 <span class='k'></span> <span class='nx'>void</span> <span class='nf'>getFileExtension</span> ()
